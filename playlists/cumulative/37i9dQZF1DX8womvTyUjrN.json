@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: LOS MENOR3S",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Irepelusa",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 141663,
       "name": "(no) te quiero perder - BY BERSHKA MUSIC",
       "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160768,
       "name": "24 HORAS (TRAGADO)",
       "url": "https://open.spotify.com/track/0ojUyEhzan2BZ0daOV05jV"
@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
+    },
+    {
+      "album": {
         "name": "BRUTAL",
         "url": "https://open.spotify.com/album/5ezpjFttuIxLBWH0d96WDO"
       },
@@ -4644,7 +4662,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190310,
       "name": "Como Te Pienso Yo",
       "url": "https://open.spotify.com/track/0CPZduaSTKevb1AnrwYTjs"
@@ -5280,6 +5298,24 @@
       "duration_ms": 143538,
       "name": "COSAS DEL AMOR (feat. KICKBOMBO)",
       "url": "https://open.spotify.com/track/4QShpVwkoUtMT2OLEYE4zD"
+    },
+    {
+      "album": {
+        "name": "cosas malas de m\u00ed",
+        "url": "https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179834,
+      "name": "cosas malas de m\u00ed",
+      "url": "https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT"
     },
     {
       "album": {
@@ -6296,7 +6332,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201500,
       "name": "desamarte",
       "url": "https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC"
@@ -15082,7 +15118,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 163500,
       "name": "modo avi\u00f3n",
       "url": "https://open.spotify.com/track/69pSiwDPhES4RkVIloawsj"
@@ -15766,7 +15802,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 142894,
       "name": "Nigiri",
       "url": "https://open.spotify.com/track/4jWBjBcoLx4HVo5VDvcTWY"
@@ -18648,7 +18684,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160000,
       "name": "Plenitud",
       "url": "https://open.spotify.com/track/7C038Cwnrrnsss04hPgRCw"
@@ -19222,6 +19258,24 @@
       "duration_ms": 175477,
       "name": "PROTAGONISTAS",
       "url": "https://open.spotify.com/track/3EAKy7Tc7ZuUg9Q8APgYDa"
+    },
+    {
+      "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "album": {
@@ -20451,6 +20505,24 @@
     },
     {
       "album": {
+        "name": "ROTO",
+        "url": "https://open.spotify.com/album/2w8nOWgRTKp6aBc2alK97j"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128709,
+      "name": "ROTO",
+      "url": "https://open.spotify.com/track/4WZ1aRk3eQ8hSTLo7gvK3m"
+    },
+    {
+      "album": {
         "name": "RUB\u00cd",
         "url": "https://open.spotify.com/album/2kzPYO0QtAeGO9ghlo78aJ"
       },
@@ -20823,6 +20895,28 @@
     },
     {
       "album": {
+        "name": "se van las luces",
+        "url": "https://open.spotify.com/album/5uXqLKJC1a3LKF1Zjg9mvu"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        },
+        {
+          "name": "Sotomonte",
+          "url": "https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171892,
+      "name": "se van las luces",
+      "url": "https://open.spotify.com/track/0MTINDkhOLAFf9YF0E34kq"
+    },
+    {
+      "album": {
         "name": "Secuela",
         "url": "https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP"
       },
@@ -21136,7 +21230,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 235748,
       "name": "SI NO EST\u00c1S T\u00da",
       "url": "https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt"
@@ -22245,6 +22339,24 @@
     },
     {
       "album": {
+        "name": "TA TE TI",
+        "url": "https://open.spotify.com/album/4TFCAMAtiNAFdynRGvl9v8"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "TA TE TI",
+      "url": "https://open.spotify.com/track/4QHSNccFDmGBseFy2mFeDw"
+    },
+    {
+      "album": {
         "name": "Tacones Rojos (With John Legend)",
         "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
       },
@@ -23166,7 +23278,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210111,
       "name": "todo va a estar bien",
       "url": "https://open.spotify.com/track/6iTviu0qySOiZRD1lfqkMT"
@@ -23416,6 +23528,28 @@
       "duration_ms": 171746,
       "name": "Trailer",
       "url": "https://open.spotify.com/track/1Xo00Mhz7PP0lMM92sDFYw"
+    },
+    {
+      "album": {
+        "name": "TRAINING DAYS (Pro League)",
+        "url": "https://open.spotify.com/album/03jiAwsegq5NwZGRPqAsiL"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "TRAINING DAYS - Pro League",
+      "url": "https://open.spotify.com/track/7zoqjqNdYGYB2dwxlo2Y6R"
     },
     {
       "album": {
@@ -25043,6 +25177,28 @@
     },
     {
       "album": {
+        "name": "WAU",
+        "url": "https://open.spotify.com/album/4hMePO0x4OX6qPCKyaq1SY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Jhoni",
+          "url": "https://open.spotify.com/artist/38dLFB2qWMHGgmRUlZAe47"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136640,
+      "name": "WAU",
+      "url": "https://open.spotify.com/track/7ylwaRu3FobcYFxnvaLV94"
+    },
+    {
+      "album": {
         "name": "LQMGDT",
         "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
       },
@@ -25612,6 +25768,24 @@
       "duration_ms": 171311,
       "name": "\u00bfC\u00f3mo Haces?",
       "url": "https://open.spotify.com/track/1Ket5Fl0iPAIsSm7NsWNha"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo huir?",
+        "url": "https://open.spotify.com/album/4vKZbcMkK6ZksUfFRJxM7p"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "\u00bfC\u00f3mo huir?",
+      "url": "https://open.spotify.com/track/1qutwPbEKgHAciZFStAPHS"
     },
     {
       "album": {

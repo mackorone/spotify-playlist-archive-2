@@ -13252,6 +13252,10 @@
         {
           "name": "KYNE",
           "url": "https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524"
+        },
+        {
+          "name": "Nikkito",
+          "url": "https://open.spotify.com/artist/6YvkUS9lekLZSFexDUrOfx"
         }
       ],
       "date_added": "2026-10-22",
@@ -21736,6 +21740,24 @@
       "duration_ms": 146470,
       "name": "Cari\u00f1o M\u00edo",
       "url": "https://open.spotify.com/track/7qAbY8HeA5n1y6bOOkW4ru"
+    },
+    {
+      "album": {
+        "name": "ENSALITRADOS (Una historia de TUTTO PASSA)",
+        "url": "https://open.spotify.com/album/4WzcmmpNPv0DjPKw4NeG9L"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "CARNAVALEANDO",
+      "url": "https://open.spotify.com/track/2BYau8xlbWeAI1bAxiagY3"
     },
     {
       "album": {
@@ -88005,7 +88027,7 @@
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 203705,
+      "duration_ms": 202541,
       "name": "Ninfita",
       "url": "https://open.spotify.com/track/02DNW1RyBquAXLwjHjQsKv"
     },
@@ -130912,24 +130934,6 @@
       "duration_ms": 160124,
       "name": "TRABAJAR EN VERANO",
       "url": "https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT"
-    },
-    {
-      "album": {
-        "name": "ENSALITRADOS (Una historia de TUTTO PASSA)",
-        "url": "https://open.spotify.com/album/4WzcmmpNPv0DjPKw4NeG9L"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "date_added": "2026-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2BYau8xlbWeAI1bAxiagY3"
     },
     {
       "album": {

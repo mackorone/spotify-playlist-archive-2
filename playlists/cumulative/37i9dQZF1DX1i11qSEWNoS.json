@@ -4727,6 +4727,28 @@
     },
     {
       "album": {
+        "name": "LEBKUCHENHERZ",
+        "url": "https://open.spotify.com/album/6d8qFx0U6qDU2EvvXTF9MH"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156768,
+      "name": "LEBKUCHENHERZ",
+      "url": "https://open.spotify.com/track/0QhRLYQ2N3KhkgOu2VfURs"
+    },
+    {
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -8942,7 +8964,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"

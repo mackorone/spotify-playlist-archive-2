@@ -1,12 +1,12 @@
 {
   "description": "Gentle instrumental covers of known songs.",
-  "num_followers": 1274433,
+  "num_followers": 1275842,
   "original_name": "Calming Instrumental Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKdgurJw0EcjbGj6XgPASwd2jOqb",
+  "snapshot_id": "AAAAAGApHixbzmG4qNre5N0vH/aeOPya",
   "tracks": [
     {
       "added_at": "2026-10-05 13:16:56",
@@ -55,22 +55,6 @@
       "duration_ms": 147809,
       "name": "Iris",
       "url": "https://open.spotify.com/track/21JyM0ZFwj14HLPBRdIidP"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
-        "name": "Wonderwall",
-        "url": "https://open.spotify.com/album/1f4vkDIye2mfFSKxvmr1Go"
-      },
-      "artists": [
-        {
-          "name": "Laszlo Teofil",
-          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
-        }
-      ],
-      "duration_ms": 228138,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/0027gfhSBPbqBGIKNJwIdc"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -169,6 +153,22 @@
       "url": "https://open.spotify.com/track/5XoV7SjqZo7eAw1JyUbCW9"
     },
     {
+      "added_at": "2026-10-23 08:38:29",
+      "album": {
+        "name": "Boys Don\u2019t Cry",
+        "url": "https://open.spotify.com/album/6QiKGOfYSqmP5tC5vA3aYI"
+      },
+      "artists": [
+        {
+          "name": "Oscar Sergel",
+          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Boys Don\u2019t Cry",
+      "url": "https://open.spotify.com/track/28ClGvKVQPrH0L7b78OyWg"
+    },
+    {
       "added_at": "2026-10-05 13:16:56",
       "album": {
         "name": "Beautiful Things",
@@ -183,6 +183,22 @@
       "duration_ms": 188041,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/0OHFTKMwZoSFRT9oaFTAao"
+    },
+    {
+      "added_at": "2026-10-23 08:38:29",
+      "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/2OndPM5px1lyKIXgW0dOM3"
+      },
+      "artists": [
+        {
+          "name": "Lea Jacobs",
+          "url": "https://open.spotify.com/artist/47hAjQhncGCM96kZomTPrn"
+        }
+      ],
+      "duration_ms": 162537,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/0NE3Q40a3jY025iNrZtkhs"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -267,6 +283,22 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/1f4vkDIye2mfFSKxvmr1Go"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "duration_ms": 228138,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/0027gfhSBPbqBGIKNJwIdc"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/2daQR7nBVg5fUH8SX6O0Q7"
       },
@@ -299,22 +331,6 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
-        "name": "Everybody Wants to Rule the World",
-        "url": "https://open.spotify.com/album/3W7MfwaDkTkWqrcYR6oE3R"
-      },
-      "artists": [
-        {
-          "name": "Dante Alessi",
-          "url": "https://open.spotify.com/artist/5sdgrvVHHErwilSjmcxzEN"
-        }
-      ],
-      "duration_ms": 157050,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/7MqKp8wxNTV4Qos6s2diVh"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
         "name": "End of Beginning",
         "url": "https://open.spotify.com/album/4ZLhLh1UwYMHjUy3SRsdQ8"
       },
@@ -327,6 +343,22 @@
       "duration_ms": 147750,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/5iaZvD4khAOeJfEbkxT7xn"
+    },
+    {
+      "added_at": "2026-10-23 08:38:29",
+      "album": {
+        "name": "stupid song",
+        "url": "https://open.spotify.com/album/0rdVDQATmnFeG7VhBjA3jU"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Jenner",
+          "url": "https://open.spotify.com/artist/7AnP0BSXZK97TjN7OjiKD5"
+        }
+      ],
+      "duration_ms": 167965,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/7G4Nd3xIm2kM8O8zPgyuz9"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -459,6 +491,22 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
+        "name": "Everybody Wants to Rule the World",
+        "url": "https://open.spotify.com/album/3W7MfwaDkTkWqrcYR6oE3R"
+      },
+      "artists": [
+        {
+          "name": "Dante Alessi",
+          "url": "https://open.spotify.com/artist/5sdgrvVHHErwilSjmcxzEN"
+        }
+      ],
+      "duration_ms": 157050,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/7MqKp8wxNTV4Qos6s2diVh"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
         "name": "Wild World",
         "url": "https://open.spotify.com/album/0BEGVJkPOdYaAn6I6PMv97"
       },
@@ -471,6 +519,22 @@
       "duration_ms": 187500,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/5ehcBCNeQJUkJeBb4RDK0M"
+    },
+    {
+      "added_at": "2026-10-23 08:38:29",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0HDD8C1ysK2gQABskDeaDg"
+      },
+      "artists": [
+        {
+          "name": "Anders Sonne",
+          "url": "https://open.spotify.com/artist/7gUW671qZb60E9i7K8soRX"
+        }
+      ],
+      "duration_ms": 196554,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/29mSFX7Wo4ZP9gOFjNB7ri"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -599,22 +663,6 @@
       "duration_ms": 218012,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/5Yhqlkto98asg3pk56JCLC"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE"
-      },
-      "artists": [
-        {
-          "name": "Aidan Jennings",
-          "url": "https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -823,6 +871,22 @@
       "duration_ms": 156865,
       "name": "With or without you",
       "url": "https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jennings",
+          "url": "https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -1387,22 +1451,6 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
-        "name": "Used To Be Young",
-        "url": "https://open.spotify.com/album/66zXARbYcp7ugwBPtLaqv5"
-      },
-      "artists": [
-        {
-          "name": "Elin Porsinger",
-          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
-        }
-      ],
-      "duration_ms": 154357,
-      "name": "Used To Be Young",
-      "url": "https://open.spotify.com/track/3A7kUJHTaGZIMR8vHIe1WO"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
         "name": "Poker Face",
         "url": "https://open.spotify.com/album/6N0kUqEMVkGDpCyakGzzJ4"
       },
@@ -1479,22 +1527,6 @@
       "duration_ms": 167942,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/1iqyhHBZd215NabeMpAP32"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
-        "name": "Ruin My Life",
-        "url": "https://open.spotify.com/album/2qYtTfyhjIOrudRZWE34xv"
-      },
-      "artists": [
-        {
-          "name": "Haley Steegens",
-          "url": "https://open.spotify.com/artist/50oUrFxXcPqq2Sk4RVfq6e"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/64aOxh3nmJQYS2GqWBP4lP"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -1595,6 +1627,22 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
+        "name": "Used To Be Young",
+        "url": "https://open.spotify.com/album/66zXARbYcp7ugwBPtLaqv5"
+      },
+      "artists": [
+        {
+          "name": "Elin Porsinger",
+          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
+        }
+      ],
+      "duration_ms": 154357,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/3A7kUJHTaGZIMR8vHIe1WO"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
         "name": "Thinking Out Loud",
         "url": "https://open.spotify.com/album/7H9gsPcEur2kly9O9fo6IL"
       },
@@ -1623,22 +1671,6 @@
       "duration_ms": 152266,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ik3mIWucIdsumQ4KInGQA"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
-        "name": "Murder On The Dancefloor",
-        "url": "https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn"
-      },
-      "artists": [
-        {
-          "name": "Bea Westphal",
-          "url": "https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -1703,6 +1735,22 @@
       "duration_ms": 189624,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/67KEr8pFr7rSqwTW5SnXnS"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
+        "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/2qYtTfyhjIOrudRZWE34xv"
+      },
+      "artists": [
+        {
+          "name": "Haley Steegens",
+          "url": "https://open.spotify.com/artist/50oUrFxXcPqq2Sk4RVfq6e"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/64aOxh3nmJQYS2GqWBP4lP"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -1879,6 +1927,22 @@
       "duration_ms": 174960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
+        "name": "Murder On The Dancefloor",
+        "url": "https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn"
+      },
+      "artists": [
+        {
+          "name": "Bea Westphal",
+          "url": "https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -2107,22 +2171,6 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n"
-      },
-      "artists": [
-        {
-          "name": "Loftet",
-          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
         "name": "I won't let the sun go down on me",
         "url": "https://open.spotify.com/album/0jjBB5aIr8mMgypCdwSmkw"
       },
@@ -2151,38 +2199,6 @@
       "duration_ms": 164000,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/7bYf0q4qmq29ylK2wIWFkc"
-      },
-      "artists": [
-        {
-          "name": "Samuel Kahn",
-          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/51q9sjxT1PNjgRTPWBRuha"
-    },
-    {
-      "added_at": "2026-10-05 13:16:56",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/3tUIMVFfL1MU7HC5L4sLlQ"
-      },
-      "artists": [
-        {
-          "name": "Kit Sutton",
-          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
-        }
-      ],
-      "duration_ms": 173624,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/2GYewQA5xHPJUn2baNR3Ub"
     },
     {
       "added_at": "2026-10-05 13:16:56",
@@ -2283,6 +2299,22 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3tUIMVFfL1MU7HC5L4sLlQ"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "duration_ms": 173624,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2GYewQA5xHPJUn2baNR3Ub"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F"
       },
@@ -2299,6 +2331,22 @@
     {
       "added_at": "2026-10-05 13:16:56",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
         "name": "Love Me Like You Do",
         "url": "https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J"
       },
@@ -2311,6 +2359,22 @@
       "duration_ms": 193624,
       "name": "Love Me Like You Do",
       "url": "https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K"
+    },
+    {
+      "added_at": "2026-10-05 13:16:56",
+      "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/7bYf0q4qmq29ylK2wIWFkc"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/51q9sjxT1PNjgRTPWBRuha"
     },
     {
       "added_at": "2026-10-05 13:16:56",

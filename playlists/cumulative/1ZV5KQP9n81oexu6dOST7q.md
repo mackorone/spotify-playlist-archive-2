@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-187 songs - 9 hr 29 min
+188 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [On & On](https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On & On](https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc) | 3:04 | 2025-07-04 | 2026-02-21 |
 | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx) | 2:39 | 2025-12-19 |  |
 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 | 2026-09-18 |  |
+| [Peace & Patience](https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Peace & Patience](https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd) | 3:29 | 2026-10-23 |  |
 | [Pedicure Princess](https://open.spotify.com/track/4z510xfhROCrnpDU28jnLB) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Into The Bounce](https://open.spotify.com/album/1J4ck23JjAzM8AycwW5lgH) | 3:15 | 2025-07-04 | 2025-11-22 |
 | [Pocket](https://open.spotify.com/track/3Tbep6L6c43YKr23CfXtXP) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [Pocket](https://open.spotify.com/album/6CQgriixVxJx5yQA0M882L) | 3:15 | 2026-10-13 |  |
 | [Porque Te Vas](https://open.spotify.com/track/5Me4PKiVKQ1hzGbfRzH4Rz) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/124bmfhcgLb93nvKeTzAn3) | 2:53 | 2026-10-12 |  |

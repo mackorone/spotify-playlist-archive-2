@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-451 songs - 1 day 2 hr 41 min
+452 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [Tumblin Down](https://open.spotify.com/track/48UCmZuBo7WJLGWAAEYIg2) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:29 | 2024-06-07 | 2025-04-05 |
 | [Turns Out](https://open.spotify.com/track/5mZcX0MLpOepdFhdB78mrU) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Turns Out](https://open.spotify.com/album/3MJQxdHkOzwbfn5kyqLIbO) | 3:11 | 2023-01-13 | 2023-08-12 |
 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 | 2022-07-01 | 2025-06-07 |
-| [Two Magpies](https://open.spotify.com/track/73L58g7uez4RppiC5EYMlG) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [The City Is Coming To Erase It All](https://open.spotify.com/album/5hyjzZQKXifH4Xa0gyc0F4) | 5:15 | 2026-06-16 |  |
+| [Two Magpies](https://open.spotify.com/track/73L58g7uez4RppiC5EYMlG) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [The City Is Coming To Erase It All](https://open.spotify.com/album/5hyjzZQKXifH4Xa0gyc0F4) | 5:15 | 2026-06-16 | 2026-10-24 |
 | [TWO SIDES](https://open.spotify.com/track/2obagAOY1SvYnEtSb9Q1a4) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [TWO SIDES](https://open.spotify.com/album/0DDHRnjZHVSgrlvrM9R4f5) | 4:07 | 2025-03-21 | 2025-05-07 |
 | [Two Trees](https://open.spotify.com/track/17XJ5Ul2JtXih8b091Alzd) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [I Can See Your House From Here](https://open.spotify.com/album/3yYukRvZ6tcAsNsGrenaCY) | 2:23 | 2026-06-16 |  |
 | [Unconditional](https://open.spotify.com/track/4OrLA7boWjy9X7fnWLxjld) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Unconditional](https://open.spotify.com/album/3UXXSXnc0znyU0ywfw0Nqb) | 4:20 | 2022-04-08 | 2022-07-29 |
@@ -439,6 +439,7 @@
 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 | 2026-06-16 |  |
 | [Whole Heart](https://open.spotify.com/track/0Vdkp4wpZjRGRrRXFdv50x) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/6DAN3bsYPQ18kT30KozGlJ) | 3:19 | 2022-04-08 | 2022-07-29 |
 | [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 | 2022-07-01 | 2023-01-14 |
+| [Why Won't You Let Go](https://open.spotify.com/track/4ZZqwjLvcxfjJvGvopSwqt) | [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [Why Won't You Let Go](https://open.spotify.com/album/3HACAmGm1xY89ytmyyMfSx) | 3:54 | 2026-10-23 |  |
 | [Wild Garlic](https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF) | [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [Wild Garlic](https://open.spotify.com/album/0nFTaga9Qx7IWDuVT5WSfS) | 4:08 | 2023-05-19 | 2024-06-08 |
 | [Wildfire Love](https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Wildfire Love](https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if) | 1:43 | 2023-08-11 | 2025-08-27 |
 | [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 | 2026-05-08 |  |

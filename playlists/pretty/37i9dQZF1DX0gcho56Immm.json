@@ -1,13 +1,29 @@
 {
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Alba Akvama",
-  "num_followers": 87576,
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Fine",
+  "num_followers": 87813,
   "original_name": "Cph+",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJeJzGtkc2ZRz6hyrl4xlDEwRcVb",
+  "snapshot_id": "AAAAAN52SBwSngc8mPYxpgYnPWX+0dAL",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Jazz dreams",
+        "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "If you wanna come down",
+      "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
+    },
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 132500,
       "name": "Pass Me By",
       "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
+    },
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Mark William Lewis (Deluxe)",
+        "url": "https://open.spotify.com/album/34iEW5XY1mGgjhzvKsMo0h"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3W2VOvLDPks8RE02dRr63O"
+    },
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Goblin's Head",
+        "url": "https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Goblin's Head",
+      "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/3kOXHlqHeuhke4tNk0MhmM"
     },
     {
-      "added_at": "2026-10-16 04:00:27",
+      "added_at": "2026-10-23 04:02:05",
       "album": {
-        "name": "Sometimes I rush",
-        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC"
       },
       "artists": [
         {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
         }
       ],
-      "duration_ms": 90867,
-      "name": "Sometimes I rush",
-      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+      "duration_ms": 204510,
+      "name": "wonderland",
+      "url": "https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -75,6 +123,22 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
+        "name": "Sometimes I rush",
+        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 90867,
+      "name": "Sometimes I rush",
+      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
         "name": "Kitchen",
         "url": "https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h"
       },
@@ -91,22 +155,6 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Bleeding Love",
-        "url": "https://open.spotify.com/album/32gUPqoTPUDDhU24umDtBG"
-      },
-      "artists": [
-        {
-          "name": "Lorien Well",
-          "url": "https://open.spotify.com/artist/3hiyw1zl4FPYlUTn3nMUae"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/7dp9Qx4m621G9Re70JfRQi"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3"
       },
@@ -119,70 +167,6 @@
       "duration_ms": 142411,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Va Va Voom",
-        "url": "https://open.spotify.com/album/2vgsOwnFTQyJRbLLnt3xEJ"
-      },
-      "artists": [
-        {
-          "name": "John Roseboro",
-          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5w0RPpt5MYEx931T1JzkpH"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT"
-      },
-      "artists": [
-        {
-          "name": "Yangze",
-          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
-        }
-      ],
-      "duration_ms": 172169,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Greatest swamp hits",
-        "url": "https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb"
-      },
-      "artists": [
-        {
-          "name": "lene 3000",
-          "url": "https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G"
-        }
-      ],
-      "duration_ms": 163242,
-      "name": "Swamp intro",
-      "url": "https://open.spotify.com/track/04FPGpsbAxXn6NJlwJAMdb"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "curbstone",
-        "url": "https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt"
-      },
-      "artists": [
-        {
-          "name": "mikey",
-          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
-        }
-      ],
-      "duration_ms": 199330,
-      "name": "curbstone",
-      "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -221,84 +205,84 @@
       "url": "https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF"
     },
     {
-      "added_at": "2026-10-16 04:00:27",
+      "added_at": "2026-10-23 04:02:05",
       "album": {
-        "name": "Puddle",
-        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
+        "name": "Kira Krash",
+        "url": "https://open.spotify.com/album/0KjWCA2RXBWeD7X2GU370p"
       },
       "artists": [
         {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
         }
       ],
-      "duration_ms": 117489,
-      "name": "Puddle",
-      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
+      "duration_ms": 235280,
+      "name": "dream",
+      "url": "https://open.spotify.com/track/4Xjw8z313o5PuU1qXTn4Bq"
     },
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Fountain Edits",
-        "url": "https://open.spotify.com/album/47YCO51avOV38XM0KmmEKg"
+        "name": "Bleeding Love",
+        "url": "https://open.spotify.com/album/32gUPqoTPUDDhU24umDtBG"
       },
       "artists": [
         {
-          "name": "True Blue",
-          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
+          "name": "Lorien Well",
+          "url": "https://open.spotify.com/artist/3hiyw1zl4FPYlUTn3nMUae"
         }
       ],
-      "duration_ms": 291034,
-      "name": "Proof Shes Picked Her Poison",
-      "url": "https://open.spotify.com/track/4Lz7BSQtqLFX1witSjvOJ0"
+      "duration_ms": 151200,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7dp9Qx4m621G9Re70JfRQi"
     },
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Black bear",
-        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT"
       },
       "artists": [
         {
-          "name": "Blue Mena",
-          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
         }
       ],
-      "duration_ms": 156413,
-      "name": "Black bear",
-      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
+      "duration_ms": 172169,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5"
     },
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "A Dream Like This",
-        "url": "https://open.spotify.com/album/6BAaLrkBWD3ZJzjfhDfRya"
+        "name": "Greatest swamp hits",
+        "url": "https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb"
       },
       "artists": [
         {
-          "name": "PVA",
-          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+          "name": "lene 3000",
+          "url": "https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G"
         }
       ],
-      "duration_ms": 229500,
-      "name": "Flood (Dream Edition)",
-      "url": "https://open.spotify.com/track/363HUqJ7iNbJvf9VJZ6Q8F"
+      "duration_ms": 163242,
+      "name": "Swamp intro",
+      "url": "https://open.spotify.com/track/04FPGpsbAxXn6NJlwJAMdb"
     },
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Everything in the shade",
-        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
+        "name": "Va Va Voom",
+        "url": "https://open.spotify.com/album/2vgsOwnFTQyJRbLLnt3xEJ"
       },
       "artists": [
         {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Everything in the shade",
-      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
+      "duration_ms": 193250,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5w0RPpt5MYEx931T1JzkpH"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -319,6 +303,126 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
+        "name": "Fountain Edits",
+        "url": "https://open.spotify.com/album/47YCO51avOV38XM0KmmEKg"
+      },
+      "artists": [
+        {
+          "name": "True Blue",
+          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
+        }
+      ],
+      "duration_ms": 291034,
+      "name": "Proof Shes Picked Her Poison",
+      "url": "https://open.spotify.com/track/4Lz7BSQtqLFX1witSjvOJ0"
+    },
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Round and round",
+        "url": "https://open.spotify.com/album/3f6C1Nd6YsKE5YOa3PB4Q2"
+      },
+      "artists": [
+        {
+          "name": "Zoumer",
+          "url": "https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB"
+        },
+        {
+          "name": "mishmish",
+          "url": "https://open.spotify.com/artist/0oGBjsXtPSH253bhIbdeBU"
+        }
+      ],
+      "duration_ms": 144763,
+      "name": "Round and round",
+      "url": "https://open.spotify.com/track/4rDZBzHRZRE234SIWdjOTD"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Puddle",
+        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 117489,
+      "name": "Puddle",
+      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "A Dream Like This",
+        "url": "https://open.spotify.com/album/6BAaLrkBWD3ZJzjfhDfRya"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Flood (Dream Edition)",
+      "url": "https://open.spotify.com/track/363HUqJ7iNbJvf9VJZ6Q8F"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "duration_ms": 336624,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Now I've Got A Lot You Know",
+        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Black bear",
+        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Black bear",
+      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
         "name": "Iftangible,",
         "url": "https://open.spotify.com/album/3B1DzVTzy0k99K6NH5ZAlY"
       },
@@ -335,6 +439,22 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
+        "name": "Everything in the shade",
+        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Everything in the shade",
+      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
         "name": "Big Spender",
         "url": "https://open.spotify.com/album/6KwTupgXxkIUDg29rCKSKF"
       },
@@ -347,30 +467,6 @@
       "duration_ms": 187173,
       "name": "Big Spender",
       "url": "https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Routine",
-        "url": "https://open.spotify.com/album/3wAc5u3sZ5kxyguLeE8sZi"
-      },
-      "artists": [
-        {
-          "name": "Jason Dungan",
-          "url": "https://open.spotify.com/artist/3m0siFRqCZq1PeZ3iRmXnT"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
-        },
-        {
-          "name": "Blue Lake",
-          "url": "https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/35brW4KnbdTa2wdM7VoBcz"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -427,26 +523,6 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "2am",
-        "url": "https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        },
-        {
-          "name": "gianna",
-          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
-        }
-      ],
-      "duration_ms": 336624,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
         "name": "Series A",
         "url": "https://open.spotify.com/album/5n5EMud68LW5haw0hY8odH"
       },
@@ -463,18 +539,42 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Now I've Got A Lot You Know",
-        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
+        "name": "curbstone",
+        "url": "https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt"
       },
       "artists": [
         {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
         }
       ],
-      "duration_ms": 310596,
-      "name": "Now I've Got A Lot You Know",
-      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
+      "duration_ms": 199330,
+      "name": "curbstone",
+      "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Routine",
+        "url": "https://open.spotify.com/album/3wAc5u3sZ5kxyguLeE8sZi"
+      },
+      "artists": [
+        {
+          "name": "Jason Dungan",
+          "url": "https://open.spotify.com/artist/3m0siFRqCZq1PeZ3iRmXnT"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+        },
+        {
+          "name": "Blue Lake",
+          "url": "https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/35brW4KnbdTa2wdM7VoBcz"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -2707,26 +2807,6 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "lucre",
-        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
-      },
-      "artists": [
-        {
-          "name": "Dean Blunt",
-          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
-        },
-        {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        }
-      ],
-      "duration_ms": 120500,
-      "name": "5",
-      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
         "name": "Love How It Feels",
         "url": "https://open.spotify.com/album/6I4cQwheAaAfnlYylLoJeL"
       },
@@ -3343,46 +3423,6 @@
       "duration_ms": 141176,
       "name": "dog-tired",
       "url": "https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "the end or the beginning idk (trentem\u00f8ller Remix)",
-        "url": "https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv"
-      },
-      "artists": [
-        {
-          "name": "Sakura",
-          "url": "https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT"
-        },
-        {
-          "name": "trentem\u00f8ller",
-          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "the end or the beginning idk - trentem\u00f8ller Remix",
-      "url": "https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Formula 1",
-        "url": "https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY"
-      },
-      "artists": [
-        {
-          "name": "Richard Orofino",
-          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
-        },
-        {
-          "name": "Melody English",
-          "url": "https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "Formula 1",
-      "url": "https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi"
     },
     {
       "added_at": "2026-10-16 04:00:27",

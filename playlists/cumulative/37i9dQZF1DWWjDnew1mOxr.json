@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Music that means it. Cover: Chloe Slater",
+  "description": "Music that means it. Cover: Jamie T",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 231716,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
@@ -4485,6 +4485,24 @@
     },
     {
       "album": {
+        "name": "Joy In Short Moments",
+        "url": "https://open.spotify.com/album/78zovBsHD0mr5s9qp8KexO"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191760,
+      "name": "Joy In Short Moments",
+      "url": "https://open.spotify.com/track/2OC2OMmcivAKGzdQ8HiSHo"
+    },
+    {
+      "album": {
         "name": "Judgement Day",
         "url": "https://open.spotify.com/album/1owOZN7l607ySn2o9zJ1Jb"
       },
@@ -4918,6 +4936,24 @@
       "duration_ms": 170373,
       "name": "Life's a Bitch (But I Like it So Much)",
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+    },
+    {
+      "album": {
+        "name": "Lightweight Champion",
+        "url": "https://open.spotify.com/album/4DMBw5kau1j7SFgeYFFAz5"
+      },
+      "artists": [
+        {
+          "name": "Danny Griffiths",
+          "url": "https://open.spotify.com/artist/1D7ogs6m8zs5JAY950koox"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "Lightweight Champion",
+      "url": "https://open.spotify.com/track/2V2gSjlWbCUbyK8ldJEgTM"
     },
     {
       "album": {
@@ -7414,7 +7450,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201279,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"

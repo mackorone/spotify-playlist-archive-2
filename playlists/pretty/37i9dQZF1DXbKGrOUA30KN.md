@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Lilli
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,638 likes - 90 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,606 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 19 | [BEL AMI](https://open.spotify.com/track/1WCfhEsAlPbZvpFC3ELQb3) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [BEL AMI](https://open.spotify.com/album/5PcEwHrnUx9ymDBNljyzgZ) | 2:20 |
 | 20 | [Ich will nur dass du weißt \- JazzDP](https://open.spotify.com/track/1DqewkQFNP75JnKOcoCaTW) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi), [JazzDP](https://open.spotify.com/artist/2bftZEJHkriaOKsUO4Uwqy), [The Capital Dance Orchestra](https://open.spotify.com/artist/4NfATmRSocOFbq7WEjBAEO) | [Ich will nur dass du weißt \(JazzDP\)](https://open.spotify.com/album/5TLMjzmH33pfnKavrgeYxK) | 3:27 |
 | 21 | [Egoist](https://open.spotify.com/track/5sKaXQk5oUkwHDohQZfuNQ) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Egoist](https://open.spotify.com/album/5pX6ttlM7ROJcn2UYouAK0) | 2:01 |
-| 22 | [Frieden](https://open.spotify.com/track/2JGCidUP7ItZ5bbigZ4vCy) | [Thelma Malar](https://open.spotify.com/artist/7bJLeTkRR8doK2Y59z6A7H) | [Frieden](https://open.spotify.com/album/5tLBntYjVWu4tS1midufJm) | 2:15 |
+| 22 | [Frieden](https://open.spotify.com/track/2JGCidUP7ItZ5bbigZ4vCy) | [Thelma Malar](https://open.spotify.com/artist/7bJLeTkRR8doK2Y59z6A7H) | [Frieden](https://open.spotify.com/album/5tLBntYjVWu4tS1midufJm) | 2:17 |
 | 23 | [Stille](https://open.spotify.com/track/5ZeMthVlLr3CFHYOUfv5U5) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Stille EP](https://open.spotify.com/album/5YzhHMU4eQyu1aovE6Bj0S) | 2:59 |
 | 24 | [liebe gegangen](https://open.spotify.com/track/28AwEwIC5xlwQBIaWZO2Ty) | [LEVKA](https://open.spotify.com/artist/1npJSBTSN3anXxBFZlLi88) | [liebe gegangen](https://open.spotify.com/album/44JsXOczMR3oCoSV6gJV8k) | 2:33 |
 | 25 | [vielleicht wär's besser](https://open.spotify.com/track/5ocfJbyBKgnZfSJK2paPcp) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [vielleicht wär's besser](https://open.spotify.com/album/1hft4mSFUjCvgNuAfIuoMe) | 2:27 |

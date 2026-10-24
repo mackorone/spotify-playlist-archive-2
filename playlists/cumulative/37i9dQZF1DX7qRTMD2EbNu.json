@@ -12751,6 +12751,28 @@
     },
     {
       "album": {
+        "name": "Dolla",
+        "url": "https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC"
+      },
+      "artists": [
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "Jayduh",
+          "url": "https://open.spotify.com/artist/4WDR1dWlBAX1cCYTWRbam3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95593,
+      "name": "More bands",
+      "url": "https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS"
+    },
+    {
+      "album": {
         "name": "Motherfxcker",
         "url": "https://open.spotify.com/album/3FUWRe4bQJOynPXqMIm0Zb"
       },
@@ -20021,24 +20043,6 @@
     },
     {
       "album": {
-        "name": "Dolla",
-        "url": "https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC"
-      },
-      "artists": [
-        {
-          "name": "$pacely",
-          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
-        }
-      ],
-      "date_added": "2026-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS"
-    },
-    {
-      "album": {
         "name": "Tracking You",
         "url": "https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6"
       },
@@ -21275,7 +21279,7 @@
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160182,
+      "duration_ms": 160000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
     },

@@ -200,7 +200,7 @@
 | [Waiting for the Sunrise](https://open.spotify.com/track/7wH5Ck2MRPWwwunLeMjg9f) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Waiting for the Sunrise](https://open.spotify.com/album/4tE7BUhKkN8i5Bp4FQGGtB) | 2:54 | 2022-08-03 |  |
 | [We Contain Multitudes \- from home](https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:10 | 2021-12-08 |  |
 | [Winter Sun](https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Winter Sun](https://open.spotify.com/album/5MzV4YoKTrZTxTz4KduMWi) | 2:22 | 2022-05-31 |  |
-| [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2022-08-03 |  |
+| [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Caedral](https://open.spotify.com/artist/43UqnLu3Djjo74SsjnQLBE) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2022-08-03 |  |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-12-08 |  |
 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 | 2026-03-19 |  |
 

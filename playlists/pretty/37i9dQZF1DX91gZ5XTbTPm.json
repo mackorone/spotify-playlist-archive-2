@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: LUCKI\n",
-  "num_followers": 162677,
+  "num_followers": 162710,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2B2UDSPHs4I8W2RhklOyf4ylMP",
+  "snapshot_id": "AAAAAEYUPVvmAzhUfrB4Ss6xcO4eoXv8",
   "tracks": [
     {
       "added_at": "2026-10-16 04:03:22",
@@ -93,6 +93,26 @@
       "url": "https://open.spotify.com/track/0OTxGGdHGFbX8BqXWqdAl9"
     },
     {
+      "added_at": "2026-10-23 04:01:55",
+      "album": {
+        "name": "Lil Bit - Remix",
+        "url": "https://open.spotify.com/album/7D4t5B0xkPKkNGVWtKjVUC"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        },
+        {
+          "name": "Raud",
+          "url": "https://open.spotify.com/artist/0BgRotGO2vUPyxguQlXsR7"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Lil Bit - Remix",
+      "url": "https://open.spotify.com/track/4GHOp3dIayLj1eDzBpTnLr"
+    },
+    {
       "added_at": "2026-10-16 04:03:22",
       "album": {
         "name": "STILL GHETTO",
@@ -177,6 +197,38 @@
       "url": "https://open.spotify.com/track/3WkaDq5sVRXXWJLm7l8FgE"
     },
     {
+      "added_at": "2026-10-23 04:01:55",
+      "album": {
+        "name": "GO BANANAS",
+        "url": "https://open.spotify.com/album/229PpFxPvD64kzwxvY1SXf"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        }
+      ],
+      "duration_ms": 157874,
+      "name": "GO BANANAS",
+      "url": "https://open.spotify.com/track/5cQYgOxMf0AkCADNNPAFdA"
+    },
+    {
+      "added_at": "2026-10-23 04:01:55",
+      "album": {
+        "name": "Season Won",
+        "url": "https://open.spotify.com/album/403khPGBKTGnmnLALPekZc"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 69006,
+      "name": "Episode 777",
+      "url": "https://open.spotify.com/track/0VGVkJ1XToigv8mcP2TINj"
+    },
+    {
       "added_at": "2026-10-16 04:03:22",
       "album": {
         "name": "Mastiff : Pink Tiles (Deluxe)",
@@ -191,58 +243,6 @@
       "duration_ms": 148778,
       "name": "Fuck The Bag Up",
       "url": "https://open.spotify.com/track/2budWxDt7E5oiwzgkRzE3Y"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
-        "name": "Get Outside",
-        "url": "https://open.spotify.com/album/6DYWKDeNVJIMhnZGCizc26"
-      },
-      "artists": [
-        {
-          "name": "STAR BANDZ",
-          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
-        }
-      ],
-      "duration_ms": 136297,
-      "name": "Get Outside",
-      "url": "https://open.spotify.com/track/15vAkGmrlbYQYoW68Awkgp"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
-        "name": "WITH MY BESTIE",
-        "url": "https://open.spotify.com/album/5eo8HB4299JakFbOA064tw"
-      },
-      "artists": [
-        {
-          "name": "Iconic Savvy",
-          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
-        }
-      ],
-      "duration_ms": 159633,
-      "name": "WITH MY BESTIE",
-      "url": "https://open.spotify.com/track/1FrktDz7UEUYZb7OqIx9CQ"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
-        "name": "Get It In",
-        "url": "https://open.spotify.com/album/5YqnzoPbg2pf9XTW4RorRB"
-      },
-      "artists": [
-        {
-          "name": "FMB DZ",
-          "url": "https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa"
-        },
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        }
-      ],
-      "duration_ms": 136423,
-      "name": "Get It In",
-      "url": "https://open.spotify.com/track/1n9MWUkM6mFqkUrz2XJqO3"
     },
     {
       "added_at": "2026-10-16 04:03:22",
@@ -275,6 +275,22 @@
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk"
+    },
+    {
+      "added_at": "2026-10-23 04:01:55",
+      "album": {
+        "name": "99 Overall",
+        "url": "https://open.spotify.com/album/5DIuuXSktARf0GBaJDx4es"
+      },
+      "artists": [
+        {
+          "name": "FullyChop",
+          "url": "https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp"
+        }
+      ],
+      "duration_ms": 110063,
+      "name": "Takis",
+      "url": "https://open.spotify.com/track/0NnDi92undtOVUxym9k9Tv"
     },
     {
       "added_at": "2026-10-16 04:03:22",
@@ -385,24 +401,20 @@
       "url": "https://open.spotify.com/track/3BxRFVhRI8OUSrPAcJBWHx"
     },
     {
-      "added_at": "2026-10-16 04:03:22",
+      "added_at": "2026-10-23 04:01:55",
       "album": {
-        "name": "INNANETAPE",
-        "url": "https://open.spotify.com/album/2U6KMmA26Koq3X6X9tHEjs"
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/0hcCuwdLOc9cfcHcYPqfij"
       },
       "artists": [
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 140942,
-      "name": "Suitcase",
-      "url": "https://open.spotify.com/track/4ZxqI6FC1Da6eOFvFBWBJe"
+      "duration_ms": 182000,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/4IKUU6v9QkLdAD6px5cAlf"
     },
     {
       "added_at": "2026-10-16 04:03:22",
@@ -687,6 +699,22 @@
       "duration_ms": 121389,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4TT0XGOuFUcOiHfrWimqBW"
+    },
+    {
+      "added_at": "2026-10-16 04:03:22",
+      "album": {
+        "name": "Get Outside",
+        "url": "https://open.spotify.com/album/6DYWKDeNVJIMhnZGCizc26"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "duration_ms": 136297,
+      "name": "Get Outside",
+      "url": "https://open.spotify.com/track/15vAkGmrlbYQYoW68Awkgp"
     },
     {
       "added_at": "2026-10-16 04:03:22",
@@ -1363,26 +1391,6 @@
     {
       "added_at": "2026-10-16 04:03:22",
       "album": {
-        "name": "FullyLoaded",
-        "url": "https://open.spotify.com/album/5xeSTsMXlYFktx9S6F5Lbs"
-      },
-      "artists": [
-        {
-          "name": "FullyChop",
-          "url": "https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp"
-        },
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 170126,
-      "name": "Gimmie A Break",
-      "url": "https://open.spotify.com/track/0tOq4w3gxgV8CRM1Kwr3AV"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
         "name": "LOST TAPES 3",
         "url": "https://open.spotify.com/album/3Lu5nVPbXle1rln1ZH8ZmQ"
       },
@@ -1707,26 +1715,6 @@
       "duration_ms": 176197,
       "name": "Look Like",
       "url": "https://open.spotify.com/track/4jtF5coEPlEaoYzzr96iTE"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
-        "name": "Criminally Attached",
-        "url": "https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 171210,
-      "name": "Walnut Grove",
-      "url": "https://open.spotify.com/track/2WHhenw4jhle7mtCGK0WWy"
     },
     {
       "added_at": "2026-10-16 04:03:22",

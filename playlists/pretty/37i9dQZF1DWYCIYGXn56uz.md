@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 Gaia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,488 likes - 85 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,465 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 30 | [Obbligo o Verità](https://open.spotify.com/track/42rkEnDZG3nErSDRDCHJeR) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Obbligo o Verità](https://open.spotify.com/album/2HwsJ4g5ieIAYDCBJzhiMG) | 2:33 |
 | 31 | [Un Bel Casino](https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Un Bel Casino](https://open.spotify.com/album/7IDEKTMviDwAp2sDpzToBG) | 2:34 |
 | 32 | [Sophie](https://open.spotify.com/track/2rVSMumYglBowXjpwz8wPk) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Sophie](https://open.spotify.com/album/5HLf5wdtI5ExtcmmGKCc4b) | 2:30 |
-| 33 | [Track 9](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 0:00 |
+| 33 | [OH MY GOD](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 2:11 |
 | 34 | [SCHEGGE \(le foglie\)](https://open.spotify.com/track/2Je9pmfsMDcGBsqFoyrabq) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [SCHEGGE \(le foglie\)](https://open.spotify.com/album/1SyNAHksuZTJ08twv8uJzQ) | 2:47 |
 | 35 | [Maremoti](https://open.spotify.com/track/6TF7v7PNdTsjyV4MAt3SGx) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [Maremoti](https://open.spotify.com/album/0sKgqzzqUbHKE9HS88qOBa) | 2:58 |
 | 36 | [STRADE](https://open.spotify.com/track/7Ee36MMsCS026oFOiRAwZr) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [STRADE](https://open.spotify.com/album/6uNABMxgUVUdyvSuJ4qyq1) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 59977,
+  "num_followers": 59975,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -575,22 +575,18 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Bad Habits (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
+        "name": "Little Bit of Love",
+        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 250763,
-      "name": "Bad Habits (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+      "duration_ms": 226268,
+      "name": "Little Bit of Love",
+      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -611,18 +607,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Little Bit of Love",
-        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
+        "name": "Bad Habits (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
       "artists": [
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 226268,
-      "name": "Little Bit of Love",
-      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
+      "duration_ms": 250763,
+      "name": "Bad Habits (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "How Do You Love Somebody",
         "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 180065,
       "name": "How Do You Love Somebody",
       "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "This Is Me (From The Greatest Showman)",
         "url": "https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 234886,
       "name": "This Is Me (From the Greatest Showman)",
       "url": "https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1103,6 +1103,38 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Bones (feat. OneRepublic)",
         "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
       },
@@ -1139,34 +1171,18 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 187596,
-      "name": "spite",
-      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+      "duration_ms": 191102,
+      "name": "Shower Beer",
+      "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 191102,
-      "name": "Shower Beer",
-      "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 207226,
       "name": "Visitor",
       "url": "https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1255,18 +1239,34 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Ego Trip",
-        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 188139,
-      "name": "No Apologies",
-      "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "heart won't let me",
+      "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

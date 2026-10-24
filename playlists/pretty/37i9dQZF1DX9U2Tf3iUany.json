@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 60343,
+  "num_followers": 60341,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 176960,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 350266,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Double Up",
-        "url": "https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW"
+        "name": "Purple Reign",
+        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
       "artists": [
         {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 242506,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy"
+      "duration_ms": 246360,
+      "name": "Perkys Calling",
+      "url": "https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Purple Reign",
-        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
+        "name": "Double Up",
+        "url": "https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
         }
       ],
-      "duration_ms": 246360,
-      "name": "Perkys Calling",
-      "url": "https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE"
+      "duration_ms": 242506,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 241800,
       "name": "Purple Reign",
       "url": "https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 300800,
-      "name": "Caravan - 2013 Remaster",
-      "url": "https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Man On The Moon III: The Chosen",
         "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 300800,
+      "name": "Caravan - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Hunger For More",
-        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
-        }
-      ],
-      "duration_ms": 278533,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Man On The Moon II: The Legend Of Mr. Rager",
         "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 260200,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Hunger For More",
+        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "duration_ms": 278533,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
     },
     {
       "added_at": "2022-10-01 16:00:00",

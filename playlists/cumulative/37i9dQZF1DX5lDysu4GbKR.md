@@ -4,7 +4,7 @@
 
 > Stripped back vibes\. Cover:  Alex Isley
 
-322 songs - 18 hr 37 min
+324 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Can't Stay](https://open.spotify.com/track/2sVV8LROIH1Z7mJWBBYpkU) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:41 | 2024-11-15 |  |
 | [Capable](https://open.spotify.com/track/6EWoKC9WQ2acoHzZ1Tkb9t) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:42 | 2025-09-07 |  |
 | [CARI'S HONEYMOON](https://open.spotify.com/track/0AU4Spk0C443gEWAJ6hUh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 1:00 | 2025-05-09 |  |
+| [Catch Me \(Before It's Too Late\) \- Acoustic](https://open.spotify.com/track/7raNFMcoUUBd3PuZYNzQbV) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Catch Me \(Before It's Too Late\) \[Acoustic\]](https://open.spotify.com/album/4Vj3jYj58cehJfeyvFyFNI) | 2:40 | 2026-10-23 |  |
 | [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \(Acoustic\)](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 | 2024-08-16 |  |
 | [Choose \- Acoustic](https://open.spotify.com/track/6jkghwue86fgr11HEnImKd) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Choose \(Acoustic\)](https://open.spotify.com/album/4R7CPDAXrt2C0JgGrqRd2z) | 3:54 | 2026-03-13 |  |
 | [Closure \- One Take](https://open.spotify.com/track/7BPZi9J5qiPErlJOgK6sv6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [One Take w/ Eric Bellinger](https://open.spotify.com/album/4Tg2Lc99lG8cz1w6wQliGT) | 3:03 | 2026-10-09 |  |
@@ -94,6 +95,7 @@
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2021-12-09 | 2024-02-09 |
 | [EITHER OR](https://open.spotify.com/track/6OAhcUEjnuZwkgaRhimayn) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [EITHER OR](https://open.spotify.com/album/4pBPVUF3CLqVNhNA5vfL4B) | 2:04 | 2024-10-19 |  |
 | [Family \- Acoustic](https://open.spotify.com/track/6Q8gSQmRmZjC8KWDG8MvDp) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family \(Acoustic\)](https://open.spotify.com/album/6wG1edDF2eRNNjRX86F1oD) | 3:58 | 2021-12-09 |  |
+| [Feel My Love \(feat\. MAJIC\)](https://open.spotify.com/track/0b5HPucjqCC7R9J1QzfaSO) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [MAJIC](https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB) | [Feel My Love](https://open.spotify.com/album/7utMwG37UMHPARIWE9azq1) | 4:05 | 2026-10-23 |  |
 | [Feet Don't Fail Me Now \- Live Acoustic Version](https://open.spotify.com/track/5h9DWBKM0eXCsKIemi0nyM) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now \(Live Acoustic Version\)](https://open.spotify.com/album/4JGBm9QfSWxAZvO5wgotj8) | 3:26 | 2021-12-09 |  |
 | [First Began \- Acoustic Version](https://open.spotify.com/track/5NIg1z3gZebnURrsDOlfmO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:33 | 2021-12-09 | 2023-04-09 |
 | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/track/6DTJgb33ibZl2pElkWqUfm) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/album/2ECyJoQ4tFw87gsjmQMoOq) | 4:47 | 2021-12-09 | 2023-06-30 |

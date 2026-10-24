@@ -7401,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212416,
+      "name": "Home Tonight",
+      "url": "https://open.spotify.com/track/15JWJHmZIpQMP0ojCUEW27"
+    },
+    {
+      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF"
       },
@@ -14554,7 +14572,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169720,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn"
@@ -14698,7 +14716,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 203211,
       "name": "relapse",
       "url": "https://open.spotify.com/track/4U79JUWOHrww52hBySHL8T"
@@ -15078,6 +15096,24 @@
       "duration_ms": 200868,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/4yqi1WxBUMw75zodggxj6g"
+    },
+    {
+      "album": {
+        "name": "From My Side",
+        "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/0PuPIQIsX4RfzWJWjuBtRg"
     },
     {
       "album": {

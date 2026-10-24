@@ -2,9 +2,9 @@
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: فريد
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: دنيا سمير غانم
 
-571 songs - 1 day 9 hr 34 min
+572 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [El Ayah](https://open.spotify.com/track/2dG8oLvpO61OsmDo2U1Oy8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Ayah](https://open.spotify.com/album/30NGKVgfo8xRh6UugCieTv) | 3:30 | 2026-08-21 | 2026-09-04 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 | 2023-05-18 |
 | [El Dahab](https://open.spotify.com/track/7mrLcboFABy7lyKCYxgimY) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [El Dahab](https://open.spotify.com/album/5Edgo5uHVbQVkYzRTYrO60) | 3:09 | 2024-04-11 | 2024-08-10 |
+| [El Dalal](https://open.spotify.com/track/2DiPzkPTlYGYg1RmCP4IpQ) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [El Dalal](https://open.spotify.com/album/2WXqD71Hhh0SblTYSwGyt0) | 3:08 | 2026-10-23 |  |
 | [El Donya Ray2a](https://open.spotify.com/track/6NWF2mXdfLwRZ4jkX6rL6S) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [El Donya Ray2a](https://open.spotify.com/album/5RLLHfOvHrCcbENPjdjOxX) | 3:01 | 2025-07-17 | 2026-04-09 |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2022-05-04 | 2022-07-12 |
 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 | 2025-12-30 | 2026-07-07 |

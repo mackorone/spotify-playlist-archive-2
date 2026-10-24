@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190280,
       "name": "Dream Hands",
       "url": "https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG"
@@ -3658,6 +3658,36 @@
       "duration_ms": 267500,
       "name": "Half-Bloom",
       "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
+    },
+    {
+      "album": {
+        "name": "Eight Ring Revival",
+        "url": "https://open.spotify.com/album/0KS54hy5B9VbBWbkt70S4G"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        },
+        {
+          "name": "bigboihums",
+          "url": "https://open.spotify.com/artist/6yl3Npg9anIva2sYQ0SW7f"
+        },
+        {
+          "name": "Tristan Cappel",
+          "url": "https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122651,
+      "name": "Hands Rejoice!",
+      "url": "https://open.spotify.com/track/375qFU8b3QOqcOp7wxOG6v"
     },
     {
       "album": {

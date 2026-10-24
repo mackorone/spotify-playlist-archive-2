@@ -1,12 +1,12 @@
 {
   "description": "Latest music from Darshan Raval, Aditya Rikhari, AKASA and more.",
-  "num_followers": 101922,
+  "num_followers": 101992,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjpnN+pQYlP2GpNNkxCO5BF3OxV",
+  "snapshot_id": "AAAAACRtyoIEVq7Nq9A8jQTvKNHXdjUs",
   "tracks": [
     {
       "added_at": "2026-10-23 03:00:24",
@@ -55,6 +55,30 @@
       "duration_ms": 266676,
       "name": "Tu Hi Wajah (From \"Bhoomi 2026\")",
       "url": "https://open.spotify.com/track/1DZUbTP8Y7eLtA470BTBht"
+    },
+    {
+      "added_at": "2026-10-23 03:00:24",
+      "album": {
+        "name": "Jaan-E-Jaan (From \"Between Distances\")",
+        "url": "https://open.spotify.com/album/0nJQCivbQGRiCwZh6gGuDI"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Farhan Khan",
+          "url": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "duration_ms": 147067,
+      "name": "Jaan-E-Jaan (From \"Between Distances\")",
+      "url": "https://open.spotify.com/track/77OoUrVDWveVgWNEqXS72C"
     },
     {
       "added_at": "2026-10-23 03:00:24",
@@ -155,6 +179,26 @@
       "duration_ms": 164705,
       "name": "RUDE",
       "url": "https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu"
+    },
+    {
+      "added_at": "2026-10-23 07:55:10",
+      "album": {
+        "name": "Vaari Vaari - Acoustic",
+        "url": "https://open.spotify.com/album/1H2dTU5WdG3rLPTfibqcRi"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        }
+      ],
+      "duration_ms": 202557,
+      "name": "Vaari Vaari - Acoustic",
+      "url": "https://open.spotify.com/track/2gTk797GEfLe2yJ7DAVMzD"
     },
     {
       "added_at": "2026-10-16 00:54:04",
@@ -983,22 +1027,6 @@
       "duration_ms": 158584,
       "name": "Ghumela",
       "url": "https://open.spotify.com/track/19uPKWgnHUFkceh9fQUn21"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "Tham Jaa",
-        "url": "https://open.spotify.com/album/7CFGrIL73FppET5Jf9kote"
-      },
-      "artists": [
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        }
-      ],
-      "duration_ms": 321664,
-      "name": "Tham Jaa",
-      "url": "https://open.spotify.com/track/6pUuLW4SsEWg6KSFUQdTwC"
     },
     {
       "added_at": "2026-09-25 05:13:09",

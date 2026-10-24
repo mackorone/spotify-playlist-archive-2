@@ -1,6 +1,6 @@
 {
   "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
-  "num_followers": 62773,
+  "num_followers": 62828,
   "original_name": "Familienzeit: Halloween",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Abrakadabra",
-      "url": "https://open.spotify.com/track/0KpZtDCGTHDZtzWILKm7bO"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Fledi Fledermaus",
         "url": "https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 112882,
       "name": "Halloween Dance Party",
       "url": "https://open.spotify.com/track/1546dG78My4z98gAks35wg"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Abrakadabra",
+      "url": "https://open.spotify.com/track/0KpZtDCGTHDZtzWILKm7bO"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Heavy Halloween",
-        "url": "https://open.spotify.com/album/0h5fmJ4j0vpBIdV3GSk70H"
+        "name": "Tanzfieber!",
+        "url": "https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2"
       },
       "artists": [
         {
-          "name": "Heavysaurus",
-          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
         }
       ],
-      "duration_ms": 176929,
-      "name": "Heavy Halloween",
-      "url": "https://open.spotify.com/track/0qePPQZcSuFUGfd6uvHhmG"
+      "duration_ms": 190960,
+      "name": "Geisterzeit",
+      "url": "https://open.spotify.com/track/3iqnMvh5RW8IAjlzUrAZcj"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -503,18 +503,54 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Tanzfieber!",
-        "url": "https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2"
+        "name": "Heavy Halloween",
+        "url": "https://open.spotify.com/album/0h5fmJ4j0vpBIdV3GSk70H"
       },
       "artists": [
         {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+          "name": "Heavysaurus",
+          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
         }
       ],
-      "duration_ms": 190960,
-      "name": "Geisterzeit",
-      "url": "https://open.spotify.com/track/3iqnMvh5RW8IAjlzUrAZcj"
+      "duration_ms": 176929,
+      "name": "Heavy Halloween",
+      "url": "https://open.spotify.com/track/0qePPQZcSuFUGfd6uvHhmG"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Halloween mit Kalle Klang",
+        "url": "https://open.spotify.com/album/4E55eXzf6CEKfnHfuVnMiK"
+      },
+      "artists": [
+        {
+          "name": "Kalle Klang",
+          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
+        },
+        {
+          "name": "Die Floht\u00f6ne",
+          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
+        }
+      ],
+      "duration_ms": 186637,
+      "name": "Es ist Halloween",
+      "url": "https://open.spotify.com/track/5OaCfSHtRfur3ui0PwFO6e"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -543,62 +579,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL"
-      },
-      "artists": [
-        {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "Halloween mit Kalle Klang",
-        "url": "https://open.spotify.com/album/4E55eXzf6CEKfnHfuVnMiK"
-      },
-      "artists": [
-        {
-          "name": "Kalle Klang",
-          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
-        },
-        {
-          "name": "Die Floht\u00f6ne",
-          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
-        }
-      ],
-      "duration_ms": 186637,
-      "name": "Es ist Halloween",
-      "url": "https://open.spotify.com/track/5OaCfSHtRfur3ui0PwFO6e"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "Monstertanz",
-        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
-      },
-      "artists": [
-        {
-          "name": "Piano Papa",
-          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
-        },
-        {
-          "name": "Mama Sandy",
-          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
-        }
-      ],
-      "duration_ms": 126875,
-      "name": "Monstertanz",
-      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Die 30 besten Halloween-Hits f\u00fcr Kinder",
         "url": "https://open.spotify.com/album/0J0QUzF4wSz9fyMDVPOwp3"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 185126,
       "name": "Wir machen buh (Das Monsterlied)",
       "url": "https://open.spotify.com/track/34WYUP4R48NXtoxWHilAwp"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Monstertanz",
+        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
+      },
+      "artists": [
+        {
+          "name": "Piano Papa",
+          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
+        },
+        {
+          "name": "Mama Sandy",
+          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
+        }
+      ],
+      "duration_ms": 126875,
+      "name": "Monstertanz",
+      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -943,8 +943,8 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr den Herbst",
-        "url": "https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF"
+        "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
+        "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 120360,
-      "name": "Grimmig gucken",
-      "url": "https://open.spotify.com/track/5Va7YTc8dadJlNcxKoVGOE"
+      "duration_ms": 143372,
+      "name": "Halloween steht vor der T\u00fcr",
+      "url": "https://open.spotify.com/track/1xYmVPJj7JPLJPiC3Iw7iR"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
-        "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
+        "name": "Meine Lieblingskinderlieder f\u00fcr den Herbst",
+        "url": "https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF"
       },
       "artists": [
         {
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 143372,
-      "name": "Halloween steht vor der T\u00fcr",
-      "url": "https://open.spotify.com/track/1xYmVPJj7JPLJPiC3Iw7iR"
+      "duration_ms": 120360,
+      "name": "Grimmig gucken",
+      "url": "https://open.spotify.com/track/5Va7YTc8dadJlNcxKoVGOE"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "Eddi & D\u00e4n singen neue Kinderlieder a cappella, Vol. 2",
+        "url": "https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv"
+      },
+      "artists": [
+        {
+          "name": "Eddi & D\u00e4n",
+          "url": "https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Der Vampir",
+      "url": "https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "Unter meinem Bett 4",
         "url": "https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Minidisco International Songs 6",
-        "url": "https://open.spotify.com/album/6vnhWWzx6Bzk7J3q6BZ2eL"
-      },
-      "artists": [
-        {
-          "name": "Minidisco Deutsch",
-          "url": "https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Zombietanz",
-      "url": "https://open.spotify.com/track/2Gu8F5VBvCKFbbSKpQpFZP"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Das Spukhaus in der Siedlung",
         "url": "https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Eddi & D\u00e4n singen neue Kinderlieder a cappella, Vol. 2",
-        "url": "https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv"
+        "name": "Minidisco International Songs 6",
+        "url": "https://open.spotify.com/album/6vnhWWzx6Bzk7J3q6BZ2eL"
       },
       "artists": [
         {
-          "name": "Eddi & D\u00e4n",
-          "url": "https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D"
+          "name": "Minidisco Deutsch",
+          "url": "https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY"
         }
       ],
-      "duration_ms": 156133,
-      "name": "Der Vampir",
-      "url": "https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx"
+      "duration_ms": 174000,
+      "name": "Zombietanz",
+      "url": "https://open.spotify.com/track/2Gu8F5VBvCKFbbSKpQpFZP"
     }
   ],
   "unique_name": "Familienzeit: Halloween",

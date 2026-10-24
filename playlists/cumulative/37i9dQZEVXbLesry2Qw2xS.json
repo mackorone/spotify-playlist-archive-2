@@ -1763,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "Aeg ei peatu (Live)",
+        "url": "https://open.spotify.com/album/1hqW5TNa8JOQaUllvmNvx4"
+      },
+      "artists": [
+        {
+          "name": "Ivo Linna",
+          "url": "https://open.spotify.com/artist/50soVcuWtQZM8KRN4l9H6g"
+        },
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/21VbcFYmP0WZIiPNvB7Uja"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181635,
+      "name": "Aeg ei peatu - Live",
+      "url": "https://open.spotify.com/track/2OwvJt2PrpjqywyWsxnM1a"
+    },
+    {
+      "album": {
         "name": "aerobika",
         "url": "https://open.spotify.com/album/2iRfUImnkcgWkbTFxKbERB"
       },
@@ -14052,7 +14074,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -24108,7 +24130,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Igavuse teisel pool",
       "url": "https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw"
@@ -30652,7 +30674,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 263396,
       "name": "Linn on minu - Original",
       "url": "https://open.spotify.com/track/21ey3uci99KyEczg32DE7p"
@@ -32182,7 +32204,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 194682,
       "name": "L\u00e4mmi",
       "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
@@ -36480,10 +36502,6 @@
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
         },
         {
           "name": "Ultra Nat\u00e9",
@@ -48280,7 +48298,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
@@ -57898,7 +57916,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 163809,
       "name": "Uueks hommikul",
       "url": "https://open.spotify.com/track/1a7A3FoOogzD0HnViWe1DU"
@@ -59758,7 +59776,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-422 songs - 17 hr 4 min
+424 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Old Rocking Chair](https://open.spotify.com/track/1X10yRHO4okiaQD6xI6H4U) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Old Rocking Chair](https://open.spotify.com/album/2eBjqwMuDyhYjnjC2qpjZ4) | 2:04 | 2023-05-15 | 2023-10-05 |
 | [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 | 2023-05-15 | 2023-08-16 |
 | [Open Mind](https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Open Mind](https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB) | 2:02 | 2025-01-22 | 2025-11-18 |
+| [Open Window](https://open.spotify.com/track/18zjnH1BMsQOTbrmMP7q8F) | [Artforms](https://open.spotify.com/artist/16Ev5y1RzTr6tneuozoCmA) | [Open Window](https://open.spotify.com/album/5jcy68MHWD2RsairFFL8J1) | 2:12 | 2026-10-23 |  |
 | [Paloma](https://open.spotify.com/track/0Ic0bvDJY7b0qLKvQoJ3kn) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:12 | 2023-05-15 | 2026-08-28 |
 | [Paradigm](https://open.spotify.com/track/28g9qzHCr2DFas0Uf5W23h) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Paradigm](https://open.spotify.com/album/0tFUtq4lxoR8uP3oI2Uygs) | 2:41 | 2024-10-01 |  |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-15 |  |
@@ -402,6 +403,7 @@
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2023-05-15 | 2026-04-18 |
 | [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-05-15 | 2025-02-01 |
 | [Towards the Shore](https://open.spotify.com/track/195aAohMByp0f6hufXYYMP) | [Joseph Pichon](https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD) | [Towards the Shore](https://open.spotify.com/album/39oMc7uBAcX9LiwqOvSOvt) | 2:40 | 2025-11-05 |  |
+| [Trace](https://open.spotify.com/track/7gcJjZs6m9ixdpItFmLSfT) | [Orlune](https://open.spotify.com/artist/4mTcmBVMRGrKwJPebaQajS) | [Trace](https://open.spotify.com/album/5YKJbjjcYM1YwoXv1LWIYR) | 2:11 | 2026-10-23 |  |
 | [Tranquillity](https://open.spotify.com/track/5R3VFevA9XCuAlRlqCazge) | [Conrad Sieverts](https://open.spotify.com/artist/0VMJjZwrZ7LRrSvBMSLuR8) | [Odd Ones](https://open.spotify.com/album/20QMaQsHVDroONJx8aFbfj) | 3:17 | 2021-06-27 | 2023-05-16 |
 | [Tro](https://open.spotify.com/track/1be0V9RlpP8vsE78U54E8f) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Tro](https://open.spotify.com/album/1kfJlORvAGTbj02ns1RmbM) | 3:33 | 2023-05-15 |  |
 | [Trust](https://open.spotify.com/track/1iRrLvRjllhC2zCTNeNoqW) | [Martin Herzberg](https://open.spotify.com/artist/0G0i5Fk40ZZ6JylmVT4rsu), [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Liebe & Tasten](https://open.spotify.com/album/01zK27YlZXwzlf486jjZZt) | 5:25 | 2021-06-27 | 2022-07-29 |

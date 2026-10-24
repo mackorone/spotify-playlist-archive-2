@@ -1,12 +1,12 @@
 {
   "description": "Calm jazz instrumentals for working, reading, focusing, or simply winding down.",
-  "num_followers": 2345901,
+  "num_followers": 2346398,
   "original_name": "Jazz in the Background",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG8yTOKG+Eccmd58u8Dq1+JI7cL4",
+  "snapshot_id": "AAAAADN81gsy+sIDIv4ZoEUAOtIRGL7p",
   "tracks": [
     {
       "added_at": "2026-10-05 13:08:50",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/5XmzPjdSk86l8PQCm7BBIo"
     },
     {
+      "added_at": "2026-10-23 13:02:17",
+      "album": {
+        "name": "Hibiscus",
+        "url": "https://open.spotify.com/album/1MNXRoYiQcPQWGNrPsIALs"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "duration_ms": 232861,
+      "name": "Hibiscus",
+      "url": "https://open.spotify.com/track/1NP4PxG3ZnAdD2f8PYT9nu"
+    },
+    {
       "added_at": "2026-10-16 08:50:13",
       "album": {
         "name": "Almost Familiar",
@@ -121,6 +137,22 @@
       "url": "https://open.spotify.com/track/40trKt1SweTw8S42KhNxhi"
     },
     {
+      "added_at": "2026-10-23 13:02:17",
+      "album": {
+        "name": "No Longer Arranged",
+        "url": "https://open.spotify.com/album/7md5Rxkv7HxcVFQh4Be1UG"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "duration_ms": 190996,
+      "name": "No Longer Arranged",
+      "url": "https://open.spotify.com/track/61azQOzH5mrAolIqDvbdL0"
+    },
+    {
       "added_at": "2026-10-05 13:08:50",
       "album": {
         "name": "Still telling",
@@ -135,6 +167,22 @@
       "duration_ms": 161135,
       "name": "Still telling",
       "url": "https://open.spotify.com/track/4VYPtUTZzycAF9OuzpgBia"
+    },
+    {
+      "added_at": "2026-10-23 13:02:17",
+      "album": {
+        "name": "Strolling",
+        "url": "https://open.spotify.com/album/7FoDNVQoA2jcUgkUlzMrLg"
+      },
+      "artists": [
+        {
+          "name": "Nighthawks Revisited",
+          "url": "https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1"
+        }
+      ],
+      "duration_ms": 226563,
+      "name": "Strolling",
+      "url": "https://open.spotify.com/track/3kny6t4efwjv8Uo85pokmi"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -217,22 +265,6 @@
       "url": "https://open.spotify.com/track/2U1GzKRHmRy7KO8Ewli256"
     },
     {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Be the Real Thing",
-        "url": "https://open.spotify.com/album/0CN0xL6ffd8SFSDpkHsx63"
-      },
-      "artists": [
-        {
-          "name": "The Backridges",
-          "url": "https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia"
-        }
-      ],
-      "duration_ms": 201736,
-      "name": "Be the Real Thing",
-      "url": "https://open.spotify.com/track/7Emis89n3tDGSuClGUIthI"
-    },
-    {
       "added_at": "2026-10-16 08:50:13",
       "album": {
         "name": "Could You Be That Someone",
@@ -249,6 +281,22 @@
       "url": "https://open.spotify.com/track/4E0uvpJK8cezGjocZYmztl"
     },
     {
+      "added_at": "2026-10-23 13:02:17",
+      "album": {
+        "name": "Dawn of a new day",
+        "url": "https://open.spotify.com/album/6cbK84Ml0QjiclHFCbrU7K"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 212469,
+      "name": "Dawn of a new day",
+      "url": "https://open.spotify.com/track/6dXo2yYcdH9qkk60EeRte4"
+    },
+    {
       "added_at": "2026-10-05 13:08:50",
       "album": {
         "name": "My Forgotten Promises",
@@ -263,6 +311,22 @@
       "duration_ms": 179258,
       "name": "My Forgotten Promises",
       "url": "https://open.spotify.com/track/6KgwAFWdWYOvx5d13ETTsL"
+    },
+    {
+      "added_at": "2026-10-23 13:02:17",
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/6frlgsaHZxht3BRPwToRLc"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "duration_ms": 204762,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/5MboKPex7chSkKA76kbIz2"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -395,22 +459,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "You\u2019re mine",
-        "url": "https://open.spotify.com/album/6FdikNo5uf1hngs1oH0kAc"
-      },
-      "artists": [
-        {
-          "name": "Mabon Clarke Quartet",
-          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
-        }
-      ],
-      "duration_ms": 227883,
-      "name": "You\u2019re mine",
-      "url": "https://open.spotify.com/track/07r7d7jwJ6lW0USQ0aqWmd"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Once Upon a Sunday Night",
         "url": "https://open.spotify.com/album/6ViXReJkg9QOFZTUmfOW7c"
       },
@@ -455,6 +503,22 @@
       "duration_ms": 176083,
       "name": "Silent dream",
       "url": "https://open.spotify.com/track/7LFwE4ccV1VIk1zadMOjfU"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Be the Real Thing",
+        "url": "https://open.spotify.com/album/0CN0xL6ffd8SFSDpkHsx63"
+      },
+      "artists": [
+        {
+          "name": "The Backridges",
+          "url": "https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia"
+        }
+      ],
+      "duration_ms": 201736,
+      "name": "Be the Real Thing",
+      "url": "https://open.spotify.com/track/7Emis89n3tDGSuClGUIthI"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -583,6 +647,22 @@
       "duration_ms": 179308,
       "name": "A new beginning",
       "url": "https://open.spotify.com/track/7IxyFOyqxTKYRBcfDp4v3A"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "You\u2019re mine",
+        "url": "https://open.spotify.com/album/6FdikNo5uf1hngs1oH0kAc"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "duration_ms": 227883,
+      "name": "You\u2019re mine",
+      "url": "https://open.spotify.com/track/07r7d7jwJ6lW0USQ0aqWmd"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -891,22 +971,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "The Autumn Wind",
-        "url": "https://open.spotify.com/album/0tiXUxKb2zellGP5UCsmbU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Lundh Trio",
-          "url": "https://open.spotify.com/artist/1l4ckkpkgNfemTetqUQvN4"
-        }
-      ],
-      "duration_ms": 177158,
-      "name": "The Autumn Wind",
-      "url": "https://open.spotify.com/track/6ozGMSCHBd597JUQFLkOOj"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Lost in Your Eyes",
         "url": "https://open.spotify.com/album/2xpeb3EcklaMojlBSB1spu"
       },
@@ -987,18 +1051,18 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/5LKBA4XrKhVY5DaZZJdVGJ"
+        "name": "The Autumn Wind",
+        "url": "https://open.spotify.com/album/0tiXUxKb2zellGP5UCsmbU"
       },
       "artists": [
         {
-          "name": "Atlas Collective",
-          "url": "https://open.spotify.com/artist/2sgEngYdptdZR370lEpvJy"
+          "name": "Wayne Lundh Trio",
+          "url": "https://open.spotify.com/artist/1l4ckkpkgNfemTetqUQvN4"
         }
       ],
-      "duration_ms": 224678,
-      "name": "Continuum",
-      "url": "https://open.spotify.com/track/0YwzM1Q3VlXy3WvSXDQtjU"
+      "duration_ms": 177158,
+      "name": "The Autumn Wind",
+      "url": "https://open.spotify.com/track/6ozGMSCHBd597JUQFLkOOj"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -1207,6 +1271,22 @@
       "duration_ms": 278395,
       "name": "Reminiscent",
       "url": "https://open.spotify.com/track/1kSgVoVd7WQ6PCUDPIIRv2"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/5LKBA4XrKhVY5DaZZJdVGJ"
+      },
+      "artists": [
+        {
+          "name": "Atlas Collective",
+          "url": "https://open.spotify.com/artist/2sgEngYdptdZR370lEpvJy"
+        }
+      ],
+      "duration_ms": 224678,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/0YwzM1Q3VlXy3WvSXDQtjU"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -1435,38 +1515,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "In a Moody Tone",
-        "url": "https://open.spotify.com/album/6gOpMfwHgAxNokQkRQWQIC"
-      },
-      "artists": [
-        {
-          "name": "The Belleville Band",
-          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "In a Moody Tone",
-      "url": "https://open.spotify.com/track/7ArY8fzwuSnwJRobcKOchd"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Trust built over years",
-        "url": "https://open.spotify.com/album/19fdGNaVuQth8koYe56Mfh"
-      },
-      "artists": [
-        {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
-        }
-      ],
-      "duration_ms": 235060,
-      "name": "Trust built over years",
-      "url": "https://open.spotify.com/track/4Dd9ojn8YYBmTC9XO745qy"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Late Train Home",
         "url": "https://open.spotify.com/album/2QAlvO6AqAYdSwjshvGE8h"
       },
@@ -1639,6 +1687,22 @@
       "duration_ms": 196683,
       "name": "Later",
       "url": "https://open.spotify.com/track/7wbALtGXQDWDus9QXCm5DT"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "In a Moody Tone",
+        "url": "https://open.spotify.com/album/6gOpMfwHgAxNokQkRQWQIC"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "In a Moody Tone",
+      "url": "https://open.spotify.com/track/7ArY8fzwuSnwJRobcKOchd"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -2203,22 +2267,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Stormy Weather",
-        "url": "https://open.spotify.com/album/1hOb0O4tSNpeO8I0IoDMMo"
-      },
-      "artists": [
-        {
-          "name": "Francis Graden",
-          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
-        }
-      ],
-      "duration_ms": 220250,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/0UJcWRcRYtWaLPuKBnaxwA"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Nothing Moves",
         "url": "https://open.spotify.com/album/4hj3xuqxkCw61MCPnWf0hb"
       },
@@ -2359,6 +2407,22 @@
       "duration_ms": 177567,
       "name": "Skip To Be Sorry",
       "url": "https://open.spotify.com/track/5IDgRkmoU7QRQ18OTiFCCd"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Stormy Weather",
+        "url": "https://open.spotify.com/album/1hOb0O4tSNpeO8I0IoDMMo"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "duration_ms": 220250,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/0UJcWRcRYtWaLPuKBnaxwA"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -2683,22 +2747,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "I haven\u2019t seen an angel",
-        "url": "https://open.spotify.com/album/20fHZaJ0ysdCamyiBW0ian"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Leroy Quartet",
-          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
-        }
-      ],
-      "duration_ms": 200296,
-      "name": "I haven\u2019t seen an angel",
-      "url": "https://open.spotify.com/track/7u6AQMBWR7OlQHbKhMFr8M"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Your Hint",
         "url": "https://open.spotify.com/album/0OCNIJeYCdQOhnLgdstBV4"
       },
@@ -2827,22 +2875,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Urban Oasis",
-        "url": "https://open.spotify.com/album/6kB2PhaCo9X7BIZaHH9b8P"
-      },
-      "artists": [
-        {
-          "name": "Nighthawks Revisited",
-          "url": "https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1"
-        }
-      ],
-      "duration_ms": 183668,
-      "name": "Urban Oasis",
-      "url": "https://open.spotify.com/track/4BRXgtVDgAjdozWkzUoNtL"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "A Friend of Mine",
         "url": "https://open.spotify.com/album/188EmjBdMxxEU19ISaJVIj"
       },
@@ -2935,6 +2967,22 @@
       "duration_ms": 200951,
       "name": "The Stalled Clock",
       "url": "https://open.spotify.com/track/6u1J5E62BynnWcHmOImsus"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "I haven\u2019t seen an angel",
+        "url": "https://open.spotify.com/album/20fHZaJ0ysdCamyiBW0ian"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "duration_ms": 200296,
+      "name": "I haven\u2019t seen an angel",
+      "url": "https://open.spotify.com/track/7u6AQMBWR7OlQHbKhMFr8M"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -3067,22 +3115,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "Twelve Oaks",
-        "url": "https://open.spotify.com/album/1DBmm9VfsYHL5Oly6tjgo3"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 246291,
-      "name": "Twelve Oaks",
-      "url": "https://open.spotify.com/track/7JpKs9LpWZRdyMyALBCnmf"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "A Tale of Two Hearts",
         "url": "https://open.spotify.com/album/2S8mcAxKbT3epmgZjsom4Y"
       },
@@ -3195,22 +3227,6 @@
     {
       "added_at": "2026-10-05 13:08:50",
       "album": {
-        "name": "The Quiet Storm",
-        "url": "https://open.spotify.com/album/3OySlk48UhMpqifx8IvIyH"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma Trio",
-          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
-        }
-      ],
-      "duration_ms": 228358,
-      "name": "The Quiet Storm",
-      "url": "https://open.spotify.com/track/5caSbCpxmMVfAdq6wt37nF"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
         "name": "Everything I Could Dream Of",
         "url": "https://open.spotify.com/album/5M6bPGEinV6oXwU8yNNPLh"
       },
@@ -3239,6 +3255,22 @@
       "duration_ms": 230632,
       "name": "Soft Gaze",
       "url": "https://open.spotify.com/track/35E2O1CY3ZnuCwQjtmdOLV"
+    },
+    {
+      "added_at": "2026-10-05 13:08:50",
+      "album": {
+        "name": "Twelve Oaks",
+        "url": "https://open.spotify.com/album/1DBmm9VfsYHL5Oly6tjgo3"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 246291,
+      "name": "Twelve Oaks",
+      "url": "https://open.spotify.com/track/7JpKs9LpWZRdyMyALBCnmf"
     },
     {
       "added_at": "2026-10-05 13:08:50",
@@ -3287,22 +3319,6 @@
       "duration_ms": 175748,
       "name": "Evening Sun",
       "url": "https://open.spotify.com/track/5Kwzs76HmFATFfdAHEN1tw"
-    },
-    {
-      "added_at": "2026-10-05 13:08:50",
-      "album": {
-        "name": "Late Checkout",
-        "url": "https://open.spotify.com/album/4P6FM9ZDKRqSEPrugyWh4G"
-      },
-      "artists": [
-        {
-          "name": "Midnight Window Trio",
-          "url": "https://open.spotify.com/artist/5c4URlpWr8dcszzPFYC8Ut"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Late Checkout",
-      "url": "https://open.spotify.com/track/3sgatj5kc7QhSsGlo88lJL"
     },
     {
       "added_at": "2026-10-05 13:08:50",

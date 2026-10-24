@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: KIM JAE HWAN(\uae40\uc7ac\ud658)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: BOL4) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -4206,7 +4206,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 232000,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/32LxtuhPSXshSFIsah8SWj"
@@ -6826,7 +6826,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 326000,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/13ymxkRGi7AIydygINpmIK"
@@ -7696,6 +7696,24 @@
       "duration_ms": 196421,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn"
+    },
+    {
+      "album": {
+        "name": "A love other than yours OST Part.5",
+        "url": "https://open.spotify.com/album/2LGWx7CR40iTk6zqnA4sJj"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Filling My Heart (inst.)",
+      "url": "https://open.spotify.com/track/4Z2DuHNrVX5a3SXfuRQWXz"
     },
     {
       "album": {
@@ -8759,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "October Archive",
+        "url": "https://open.spotify.com/album/5JczBvoNVXytVZ5K8QYrNK"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3D69kUD60sHbAtaWRTjqpB"
+    },
+    {
+      "album": {
         "name": "Good Bye",
         "url": "https://open.spotify.com/album/4O454vsQGTeGXh9xUGkLju"
       },
@@ -9264,7 +9300,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184090,
       "name": "HAPPINESS",
       "url": "https://open.spotify.com/track/761XLO9SpfryhloLqAG3DX"
@@ -22476,7 +22512,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 226000,
       "name": "Season of Love",
       "url": "https://open.spotify.com/track/46cy0kfws5edDaifSX4TSk"
@@ -22552,6 +22588,24 @@
       "duration_ms": 224140,
       "name": "See you in the evening",
       "url": "https://open.spotify.com/track/2lV347jDNzJz2OwCVaDhJi"
+    },
+    {
+      "album": {
+        "name": "Seoul Sunset",
+        "url": "https://open.spotify.com/album/55iwooWZAy0uLYCNoTcPDP"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Seoul Sunset",
+      "url": "https://open.spotify.com/track/4dE5wLnguEP2n5BTt8Np2Q"
     },
     {
       "album": {
@@ -24631,6 +24685,24 @@
     },
     {
       "album": {
+        "name": "Still in My Heart",
+        "url": "https://open.spotify.com/album/61QdlAknb0nKbZ8n3sperW"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267804,
+      "name": "Still in My Heart",
+      "url": "https://open.spotify.com/track/2Ncf7nhmW0qwxanGLolaBT"
+    },
+    {
+      "album": {
         "name": "Illustration Music Collaboration with Keykney",
         "url": "https://open.spotify.com/album/7r1FskUKyAYGVfw1u3b4MD"
       },
@@ -24660,7 +24732,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 208000,
       "name": "Still Missing You",
       "url": "https://open.spotify.com/track/7e2H1iYMW6j5bnBEBjRIWH"
@@ -27460,7 +27532,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 266116,
       "name": "To Be Free",
       "url": "https://open.spotify.com/track/1bfdX4s50HCF7bUG55dydc"
@@ -27604,7 +27676,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 244000,
       "name": "To You",
       "url": "https://open.spotify.com/track/6V2f7fhOdwoLXGTQkPby4V"
@@ -29672,6 +29744,24 @@
       "duration_ms": 227897,
       "name": "Where To Go",
       "url": "https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ"
+    },
+    {
+      "album": {
+        "name": "Where We Began",
+        "url": "https://open.spotify.com/album/2zV9KfeiNZw1DTOiOJ3jRz"
+      },
+      "artists": [
+        {
+          "name": "SONG HA YOUNG (fromis_9)",
+          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Where We Began",
+      "url": "https://open.spotify.com/track/4SXnfIDFw8zYXeNWr126Zn"
     },
     {
       "album": {
@@ -32878,6 +32968,32 @@
       "duration_ms": 242338,
       "name": "\uc5ec\ud589\uc790",
       "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
+    },
+    {
+      "album": {
+        "name": "Month Lee 2610",
+        "url": "https://open.spotify.com/album/3GaYfTQPitj9Xk8LeTH18v"
+      },
+      "artists": [
+        {
+          "name": "Lee Se Joon",
+          "url": "https://open.spotify.com/artist/6z7PM9dWn2BNcyWTxVwZ8h"
+        },
+        {
+          "name": "Suh Young Eun",
+          "url": "https://open.spotify.com/artist/1uQ8BQhLtGMfK8PS3UAdNX"
+        },
+        {
+          "name": "TwoLeeSuh",
+          "url": "https://open.spotify.com/artist/53eN4fxZldrJsdXGcTWuGm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206125,
+      "name": "\uc6b0\ub9ac \uacc4\uc808\uc740 \uc9c0\uae08\ubd80\ud130\uc57c",
+      "url": "https://open.spotify.com/track/62HmmBbQJoR6Sxcm1bqw2O"
     },
     {
       "album": {

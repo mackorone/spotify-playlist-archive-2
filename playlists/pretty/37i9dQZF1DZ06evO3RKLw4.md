@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,125 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,128 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 47 | [Live Forever](https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:21 |
 | 48 | [Don Giovanni](https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 0:35 |
 | 49 | [Sex & Death](https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Sex & Death](https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2) | 2:04 |
-| 50 | [New American](https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:37 |
+| 50 | [You Want It, You Got It](https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 1:36 |
 
-Snapshot ID: `atavAAAAAAAdvt2XDC69b5nJ6laqx34s`
+Snapshot ID: `atgAgAAAAAAVMccE4nL+1pVR8OUh6sZ4`

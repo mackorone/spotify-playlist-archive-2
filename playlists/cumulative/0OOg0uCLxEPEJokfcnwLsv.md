@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-688 songs - 1 day 18 hr 19 min
+689 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Research](https://open.spotify.com/track/3pY9N3jLmxjPrDWG18u1bv) | [Lord Agaresth](https://open.spotify.com/artist/6FtWK8K4rM6ZiKnPn44K0W) | [Research](https://open.spotify.com/album/44Ese45gT7SzSMKQS7VY4h) | 4:01 | 2026-03-27 | 2026-04-20 |
 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 | 2026-06-05 | 2026-08-08 |
 | [Revo](https://open.spotify.com/track/3a4bk480VWQSzK4zC1rnuj) | [City Flowers](https://open.spotify.com/artist/5mbkwHChoXJjyposTKZEGS) | [The City Flowers](https://open.spotify.com/album/3ZcTTuyUCv6cdcOv0OSkcT) | 3:44 | 2026-01-24 | 2026-02-18 |
+| [Rhoads](https://open.spotify.com/track/7HoeaXhjgR8M9rd6B6vD9R) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 3:03 | 2026-10-23 |  |
 | [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:05 | 2025-10-27 | 2025-11-22 |
 | [Rights Down 50](https://open.spotify.com/track/1vPHGl7R7Zycn2nxg6iNxZ) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:33 | 2025-11-08 | 2025-12-12 |
 | [Riot Town](https://open.spotify.com/track/0xax0lS6CEJnsXINvawN84) | [NALGO BAY](https://open.spotify.com/artist/1I1kjYsnaIoDvGID1UvloM) | [Riot Town](https://open.spotify.com/album/4eTh4YoamKGMXtqA2Dmc5x) | 3:34 | 2026-08-02 | 2026-09-01 |

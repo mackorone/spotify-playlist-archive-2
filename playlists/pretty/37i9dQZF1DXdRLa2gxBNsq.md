@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,516 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,530 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 29 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 30 | [Perdóname, Madre](https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Perdóname, Madre](https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV) | 4:06 |
 | 31 | [Los Chicos No Están Bien](https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Los Chicos No Están Bien](https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8) | 3:22 |
-| 32 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 |
-| 33 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
-| 34 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
-| 35 | [No Quiero Escuchar](https://open.spotify.com/track/7CLqQbnMST28Vstn5wbgKP) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [No Quiero Escuchar](https://open.spotify.com/album/6oHQWOgONDhsEXJUaL1q6Y) | 3:34 |
+| 32 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
+| 33 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
+| 34 | [No Quiero Escuchar](https://open.spotify.com/track/7CLqQbnMST28Vstn5wbgKP) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [No Quiero Escuchar](https://open.spotify.com/album/6oHQWOgONDhsEXJUaL1q6Y) | 3:34 |
+| 35 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 |
 | 36 | [Quiero que sepas](https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Quiero que sepas](https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz) | 2:50 |
 | 37 | [Miedo](https://open.spotify.com/track/5nKVeHvxJqylDBJBHBQy0C) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5) | [Miedo](https://open.spotify.com/album/4XHaklNF38ZoNVaJ7AL1YT) | 2:38 |
 | 38 | [Mi única salida](https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Endemia](https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa) | [Mi única salida](https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy) | 3:20 |

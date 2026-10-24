@@ -2,9 +2,9 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Jorge Duran C
+> Lo que diga el corazón ❤️💔 Cover: Anakin Larios
 
-264 songs - 13 hr 44 min
+269 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BBY THAY](https://open.spotify.com/track/4to70Lv4ryOqFhvXTyyU6H) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [BBY THAY](https://open.spotify.com/album/4dnBX7VN3W51os5tF6EpKI) | 3:34 | 2025-04-25 | 2025-08-09 |
 | [Bebé](https://open.spotify.com/track/48UP7L6H0iAVuE76RyHZLZ) | [Mando Exclusivo](https://open.spotify.com/artist/16GWmOhbfnUn6NmBrg9j3l) | [Bebé](https://open.spotify.com/album/3udwWyV9bBLXoVXfM5jt9k) | 3:24 | 2025-01-17 | 2025-07-05 |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2024-03-15 | 2025-05-28 |
+| [BERLIN](https://open.spotify.com/track/5gZ3Ws7QsnWOn7Vv9Eb4mN) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [CONEXIONES](https://open.spotify.com/album/4AkbZVrb8du3FF5sr9Tjjd) | 2:29 | 2026-10-23 |  |
 | [BESOS](https://open.spotify.com/track/2wwPT2D9wADniE3XzFHyEY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [E$ENCIA](https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm) | 3:50 | 2025-08-08 | 2026-04-04 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2024-03-15 | 2026-01-24 |
 | [Black Hat GZR](https://open.spotify.com/track/1WCPT1bF1rHd0pA9gYaRVq) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Black Hat GZR](https://open.spotify.com/album/5lWSklJO6DlwinZfLjdEyR) | 2:48 | 2026-04-17 | 2026-08-15 |
@@ -144,6 +145,7 @@
 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:10 | 2024-03-15 |  |
 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 | 2024-03-15 | 2025-04-26 |
 | [MIRAA](https://open.spotify.com/track/2TTCzngTprmJJGlmkeM5HR) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [MIRAA](https://open.spotify.com/album/5y9gU5iaqGy61GUeANXwLu) | 3:08 | 2024-07-05 | 2026-04-04 |
+| [mirame](https://open.spotify.com/track/1XbVdkIAQ8zE4OFDtShn1Q) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [mirame](https://open.spotify.com/album/1FoA6jHeVwdbwU9dBQo8uW) | 3:12 | 2026-10-23 |  |
 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 | 2024-03-15 | 2024-05-04 |
 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 | 2024-03-15 | 2025-02-01 |
 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 | 2024-03-15 | 2024-09-28 |
@@ -193,6 +195,7 @@
 | [PLÁTICA CON CUPIDO](https://open.spotify.com/track/48PzmwnVp7aWPyAoZPvpn7) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMARTE DUELE / Plática con Cupido / ALV Cupido](https://open.spotify.com/album/45qBWz1LmpbQ1ZaHdD3hRC) | 3:24 | 2025-08-08 | 2026-09-05 |
 | [Polvito](https://open.spotify.com/track/6Ue52TJAdl5BHt389OOjlm) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Polvito](https://open.spotify.com/album/0LROhRL0IfDHtFMxwUKNuY) | 2:50 | 2024-03-15 | 2024-05-18 |
 | [Por Amarte Así](https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 3:22 | 2026-09-04 |  |
+| [Por antigüedad](https://open.spotify.com/track/29R9iMsijuHJMhrwyS42Ho) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Por antigüedad](https://open.spotify.com/album/4oWGlvnBUJ0SDlmMC2t5tn) | 2:29 | 2026-10-23 |  |
 | [Por Esos Ojitos](https://open.spotify.com/track/3Sk29mMFgPa6lrsSM5QqIy) | [Jorge Duran C](https://open.spotify.com/artist/3g3A0QVWCfSiby8NxjuZ1N), [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx) | [Por Esos Ojitos](https://open.spotify.com/album/4v0vLoOguAsrh6Sq5Q6a32) | 2:56 | 2026-10-02 |  |
 | [Por Esos Ojos](https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Por Esos Ojos](https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp) | 3:08 | 2025-02-26 |  |
 | [Por Nada Te Cambio](https://open.spotify.com/track/7EuzjgPCCn4302zxRQdzeI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Por Nada Te Cambio](https://open.spotify.com/album/4ZYJW43k53sh0EmZhsPykI) | 3:25 | 2025-02-26 |  |
@@ -230,6 +233,7 @@
 | [Soy Fan](https://open.spotify.com/track/214dHBkQIghUJArTL083fZ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Soy Fan](https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z) | 2:56 | 2026-01-24 | 2026-08-15 |
 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 | 2024-03-15 | 2025-09-20 |
 | [Suelto El Cuerno](https://open.spotify.com/track/4N7lLsEHnvR3pWuy3X0A5v) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Suelto El Cuerno](https://open.spotify.com/album/4bmonbHICCKZq37Aq2khr7) | 3:50 | 2025-12-19 | 2026-02-07 |
+| [TAKIKARDIAS](https://open.spotify.com/track/39f0BY8JsMSWrVsJZdS8eR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:48 | 2026-10-23 |  |
 | [Tal Vez](https://open.spotify.com/track/3WaSfL4uKTmbLE2ll6qa1q) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tal Vez](https://open.spotify.com/album/6jm6xoq0cOwygfA9JI5C4W) | 3:29 | 2025-03-28 | 2026-04-04 |
 | [TAN FACIL](https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I) | [TAN FACIL](https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn) | 2:42 | 2026-04-03 |  |
 | [Tanto Dolor](https://open.spotify.com/track/59sxYBYwmm0q9HYwwYA5nT) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Tanto Dolor](https://open.spotify.com/album/2aScIzD3NiJHrdvxSm1vQk) | 4:00 | 2026-09-04 |  |
@@ -271,6 +275,7 @@
 | [Yo Era Atea](https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Yo Era Atea](https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA) | 2:29 | 2026-09-04 |  |
 | [YO NO TE OLVIDO](https://open.spotify.com/track/641M1deHD4Y0X74pt8csik) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [YO NO TE OLVIDO](https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP) | 3:20 | 2025-08-22 | 2026-01-15 |
 | [¿Qué Fue de Nosotros?](https://open.spotify.com/track/7LsEJ5mDNuiqMhtPQX71Qs) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Mariana Millan](https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf) | [¿Qué Fue de Nosotros?](https://open.spotify.com/album/68MBaeT89lI5ioc83G9XXr) | 3:13 | 2025-02-26 | 2025-04-26 |
+| [Ángel](https://open.spotify.com/track/6GcK0KjppUwOYYmSqygoug) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Ángel](https://open.spotify.com/album/6ODtkG0boPTJTSVPbhV9Cd) | 3:11 | 2026-10-23 |  |
 | [éramos perfectos \(with Eddy\)](https://open.spotify.com/track/2BDzHfd33PMXYWQk0zQzTN) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [éramos perfectos \(with Eddy\)](https://open.spotify.com/album/2Y0UAZ7bHZvLGjBDO8rd5e) | 3:06 | 2026-04-03 |  |
 
 \*This playlist was first scraped on 2024-03-21. Prior content cannot be recovered.

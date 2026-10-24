@@ -14247,6 +14247,32 @@
     },
     {
       "album": {
+        "name": "Gaganada Nesara (From \"Father\")",
+        "url": "https://open.spotify.com/album/67sJa6vUczIY4oCUN6jZUF"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Manjappa Magodi",
+          "url": "https://open.spotify.com/artist/1YKAMZ636Ibz0iDzs7ONeP"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291454,
+      "name": "Gaganada Nesara (From \"Father\")",
+      "url": "https://open.spotify.com/track/6yXT7xQoy2328rcOg4YnQY"
+    },
+    {
+      "album": {
         "name": "Madhagaja",
         "url": "https://open.spotify.com/album/4q1pWU4OKvEW5mcRt419VI"
       },
@@ -49264,12 +49290,12 @@
       },
       "artists": [
         {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        },
-        {
           "name": "Prasanna Kumar M S",
           "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Meghana Haliyal",
+          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
         },
         {
           "name": "Trilok Trivikrama",

@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: MAN WITH A MISSION
 
-524 songs - 1 day 6 hr 14 min
+525 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [FREEZE ME UP](https://open.spotify.com/track/5T3uybvFtipCIeCeLT3QcU) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [FREEZE ME UP](https://open.spotify.com/album/3BeyChifc2r1rvipjDBN1y) | 3:36 | 2026-08-04 | 2026-09-16 |
 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-15 |  |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2023-07-20 | 2025-10-22 |
-| [Future's near by \[Re:\]](https://open.spotify.com/track/5WeEZHGAHwz9mIBC7NwFlf) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Future's near by \[Re:\]](https://open.spotify.com/album/02bdX40wHJdnkjC0YvjQ2b) | 4:20 | 2026-09-29 |  |
+| [Future's near by \[Re:\]](https://open.spotify.com/track/5WeEZHGAHwz9mIBC7NwFlf) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Future's near by \[Re:\]](https://open.spotify.com/album/02bdX40wHJdnkjC0YvjQ2b) | 4:20 | 2026-09-29 | 2026-10-24 |
 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 | 2023-07-20 | 2023-10-11 |
 | [FXXKFXXKFXXK](https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Beware](https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5) | 2:25 | 2023-07-20 | 2023-07-28 |
 | [G.I.A.I.G](https://open.spotify.com/track/3pTfr1Pjz2pzzNNn5cp2J1) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [OPTIMIZE = OPTDEMISE](https://open.spotify.com/album/4d1SQUNvHqLe1lr0IkrXPd) | 3:11 | 2026-09-29 |  |
@@ -311,6 +311,7 @@
 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 | 2024-10-15 |  |
 | [Raise Your Flag](https://open.spotify.com/track/1aF3Nj5YI4AUTvcr6P17ap) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Raise Your Flag](https://open.spotify.com/album/2PnF8XNl9MptTBMv3J2KId) | 3:43 | 2026-06-30 | 2026-07-23 |
 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-06-03 |  |
+| [Ray \[Re:\]](https://open.spotify.com/track/3ORm5qj4PFBezTvb568SgE) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Ray \[Re:\]](https://open.spotify.com/album/5NFSTAnHXYbYEoq6ddO2F9) | 3:46 | 2026-10-20 |  |
 | [Re\-create](https://open.spotify.com/track/12AbMuvF8W54iKkfarNIcV) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [TAKESHI UEDA](https://open.spotify.com/artist/3KRIWusy94atZg8vRiudX1) | [Liberation](https://open.spotify.com/album/3zUB4c3GjjuXIJ7cZUKEyH) | 3:11 | 2024-07-30 | 2024-11-13 |
 | [Re\-create \-AA= ver.\- feat\. JUBEE](https://open.spotify.com/track/7mLiu6IY8xJB87VQNGa3TP) | [AA=](https://open.spotify.com/artist/1QRnF3T3BV3bTOLab9lxiN), [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba) | [Re\-create \-AA= ver.\- feat\. JUBEE](https://open.spotify.com/album/16xkykHUQr8sgIWb5sw6k7) | 3:13 | 2025-04-03 | 2025-04-23 |
 | [RE:PLAY](https://open.spotify.com/track/3eLFfCz26lmzVTGUUtHWfB) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [RE:PLAY](https://open.spotify.com/album/5xUVytNuj4abGnoyuJSUYn) | 3:46 | 2026-07-21 | 2026-09-30 |

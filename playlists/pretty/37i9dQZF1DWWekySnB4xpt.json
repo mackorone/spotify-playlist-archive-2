@@ -1,12 +1,12 @@
 {
   "description": "Representando la cultura con orgullo. Representing with pride! Foto: Motherflowers ",
-  "num_followers": 276678,
+  "num_followers": 276644,
   "original_name": "Made In Venezuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZ0jz0u8mFd9dbc8LzBY2h27Oul",
+  "snapshot_id": "AAAAAPH/wk5+qSBNNoSRF6quL4i4EpIX",
   "tracks": [
     {
       "added_at": "2026-10-16 04:59:39",
@@ -73,6 +73,34 @@
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
+      "added_at": "2026-10-23 04:59:39",
+      "album": {
+        "name": "ALGO BONITO",
+        "url": "https://open.spotify.com/album/78HHvnXbImnvQsX7I85NpI"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "eudis",
+          "url": "https://open.spotify.com/artist/3LtTqYfIFVNqhnUOaP4ZAT"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "ALGO BONITO",
+      "url": "https://open.spotify.com/track/7HAef7prVzrDU0DQGwPbgW"
+    },
+    {
       "added_at": "2026-10-16 04:59:39",
       "album": {
         "name": "guacamayas",
@@ -107,6 +135,66 @@
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+    },
+    {
+      "added_at": "2026-10-16 04:59:39",
+      "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": "2026-10-23 04:59:39",
+      "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
+    },
+    {
+      "added_at": "2026-10-16 04:59:39",
+      "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/0D0gKSIjvf5cz7Pr1B8B0x"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "La Dimensi\u00f3n Latina",
+          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "Lloraras",
+      "url": "https://open.spotify.com/track/5eL30MTm9nm9ftXKAHDDsa"
     },
     {
       "added_at": "2026-10-16 04:59:39",
@@ -165,28 +253,20 @@
       "url": "https://open.spotify.com/track/2eW1rnObrBLEpsPXFYiiOZ"
     },
     {
-      "added_at": "2026-10-16 04:59:39",
+      "added_at": "2026-10-23 04:59:39",
       "album": {
-        "name": "CARACAS EN EL 2000",
-        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+        "name": "Un 20",
+        "url": "https://open.spotify.com/album/2SN3HjYZTIy7z9lGl6jXh3"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 227784,
-      "name": "CARACAS EN EL 2000",
-      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+      "duration_ms": 145142,
+      "name": "Un 20",
+      "url": "https://open.spotify.com/track/1QD1FpnOJRwXud3jJuSjcZ"
     },
     {
       "added_at": "2026-10-16 04:59:39",
@@ -203,26 +283,6 @@
       "duration_ms": 170083,
       "name": "uno+1",
       "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
-    },
-    {
-      "added_at": "2026-10-16 04:59:39",
-      "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/0D0gKSIjvf5cz7Pr1B8B0x"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        },
-        {
-          "name": "La Dimensi\u00f3n Latina",
-          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "Lloraras",
-      "url": "https://open.spotify.com/track/5eL30MTm9nm9ftXKAHDDsa"
     },
     {
       "added_at": "2026-10-16 04:59:39",
@@ -1243,42 +1303,6 @@
     {
       "added_at": "2026-10-16 04:59:39",
       "album": {
-        "name": "Himno Nacional",
-        "url": "https://open.spotify.com/album/6XIWWHP4vkWz0TFm2vekBp"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 144423,
-      "name": "Himno Nacional",
-      "url": "https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd"
-    },
-    {
-      "added_at": "2026-10-16 04:59:39",
-      "album": {
-        "name": "The Good Trip",
-        "url": "https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "suei",
-          "url": "https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER"
-        }
-      ],
-      "duration_ms": 215439,
-      "name": "Espero Que Seas Feliz",
-      "url": "https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p"
-    },
-    {
-      "added_at": "2026-10-16 04:59:39",
-      "album": {
         "name": "S\u00e9 Como Duele",
         "url": "https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY"
       },
@@ -1371,22 +1395,6 @@
       "duration_ms": 199280,
       "name": "Ando buscando (feat. Piso 21)",
       "url": "https://open.spotify.com/track/4bd65mDKdhgKngKlF4Q1pZ"
-    },
-    {
-      "added_at": "2026-10-16 04:59:39",
-      "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-10-16 04:59:39",

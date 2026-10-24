@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,522 songs - 2 day 17 hr 29 min
+1,523 songs - 2 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [So Long](https://open.spotify.com/track/2MgAhjcBonrPzFM7hmjvz5) | [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [lunne.](https://open.spotify.com/artist/5goXrxWAAzbAiWUsDkm8mk) | [So Long](https://open.spotify.com/album/0kMygFJabOWCx0ELzJRHAa) | 2:13 | 2023-10-24 | 2024-05-13 |
 | [So Many Faces](https://open.spotify.com/track/0Cg1lcCNWLSdXUdPGE1Rgd) | [hiraeth](https://open.spotify.com/artist/6U3EeZZGfO99IFDMIBaSms), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [So Many Faces](https://open.spotify.com/album/0G6UldF6wGE2Yq1Fu2xQob) | 2:12 | 2025-07-24 | 2026-01-03 |
 | [So Sick](https://open.spotify.com/track/22AK39D1qhtY2KWlDs7JN4) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Eugeene](https://open.spotify.com/artist/0N4rCdfF9BhukzXEHOGNcy) | [So Sick](https://open.spotify.com/album/28oZLTOlunmmbgBDI9Jvux) | 2:35 | 2025-03-07 | 2025-08-30 |
+| [So Tenderly](https://open.spotify.com/track/01E3n7iQD6nY8Mw3YqEnVc) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [So Tenderly](https://open.spotify.com/album/5UoUmI1byGm7blukPU9OMQ) | 2:58 | 2026-10-23 |  |
 | [Soak Up The Sun](https://open.spotify.com/track/4CIqtYlJcHucVyrSejkcr8) | [Damian Birdsey](https://open.spotify.com/artist/068spQpxM8nHnaPy3tiRWd) | [Soak Up The Sun](https://open.spotify.com/album/2x05LFjjMIgWbeUj8Iy4r8) | 3:03 | 2025-08-29 | 2025-10-14 |
 | [Sober](https://open.spotify.com/track/6Ymv5LdoC3IFBcIhSurQHj) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Sober](https://open.spotify.com/album/5yt7bAq2sczF299KRjnAkC) | 2:38 | 2024-05-26 | 2024-06-23 |
 | [Soft Sand Sundays](https://open.spotify.com/track/36v1W4izjUKia0RTQ7rTzU) | [VLX](https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA), [Youngmin](https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb) | [Soft Sand Sundays](https://open.spotify.com/album/2MVoLvIOJkunw6hgxZFkfd) | 2:06 | 2026-09-01 | 2026-10-06 |

@@ -4,7 +4,7 @@
 
 > Dans pisti hazır! Kapak: Mahmut Orhan
 
-125 songs - 7 hr 25 min
+125 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ay Que Me Quema](https://open.spotify.com/track/0RWnpQ7jCb4BtvBI6N13by) | [Ben Hims](https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6), [Merve Ekinci](https://open.spotify.com/artist/75W38iHuJolKCZDgl2vh20), [Baris Turna](https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q) | [Ay Que Me Quema](https://open.spotify.com/album/42aKghPwfuK8zTOLsoZVGd) | 2:50 | 2026-05-22 | 2026-10-15 |
 | [Azahar](https://open.spotify.com/track/4elJSQuePRtrSVcz7oYVaz) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [THEOUTSIDE](https://open.spotify.com/artist/0DpZ0tykgI2ksmmx9GwnEt) | [Azahar](https://open.spotify.com/album/6yLXEZ0EHW0pmrwskbtu10) | 5:13 | 2026-07-02 |  |
 | [Aşk Kokusu \- Melodic Remix](https://open.spotify.com/track/0KAMEYuVCLn7c2SrqOpqgC) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI), [Sezer Uysal](https://open.spotify.com/artist/4y0Bho33I93MMxrgsRwMOj), [FAITH](https://open.spotify.com/artist/5XaXsrXIj4hTVjV6r5E0xe) | [Aşk Kokusu \(Melodic Remix\)](https://open.spotify.com/album/1nI67I4cxS1llpx5VFbqfR) | 5:33 | 2026-05-22 | 2026-07-28 |
+| [Badabum Cha Cha](https://open.spotify.com/track/7srPXvOTFpJhGsP8ZuRu0n) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [ARVIII](https://open.spotify.com/artist/3rFcQPQZfXDmbCsF5mNmyQ) | [Origin](https://open.spotify.com/album/1vtw5lYtK9qT7xYnlPoSOL) | 3:04 | 2026-10-22 |  |
 | [Baila Conmigo](https://open.spotify.com/track/52aKFNJJYq12IofpHAhWku) | [Hakan Akkus](https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh) | [Baila Conmigo](https://open.spotify.com/album/393WRV6QPeYNPpbbSWwA4S) | 2:34 | 2026-08-21 | 2026-09-04 |
 | [Bilionera \- Mert Harmankaya Remix](https://open.spotify.com/track/1PeUrxTa9Bf6zhUKTyvp9n) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Mert Harmankaya](https://open.spotify.com/artist/0evEKDPLrYOyIbaNOzs724) | [Bilionera \(Mert Harmankaya Remix\)](https://open.spotify.com/album/4VlkklqG2N5cWm4eZaLySf) | 2:32 | 2026-05-22 | 2026-07-03 |
 | [Blackberries](https://open.spotify.com/track/1AS1oLvEr6PNsCLnuEUmCi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Blackberries](https://open.spotify.com/album/0F0JTnpQ50g9dVcX2CiNOn) | 2:01 | 2026-05-22 | 2026-09-12 |
@@ -119,7 +120,6 @@
 | [The Sound \- Edit](https://open.spotify.com/track/5p2WCbrxJtGIyGQU1wm22c) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR), [OZBEK](https://open.spotify.com/artist/3oirDQR9QcyQvqjEZSMLFu), [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [The Sound](https://open.spotify.com/album/6Ru1NQn19EmYDMG8dGiy37) | 3:00 | 2026-09-11 | 2026-10-02 |
 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 | 2026-05-22 | 2026-08-01 |
 | [Three](https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Three](https://open.spotify.com/album/3rRRiDr7Z47Lv2DTZRIuGV) | 2:59 | 2026-08-28 | 2026-10-02 |
-| [Track 1](https://open.spotify.com/track/7srPXvOTFpJhGsP8ZuRu0n) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Origin](https://open.spotify.com/album/1vtw5lYtK9qT7xYnlPoSOL) | 0:00 | 2026-10-22 |  |
 | [Transatlantic](https://open.spotify.com/track/4YnRbDzX0bqiKnu3aCeC7n) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Transatlantic](https://open.spotify.com/album/0yonsRocYLh43ZSWQKuq3z) | 3:10 | 2026-07-31 | 2026-08-22 |
 | [Tribal Flex](https://open.spotify.com/track/6IeAVRYmV5fdiqWySLkckg) | [Hakan Akkus](https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh), [Can Sezgin](https://open.spotify.com/artist/1eqqKW8azBmxyYXkXs1DeG) | [Tribal Flex](https://open.spotify.com/album/2czSwT5euEoAMYFSGdpLPH) | 3:01 | 2026-07-31 | 2026-08-22 |
 | [Vamos](https://open.spotify.com/track/1AcMf1MxfRI6wcYLntuS71) | [Yigit Unal](https://open.spotify.com/artist/4Hv9a7a3zhheufyn7gPL2O) | [Vamos](https://open.spotify.com/album/6GY3RETLKBc6tvgSwDJzkF) | 2:19 | 2026-10-01 |  |

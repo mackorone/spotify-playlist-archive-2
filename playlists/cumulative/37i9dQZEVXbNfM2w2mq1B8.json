@@ -5287,6 +5287,28 @@
     },
     {
       "album": {
+        "name": "Bonbonche",
+        "url": "https://open.spotify.com/album/1poSXKaIE2HiiDVevHtAMA"
+      },
+      "artists": [
+        {
+          "name": "Ayshenur",
+          "url": "https://open.spotify.com/artist/4LHZEpXA6Fd8r9tMoQsruq"
+        },
+        {
+          "name": "Monkey",
+          "url": "https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203863,
+      "name": "Bonbonche",
+      "url": "https://open.spotify.com/track/1lhHWyCA45QNJO7HznfppW"
+    },
+    {
+      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -9944,7 +9966,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 158400,
       "name": "DJOBNO GADJE",
       "url": "https://open.spotify.com/track/2l3YT1dyHLUrbwUCLYqky5"
@@ -20566,10 +20588,28 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 200283,
       "name": "Koya",
       "url": "https://open.spotify.com/track/7AG1ltHqHdUl9BEaq6QniG"
+    },
+    {
+      "album": {
+        "name": "Koziruvash ili hvarchish",
+        "url": "https://open.spotify.com/album/30pySJCERWdVRMWWLkrffK"
+      },
+      "artists": [
+        {
+          "name": "VAYA",
+          "url": "https://open.spotify.com/artist/4KYoUSnllfOfFWraainprN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Koziruvash ili hvarchish",
+      "url": "https://open.spotify.com/track/5saMtaNa9XdUQ8kDwaKf25"
     },
     {
       "album": {
@@ -24092,7 +24132,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 285175,
       "name": "Mezhdu nas",
       "url": "https://open.spotify.com/track/17heWk1oi0qx7sdPsQQSWC"
@@ -44874,7 +44914,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 193404,
       "name": "\u0412\u0434\u0438\u0433\u0430 \u043c\u0443 \u0431\u0438\u0432\u0448\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/3iiSZNHW0SScG7pvi0fIUv"
@@ -45670,6 +45710,24 @@
       "duration_ms": 198765,
       "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
       "url": "https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt"
+    },
+    {
+      "album": {
+        "name": "\u0414\u043e\u0431\u0440\u043e \u043d\u0435 \u0442\u0438 \u0436\u0435\u043b\u0430\u044f",
+        "url": "https://open.spotify.com/album/6WLp2EGxHOs0GA2eb5OhS3"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "\u0414\u043e\u0431\u0440\u043e \u043d\u0435 \u0442\u0438 \u0436\u0435\u043b\u0430\u044f",
+      "url": "https://open.spotify.com/track/0sDDJhectbYIl7OkvJ6es8"
     },
     {
       "album": {
@@ -46800,7 +46858,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 199610,
       "name": "\u0417\u043b\u043e\u0431\u0430\u0440\u0438",
       "url": "https://open.spotify.com/track/7G2NBshHNMyHsKknSYcLCc"

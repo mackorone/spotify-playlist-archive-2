@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-251 songs - 14 hr 59 min
+252 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 | 2025-12-19 |  |
 | [Nada Sei \- Apneia, Ao Vivo](https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Nada Sei \(Apneia\)](https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO) | 3:49 | 2024-07-05 | 2026-06-19 |
 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 | 2023-09-15 |  |
+| [No Fundo Todo Mundo Quer Amor](https://open.spotify.com/track/6BQhvkbSK4jVoZUB4Z60J2) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6), [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [No Fundo Todo Mundo Quer Amor](https://open.spotify.com/album/7dTScgnL3EIqHMvVahb6tH) | 3:26 | 2026-10-23 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2023-07-21 | 2025-02-15 |
 | [Noites Frias](https://open.spotify.com/track/7e96OPvQVaD87adQR4eYu4) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh) | [Noites Frias](https://open.spotify.com/album/4aTzZgKLAj2JGmPbOU7JZj) | 3:13 | 2025-07-19 | 2025-12-19 |
 | [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2023-07-21 | 2025-07-19 |
@@ -210,7 +211,7 @@
 | [Sonho Real](https://open.spotify.com/track/014b1uSr2h35A5jqMfpGfs) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Sonho Real, Raio de Sol](https://open.spotify.com/album/3kG1CJ42pOnL15mokG3IJb) | 3:47 | 2026-07-31 |  |
 | [Sr\. Sono](https://open.spotify.com/track/2Eb5ve6iXOtUr4YhPWRFg7) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Sr\. Sono](https://open.spotify.com/album/0Z2oPvMq31Hrm940is09NV) | 2:48 | 2024-04-26 | 2024-06-08 |
 | [Stonehenge \(Live\)](https://open.spotify.com/track/4ZKiLTqCXQLvzzmnRu9LpY) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos; Live\)](https://open.spotify.com/album/7jmk1wr6sJdWCiQpw32iJ1) | 4:12 | 2023-11-03 | 2024-04-19 |
-| [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 | 2023-08-25 |  |
+| [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 | 2023-08-25 | 2026-10-24 |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 | 2023-07-21 | 2024-04-19 |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 5:03 | 2024-04-19 | 2025-06-14 |
 | [SUA BOCA](https://open.spotify.com/track/1XCCN93wMrhXxJvevRVjSk) | [Bruno Caliman](https://open.spotify.com/artist/07co38WMLoS1YJ3bvv6faf), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CALIMANISMO](https://open.spotify.com/album/7tqAfjL1n6CfJTdOvakug7) | 3:00 | 2025-03-07 | 2025-08-15 |

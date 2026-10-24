@@ -1,13 +1,69 @@
 {
-  "description": "The home for alternative electronic music. Cover: KETTAMA, Prospa\n",
-  "num_followers": 546777,
+  "description": "The home for alternative electronic music. Cover: KETTAMA, Prospa",
+  "num_followers": 546793,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5uaCqsfkc0d863Opmrks9ZAeFc",
+  "snapshot_id": "AAAAAAoUBZVOBlL9RWBMVXwiVOgo6Zm1",
   "tracks": [
+    {
+      "added_at": "2026-10-23 10:20:54",
+      "album": {
+        "name": "Gas / Ultra / Equarium",
+        "url": "https://open.spotify.com/album/1Ur1wF6EXdDnUw2mpIWTJL"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Lauren Duffus",
+          "url": "https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l"
+        },
+        {
+          "name": "SOARR",
+          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
+        }
+      ],
+      "duration_ms": 218668,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2XlS3xEvc3YOQi4SSBVU1K"
+    },
+    {
+      "added_at": "2026-10-23 10:20:54",
+      "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 265805,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7ur4RYTN14JvdLZaW9k7rx"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "pull u right thru",
+        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 217864,
+      "name": "pull u right thru",
+      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+    },
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
@@ -33,40 +89,20 @@
       "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
     },
     {
-      "added_at": "2026-10-15 23:00:20",
+      "added_at": "2026-10-23 10:20:54",
       "album": {
-        "name": "Air / Lemonder / Viper",
-        "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
+        "name": "Open Late",
+        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
       },
       "artists": [
         {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "SOARR",
-          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 262559,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "pull u right thru",
-        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 217864,
-      "name": "pull u right thru",
-      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+      "duration_ms": 236927,
+      "name": "Repeaty",
+      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -103,6 +139,22 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
+        "name": "Learning By The Morning",
+        "url": "https://open.spotify.com/album/4pxgX6fkvQcNT03ZMsGSc6"
+      },
+      "artists": [
+        {
+          "name": "India Shan",
+          "url": "https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8"
+        }
+      ],
+      "duration_ms": 162923,
+      "name": "Learning By The Morning",
+      "url": "https://open.spotify.com/track/1k2XPQ8AZcQtLsT4wiiIlf"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
         "name": "JOY (Shit You Make Me Feel)",
         "url": "https://open.spotify.com/album/5ifEOf2h67SLAzkQyVQvhp"
       },
@@ -119,18 +171,22 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Learning By The Morning",
-        "url": "https://open.spotify.com/album/4pxgX6fkvQcNT03ZMsGSc6"
+        "name": "Air / Lemonder / Viper",
+        "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
       },
       "artists": [
         {
-          "name": "India Shan",
-          "url": "https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "SOARR",
+          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
         }
       ],
-      "duration_ms": 162923,
-      "name": "Learning By The Morning",
-      "url": "https://open.spotify.com/track/1k2XPQ8AZcQtLsT4wiiIlf"
+      "duration_ms": 262559,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -259,6 +315,26 @@
       "duration_ms": 199148,
       "name": "OMG (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/31183C4ldHNA1d3lr9VBpB"
+    },
+    {
+      "added_at": "2026-10-23 10:20:54",
+      "album": {
+        "name": "Skin To Skin",
+        "url": "https://open.spotify.com/album/1KgKToGhVrqfJPifL98Agi"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 192700,
+      "name": "Skin To Skin",
+      "url": "https://open.spotify.com/track/0Jx2lddkneaMPRH650RNMO"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -479,6 +555,22 @@
       "duration_ms": 172082,
       "name": "South of the Thames",
       "url": "https://open.spotify.com/track/23AlkF4Vp1EMadT6JvBWU1"
+    },
+    {
+      "added_at": "2026-10-23 10:20:54",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/5baQQ4U0nw6HRY4b1OPLZi"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "duration_ms": 224529,
+      "name": "Breathin'",
+      "url": "https://open.spotify.com/track/5NGzOvAnSbEjEhxd5WIRW7"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -1607,26 +1699,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Rumpta",
-        "url": "https://open.spotify.com/album/3XnRoZiGQ4NdmHkS0Ix9Dv"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 210625,
-      "name": "Rumpta",
-      "url": "https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/6ho2DcV0aLaAg5CNMJxTsF"
       },
@@ -1727,26 +1799,6 @@
       "duration_ms": 281000,
       "name": "Wicked N Ruff",
       "url": "https://open.spotify.com/track/4XjgbpZ4rtt0PwE0QNOMJh"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 349218,
-      "name": "Reckoning",
-      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -1983,38 +2035,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Clip Empty",
-        "url": "https://open.spotify.com/album/2YLNzEcDE3v8rE2T121RHA"
-      },
-      "artists": [
-        {
-          "name": "DJ Jackum",
-          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
-        }
-      ],
-      "duration_ms": 254122,
-      "name": "Clip Empty",
-      "url": "https://open.spotify.com/track/71tXfgTNTxwVMZRM6wEm0K"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/3TBHf6cNiDvbTTmj93CTcL"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 361902,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/50V1z6yu3SFz2Mec3RR4cz"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/4QpjUojSJeFkoqW4qMioyg"
       },
@@ -2031,22 +2051,6 @@
       "duration_ms": 291956,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2TUAiQIUA0wKnQcpJslfoh"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "ten toes",
-        "url": "https://open.spotify.com/album/5OVHJp0XgK9cMW32m4eOXz"
-      },
-      "artists": [
-        {
-          "name": "KTmelodies",
-          "url": "https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd"
-        }
-      ],
-      "duration_ms": 114362,
-      "name": "ten toes",
-      "url": "https://open.spotify.com/track/31nmYWiPPyVHnYFoCH2kZs"
     }
   ],
   "unique_name": "Altar",

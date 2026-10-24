@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Mimi Froes
 
-599 songs - 1 day 11 hr 34 min
+599 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2024-06-20 | 2026-01-29 |
 | [About You](https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 5:26 | 2026-10-09 | 2026-10-12 |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-10 | 2025-05-09 |
+| [Adeus aos lugares do silêncio](https://open.spotify.com/track/4adV4Iu1K2nwOhuBEc6F9i) | [Mimi Froes](https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b) | [Para lá da paisagem](https://open.spotify.com/album/6b5wrQZCyc0cySgXLE0a9m) | 3:55 | 2026-10-22 |  |
 | [Aguarela](https://open.spotify.com/track/6tWOLTCkDUEJxtkbKD5z0T) | [Valter Lobo](https://open.spotify.com/artist/69KGUs8AVPGEyE5ZR9PCc7) | [Aguarela](https://open.spotify.com/album/5gZ0FupOtRDosDt9xbVv4K) | 3:24 | 2025-02-14 | 2025-03-28 |
 | [aguarela \(versão da WI$H\)](https://open.spotify.com/track/7537Wpxd9upi6apl3MzHou) | [Daniela Soares](https://open.spotify.com/artist/2QMZmKuBrDPtZcBnlMVW2v) | [aguarela \(versão da WI$H\)](https://open.spotify.com/album/1mvpLanF033k1oRGQ9Ednc) | 2:58 | 2026-10-22 |  |
 | [Ainda Bem](https://open.spotify.com/track/5NeSzYfdA3fgOoCox28h1e) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [Ainda Bem](https://open.spotify.com/album/6dH3CWbsdLBANyDB0uFUJ4) | 4:52 | 2025-04-10 | 2025-04-25 |
@@ -551,7 +552,6 @@
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-20 | 2024-08-29 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2025-09-12 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-20 |
-| [Track 9](https://open.spotify.com/track/4adV4Iu1K2nwOhuBEc6F9i) | [Mimi Froes](https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b) | [Para lá da paisagem](https://open.spotify.com/album/6b5wrQZCyc0cySgXLE0a9m) | 0:00 | 2026-10-22 |  |
 | [Traz\-me o Verão a Casa](https://open.spotify.com/track/11CKxyt74nFUG36rxtKpx6) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Traz\-me o Verão a Casa](https://open.spotify.com/album/6LNBH6sYVUG4XfpaDS5Quv) | 3:20 | 2026-04-23 | 2026-05-29 |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2024-06-20 | 2024-10-04 |
 | [Três Noites \- Versão Alternativa](https://open.spotify.com/track/0YhGFP3CunA6eyStmO75kn) | [Nunca Mates o Mandarim](https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ), [Luís Lucas](https://open.spotify.com/artist/7KVGKC9RZijUdgCqOrdHPe) | [Três Noites \(Versão Alternativa\)](https://open.spotify.com/album/7l7GOiEDROdjCT4rI0vsa2) | 4:55 | 2026-09-24 | 2026-10-23 |

@@ -363,26 +363,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 887000,
       "name": "Manfred, Op. 115: Overture",
       "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Ll\u0177r Williams",
-          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Frage",
         "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 110773,
       "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
       "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Ll\u0177r Williams",
+          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -527,6 +527,34 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
+        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Marianne Crebassa",
+          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
+        },
+        {
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
+        },
+        {
+          "name": "Geoffroy Jourdain",
+          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
+      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
         "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
       },
@@ -563,34 +591,6 @@
       "duration_ms": 436266,
       "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: I. Lebhaft",
       "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
-        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Marianne Crebassa",
-          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
-        },
-        {
-          "name": "Les Cris De Paris",
-          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
-        },
-        {
-          "name": "Geoffroy Jourdain",
-          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Missa Sacra Op. 147: IV. Offertorium",
-      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann Recital",
-        "url": "https://open.spotify.com/album/7egP1n54TpFaOg0zyIoch0"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
-      "url": "https://open.spotify.com/track/3MdV4O6NgN42ZC0a335Cag"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: The Symphonies",
         "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 709466,
       "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
       "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/7egP1n54TpFaOg0zyIoch0"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/3MdV4O6NgN42ZC0a335Cag"
     },
     {
       "added_at": "2025-12-15 12:40:07",

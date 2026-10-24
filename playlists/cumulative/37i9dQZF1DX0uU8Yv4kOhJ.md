@@ -4,7 +4,7 @@
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-105 songs - 7 hr 11 min
+106 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 | 2022-05-03 |  |
 | [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 | 2023-09-29 | 2025-12-05 |
 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 | 2023-02-17 | 2024-04-19 |
+| [Caracol](https://open.spotify.com/track/6xwFHo1JqCygt44XjshESr) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/57QX9cwsgpXluNSKfytRvm) | 4:10 | 2026-09-25 |  |
 | [Caracol](https://open.spotify.com/track/79O6v0FVZHJS7QbQZ0XHBY) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/3G3M3Tuo24paVJxC3lGMHJ) | 4:10 | 2022-05-03 | 2023-09-02 |
 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 | 2022-05-03 | 2026-04-22 |
 | [Chica Cascada \(feat\. Mariana Päraway\)](https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Vol\. 2](https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP) | 5:28 | 2022-05-03 |  |
@@ -58,7 +59,7 @@
 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 | 2022-05-03 | 2024-04-19 |
 | [La Cosecha](https://open.spotify.com/track/2FbqjF37EfOmf4QCvs2Q0x) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/3qayyVd2DD1T9uXwOZoHsP) | 5:15 | 2023-09-29 | 2026-09-20 |
 | [La Estrella y la Isla](https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo) | [Andrés Correa](https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96), [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [La Estrella y la Isla](https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93) | 4:01 | 2023-09-29 | 2026-03-28 |
-| [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 | 2023-02-14 |  |
+| [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 | 2023-02-14 | 2026-10-24 |
 | [La lluvia \(The Rain\)](https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX) | [Alpamayo](https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK) | [Alpamayo: Music From Peru and Ecuador](https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK) | 4:04 | 2022-05-03 |  |
 | [La Niña Blanca](https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [La Niña Blanca](https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s) | 3:55 | 2022-05-03 |  |
 | [Llegará](https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL) | [Ana Naranja](https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq), [Grupo Enkelé](https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm) | [Llegará](https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi) | 3:53 | 2023-09-29 |  |

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-535 songs - 1 day 1 hr 14 min
+536 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [The Unseen](https://open.spotify.com/track/3rpKRcr3DYdjj3tRkjYyxa) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [The Unseen](https://open.spotify.com/album/46JybsDQOCeOMyFq1UwNt9) | 2:12 | 2025-10-15 | 2025-10-18 |
 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2026-04-03 |  |
 | [Tibetan Bowl Peace](https://open.spotify.com/track/1ZAcQ8bAiiRMITWLqZ3gFW) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Tibetan Bowl Healing](https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6) | 4:06 | 2023-04-28 | 2025-05-22 |
-| [tinySketch \#78](https://open.spotify.com/track/3mfka5FNYAkcZGYPfAslL6) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [tinySketch \#78](https://open.spotify.com/album/1EWlyPTXYpL8RkynJt0IKG) | 3:09 | 2026-07-03 |  |
+| [tinySketch \#78](https://open.spotify.com/track/3mfka5FNYAkcZGYPfAslL6) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [tinySketch \#78](https://open.spotify.com/album/1EWlyPTXYpL8RkynJt0IKG) | 3:09 | 2026-07-03 | 2026-10-24 |
 | [To Walk Alone](https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [To Walk Alone](https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07) | 2:31 | 2026-08-19 |  |
 | [Topaz Nature](https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Topaz Nature](https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be) | 3:00 | 2026-09-21 |  |
 | [Trace](https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL) | [Cuatico](https://open.spotify.com/artist/7uwkc1ZXfm0rVruHw8a91m) | [Trace](https://open.spotify.com/album/7ubIk8MvGIJ4TYXTiGGPOF) | 2:17 | 2026-01-08 | 2026-04-04 |
@@ -528,6 +528,7 @@
 | [Whirling River](https://open.spotify.com/track/6MmRaqMZuFP3IpArpfdWRh) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Whirling River](https://open.spotify.com/album/0iMFpO6EJ85zYs7pEe7Xgy) | 2:44 | 2025-10-24 | 2026-05-28 |
 | [Whispering Brook](https://open.spotify.com/track/0ZXsioKR9gqiTkwVA4ledQ) | [Grainscapes](https://open.spotify.com/artist/6LaLmmQ5cY4tQ7DvJTh3qZ) | [Whispering Brook](https://open.spotify.com/album/1l0Tfhd1t6QEACSu6TvLND) | 2:49 | 2025-12-17 | 2026-02-24 |
 | [Whispers in the Pine Forest](https://open.spotify.com/track/6p6gKm0X8RdwcKx9l8Zrhp) | [Veldt Echoes](https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd) | [Whispers in the Pine Forest](https://open.spotify.com/album/34l4g7qFPCUw2nwvMXw8Oa) | 2:31 | 2026-04-03 | 2026-06-27 |
+| [white pine](https://open.spotify.com/track/4JymhOOCvovTOeCAMlYfps) | [willowmoor](https://open.spotify.com/artist/4zLphhEodulieJLH1yjVXP) | [white pine](https://open.spotify.com/album/6rDWwJmi0gInuAnY6j3ymR) | 2:06 | 2026-09-21 |  |
 | [Wilderness \(Sound Bath\)](https://open.spotify.com/track/2MHG83f4G7CnoxuRrvDc68) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:51 | 2023-04-28 | 2026-01-15 |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2026-04-03 |  |
 | [Wisdom \- Gentle Forest](https://open.spotify.com/track/45hvuICHf2TG5iS3IQCh2S) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:26 | 2023-04-28 | 2024-04-02 |

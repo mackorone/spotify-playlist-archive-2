@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Mari Fernandez e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Felipe e Rodrigo e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -6699,6 +6699,28 @@
     },
     {
       "album": {
+        "name": "Flash (Minha Mente) \ud83d\udca0",
+        "url": "https://open.spotify.com/album/1Am3FeY3VXp8QYEJ1H6Rxp"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157814,
+      "name": "Flash (Minha Mente) \ud83d\udca0",
+      "url": "https://open.spotify.com/track/4mTwKZPVhgWs6olQWxtUEG"
+    },
+    {
+      "album": {
         "name": "Explodiuu BB - Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX"
       },
@@ -6710,7 +6732,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 157184,
       "name": "Flash - Ao Vivo",
       "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
@@ -7934,7 +7956,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 164769,
       "name": "Jontex (fuma\u00e7a do ice)",
       "url": "https://open.spotify.com/track/7t1RoJiMrSZEkUjFmMP10x"
@@ -12437,6 +12459,28 @@
     },
     {
       "album": {
+        "name": "Pegada Bruta",
+        "url": "https://open.spotify.com/album/5NUfXnCU8ST05sXT61NgpB"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Pegada Bruta",
+      "url": "https://open.spotify.com/track/4h11awcqKWkbNQMste9eKa"
+    },
+    {
+      "album": {
         "name": "Pela \u00daltima Vez (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
       },
@@ -12558,7 +12602,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219000,
       "name": "PENSANDO EM MIM",
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
@@ -15310,6 +15354,56 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
+    },
+    {
+      "album": {
+        "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat)",
+        "url": "https://open.spotify.com/album/2L2HIKhijLbqTOHNGLIw2b"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Mc Bruninho da Praia",
+          "url": "https://open.spotify.com/artist/7579yDSrhA6ZAArOo7m6UT"
+        },
+        {
+          "name": "Dj Daltin no Beat",
+          "url": "https://open.spotify.com/artist/2lFKqFqItmkHQB8jKilc44"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431219,
+      "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat)",
+      "url": "https://open.spotify.com/track/7By1xSEpnisnvOK6CvrEk1"
     },
     {
       "album": {

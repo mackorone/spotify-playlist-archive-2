@@ -1,12 +1,12 @@
 {
   "description": "Country music with a Latin flair. Cover: Kacey Musgraves and Intocable",
-  "num_followers": 38245,
+  "num_followers": 38253,
   "original_name": "Country Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKC8f/gW4UOivccicPmqqsZKVeU",
+  "snapshot_id": "AAAAAEE9X3okPGzeq5JNSNa5WGSllCWd",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:32",
@@ -347,6 +347,22 @@
       "duration_ms": 202560,
       "name": "She Hurts Like Tequila",
       "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
+    },
+    {
+      "added_at": "2026-10-23 04:02:08",
+      "album": {
+        "name": "Mi Tesoro",
+        "url": "https://open.spotify.com/album/64YE0WQEVhUDrV5AT6tmHf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 195110,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/6NM6WvgeXafeCb46be3YOu"
     },
     {
       "added_at": "2026-10-09 04:00:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,619 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,654 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 51 | [fuck it](https://open.spotify.com/track/29Y3YUkMBo6051oFAqXpIO) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [fuck it](https://open.spotify.com/album/5sbs5RjZtNMfd9hK00fn6C) | 3:03 |
 | 52 | [Always You \- Sensu Remix](https://open.spotify.com/track/13J6RYiFGKuqwlS7q8lirg) | [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Always You \(Sensu Remix\)](https://open.spotify.com/album/1R1goCOVx6vpumlAHFix86) | 2:49 |
 | 53 | [Blind](https://open.spotify.com/track/0HgCPFrL49BKiQv6WSJlMG) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [Blind](https://open.spotify.com/album/7kUK8G239qBQV4rbdAwL8V) | 3:11 |
-| 54 | [thumbs](https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [thumbs](https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8) | 2:50 |
+| 54 | [thumbs](https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [thumbs](https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8) | 2:50 |
 | 55 | [Unfold Me](https://open.spotify.com/track/4r9vSPOFseeHuKVafFDCTU) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Unfold Me](https://open.spotify.com/album/0xKFlbqRurBLyANvAN3JE7) | 2:43 |
 | 56 | [Space Lover](https://open.spotify.com/track/0KBcxs5d1w9xjCUSczfKXA) | [Seah](https://open.spotify.com/artist/1TpMVu71X4YNKNi7E1HBNO), [Whos Fault](https://open.spotify.com/artist/4Biuvz61tKXgbVNUH4uTDS) | [Space Lover](https://open.spotify.com/album/5O61UmgWh4iGLHiDaVFnBt) | 4:05 |
 | 57 | [Reminisce](https://open.spotify.com/track/3VE4qpLLPS3Bce2ikctDKT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Reminisce](https://open.spotify.com/album/2MhP0tbDll4OySJMrwFG56) | 4:11 |

@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,524 songs - 5 day 21 hr 53 min
+2,528 songs - 5 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Bad Decisions](https://open.spotify.com/track/6Z5qHLhQDnQD23aLXaPsmG) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions EP](https://open.spotify.com/album/2ZaZRpXCPGt2vuyoJNiS3I) | 3:04 | 2021-06-03 | 2022-09-10 |
 | [Bad Gal](https://open.spotify.com/track/6U9TFX5lRVZyKKzMyaKp3p) | [Seb Loko](https://open.spotify.com/artist/72zPHAb6W8eV6ykexdOQAd), [CHANNE](https://open.spotify.com/artist/4yMPMUqchnqWSxwau0CHPE) | [Bad Gal](https://open.spotify.com/album/1X63L3881LgL1D6Bb69b0P) | 2:45 | 2024-08-09 | 2024-09-14 |
 | [Bad Girl](https://open.spotify.com/track/5s0BJQA5fFGbEJOcpeMA5K) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Bad Girl](https://open.spotify.com/album/3QXqLSZOI9kVjDuEuu7Hxk) | 3:07 | 2023-08-25 | 2023-09-02 |
+| [Bad Love](https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Bad Love](https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ) | 3:01 | 2026-10-23 |  |
 | [Bad Luck](https://open.spotify.com/track/6csDhb03N9jdJUmkif5UmG) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Bad Luck / Feel](https://open.spotify.com/album/0P5lz9M9GgAOmkPpOhDs2B) | 3:05 | 2025-10-30 | 2025-12-06 |
 | [Bad Things](https://open.spotify.com/track/4UyCxkx9TX5ZJplYWRHyov) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Bad Things](https://open.spotify.com/album/62r0vqLDrwp9TKCUUwwQjG) | 3:37 | 2025-01-24 | 2025-03-15 |
 | [Badder](https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Badder](https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB) | 3:28 | 2023-04-14 | 2023-04-22 |
@@ -741,6 +742,7 @@
 | [Fired Up \- Kevin McKay Remix](https://open.spotify.com/track/5Al5MFaiF4rK794xIkFpAD) | [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq), [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Fired Up \(Kevin McKay Remix\)](https://open.spotify.com/album/69M7lByhZazIidQSxMoj6y) | 3:34 | 2023-05-12 | 2023-05-20 |
 | [Firestarter](https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Firestarter](https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h) | 3:04 | 2024-09-13 | 2024-10-05 |
 | [Firestarter \- Streaming Edit](https://open.spotify.com/track/5o9nxhf1ZRbT2uAP2y85fA) | [Manuel De La Mare](https://open.spotify.com/artist/3SHGGikgMg1qEIEtqDXmjk), [Luigi Rocca](https://open.spotify.com/artist/23ZwHWwSoeP2gx6HXQYpN6) | [Firestarter](https://open.spotify.com/album/0AAADEvUYkNfRLjPEYaGvO) | 3:06 | 2023-12-30 | 2024-01-06 |
+| [Fish & Chips](https://open.spotify.com/track/6hGjwfwALzqrf9tgfjwdsU) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Fonky Fish EP](https://open.spotify.com/album/31i4eU6zFvhH9D4VLjGMiO) | 2:57 | 2026-10-23 |  |
 | [Fixed Grooves](https://open.spotify.com/track/1OyJ8ezK6JNeOxUbsoYS4z) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [ga2b](https://open.spotify.com/artist/493pW3fugNaVL8Eu7mEOVP) | [Fixed Grooves](https://open.spotify.com/album/5O2THRCZKYWey5U0s1qVtz) | 2:56 | 2023-04-28 | 2023-05-06 |
 | [Flame](https://open.spotify.com/track/7pZ0GyilVy6tUriFrSfPmD) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 6:59 | 2023-01-28 | 2023-02-11 |
 | [Flashback](https://open.spotify.com/track/0BrtHdp3fcih4QlahbDpro) | [General Moses](https://open.spotify.com/artist/7aXBCWkF4GaqldpokuDaiM) | [Flashback](https://open.spotify.com/album/5zoDnxaq8Go8bewZojeSDn) | 3:14 | 2024-02-07 | 2024-02-18 |
@@ -2051,6 +2053,7 @@
 | [Stunner \- Original Mix](https://open.spotify.com/track/5dFPkVJKFyy1WEZ471gjKz) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Stunner](https://open.spotify.com/album/1WddSukHJztab96YiwuM4r) | 3:19 | 2025-03-07 | 2025-04-19 |
 | [Stutter](https://open.spotify.com/track/5iUAme4MwC2xvPqeSSGgrA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Gorillowz](https://open.spotify.com/artist/45oMgBI6YCpxhr29PnmRE9) | [Bring The Noise / Stutter](https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy) | 2:57 | 2023-10-27 | 2023-11-04 |
 | [Subject Study](https://open.spotify.com/track/21ZOkp2EWJw7whsBhds5U5) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Subject Study](https://open.spotify.com/album/2wz9kI2ozsay6rrECF49aR) | 3:30 | 2023-11-03 | 2023-11-10 |
+| [Substance](https://open.spotify.com/track/0hxRuJTSckYfGv845s7YnB) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Substance](https://open.spotify.com/album/3WZomqlFXocE30Udiw1A6p) | 2:39 | 2026-10-23 |  |
 | [Sudando](https://open.spotify.com/track/00bwY24h5wRkH4dEDvYxuv) | [96 Vibe](https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI), [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Yuliesky](https://open.spotify.com/artist/1yovZXHEExzif20uz6foeV) | [Sudando](https://open.spotify.com/album/3SS2CBEzuoHsJEyr5t6ZpX) | 3:26 | 2023-10-27 | 2023-11-04 |
 | [Sultan](https://open.spotify.com/track/1ERes0uWCuGgcSJrh9jTTi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sultan](https://open.spotify.com/album/1A70Tdp7GctvhkDEwEvv6Q) | 2:46 | 2023-01-13 | 2023-01-22 |
 | [Summer In New York \- Öwnboss & Fancy Inc Remix](https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Summer In New York \(Öwnboss & Fancy Inc Remix\)](https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav) | 2:38 | 2022-07-09 | 2022-07-16 |
@@ -2531,6 +2534,7 @@
 | [Yup](https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Yup](https://open.spotify.com/album/4TPTDC0qFhxS31IEfyJQ1K) | 3:48 | 2022-07-29 | 2022-08-06 |
 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 | 2022-11-18 | 2022-11-29 |
 | [Zoochi](https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Zoochi](https://open.spotify.com/album/21U979qpumNTHc2J0nW1ZY) | 2:24 | 2023-05-19 | 2023-06-10 |
+| [Zoolander](https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Zoolander](https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53) | 2:58 | 2026-10-23 |  |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-03 | 2022-09-10 |
 
 \*This playlist was first scraped on 2022-05-02. Prior content cannot be recovered.

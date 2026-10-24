@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,675 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,679 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 49 | [Things Are Looking Up \- Acoustic](https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 2:43 |
 | 50 | [Wind My Friend](https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 4:17 |
 
-Snapshot ID: `atavAAAAAABJg5abJnj6eBtbMy4WOaBC`
+Snapshot ID: `atgAgAAAAACm9pQcslpqlR7E+Z+a1uMG`

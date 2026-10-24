@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93765,
+  "num_followers": 93774,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -303,8 +303,8 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5wjfDqEmIWfst84JhCDqbk"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 185787,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
+      "duration_ms": 181415,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -383,8 +383,8 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5wjfDqEmIWfst84JhCDqbk"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
       },
       "artists": [
         {
@@ -392,25 +392,9 @@
           "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 181415,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6F5ZmNzsrApPjgoGQnnQs4"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
-        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
-      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -427,6 +411,22 @@
       "duration_ms": 198235,
       "name": "Days We Left Behind",
       "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
+        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
+      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Kontrollen & f\u00f6rlusten av den",
+        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 183749,
+      "name": "Kontrollen & f\u00f6rlusten av den",
+      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Vann du livet?",
         "url": "https://open.spotify.com/album/51zCJ9ZtvJBNer1IhhzGb3"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 210680,
       "name": "Vann du livet?",
       "url": "https://open.spotify.com/track/7Aba1eJrqLrAP4NlMAvwK0"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Kontrollen & f\u00f6rlusten av den",
-        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 183749,
-      "name": "Kontrollen & f\u00f6rlusten av den",
-      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Ain't Built For Leaving",
+        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 212442,
+      "name": "Ain't Built For Leaving",
+      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Mirakel",
         "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 278240,
       "name": "Mirakel",
       "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Potatisl\u00e5ten",
-        "url": "https://open.spotify.com/album/3XQrZRQ3RbvkinNLcbpIZf"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Potatisl\u00e5ten",
-      "url": "https://open.spotify.com/track/4qxLriw41OHdEa6HaDwFf9"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Potatisl\u00e5ten",
+        "url": "https://open.spotify.com/album/3XQrZRQ3RbvkinNLcbpIZf"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Potatisl\u00e5ten",
+      "url": "https://open.spotify.com/track/4qxLriw41OHdEa6HaDwFf9"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "P\u00e5 egna ben (feat. Carola)",
         "url": "https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 202425,
       "name": "P\u00e5 egna ben (feat. Carola)",
       "url": "https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Ain't Built For Leaving",
-        "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 212442,
-      "name": "Ain't Built For Leaving",
-      "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "H\u00e4lsningar",
-        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "H\u00e4lsningar",
-      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
         "name": "Jealous Lover",
         "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 191635,
       "name": "MITT HJ\u00c4RTA EN REBELL",
       "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "H\u00e4lsningar",
+        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "H\u00e4lsningar",
+      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "In your bed",
-        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
+        "name": "Bar N\u00eemes - Primi",
+        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
       },
       "artists": [
         {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
         }
       ],
-      "duration_ms": 206325,
-      "name": "In your bed",
-      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
+      "duration_ms": 152564,
+      "name": "En sida kvar",
+      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "In your bed",
+        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 206325,
+      "name": "In your bed",
+      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Dansa p\u00e5 min grav (2026 version)",
         "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
       },
@@ -875,38 +891,6 @@
       "duration_ms": 227068,
       "name": "Dansa p\u00e5 min grav - (2026 version)",
       "url": "https://open.spotify.com/track/4tVmwNcAHYvVDj5BUrxyrb"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Scandinavian Eyes",
-        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 291197,
-      "name": "Scandinavian Eyes",
-      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Bar N\u00eemes - Primi",
-        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        }
-      ],
-      "duration_ms": 152564,
-      "name": "En sida kvar",
-      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -963,6 +947,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Scandinavian Eyes",
+        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 291197,
+      "name": "Scandinavian Eyes",
+      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 166733,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Sciura",
-        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Himmel helvete",
-        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
+        "name": "Sciura",
+        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 209146,
-      "name": "Himmel helvete",
-      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
+      "duration_ms": 171706,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Den f\u00f6rsta sn\u00f6n",
-        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
+        "name": "Himmel helvete",
+        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
       },
       "artists": [
         {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
         }
       ],
-      "duration_ms": 277360,
-      "name": "Den f\u00f6rsta sn\u00f6n",
-      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
+      "duration_ms": 209146,
+      "name": "Himmel helvete",
+      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Den f\u00f6rsta sn\u00f6n",
+        "url": "https://open.spotify.com/album/32rYhvujtR6bclJDSzzfRL"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "Den f\u00f6rsta sn\u00f6n",
+      "url": "https://open.spotify.com/track/1zaqkOxRhqWMOyNmSv5qTt"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "F\u00f6rbannad",
+        "url": "https://open.spotify.com/album/56JsPGMWUICFmcAgtUTQAF"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "F\u00f6rbannad",
+      "url": "https://open.spotify.com/track/0k2KMrEPyj5WmZxd4bE1qx"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Tillbaka",
-        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "Tillbaka",
-      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
         "name": "Revalution Club",
         "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "One on One",
-        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+        "name": "Tillbaka",
+        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
         }
       ],
-      "duration_ms": 221623,
-      "name": "One on One",
-      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+      "duration_ms": 211233,
+      "name": "Tillbaka",
+      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Kom hem till mej",
+        "url": "https://open.spotify.com/album/2WhuwEfXgDqfhtGZyyA6pj"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Kom hem till mej",
+      "url": "https://open.spotify.com/track/7AStGTdtHTUx2iiA6jIGU2"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3oEPgnaHXwi02DjenAQRyT"
       },
@@ -1203,6 +1219,38 @@
       "duration_ms": 271442,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5LfNKvdfzxkWB94LvKWlFG"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Tiden",
+        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 242641,
+      "name": "Tiden",
+      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1223,18 +1271,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Tiden",
-        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+        "name": "Tale of four broken men",
+        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
       },
       "artists": [
         {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
         }
       ],
-      "duration_ms": 242641,
-      "name": "Tiden",
-      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+      "duration_ms": 192746,
+      "name": "Tale of four broken men",
+      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1279,22 +1327,6 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "F\u00f6rbannad",
-        "url": "https://open.spotify.com/album/56JsPGMWUICFmcAgtUTQAF"
-      },
-      "artists": [
-        {
-          "name": "Clara Klingenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "F\u00f6rbannad",
-      "url": "https://open.spotify.com/track/0k2KMrEPyj5WmZxd4bE1qx"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
         "name": "inte nationella",
         "url": "https://open.spotify.com/album/4KDvAViDvy8IlNEDuBvbqB"
       },
@@ -1323,22 +1355,6 @@
       "duration_ms": 183296,
       "name": "Still Believe In God",
       "url": "https://open.spotify.com/track/6Ql3VIyE3WVVglp5j1KigT"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Kom hem till mej",
-        "url": "https://open.spotify.com/album/2WhuwEfXgDqfhtGZyyA6pj"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Kom hem till mej",
-      "url": "https://open.spotify.com/track/7AStGTdtHTUx2iiA6jIGU2"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1375,6 +1391,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
+      },
+      "artists": [
+        {
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "R\u00e4dda Liv",
         "url": "https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj"
       },
@@ -1387,22 +1419,6 @@
       "duration_ms": 227666,
       "name": "R\u00e4dda Liv",
       "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Tale of four broken men",
-        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Tale of four broken men",
-      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
       "artists": [
         {
-          "name": "The Magnolia",
-          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 208173,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1451,22 +1467,6 @@
       "duration_ms": 149508,
       "name": "Neverending Love (8-track Remix by MP)",
       "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Mina v\u00e4nner",
-        "url": "https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV"
-      },
-      "artists": [
-        {
-          "name": "Tomas Andersson Wij",
-          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
-        }
-      ],
-      "duration_ms": 194405,
-      "name": "Mina v\u00e4nner",
-      "url": "https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK"
     }
   ],
   "unique_name": "Aktuellt",

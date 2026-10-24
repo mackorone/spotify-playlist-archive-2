@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 217293,
       "name": "A Letter For You",
       "url": "https://open.spotify.com/track/4vfO4uu5VObHhGSrdV6TC5"
@@ -5198,7 +5198,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Born Savage",
       "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -31918,6 +31918,28 @@
       "duration_ms": 255253,
       "name": "Seed",
       "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
+    },
+    {
+      "album": {
+        "name": "seesaw (Feat. IU)",
+        "url": "https://open.spotify.com/album/6KbCtAZeKS65sKR6ElxnRs"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "seesaw (Feat. IU)",
+      "url": "https://open.spotify.com/track/3lTdjfpGVeYLeHfrczXw1a"
     },
     {
       "album": {

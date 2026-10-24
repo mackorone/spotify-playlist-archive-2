@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: NECTA\)
+> New & best K\-Electronic music is here\. \(Cover: Didi Han\)
 
-340 songs - 19 hr 14 min
+342 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Between](https://open.spotify.com/track/1pNxr8E0bfkzBPcefgeXXI) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [OHNY](https://open.spotify.com/artist/7bwKtxquAuPod4egd1acwB), [Hoonie](https://open.spotify.com/artist/0CPEc9L3MkZdwT5KdXmQ6t) | [Between](https://open.spotify.com/album/0edYbq4vhwXXIYGu5dW8U9) | 2:42 | 2024-04-05 | 2024-05-27 |
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2024-04-05 | 2024-06-29 |
 | [Billyeoon Goyangi \(Do the Dance\) \- Snail's House Remix](https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Billyeoon Goyangi \(Do the Dance\) \(Remixes\)](https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni) | 3:15 | 2025-07-15 |  |
+| [Bobblehead](https://open.spotify.com/track/05kLvFXcTKqNgQY9wtwqPQ) | [Didi Han](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [Bobblehead](https://open.spotify.com/album/1LRZh4lHqOMMy08pf30KKK) | 4:36 | 2026-10-23 |  |
 | [BOOM \- Minit Remix, Bonus Track](https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:17 | 2024-04-05 | 2025-07-26 |
 | [BOP BOP! \(Yves V Remix\)](https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bop Bop! \(Yves V Remix\)](https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX) | 3:12 | 2024-06-28 | 2025-05-26 |
 | [Break it \(feat\. Lexie Liu\)](https://open.spotify.com/track/5tL3rwferxGQRpe1Huquht) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [NAIL](https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4) | 3:04 | 2026-04-20 |  |
@@ -150,7 +151,7 @@
 | [HERO](https://open.spotify.com/track/5bxJv7l1QE9Qv9rpYvbSlO) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [HERO GIRLS](https://open.spotify.com/album/0mBQNCgnsfa2hMM3NtgJxL) | 3:57 | 2026-01-23 | 2026-02-24 |
 | [HEX](https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Old Fantasy](https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd) | 3:54 | 2026-09-04 | 2026-10-22 |
 | [High](https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [High](https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36) | 3:25 | 2024-09-17 |  |
-| [HIGH LIFE](https://open.spotify.com/track/0mfS31QxisGH3C4y3oc6Hy) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [HIGH LIFE](https://open.spotify.com/album/30alLh9pk7puD32ZAS2eoz) | 2:08 | 2026-10-17 |  |
+| [HIGH LIFE](https://open.spotify.com/track/0mfS31QxisGH3C4y3oc6Hy) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [HIGH LIFE](https://open.spotify.com/album/30alLh9pk7puD32ZAS2eoz) | 2:08 | 2026-10-17 | 2026-10-24 |
 | [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2024-04-05 | 2024-10-03 |
 | [Holding On](https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Holding On](https://open.spotify.com/album/5yIFAkA5UJOMEUvtMlrt7A) | 2:48 | 2024-06-28 | 2024-07-17 |
 | [homes](https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [eigensinn](https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg) | 4:21 | 2025-09-29 |  |
@@ -209,6 +210,7 @@
 | [Motion](https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb) | [Take Note](https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0), [GUILTY PLEASURE](https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP) | [Motion](https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM) | 4:16 | 2024-06-28 | 2024-11-11 |
 | [Motorskills](https://open.spotify.com/track/0AnbP0VoncGfQJpRs0gg1B) | [DJ co.kr](https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [Motorskills](https://open.spotify.com/album/3yunGdbhiuxIjgwEBGt4YY) | 4:27 | 2026-09-18 |  |
 | [MOVEURBODY](https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [MOVEURBODY](https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW) | 2:16 | 2026-03-23 |  |
+| [Murda Dancing](https://open.spotify.com/track/38Zm37YpCdZyZ9D3qBrQYl) | [DJ co.kr](https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk) | [Murda Dancing](https://open.spotify.com/album/1tYtUUAkv1e4PCpMSsVRUl) | 4:46 | 2026-10-23 |  |
 | [murmur](https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 01](https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S) | 4:02 | 2025-07-29 |  |
 | [Mushroom House](https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI) | [Tomatomat](https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9) | [Mushroom House](https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG) | 2:54 | 2025-10-14 |  |
 | [Music \(with\. sunwoojunga\)](https://open.spotify.com/track/7qgUPFjr05oDLtNT2l73Dm) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW), [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Music](https://open.spotify.com/album/6tZsLeta17ydKrxuWix40e) | 5:13 | 2025-03-28 | 2025-07-23 |
@@ -300,7 +302,7 @@
 | [Sweet Home](https://open.spotify.com/track/4DvV7uAWihhq4qy7h6KFAQ) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt), [KIHU](https://open.spotify.com/artist/1II4N4IZcSoJqEen1La1dd) | [Sweet Home](https://open.spotify.com/album/72VsWj5QYcz9tekOqYhtop) | 2:23 | 2025-07-01 | 2025-07-15 |
 | [Switch Out](https://open.spotify.com/track/5jL9YGnVUHVlIbabRFRD6z) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN) | [DAMDADI](https://open.spotify.com/album/3qdFRG1zkTaht99iEXpWD3) | 3:26 | 2025-08-19 | 2025-10-23 |
 | [T\-H\-I\-R\-S\-T\-Y](https://open.spotify.com/track/1WvaUzdhKHTH5UYmsQwP75) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 3:36 | 2026-09-10 |  |
-| [Tage](https://open.spotify.com/track/0l7CjPSu1pXGmuudm69DSp) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [Tage](https://open.spotify.com/album/46B9Y2LqWspCLaydLyaefa) | 6:53 | 2026-10-17 |  |
+| [Tage](https://open.spotify.com/track/0l7CjPSu1pXGmuudm69DSp) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [Tage](https://open.spotify.com/album/46B9Y2LqWspCLaydLyaefa) | 6:53 | 2026-10-17 | 2026-10-24 |
 | [Tangerine Fade](https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 06](https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG) | 3:33 | 2026-07-03 |  |
 | [Techno Drop](https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Techno Drop](https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC) | 2:41 | 2024-04-05 | 2024-05-22 |
 | [The Chase \- 0to Remix](https://open.spotify.com/track/32yoamnHf2sqYvzZIN9OJr) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ), [0to](https://open.spotify.com/artist/57yVnSGdUdP3doa2DZyZk5), [ScreaM Records](https://open.spotify.com/artist/2COR1KCYlImSGDRM3Fatx7) | [ScreaM Rookies : The Chase \(Remixes\)](https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq) | 3:35 | 2026-06-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,974 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,984 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 21 | [Vem de Lá](https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 3:00 |
 | 22 | [Vai sacudir, vai abalar](https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Vai sacudir, vai abalar](https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN) | 2:20 |
 | 23 | [Amei Te Ver](https://open.spotify.com/track/4xWcf3di6eJqTmmaYk5oNe) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Amei Te Ver](https://open.spotify.com/album/5JUSZHdRxEsBV5QX6qqz8c) | 3:37 |
-| 24 | [Erva e Calor](https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Erva e Calor](https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd) | 3:17 |
-| 25 | [Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl) | 3:48 |
-| 26 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
+| 24 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
+| 25 | [Erva e Calor](https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Erva e Calor](https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd) | 3:17 |
+| 26 | [Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl) | 3:48 |
 | 27 | [Fiz Esse Som Pra Você \- Acústica](https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Fiz Esse Som Pra Você](https://open.spotify.com/album/3toYATEN96msGnJ34emqb5) | 3:29 |
 | 28 | [Vem Cá](https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:52 |
 | 29 | [coração tambor](https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 2:44 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 31 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 |
 | 32 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 |
 | 33 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 |
-| 34 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
-| 35 | [Vamos Fugir](https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Vamos Fugir](https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv) | 4:01 |
+| 34 | [Vamos Fugir](https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Vamos Fugir](https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv) | 4:01 |
+| 35 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 36 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 37 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 38 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |

@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,538 songs - 4 day 0 hr 32 min
+2,540 songs - 4 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Bonsai Tree](https://open.spotify.com/track/2htzDbcRCI7ljJEQgZyrUa) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Bonsai Tree](https://open.spotify.com/album/4gAXfYg0BLRnt7vBdCvhIc) | 3:19 | 2025-01-10 | 2025-08-30 |
 | [Book Room](https://open.spotify.com/track/5H8xzOlex54SRwYUBd7wkR) | [Melt On](https://open.spotify.com/artist/5j5qAA1DTYRbbk8g72F6dT) | [Book Room](https://open.spotify.com/album/6YtK4H7TE0ApSM5jtU8mqu) | 1:45 | 2022-11-18 | 2023-09-16 |
 | [Borrowed Car](https://open.spotify.com/track/3wwUV04m85SsAqbn04dpnR) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [Borrowed Car](https://open.spotify.com/album/5imAUxqWdjsZBmsbrBwc1I) | 2:06 | 2024-07-05 | 2025-11-26 |
-| [Botanic](https://open.spotify.com/track/3byChw9Mclt1SJHnxNzB0I) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [Botanic](https://open.spotify.com/album/19P2a6SCOyQ7aA9aovMExj) | 2:09 | 2026-07-02 |  |
+| [Botanic](https://open.spotify.com/track/3byChw9Mclt1SJHnxNzB0I) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [Botanic](https://open.spotify.com/album/19P2a6SCOyQ7aA9aovMExj) | 2:09 | 2026-07-02 | 2026-10-24 |
 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 | 2024-10-04 | 2026-02-28 |
 | [Bounce Around](https://open.spotify.com/track/7nbgHt3fUI8k40Ve8qrqsP) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Bounce Around](https://open.spotify.com/album/04APyXciogHezbFroL8Mlg) | 2:28 | 2022-04-15 | 2022-07-01 |
 | [Bouncing Bliss](https://open.spotify.com/track/55SPuvnbi7txOsNLhLnoZg) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Bouncing Bliss](https://open.spotify.com/album/3nry6TFjl0OMnPQOvCwZz5) | 1:56 | 2022-05-27 | 2022-11-12 |
@@ -328,6 +328,7 @@
 | [BYOB](https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [BYOB](https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH) | 2:15 | 2023-04-11 | 2023-12-08 |
 | [Bypass](https://open.spotify.com/track/2pbJqRWuDlzvKX6IbsFH1I) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Bypass](https://open.spotify.com/album/7ybr6nw32PQYcLny6vXjh6) | 1:50 | 2022-06-03 | 2024-05-14 |
 | [c ya soon](https://open.spotify.com/track/38cy4dQmnps3oMyiTcQNxY) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [c ya soon](https://open.spotify.com/album/19LWNsp8XImmOBygYPQXCS) | 2:07 | 2023-07-13 | 2025-07-18 |
+| [cabin dreams](https://open.spotify.com/track/7upcb2pTEdtqIDKhGQPE5T) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [cabin dreams](https://open.spotify.com/album/3BB9ImUHnOdiYhmqGhOezm) | 2:03 | 2026-10-23 |  |
 | [Cabin Light](https://open.spotify.com/track/50AeEAZJ9o2s4pzVaYrum7) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Cabin Light](https://open.spotify.com/album/5hLfgKCmMC4dLJ5WwBvcqR) | 2:03 | 2025-12-04 | 2026-02-21 |
 | [cabin weather](https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [cabin weather](https://open.spotify.com/album/0O0oH4FTGiqwi3Z0PhD1KL) | 2:57 | 2024-02-09 | 2024-07-27 |
 | [California Dreamin'](https://open.spotify.com/track/3M0XGMHiDHyic53kIj2f2M) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [California Dreamin'](https://open.spotify.com/album/0TtJgW59uxVV8ouItfu2Cf) | 2:07 | 2022-07-22 | 2022-08-12 |
@@ -1093,6 +1094,7 @@
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-04-15 | 2022-09-02 |
 | [it will be fine](https://open.spotify.com/track/4NLCbAGUF1SP8MEE1z51S0) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [it will be fine](https://open.spotify.com/album/0D1UbvmcsT5pSZ8thasK7h) | 2:04 | 2023-03-08 | 2025-01-09 |
 | [It's Cloudy](https://open.spotify.com/track/269vLZpnY21sgaa8i70k99) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [In The Loop](https://open.spotify.com/album/5RjmqV62EhYe5fgwDU7Ihi) | 2:30 | 2023-02-21 | 2025-05-19 |
+| [it's okay to slow down](https://open.spotify.com/track/7zcJTjfubdT4m8Ld6qS8OI) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [it's okay to slow down](https://open.spotify.com/album/3YDNCe6CQyuhNzguyjZjcg) | 2:42 | 2026-10-23 |  |
 | [Itinerant](https://open.spotify.com/track/6cmlL15AlkdyWQIzlhTFyM) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Itinerant](https://open.spotify.com/album/376Pv5WxfgEJJjuRWKId2y) | 2:42 | 2024-07-26 | 2024-08-16 |
 | [It´s Friday](https://open.spotify.com/track/1sEZ64HxkbIrYv0C7lgYwO) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [It´s Friday](https://open.spotify.com/album/4mn4QtFqRIEIjJMEwcFdLX) | 1:46 | 2022-12-02 | 2023-03-09 |
 | [It’s Lucid](https://open.spotify.com/track/6NQE83CnUPyQR4rzu1QFrC) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [It’s Lucid](https://open.spotify.com/album/0nQaguJ2Usp3J1pyg1hk4v) | 2:12 | 2025-07-25 |  |
@@ -1568,7 +1570,7 @@
 | [Of Lions and Wolves](https://open.spotify.com/track/4eRxYL2PycfoxWeyujM16A) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [The Bouquet \- EP](https://open.spotify.com/album/2dk1K9TxqKiTGx8rqBlYVP) | 2:36 | 2022-04-15 | 2022-07-08 |
 | [off in the distance](https://open.spotify.com/track/5JhjtEvxLkcC8gJaAIshst) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [late night drive \[side b\]](https://open.spotify.com/album/44qU4kQAoyd1SImj7TkSlB) | 1:50 | 2022-04-15 | 2022-08-19 |
 | [Off The Grid](https://open.spotify.com/track/3B4wGXQkx61yhCfqBo7zGO) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Off The Grid](https://open.spotify.com/album/759Pe8v4HcPjnOpcn8yJ4p) | 1:43 | 2022-06-03 | 2022-11-19 |
-| [off the grid](https://open.spotify.com/track/35roSXeM6DUWUsZRLB9uCZ) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [off the grid](https://open.spotify.com/album/6pKpRcOuQZ0wXstfv0tmie) | 1:52 | 2025-11-14 |  |
+| [off the grid](https://open.spotify.com/track/35roSXeM6DUWUsZRLB9uCZ) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [off the grid](https://open.spotify.com/album/6pKpRcOuQZ0wXstfv0tmie) | 1:52 | 2025-11-14 | 2026-10-24 |
 | [Off you go!](https://open.spotify.com/track/29szXKFMvX88CTRKJQ2S87) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Off you go!](https://open.spotify.com/album/5lSDbRWbpOevHM0XD79OJ6) | 2:52 | 2022-10-28 | 2023-10-13 |
 | [Office](https://open.spotify.com/track/3ZGGfiROAdffkXSI6acfgN) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Office](https://open.spotify.com/album/11V3YeyAZOOZK3PPkd2yKp) | 2:15 | 2024-01-05 | 2025-11-26 |
 | [Offline](https://open.spotify.com/track/2mMqycAqI2reqMB96zVkiw) | [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [Offline](https://open.spotify.com/album/7bQGNKdBfn8NoVUcEkj54n) | 1:54 | 2022-08-05 | 2022-12-03 |

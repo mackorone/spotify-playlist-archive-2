@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 343619,
+  "num_followers": 343649,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACqe2N26FAjz0UxH61x+Z2w",
+  "snapshot_id": "atgAgAAAAAA+77+GsiDnt36vQ/tXbN9E",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "She",
+      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie IV",
         "url": "https://open.spotify.com/album/1dDx2Fz0EEURwOJBm7Y2IV"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 197343,
       "name": "My Only Enemy",
       "url": "https://open.spotify.com/track/210GmnYhUH2OwboYaMU4mf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "She",
-      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
     },
     {
       "added_at": null,

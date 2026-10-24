@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254980,
+  "num_followers": 254986,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAD1j+yTr9QnS9/JDSnkW6zt",
+  "snapshot_id": "atgAgAAAAACz6p3acA83abOAnBs3go0O",
   "tracks": [
     {
       "added_at": null,
@@ -802,15 +802,11 @@
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Josh Homme",
-          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
         }
       ],
-      "duration_ms": 151962,
-      "name": "Faded Blue Jeans (feat. Josh Homme)",
-      "url": "https://open.spotify.com/track/1uSIRVLHBseKIF2pu3y3Io"
+      "duration_ms": 166413,
+      "name": "Quit My Life",
+      "url": "https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq"
     },
     {
       "added_at": null,
@@ -851,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Miss Twain - The Places I'll Go",
-        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
+        "name": "Rock This Country",
+        "url": "https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9"
       },
       "artists": [
         {
@@ -860,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 173750,
-      "name": "What's Going On In There",
-      "url": "https://open.spotify.com/track/0GmYMmEexeHoiVQukIamfZ"
+      "duration_ms": 210333,
+      "name": "I Ain't No Quitter - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
     }
   ],
   "unique_name": "This Is Shania Twain",

@@ -1,6 +1,6 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol.",
-  "num_followers": 4256142,
+  "num_followers": 4256159,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
         "name": "Falta Amor",
         "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 184080,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "Una rola para los minusv\u00e1lidos",
         "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/0zObufS3YTzW6nvoC5J5aS"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 307631,
+      "name": "Parecemos tontos",
+      "url": "https://open.spotify.com/track/5KsZGdaJugVnu1Faccq22D"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
-        "name": "Expectativas",
-        "url": "https://open.spotify.com/album/0zObufS3YTzW6nvoC5J5aS"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 307631,
-      "name": "Parecemos tontos",
-      "url": "https://open.spotify.com/track/5KsZGdaJugVnu1Faccq22D"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
-        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Mil Horas - 1994 Remastered Version",
-      "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "Hijos del pueblo",
         "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
+        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Mil Horas - 1994 Remastered Version",
+      "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "La Gusana Ciega",
         "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 224320,
       "name": "Tornasol (Vuelves a Ser)",
       "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2026-05-19 14:18:22",

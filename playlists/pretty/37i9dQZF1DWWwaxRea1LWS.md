@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > 20 years of Back to Black\.  Cover: Amy Winehouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258,995 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258,831 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

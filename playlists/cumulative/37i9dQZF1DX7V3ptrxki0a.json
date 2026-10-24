@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Agarren su pareja que es momento de mover ese botecito. Marco Maroquin en portada \ud83e\udd20",
+  "description": "Agarren su pareja que es momento de mover ese botecito. Victor Garc\u00eda, Bohemio en portada \ud83e\udd20",
   "name": "Cumbia Norte\u00f1a",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 157240,
       "name": "11:11",
       "url": "https://open.spotify.com/track/76habhthICzyHAigjvZmxm"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178000,
       "name": "Amor Propio",
       "url": "https://open.spotify.com/track/1qc7C2bbYn3PfgaygG2cv7"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 140217,
       "name": "Campeon (Villa Del Refugio)",
       "url": "https://open.spotify.com/track/1mXwOxGrThacR2y3wlKUmJ"
@@ -586,6 +586,24 @@
       "duration_ms": 225911,
       "name": "Canto A Mi Padre - En Vivo",
       "url": "https://open.spotify.com/track/2kfDpVt25AZSSN7EN1lW4O"
+    },
+    {
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/2cxXpfm0xND5e9eC2Fx5F9"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224582,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/5eaLzflCOZknktPA5PdoAV"
     },
     {
       "album": {
@@ -742,7 +760,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 196000,
       "name": "Como Se Olvida",
       "url": "https://open.spotify.com/track/1qyfC7LJSmMFvkLwDPh0Sv"
@@ -847,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Restringido",
+        "url": "https://open.spotify.com/album/5mH4zlTe8W4fjNmk8583AL"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        },
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174124,
+      "name": "Coraz\u00f3n Restringido",
+      "url": "https://open.spotify.com/track/6qmh278OC4sc5CVvuP41fI"
+    },
+    {
+      "album": {
         "name": "Cuando Era Un Jovencito",
         "url": "https://open.spotify.com/album/4iE94GD8ymeT9goammWJpI"
       },
@@ -884,7 +924,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 177039,
       "name": "CUANDO ME ENAMORO",
       "url": "https://open.spotify.com/track/7pDCTH1qYcSAURXvSI11s4"
@@ -989,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Cumbias Cl\u00e1sicas",
+        "url": "https://open.spotify.com/album/64HCxHoJ1jq45UTt8NyGs3"
+      },
+      "artists": [
+        {
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Cumbias Cl\u00e1sicas",
+      "url": "https://open.spotify.com/track/25YMzXjaBNWbPMf6yCDvHY"
+    },
+    {
+      "album": {
         "name": "CurruCucuCumbia",
         "url": "https://open.spotify.com/album/52xuAyq22JsqToxcSzrDJc"
       },
@@ -1062,10 +1120,36 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 168749,
       "name": "Desde Que La Vi",
       "url": "https://open.spotify.com/track/7Kp2oe5OI7chP2N5ZEmwdU"
+    },
+    {
+      "album": {
+        "name": "Desenamorando",
+        "url": "https://open.spotify.com/album/1s66zIDfFrXy7vZ4R4CDm4"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Son\u2019s of Cumbia",
+          "url": "https://open.spotify.com/artist/1OY008az2EhTrKKL0eqZNw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154937,
+      "name": "Desenamorando",
+      "url": "https://open.spotify.com/track/2UDwm7qs2Ud17BtNJezOb6"
     },
     {
       "album": {
@@ -1236,7 +1320,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 172622,
       "name": "El Maquilero",
       "url": "https://open.spotify.com/track/6JN6R8utVFI1sQMUZqg2Y2"
@@ -1438,7 +1522,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 175384,
       "name": "ERES UN ENCANTO",
       "url": "https://open.spotify.com/track/0uz4zuXRKmu1dqP5fpeAUp"
@@ -1514,7 +1598,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 216424,
       "name": "Gringo Star",
       "url": "https://open.spotify.com/track/0WuNbiCRAtrjHyVn6kzNyi"
@@ -1572,7 +1656,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 175709,
       "name": "Historias de Amor",
       "url": "https://open.spotify.com/track/3dCC1fMIkmCH6Gnnv8pXGT"
@@ -1728,7 +1812,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 155534,
       "name": "La Caminera",
       "url": "https://open.spotify.com/track/5L2XRjYSnCaZk3AdagEqaW"
@@ -2401,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Nadie Te Extra\u00f1a",
+        "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151607,
+      "name": "Nadie Te Extra\u00f1a",
+      "url": "https://open.spotify.com/track/1hoJ9H798o6HaJ9pDTov5r"
+    },
+    {
+      "album": {
         "name": "No Capea",
         "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
       },
@@ -2488,7 +2590,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 250661,
       "name": "No Ser\u00e9 Qui\u00e9n Canta",
       "url": "https://open.spotify.com/track/2jw4qfV4ub019PiCre7ZvS"
@@ -2916,7 +3018,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 165780,
       "name": "Qu\u00edtame esa morra",
       "url": "https://open.spotify.com/track/5FqHelqKXLE5e9B4wy0om2"
@@ -3332,7 +3434,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 199197,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/066iNypqZhINl4lpU2IB9N"
@@ -3390,7 +3492,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 166009,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/07NMEt47qjfkrwuhCEDm5y"

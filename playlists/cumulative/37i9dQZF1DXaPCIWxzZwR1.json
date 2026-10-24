@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop\nCover: Mercer Henderson",
+  "description": "next gen pop\nCover: Mila Bea",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 187457,
       "name": "Be The Diva",
       "url": "https://open.spotify.com/track/6UEDJiYCKVUMShsBISSmck"
@@ -8358,7 +8358,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 146320,
       "name": "Closet",
       "url": "https://open.spotify.com/track/1GQxMqoBlrrJFQdDjvHdmY"
@@ -11056,7 +11056,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 228312,
       "name": "does it still mean something?",
       "url": "https://open.spotify.com/track/6wOnFsTCN2e8owgWdn3HJ1"
@@ -12384,7 +12384,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 176143,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR"
@@ -14714,7 +14714,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 147640,
       "name": "Fort",
       "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
@@ -16285,6 +16285,24 @@
     },
     {
       "album": {
+        "name": "God Forbid a Girl Gets Used To This",
+        "url": "https://open.spotify.com/album/0i44xpup3y135PLPN32jSL"
+      },
+      "artists": [
+        {
+          "name": "Emily Bear",
+          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244381,
+      "name": "God Forbid a Girl Gets Used To This",
+      "url": "https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX"
+    },
+    {
+      "album": {
         "name": "God Must Hate Me",
         "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
       },
@@ -17201,6 +17219,24 @@
     },
     {
       "album": {
+        "name": "guilty conscience",
+        "url": "https://open.spotify.com/album/5FkDGe9NbBH4EeMsfBylBb"
+      },
+      "artists": [
+        {
+          "name": "Savanna Leigh",
+          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "guilty conscience",
+      "url": "https://open.spotify.com/track/5Nn97O6u3DXa7JXeraF1ui"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -17590,7 +17626,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 209466,
       "name": "Hate to Be the One",
       "url": "https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ"
@@ -17764,6 +17800,24 @@
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
+    },
+    {
+      "album": {
+        "name": "1.3",
+        "url": "https://open.spotify.com/album/5OkDMU2CQyUs2T26CkkDMy"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Haven\u2019t Said Many I Love You\u2019s Yet",
+      "url": "https://open.spotify.com/track/0xcHxDudApcS1z74ZYy3Gx"
     },
     {
       "album": {
@@ -18240,6 +18294,24 @@
       "duration_ms": 186000,
       "name": "Hell's Belles",
       "url": "https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6rEdnfaSLu1QXN5pFVaCOO"
+      },
+      "artists": [
+        {
+          "name": "colby!",
+          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170816,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7al7M2fVPzsuV1mTyGVmsF"
     },
     {
       "album": {
@@ -19842,7 +19914,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 139017,
       "name": "I Got A Thing For Love",
       "url": "https://open.spotify.com/track/5UFjPmGDGlhBP6XHH5dMJn"
@@ -20618,6 +20690,24 @@
       "duration_ms": 216116,
       "name": "I Used to Care",
       "url": "https://open.spotify.com/track/2z9tQz4ygexOYb2SnCPCnP"
+    },
+    {
+      "album": {
+        "name": "I Walk Away",
+        "url": "https://open.spotify.com/album/1I5uCt2LYrBkr9xApdw7Bf"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "I Walk Away",
+      "url": "https://open.spotify.com/track/5pcFJnIZ10tNhGX22NZEeX"
     },
     {
       "album": {
@@ -21514,6 +21604,24 @@
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "ILOVEYOU",
+      "url": "https://open.spotify.com/track/7e2I9fP4d80xDYOpMjb3Av"
     },
     {
       "album": {
@@ -22492,7 +22600,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 244007,
       "name": "Jade",
       "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
@@ -23628,7 +23736,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173656,
       "name": "KODACHROMATIC",
       "url": "https://open.spotify.com/track/2O8AJk9ggC9ZGQgX2gWE8i"
@@ -24080,7 +24188,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 183406,
       "name": "Leak It",
       "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
@@ -25245,6 +25353,24 @@
     },
     {
       "album": {
+        "name": "Look At All The Happy People",
+        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
+      },
+      "artists": [
+        {
+          "name": "Bluegirl",
+          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Look At All The Happy People",
+      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
+    },
+    {
+      "album": {
         "name": "LOOK AT YOU NOW",
         "url": "https://open.spotify.com/album/3rbXKITsDWzLR8sh8ZMSMG"
       },
@@ -25718,7 +25844,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 216731,
       "name": "Love Makes You Do",
       "url": "https://open.spotify.com/track/5by7y6dIZ6t0OJyxXTl0tA"
@@ -26676,7 +26802,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 168215,
       "name": "Mars",
       "url": "https://open.spotify.com/track/5RbmvXlg7WFVqFZtxv9ATO"
@@ -28470,6 +28596,28 @@
       "duration_ms": 149052,
       "name": "MUSCLE",
       "url": "https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK"
+    },
+    {
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/38cOo1Kpp2Jduc1hOEYHC3"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        },
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7E5S9WN0WCewbPLoDMBdn1"
     },
     {
       "album": {
@@ -31459,6 +31607,24 @@
     },
     {
       "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/3JOSUsNB0oYeWK9COxazfM"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211203,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/0SHEM1zPDaagVOpetRvZEn"
+    },
+    {
+      "album": {
         "name": "PANDORA'S BOX",
         "url": "https://open.spotify.com/album/2mat8pmdxAzMuhUCp44yxr"
       },
@@ -31752,6 +31918,24 @@
       "duration_ms": 189651,
       "name": "Partycrasher",
       "url": "https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe"
+    },
+    {
+      "album": {
+        "name": "Passion Isn't Rare",
+        "url": "https://open.spotify.com/album/7Iehhp14cGzyFbsl9suqCv"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190828,
+      "name": "Passion Isn't Rare",
+      "url": "https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis"
     },
     {
       "album": {
@@ -33427,6 +33611,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me Extra Hard",
+        "url": "https://open.spotify.com/album/7dRnnMM7ji2mfCgycJ2ArD"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179347,
+      "name": "Rather Fight",
+      "url": "https://open.spotify.com/track/35hZag8RyddXfYsKbVg1f3"
+    },
+    {
+      "album": {
         "name": "Read The Room",
         "url": "https://open.spotify.com/album/66hA0bftjpanygAoCYZhou"
       },
@@ -33568,7 +33770,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186941,
       "name": "Red Bottoms",
       "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
@@ -35636,7 +35838,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 205493,
       "name": "Sherry Wine",
       "url": "https://open.spotify.com/track/37BMnmcnLT63VCbAdCL307"
@@ -37409,6 +37611,24 @@
     },
     {
       "album": {
+        "name": "Valley Girl Problems",
+        "url": "https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "Space Between",
+      "url": "https://open.spotify.com/track/49zQ9uJk6ssNFUYeqUmMwq"
+    },
+    {
+      "album": {
         "name": "space girl (feat. chloe moriondo)",
         "url": "https://open.spotify.com/album/2NoIqUCasIQfkQOTUPiJtt"
       },
@@ -38470,6 +38690,24 @@
       "duration_ms": 175311,
       "name": "stuck on us",
       "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
+    },
+    {
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/46OxBNzHIIZeM2qMPJfski"
+      },
+      "artists": [
+        {
+          "name": "Alli Kate",
+          "url": "https://open.spotify.com/artist/4fLRDDrccUS9PGA154uwmA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170377,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0rVXbOfUdtgbnbp1MccwFH"
     },
     {
       "album": {
@@ -41970,7 +42208,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189333,
       "name": "This Side of Heaven",
       "url": "https://open.spotify.com/track/7dqR3Zl3Ev8W37ysafc1JI"
@@ -45329,6 +45567,24 @@
     },
     {
       "album": {
+        "name": "What we want and need from love",
+        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253590,
+      "name": "What we want and need from love",
+      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+    },
+    {
+      "album": {
         "name": "what would you do?",
         "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
       },
@@ -45712,6 +45968,24 @@
       "duration_ms": 194205,
       "name": "Where Have All The Good Men Gone?",
       "url": "https://open.spotify.com/track/2eUn6PBAZawXLeNEEcbTKu"
+    },
+    {
+      "album": {
+        "name": "Just Your Type",
+        "url": "https://open.spotify.com/album/5StVRBMRPbnQ4VoXSzP0gL"
+      },
+      "artists": [
+        {
+          "name": "JYT",
+          "url": "https://open.spotify.com/artist/1xL72kHj5mvMJyFKLj0rg4"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193872,
+      "name": "Which One",
+      "url": "https://open.spotify.com/track/2SsR0sFUhVlWIyjjlcRDnw"
     },
     {
       "album": {

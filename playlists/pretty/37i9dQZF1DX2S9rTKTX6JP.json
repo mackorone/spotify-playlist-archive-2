@@ -1,29 +1,13 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 769834,
+  "num_followers": 769896,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPHzcpg6mDuVxYGrRrgxSwFJOfac",
+  "snapshot_id": "AAAAAMaoIojGgBUGAA1gRQJwQBXwbam9",
   "tracks": [
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
-        "name": "We Didn\u2019t Start The Fire",
-        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215530,
-      "name": "We Didn\u2019t Start The Fire",
-      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
-    },
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
@@ -71,6 +55,26 @@
       "duration_ms": 340359,
       "name": "Changes (Live From Villa Park) Back To The Beginning (feat. Nuno Bettencourt, Frank Bello, Adam Wakeman, II)",
       "url": "https://open.spotify.com/track/5yriBaBAgiRDoTVVWazMuv"
+    },
+    {
+      "added_at": "2026-10-23 04:26:31",
+      "album": {
+        "name": "Jolene (With Dolly Parton)",
+        "url": "https://open.spotify.com/album/5FEJavT3zql5xlYSLHPRxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 159388,
+      "name": "Jolene (With Dolly Parton)",
+      "url": "https://open.spotify.com/track/0PzF4Hjq28F5mvGfYoLgY8"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -571,22 +575,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "The Fate of Ophelia",
-        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 217862,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Mother's Milk",
         "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
       },
@@ -603,18 +591,34 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
+        "name": "We Didn\u2019t Start The Fire",
+        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
       },
       "artists": [
         {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 192600,
-      "name": "...Baby One More Time (from Kung Fu Panda 4)",
-      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire",
+      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 217862,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -631,6 +635,22 @@
       "duration_ms": 268560,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -683,38 +703,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
-        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 247388,
-      "name": "House of The Rising Sun",
-      "url": "https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 261966,
-      "name": "Save It For Later",
-      "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w"
       },
@@ -751,6 +739,38 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 261966,
+      "name": "Save It For Later",
+      "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 247388,
+      "name": "House of The Rising Sun",
+      "url": "https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
         "name": "Jesus He Knows Me",
         "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
       },
@@ -767,22 +787,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Somebody That I Used to Know",
-        "url": "https://open.spotify.com/album/65ixH4ZXPcOExEvKveYoWO"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Somebody That I Used to Know",
-      "url": "https://open.spotify.com/track/100lHmeZbp3OvinYgotmVc"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
@@ -795,6 +799,22 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "Somebody That I Used to Know",
+        "url": "https://open.spotify.com/album/65ixH4ZXPcOExEvKveYoWO"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/100lHmeZbp3OvinYgotmVc"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -851,22 +871,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -879,6 +883,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1207,22 +1227,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1275,6 +1279,22 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
         "name": "Lest We Forget - The Best Of",
         "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
       },
@@ -1323,22 +1343,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "INERTIA",
         "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
       },
@@ -1351,6 +1355,22 @@
       "duration_ms": 217292,
       "name": "MASTERS OF WAR",
       "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1587,22 +1607,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -1627,6 +1631,22 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1691,22 +1711,6 @@
       "duration_ms": 189248,
       "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
-        "name": "We Are The Champions/We Will Rock You",
-        "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 231887,
-      "name": "We Are The Champions/We Will Rock You",
-      "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
     }
   ],
   "unique_name": "Rock Covers",

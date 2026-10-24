@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAA+Uuvh4DSA7YMeJ5inUGn6",
+  "snapshot_id": "atgAgAAAAAAS43hVf4E18DoqjWoDv36q",
   "tracks": [
     {
       "added_at": null,
@@ -88,8 +88,8 @@
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
         },
         {
           "name": "Clara Rockmore",
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 395320,
-      "name": "Sonata for violin and piano: Allegretto poco mosso",
-      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
+      "duration_ms": 204066,
+      "name": "Elegy: Do not tempt me needlessly.",
+      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 256760,
-      "name": "18 Morceaux, Op. 72: No. 2, Berceuse (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/5qhYbBPhm6uBUoBiuNI3ez"
+      "duration_ms": 131000,
+      "name": "6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/0XQEfTQ8ot4b2f04k20yDu"
     },
     {
       "added_at": null,
@@ -188,8 +188,8 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Elegy: Do not tempt me needlessly.",
-      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
+      "duration_ms": 395320,
+      "name": "Sonata for violin and piano: Allegretto poco mosso",
+      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
     },
     {
       "added_at": null,
@@ -212,17 +212,21 @@
       },
       "artists": [
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 476933,
-      "name": "Bachianas Brasileiras: No. 5, Aria",
-      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+      "duration_ms": 268080,
+      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
+      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
     },
     {
       "added_at": null,
@@ -268,9 +272,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 131000,
-      "name": "6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/0XQEfTQ8ot4b2f04k20yDu"
+      "duration_ms": 256760,
+      "name": "18 Morceaux, Op. 72: No. 2, Berceuse (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/5qhYbBPhm6uBUoBiuNI3ez"
     },
     {
       "added_at": null,
@@ -304,21 +308,17 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
         {
           "name": "The Listening Room Ensemble",
           "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 268080,
-      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
-      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
+      "duration_ms": 476933,
+      "name": "Bachianas Brasileiras: No. 5, Aria",
+      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
     },
     {
       "added_at": null,
@@ -424,8 +424,8 @@
       },
       "artists": [
         {
-          "name": "Johann Mattheson",
-          "url": "https://open.spotify.com/artist/0YuQmKNAObna6VBbIpp1VY"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
           "name": "Clara Rockmore",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 127720,
-      "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/0dT13YLZSlWuI8dlWATHrn"
+      "duration_ms": 294893,
+      "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/2o7J3w4ii6FN5ikgLty48C"
     },
     {
       "added_at": null,
@@ -448,8 +448,8 @@
       },
       "artists": [
         {
-          "name": "Manuel de Falla",
-          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
         },
         {
           "name": "Clara Rockmore",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 229306,
-      "name": "El amor brujo, Scene 1: No. 7, Pantomima (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/3xgGIpwxmxW9Gk3EeihaJA"
+      "duration_ms": 288666,
+      "name": "Violin Concerto No. 2 in D Minor, Op. 22: II. Romance (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/1ATduRnEE0yRgBBDz19wRX"
     },
     {
       "added_at": null,
@@ -528,8 +528,8 @@
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          "name": "Johann Mattheson",
+          "url": "https://open.spotify.com/artist/0YuQmKNAObna6VBbIpp1VY"
         },
         {
           "name": "Clara Rockmore",
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2o7J3w4ii6FN5ikgLty48C"
+      "duration_ms": 127720,
+      "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/0dT13YLZSlWuI8dlWATHrn"
     },
     {
       "added_at": null,
@@ -552,8 +552,8 @@
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
         },
         {
           "name": "Clara Rockmore",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Vocalise-\u00e9tude en forme de habanera, M. 51 (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/5MYkgDvpcdR91X8hyMwcxO"
+      "duration_ms": 229306,
+      "name": "El amor brujo, Scene 1: No. 7, Pantomima (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/3xgGIpwxmxW9Gk3EeihaJA"
     },
     {
       "added_at": null,
@@ -600,30 +600,6 @@
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 401813,
-      "name": "Sonata for violin and piano in A major: Allegretto ben moderato",
-      "url": "https://open.spotify.com/track/4wznvZut2lTTZwOjG6jJo6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
           "name": "Johann Sebastian Bach",
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
@@ -639,6 +615,30 @@
       "duration_ms": 443520,
       "name": "Concerto for Two Violins in D minor, BWV 1043.: 2: Largo",
       "url": "https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 401813,
+      "name": "Sonata for violin and piano in A major: Allegretto ben moderato",
+      "url": "https://open.spotify.com/track/4wznvZut2lTTZwOjG6jJo6"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

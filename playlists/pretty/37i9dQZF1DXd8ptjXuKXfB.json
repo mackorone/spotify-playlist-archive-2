@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 33353,
+  "num_followers": 33360,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,30 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        },
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        }
+      ],
+      "duration_ms": 255238,
+      "name": "REM\u00c9LEM",
+      "url": "https://open.spotify.com/track/3nsf11JN914zRRLuC8ZH6p"
+    },
+    {
+      "added_at": "2026-10-12 17:09:31",
+      "album": {
         "name": "Bulv\u00e1r",
         "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 171500,
       "name": "pog\u00e1nyindul\u00f3",
       "url": "https://open.spotify.com/track/3Q286fX6kXedPdyTsY2gNA"
-    },
-    {
-      "added_at": "2026-10-12 17:09:31",
-      "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
-        },
-        {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        }
-      ],
-      "duration_ms": 255238,
-      "name": "REM\u00c9LEM",
-      "url": "https://open.spotify.com/track/3nsf11JN914zRRLuC8ZH6p"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "H\u0171tlen D\u00e9lib\u00e1b",
-        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
-      },
-      "artists": [
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 150725,
-      "name": "J\u00f3l leszek \u00fajra",
-      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
-    },
-    {
-      "added_at": "2026-10-12 17:09:31",
-      "album": {
         "name": "nem hiszek",
         "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 189726,
       "name": "nem hiszek",
       "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
+    },
+    {
+      "added_at": "2026-10-12 17:09:31",
+      "album": {
+        "name": "H\u0171tlen D\u00e9lib\u00e1b",
+        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 150725,
+      "name": "J\u00f3l leszek \u00fajra",
+      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "De\u00e1k Ferenc",
-        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
-      },
-      "artists": [
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "De\u00e1k Ferenc",
-      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
-    },
-    {
-      "added_at": "2026-10-12 17:09:31",
-      "album": {
         "name": "SZABADS\u00c1G, SZERELEM",
         "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+        "name": "De\u00e1k Ferenc",
+        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
         }
       ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+      "duration_ms": 154176,
+      "name": "De\u00e1k Ferenc",
+      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-10-12 17:09:31",
+      "album": {
         "name": "NEM \u00c9RI MEG",
         "url": "https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH"
       },
@@ -1039,26 +1039,18 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "SHOW ME WHAT YOU GOT",
-        "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
+        "name": "Ne M\u00e9regess",
+        "url": "https://open.spotify.com/album/1GXVCSMyyggnSfqVdrB8q6"
       },
       "artists": [
         {
           "name": "VZS",
           "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        },
-        {
-          "name": "JOJO",
-          "url": "https://open.spotify.com/artist/7m6qRs0oYNvnjCCKwRg4Om"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         }
       ],
-      "duration_ms": 262800,
-      "name": "SHOW ME WHAT YOU GOT",
-      "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
+      "duration_ms": 137686,
+      "name": "Gipsyland",
+      "url": "https://open.spotify.com/track/253XpMLROtasRt7uxDPYft"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -1139,18 +1131,42 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "Ne M\u00e9regess",
-        "url": "https://open.spotify.com/album/1GXVCSMyyggnSfqVdrB8q6"
+        "name": "SHOW ME WHAT YOU GOT",
+        "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
       },
       "artists": [
         {
           "name": "VZS",
           "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/7m6qRs0oYNvnjCCKwRg4Om"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         }
       ],
-      "duration_ms": 137686,
-      "name": "Gipsyland",
-      "url": "https://open.spotify.com/track/253XpMLROtasRt7uxDPYft"
+      "duration_ms": 262800,
+      "name": "SHOW ME WHAT YOU GOT",
+      "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
+    },
+    {
+      "added_at": "2026-10-12 17:09:31",
+      "album": {
+        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
+        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Estelente",
+      "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -1171,22 +1187,6 @@
       "duration_ms": 220080,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
-    },
-    {
-      "added_at": "2026-10-12 17:09:31",
-      "album": {
-        "name": "SZ\u00c9THULLIKAVIL\u00c1G",
-        "url": "https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Estelente",
-      "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "WAZZUP",
-        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
-      },
-      "artists": [
-        {
-          "name": "MAXI",
-          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "WAZZUP",
-      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
-    },
-    {
-      "added_at": "2026-10-12 17:09:31",
-      "album": {
         "name": "HA MEGHALOK SE",
         "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
       },
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
+        "name": "WAZZUP",
+        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
+      },
+      "artists": [
+        {
+          "name": "MAXI",
+          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "WAZZUP",
+      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
+    },
+    {
+      "added_at": "2026-10-12 17:09:31",
+      "album": {
         "name": "Csurran, cseppen",
         "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "Gabi",
-        "url": "https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 188389,
-      "name": "Gabi",
-      "url": "https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut"
-    },
-    {
-      "added_at": "2026-10-12 17:09:31",
-      "album": {
         "name": "STARBOY",
         "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 156190,
       "name": "STARBOY",
       "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
+    },
+    {
+      "added_at": "2026-10-12 17:09:31",
+      "album": {
+        "name": "Gabi",
+        "url": "https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 188389,
+      "name": "Gabi",
+      "url": "https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -1423,6 +1423,30 @@
       "duration_ms": 271090,
       "name": "F\u00fajj meg sz\u00e9l",
       "url": "https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS"
+    },
+    {
+      "added_at": "2026-10-12 17:09:31",
+      "album": {
+        "name": "Midnight (The Hanging Tree)",
+        "url": "https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh"
+      },
+      "artists": [
+        {
+          "name": "HOSH",
+          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
+        },
+        {
+          "name": "1979",
+          "url": "https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6"
+        },
+        {
+          "name": "Jalja",
+          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Midnight (The Hanging Tree)",
+      "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
     },
     {
       "added_at": "2026-10-12 17:09:31",
@@ -1467,30 +1491,6 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "Midnight (The Hanging Tree)",
-        "url": "https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh"
-      },
-      "artists": [
-        {
-          "name": "HOSH",
-          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
-        },
-        {
-          "name": "1979",
-          "url": "https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6"
-        },
-        {
-          "name": "Jalja",
-          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Midnight (The Hanging Tree)",
-      "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
-    },
-    {
-      "added_at": "2026-10-12 17:09:31",
-      "album": {
         "name": "HATALMASABB, MINT GONDOLN\u00c1D",
         "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-10-12 17:09:31",
       "album": {
-        "name": "special 2026",
-        "url": "https://open.spotify.com/album/2N9fTNl951zgM3eG13ILtQ"
+        "name": "elterel\u00e9s",
+        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
       },
       "artists": [
         {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
         }
       ],
-      "duration_ms": 114352,
-      "name": "special 2026",
-      "url": "https://open.spotify.com/track/0ENokHRN2tmGOFC9Jeygoa"
+      "duration_ms": 168953,
+      "name": "erotika",
+      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
     }
   ],
   "unique_name": "Most Men\u0151",

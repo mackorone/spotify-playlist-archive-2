@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Bahia",
       "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169180,
       "name": "Batonga",
       "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 208600,
       "name": "Kakua (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/2I4uyRWwA7PpW1HzDVVk9S"
@@ -3932,6 +3932,28 @@
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY"
+    },
+    {
+      "album": {
+        "name": "U Pastore Di Ghisoni",
+        "url": "https://open.spotify.com/album/2iUQD1OOTiVx3wCGz0CQRe"
+      },
+      "artists": [
+        {
+          "name": "La Ma\u00eetrise de Saint Marc - LES CHORISTES",
+          "url": "https://open.spotify.com/artist/026nk210FPO26xMwpoew70"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "U Pastore Di Ghisoni",
+      "url": "https://open.spotify.com/track/3FEnjBx2ysGMcdgukFft9z"
     },
     {
       "album": {

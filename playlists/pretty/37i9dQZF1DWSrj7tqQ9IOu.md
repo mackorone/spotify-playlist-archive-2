@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,383 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,366 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 27 | [GODIN](https://open.spotify.com/track/6CxmDudrDAn0yi3t27DQmF) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [GODIN](https://open.spotify.com/album/655bGp9sr5NZqTpJVnmma5) | 2:44 |
 | 28 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
 | 29 | [TELFAR™](https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [TELFAR™](https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o) | 2:22 |
-| 30 | [Cognac en canette](https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Cognac en canette](https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP) | 3:34 |
-| 31 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
-| 32 | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/track/6QiCYnNjyD0dmnNBPIytt3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/album/10xv43esfpGz0vDmXMCe2N) | 3:32 |
+| 30 | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/track/6QiCYnNjyD0dmnNBPIytt3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/album/10xv43esfpGz0vDmXMCe2N) | 3:32 |
+| 31 | [Cognac en canette](https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Cognac en canette](https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP) | 3:34 |
+| 32 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
 | 33 | [Is It Happening Right Now?](https://open.spotify.com/track/1iaTJl9hntAmATs8gKryNn) | [Girls In Hawaii](https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib) | [Eldorado](https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW) | 4:48 |
-| 34 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
-| 35 | [pas assez](https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [tout à la fois](https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z) | 2:44 |
+| 34 | [pas assez](https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [tout à la fois](https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z) | 2:44 |
+| 35 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
 | 36 | [le président s'en balek](https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [le président s'en balek](https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8) | 3:04 |
 | 37 | [Bizarre](https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs) | [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Bizarre](https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU) | 2:48 |
 | 38 | [100S](https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb) | [Milhan](https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2) | [100S](https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC) | 3:21 |

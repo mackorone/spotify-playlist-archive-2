@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208698,
+  "num_followers": 208702,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAVZ86QIX4lmdX2HzBFXe2i",
+  "snapshot_id": "atgAgAAAAAD9824QYhXXNPK61qDxV84j",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 395161,
+      "name": "Back To Life (Live)",
+      "url": "https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -351,42 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 395161,
-      "name": "Back To Life (Live)",
-      "url": "https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "You're Gonna Be Ok (Instrumental)",
-      "url": "https://open.spotify.com/track/5qrYDyPlWswb4h2RyWgGOz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Will Not Be Shaken",
         "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
@@ -407,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 500300,
-      "name": "No One Like The Lord - Live",
-      "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
+      "duration_ms": 218706,
+      "name": "You're Gonna Be Ok (Instrumental)",
+      "url": "https://open.spotify.com/track/5qrYDyPlWswb4h2RyWgGOz"
     },
     {
       "added_at": null,
@@ -443,6 +423,26 @@
       "duration_ms": 633462,
       "name": "Too Good To Not Believe (Live)",
       "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 500300,
+      "name": "No One Like The Lord - Live",
+      "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 248910,
+      "name": "Luminosity",
+      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Must Respond (Live)",
         "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 616159,
       "name": "Another Like You - Live",
       "url": "https://open.spotify.com/track/6cJ2Kbbbe5AT6M1SjZefqw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 248910,
-      "name": "Luminosity",
-      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 487925,
-      "name": "Jesus Have It All (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 366160,
       "name": "You Make Me Brave (Live)",
       "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "duration_ms": 487925,
+      "name": "Jesus Have It All (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy"
     },
     {
       "added_at": null,

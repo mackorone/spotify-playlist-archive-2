@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 266093,
       "name": "Braveheart Coaster",
       "url": "https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6"
@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Braveheart Coaster",
+        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252466,
+      "name": "\u30b3\u30c9\u30af\u30fb\u30c6\u30ec\u30dd\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7drkoBPx9SHgtXOuFjD8eb"
+    },
+    {
+      "album": {
         "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
         "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
       },
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 272213,
       "name": "\u30e1\u30a4\u30ba\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/6sfCZBZbomvxfp2l15eumu"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 222760,
       "name": "\u7a7a\u4e2d\u604b\u611b\u8ad6",
       "url": "https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD"

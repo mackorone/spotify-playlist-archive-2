@@ -1,32 +1,28 @@
 {
-  "description": "Swimming Paul new album keeps it cool \ud83c\udfca metropolis is your home for the best indie dance",
-  "num_followers": 866969,
+  "description": "Dance it out with Zimmer90 \ud83d\udd4a\ufe0f metropolis is your home for the best indie dance",
+  "num_followers": 866931,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABP/fdMnkhc8S24knVnNrvoaL66k",
+  "snapshot_id": "AAAAAKASkUcpKjtdxbRlX0VJvgwvyHQ2",
   "tracks": [
     {
-      "added_at": "2026-10-09 04:02:18",
+      "added_at": "2026-10-23 04:01:15",
       "album": {
-        "name": "Smiling Through The Pain 3",
-        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/3w10UqDDH9d9Pl1uIQpsgS"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 159325,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
+      "duration_ms": 194431,
+      "name": "Dance It Out",
+      "url": "https://open.spotify.com/track/1al9nKR0YXCPEX0JbTSIRA"
     },
     {
       "added_at": "2026-10-16 04:02:04",
@@ -49,6 +45,22 @@
       "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
     },
     {
+      "added_at": "2026-10-23 04:01:15",
+      "album": {
+        "name": "Nothing Changes",
+        "url": "https://open.spotify.com/album/1uR5EH11lHCNol59CRjphz"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "duration_ms": 160252,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/4VV5M13p97jkMXlIDV7iGq"
+    },
+    {
       "added_at": "2026-09-25 04:02:12",
       "album": {
         "name": "Loser (Fcukers Remix)",
@@ -67,6 +79,42 @@
       "duration_ms": 267616,
       "name": "Loser (Fcukers Remix)",
       "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Can I Smoke In Here?",
+        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Can I Smoke In Here?",
+      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Smiling Through The Pain 3",
+        "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 159325,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
     },
     {
       "added_at": "2026-10-16 04:02:04",
@@ -117,22 +165,6 @@
       "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
     },
     {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
-        "name": "Can I Smoke In Here?",
-        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Can I Smoke In Here?",
-      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
-    },
-    {
       "added_at": "2026-10-16 04:02:04",
       "album": {
         "name": "Makeup",
@@ -163,6 +195,26 @@
       "duration_ms": 216071,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/5n2RJzT9qD1PKGZap0uYdR"
+    },
+    {
+      "added_at": "2026-10-23 04:01:15",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1qKJ1RLzi0fdOYSQoTfZjv"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1Jg7WbwPuynXlmxuD9IOmg"
     },
     {
       "added_at": "2026-08-21 04:02:03",
@@ -215,6 +267,26 @@
       "duration_ms": 162000,
       "name": "lavender (feat. 1tbsp)",
       "url": "https://open.spotify.com/track/1AZOd5a60670CtyMCVMb0y"
+    },
+    {
+      "added_at": "2026-10-23 04:01:15",
+      "album": {
+        "name": "4 Dear Life",
+        "url": "https://open.spotify.com/album/3dQ53LVCduqD4PZHMju80i"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "duration_ms": 236628,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/5qOFirGHlFXnfLc7r6pCSV"
     },
     {
       "added_at": "2026-10-02 04:02:21",
@@ -749,38 +821,6 @@
       "url": "https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U"
     },
     {
-      "added_at": "2026-09-04 04:26:07",
-      "album": {
-        "name": "Dreamtime Karaoke",
-        "url": "https://open.spotify.com/album/5mLKG7Jky7DWdu85MLHb4j"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Dreamtime Karaoke",
-      "url": "https://open.spotify.com/track/6pqjris6hPIl026GVtwb0j"
-    },
-    {
-      "added_at": "2026-09-11 04:02:15",
-      "album": {
-        "name": "Melt Away",
-        "url": "https://open.spotify.com/album/1G4hwUVAXggwkICFWsN9uw"
-      },
-      "artists": [
-        {
-          "name": "Gilligan Moss",
-          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
-        }
-      ],
-      "duration_ms": 257366,
-      "name": "Melt Away",
-      "url": "https://open.spotify.com/track/6Rc9FVl12zdXTpLC6yZUXB"
-    },
-    {
       "added_at": "2026-08-07 04:01:55",
       "album": {
         "name": "Tu sais me faire danser",
@@ -907,30 +947,6 @@
       "duration_ms": 260625,
       "name": "You Mean The World To Me",
       "url": "https://open.spotify.com/track/65yxSGrrEc4zeRiQPVOjty"
-    },
-    {
-      "added_at": "2026-09-11 04:02:15",
-      "album": {
-        "name": "moln (Finally Version)",
-        "url": "https://open.spotify.com/album/5xYq7IoC1I1o3cJ4oTQ6Zh"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "moln - Finally Version",
-      "url": "https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3"
     },
     {
       "added_at": "2026-08-14 04:02:00",
@@ -1775,26 +1791,6 @@
       "duration_ms": 200694,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5YUeDOmrCNZ9XuVhuA6YRz"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Busy DJ (David Bay Remix)",
-        "url": "https://open.spotify.com/album/7qqhI8kAoxZY4Eg0jFFpX6"
-      },
-      "artists": [
-        {
-          "name": "Perel",
-          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
-        },
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Busy DJ - David Bay Remix",
-      "url": "https://open.spotify.com/track/0spJ6WVrQ1HtaC8F64MVrU"
     },
     {
       "added_at": "2026-04-10 04:02:28",

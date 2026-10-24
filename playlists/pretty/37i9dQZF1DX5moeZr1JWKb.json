@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFbp02XWObqPj4UJswCt9dpcl/gb",
+  "snapshot_id": "AAAAAFs+SblGpJ2+OhvETJHmqdGiDKu6",
   "tracks": [
     {
       "added_at": "2026-09-25 04:59:21",
@@ -51,6 +51,30 @@
       "duration_ms": 186250,
       "name": "No Somos Iguales",
       "url": "https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE"
+    },
+    {
+      "added_at": "2026-10-23 04:59:38",
+      "album": {
+        "name": "Solo para entendidos",
+        "url": "https://open.spotify.com/album/7LxnCL5EHjTSXLjXnIk5GA"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/6F96Id5jfazR47isaGh1OK"
     },
     {
       "added_at": "2026-09-25 04:59:21",
@@ -127,6 +151,26 @@
       "duration_ms": 185806,
       "name": "Suero Casero",
       "url": "https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP"
+    },
+    {
+      "added_at": "2026-10-23 04:59:38",
+      "album": {
+        "name": "Boca",
+        "url": "https://open.spotify.com/album/5IPTzGq5i1JgzTlIkeP0sS"
+      },
+      "artists": [
+        {
+          "name": "chelo hop",
+          "url": "https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC"
+        },
+        {
+          "name": "Astrallbass",
+          "url": "https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Boca",
+      "url": "https://open.spotify.com/track/4b4DeGeXh98ucO0HzR4qsa"
     },
     {
       "added_at": "2026-09-25 04:59:21",
@@ -691,42 +735,6 @@
     {
       "added_at": "2026-09-25 04:59:21",
       "album": {
-        "name": "Medallo Finest - Cypher",
-        "url": "https://open.spotify.com/album/3cri0TxB5nxq3SK2zVm4v0"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "DeeJohend",
-          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
-        },
-        {
-          "name": "Niche Ls",
-          "url": "https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7"
-        },
-        {
-          "name": "Z\u00e1baz",
-          "url": "https://open.spotify.com/artist/6HZ9Yb4XRVEWWFqUANMtKd"
-        },
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Medallo Finest - Cypher",
-      "url": "https://open.spotify.com/track/0GgKbQrvXc5ejyHCcsEkHf"
-    },
-    {
-      "added_at": "2026-09-25 04:59:21",
-      "album": {
         "name": "Crudo",
         "url": "https://open.spotify.com/album/1UgZKyUxYqKKqYnajZ0E1V"
       },
@@ -819,26 +827,6 @@
       "duration_ms": 201084,
       "name": "Dios y Madre",
       "url": "https://open.spotify.com/track/34fiXTDrqSTOYdTfN937yt"
-    },
-    {
-      "added_at": "2026-09-25 04:59:21",
-      "album": {
-        "name": "Ya fue",
-        "url": "https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        }
-      ],
-      "duration_ms": 184651,
-      "name": "Ya fue",
-      "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
     },
     {
       "added_at": "2026-09-25 04:59:21",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Gunna, Quavo, Drake, Offset, Cardi B, and Travis Scott.",
+  "description": "Today's Hip-Hop with Yung Miami, Yeat, Gunna, Drake, Offset, and Cardi B.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 151578,
       "name": "2008",
       "url": "https://open.spotify.com/track/211K8IAEPeVhuPxA1CWHCF"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 151072,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
@@ -1586,6 +1586,28 @@
       "duration_ms": 224279,
       "name": "AIR FORCE (BLACK DEMARCO)",
       "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
+    },
+    {
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
       "album": {
@@ -5380,7 +5402,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 193965,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
@@ -12120,7 +12142,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
@@ -16421,6 +16443,28 @@
     },
     {
       "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+    },
+    {
+      "album": {
         "name": "Just Relax",
         "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
       },
@@ -17091,6 +17135,28 @@
     },
     {
       "album": {
+        "name": "Lambo pass by (feat. OJ da Juiceman)",
+        "url": "https://open.spotify.com/album/0sxD77LnEeh7Z7bqH69mN7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "OJ Da Juiceman",
+          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173974,
+      "name": "Lambo pass by (feat. OJ da Juiceman)",
+      "url": "https://open.spotify.com/track/5Bl2UDbq6lOT2U2YXbJ7Dq"
+    },
+    {
+      "album": {
         "name": "Last Man Breathin",
         "url": "https://open.spotify.com/album/4xvAitL2IE5n0p4dLRQmv8"
       },
@@ -17234,6 +17300,32 @@
       "duration_ms": 151289,
       "name": "LEFT OUT (feat. M Huncho)",
       "url": "https://open.spotify.com/track/6h9lDWwnNEZgKUZxPjSohA"
+    },
+    {
+      "album": {
+        "name": "LEFT RIGHT (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "LEFT RIGHT (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
     },
     {
       "album": {
@@ -17923,6 +18015,28 @@
     },
     {
       "album": {
+        "name": "Luh Leakyz Vol. 1",
+        "url": "https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lyfestyle Corporation",
+          "url": "https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Lil Krazy",
+      "url": "https://open.spotify.com/track/3301sy6RP2XMn67qrjzY0y"
+    },
+    {
+      "album": {
         "name": "Lion Eyes",
         "url": "https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3"
       },
@@ -18004,6 +18118,32 @@
       "duration_ms": 178333,
       "name": "LITE (feat. Belly Gang Kushington)",
       "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+    },
+    {
+      "album": {
+        "name": "Live and Die",
+        "url": "https://open.spotify.com/album/07e5jzTwCwh1TvsDmLFxM6"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166561,
+      "name": "Live and Die",
+      "url": "https://open.spotify.com/track/6iwrQJKw5jXclaI9tEV6Sf"
     },
     {
       "album": {
@@ -21444,7 +21584,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184335,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG"
@@ -23198,6 +23338,24 @@
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
+    {
+      "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/5bX6fQe78SeDHwYvbrWDrh"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/6zpeQpV1meY5BVLKYlmgwX"
     },
     {
       "album": {
@@ -25656,7 +25814,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 185026,
       "name": "Reign",
       "url": "https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm"
@@ -28172,7 +28330,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 145754,
       "name": "Something I Need",
       "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
@@ -30640,7 +30798,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 207374,
       "name": "The Market Remix (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/1OsVaHQgD0x4q8byl0yXcF"
@@ -32072,6 +32230,28 @@
       "duration_ms": 197429,
       "name": "TRIPLE THREAT",
       "url": "https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN"
+    },
+    {
+      "album": {
+        "name": "Tripping His Cousin",
+        "url": "https://open.spotify.com/album/580E7EctgR4faaMZvgC67p"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Tripping His Cousin",
+      "url": "https://open.spotify.com/track/6z59m64HUpW5vnsJJCzODa"
     },
     {
       "album": {
@@ -34398,7 +34578,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 251133,
       "name": "Who Dat Is",
       "url": "https://open.spotify.com/track/5JfeDWN5DQTM0sWWt4fuQm"
@@ -35048,6 +35228,28 @@
       "duration_ms": 184686,
       "name": "YKWSF",
       "url": "https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q"
+    },
+    {
+      "album": {
+        "name": "Yo Mama (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/3FdLnSLMd41nZjA0izhZtB"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157782,
+      "name": "Yo Mama (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3Jl1IqMT7U8y8Om3fgjSqj"
     },
     {
       "album": {

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/08rFgc0sVCvnbvgA9T5WoF"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172732,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/12Nrb9ghhJpD74pO8rj2jz"
+    },
+    {
+      "album": {
         "name": "Ad Libitum",
         "url": "https://open.spotify.com/album/2psCwjqmdWAShLWbXzCkNY"
       },
@@ -722,6 +740,24 @@
       "duration_ms": 146095,
       "name": "Automne",
       "url": "https://open.spotify.com/track/4q0kdtrDe5YiYEQCHsfDlZ"
+    },
+    {
+      "album": {
+        "name": "Autumn Song",
+        "url": "https://open.spotify.com/album/0PeA2VpJHT7VwBQaoAwmUw"
+      },
+      "artists": [
+        {
+          "name": "Emile Valadon",
+          "url": "https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141898,
+      "name": "Autumn Song",
+      "url": "https://open.spotify.com/track/3mnjKgDoy992Im3V7ZY6Ua"
     },
     {
       "album": {

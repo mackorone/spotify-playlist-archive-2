@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,733 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,737 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 33 | [Movimiento](https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [ATLAC](https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98) | [Movimiento](https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4) | 2:34 |
 | 34 | [A Que No Te Atreves \(Remix\)](https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Alta Jerarquia \(El Patrón\)](https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ) | 3:49 |
 | 35 | [Noche Y De Dia](https://open.spotify.com/track/1EeyW21hFIylGaCMGfCtqR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [SEX AND LOVE](https://open.spotify.com/album/3lIHHrdS4kzUgqvMXgPEKP) | 3:42 |
-| 36 | [Teléfono / Mírala Bien / Rakata / Ahora Es / Pam Pam Medley \- Sinfónico En Vivo](https://open.spotify.com/track/5ALM9Olk2WqEKFtFiLV2q4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 5:43 |
+| 36 | [Noche De Entierro \- Sinfónico En Vivo](https://open.spotify.com/track/229RHylF8KuiREpa3hY01H) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:00 |
 | 37 | [La Calle Me Lo Pidio](https://open.spotify.com/track/4YHq43XsMY9dgNWbcr90a4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Quien Contra Mi](https://open.spotify.com/album/30YDfz90cdslkFPfoPBR9U) | 3:05 |
 | 38 | [HABLAME CLARO](https://open.spotify.com/track/2qyEoF40CW5XfmpYJDoOR3) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [ELYTE](https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea) | 2:34 |
 | 39 | [No Digas Na](https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:28 |
-| 40 | [Noche De Entierro \- Sinfónico En Vivo](https://open.spotify.com/track/229RHylF8KuiREpa3hY01H) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:00 |
+| 40 | [Teléfono / Mírala Bien / Rakata / Ahora Es / Pam Pam Medley \- Sinfónico En Vivo](https://open.spotify.com/track/5ALM9Olk2WqEKFtFiLV2q4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 5:43 |
 | 41 | [Rondando](https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 2:32 |
 | 42 | [Sácala](https://open.spotify.com/track/5LEpqNpuCe6IOo1APu7khJ) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/5tHf8pFmh1ewfFhCag6fWn) | 4:53 |
 | 43 | [Fecha](https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Unica \- Remix](https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:36 |
 | 50 | [Cuando Baila Reggaeton](https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [The Underdog \- El Subestimado](https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5) | 3:04 |
 
-Snapshot ID: `atavAAAAAAA3xZKQfF+26zFS0v/r7Vcg`
+Snapshot ID: `atgAgAAAAACCrNLpK4wi+HLe0p+CYzqJ`

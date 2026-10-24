@@ -1,32 +1,32 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Gunna",
-  "num_followers": 2114790,
+  "num_followers": 2114662,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAABpTkWqlB12Cm8MyuYPTbhUIeb4",
+  "snapshot_id": "AAAAAINz+ioOAHae2Q3+Mtpi9Yo2zaCl",
   "tracks": [
     {
       "added_at": "2026-10-16 04:02:24",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 173253,
-      "name": "forever be mine (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
+      "duration_ms": 256179,
+      "name": "Say What (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq"
     },
     {
       "added_at": "2026-10-16 04:02:24",
@@ -51,6 +51,46 @@
     {
       "added_at": "2026-10-16 04:02:24",
       "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
+    },
+    {
+      "added_at": "2026-10-23 04:03:13",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 190534,
+      "name": "Ride For You (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2iK7S8aorhbz80ENFY5yRf"
+    },
+    {
+      "added_at": "2026-10-16 04:02:24",
+      "album": {
         "name": "Westside Whimsy",
         "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
       },
@@ -71,26 +111,6 @@
     {
       "added_at": "2026-10-16 04:02:24",
       "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 256179,
-      "name": "Say What (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq"
-    },
-    {
-      "added_at": "2026-10-16 04:02:24",
-      "album": {
         "name": "Every Night (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT"
       },
@@ -107,6 +127,26 @@
       "duration_ms": 164776,
       "name": "Every Night (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k"
+    },
+    {
+      "added_at": "2026-10-23 04:03:13",
+      "album": {
+        "name": "custom MADE. Feat Tink",
+        "url": "https://open.spotify.com/album/0ByNMaiVCNNmk71cIYGGId"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 169185,
+      "name": "custom MADE. Feat Tink",
+      "url": "https://open.spotify.com/track/67SU6am9BkhHTiyJNFvOHK"
     },
     {
       "added_at": "2026-10-16 04:02:24",
@@ -147,26 +187,6 @@
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
-    },
-    {
-      "added_at": "2026-10-16 04:02:24",
-      "album": {
-        "name": "HIT-A-THON (Deluxe)",
-        "url": "https://open.spotify.com/album/3RWjRRlb1dUYkUW6f9v5o9"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/5XOIgNlPo78jxVEfI2XIst"
     },
     {
       "added_at": "2026-10-16 04:02:24",
@@ -225,6 +245,26 @@
       "url": "https://open.spotify.com/track/2nEfvO4T7gERNdrPD3iI8g"
     },
     {
+      "added_at": "2026-10-23 04:03:13",
+      "album": {
+        "name": "Relax (2009)",
+        "url": "https://open.spotify.com/album/6KxJzeHMNbGJvcj9qM9DWd"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 221727,
+      "name": "Relax (2009)",
+      "url": "https://open.spotify.com/track/3283xMe0tWUXRtIJ7pydi5"
+    },
+    {
       "added_at": "2026-10-16 04:02:24",
       "album": {
         "name": "KIARI",
@@ -241,20 +281,60 @@
       "url": "https://open.spotify.com/track/07EFFIiQf5pLTbAvwWocsH"
     },
     {
-      "added_at": "2026-10-16 04:02:24",
+      "added_at": "2026-10-23 04:03:13",
       "album": {
-        "name": "Laugh Now Cry Later",
-        "url": "https://open.spotify.com/album/7mI18u91chIHQc35WQa6Ja"
+        "name": "Platinum Heart 2",
+        "url": "https://open.spotify.com/album/10CjD1eVApzUfMxS44gcV3"
       },
       "artists": [
         {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 147052,
-      "name": "Outta My System (Bx With A Bob)",
-      "url": "https://open.spotify.com/track/3QDvKezQandOrobWqjWdIm"
+      "duration_ms": 140799,
+      "name": "Highway Love",
+      "url": "https://open.spotify.com/track/49RIIpC9NPe0BGazNLtU6L"
+    },
+    {
+      "added_at": "2026-10-16 04:02:24",
+      "album": {
+        "name": "HIT-A-THON (Deluxe)",
+        "url": "https://open.spotify.com/album/3RWjRRlb1dUYkUW6f9v5o9"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/5XOIgNlPo78jxVEfI2XIst"
+    },
+    {
+      "added_at": "2026-10-23 04:03:13",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Pleasure P",
+          "url": "https://open.spotify.com/artist/6dROiL44pIQZVNZ6Bc0OJO"
+        }
+      ],
+      "duration_ms": 211948,
+      "name": "Baby (feat. Pleasure P)",
+      "url": "https://open.spotify.com/track/5fbxv2iqymm50ocCmeZ5Fj"
     },
     {
       "added_at": "2026-10-16 04:02:24",
@@ -407,18 +487,18 @@
     {
       "added_at": "2026-10-16 04:02:24",
       "album": {
-        "name": "Regret",
-        "url": "https://open.spotify.com/album/6AK4n6GiIoi1ZMW06DJULz"
+        "name": "Laugh Now Cry Later",
+        "url": "https://open.spotify.com/album/7mI18u91chIHQc35WQa6Ja"
       },
       "artists": [
         {
-          "name": "Luh Kel",
-          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
         }
       ],
-      "duration_ms": 124656,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/58TdNooyPgaMFIRLJhqXpJ"
+      "duration_ms": 147052,
+      "name": "Outta My System (Bx With A Bob)",
+      "url": "https://open.spotify.com/track/3QDvKezQandOrobWqjWdIm"
     },
     {
       "added_at": "2026-10-16 04:02:24",
@@ -455,22 +535,6 @@
       "duration_ms": 188883,
       "name": "Need Your Love (feat. JMSN)",
       "url": "https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q"
-    },
-    {
-      "added_at": "2026-10-16 04:02:24",
-      "album": {
-        "name": "Come Back To Me",
-        "url": "https://open.spotify.com/album/3NwVixCirzTrl8ovF5zSxZ"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq"
     },
     {
       "added_at": "2026-10-16 04:02:24",
@@ -623,26 +687,6 @@
     {
       "added_at": "2026-10-16 04:02:24",
       "album": {
-        "name": "August 26",
-        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 213746,
-      "name": "Fuck",
-      "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
-    },
-    {
-      "added_at": "2026-10-16 04:02:24",
-      "album": {
         "name": "everything is a lot.",
         "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
@@ -679,26 +723,6 @@
       "duration_ms": 187614,
       "name": "MONDAY TO SUNDAY",
       "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
-    },
-    {
-      "added_at": "2026-10-16 04:02:24",
-      "album": {
-        "name": "I'm Not Ok But... (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rIRxUTIWyqiRq2O12YgEv"
-      },
-      "artists": [
-        {
-          "name": "Derez De\u2019Shon",
-          "url": "https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "What You On (Remix)",
-      "url": "https://open.spotify.com/track/26U9PA7x5UD5Nbs1JIntU3"
     },
     {
       "added_at": "2026-10-16 04:02:24",
@@ -1027,26 +1051,6 @@
       "duration_ms": 186014,
       "name": "Just Like Me (feat. Buddy)",
       "url": "https://open.spotify.com/track/4rUbSgoj5DJLzDRmV1BRP1"
-    },
-    {
-      "added_at": "2026-10-16 04:02:24",
-      "album": {
-        "name": "BIG LITTLE LIES",
-        "url": "https://open.spotify.com/album/4rGIIT5bE191oJJgm5Vmj6"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 161162,
-      "name": "BIG LITTLE LIES",
-      "url": "https://open.spotify.com/track/2vuj6WLz5m9HOFm1YzaVIX"
     },
     {
       "added_at": "2026-10-16 04:02:24",

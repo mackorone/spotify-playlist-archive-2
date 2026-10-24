@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Sycco
 
-792 songs - 1 day 20 hr 20 min
+793 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-13 | 2025-02-21 |
 | [Can’t Read Your Mind](https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [The Child](https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL) | 4:29 | 2025-01-16 | 2025-02-19 |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-26 | 2026-03-04 |
+| [Carried Away](https://open.spotify.com/track/75F4TSKg87eYFHFKdnpN8s) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Carried Away](https://open.spotify.com/album/44lhdSDMItGwW0nsmXbioN) | 3:20 | 2026-10-22 |  |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-22 | 2024-10-05 |
 | [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 | 2026-01-15 | 2026-01-23 |
 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 | 2025-05-15 | 2025-07-04 |
@@ -332,7 +333,7 @@
 | [I HEART YOU](https://open.spotify.com/track/2KulZwrv0Wg8OSiKIfvaMu) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [4AM \(LA LA LA\)](https://open.spotify.com/album/1TYlqFHeXpIOaLSdnu8Kji) | 2:52 | 2025-03-04 | 2025-04-18 |
 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-03-19 | 2026-07-21 |
 | [I Love You Out Loud](https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [I Love You Out Loud](https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M) | 3:33 | 2026-04-02 | 2026-09-29 |
-| [I Need My Woman](https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I Need My Woman](https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im) | 4:25 | 2026-07-30 |  |
+| [I Need My Woman](https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I Need My Woman](https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im) | 4:25 | 2026-07-30 | 2026-10-24 |
 | [I Never See Her](https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [I Never See Her](https://open.spotify.com/album/2p6wnhkj0a5SWmBnLFmCTe) | 3:04 | 2026-05-14 | 2026-07-24 |
 | [I OUGHTA KNOW BETTER](https://open.spotify.com/track/5xRHTbZPkWHV9seGljMKYw) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [I OUGHTA KNOW BETTER](https://open.spotify.com/album/4gtI5sbgbNJgLQ6nSsYYKt) | 3:26 | 2025-10-02 | 2025-10-11 |
 | [I See Myself In You](https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [I See Myself In You](https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH) | 3:30 | 2026-07-09 | 2026-10-02 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc39\uae40\ud584\ucc0c\uc640 \ud568\uaed8 \uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.)",
-  "num_followers": 26537,
+  "num_followers": 26540,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-10-20 06:24:33",
       "album": {
-        "name": "Morning Diaries EP 1",
-        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
-      },
-      "artists": [
-        {
-          "name": "Airman",
-          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
-        }
-      ],
-      "duration_ms": 191873,
-      "name": "Take A Nap",
-      "url": "https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn"
-    },
-    {
-      "added_at": "2026-10-20 06:24:33",
-      "album": {
         "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt.4",
         "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 234744,
       "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
       "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "added_at": "2026-10-20 06:24:33",
+      "album": {
+        "name": "Morning Diaries EP 1",
+        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        }
+      ],
+      "duration_ms": 191873,
+      "name": "Take A Nap",
+      "url": "https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn"
     },
     {
       "added_at": "2026-10-20 06:24:33",
@@ -443,18 +443,22 @@
     {
       "added_at": "2026-10-20 06:24:33",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
+        "name": "Ordinary Ever After",
+        "url": "https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+          "name": "Kangziwon",
+          "url": "https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF"
+        },
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
         }
       ],
-      "duration_ms": 211800,
-      "name": "Dawnlight",
-      "url": "https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj"
+      "duration_ms": 262866,
+      "name": "Albedo",
+      "url": "https://open.spotify.com/track/4GOykxUL9b9hyHgvRDgz8H"
     },
     {
       "added_at": "2026-10-20 06:24:33",
@@ -475,18 +479,18 @@
     {
       "added_at": "2026-10-20 06:24:33",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+      "duration_ms": 211800,
+      "name": "Dawnlight",
+      "url": "https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj"
     },
     {
       "added_at": "2026-10-20 06:24:33",
@@ -511,22 +515,18 @@
     {
       "added_at": "2026-10-20 06:24:33",
       "album": {
-        "name": "Ordinary Ever After",
-        "url": "https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ"
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
       "artists": [
         {
-          "name": "Kangziwon",
-          "url": "https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF"
-        },
-        {
-          "name": "Jake Sherman",
-          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 262866,
-      "name": "Albedo",
-      "url": "https://open.spotify.com/track/4GOykxUL9b9hyHgvRDgz8H"
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2026-10-20 06:24:33",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-10-20 06:24:33",
       "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/4XtWsRvS6odiRbtS9VJpra"
-      },
-      "artists": [
-        {
-          "name": "Norwegian Wood",
-          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
-        },
-        {
-          "name": "Yooin",
-          "url": "https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn"
-        }
-      ],
-      "duration_ms": 178999,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/0e8IPLkIQkk5uBfQB4T4UO"
-    },
-    {
-      "added_at": "2026-10-20 06:24:33",
-      "album": {
         "name": "Made In Heart",
         "url": "https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2"
       },
@@ -663,6 +643,46 @@
     {
       "added_at": "2026-10-20 06:24:33",
       "album": {
+        "name": "Stay (Feat. Youlakk)",
+        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        },
+        {
+          "name": "\uc5ec\ub77d\uc774\ub4e4",
+          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
+        }
+      ],
+      "duration_ms": 208771,
+      "name": "Stay (Feat. Youlakk)",
+      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+    },
+    {
+      "added_at": "2026-10-20 06:24:33",
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/4XtWsRvS6odiRbtS9VJpra"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "Yooin",
+          "url": "https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn"
+        }
+      ],
+      "duration_ms": 178999,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/0e8IPLkIQkk5uBfQB4T4UO"
+    },
+    {
+      "added_at": "2026-10-20 06:24:33",
+      "album": {
         "name": "Even if I\u2019m dying (feat. Young K (DAY6))",
         "url": "https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 144391,
       "name": "Han River 220625",
       "url": "https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4"
-    },
-    {
-      "added_at": "2026-10-20 06:24:33",
-      "album": {
-        "name": "Stay (Feat. Youlakk)",
-        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        },
-        {
-          "name": "\uc5ec\ub77d\uc774\ub4e4",
-          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
-        }
-      ],
-      "duration_ms": 208771,
-      "name": "Stay (Feat. Youlakk)",
-      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
     },
     {
       "added_at": "2026-10-20 06:24:33",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-20 06:24:33",
       "album": {
-        "name": "Don't Call Me Ma'am (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/6OS0R1y5cBfxW3FMWLIAzN"
-      },
-      "artists": [
-        {
-          "name": "Jo eunsae",
-          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Now, everything's okay",
-      "url": "https://open.spotify.com/track/5MT37pOYuP5FXlnuDsA7ab"
-    },
-    {
-      "added_at": "2026-10-20 06:24:33",
-      "album": {
         "name": "A Walk (The Last 10 Years X J_ust)",
         "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 221026,
       "name": "light",
       "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
+    },
+    {
+      "added_at": "2026-10-20 06:24:33",
+      "album": {
+        "name": "Don't Call Me Ma'am (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/6OS0R1y5cBfxW3FMWLIAzN"
+      },
+      "artists": [
+        {
+          "name": "Jo eunsae",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Now, everything's okay",
+      "url": "https://open.spotify.com/track/5MT37pOYuP5FXlnuDsA7ab"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

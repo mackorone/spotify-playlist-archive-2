@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 97145,
+  "num_followers": 97159,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACd2eW0wmrGIZJiUNqGv6a6",
+  "snapshot_id": "atgAgAAAAAB8jGeMW5+0lEnG4jHvrjGi",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Till I'm Dead",
-        "url": "https://open.spotify.com/album/0iVnRHjr6fAOojkgjxnJVO"
-      },
-      "artists": [
-        {
-          "name": "Professor Green",
-          "url": "https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw"
-        },
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "Just Be Good To Green",
-      "url": "https://open.spotify.com/track/5Wi5AUAI4YKRYNYI8XLLG3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gang Signs & Prayer",
         "url": "https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 349583,
       "name": "Cigarettes & Cush (feat. Kehlani & Lily Allen)",
       "url": "https://open.spotify.com/track/7urCpstCEncypWMreEwJCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive Till I'm Dead",
+        "url": "https://open.spotify.com/album/0iVnRHjr6fAOojkgjxnJVO"
+      },
+      "artists": [
+        {
+          "name": "Professor Green",
+          "url": "https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "Just Be Good To Green",
+      "url": "https://open.spotify.com/track/5Wi5AUAI4YKRYNYI8XLLG3"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Apples",
-      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
+      "duration_ms": 227973,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
+      "duration_ms": 219866,
+      "name": "Apples",
+      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
     },
     {
       "added_at": null,

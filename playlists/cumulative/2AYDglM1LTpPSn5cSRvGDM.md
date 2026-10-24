@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-300 songs - 17 hr 16 min
+304 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Deeper](https://open.spotify.com/track/0O1AfyqZqk2dNJ7mvum3Y9) | [Mesa & Boss](https://open.spotify.com/artist/286crklkKR6w66BO79BJQG) | [Deeper](https://open.spotify.com/album/7nylWARTxfVLYSjF9VA4eC) | 3:12 | 2026-02-27 | 2026-08-01 |
 | [Deepest Truth \- Nourey Remix](https://open.spotify.com/track/5KZLNQU6MZZP9S00BMA1wC) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Odyssey \(Remixes\)](https://open.spotify.com/album/6LkfEhBqqOz4L5Glwe4c4C) | 3:26 | 2025-07-11 | 2026-03-07 |
 | [Delorean](https://open.spotify.com/track/0IgAYDZFwHUnSe6TlMtowu) | [Tiefstone](https://open.spotify.com/artist/6Nu3bTytPSUQ9Y6k0r2gOO) | [Colorize Winter Sampler 2025](https://open.spotify.com/album/4RCLhJq0ksv7mKJYDQZExx) | 3:27 | 2025-07-11 | 2025-09-06 |
+| [Desire](https://open.spotify.com/track/0QFwPEqRiJAfHyhkJukKHQ) | [Tiefstone](https://open.spotify.com/artist/6Nu3bTytPSUQ9Y6k0r2gOO), [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Colorize Club Curations 02 by Estiva](https://open.spotify.com/album/5oDJBPAbuqMWvgTn08VmLn) | 3:16 | 2026-10-23 |  |
 | [don't](https://open.spotify.com/track/4OGPBKWOtWm2W98Ot3aYJm) | [uninvited](https://open.spotify.com/artist/4GjIktrxosLiyJ6K04hwry) | [Don't](https://open.spotify.com/album/6Vb6p3GMe7zxkxGKbRrKI8) | 2:58 | 2025-12-12 | 2026-02-28 |
 | [Don't Be Afraid](https://open.spotify.com/track/1UDdHYRjrBN0Nwqa2HChxI) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [RESIST](https://open.spotify.com/album/3WyfXqtrpcFc6ebNa7r7tO) | 3:07 | 2025-08-15 | 2025-11-08 |
 | [Don't Look Away](https://open.spotify.com/track/5Ux2aO3WxTnzfccHMUJBdl) | [Marsias](https://open.spotify.com/artist/2b7PWasPxNRzwyUkXVIZ3a) | [Don't Look Away](https://open.spotify.com/album/28NsFqKTyLOmN2dQHzRDA8) | 3:17 | 2025-10-10 | 2025-11-29 |
@@ -66,6 +67,7 @@
 | [Dream On](https://open.spotify.com/track/4CQl6kxInTTLgpmCaGwcfm) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [M.O.S.](https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR) | [Dream On](https://open.spotify.com/album/3nRP5LzHCU0UOHoa3Pkc2U) | 3:52 | 2026-09-11 |  |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 | 2025-07-11 | 2025-10-11 |
 | [Dreams Control](https://open.spotify.com/track/326P7mByhALBFbO9XXAHiN) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Dreams Control / Rock 'n Roll \- EP](https://open.spotify.com/album/2PhwDlPYnxHOTuNjWoKChO) | 3:14 | 2025-07-11 | 2025-11-29 |
+| [Désir \- Estiva Club Mix](https://open.spotify.com/track/5WISm5Oq3Ku1dSH3OW1440) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Colorize Club Curations 02 by Estiva](https://open.spotify.com/album/5oDJBPAbuqMWvgTn08VmLn) | 3:24 | 2026-10-23 |  |
 | [E.T\. Dust](https://open.spotify.com/track/1atAUtd5ItD4OHLk9HPRkB) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Embrace](https://open.spotify.com/album/1j3gqj3dvXIrUPTxIk7tqg) | 3:21 | 2025-07-11 |  |
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2026-02-27 | 2026-07-11 |
 | [Eden](https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Eden](https://open.spotify.com/album/7GcYlKoGthIVBMbeqrgSFP) | 3:05 | 2026-02-27 | 2026-07-11 |
@@ -221,7 +223,9 @@
 | [Read My Mind](https://open.spotify.com/track/0foQv8GJyl3RqAXYH02gY0) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Read My Mind](https://open.spotify.com/album/16pPZmG94egpjl2UFdOhXc) | 3:30 | 2025-07-11 | 2026-10-10 |
 | [Ready For Love](https://open.spotify.com/track/1bWSXWm6pgjY8ufBk9Tjw2) | [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [Ready For Love](https://open.spotify.com/album/6DX1zutIyO9hkllVrYYgKE) | 3:14 | 2025-07-11 | 2025-10-22 |
 | [Real Real](https://open.spotify.com/track/6umBv8BZ6XOoZQ5LOReO6V) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Real Real](https://open.spotify.com/album/33npKwJalTtdqANAUsAVzq) | 2:58 | 2025-11-28 |  |
+| [Rebellion](https://open.spotify.com/track/4lxMw8U0kAvE1kO7jdGs6V) | [Avenue One](https://open.spotify.com/artist/36aAN3R8JUJBcInylswfxA) | [Colorize Club Curations 02 by Estiva](https://open.spotify.com/album/5oDJBPAbuqMWvgTn08VmLn) | 3:17 | 2026-10-23 |  |
 | [Repeater \- Einmusik Remix](https://open.spotify.com/track/06dth88m6vDY5LFMZ7cobm) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Repeater \(Einmusik Remix\)](https://open.spotify.com/album/0kive9rpF9C8EjnZCBJgwx) | 4:02 | 2026-10-05 |  |
+| [Reverie](https://open.spotify.com/track/6DVcWHFRd14BIgYNU6VK5r) | [Pete K](https://open.spotify.com/artist/2kwivERZbT1vThOGo32Wx6) | [Colorize Club Curations 02 by Estiva](https://open.spotify.com/album/5oDJBPAbuqMWvgTn08VmLn) | 3:32 | 2026-10-23 |  |
 | [Run](https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Run](https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv) | 3:30 | 2025-11-14 | 2026-01-15 |
 | [Running](https://open.spotify.com/track/5yjdwwA23Jtbwe8Sfs31gQ) | [Northbound](https://open.spotify.com/artist/6KCuLoN1z3hqwIagUq3FRr), [Carolina Eymann](https://open.spotify.com/artist/1Ag14g2DYmZbOgIK1r5a5g), [Mnexsis](https://open.spotify.com/artist/1rMPHZlV3URryBScHKjHct) | [Running](https://open.spotify.com/album/2imxQAxxG16Xf9Vuk5zE5h) | 3:35 | 2025-07-11 | 2025-11-08 |
 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 | 2025-10-10 | 2026-02-28 |

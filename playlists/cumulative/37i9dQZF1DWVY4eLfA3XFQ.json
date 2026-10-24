@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc83 Tech house operators, featuring Torren Foot",
+  "description": "50% techno, 50% house \ud83c\uddea\ud83c\uddfa Tech house operators, featuring Jay de Lys",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -174,7 +174,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 153083,
       "name": "1800",
       "url": "https://open.spotify.com/track/2zOk9axSPQeU5Dshj8GUO0"
@@ -4856,7 +4856,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 162411,
       "name": "BASS REPEAT",
       "url": "https://open.spotify.com/track/0JGC40P6QaZd9iEtrPIo4V"
@@ -19608,7 +19608,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 165230,
       "name": "Follower",
       "url": "https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2"
@@ -20026,7 +20026,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 187942,
       "name": "Freak Me Baby",
       "url": "https://open.spotify.com/track/2zF9giZoXV6FeaYIIMVC9D"
@@ -24591,6 +24591,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0FJF0yPAW0sW5jeaCLfPBF"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306268,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2MXcraFXyL5RnlRovYSduf"
+    },
+    {
+      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/1i7ZG1ax4aMbJqCjqEAd5N"
       },
@@ -25644,6 +25662,28 @@
       "duration_ms": 208320,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/5qzEeQEhEdWiqc7PeQ00dj"
+    },
+    {
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs"
     },
     {
       "album": {
@@ -27020,6 +27060,24 @@
       "duration_ms": 256874,
       "name": "In Da Getto - Chris Lorenzo Remix",
       "url": "https://open.spotify.com/track/3O9BNmxmQ5M02TFGMWptJt"
+    },
+    {
+      "album": {
+        "name": "In Europe EP",
+        "url": "https://open.spotify.com/album/72VIk1neR3fC7jlKpZxF5q"
+      },
+      "artists": [
+        {
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "In Europe",
+      "url": "https://open.spotify.com/track/46u6S0BlmgQqPfSMtQoTF3"
     },
     {
       "album": {
@@ -28562,7 +28620,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190714,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/5dqxpUOTOEE2hzi5dDgjyW"
@@ -29300,6 +29358,24 @@
       "duration_ms": 177709,
       "name": "KO",
       "url": "https://open.spotify.com/track/62EGDr4h5bLfDUPHxpdYqd"
+    },
+    {
+      "album": {
+        "name": "Korrupt Gangsters EP",
+        "url": "https://open.spotify.com/album/3xXjZYBfJV960E5LcJgaUH"
+      },
+      "artists": [
+        {
+          "name": "AJK",
+          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Korrupt",
+      "url": "https://open.spotify.com/track/7IKTr1wrHdCN9yD5hliktQ"
     },
     {
       "album": {
@@ -31406,6 +31482,28 @@
       "duration_ms": 177751,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/3NSbxWRUg8bQRhI9mwRT3q"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/03u0S5g2JKNNunCU1Z135n"
+      },
+      "artists": [
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        },
+        {
+          "name": "Losing Stereo",
+          "url": "https://open.spotify.com/artist/3gGymfaS5cL5G7bT0yVANt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324977,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/014B9aKiAvY8vwRCJc4uz1"
     },
     {
       "album": {
@@ -33566,6 +33664,24 @@
       "duration_ms": 180120,
       "name": "Make You Happy",
       "url": "https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP"
+    },
+    {
+      "album": {
+        "name": "Make You Sweat",
+        "url": "https://open.spotify.com/album/5zvjskp9Ft37tSzgiRkcQy"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Make You Sweat",
+      "url": "https://open.spotify.com/track/6XTysPFKGdqg2G8DT0XCt5"
     },
     {
       "album": {
@@ -39208,6 +39324,32 @@
       "duration_ms": 193581,
       "name": "Off The Floor",
       "url": "https://open.spotify.com/track/2mEWM9kRDM8ISzL2nDcqq1"
+    },
+    {
+      "album": {
+        "name": "Off Your Mind (feat. Last Lights)",
+        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Last Lights",
+          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Off Your Mind (feat. Last Lights)",
+      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
     },
     {
       "album": {
@@ -46148,7 +46290,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 315102,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/7wLIfGz699eaUJpT0v8W3w"
@@ -53890,7 +54032,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 207360,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5wPkiLSOAP3EjClBL73yG0"

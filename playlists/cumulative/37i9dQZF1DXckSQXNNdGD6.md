@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Dear Joanne.
 
-381 songs - 18 hr 35 min
+382 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [nuestro](https://open.spotify.com/track/0STAzVvA7i8xHiZUpX8ShC) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [nuestro](https://open.spotify.com/album/3Cjxcd7mg5XAXT8dHjYGja) | 2:58 | 2025-09-02 | 2025-10-02 |
 | [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 | 2025-11-04 | 2026-06-01 |
 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 | 2024-06-05 | 2025-09-03 |
+| [NÃO ME TOQUE](https://open.spotify.com/track/5HJC1zjvTRcuslmJ4IM2PR) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam) | [NÃO ME TOQUE / TONY](https://open.spotify.com/album/4ilIk2Jn1pKdGgZcSE7Yum) | 3:18 | 2026-10-13 |  |
 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 | 2025-02-04 |  |
 | [Odio La Música](https://open.spotify.com/track/79NTnQdxMd9FmUIHaq0tfr) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Odio La Música](https://open.spotify.com/album/74Gc5B8FkQovbqX622XFIj) | 3:50 | 2026-06-08 | 2026-07-31 |
 | [ojeras](https://open.spotify.com/track/0isUWT0Nadg2JBuCFw9FUo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [ojeras](https://open.spotify.com/album/0qAn74lSp8DJhhEWekVt0p) | 2:52 | 2025-06-20 | 2025-08-06 |
@@ -356,7 +357,7 @@
 | [TONTO](https://open.spotify.com/track/34VKUP2Z3OsgH1MG1tZzvn) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [TONTO](https://open.spotify.com/album/52D92moSlvosJjb2StIvMY) | 3:53 | 2026-02-03 | 2026-03-04 |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-02-04 | 2025-04-02 |
 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 | 2025-05-06 |  |
-| [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 | 2026-09-07 |  |
+| [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 | 2026-09-07 | 2026-10-24 |
 | [Tramuntana](https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tramuntana](https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8) | 3:55 | 2025-05-06 | 2025-07-02 |
 | [Travesuras](https://open.spotify.com/track/21xJRnbHgHFMHvNqdmf73y) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [TRAVESURAS](https://open.spotify.com/album/4qyKNHlWWh5bwQodq6Ytwq) | 2:07 | 2024-10-01 | 2024-10-08 |
 | [Treu\-te el Bikini](https://open.spotify.com/track/3aSniXUsdmFyrmWNJHO5FL) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO), [FBOYZ](https://open.spotify.com/artist/7Cf1fxSvBV92PkhYOUtmxO) | [Treu\-te el Bikini](https://open.spotify.com/album/6WBDC7XQ01tRdEw2PPysRT) | 2:27 | 2026-04-07 | 2026-05-06 |

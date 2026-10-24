@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Cho Mingyu) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "All about Korean Jazz hits & new (Cover: Maria Kim) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186500,
       "name": "Embrace Your Emotions",
       "url": "https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 133207,
       "name": "Espresso Rush",
       "url": "https://open.spotify.com/track/2x6idBqv6fVq4bPNO8l9QZ"
@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 191829,
       "name": "Soft Serenade",
       "url": "https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf"
@@ -3810,6 +3810,24 @@
       "duration_ms": 154639,
       "name": "SoftSwing",
       "url": "https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO"
+    },
+    {
+      "album": {
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/6M3hHjOpBKyDAPO5j4DVYZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246839,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/31S6JHlGUipCsZb4xnNQQ2"
     },
     {
       "album": {

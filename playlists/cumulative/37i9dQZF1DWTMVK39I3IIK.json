@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unge kniv \ud83d\udd2a @Yvonnes",
+  "description": "unge kniv \ud83d\udd2a @\u00d8sten",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 208216,
       "name": "eeelluminagee",
       "url": "https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy"
@@ -3895,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "Jazz dreams",
+        "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "If you wanna come down",
+      "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
+    },
+    {
+      "album": {
         "name": "Det Frslv.",
         "url": "https://open.spotify.com/album/4qOSab4b42c9RoSWIxRxSr"
       },
@@ -3978,7 +3996,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219124,
       "name": "Ingen Bund",
       "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
@@ -5411,6 +5429,24 @@
     },
     {
       "album": {
+        "name": "VQFF",
+        "url": "https://open.spotify.com/album/31wzDQP518bv2fbZfwWOi0"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211375,
+      "name": "Noget Om K\u00e6rlighed",
+      "url": "https://open.spotify.com/track/08JImnE7DOMsR7h95WDKGe"
+    },
+    {
+      "album": {
         "name": "shortcuts",
         "url": "https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371"
       },
@@ -5878,7 +5914,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 179062,
       "name": "Postponement",
       "url": "https://open.spotify.com/track/22sWZmIc99HEFcX72GrjQt"
@@ -7370,7 +7406,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 208375,
       "name": "S\u00f8mand Af Verden",
       "url": "https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw"
@@ -8363,6 +8399,24 @@
     },
     {
       "album": {
+        "name": "N\u00e5r Vi Taler Om Solen",
+        "url": "https://open.spotify.com/album/3ZRtlOcWoUI8tZZp0gb6fS"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197848,
+      "name": "Violetbl\u00e5",
+      "url": "https://open.spotify.com/track/7bIpmmq4AEIE7TwmETUvKa"
+    },
+    {
+      "album": {
         "name": "Til Mit Efter\u00e5r",
         "url": "https://open.spotify.com/album/7IzaD6xvzLsPzzCusVqC8X"
       },
@@ -8728,6 +8782,24 @@
       "duration_ms": 167065,
       "name": "Won't Be Me",
       "url": "https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF"
+    },
+    {
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204510,
+      "name": "wonderland",
+      "url": "https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V"
     },
     {
       "album": {

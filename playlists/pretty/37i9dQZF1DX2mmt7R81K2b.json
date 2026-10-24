@@ -1,12 +1,12 @@
 {
   "description": "Where jazz meets classical, and classical meets jazz. ",
-  "num_followers": 320887,
+  "num_followers": 320913,
   "original_name": "Jazz Meets Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABhL8liDeBh/EvIgFL71OzC9oNV2",
+  "snapshot_id": "AAAAAJ+Nv4gQ/QBpv4Mjkhn/YZBP3ReF",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:07",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/3zrLMFuBH55TYJbOqz77DK"
     },
     {
+      "added_at": "2026-10-23 09:02:24",
+      "album": {
+        "name": "Letter From Home",
+        "url": "https://open.spotify.com/album/6RnBruyMiVfbuWuFObGCJk"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 del Mundo",
+          "url": "https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "Letter From Home",
+      "url": "https://open.spotify.com/track/0w132f65anUeqGeCuZWPe5"
+    },
+    {
       "added_at": "2026-10-16 04:00:07",
       "album": {
         "name": "Laufey: What Love Will Do to you",
@@ -135,6 +151,22 @@
       "duration_ms": 153260,
       "name": "Nine Lights",
       "url": "https://open.spotify.com/track/3dgSxzyLOq3n55JLMaGpzb"
+    },
+    {
+      "added_at": "2026-10-23 09:02:24",
+      "album": {
+        "name": "Scenes From A Velvet Room (Deluxe Suite)",
+        "url": "https://open.spotify.com/album/0tF4lkj2tNgcirhL7mPCXw"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "Cuban Cigars and the Scent of Regret",
+      "url": "https://open.spotify.com/track/4KSVuZrczHQodhHRogtZKh"
     },
     {
       "added_at": "2026-10-16 04:00:07",

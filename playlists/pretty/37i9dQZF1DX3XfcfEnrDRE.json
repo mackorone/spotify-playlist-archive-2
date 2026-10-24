@@ -1,13 +1,33 @@
 {
-  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: We Are Messengers",
-  "num_followers": 259766,
+  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Isla Vista Worship",
+  "num_followers": 259760,
   "original_name": "Christian Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvU3Oijzuedr7ClDLrJTV8VkYef",
+  "snapshot_id": "AAAAAOP9gKJr2mvjvL6IrBHY8EAKZOcW",
   "tracks": [
+    {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/7qnXQlNoUT5mZhdX6N1R9P"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Aaron Cottman",
+          "url": "https://open.spotify.com/artist/7pTOhmw9MyalrQj6vKRRw2"
+        }
+      ],
+      "duration_ms": 154585,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/21yNrcEHo9vFSbuByDgHeg"
+    },
     {
       "added_at": "2026-09-25 05:46:06",
       "album": {
@@ -41,20 +61,20 @@
       "url": "https://open.spotify.com/track/4Ndgwg8fEtOqrWlvqVV1Tj"
     },
     {
-      "added_at": "2026-09-25 05:46:06",
+      "added_at": "2026-10-23 06:48:29",
       "album": {
-        "name": "how it feels to live",
-        "url": "https://open.spotify.com/album/6nN9NFJkKi2auJb5IaDGqD"
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4C3KANVpErZn25vEVc7SdU"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
         }
       ],
-      "duration_ms": 220900,
-      "name": "how it feels to live",
-      "url": "https://open.spotify.com/track/2mAxlxo4HlDifY3Hthjtcy"
+      "duration_ms": 205454,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/64SUQzv420o9B2HGsPdL3e"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -121,6 +141,22 @@
       "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
     },
     {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "before the world began",
+        "url": "https://open.spotify.com/album/4AaulFfSuy79gM9oUCZ3VE"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 261597,
+      "name": "before the world began",
+      "url": "https://open.spotify.com/track/3oqjKpRNlNlC7usmofeVdN"
+    },
+    {
       "added_at": "2026-09-25 05:46:06",
       "album": {
         "name": "Change",
@@ -175,22 +211,6 @@
     {
       "added_at": "2026-09-25 05:46:06",
       "album": {
-        "name": "Talking Like Friends",
-        "url": "https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        }
-      ],
-      "duration_ms": 292857,
-      "name": "Talking Like Friends",
-      "url": "https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
         "name": "IDOLS",
         "url": "https://open.spotify.com/album/2kFoNHDoDerDV9W3ujKB77"
       },
@@ -209,6 +229,22 @@
       "url": "https://open.spotify.com/track/3gDMt3XKRxb2ttX6epwIYa"
     },
     {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "The Fox Den Sessions Vol. 1",
+        "url": "https://open.spotify.com/album/2qg6W2kdOOaaUL7cbV0p9n"
+      },
+      "artists": [
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Super Good Feeling (Fox Den 2026)",
+      "url": "https://open.spotify.com/track/2FZAcyjLRskyWsLRxIMSdQ"
+    },
+    {
       "added_at": "2026-09-25 05:46:06",
       "album": {
         "name": "Everything Is Better (Acoustic Version)",
@@ -223,6 +259,22 @@
       "duration_ms": 171677,
       "name": "Everything Is Better - Acoustic Version",
       "url": "https://open.spotify.com/track/5jdp2DhxNjNg2nEIXhi7rs"
+    },
+    {
+      "added_at": "2026-09-25 05:46:06",
+      "album": {
+        "name": "how it feels to live",
+        "url": "https://open.spotify.com/album/6nN9NFJkKi2auJb5IaDGqD"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 220900,
+      "name": "how it feels to live",
+      "url": "https://open.spotify.com/track/2mAxlxo4HlDifY3Hthjtcy"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -257,6 +309,38 @@
       "url": "https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe"
     },
     {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "Eastern Shores",
+        "url": "https://open.spotify.com/album/3Aj1n4vXAZMxU7lKWyh7TC"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "duration_ms": 177982,
+      "name": "Eastern Shores",
+      "url": "https://open.spotify.com/track/5ql0qqbwzDHrP5KvQo4ak3"
+    },
+    {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "Coming Back (Recorded Live at Susan Street)",
+        "url": "https://open.spotify.com/album/0BPunEmWEfVXmDlFmrHwY4"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 251729,
+      "name": "Coming Back (Recorded Live at Susan Street)",
+      "url": "https://open.spotify.com/track/3sdTfggDMAuIDhsvLg7EzA"
+    },
+    {
       "added_at": "2026-09-25 05:46:06",
       "album": {
         "name": "open handed",
@@ -271,22 +355,6 @@
       "duration_ms": 208932,
       "name": "open handed",
       "url": "https://open.spotify.com/track/2IXbgOj8rHiisb2msOzNVx"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/16lr0PmQocKFnB4UzBC9dJ"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 184536,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/0pllUSanUow0Yvn5VXfP0A"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -325,6 +393,22 @@
       "url": "https://open.spotify.com/track/6CpymmOsn2sphJ8PIsGgxE"
     },
     {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "Can't Believe You're Mine",
+        "url": "https://open.spotify.com/album/4FveZSTM0gkjV7JtmrBrZn"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 181975,
+      "name": "Can't Believe You're Mine",
+      "url": "https://open.spotify.com/track/2PQcxTWll5XQQJKTIRIZ3L"
+    },
+    {
       "added_at": "2026-09-25 05:46:06",
       "album": {
         "name": "Trust\u2026Fall!",
@@ -339,6 +423,38 @@
       "duration_ms": 179400,
       "name": "Trust\u2026Fall!",
       "url": "https://open.spotify.com/track/0itJM3ixZ3fKV5tfd2Mi2o"
+    },
+    {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "VCR",
+        "url": "https://open.spotify.com/album/0EFmJ5GvKKnYDTOvn7f5v0"
+      },
+      "artists": [
+        {
+          "name": "Beach Chapel",
+          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/2SKjXm1XziIImBPbCnxXKQ"
+    },
+    {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "And The Next Day (TOMORROW)",
+        "url": "https://open.spotify.com/album/7EemjXNJY7Bvk27oU4qUwn"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "duration_ms": 125426,
+      "name": "And The Next Day (TOMORROW)",
+      "url": "https://open.spotify.com/track/2vqbT0BHcqmRQnbCZ7akIW"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -509,6 +625,22 @@
       "url": "https://open.spotify.com/track/7k69pjLXh2vvaSXcd1BF6i"
     },
     {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "CYCLES",
+        "url": "https://open.spotify.com/album/5VFVnRxf4ePFComcdMlgX5"
+      },
+      "artists": [
+        {
+          "name": "Eli Franco",
+          "url": "https://open.spotify.com/artist/4Etk37yi6qCMt13dtA2dht"
+        }
+      ],
+      "duration_ms": 122723,
+      "name": "CYCLES",
+      "url": "https://open.spotify.com/track/3NGtZoRSoVtJBkm7d7nOxz"
+    },
+    {
       "added_at": "2026-09-25 05:46:06",
       "album": {
         "name": "Acts 29 / Sing Your Praise (The Rock Music Rising)",
@@ -543,6 +675,22 @@
       "duration_ms": 229999,
       "name": "If You Love Me At All",
       "url": "https://open.spotify.com/track/4ngvuKVNHXpAa7c96OBAKD"
+    },
+    {
+      "added_at": "2026-10-23 06:48:29",
+      "album": {
+        "name": "Somedays",
+        "url": "https://open.spotify.com/album/5NZYjFhVpJxQdlV5k9FGMR"
+      },
+      "artists": [
+        {
+          "name": "Wonderstate",
+          "url": "https://open.spotify.com/artist/2xOK3RqDm2UQv4cFIOXUS9"
+        }
+      ],
+      "duration_ms": 157525,
+      "name": "Somedays",
+      "url": "https://open.spotify.com/track/3QF6iuS9hNBxSVGVhSSVZB"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -671,22 +819,6 @@
       "duration_ms": 270535,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5dngRLb9IzRjl3b3sl4ZRi"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
-        "name": "Woke Up",
-        "url": "https://open.spotify.com/album/1Yfmg2d9nIcaeZNRjjJdzX"
-      },
-      "artists": [
-        {
-          "name": "Beach Chapel",
-          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Woke Up",
-      "url": "https://open.spotify.com/track/0AZCy3fFvxFh3RENipwxvK"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -863,22 +995,6 @@
     {
       "added_at": "2026-09-25 05:46:06",
       "album": {
-        "name": "BLOODLINE (women in the genealogy of Jesus)",
-        "url": "https://open.spotify.com/album/4YYXi06NIoA6QfmXgB57dU"
-      },
-      "artists": [
-        {
-          "name": "Aryn Michelle",
-          "url": "https://open.spotify.com/artist/5vDZR7NBIN9RU2Yhcu3KXJ"
-        }
-      ],
-      "duration_ms": 245824,
-      "name": "Hanging On to Hope (Ruth)",
-      "url": "https://open.spotify.com/track/4C0MYdlVYsHIkML95mCMWy"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
         "name": "Got A Say",
         "url": "https://open.spotify.com/album/5nggsDdSvpkWx7lw1ROatA"
       },
@@ -891,22 +1007,6 @@
       "duration_ms": 181996,
       "name": "Got A Say",
       "url": "https://open.spotify.com/track/56ob4MkReALNHKVGq1oVPY"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
-        "name": "ON EARTH (REIMAGINED)",
-        "url": "https://open.spotify.com/album/3fGM5IRyCy60l810PmxS12"
-      },
-      "artists": [
-        {
-          "name": "E.B. and Shane Cole",
-          "url": "https://open.spotify.com/artist/0BeveypmiG5rdXcOQBhNp3"
-        }
-      ],
-      "duration_ms": 323530,
-      "name": "ON EARTH (REIMAGINED)",
-      "url": "https://open.spotify.com/track/6ox54vK0mDZHgW59IEMl4g"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -1023,22 +1123,6 @@
     {
       "added_at": "2026-09-25 05:46:06",
       "album": {
-        "name": "Since When You Met Me",
-        "url": "https://open.spotify.com/album/1SLm5NSSJjI3o8tWJj0ykF"
-      },
-      "artists": [
-        {
-          "name": "Mogli the Iceburg",
-          "url": "https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Since When You Met Me",
-      "url": "https://open.spotify.com/track/4qBPn2k40WmRXYKd5qbesj"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
         "name": "nothing to lose!",
         "url": "https://open.spotify.com/album/1vdWPHf8B2sXr8HcLS9w5b"
       },
@@ -1051,22 +1135,6 @@
       "duration_ms": 176000,
       "name": "nothing to lose!",
       "url": "https://open.spotify.com/track/27bAyGhdqELvShC9xNDMJP"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
-        "name": "Ripples",
-        "url": "https://open.spotify.com/album/12xwLe0rfjLbUkj2an4nLF"
-      },
-      "artists": [
-        {
-          "name": "RIVER RIVER",
-          "url": "https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1"
-        }
-      ],
-      "duration_ms": 229218,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/0DiUAV5RaTImeUk17XAVh0"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -1135,22 +1203,6 @@
     {
       "added_at": "2026-09-25 05:46:06",
       "album": {
-        "name": "Once Again Here We Are (Fox Den 2026)",
-        "url": "https://open.spotify.com/album/49rXY59wxxBYEwOrUQ7cID"
-      },
-      "artists": [
-        {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Once Again Here We Are (Fox Den 2026)",
-      "url": "https://open.spotify.com/track/15gv1ypusY9zD0yoqTORXU"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
         "name": "The Purge",
         "url": "https://open.spotify.com/album/7w7BLtGQL23NuO2y83xWVW"
       },
@@ -1183,22 +1235,6 @@
     {
       "added_at": "2026-09-25 05:46:06",
       "album": {
-        "name": "The Sound of Liberty",
-        "url": "https://open.spotify.com/album/1Grn1k3J8hJl91lgV5nygo"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ramble",
-          "url": "https://open.spotify.com/artist/24sQ4pFaRnRWQF7AMcMgcm"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/1dklyzF0E9IvMWcN6BgjrU"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
         "name": "one step",
         "url": "https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f"
       },
@@ -1211,22 +1247,6 @@
       "duration_ms": 216800,
       "name": "one step",
       "url": "https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
-        "name": "get a clue",
-        "url": "https://open.spotify.com/album/1tM61NkWpu3Z5wrYk4Hehb"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 153081,
-      "name": "get a clue",
-      "url": "https://open.spotify.com/track/48TJPE2D4w5HQ7HIM9POUo"
     },
     {
       "added_at": "2026-09-25 05:46:06",
@@ -1291,22 +1311,6 @@
       "duration_ms": 221749,
       "name": "Mysterious Something",
       "url": "https://open.spotify.com/track/4ylgl0sHZBXH8KpJbVcvl9"
-    },
-    {
-      "added_at": "2026-09-25 05:46:06",
-      "album": {
-        "name": "Push Away",
-        "url": "https://open.spotify.com/album/3CR9aPiKFEtEHOky4P4vvH"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Push Away",
-      "url": "https://open.spotify.com/track/2X5ogUNvOzNyk4SpjhnuLh"
     },
     {
       "added_at": "2026-09-25 05:46:06",

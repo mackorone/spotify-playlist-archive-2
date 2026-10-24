@@ -1,12 +1,12 @@
 {
   "description": "Soft music for sleepy babies. ",
-  "num_followers": 172125,
+  "num_followers": 172124,
   "original_name": "Sleep Music for Babies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADnDdGJ4HPo1gupzr/yecZ8bzDxh",
+  "snapshot_id": "AAAAAH1/xkwBpBihNeTLaGOmRA8g/f3I",
   "tracks": [
     {
       "added_at": "2026-06-15 08:20:04",
@@ -119,54 +119,6 @@
       "duration_ms": 79500,
       "name": "Three Edges Has My Hat",
       "url": "https://open.spotify.com/track/0Bhduqb831gWX31g9HXrtl"
-    },
-    {
-      "added_at": "2026-06-15 08:20:04",
-      "album": {
-        "name": "The Little Boat Goes to Sleep",
-        "url": "https://open.spotify.com/album/6wfTJzqJc4VTZLXcDF8DaU"
-      },
-      "artists": [
-        {
-          "name": "Lucas Moon",
-          "url": "https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS"
-        }
-      ],
-      "duration_ms": 94344,
-      "name": "The Little Boat Goes to Sleep",
-      "url": "https://open.spotify.com/track/5AaCl7Hub0R9DzGnp16kje"
-    },
-    {
-      "added_at": "2026-06-15 08:20:04",
-      "album": {
-        "name": "Maggie\u00b4s Moon",
-        "url": "https://open.spotify.com/album/5mhS5TuqaFR1uF5x0rTJcB"
-      },
-      "artists": [
-        {
-          "name": "Lola Fiennes",
-          "url": "https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F"
-        }
-      ],
-      "duration_ms": 122624,
-      "name": "Maggie\u00b4s Moon",
-      "url": "https://open.spotify.com/track/55LUhT6s6q1eU3FeJfEMwl"
-    },
-    {
-      "added_at": "2026-06-15 08:20:04",
-      "album": {
-        "name": "Twinkle, Twinkle, Little Star",
-        "url": "https://open.spotify.com/album/33O8Cqg0AHD6kgAtdD2rFt"
-      },
-      "artists": [
-        {
-          "name": "Lille Du",
-          "url": "https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH"
-        }
-      ],
-      "duration_ms": 125750,
-      "name": "Twinkle, Twinkle, Little Star",
-      "url": "https://open.spotify.com/track/4Sd5V7bY2VqatoIRfXpBRZ"
     },
     {
       "added_at": "2026-06-15 08:20:04",
@@ -507,38 +459,6 @@
     {
       "added_at": "2026-06-15 08:20:04",
       "album": {
-        "name": "Tomorrow's My Birthday",
-        "url": "https://open.spotify.com/album/2nrX2Tm2DD7TSLElF5spPj"
-      },
-      "artists": [
-        {
-          "name": "Nova Gr\u00f6ndahl",
-          "url": "https://open.spotify.com/artist/5iC56LTfQWfAWfvkqLAFf3"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Tomorrow's My Birthday",
-      "url": "https://open.spotify.com/track/79AyuZChYLB0IAWbBgb0b6"
-    },
-    {
-      "added_at": "2026-06-15 08:20:04",
-      "album": {
-        "name": "Hush Little Baby",
-        "url": "https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze"
-      },
-      "artists": [
-        {
-          "name": "Steinar Lugn",
-          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
-        }
-      ],
-      "duration_ms": 104500,
-      "name": "Hush Little Baby",
-      "url": "https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI"
-    },
-    {
-      "added_at": "2026-06-15 08:20:04",
-      "album": {
         "name": "Pillow Parade",
         "url": "https://open.spotify.com/album/1F06nCF1hMS5v2X6IFglgd"
       },
@@ -715,6 +635,22 @@
     {
       "added_at": "2026-06-15 08:20:04",
       "album": {
+        "name": "Tomorrow's My Birthday",
+        "url": "https://open.spotify.com/album/2nrX2Tm2DD7TSLElF5spPj"
+      },
+      "artists": [
+        {
+          "name": "Nova Gr\u00f6ndahl",
+          "url": "https://open.spotify.com/artist/5iC56LTfQWfAWfvkqLAFf3"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Tomorrow's My Birthday",
+      "url": "https://open.spotify.com/track/79AyuZChYLB0IAWbBgb0b6"
+    },
+    {
+      "added_at": "2026-06-15 08:20:04",
+      "album": {
         "name": "John Jacob Jingleheimer Schmidt",
         "url": "https://open.spotify.com/album/4QmcOQ9WeGNe6KcrYf1jfK"
       },
@@ -727,6 +663,22 @@
       "duration_ms": 109990,
       "name": "John Jacob Jingleheimer Schmidt",
       "url": "https://open.spotify.com/track/5jKQHphChhO4Yaw6atWRp2"
+    },
+    {
+      "added_at": "2026-06-15 08:20:04",
+      "album": {
+        "name": "Hush Little Baby",
+        "url": "https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze"
+      },
+      "artists": [
+        {
+          "name": "Steinar Lugn",
+          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
+        }
+      ],
+      "duration_ms": 104500,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI"
     },
     {
       "added_at": "2026-06-15 08:20:04",
@@ -1275,22 +1227,6 @@
     {
       "added_at": "2026-06-15 08:20:04",
       "album": {
-        "name": "The Little Snail",
-        "url": "https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p"
-      },
-      "artists": [
-        {
-          "name": "Adam Hart",
-          "url": "https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre"
-        }
-      ],
-      "duration_ms": 159620,
-      "name": "The Little Snail",
-      "url": "https://open.spotify.com/track/5lIDPMCRksnW2Ht5pgVapD"
-    },
-    {
-      "added_at": "2026-06-15 08:20:04",
-      "album": {
         "name": "Always By Your Side",
         "url": "https://open.spotify.com/album/3I3tkEV6bQHjeibbURN1IO"
       },
@@ -1671,22 +1607,6 @@
       "duration_ms": 81826,
       "name": "The Lily Pond",
       "url": "https://open.spotify.com/track/1sGzBcE2HVsFuixPOp5KkQ"
-    },
-    {
-      "added_at": "2026-06-15 08:20:04",
-      "album": {
-        "name": "Adored Dreams",
-        "url": "https://open.spotify.com/album/2a0HCuJTx7FXYoQz6vJHxQ"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Cross",
-          "url": "https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC"
-        }
-      ],
-      "duration_ms": 101967,
-      "name": "Soft Sighs",
-      "url": "https://open.spotify.com/track/3MYDRzZILChDnPh72KFYjJ"
     },
     {
       "added_at": "2026-06-15 08:20:04",

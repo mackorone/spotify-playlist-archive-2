@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-309 songs - 18 hr 51 min
+310 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Make Heaven Crowded](https://open.spotify.com/track/6tl9lCo2dhDMFUEQTB695d) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Make Heaven Crowded](https://open.spotify.com/album/1eokdrcUTUUlJjuNRTLmRp) | 3:11 | 2025-09-26 |  |
 | [Maker's Mark](https://open.spotify.com/track/4kqqJb2dXFcZM7fy3SCzVM) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:37 | 2026-07-10 |  |
 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 | 2025-06-30 |
+| [Man on the Middle Tree](https://open.spotify.com/track/1A17Kfq0Y8rQa98XseKqGo) | [Madalyn Rae](https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG) | [Man on the Middle Tree](https://open.spotify.com/album/28fjRupwoRacIHsX0ZmHQ8) | 3:03 | 2026-10-23 |  |
 | [Me And God](https://open.spotify.com/track/2lfBuEVBgvKLAkcypn68VD) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 2:59 | 2021-12-10 | 2025-06-30 |
 | [Me and Jesus \(Extra Special Bonus Track\)](https://open.spotify.com/track/6a0zu7tOqPUHQfoP7YJ9nS) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Moonshine in the Trunk](https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP) | 3:21 | 2021-12-10 | 2025-06-30 |
 | [Meet My Maker](https://open.spotify.com/track/1pMgAV1H7k95tMRZDjOkEJ) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Meet My Maker](https://open.spotify.com/album/2gAiRQzI62xYl1qrTRh3fI) | 3:03 | 2023-03-17 | 2025-06-30 |

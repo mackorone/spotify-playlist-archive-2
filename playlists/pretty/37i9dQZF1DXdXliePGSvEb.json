@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78680,
+  "num_followers": 78685,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 256920,
       "name": "Romance",
       "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Song for You / The Wizard",
-        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Song for You",
-      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Love Will Win The Day (Take 3 Radio Edit)",
         "url": "https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 195871,
       "name": "Love Will Win The Day - Take 3 Radio Edit",
       "url": "https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Odyssey EP",
+        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        }
+      ],
+      "duration_ms": 345286,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Fly In Amber",
         "url": "https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 393047,
       "name": "Softening",
       "url": "https://open.spotify.com/track/4ZPVQ5HTTpanWNGGwjMmPD"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Odyssey EP",
-        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
-        }
-      ],
-      "duration_ms": 345286,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
     },
     {
       "added_at": "2025-12-03 12:15:55",

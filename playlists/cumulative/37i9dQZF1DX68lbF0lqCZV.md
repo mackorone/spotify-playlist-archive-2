@@ -4,7 +4,7 @@
 
 > Con mucho corazón 💘
 
-119 songs - 6 hr 24 min
+121 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2022-05-17 |  |
 | [Inevitable \- Cinco de Mil Pedazos](https://open.spotify.com/track/7nhPsUMAgvb80O9UFWGQ9I) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Inevitable \(Cinco de Mil Pedazos\)](https://open.spotify.com/album/052FGJ4j8JLIcqBdAvmWTe) | 2:24 | 2023-08-18 | 2023-09-23 |
 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 | 2024-03-01 | 2025-01-11 |
-| [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2022-05-17 |  |
+| [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2022-05-17 | 2026-10-24 |
 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 | 2024-05-24 |  |
 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 | 2022-07-08 | 2023-02-25 |
 | [la otra cara](https://open.spotify.com/track/7pn1SS8zolJoQbQgmz3fLj) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [la otra cara](https://open.spotify.com/album/7lm0XYr2ENJ40dOgfYGTlj) | 2:27 | 2024-02-09 | 2024-08-31 |
@@ -109,8 +109,9 @@
 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 | 2024-03-01 | 2026-01-24 |
 | [Sufrimos De Lo Mismo](https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:41 | 2022-05-17 | 2022-10-29 |
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2022-05-17 |  |
-| [Tarde](https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:42 | 2024-02-09 |  |
+| [Tarde](https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:42 | 2024-02-09 | 2026-10-24 |
 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 | 2022-05-17 |  |
+| [Te extraño](https://open.spotify.com/track/5CeaWEKhYh4V6fOsi13X6d) | [Catalina](https://open.spotify.com/artist/5e89WNYIDZlwyI4opb2kCK) | [mala marea](https://open.spotify.com/album/6322XHElbmPhXRCtTJvFof) | 2:54 | 2026-10-23 |  |
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2022-05-17 |  |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 | 2024-03-01 | 2024-04-19 |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 | 2024-03-01 | 2025-02-15 |
@@ -123,6 +124,7 @@
 | [Una y Otra Vez](https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:10 | 2022-05-17 |  |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 | 2024-03-02 |
 | [Viernes 13](https://open.spotify.com/track/36ZEFaqp4vVd8VYhvvO4oK) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Viernes 13](https://open.spotify.com/album/5tUSItqvEkDEApetPPFYTf) | 2:57 | 2022-05-17 |  |
+| [Vino del D1](https://open.spotify.com/track/584JzoseZ1FmgleFWKTUYH) | [Lady Arias](https://open.spotify.com/artist/07rWcDaGp6UoyzJLMu4y90) | [Vino del D1](https://open.spotify.com/album/7oCrNFZy9vcGXALrlhlaZI) | 3:57 | 2026-10-23 |  |
 | [Volver a Casa](https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Volver a Casa](https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E) | 2:53 | 2022-10-28 | 2023-01-27 |
 | [Ysilandia](https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Ysilandia](https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ) | 3:37 | 2025-02-14 |  |
 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 | 2024-11-15 |  |

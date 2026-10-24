@@ -1,12 +1,12 @@
 {
-  "description": "New music from Young Stunna, K.O & Blue Pappi, Skepta, Internet Girl and more.",
-  "num_followers": 194131,
+  "description": "New music from Young Stunna, K.O & Blue Pappi, Skepta, Internet Girl, Anderson Paak & Cordae and more.",
+  "num_followers": 195108,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAUCr07irou2US2mSDbXMBiF84+W",
+  "snapshot_id": "AAAAAAjeuBV9R7jo8WaT8sOgMzpZ79CT",
   "tracks": [
     {
       "added_at": "2026-10-22 22:01:14",
@@ -133,6 +133,26 @@
       "url": "https://open.spotify.com/track/4imPw99ETy1nhR6GBN64sp"
     },
     {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
       "added_at": "2026-10-22 22:01:14",
       "album": {
         "name": "Feel My Love",
@@ -151,6 +171,26 @@
       "duration_ms": 245496,
       "name": "Feel My Love (feat. MAJIC)",
       "url": "https://open.spotify.com/track/0b5HPucjqCC7R9J1QzfaSO"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
     },
     {
       "added_at": "2026-10-22 22:01:14",
@@ -357,6 +397,38 @@
       "url": "https://open.spotify.com/track/27GO1PI9hAHeY89MrvUKxE"
     },
     {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "Open Late",
+        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 236927,
+      "name": "Repeaty",
+      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
+    },
+    {
       "added_at": "2026-10-22 22:01:14",
       "album": {
         "name": "Goyard",
@@ -461,6 +533,62 @@
       "url": "https://open.spotify.com/track/7bHDZNdUANLCVSKEENqBWc"
     },
     {
+      "added_at": "2026-10-23 12:55:44",
+      "album": {
+        "name": "House Party Chronicles (feat. Mellow & Sleazy)",
+        "url": "https://open.spotify.com/album/45FRAVqOWOzReE3BYkTp5q"
+      },
+      "artists": [
+        {
+          "name": "MfanaTouchLine",
+          "url": "https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "House Party Chronicles (feat. Mellow & Sleazy)",
+      "url": "https://open.spotify.com/track/2xsXfmYPC9R6eomGVTAxYE"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "Cold Blooded (Demo) [from the Netflix Series \"Nobody Wants This\" Season 3]",
+        "url": "https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 195608,
+      "name": "Cold Blooded (Demo) - from the Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
+    },
+    {
       "added_at": "2026-10-22 22:01:14",
       "album": {
         "name": "Burukutu",
@@ -539,6 +667,38 @@
       "duration_ms": 157895,
       "name": "I'll Be Fine",
       "url": "https://open.spotify.com/track/6fCGPuklkF0tu5MpbDEQtq"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "I Feel",
+        "url": "https://open.spotify.com/album/3wDddJft83wSriFi3oJJFZ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/0UVImqRN2G8LO0i2RvP81s"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "added_at": "2026-10-22 22:01:14",
@@ -671,6 +831,42 @@
       "duration_ms": 240757,
       "name": "Ndembathe Nkosi",
       "url": "https://open.spotify.com/track/3nDEYbqhCbjnfSUpPtq9EN"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "Boy Bye",
+        "url": "https://open.spotify.com/album/4Rexq8Gfnr2HVugZtBQe32"
+      },
+      "artists": [
+        {
+          "name": "Mikhal\u00e9 Jones",
+          "url": "https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf"
+        }
+      ],
+      "duration_ms": 185368,
+      "name": "Boy Bye",
+      "url": "https://open.spotify.com/track/1qHfALx9TOCooQQ8uzILzc"
+    },
+    {
+      "added_at": "2026-10-23 07:40:47",
+      "album": {
+        "name": "love?... or something like it (Deluxe)",
+        "url": "https://open.spotify.com/album/0VI7CsEX0FZvHu1D7q9xFI"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "love or something like it (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
     },
     {
       "added_at": "2026-10-22 22:01:14",
@@ -891,6 +1087,30 @@
     {
       "added_at": "2026-10-22 22:01:14",
       "album": {
+        "name": "Let Me Tell You Something",
+        "url": "https://open.spotify.com/album/5nQiQhegKzySU4k5HZMtZb"
+      },
+      "artists": [
+        {
+          "name": "SoulLab",
+          "url": "https://open.spotify.com/artist/5dGbohY24gXT4oTPyOHwqi"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        },
+        {
+          "name": "Kitchen Mess",
+          "url": "https://open.spotify.com/artist/2H8qYcLu5eRbJuymiS8imU"
+        }
+      ],
+      "duration_ms": 465502,
+      "name": "Let Me Tell You Something",
+      "url": "https://open.spotify.com/track/6zgFt540e1lO0TOgtF6COK"
+    },
+    {
+      "added_at": "2026-10-22 22:01:14",
+      "album": {
         "name": "Peace & Patience",
         "url": "https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd"
       },
@@ -963,22 +1183,6 @@
     {
       "added_at": "2026-10-22 22:01:14",
       "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/1NTwg6x5Jwtyirv4fzbBf5"
-      },
-      "artists": [
-        {
-          "name": "Songo Ananda",
-          "url": "https://open.spotify.com/artist/23eMice1grQrnnshgarlnK"
-        }
-      ],
-      "duration_ms": 193855,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/5GTXZN19nApYxsVeTEVzdh"
-    },
-    {
-      "added_at": "2026-10-22 22:01:14",
-      "album": {
         "name": "Damascus Road",
         "url": "https://open.spotify.com/album/4X7OVZ40bdXlArLiO2PYUY"
       },
@@ -1011,22 +1215,6 @@
     {
       "added_at": "2026-10-22 22:01:14",
       "album": {
-        "name": "casual",
-        "url": "https://open.spotify.com/album/1JedKOk6vReURMwGH9QEA7"
-      },
-      "artists": [
-        {
-          "name": "Mika B",
-          "url": "https://open.spotify.com/artist/5aCnOXGsybgY1LAJ3EVk3T"
-        }
-      ],
-      "duration_ms": 171590,
-      "name": "casual",
-      "url": "https://open.spotify.com/track/3Or1RMD6ejiq1RX6heZshR"
-    },
-    {
-      "added_at": "2026-10-22 22:01:14",
-      "album": {
         "name": "Platinum Heart 2",
         "url": "https://open.spotify.com/album/10CjD1eVApzUfMxS44gcV3"
       },
@@ -1039,22 +1227,6 @@
       "duration_ms": 140799,
       "name": "Highway Love",
       "url": "https://open.spotify.com/track/49RIIpC9NPe0BGazNLtU6L"
-    },
-    {
-      "added_at": "2026-10-22 22:01:14",
-      "album": {
-        "name": "DIARY OF AN ARSONIST 2",
-        "url": "https://open.spotify.com/album/2metQ1CTjlCxHfcx7GkaoJ"
-      },
-      "artists": [
-        {
-          "name": "PatricKxxLee",
-          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "DONT STOP",
-      "url": "https://open.spotify.com/track/0y23LJMNLi7fRY5MozDtpJ"
     },
     {
       "added_at": "2026-10-22 22:01:14",
@@ -1151,26 +1323,50 @@
     {
       "added_at": "2026-10-22 22:01:14",
       "album": {
-        "name": "Let Me Tell You Something",
-        "url": "https://open.spotify.com/album/5nQiQhegKzySU4k5HZMtZb"
+        "name": "DIARY OF AN ARSONIST 2",
+        "url": "https://open.spotify.com/album/2metQ1CTjlCxHfcx7GkaoJ"
       },
       "artists": [
         {
-          "name": "SoulLab",
-          "url": "https://open.spotify.com/artist/5dGbohY24gXT4oTPyOHwqi"
-        },
-        {
-          "name": "MDU aka TRP",
-          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
-        },
-        {
-          "name": "Kitchen Mess",
-          "url": "https://open.spotify.com/artist/2H8qYcLu5eRbJuymiS8imU"
+          "name": "PatricKxxLee",
+          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
         }
       ],
-      "duration_ms": 465502,
-      "name": "Let Me Tell You Something",
-      "url": "https://open.spotify.com/track/6zgFt540e1lO0TOgtF6COK"
+      "duration_ms": 153600,
+      "name": "DONT STOP",
+      "url": "https://open.spotify.com/track/0y23LJMNLi7fRY5MozDtpJ"
+    },
+    {
+      "added_at": "2026-10-22 22:01:14",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/1NTwg6x5Jwtyirv4fzbBf5"
+      },
+      "artists": [
+        {
+          "name": "Songo Ananda",
+          "url": "https://open.spotify.com/artist/23eMice1grQrnnshgarlnK"
+        }
+      ],
+      "duration_ms": 193855,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5GTXZN19nApYxsVeTEVzdh"
+    },
+    {
+      "added_at": "2026-10-22 22:01:14",
+      "album": {
+        "name": "casual",
+        "url": "https://open.spotify.com/album/1JedKOk6vReURMwGH9QEA7"
+      },
+      "artists": [
+        {
+          "name": "Mika B",
+          "url": "https://open.spotify.com/artist/5aCnOXGsybgY1LAJ3EVk3T"
+        }
+      ],
+      "duration_ms": 171590,
+      "name": "casual",
+      "url": "https://open.spotify.com/track/3Or1RMD6ejiq1RX6heZshR"
     }
   ],
   "unique_name": "New Music Friday South Africa",

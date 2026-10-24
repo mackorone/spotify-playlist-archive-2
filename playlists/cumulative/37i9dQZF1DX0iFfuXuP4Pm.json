@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Mariah Deborah",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Ace Banzuelo",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1524,6 +1524,28 @@
       "duration_ms": 232000,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/52YkZd4cJahDlGxQquQqSa"
+    },
+    {
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/2NCPWqgqasKDH9u3QdZChQ"
+      },
+      "artists": [
+        {
+          "name": "BLAZiNBONE",
+          "url": "https://open.spotify.com/artist/3M2qdM68zYqRYtUbJXQl2r"
+        },
+        {
+          "name": "Louie Grammz",
+          "url": "https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247422,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/6bznn1zsUOWLka1k0XqNPc"
     },
     {
       "album": {
@@ -4011,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "IKAW NA PALA",
+        "url": "https://open.spotify.com/album/1Vn3jjy3XFso8HQyfJpCgb"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197823,
+      "name": "IKAW NA PALA",
+      "url": "https://open.spotify.com/track/1EsVDGzgMtuCea8TJOYIbu"
+    },
+    {
+      "album": {
         "name": "Ikaw na yan eh",
         "url": "https://open.spotify.com/album/6Aubp9CmoVXbxTXzs90NxH"
       },
@@ -5614,7 +5654,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 191979,
       "name": "luck (feat. James Reid)",
       "url": "https://open.spotify.com/track/19BVekNBFNXp2Kg3TMaVPR"
@@ -6240,7 +6280,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 283795,
       "name": "MATIKAS",
       "url": "https://open.spotify.com/track/3rhLse4xpSYpuXuvYOrOo6"
@@ -10068,7 +10108,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 300472,
       "name": "SINAYANG MO",
       "url": "https://open.spotify.com/track/2en7U6rrWfZomS9y7AWleC"
@@ -10152,6 +10192,24 @@
       "duration_ms": 218181,
       "name": "Sinisigaw",
       "url": "https://open.spotify.com/track/3fANJ35TEIhdkyifPzw1ww"
+    },
+    {
+      "album": {
+        "name": "Sino",
+        "url": "https://open.spotify.com/album/4lFNyQL0QZ1350DDxiksmc"
+      },
+      "artists": [
+        {
+          "name": "Sintala",
+          "url": "https://open.spotify.com/artist/4HgrdGmmnGzCNqHwSzsYjY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230635,
+      "name": "Sino",
+      "url": "https://open.spotify.com/track/2hRl5Nm0XLKNrypmNwGrUv"
     },
     {
       "album": {

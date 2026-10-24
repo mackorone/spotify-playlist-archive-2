@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Gucci Mane",
+  "description": "The hottest out the South. Cover: Yung Miami",
   "name": "No Cap",
   "tracks": [
     {
@@ -90,6 +90,28 @@
       "duration_ms": 138591,
       "name": "0022ZAY",
       "url": "https://open.spotify.com/track/72koco9c0gYvazaGYn6zJn"
+    },
+    {
+      "album": {
+        "name": "The Last Sipper",
+        "url": "https://open.spotify.com/album/3uYZ4aSQpHQt8eRcdLvAZP"
+      },
+      "artists": [
+        {
+          "name": "Bally Baby",
+          "url": "https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162312,
+      "name": "004*005 (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/0Gk3NVbaGaqJpXse3IP47f"
     },
     {
       "album": {
@@ -938,6 +960,28 @@
       "duration_ms": 212542,
       "name": "30mgs (feat. Vory)",
       "url": "https://open.spotify.com/track/6pkDAIRyrKq5NZVfD2Has8"
+    },
+    {
+      "album": {
+        "name": "33 Zips",
+        "url": "https://open.spotify.com/album/55hlF8SHNwFyJck3d498P1"
+      },
+      "artists": [
+        {
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        },
+        {
+          "name": "AgnsBill",
+          "url": "https://open.spotify.com/artist/4YexWSXhaciE6U79phTDjo"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "33 Zips",
+      "url": "https://open.spotify.com/track/1oQ15tREqnQNPCAw917eFc"
     },
     {
       "album": {
@@ -7834,7 +7878,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186461,
       "name": "Boogie Man (with 1900Rugrat)",
       "url": "https://open.spotify.com/track/0dxJI4SkkFHj13Yd2z3mlU"
@@ -8618,6 +8662,24 @@
       "duration_ms": 144718,
       "name": "Brody Trippin (feat. Baby Drill)",
       "url": "https://open.spotify.com/track/3Hac8twJgrtbnuNHgE5Cp8"
+    },
+    {
+      "album": {
+        "name": "Broke Bitch",
+        "url": "https://open.spotify.com/album/5XNq8ZNwNor1venx7dRDEM"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Broke Bitch",
+      "url": "https://open.spotify.com/track/1R6WpBLGAOccRpJ644OeIm"
     },
     {
       "album": {
@@ -10749,6 +10811,28 @@
     },
     {
       "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/3HE2f6OP8CLDaAKS8Jx3L0"
+      },
+      "artists": [
+        {
+          "name": "Tay-K",
+          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
+        },
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165603,
+      "name": "Chit Chat",
+      "url": "https://open.spotify.com/track/2r9Uu3bhyvhLNlj0QI44eB"
+    },
+    {
+      "album": {
         "name": "Chocolate Rain",
         "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
       },
@@ -12601,6 +12685,28 @@
     },
     {
       "album": {
+        "name": "custom MADE. Feat Tink",
+        "url": "https://open.spotify.com/album/0ByNMaiVCNNmk71cIYGGId"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169185,
+      "name": "custom MADE. Feat Tink",
+      "url": "https://open.spotify.com/track/67SU6am9BkhHTiyJNFvOHK"
+    },
+    {
+      "album": {
         "name": "Customer",
         "url": "https://open.spotify.com/album/6EiksaoOt3gKiwM9vr580U"
       },
@@ -13232,6 +13338,24 @@
       "duration_ms": 181714,
       "name": "Dear God (feat. Kevin Gates)",
       "url": "https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K"
+    },
+    {
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "Dear JT",
+      "url": "https://open.spotify.com/track/4Ixr7gI57q8rnhGot286vA"
     },
     {
       "album": {
@@ -16124,7 +16248,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 223013,
       "name": "Eaters",
       "url": "https://open.spotify.com/track/1aQZOezVcyTJ0niV0l3hTU"
@@ -20834,7 +20958,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 128000,
       "name": "GIA",
       "url": "https://open.spotify.com/track/2groI56EiNLTGwqdwcBo1d"
@@ -22849,6 +22973,28 @@
     },
     {
       "album": {
+        "name": "Haunting You",
+        "url": "https://open.spotify.com/album/6k8EAnWjTNGAxIielF9jIY"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Haunting You",
+      "url": "https://open.spotify.com/track/3OqXkXFysJ1CHjlcjtd7D3"
+    },
+    {
+      "album": {
         "name": "2005",
         "url": "https://open.spotify.com/album/6QDLBKunipE1IJSFg3SEBA"
       },
@@ -23785,6 +23931,24 @@
     },
     {
       "album": {
+        "name": "Platinum Heart 2",
+        "url": "https://open.spotify.com/album/10CjD1eVApzUfMxS44gcV3"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140799,
+      "name": "Highway Love",
+      "url": "https://open.spotify.com/track/49RIIpC9NPe0BGazNLtU6L"
+    },
+    {
+      "album": {
         "name": "HILARIOUS (feat. Cochise)",
         "url": "https://open.spotify.com/album/2O3Ucp3isxbLXo87AQkmLl"
       },
@@ -23906,7 +24070,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 241335,
       "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
@@ -24326,6 +24490,24 @@
       "duration_ms": 132515,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/6YPtERS01n8sSL33Go31IK"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/7uoXb0cxPyqQi7Erw3FHEs"
+      },
+      "artists": [
+        {
+          "name": "Otto4eva",
+          "url": "https://open.spotify.com/artist/1xJuGnBVpAiZ7mApnalMyV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/1PIeU30rdHdvg1ZYVFJ1qC"
     },
     {
       "album": {
@@ -24992,7 +25174,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189473,
       "name": "hunnid PROBLEMS.",
       "url": "https://open.spotify.com/track/1dtO06rCz3mNZ8yu1ameYd"
@@ -27917,6 +28099,28 @@
     },
     {
       "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+    },
+    {
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -28479,6 +28683,24 @@
     },
     {
       "album": {
+        "name": "Keep On Pushing",
+        "url": "https://open.spotify.com/album/6cZscfvlDvHp67nayEPdbR"
+      },
+      "artists": [
+        {
+          "name": "Nechie",
+          "url": "https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205008,
+      "name": "Keep On Pushing",
+      "url": "https://open.spotify.com/track/6y6YcN2HCagNIfUlqU9EGy"
+    },
+    {
+      "album": {
         "name": "no service",
         "url": "https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv"
       },
@@ -28980,7 +29202,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 153733,
       "name": "Konnichiwa",
       "url": "https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp"
@@ -34751,6 +34973,24 @@
     },
     {
       "album": {
+        "name": "Throw Aways",
+        "url": "https://open.spotify.com/album/6eBzOnSReb75Fg0sXMhXJG"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144660,
+      "name": "Munyun",
+      "url": "https://open.spotify.com/track/76nPNtQqzXWeKUZuOLdtWJ"
+    },
+    {
+      "album": {
         "name": "Murda",
         "url": "https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk"
       },
@@ -36122,7 +36362,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 117303,
       "name": "Nights Prayed",
       "url": "https://open.spotify.com/track/4QfqgM0TGU65KvdXXI6X7p"
@@ -36242,6 +36482,24 @@
       "duration_ms": 316097,
       "name": "NO CALL NO SHOW (feat. NAV)",
       "url": "https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi"
+    },
+    {
+      "album": {
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/73fplZaiXzMcXALbVjAYpN"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/1IMJpWsaVVZ2jq2SjVlr3e"
     },
     {
       "album": {
@@ -36654,6 +36912,24 @@
       "duration_ms": 176184,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3ktZQRNnDBhioF14dWIjPH"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/68W7bDlxt5l2aTJRz1gnCh"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/4asLd3UbnpIdGAQ2p9Z7Yn"
     },
     {
       "album": {
@@ -42524,7 +42800,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 166278,
       "name": "Proud of You",
       "url": "https://open.spotify.com/track/4iqo8Brrv2eg8gs2d8l5qN"
@@ -43652,7 +43928,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 147893,
       "name": "REAL BAGGER",
       "url": "https://open.spotify.com/track/3vI6j2LUbWxEFzvacLAYGL"
@@ -46406,7 +46682,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 108120,
       "name": "Sey Mami",
       "url": "https://open.spotify.com/track/0cZmwo85fwCqA1xTF4PPFA"
@@ -48768,7 +49044,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 94177,
       "name": "Spazzed Out",
       "url": "https://open.spotify.com/track/6idxgVqfSLiz0wiVU5iFNY"
@@ -48874,7 +49150,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194666,
       "name": "Spend Dat (feat. Lil Baby & Kodak Black) - Remix",
       "url": "https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm"
@@ -57526,7 +57802,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 120904,
       "name": "WHAT I CREATED",
       "url": "https://open.spotify.com/track/0aBnc2iSC5kl7RgSP0smT7"
@@ -58336,7 +58612,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 251133,
       "name": "Who Dat Is",
       "url": "https://open.spotify.com/track/5JfeDWN5DQTM0sWWt4fuQm"
@@ -59504,7 +59780,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 156986,
       "name": "WYO",
       "url": "https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp"
@@ -60039,6 +60315,28 @@
     },
     {
       "album": {
+        "name": "Yo Mama (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/3FdLnSLMd41nZjA0izhZtB"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157782,
+      "name": "Yo Mama (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3Jl1IqMT7U8y8Om3fgjSqj"
+    },
+    {
+      "album": {
         "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
         "url": "https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm"
       },
@@ -60152,7 +60450,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 166464,
       "name": "YOU DONT LIKE IT - Remix",
       "url": "https://open.spotify.com/track/42ElWr7UVsGeqDPSbNnH5y"

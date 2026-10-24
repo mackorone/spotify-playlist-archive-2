@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,202 likes - 517 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,208 likes - 517 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -526,4 +526,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 516 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 517 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AcfqEAAAAABXRPR149O07ZU5x4cnfNae`
+Snapshot ID: `AcfvnAAAAABv0NZ4GNyUAT/vF7qMT8IK`

@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259852,
+  "num_followers": 259851,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "I Don't Care (Acoustic)",
+        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "I Don't Care - Acoustic",
+      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Exist For Love",
-        "url": "https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 252716,
-      "name": "Exist For Love",
-      "url": "https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Let Yourself In",
         "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+        "name": "Exist For Love",
+        "url": "https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 225790,
-      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+      "duration_ms": 252716,
+      "name": "Exist For Love",
+      "url": "https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -807,6 +791,22 @@
       "duration_ms": 214586,
       "name": "Lost In Japan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1024,22 +1024,6 @@
       "added_at": "2026-08-21 03:00:30",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Burning - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
       "artists": [
@@ -1051,6 +1035,22 @@
       "duration_ms": 217058,
       "name": "thank u, next - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Burning - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1071,30 +1071,6 @@
       "duration_ms": 232650,
       "name": "Rise - Acoustic",
       "url": "https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Poema",
-        "url": "https://open.spotify.com/album/1vYw1oycPT5VI2FYEw94iX"
-      },
-      "artists": [
-        {
-          "name": "Dani Flomin",
-          "url": "https://open.spotify.com/artist/4HSYM8llhUFCWgPhwUcMGJ"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/5Ej9jsKKWRnogY4ct3ETLr"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1127,6 +1103,30 @@
       "duration_ms": 142177,
       "name": "Only Want You - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/1vYw1oycPT5VI2FYEw94iX"
+      },
+      "artists": [
+        {
+          "name": "Dani Flomin",
+          "url": "https://open.spotify.com/artist/4HSYM8llhUFCWgPhwUcMGJ"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/5Ej9jsKKWRnogY4ct3ETLr"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
+        "name": "penhasco. (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "penhasco. - (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "penhasco. (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "penhasco. - (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
-        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 207833,
-      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "do raso ao fundo",
         "url": "https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
+        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
         }
       ],
-      "duration_ms": 222270,
-      "name": "Attention - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+      "duration_ms": 207833,
+      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1415,6 +1399,22 @@
       "duration_ms": 154990,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "Attention - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
     },
     {
       "added_at": "2026-08-21 03:00:30",

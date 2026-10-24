@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo",
-  "num_followers": 50504,
+  "num_followers": 50495,
   "original_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAVuRxeh6tJw78K2DMnqsJmsf229bfW",
+  "snapshot_id": "AAAVxlXR6mZBf7q+ygYMTunSfDNqnL98",
   "tracks": [
     {
       "added_at": "2026-09-18 13:58:11",
@@ -49,58 +49,6 @@
       "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
-      "added_at": "2026-10-16 15:34:20",
-      "album": {
-        "name": "uno+1",
-        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "uno+1",
-      "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
-    },
-    {
-      "added_at": "2026-09-18 15:00:51",
-      "album": {
-        "name": "Pa' Bailar",
-        "url": "https://open.spotify.com/album/7nvo0gB4hZNFRn8sK0HXI0"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Pa' Bailar",
-      "url": "https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z"
-    },
-    {
-      "added_at": "2026-10-16 15:06:30",
-      "album": {
-        "name": "Fulanito",
-        "url": "https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "El Chiste",
-      "url": "https://open.spotify.com/track/1nldhOIt5TC9TTXnW2fzUg"
-    },
-    {
       "added_at": "2026-10-16 15:07:44",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -123,6 +71,82 @@
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-10-16 15:34:20",
+      "album": {
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
+    },
+    {
+      "added_at": "2026-10-23 14:33:02",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4lJFHzrwI3bVojNcltDf9i"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/7yRjUvz7l9z88Ln4RLaVTt"
+    },
+    {
+      "added_at": "2026-09-18 15:00:51",
+      "album": {
+        "name": "Pa' Bailar",
+        "url": "https://open.spotify.com/album/7nvo0gB4hZNFRn8sK0HXI0"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Pa' Bailar",
+      "url": "https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z"
+    },
+    {
+      "added_at": "2026-10-23 14:57:25",
+      "album": {
+        "name": "Futttura Live",
+        "url": "https://open.spotify.com/album/2mtbTvzjwh4Dokr8igvQBZ"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Si T\u00fa Te Vas - live",
+      "url": "https://open.spotify.com/track/2BQ6TS3ufDMgpeXNTrEsQh"
     },
     {
       "added_at": "2026-10-16 15:43:26",
@@ -159,6 +183,22 @@
       "duration_ms": 179428,
       "name": "QUE TALENTO",
       "url": "https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc"
+    },
+    {
+      "added_at": "2026-10-23 15:12:45",
+      "album": {
+        "name": "No Estaba Lista - Gaby",
+        "url": "https://open.spotify.com/album/1dNIMr4JyIYEc7Lt1UkL3b"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "No Estaba Lista - Gaby",
+      "url": "https://open.spotify.com/track/38cy9ogv79zEbT1SEKcBII"
     },
     {
       "added_at": "2026-10-02 16:09:35",
@@ -311,6 +351,22 @@
       "duration_ms": 198052,
       "name": "Piensas En Mi",
       "url": "https://open.spotify.com/track/5p8diKLl1u9ALp50p7LP6h"
+    },
+    {
+      "added_at": "2026-10-16 15:06:30",
+      "album": {
+        "name": "Fulanito",
+        "url": "https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "El Chiste",
+      "url": "https://open.spotify.com/track/1nldhOIt5TC9TTXnW2fzUg"
     },
     {
       "added_at": "2025-11-21 12:14:40",
@@ -2411,6 +2467,26 @@
       "duration_ms": 118588,
       "name": "Desah\u00f3gate",
       "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
+    },
+    {
+      "added_at": "2026-10-23 13:14:34",
+      "album": {
+        "name": "La Rid\u00edcula Idea",
+        "url": "https://open.spotify.com/album/1F7I9x2EGynuUkJd8tGjIx"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 213947,
+      "name": "La Rid\u00edcula Idea",
+      "url": "https://open.spotify.com/track/1pT63ZoRMGgZDENRY1SrOP"
     }
   ],
   "unique_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",

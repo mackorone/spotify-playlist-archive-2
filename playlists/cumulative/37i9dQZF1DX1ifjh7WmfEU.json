@@ -4565,6 +4565,24 @@
     },
     {
       "album": {
+        "name": "Softest Shadow",
+        "url": "https://open.spotify.com/album/4fz5Y0m8JUXEhx7omjTgNJ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134768,
+      "name": "Softest Shadow",
+      "url": "https://open.spotify.com/track/50uBcG3yLNN4ZtMfUjnS6K"
+    },
+    {
+      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },

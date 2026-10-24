@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Lainey Wilson",
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Brandon Lake",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -2078,6 +2078,24 @@
       "duration_ms": 226813,
       "name": "Changed Everything",
       "url": "https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy"
+    },
+    {
+      "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/6cyVRxzCRWl1RJoEILIM7A"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4uqhnuKU2p6iFCXQwzNJox"
     },
     {
       "album": {
@@ -4676,7 +4694,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194000,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
@@ -6974,6 +6992,24 @@
       "duration_ms": 188652,
       "name": "LMWYL",
       "url": "https://open.spotify.com/track/0KtNkUt8YNIR7VuVJYlNOt"
+    },
+    {
+      "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236715,
+      "name": "Lodi When",
+      "url": "https://open.spotify.com/track/1mzJsnHWXIthrJQKwe8Yci"
     },
     {
       "album": {
@@ -12378,7 +12414,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 230635,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r"

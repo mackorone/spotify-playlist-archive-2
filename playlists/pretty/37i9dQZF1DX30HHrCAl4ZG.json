@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Fontaines D.C.",
-  "num_followers": 803026,
+  "num_followers": 803018,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHIs4ro0eHfI1YvM6AcDt2W3tMl+",
+  "snapshot_id": "AAAAAJwHm8eSv3WEAR0ZVW9h7EethGjT",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 158666,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ"
+    },
+    {
+      "added_at": "2026-10-23 16:46:55",
+      "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
     },
     {
       "added_at": "2026-10-09 04:02:33",
@@ -129,6 +145,38 @@
       "url": "https://open.spotify.com/track/1cSqCxEn5Wn8ZCBaJJjYJw"
     },
     {
+      "added_at": "2026-10-23 16:46:55",
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 231683,
+      "name": "Mimesis",
+      "url": "https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu"
+    },
+    {
+      "added_at": "2026-10-23 16:46:55",
+      "album": {
+        "name": "Mark William Lewis (Deluxe)",
+        "url": "https://open.spotify.com/album/34iEW5XY1mGgjhzvKsMo0h"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3W2VOvLDPks8RE02dRr63O"
+    },
+    {
       "added_at": "2026-10-16 04:01:00",
       "album": {
         "name": "star",
@@ -145,6 +193,22 @@
       "url": "https://open.spotify.com/track/6amVMTh1Lr08QA27a7FtCx"
     },
     {
+      "added_at": "2026-10-23 16:46:55",
+      "album": {
+        "name": "The Precariat",
+        "url": "https://open.spotify.com/album/1636VkvPdWfRTHGLCHvM9a"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 322386,
+      "name": "The Precariat",
+      "url": "https://open.spotify.com/track/1iJ0Y7bd78Scr7yty6nbHp"
+    },
+    {
       "added_at": "2026-10-09 04:02:33",
       "album": {
         "name": "Nature's Pill",
@@ -159,6 +223,22 @@
       "duration_ms": 257893,
       "name": "Covergirl",
       "url": "https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj"
+    },
+    {
+      "added_at": "2026-10-23 16:46:55",
+      "album": {
+        "name": "Unfindable Ring",
+        "url": "https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 271391,
+      "name": "George Clanton",
+      "url": "https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L"
     },
     {
       "added_at": "2026-10-09 04:02:33",

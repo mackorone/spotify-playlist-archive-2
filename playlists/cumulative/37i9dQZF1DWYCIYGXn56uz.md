@@ -4,7 +4,7 @@
 
 > solo le tracce con l'aura migliore 👾 Gaia in cover
 
-1,297 songs - 2 day 12 hr 26 min
+1,297 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,6 +823,7 @@
 | [Ogni volta](https://open.spotify.com/track/1x8G2ulHTJjm3IMiIgNTQG) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT) | [Ogni volta](https://open.spotify.com/album/7khkXwVwvPNGIhEONSdMjh) | 2:36 | 2025-11-20 | 2026-01-16 |
 | [Ogni Volta Che Ti Penso](https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Ogni Volta Che Ti Penso](https://open.spotify.com/album/2GSCcTIlSByimd2Q3GVtJ6) | 3:15 | 2023-03-23 | 2023-09-22 |
 | [Oh Mama](https://open.spotify.com/track/5M2gnGO51dn5nnQUj7lfLr) | [CIL](https://open.spotify.com/artist/6mt0m8Ugh2vjYBbMJEo5PJ) | [Oh Mama](https://open.spotify.com/album/1BJ7G0QlO1uepYjWzPZB6T) | 2:42 | 2025-03-20 | 2025-05-30 |
+| [OH MY GOD](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 2:11 | 2026-10-22 |  |
 | [Oh, Maria!](https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Oh, Maria!](https://open.spotify.com/album/0FVo6YC9EPxZLuhGyumnIg) | 3:11 | 2026-04-23 | 2026-05-15 |
 | [OK Scusa Errore Mio](https://open.spotify.com/track/3ijkWq1YsQ3Amor35yHS47) | [edoEdo](https://open.spotify.com/artist/7y8r29XzidWpzDmSuhHZVP) | [OK Scusa Errore Mio](https://open.spotify.com/album/1MXXmolM5zHQu2VOzWSXup) | 2:39 | 2026-04-09 | 2026-05-08 |
 | [OLVIDAR \(feat\. Lemonero\)](https://open.spotify.com/track/4TM9hQYnxaP99LBGgpx4DZ) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL), [Lemonero](https://open.spotify.com/artist/4a5pL9uZ7FEDK2MlCEoLd0) | [OLVIDAR \(feat\. Lemonero\)](https://open.spotify.com/album/01lDydLrjpaQc1PvoAsOk8) | 2:56 | 2024-10-24 | 2024-11-29 |
@@ -1172,7 +1173,6 @@
 | [TORNERÓ](https://open.spotify.com/track/1pFgK6dHu5swd4XD5BcQZX) | [GIOVAPIÙGIOVA](https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx) | [TORNERÓ](https://open.spotify.com/album/1EnWuCh2OERanCVY5f0EA5) | 2:41 | 2026-10-08 |  |
 | [TOUCHÉ](https://open.spotify.com/track/2x5H6jg0wEXYR9a5Gxxbjq) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TOUCHÉ](https://open.spotify.com/album/54PgfzlzOhf2WwN8AUeS4y) | 2:12 | 2023-11-09 | 2024-01-05 |
 | [TRA LA GENTE](https://open.spotify.com/track/0VmdKZCuVJ8LVQBwKrgfuQ) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [UMORE 02](https://open.spotify.com/album/3qHLK79NjRXMyU8gwZThYK) | 3:21 | 2023-06-08 | 2023-06-16 |
-| [Track 9](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 0:00 | 2026-10-22 |  |
 | [Tranne Te](https://open.spotify.com/track/6nxblXJhMQe4nleRxI7IAh) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Tranne Te](https://open.spotify.com/album/3WmCEz2zGK3RcrkHi9fgXE) | 2:06 | 2023-07-06 | 2023-09-15 |
 | [Tranquillo mai](https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:39 | 2023-09-28 | 2023-10-20 |
 | [Trasporto Eccezionale](https://open.spotify.com/track/3PANuP58O3ynFqZc13LbQc) | [Ube](https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt) | [Trasporto Eccezionale](https://open.spotify.com/album/4g0ZhSsAsEYiIDjpG0ISDY) | 2:44 | 2026-03-19 | 2026-04-17 |

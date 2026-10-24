@@ -4,7 +4,7 @@
 
 > 
 
-3,245 songs - 6 day 22 hr 50 min
+3,246 songs - 6 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Better Now](https://open.spotify.com/track/4w5TAMlbpxNThD7vnCSnFA) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [Better Now](https://open.spotify.com/album/4rdfgZUZzS2N1BcYo4jQtN) | 3:39 | 2024-06-24 |  |
 | [Better Off](https://open.spotify.com/track/1MvyIx4A0kkqieG0FFh5Hv) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Better Off](https://open.spotify.com/album/0g0Hj0SbscqdzUaK2hVfvk) | 3:14 | 2022-08-22 |  |
 | [BETTER OFF](https://open.spotify.com/track/6cx36EDQVLPcmIqicRFFXW) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb) | [VAMPIRE WEAPON: CRIMSON](https://open.spotify.com/album/6vg5S2entTryFjvJhCq4Kv) | 3:16 | 2023-10-24 |  |
+| [Better Off Alone](https://open.spotify.com/track/3winKI0Fb4mSvxuu5nblcg) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Better Off Alone](https://open.spotify.com/album/7GsIkB3rCIiR6fxfRUEZMA) | 2:10 | 2026-10-23 |  |
 | [Better Than This](https://open.spotify.com/track/1RWnsNYT9x8Fj4wSq2SKOs) | [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE), [Lucky Rabbit](https://open.spotify.com/artist/1L49KERTIyZ2xNqfKvYNjX) | [Better Than This](https://open.spotify.com/album/2qHVjOzgH0lkQRZwRNwAkI) | 4:33 | 2022-11-15 |  |
 | [Beyond The Horizons](https://open.spotify.com/track/1CYcyh5wF6PGtVF7gaWklz) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Beyond The Horizons](https://open.spotify.com/album/3RUxA5B2k0IWQDYEy1aIXl) | 3:25 | 2025-04-26 |  |
 | [Beyondcore EVANGELIX](https://open.spotify.com/track/10cAZP7GmBaoiYQ3ZIow3i) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 2:42 | 2022-02-22 |  |

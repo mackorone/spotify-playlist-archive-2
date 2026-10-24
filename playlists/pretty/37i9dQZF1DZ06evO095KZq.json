@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 450496,
+  "num_followers": 450537,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADAK5NPb7qEzPuSklqHstVs",
+  "snapshot_id": "atgAgAAAAAB7k7IZUQ+ZK7nYT3VMwtyv",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Llamo Mujeriego",
-        "url": "https://open.spotify.com/album/5ZY2v5CtJKIF9c9yhhYz1i"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 141094,
-      "name": "Me Llamo Mujeriego",
-      "url": "https://open.spotify.com/track/080yQbCS3z0n0vPvhtE9VW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cabrones y Vagos",
         "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 153086,
       "name": "Mis Ra\u00edces",
       "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Llamo Mujeriego",
+        "url": "https://open.spotify.com/album/5ZY2v5CtJKIF9c9yhhYz1i"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 141094,
+      "name": "Me Llamo Mujeriego",
+      "url": "https://open.spotify.com/track/080yQbCS3z0n0vPvhtE9VW"
     },
     {
       "added_at": null,
@@ -551,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Lista",
-        "url": "https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE"
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
       "artists": [
-        {
-          "name": "Superiores de Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
-        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 186650,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM"
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
     },
     {
       "added_at": null,
@@ -603,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE"
       },
       "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 141409,
-      "name": "Soy de Durango",
-      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
+      "duration_ms": 186650,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Z\u00fambele",
-        "url": "https://open.spotify.com/album/6kioxsYJ3anwgNNxmsLBhc"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 149135,
-      "name": "Z\u00fambele",
-      "url": "https://open.spotify.com/track/0yZYJDiMP0JfBzOmiLbjZx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coronas Doradas",
         "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Z\u00fambele",
+        "url": "https://open.spotify.com/album/6kioxsYJ3anwgNNxmsLBhc"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 149135,
+      "name": "Z\u00fambele",
+      "url": "https://open.spotify.com/track/0yZYJDiMP0JfBzOmiLbjZx"
     }
   ],
   "unique_name": "This Is El Fantasma",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,221 likes - 15 songs - 46 min 55 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,239 likes - 15 songs - 46 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2VxlyN.md) - [plain]
 | 9 | [God Knows](https://open.spotify.com/track/31sakVrrESRDsoRsDlNWik) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 3:20 |
 | 10 | [tongue](https://open.spotify.com/track/0Hxa8rxKGhFzsyZpqZVSmQ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:39 |
 | 11 | [georgia](https://open.spotify.com/track/58h1pJQkym9CRAt5Ubc4tG) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:54 |
-| 12 | [Blur](https://open.spotify.com/track/4asmKFh6Z5iTdJkxqC2wKQ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:46 |
+| 12 | [mindf\*ck](https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:20 |
 | 13 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
-| 14 | [mindf\*ck](https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:20 |
+| 14 | [Blur](https://open.spotify.com/track/4asmKFh6Z5iTdJkxqC2wKQ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:46 |
 | 15 | [Say it Say](https://open.spotify.com/track/5aXoGAAyRvNIz7NbNi8cDS) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:42 |
 
-Snapshot ID: `atavAAAAAABm4jZSmBmNy2Gzbsj7Xa2u`
+Snapshot ID: `atgAgAAAAACS9Mguw80UXKYU7GpUfz/O`

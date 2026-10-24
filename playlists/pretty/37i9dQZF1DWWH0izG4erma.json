@@ -1,12 +1,12 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 682135,
+  "num_followers": 682224,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFe1EBhzdD+dSZ1islK7dRhj2N1t",
+  "snapshot_id": "AAAAADCjOqTTozzeH6tW0MAurQF0K3CO",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:41",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "No More Tears (live from the let go letters tour)",
         "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 231155,
       "name": "No More Tears - live from the let go letters tour",
       "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -723,18 +723,22 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "I HATE ME TOO",
-        "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
+        "name": "Roads That Go Nowhere",
+        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 185569,
-      "name": "I HATE ME TOO",
-      "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
+      "duration_ms": 218860,
+      "name": "Southern Rock",
+      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -775,22 +779,18 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Roads That Go Nowhere",
-        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
+        "name": "I HATE ME TOO",
+        "url": "https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 218860,
-      "name": "Southern Rock",
-      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
+      "duration_ms": 185569,
+      "name": "I HATE ME TOO",
+      "url": "https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Cowboys Did Cocaine",
-        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
-      },
-      "artists": [
-        {
-          "name": "Riley Thomas",
-          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
-        }
-      ],
-      "duration_ms": 232798,
-      "name": "Cowboys Did Cocaine",
-      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Quit!!",
         "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193397,
       "name": "WHYBMWL",
       "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "Cowboys Did Cocaine",
+        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
+      },
+      "artists": [
+        {
+          "name": "Riley Thomas",
+          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
+        }
+      ],
+      "duration_ms": 232798,
+      "name": "Cowboys Did Cocaine",
+      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "World On Fire",
-        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 261269,
-      "name": "World On Fire",
-      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Up To No Good",
         "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 133629,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "INSIGNIFICANT OTHER",
-        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 207230,
-      "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
-      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Bruce County",
         "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 224693,
       "name": "Moonshines",
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "INSIGNIFICANT OTHER",
+        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
+      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
         "name": "Dirt Road When I Die - EP",
         "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 174280,
       "name": "Dirt Road When I Die",
       "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "The Devil I Know",
-      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1675,34 +1675,34 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "The Tenth Album (Side A)",
-        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
       },
       "artists": [
         {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 144790,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+      "duration_ms": 187880,
+      "name": "The Devil I Know",
+      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
     },
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "From Me",
-        "url": "https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ"
+        "name": "I Met This Girl",
+        "url": "https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Logan Michael",
+          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
         }
       ],
-      "duration_ms": 170157,
-      "name": "Back in the Bottle",
-      "url": "https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF"
+      "duration_ms": 199615,
+      "name": "I Met This Girl",
+      "url": "https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl"
     }
   ],
   "unique_name": "Country Rocks",

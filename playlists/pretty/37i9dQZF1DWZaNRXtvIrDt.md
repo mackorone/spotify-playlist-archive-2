@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Eden Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,603 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,593 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 49 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
 | 50 | [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 |
 
-Snapshot ID: `AAAAAJI7m/i+tg9P7e7WDFPYMNz32UdS`
+Snapshot ID: `AAAAACnJBAO8ISum/XDnH0EHzEwIF/wx`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Miley Cyrus\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,948 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,944 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ilsey Juber](https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
+| 1 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
 | 2 | [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
 | 3 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 |
 | 4 | [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 |

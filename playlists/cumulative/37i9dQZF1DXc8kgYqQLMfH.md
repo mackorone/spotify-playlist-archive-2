@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,349 songs - 2 day 3 hr 36 min
+1,350 songs - 2 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Bliss](https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Bliss](https://open.spotify.com/album/2nC5R4NmZBOwXZivGLLIDD) | 3:15 | 2023-02-07 | 2023-10-23 |
 | [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 | 2024-05-14 |
 | [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 | 2025-07-16 |
-| [blue](https://open.spotify.com/track/4p9isEOrb1yAvhAcy78Axb) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [blue](https://open.spotify.com/album/45SeGCGt34dvINrNWMCpeT) | 1:56 | 2026-10-09 |  |
+| [blue](https://open.spotify.com/track/4p9isEOrb1yAvhAcy78Axb) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [blue](https://open.spotify.com/album/45SeGCGt34dvINrNWMCpeT) | 1:56 | 2026-10-09 | 2026-10-24 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 | 2025-07-16 |
 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 | 2022-10-28 | 2023-10-06 |
 | [blue jacket](https://open.spotify.com/track/7AaALYPKTkyXODP4YU72Jq) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [blue jacket](https://open.spotify.com/album/771iUXmzwZbihDdCWUmIV9) | 2:09 | 2021-11-10 | 2022-05-27 |
@@ -647,6 +647,7 @@
 | [Leaving Town](https://open.spotify.com/track/5fBPmmIouMbNVb0yc93ZDh) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Leaving Town](https://open.spotify.com/album/7HNj76lX63QdCG7E6P5F7M) | 2:34 | 2023-03-16 | 2025-07-16 |
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2021-11-10 | 2022-06-03 |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2021-11-10 | 2023-03-02 |
+| [Leisure](https://open.spotify.com/track/3w8vtM36ItYcMiOrSmgYZx) | [Audio Sculptor](https://open.spotify.com/artist/1BDPkykZVsiQP2OLhJvAr9) | [Leisure](https://open.spotify.com/album/5IGJvZ3AtSGHr1V0xm1CmM) | 2:33 | 2026-10-16 |  |
 | [Lemon Market](https://open.spotify.com/track/2CFwwaPy6N1VHxEY48ADfc) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Lemon Market](https://open.spotify.com/album/0P5mOLIUgPkOoD2TClx4vW) | 2:42 | 2023-04-11 | 2025-07-16 |
 | [Leon](https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN) | [Veiva](https://open.spotify.com/artist/1p7qeEg0md2NDp79AQTx1k) | [Leon](https://open.spotify.com/album/6wTN0qhaCAFQdd3UMnvj5s) | 2:15 | 2023-10-20 | 2025-02-12 |
 | [Let Your Feet Dangle](https://open.spotify.com/track/4RaXy0LmaGyiqMrKQsU3k7) | [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Let Your Feet Dangle](https://open.spotify.com/album/4d3ncw3CrRX2JD5nxdyAp3) | 2:22 | 2023-01-06 | 2025-07-16 |

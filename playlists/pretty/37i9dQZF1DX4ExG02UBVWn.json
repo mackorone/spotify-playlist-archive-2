@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20958,
+  "num_followers": 20959,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 175291,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Ugh",
         "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 182000,
       "name": "Half Full",
       "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 175291,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "crumbs in my bed",
         "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 157936,
       "name": "grab my coat",
       "url": "https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG"
-      },
-      "artists": [
-        {
-          "name": "Unflirt",
-          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
-        }
-      ],
-      "duration_ms": 262754,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "The Invisible Man",
         "url": "https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 365656,
       "name": "The Invisible Man",
       "url": "https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "duration_ms": 262754,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Super Sad Generation",
-        "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Introverted Stoner",
         "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Super Sad Generation",
+        "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Doubt Nothing",
         "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 180000,
       "name": "Doubt Nothing",
       "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "airplanes",
+        "url": "https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS"
+      },
+      "artists": [
+        {
+          "name": "Lio Kalebic",
+          "url": "https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX"
+        }
+      ],
+      "duration_ms": 82064,
+      "name": "airplanes",
+      "url": "https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -719,22 +735,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Raining Colours",
         "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 192703,
       "name": "Raining Colours",
       "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -767,22 +783,6 @@
       "duration_ms": 164171,
       "name": "Sex N' Drugs",
       "url": "https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "airplanes",
-        "url": "https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS"
-      },
-      "artists": [
-        {
-          "name": "Lio Kalebic",
-          "url": "https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX"
-        }
-      ],
-      "duration_ms": 82064,
-      "name": "airplanes",
-      "url": "https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 138775,
-      "name": "Babybrown",
-      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "No Place for Patience, Vol. 3",
         "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Golden House",
-        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Golden House",
-      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Trouble Sleeping",
         "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 215172,
       "name": "Trouble Sleeping",
       "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Golden House",
+        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 162644,
+      "name": "Golden House",
+      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Feel A Way",
         "url": "https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 154124,
       "name": "Feel A Way",
       "url": "https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA"
-      },
-      "artists": [
-        {
-          "name": "Pat Lagoon",
-          "url": "https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs"
-        }
-      ],
-      "duration_ms": 160062,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "White Doves",
         "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 284120,
       "name": "White Doves",
       "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA"
+      },
+      "artists": [
+        {
+          "name": "Pat Lagoon",
+          "url": "https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs"
+        }
+      ],
+      "duration_ms": 160062,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Negro Impacto",
-        "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
-      },
-      "artists": [
-        {
-          "name": "Negro Impacto",
-          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Mini Excursion",
-      "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "New Hands/Writers Block",
         "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 174015,
       "name": "New Hands/Writers Block",
       "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Negro Impacto",
+        "url": "https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Mini Excursion",
+      "url": "https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1803,18 +1803,26 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "A Lot",
-        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
+        "name": "Constellation A",
+        "url": "https://open.spotify.com/album/1VSRmwbSPADRzGsxcLkfi0"
       },
       "artists": [
         {
-          "name": "0RACL3",
-          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+          "name": "Carmody",
+          "url": "https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 167507,
-      "name": "A Lot",
-      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
+      "duration_ms": 202784,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4VLXVGAMvfoEBd1hzErJpS"
     }
   ],
   "unique_name": "the night bus",

@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💙💙 featuring Martin Garrix
 
-1,021 songs - 2 day 4 hr 37 min
+1,022 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 | 2023-06-30 | 2023-11-11 |
 | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s) | 3:34 | 2022-09-09 | 2023-07-06 |
 | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [DANCE THROUGH THE NIGHT \(with Norma Jean Martine\)](https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT) | 3:07 | 2024-07-05 | 2024-08-08 |
+| [Dance Till I Die](https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [REVELATIONS](https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo) | 3:14 | 2026-10-23 |  |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-03-18 | 2022-04-21 |
 | [Dancing in the Streets](https://open.spotify.com/track/2RyTblYodC8cnGWFxlnSM5) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dancing in the Streets](https://open.spotify.com/album/17J0kT98HZNfm5OrKcCmBS) | 2:28 | 2022-11-11 | 2023-01-26 |
 | [Dancing On My Own](https://open.spotify.com/track/64fbcsrPGAV8MkkDGGt9sC) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Dancing On My Own](https://open.spotify.com/album/7FqkQNTGhjO8on9HJK96Zp) | 2:41 | 2023-05-05 | 2023-05-20 |
@@ -543,7 +544,7 @@
 | [Love Me Again \(Again\) \- DubVision & Third Party remix](https://open.spotify.com/track/0Az2NLbpGUqE2kJ8LEFdfZ) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Love Me Again \(Again\) \(DubVision & Third Party remix\)](https://open.spotify.com/album/4iRauOp7fiaVlqKygiOxoL) | 3:21 | 2026-02-20 |  |
 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 | 2021-10-15 | 2022-07-19 |
 | [Love Somebody](https://open.spotify.com/track/66RxR6rg3OoS9eZJzlXon3) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Love Somebody](https://open.spotify.com/album/0lu6oafkoXzOWl0mLTzgPJ) | 3:31 | 2025-07-25 |  |
-| [Love To Forget](https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Love To Forget](https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW) | 3:01 | 2026-09-18 |  |
+| [Love To Forget](https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Love To Forget](https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW) | 3:01 | 2026-09-18 | 2026-10-24 |
 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 | 2021-06-11 | 2023-03-11 |
 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 | 2022-03-11 | 2023-04-01 |
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 | 2023-07-08 |

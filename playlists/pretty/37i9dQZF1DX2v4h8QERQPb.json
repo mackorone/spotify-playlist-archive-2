@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANPlCgGivMpx3GeyW/8NDjc99SoK",
+  "snapshot_id": "AAAAAGmV6O0O096HebpCALa1f9Srfh60",
   "tracks": [
     {
       "added_at": "2026-10-09 18:31:09",
@@ -153,6 +153,54 @@
       "url": "https://open.spotify.com/track/7htrZTY76eF1nt7vy7IGgI"
     },
     {
+      "added_at": "2026-10-23 13:44:29",
+      "album": {
+        "name": "TODO TERRENO",
+        "url": "https://open.spotify.com/album/1Y0sH2jrwaUhDqQYrxgGc6"
+      },
+      "artists": [
+        {
+          "name": "Alba Best",
+          "url": "https://open.spotify.com/artist/3io2vmi2Vopm50Gx7TsjvS"
+        },
+        {
+          "name": "milo records",
+          "url": "https://open.spotify.com/artist/6noBaBLWQLT32Jgs6FBgMB"
+        },
+        {
+          "name": "Fede Trips",
+          "url": "https://open.spotify.com/artist/5SvADxWqbIFMCGJagZz5vp"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "TODO TERRENO",
+      "url": "https://open.spotify.com/track/5Z0xPhTECKJZh2IumBjqxq"
+    },
+    {
+      "added_at": "2026-10-23 13:44:29",
+      "album": {
+        "name": "Humedad",
+        "url": "https://open.spotify.com/album/3mjxwUhy1poh2hnPLgM9hn"
+      },
+      "artists": [
+        {
+          "name": "H de Perra",
+          "url": "https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU"
+        },
+        {
+          "name": "MALEBO",
+          "url": "https://open.spotify.com/artist/2S65E8yhw1Qbw0fc196FFW"
+        },
+        {
+          "name": "Doly Flackko",
+          "url": "https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH"
+        }
+      ],
+      "duration_ms": 190684,
+      "name": "Humedad",
+      "url": "https://open.spotify.com/track/1OcXQ6MAQgJgZfEm2gsZzD"
+    },
+    {
       "added_at": "2026-10-09 18:31:09",
       "album": {
         "name": "Los Perros con los Perros",
@@ -195,6 +243,22 @@
       "duration_ms": 223714,
       "name": "PARA\u00cdSO TERCERMUNDISTA",
       "url": "https://open.spotify.com/track/4b0AC3KyXlBcEdIaU4LGJG"
+    },
+    {
+      "added_at": "2026-10-23 13:44:29",
+      "album": {
+        "name": "Solinocuo",
+        "url": "https://open.spotify.com/album/5OEGYpGvpr0TAAO8zKe8UN"
+      },
+      "artists": [
+        {
+          "name": "Kamada",
+          "url": "https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R"
+        }
+      ],
+      "duration_ms": 136304,
+      "name": "Solinocuo",
+      "url": "https://open.spotify.com/track/0EDcMPP4EtSfJk3VGe9GuJ"
     },
     {
       "added_at": "2026-10-09 18:31:09",
@@ -259,6 +323,30 @@
       "duration_ms": 152035,
       "name": "15MIN AL DIA",
       "url": "https://open.spotify.com/track/1JMvcvyLyS1RsCWk7gOcy7"
+    },
+    {
+      "added_at": "2026-10-23 13:44:29",
+      "album": {
+        "name": "SOBREVIVIENTES",
+        "url": "https://open.spotify.com/album/1LCiKwAB4anjByWbxhuAkj"
+      },
+      "artists": [
+        {
+          "name": "Castellanos",
+          "url": "https://open.spotify.com/artist/3IeWLDOKlr0iehy9Wr8Zf2"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Chuch\u00fa Bermudas",
+          "url": "https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX"
+        }
+      ],
+      "duration_ms": 285176,
+      "name": "SOBREVIVIENTES",
+      "url": "https://open.spotify.com/track/4nEIu4exKpWmAiGK4iTd5S"
     },
     {
       "added_at": "2026-10-09 18:31:09",
@@ -1087,26 +1175,6 @@
     {
       "added_at": "2026-10-09 18:31:09",
       "album": {
-        "name": "Deseos",
-        "url": "https://open.spotify.com/album/0OoRuiDnuHWah5sNKbL3pJ"
-      },
-      "artists": [
-        {
-          "name": "Mir Nicolas",
-          "url": "https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT"
-        },
-        {
-          "name": "Lulo",
-          "url": "https://open.spotify.com/artist/5PBqui5EQjUM8MfYM8sH6E"
-        }
-      ],
-      "duration_ms": 113982,
-      "name": "Deseos",
-      "url": "https://open.spotify.com/track/2Dd0lB2qCPgWpUNnIz8ANi"
-    },
-    {
-      "added_at": "2026-10-09 18:31:09",
-      "album": {
         "name": "Mates con Miel",
         "url": "https://open.spotify.com/album/19KTI599ScGGGk29iq4zgi"
       },
@@ -1143,42 +1211,6 @@
       "duration_ms": 191612,
       "name": "PRECIO A PAGAR",
       "url": "https://open.spotify.com/track/7eNULp09lXzuqGBnSzRizY"
-    },
-    {
-      "added_at": "2026-10-09 18:31:09",
-      "album": {
-        "name": "Sin Futuro Mafia",
-        "url": "https://open.spotify.com/album/2jBofPmg0HORzb1b4kqfuN"
-      },
-      "artists": [
-        {
-          "name": "Sin Futuro Mafia",
-          "url": "https://open.spotify.com/artist/5R0hPD0TwLNLBWUyO7Y3hj"
-        },
-        {
-          "name": "Ronpe 99",
-          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
-        },
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "mhtresuno",
-          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
-        },
-        {
-          "name": "Oney1",
-          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
-        },
-        {
-          "name": "Alvso",
-          "url": "https://open.spotify.com/artist/5kNCvXZufkVxoFzx4l9EtW"
-        }
-      ],
-      "duration_ms": 166729,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/1G6yMi0d6yjL9fYV7JpCjx"
     },
     {
       "added_at": "2026-10-09 18:31:09",
@@ -1303,22 +1335,6 @@
       "duration_ms": 162609,
       "name": "Lejan\u00eda",
       "url": "https://open.spotify.com/track/7yubQGBbiYwQqeOCAEmOdL"
-    },
-    {
-      "added_at": "2026-10-09 18:31:09",
-      "album": {
-        "name": "doble F con visa",
-        "url": "https://open.spotify.com/album/0BpUckgoJhf28myPJRHnE1"
-      },
-      "artists": [
-        {
-          "name": "FRO!",
-          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
-        }
-      ],
-      "duration_ms": 125509,
-      "name": "doble F con visa",
-      "url": "https://open.spotify.com/track/0vwj3d7mw38Tv3P2WSlLm4"
     },
     {
       "added_at": "2026-10-09 18:31:09",
@@ -1919,26 +1935,6 @@
       "duration_ms": 173711,
       "name": "dosmil",
       "url": "https://open.spotify.com/track/2LTWIBgS1enPqdcRxVUHes"
-    },
-    {
-      "added_at": "2026-10-09 18:31:09",
-      "album": {
-        "name": "ACRU // Round 15",
-        "url": "https://open.spotify.com/album/7ie9lFAy0IlDbfKmodX3it"
-      },
-      "artists": [
-        {
-          "name": "Room41",
-          "url": "https://open.spotify.com/artist/06y9BCJYP2wpYn61S4USLy"
-        },
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        }
-      ],
-      "duration_ms": 194838,
-      "name": "ACRU // Round 15",
-      "url": "https://open.spotify.com/track/3CWsQCk670Rlq01J7xZAHZ"
     },
     {
       "added_at": "2026-10-09 18:31:09",

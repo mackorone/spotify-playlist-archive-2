@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Ferdi",
+  "description": "The best jazz new releases. Cover: Thomas Dutronc",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -3811,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "christmas dream",
+        "url": "https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160991,
+      "name": "christmas dream",
+      "url": "https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP"
+    },
+    {
+      "album": {
         "name": "New Standards Vol. 1",
         "url": "https://open.spotify.com/album/3fn7tQJA1sjZuZbxPiqlWF"
       },
@@ -5780,7 +5798,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 148548,
       "name": "Elevator Vibes",
       "url": "https://open.spotify.com/track/08toLeqUTQsJAB2SFL6m43"
@@ -6768,6 +6786,24 @@
       "duration_ms": 250426,
       "name": "Forgive the Damages (feat. Daudi Matsiko)",
       "url": "https://open.spotify.com/track/3D2hY0e8WbdJZxkWIgBfZP"
+    },
+    {
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/09xy1Zk3SuaGaH5sRkggCT"
+      },
+      "artists": [
+        {
+          "name": "Rory Green",
+          "url": "https://open.spotify.com/artist/5L4dF56YgKfcpWBgiyvZoG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362476,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/4qJnaCEOhxBz6kiMHerXDE"
     },
     {
       "album": {
@@ -8488,6 +8524,24 @@
       "duration_ms": 196200,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum"
+    },
+    {
+      "album": {
+        "name": "Not For Lack Of Trying (Deluxe)",
+        "url": "https://open.spotify.com/album/4BeNZ3Gr6Kt3IfQXJOHkXD"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183035,
+      "name": "I Feel Bad For You, Dave",
+      "url": "https://open.spotify.com/track/4cZioYxDGFKgF45aiWs5B7"
     },
     {
       "album": {
@@ -11133,6 +11187,24 @@
     },
     {
       "album": {
+        "name": "The Jazz Nights",
+        "url": "https://open.spotify.com/album/2JJHzLyMW28YseVbjbg9ok"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281720,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/3pNWC41kALblPpJpLHR7ny"
+    },
+    {
+      "album": {
         "name": "Let's Pray",
         "url": "https://open.spotify.com/album/33sClv6qAmmlkMqQRkIljM"
       },
@@ -11884,7 +11956,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178461,
       "name": "low tide",
       "url": "https://open.spotify.com/track/6OmMKDDtWtRQDqt6ZdjHZB"
@@ -16222,7 +16294,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 247306,
       "name": "Roll By (feat. Melissa Mary Ahern)",
       "url": "https://open.spotify.com/track/0GUQivk5lu2bTpZz1zF9Is"
@@ -17332,7 +17404,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 229426,
       "name": "Singin\u2019 In The Rain",
       "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
@@ -17594,6 +17666,24 @@
       "duration_ms": 179864,
       "name": "something will happen",
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "album": {
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/6M3hHjOpBKyDAPO5j4DVYZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246839,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/31S6JHlGUipCsZb4xnNQQ2"
     },
     {
       "album": {
@@ -18662,7 +18752,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 352131,
       "name": "T.B.T. (Thinkin' Blues - Trumpet) - Rework",
       "url": "https://open.spotify.com/track/4C0RwKEQdGLW2JVor1P9t5"
@@ -20092,7 +20182,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 388556,
       "name": "They Say It\u2019s Wonderful",
       "url": "https://open.spotify.com/track/5u87O1gmKcbUUrbskpaC5K"
@@ -22275,6 +22365,28 @@
     },
     {
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/4UetcX5W2bMBEpa3BNxK5e"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        },
+        {
+          "name": "Ke\u00efta Janota",
+          "url": "https://open.spotify.com/artist/33vhD7vKkYTZDvxmDx4mMh"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271800,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/45bJ2eLOOPNwoWOzkwvusG"
+    },
+    {
+      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/5JEiVEahTeREdRncv5kAWV"
       },
@@ -22558,6 +22670,24 @@
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
+    },
+    {
+      "album": {
+        "name": "Live At The Blue Note L.A.",
+        "url": "https://open.spotify.com/album/6m7pxdtmBiIsV8VTYeYc7S"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439999,
+      "name": "Yesterdays - Live At The Blue Note L.A.",
+      "url": "https://open.spotify.com/track/4p6xofTGJ0Hi8gpSc2DGEl"
     },
     {
       "album": {

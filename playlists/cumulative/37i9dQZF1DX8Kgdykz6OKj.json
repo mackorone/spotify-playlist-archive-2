@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
+      "album": {
         "name": "Always / Albany",
         "url": "https://open.spotify.com/album/350aqUY5tiF829qMI0QC6X"
       },
@@ -4974,7 +4996,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
@@ -6976,7 +6998,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 105974,
       "name": "LiveFromTheBoonies.",
       "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
@@ -8308,6 +8330,24 @@
       "duration_ms": 194019,
       "name": "Oh Word",
       "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+    },
+    {
+      "album": {
+        "name": "On My Worst Day",
+        "url": "https://open.spotify.com/album/1x8ivq83drPuDYbCJRY5dW"
+      },
+      "artists": [
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "On My Worst Day",
+      "url": "https://open.spotify.com/track/2abVA5BzsPcmDVp96NSzPt"
     },
     {
       "album": {

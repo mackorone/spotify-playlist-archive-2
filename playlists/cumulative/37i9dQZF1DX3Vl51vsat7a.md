@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-553 songs - 1 day 3 hr 58 min
+553 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 | 2021-12-16 | 2023-07-12 |
 | [good good](https://open.spotify.com/track/4clhJIomittfffOssrsKMh) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [good good](https://open.spotify.com/album/5G2EiAE53X62bW3erdq1lw) | 2:35 | 2023-08-24 | 2023-11-17 |
 | [Große Fragen](https://open.spotify.com/track/4eXkBcQR26SLaoWYsPyZwJ) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Große Fragen](https://open.spotify.com/album/5KmpkBEqeXCtnKVKFyAvKB) | 2:53 | 2026-10-08 |  |
+| [Gutmensch](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 2:24 | 2026-10-22 |  |
 | [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 | 2024-08-22 | 2025-09-05 |
 | [Hab dir nie gesagt](https://open.spotify.com/track/04H74fy8ApqS6qLpqJPcoV) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [Hab dir nie gesagt](https://open.spotify.com/album/2ny5dVSkPyqlWvrvwvk922) | 3:00 | 2025-05-29 | 2026-02-27 |
 | [Haifischbecken](https://open.spotify.com/track/2sL7gSkWNsHU3zEMT67edU) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Haifischbecken](https://open.spotify.com/album/0jL4GZTFvl6yaFHbDMIVCh) | 2:19 | 2025-08-28 | 2026-03-13 |
@@ -474,7 +475,6 @@
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-29 |
 | [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 | 2022-06-17 |
 | [To Whom All Lovers](https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Jasmine Azarian](https://open.spotify.com/artist/0SPFoqccna8MrtiFTQLW5s) | [Borderline Tenderness](https://open.spotify.com/album/5JSqzO7OU0ce12h1rkMz7c) | 6:18 | 2021-12-16 | 2022-01-07 |
-| [Track 8](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 0:00 | 2026-10-22 |  |
 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 | 2025-08-07 | 2026-05-01 |
 | [Traum](https://open.spotify.com/track/7gNNL3bJEqtznjbyMVileY) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [Traum](https://open.spotify.com/album/3eX1OaU6AYppdtGuLpxdBi) | 2:55 | 2026-01-13 | 2026-01-30 |
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-16 | 2022-01-28 |

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover:  Kid Milli, TRADE L\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Verbal Jint\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,773 likes - 102 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,724 likes - 102 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
-| 2 | [KAiKAiKiKi](https://open.spotify.com/track/25RwVpvbrqlAmpcD49iiM3) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [SINS](https://open.spotify.com/album/5p63oUGmqaNvltJVhMW87q) | 2:42 |
+| 2 | [What If](https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB) | [What If](https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4) | 3:16 |
 | 3 | [NEW AMBITION](https://open.spotify.com/track/4b5gQYvdqNrrkIuzrMRG4X) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [MilliMax](https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [AMBITION 10/10](https://open.spotify.com/album/2mw7Ym7O9bSZWhyKQa8Mj4) | 5:09 |
-| 4 | [What If](https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB) | [What If](https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4) | 3:16 |
+| 4 | [KAiKAiKiKi](https://open.spotify.com/track/25RwVpvbrqlAmpcD49iiM3) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [SINS](https://open.spotify.com/album/5p63oUGmqaNvltJVhMW87q) | 2:42 |
 | 5 | [후 \(puff\)](https://open.spotify.com/track/0MmlAwSg3Zx8590JMei6G9) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [shaking](https://open.spotify.com/album/2ZDqjIVxeRURiJrp3sARkx) | 2:08 |
 | 6 | [FTM4 \(feat\. The Flower of Life Trio\) \- Intro](https://open.spotify.com/track/0zfQlywiCXIDypwASblyRG) | [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [FREE THE MANE](https://open.spotify.com/artist/0L8PcTUJRezBwIA1TQQcgx), [The Flower of Life Trio](https://open.spotify.com/artist/6cBe5Htp4chKUoBzYWDYQI) | [FREE THE MANE 4](https://open.spotify.com/album/51bihzxqpN0YVQGeQ0Lyce) | 3:03 |
 | 7 | [UGRS RIGHT HERE!](https://open.spotify.com/track/6UH7SnRSS8NkopwZiowol5) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [MONOLITH](https://open.spotify.com/album/3d5fZhrTMffq3V9q8jxw4q) | 3:10 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 101 | [LOVE \(feat\. Paloalto\)](https://open.spotify.com/track/7q0wTNSPym2IyWUcY6m5Vt) | [Kohway](https://open.spotify.com/artist/2v9PvAakxqkcjtXU7SzlQP), [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [AFRO TAPE 2](https://open.spotify.com/album/2fk1hPLeK3pWirbOb7ydTn) | 3:43 |
 | 102 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 |
 
-Snapshot ID: `AAAAAJPYtE75GkXa1EIzrH+dTpIy97U1`
+Snapshot ID: `AAAAACd97EUJ3hhXiQmdtSAXMOJ/oF91`

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Jessica Audiffred en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
   "name": "electro mx ",
   "tracks": [
+    {
+      "album": {
+        "name": "#HOT #FUN #$EX",
+        "url": "https://open.spotify.com/album/4UuZZswg7oPmh2raab64ch"
+      },
+      "artists": [
+        {
+          "name": "Guerrero",
+          "url": "https://open.spotify.com/artist/4Npz1xEXGFWSPxmjmobask"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99629,
+      "name": "#HOT #FUN #$EX",
+      "url": "https://open.spotify.com/track/1WlSGFDmoJGFn0BLiSBBd0"
+    },
     {
       "album": {
         "name": "#Ruta Technomami",
@@ -64,10 +86,32 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 149538,
       "name": "+ (P\u00e9gate)",
       "url": "https://open.spotify.com/track/5QkrXCbEBoks6FBEJJThaA"
+    },
+    {
+      "album": {
+        "name": "11 y 11",
+        "url": "https://open.spotify.com/album/1iziPL3rTc7gHpndoMEizL"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "11 y 11",
+      "url": "https://open.spotify.com/track/48BBBY6M7BW7rDqIUP8zwc"
     },
     {
       "album": {
@@ -995,6 +1039,32 @@
     },
     {
       "album": {
+        "name": "MIRA QUIEN SE FUE",
+        "url": "https://open.spotify.com/album/4jiGxwl1uTSy5DSm2YCTpj"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172105,
+      "name": "BIEN NASTY",
+      "url": "https://open.spotify.com/track/1e4XJthDF8cQjVNY251AlJ"
+    },
+    {
+      "album": {
         "name": "Bikini",
         "url": "https://open.spotify.com/album/3PFBbxoLzBuIVdBRRW2ybv"
       },
@@ -1046,7 +1116,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160258,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
@@ -2214,7 +2284,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201293,
       "name": "cu\u00e1ndo",
       "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
@@ -4814,7 +4884,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186902,
       "name": "LA MALA VIDA",
       "url": "https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU"
@@ -5346,6 +5416,28 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "album": {
+        "name": "TODO ESTO ES CULPA M\u00cdA",
+        "url": "https://open.spotify.com/album/3yBBqc1BwG6cAkqc1f8wFj"
+      },
+      "artists": [
+        {
+          "name": "Ed Towers",
+          "url": "https://open.spotify.com/artist/5owN4l697Ow2yTGjOXUiv7"
+        },
+        {
+          "name": "Emiliano Athie",
+          "url": "https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231555,
+      "name": "LL\u00c9VATELO TODO",
+      "url": "https://open.spotify.com/track/5qt7BdG1MOpnuSmNwbafhI"
     },
     {
       "album": {
@@ -6191,6 +6283,32 @@
     },
     {
       "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/1Clm1koirJmv7GrGDzoAx7"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "BELCAST",
+          "url": "https://open.spotify.com/artist/4fSRUQ3o9t33hv8MFyGo7Z"
+        },
+        {
+          "name": "Velabeats",
+          "url": "https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/0ieXwHG4ZN0ZP4FKDX4ruV"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Rica",
         "url": "https://open.spotify.com/album/5zRW4298zNL32iGOqKXafW"
       },
@@ -6819,6 +6937,28 @@
     },
     {
       "album": {
+        "name": "PARA VERTE",
+        "url": "https://open.spotify.com/album/1InMNFAS0rjh8W6MA5rFiz"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        },
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/16NXoBUOXnEknxaaWoyDKv"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx"
       },
@@ -7421,6 +7561,24 @@
     },
     {
       "album": {
+        "name": "Princesa Mexicana",
+        "url": "https://open.spotify.com/album/3szlpeZ46Pm6y8Hzlrlo5Q"
+      },
+      "artists": [
+        {
+          "name": "P\u00f8nce",
+          "url": "https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197459,
+      "name": "Princesa Mexicana",
+      "url": "https://open.spotify.com/track/36jRPeUaUkIDW9KzrzfjuI"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9ndete",
         "url": "https://open.spotify.com/album/5UuS97dU2odoCFmnTULsbn"
       },
@@ -7764,7 +7922,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 174500,
       "name": "R-15",
       "url": "https://open.spotify.com/track/7zYNefq2q2xCOFXscMmW3B"
@@ -8632,7 +8790,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219098,
       "name": "Sin Sentir",
       "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
@@ -9542,7 +9700,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 147541,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/0CTaBZCRrQVsxdEFTYUByb"

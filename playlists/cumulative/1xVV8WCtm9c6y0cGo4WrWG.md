@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop updated weekly! Cover: Quavo
 
-577 songs - 1 day 5 hr 20 min
+578 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Treasure In The Hills](https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:09 | 2026-07-17 | 2026-08-22 |
 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 | 2023-11-03 | 2024-02-06 |
 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 | 2026-02-18 | 2026-08-22 |
+| [Tripping His Cousin](https://open.spotify.com/track/4SkvEkzhKUcQDDKQMNR1qv) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Tripping His Cousin](https://open.spotify.com/album/09jMrlK9HDrqPMEmLJbZz9) | 2:21 | 2026-10-23 |  |
 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 | 2025-06-20 | 2025-07-12 |
 | [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 | 2025-11-07 | 2026-08-22 |
 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 | 2024-05-03 | 2025-03-25 |

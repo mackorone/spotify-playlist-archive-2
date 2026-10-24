@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-452 songs - 1 day 3 hr 10 min
+453 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Dr\. T](https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Dr\. T](https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f) | 2:33 | 2022-08-26 | 2022-11-05 |
 | [Dreaded Truth](https://open.spotify.com/track/4IhCYRCAwGSc2l5q0fXiZo) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dreaded Truth](https://open.spotify.com/album/6fMb8MTAJz13YRzwgc39h5) | 3:49 | 2024-02-09 | 2024-08-10 |
 | [Dream Drone](https://open.spotify.com/track/6vCBak8jhaFOhvjaLRrVuw) | [Soundscape Orchestra](https://open.spotify.com/artist/3YnBDgy1QEbGQhYAbwjvsg) | [Dream Drone](https://open.spotify.com/album/7tFujmdb2OsP05AVQaTR7q) | 4:28 | 2021-07-30 |  |
-| [Dream Hands](https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Tristan Cappel](https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4) | [Dream Hands](https://open.spotify.com/album/0tCca2CrrAxPesHzRMa5vF) | 3:10 | 2025-08-01 |  |
+| [Dream Hands](https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Tristan Cappel](https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4) | [Dream Hands](https://open.spotify.com/album/0tCca2CrrAxPesHzRMa5vF) | 3:10 | 2025-08-01 | 2026-10-24 |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-10 | 2023-05-13 |
 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 | 2023-09-29 |  |
 | [Drosa is real! \- Lindstrøm Remix](https://open.spotify.com/track/2GXuEBwNTxtLlFjJTIvLtF) | [OJKOS](https://open.spotify.com/artist/3SvYLxzIrrlQZoXEAbP8ge), [Andreas Rotevatn](https://open.spotify.com/artist/7c1MJLpX1Vro7RomKzLy1j), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Drosa is real! \(Lindstrøm Remix\)](https://open.spotify.com/album/7IZaEvQMN84An2b8U5CTln) | 12:11 | 2022-11-04 | 2023-07-29 |
@@ -182,6 +182,7 @@
 | [Grosch Joint](https://open.spotify.com/track/3nFRB56B7aU9inWIhNxOhl) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV), [Max Grosch](https://open.spotify.com/artist/0X1RP5ySRsivyk8hHu1P1i) | [Grosch Joint](https://open.spotify.com/album/3pBNiFTrKQROExoGLacKlm) | 5:53 | 2021-01-29 | 2022-03-26 |
 | [Half\-Bloom](https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og) | [Asta Hiroki](https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC) | [Half\-Bloom](https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN) | 4:27 | 2021-09-10 |  |
 | [Half\-Bloom](https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL) | [Asta Hiroki](https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC) | [Half\-Bloom](https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5) | 4:27 | 2021-09-10 | 2024-04-19 |
+| [Hands Rejoice!](https://open.spotify.com/track/375qFU8b3QOqcOp7wxOG6v) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0), [bigboihums](https://open.spotify.com/artist/6yl3Npg9anIva2sYQ0SW7f), [Tristan Cappel](https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4) | [Eight Ring Revival](https://open.spotify.com/album/0KS54hy5B9VbBWbkt70S4G) | 2:02 | 2026-10-23 |  |
 | [Hauskatze](https://open.spotify.com/track/3hMlTNVgfGCPfMtJNq4yfK) | [Aver](https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi) | [Die Berlin Dateien](https://open.spotify.com/album/6DVLCJUb5N3evJn6vAGQCH) | 2:37 | 2021-01-29 | 2022-03-23 |
 | [HI 5 \- galen tipton Remix](https://open.spotify.com/track/45PdXVMyFQu6OSMbyMWBjf) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [HI 5 \(galen tipton Remix\)](https://open.spotify.com/album/49rqfgJT7JffTBac2WleRa) | 4:26 | 2023-08-25 |  |
 | [Hidden Levels](https://open.spotify.com/track/2k5uXmRmaAgdixEAkhQZlM) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Hidden Levels](https://open.spotify.com/album/375BDqAAeAHME4ZmEbs7JO) | 3:50 | 2021-01-29 | 2022-03-26 |

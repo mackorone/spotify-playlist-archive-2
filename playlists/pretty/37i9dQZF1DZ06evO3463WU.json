@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161577,
+  "num_followers": 161595,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABBbGyB+pL2TGrk/OvlNwX+",
+  "snapshot_id": "atgAgAAAAADMloPogOIQ2TSg3CQ2KvxJ",
   "tracks": [
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Te Amo Y Te Lo Digo",
-      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
+      "duration_ms": 209374,
+      "name": "Adi\u00f3s Mi Vida",
+      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 207934,
-      "name": "Al Final De Tu Camino",
-      "url": "https://open.spotify.com/track/23IZObD629IXwpPEyDM3RL"
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
     },
     {
       "added_at": null,
@@ -464,15 +464,15 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Adi\u00f3s Mi Vida",
-      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
+      "duration_ms": 182613,
+      "name": "Te Amo Y Te Lo Digo",
+      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Con El Alma En La Mano",
-      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+      "duration_ms": 207934,
+      "name": "Al Final De Tu Camino",
+      "url": "https://open.spotify.com/track/23IZObD629IXwpPEyDM3RL"
     },
     {
       "added_at": null,
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superlameando",
-        "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
       "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 227240,
-      "name": "Pero La Recuerdo",
-      "url": "https://open.spotify.com/track/19nz2CtctKQRKpOdPHbjzM"
+      "duration_ms": 215446,
+      "name": "Mi Gran Problema",
+      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+        "name": "Superlameando",
+        "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
       },
       "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 215446,
-      "name": "Mi Gran Problema",
-      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
+      "duration_ms": 227240,
+      "name": "Pero La Recuerdo",
+      "url": "https://open.spotify.com/track/19nz2CtctKQRKpOdPHbjzM"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Por Amor Y Fe",
-      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Nunca Cambies",
-      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 157175,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 145786,
-      "name": "El Vagabundo Que Te Ama",
-      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
     },
     {
       "added_at": null,

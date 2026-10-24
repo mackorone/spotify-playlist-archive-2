@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 102483,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3DL2Zth3HnbmMKgUy3RSiG"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 105870,
       "name": "Dance of the Sugar Plum Fairy",
       "url": "https://open.spotify.com/track/01sU6lFqUbZufGXM4EjkXO"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 142893,
       "name": "Jingle Bell Rock -Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i"
@@ -2302,6 +2302,24 @@
       "duration_ms": 207213,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/5r6UajkYcqGZgeiFV4NCqY"
+    },
+    {
+      "album": {
+        "name": "mall santa",
+        "url": "https://open.spotify.com/album/60lWzRhx8F2syoAFT3in6I"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207050,
+      "name": "mall santa",
+      "url": "https://open.spotify.com/track/2vEOAz8nAPVVw7Tkj51ERf"
     },
     {
       "album": {
@@ -3485,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/08CnwP2yN9iYffUmV4OcF7"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/0EB2alDHdChIb0u8c6COre"
+    },
+    {
+      "album": {
         "name": "Snow in Montana",
         "url": "https://open.spotify.com/album/0bwOZcIDnfGPTDN6CGkA1D"
       },
@@ -3758,6 +3794,24 @@
       "duration_ms": 138502,
       "name": "The Stocking Song",
       "url": "https://open.spotify.com/track/7GpEcFqMxKPyO1jV0M86RD"
+    },
+    {
+      "album": {
+        "name": "That Spirit of Christmas",
+        "url": "https://open.spotify.com/album/3vCHedgLuvnMNuFSw7N9Ou"
+      },
+      "artists": [
+        {
+          "name": "Dustin Kensrue",
+          "url": "https://open.spotify.com/artist/0SuWOa14KQ9jBIwvqFbzo5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "This Good Night Is Still Everywhere",
+      "url": "https://open.spotify.com/track/3DzNnHWAjKwrwakgwxTH6d"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,909 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,912 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 22 | [Esperar](https://open.spotify.com/track/1Wa76EGZZgRuCV2tnDJ01B) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:16 |
 | 23 | [Perdóname](https://open.spotify.com/track/7MdMyVXQ3FVprk7htpv11E) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:47 |
 | 24 | [Partido en Dos](https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 4:22 |
-| 25 | [Hazme Algo](https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:50 |
-| 26 | [Frente a Frente](https://open.spotify.com/track/1yDF44z0IS7nfwt1zDPs0v) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry), [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Frente a Frente](https://open.spotify.com/album/1i3VXXokSz7Le0xirAS615) | 4:29 |
+| 25 | [Frente a Frente](https://open.spotify.com/track/1yDF44z0IS7nfwt1zDPs0v) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry), [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Frente a Frente](https://open.spotify.com/album/1i3VXXokSz7Le0xirAS615) | 4:29 |
+| 26 | [Hazme Algo](https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:50 |
 | 27 | [Yo Lloraré Por Ti](https://open.spotify.com/track/4n01Y1FkuhXPRFnbP9YOjV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:50 |
 | 28 | [Adios](https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:53 |
 | 29 | [El espacio](https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 49 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 |
 | 50 | [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 |
 
-Snapshot ID: `atavAAAAAAApUUsOAhnNssTjPlqoNFuW`
+Snapshot ID: `atgAgAAAAABEtsy/9lwCPr+EEvIpb7dW`

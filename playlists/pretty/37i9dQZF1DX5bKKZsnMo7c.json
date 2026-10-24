@@ -1,13 +1,29 @@
 {
-  "description": "Dramatic, theatrical pop: Haute & Freddy it's your moment!",
-  "num_followers": 571853,
+  "description": "Dramatic, theatrical pop: Emily Bear it's your moment!",
+  "num_followers": 571885,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZrBUuprL+BdMl4N10f9OlS8q6W",
+  "snapshot_id": "AAAAABUk03BWCaVL+ZCaNZhvBGWcRy1o",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:02:26",
+      "album": {
+        "name": "God Forbid a Girl Gets Used To This",
+        "url": "https://open.spotify.com/album/0i44xpup3y135PLPN32jSL"
+      },
+      "artists": [
+        {
+          "name": "Emily Bear",
+          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
+        }
+      ],
+      "duration_ms": 244381,
+      "name": "God Forbid a Girl Gets Used To This",
+      "url": "https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX"
+    },
     {
       "added_at": "2026-04-08 17:34:45",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 187658,
       "name": "Shy Girl",
       "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "added_at": "2026-10-23 04:02:26",
+      "album": {
+        "name": "Night at the Opera: Intermission",
+        "url": "https://open.spotify.com/album/1wR0iRw6AKwbNED8OG37PB"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 129399,
+      "name": "Regularly Scheduled Program",
+      "url": "https://open.spotify.com/track/2Sjpi4RA5zFmgYuwwZY8zi"
+    },
+    {
+      "added_at": "2026-02-06 05:17:54",
+      "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2026-10-16 04:01:22",
@@ -59,6 +107,58 @@
     {
       "added_at": "2026-10-16 04:01:22",
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+    },
+    {
+      "added_at": "2026-10-23 04:02:26",
+      "album": {
+        "name": "Passion Isn't Rare",
+        "url": "https://open.spotify.com/album/7Iehhp14cGzyFbsl9suqCv"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "duration_ms": 190828,
+      "name": "Passion Isn't Rare",
+      "url": "https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis"
+    },
+    {
+      "added_at": "2026-10-02 04:02:24",
+      "album": {
+        "name": "Kiss The Ring",
+        "url": "https://open.spotify.com/album/3jhhlghXYx4hPeWRaptUXm"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 191904,
+      "name": "Kiss The Ring",
+      "url": "https://open.spotify.com/track/3uiUQodPW2SoJkzg7J6Bfd"
+    },
+    {
+      "added_at": "2026-10-16 04:01:22",
+      "album": {
         "name": "Ghost in My Walls",
         "url": "https://open.spotify.com/album/3DWIwr5wEOcXka8B0z4dew"
       },
@@ -89,6 +189,22 @@
       "url": "https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0"
     },
     {
+      "added_at": "2026-09-11 13:41:36",
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
       "added_at": "2026-08-21 04:00:24",
       "album": {
         "name": "STARCROSSED",
@@ -107,26 +223,6 @@
       "duration_ms": 185000,
       "name": "STARCROSSED",
       "url": "https://open.spotify.com/track/3bxGv7giekHGcXUtGumcVp"
-    },
-    {
-      "added_at": "2026-10-16 04:01:22",
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 301674,
-      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-      "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
     },
     {
       "added_at": "2026-09-18 04:00:36",
@@ -159,22 +255,6 @@
       "duration_ms": 192000,
       "name": "Molly",
       "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
-    },
-    {
-      "added_at": "2026-10-02 04:02:24",
-      "album": {
-        "name": "Kiss The Ring",
-        "url": "https://open.spotify.com/album/3jhhlghXYx4hPeWRaptUXm"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 191904,
-      "name": "Kiss The Ring",
-      "url": "https://open.spotify.com/track/3uiUQodPW2SoJkzg7J6Bfd"
     },
     {
       "added_at": "2026-10-09 19:27:07",
@@ -223,22 +303,6 @@
       "duration_ms": 174881,
       "name": "The Poet and Her Vice (Happy Ending)",
       "url": "https://open.spotify.com/track/7xyxpnf63Bad2KTRNY5a5b"
-    },
-    {
-      "added_at": "2026-09-11 13:41:36",
-      "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
       "added_at": "2026-10-13 22:11:11",
@@ -307,6 +371,22 @@
       "duration_ms": 181500,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/5vBY4Mey3y3v7PL4skeMJ7"
+    },
+    {
+      "added_at": "2026-09-21 16:30:54",
+      "album": {
+        "name": "Lucky You're A Star",
+        "url": "https://open.spotify.com/album/4bxmtYbz2ncL7LG09boZAx"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 212075,
+      "name": "Lucky You're A Star",
+      "url": "https://open.spotify.com/track/6ohOpO4diHtaf0EPtBpzFg"
     },
     {
       "added_at": "2026-09-04 04:02:26",
@@ -419,22 +499,6 @@
       "duration_ms": 182665,
       "name": "Puppet Show",
       "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
-    },
-    {
-      "added_at": "2026-09-21 16:30:54",
-      "album": {
-        "name": "Lucky You're A Star",
-        "url": "https://open.spotify.com/album/4bxmtYbz2ncL7LG09boZAx"
-      },
-      "artists": [
-        {
-          "name": "Valencia Grace",
-          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
-        }
-      ],
-      "duration_ms": 212075,
-      "name": "Lucky You're A Star",
-      "url": "https://open.spotify.com/track/6ohOpO4diHtaf0EPtBpzFg"
     },
     {
       "added_at": "2026-09-04 04:02:26",
@@ -563,22 +627,6 @@
       "duration_ms": 198211,
       "name": "Traitor To Myself",
       "url": "https://open.spotify.com/track/72QA53qzcxUUzPlX0JUTc2"
-    },
-    {
-      "added_at": "2026-06-26 04:53:27",
-      "album": {
-        "name": "You Don't Know My Name",
-        "url": "https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Fond",
-      "url": "https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh"
     },
     {
       "added_at": "2026-06-26 13:16:35",
@@ -797,22 +845,6 @@
       "url": "https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X"
     },
     {
-      "added_at": "2026-02-06 05:17:54",
-      "album": {
-        "name": "He's My Man",
-        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 232985,
-      "name": "He's My Man",
-      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
-    },
-    {
       "added_at": "2026-09-11 13:41:36",
       "album": {
         "name": "Voices in my Head",
@@ -833,34 +865,6 @@
       "url": "https://open.spotify.com/track/6nAKHdO2c4ehzzThwTnb1u"
     },
     {
-      "added_at": "2026-03-27 04:00:08",
-      "album": {
-        "name": "World of Warcraft: A Place To Call Home",
-        "url": "https://open.spotify.com/album/0b7kTOdc4wZHCRMBUiVfp1"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Brendon Williams",
-          "url": "https://open.spotify.com/artist/5ZU7xWKgKq5T47aBVHBeMs"
-        },
-        {
-          "name": "World of Warcraft",
-          "url": "https://open.spotify.com/artist/2dlo6TFsxQawXjxytNerod"
-        },
-        {
-          "name": "Blizzard Entertainment",
-          "url": "https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59"
-        }
-      ],
-      "duration_ms": 131978,
-      "name": "A Place To Call Home",
-      "url": "https://open.spotify.com/track/0rIcVjhuC7B4IGg7C0AVNd"
-    },
-    {
       "added_at": "2026-04-03 04:01:43",
       "album": {
         "name": "Jane!",
@@ -875,22 +879,6 @@
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "DISNEY PRINCESS",
-        "url": "https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 245441,
-      "name": "DISNEY PRINCESS",
-      "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -977,50 +965,6 @@
       "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
-      "added_at": "2026-03-13 00:00:08",
-      "album": {
-        "name": "Tryna Be Cool",
-        "url": "https://open.spotify.com/album/0W6hiknmH6WDLz1PxA882n"
-      },
-      "artists": [
-        {
-          "name": "Hi-Lo Jack",
-          "url": "https://open.spotify.com/artist/40Hz7AuUTnlK2XpIyq3ghX"
-        },
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        },
-        {
-          "name": "Stolen Jars",
-          "url": "https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r"
-        },
-        {
-          "name": "DAP The Contract",
-          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Tryna Be Cool",
-      "url": "https://open.spotify.com/track/6FxVw99inxzrYEjXGCTS9P"
-    },
-    {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
-        "name": "YDH",
-        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 197043,
-      "name": "YDH",
-      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
-    },
-    {
       "added_at": "2026-02-02 19:17:29",
       "album": {
         "name": "The Subway",
@@ -1073,54 +1017,6 @@
       "url": "https://open.spotify.com/track/6sPBgWvvJXebIn0fj7Shte"
     },
     {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
-        "name": "Helen's Door",
-        "url": "https://open.spotify.com/album/34yIxzhBiLbKWvneIEXE30"
-      },
-      "artists": [
-        {
-          "name": "Melina KB",
-          "url": "https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Helen's Door",
-      "url": "https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu"
-    },
-    {
-      "added_at": "2026-02-16 16:20:24",
-      "album": {
-        "name": "The Lady on the Moon",
-        "url": "https://open.spotify.com/album/5pe3vvxYN2JVSy7KQv0hyb"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "The Lady on the Moon",
-      "url": "https://open.spotify.com/track/4N00gwXcw0WQzxngbwztnu"
-    },
-    {
-      "added_at": "2025-11-28 05:00:21",
-      "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "Trauma Olympics",
-      "url": "https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl"
-    },
-    {
       "added_at": "2026-01-16 05:00:38",
       "album": {
         "name": "Never Be Me (M\u2605therf\u2605cker)",
@@ -1135,22 +1031,6 @@
       "duration_ms": 217649,
       "name": "Never Be Me (M\u2605therf\u2605cker)",
       "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
-    },
-    {
-      "added_at": "2025-11-10 22:16:42",
-      "album": {
-        "name": "Love at the Bottom of the Sea",
-        "url": "https://open.spotify.com/album/0CfSd8lAcnddr939k6hle1"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 129609,
-      "name": "Andrew in Drag",
-      "url": "https://open.spotify.com/track/4hGc42qyzkBMoHGddyX565"
     },
     {
       "added_at": "2025-12-05 05:23:44",
@@ -1247,54 +1127,6 @@
       "duration_ms": 215960,
       "name": "Hermit the Frog",
       "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
-    },
-    {
-      "added_at": "2025-08-18 02:36:33",
-      "album": {
-        "name": "boys beware",
-        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 133887,
-      "name": "boys beware",
-      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
-    },
-    {
-      "added_at": "2025-09-23 19:07:15",
-      "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-    },
-    {
-      "added_at": "2025-09-15 22:13:38",
-      "album": {
-        "name": "Little Caesar",
-        "url": "https://open.spotify.com/album/2jUoyp6QSpo5xWrEqNORfb"
-      },
-      "artists": [
-        {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
-        }
-      ],
-      "duration_ms": 174256,
-      "name": "Little Caesar",
-      "url": "https://open.spotify.com/track/1DVRDDz3uoN09hhrIZSiLo"
     },
     {
       "added_at": "2025-05-27 15:37:48",
@@ -1407,22 +1239,6 @@
       "duration_ms": 146654,
       "name": "1985",
       "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
-    },
-    {
-      "added_at": "2024-08-23 04:11:51",
-      "album": {
-        "name": "Yes, Virginia",
-        "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
-      },
-      "artists": [
-        {
-          "name": "The Dresden Dolls",
-          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "My Alcoholic Friends",
-      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
     }
   ],
   "unique_name": "Limelight",

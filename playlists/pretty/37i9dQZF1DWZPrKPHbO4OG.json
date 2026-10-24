@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39690,
+  "num_followers": 39707,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,30 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Ghotala Ghotala Zala (From \"Partu\")",
+        "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
+      },
+      "artists": [
+        {
+          "name": "Janhavi Prabhu Arora",
+          "url": "https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW"
+        },
+        {
+          "name": "Shashank Powar",
+          "url": "https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt"
+        },
+        {
+          "name": "Guru Thakur",
+          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Ghotala Ghotala Zala - From \"Partu\"",
+      "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -615,30 +639,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Ghotala Ghotala Zala (From \"Partu\")",
-        "url": "https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK"
-      },
-      "artists": [
-        {
-          "name": "Janhavi Prabhu Arora",
-          "url": "https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW"
-        },
-        {
-          "name": "Shashank Powar",
-          "url": "https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt"
-        },
-        {
-          "name": "Guru Thakur",
-          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Ghotala Ghotala Zala - From \"Partu\"",
-      "url": "https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw"
     },
     {
       "added_at": "2026-09-24 07:16:44",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Punyachi Maina",
+        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
+      },
+      "artists": [
+        {
+          "name": "Dj Abhijeet",
+          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
+        }
+      ],
+      "duration_ms": 96052,
+      "name": "Punyachi Maina",
+      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Meri Madhubala",
         "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 259894,
       "name": "Mi Naadkhula",
       "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Punyachi Maina",
-        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Abhijeet",
-          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
-        }
-      ],
-      "duration_ms": 96052,
-      "name": "Punyachi Maina",
-      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
     }
   ],
   "unique_name": "Marathi Workout",

@@ -1,32 +1,48 @@
 {
-  "description": "50% techno, 50% house \ud83d\udc83 Tech house operators, featuring Torren Foot",
-  "num_followers": 718728,
+  "description": "50% techno, 50% house \ud83c\uddea\ud83c\uddfa Tech house operators, featuring Jay de Lys",
+  "num_followers": 718824,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMOPk05ImAslfSCvhx6OGfsxkX+A",
+  "snapshot_id": "AAAAAPqvKqeXGOfJDQXy8yEs2vCZ4Z2I",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:01:00",
+      "added_at": "2026-10-23 04:01:09",
       "album": {
-        "name": "DANCE",
-        "url": "https://open.spotify.com/album/3c5PwiMAkymxCGu61skGwa"
+        "name": "In Europe EP",
+        "url": "https://open.spotify.com/album/72VIk1neR3fC7jlKpZxF5q"
       },
       "artists": [
         {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
         }
       ],
-      "duration_ms": 177142,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/699Wr7tqt9R0J95A5Bc1Jp"
+      "duration_ms": 202106,
+      "name": "In Europe",
+      "url": "https://open.spotify.com/track/46u6S0BlmgQqPfSMtQoTF3"
+    },
+    {
+      "added_at": "2026-10-09 04:01:43",
+      "album": {
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/6cvhugvu7B0tBi8hZKmbcb"
+      },
+      "artists": [
+        {
+          "name": "Joey London Style",
+          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
+        },
+        {
+          "name": "Pheelo",
+          "url": "https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA"
+        }
+      ],
+      "duration_ms": 152343,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -51,6 +67,122 @@
       "duration_ms": 205871,
       "name": "When We're Dancing",
       "url": "https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso"
+    },
+    {
+      "added_at": "2026-10-16 04:01:00",
+      "album": {
+        "name": "Odd Boys",
+        "url": "https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Out of Sight, Out of Mind",
+      "url": "https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q"
+    },
+    {
+      "added_at": "2026-10-23 04:01:09",
+      "album": {
+        "name": "Make You Sweat",
+        "url": "https://open.spotify.com/album/5zvjskp9Ft37tSzgiRkcQy"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "Make You Sweat",
+      "url": "https://open.spotify.com/track/6XTysPFKGdqg2G8DT0XCt5"
+    },
+    {
+      "added_at": "2026-10-16 04:01:00",
+      "album": {
+        "name": "DANCE",
+        "url": "https://open.spotify.com/album/3c5PwiMAkymxCGu61skGwa"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/699Wr7tqt9R0J95A5Bc1Jp"
+    },
+    {
+      "added_at": "2026-10-23 04:01:09",
+      "album": {
+        "name": "Korrupt Gangsters EP",
+        "url": "https://open.spotify.com/album/3xXjZYBfJV960E5LcJgaUH"
+      },
+      "artists": [
+        {
+          "name": "AJK",
+          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Korrupt",
+      "url": "https://open.spotify.com/track/7IKTr1wrHdCN9yD5hliktQ"
+    },
+    {
+      "added_at": "2026-10-16 04:01:00",
+      "album": {
+        "name": "Fussin EP",
+        "url": "https://open.spotify.com/album/6ovzcERUhHBCITY4tgtenP"
+      },
+      "artists": [
+        {
+          "name": "JIMII",
+          "url": "https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf"
+        },
+        {
+          "name": "Enzo Fazz",
+          "url": "https://open.spotify.com/artist/16h4NGhvIa9uATRajhwEaM"
+        }
+      ],
+      "duration_ms": 238181,
+      "name": "Fussin'",
+      "url": "https://open.spotify.com/track/57WN0Yj0u49mf64qsgeQ3x"
+    },
+    {
+      "added_at": "2026-09-18 04:02:10",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/667tkdMNb9tR0R68FPsdQP"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/1pJQFno9DA8ghYWMecImct"
     },
     {
       "added_at": "2026-08-28 04:01:43",
@@ -101,48 +233,24 @@
       "url": "https://open.spotify.com/track/0QJCL0efLzWSvT4SbURv25"
     },
     {
-      "added_at": "2026-10-16 04:01:00",
+      "added_at": "2026-10-23 04:01:09",
       "album": {
-        "name": "Odd Boys",
-        "url": "https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ"
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/03u0S5g2JKNNunCU1Z135n"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
         },
         {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Losing Stereo",
+          "url": "https://open.spotify.com/artist/3gGymfaS5cL5G7bT0yVANt"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Out of Sight, Out of Mind",
-      "url": "https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q"
-    },
-    {
-      "added_at": "2026-10-09 04:01:43",
-      "album": {
-        "name": "Never Stop",
-        "url": "https://open.spotify.com/album/6cvhugvu7B0tBi8hZKmbcb"
-      },
-      "artists": [
-        {
-          "name": "Joey London Style",
-          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
-        },
-        {
-          "name": "Pheelo",
-          "url": "https://open.spotify.com/artist/3R2HL3PzOU2tQNeFiNhcfA"
-        }
-      ],
-      "duration_ms": 152343,
-      "name": "Never Stop",
-      "url": "https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG"
+      "duration_ms": 324977,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/014B9aKiAvY8vwRCJc4uz1"
     },
     {
       "added_at": "2026-10-09 04:01:43",
@@ -163,26 +271,6 @@
       "duration_ms": 180937,
       "name": "Nobody Likes The Records That You Play",
       "url": "https://open.spotify.com/track/5fX4eZ34E6Fg2iz917mQ81"
-    },
-    {
-      "added_at": "2026-10-16 04:01:00",
-      "album": {
-        "name": "Fussin EP",
-        "url": "https://open.spotify.com/album/6ovzcERUhHBCITY4tgtenP"
-      },
-      "artists": [
-        {
-          "name": "JIMII",
-          "url": "https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf"
-        },
-        {
-          "name": "Enzo Fazz",
-          "url": "https://open.spotify.com/artist/16h4NGhvIa9uATRajhwEaM"
-        }
-      ],
-      "duration_ms": 238181,
-      "name": "Fussin'",
-      "url": "https://open.spotify.com/track/57WN0Yj0u49mf64qsgeQ3x"
     },
     {
       "added_at": "2026-10-09 04:01:43",
@@ -209,6 +297,26 @@
       "url": "https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"
     },
     {
+      "added_at": "2026-09-18 04:02:10",
+      "album": {
+        "name": "Ask Me Tomorrow",
+        "url": "https://open.spotify.com/album/70MHD4LFrK6yOsniB1OSsz"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 174390,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/1S6zM3qxtd1OFNXwvWLFdq"
+    },
+    {
       "added_at": "2026-10-16 04:01:00",
       "album": {
         "name": "Technophobic",
@@ -229,26 +337,6 @@
       "url": "https://open.spotify.com/track/3pIO1TRLTvHfYsGcjr1ZNp"
     },
     {
-      "added_at": "2026-09-18 04:02:10",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/667tkdMNb9tR0R68FPsdQP"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/1pJQFno9DA8ghYWMecImct"
-    },
-    {
       "added_at": "2026-10-02 04:03:08",
       "album": {
         "name": "Mi Casa",
@@ -265,24 +353,24 @@
       "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
     },
     {
-      "added_at": "2026-09-18 04:02:10",
+      "added_at": "2026-10-23 04:01:09",
       "album": {
-        "name": "Ask Me Tomorrow",
-        "url": "https://open.spotify.com/album/70MHD4LFrK6yOsniB1OSsz"
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
         }
       ],
-      "duration_ms": 174390,
-      "name": "Losing Focus",
-      "url": "https://open.spotify.com/track/1S6zM3qxtd1OFNXwvWLFdq"
+      "duration_ms": 195692,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs"
     },
     {
       "added_at": "2026-10-02 04:03:08",
@@ -373,6 +461,30 @@
       "url": "https://open.spotify.com/track/7KLsZrIzZc4S3sy3dYiX1g"
     },
     {
+      "added_at": "2026-10-23 04:01:09",
+      "album": {
+        "name": "Off Your Mind (feat. Last Lights)",
+        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Last Lights",
+          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Off Your Mind (feat. Last Lights)",
+      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
+    },
+    {
       "added_at": "2026-10-16 04:01:00",
       "album": {
         "name": "313",
@@ -391,6 +503,38 @@
       "duration_ms": 151384,
       "name": "313",
       "url": "https://open.spotify.com/track/08nAH7ZAxpc0qFAresvFrr"
+    },
+    {
+      "added_at": "2026-10-16 04:01:00",
+      "album": {
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/5LGcxj2J1SoyzYpJyTMHHH"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 151637,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/3MGfY8JW7TVi4sybGQK2av"
+    },
+    {
+      "added_at": "2026-10-23 04:01:09",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0FJF0yPAW0sW5jeaCLfPBF"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 306268,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2MXcraFXyL5RnlRovYSduf"
     },
     {
       "added_at": "2026-10-09 04:01:43",
@@ -535,22 +679,6 @@
       "duration_ms": 207022,
       "name": "Watch Your Back",
       "url": "https://open.spotify.com/track/6MCQSL5biAbcvX0ZL7Kypt"
-    },
-    {
-      "added_at": "2026-10-16 04:01:00",
-      "album": {
-        "name": "Come Around",
-        "url": "https://open.spotify.com/album/5LGcxj2J1SoyzYpJyTMHHH"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 151637,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/3MGfY8JW7TVi4sybGQK2av"
     },
     {
       "added_at": "2026-10-02 04:03:08",
@@ -1151,22 +1279,6 @@
     {
       "added_at": "2026-09-11 04:01:23",
       "album": {
-        "name": "Rockstar EP",
-        "url": "https://open.spotify.com/album/1KVvgFI2pBegv0GnTNofCw"
-      },
-      "artists": [
-        {
-          "name": "Alphadog",
-          "url": "https://open.spotify.com/artist/0BCwCDWFMwyKChehFuZFdG"
-        }
-      ],
-      "duration_ms": 315102,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/7wLIfGz699eaUJpT0v8W3w"
-    },
-    {
-      "added_at": "2026-09-11 04:01:23",
-      "album": {
         "name": "The City/All I Want",
         "url": "https://open.spotify.com/album/2NMKjdT6Ky0qMmza1rhKpY"
       },
@@ -1613,26 +1725,6 @@
       "url": "https://open.spotify.com/track/7vHdxhnhpSG6UHLl8ur4b4"
     },
     {
-      "added_at": "2026-08-28 04:01:43",
-      "album": {
-        "name": "1800",
-        "url": "https://open.spotify.com/album/15SJmlfMzobIOkBAf9djSl"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "1800",
-      "url": "https://open.spotify.com/track/2zOk9axSPQeU5Dshj8GUO0"
-    },
-    {
       "added_at": "2026-07-31 04:37:32",
       "album": {
         "name": "Disco Biscuit",
@@ -1651,22 +1743,6 @@
       "duration_ms": 213750,
       "name": "Disco Biscuit",
       "url": "https://open.spotify.com/track/3oRxAZstpoc5xrT9HYFIJv"
-    },
-    {
-      "added_at": "2026-08-28 04:01:43",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/0ytLAJcQ6Z2c408TlGUNkM"
-      },
-      "artists": [
-        {
-          "name": "dualit\u00e9",
-          "url": "https://open.spotify.com/artist/4pnymQheapZYHjiTWBmoGi"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/5wPkiLSOAP3EjClBL73yG0"
     },
     {
       "added_at": "2026-07-24 04:02:18",
@@ -1769,50 +1845,6 @@
       "url": "https://open.spotify.com/track/1EPJvABmhKAXlMn9FpPuGs"
     },
     {
-      "added_at": "2026-08-07 04:01:14",
-      "album": {
-        "name": "Follower",
-        "url": "https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1"
-      },
-      "artists": [
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        },
-        {
-          "name": "Buogo",
-          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Follower",
-      "url": "https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2"
-    },
-    {
-      "added_at": "2026-07-24 04:02:18",
-      "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/2fGcI2L7ipKzY54DRlf161"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        },
-        {
-          "name": "ESSENTIA",
-          "url": "https://open.spotify.com/artist/5rb6FcIQ3BjkenWBCHii1k"
-        },
-        {
-          "name": "Franksy",
-          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/5dqxpUOTOEE2hzi5dDgjyW"
-    },
-    {
       "added_at": "2026-07-24 04:02:18",
       "album": {
         "name": "Good Girl",
@@ -1913,22 +1945,6 @@
       "url": "https://open.spotify.com/track/0gsCoEAU0OOr4lXNEgXhgW"
     },
     {
-      "added_at": "2026-07-17 04:00:51",
-      "album": {
-        "name": "BASS REPEAT",
-        "url": "https://open.spotify.com/album/4zQk3DUHRXhBb4Uy1c0rky"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "BASS REPEAT",
-      "url": "https://open.spotify.com/track/0JGC40P6QaZd9iEtrPIo4V"
-    },
-    {
       "added_at": "2026-07-21 14:40:08",
       "album": {
         "name": "Gator Boots",
@@ -2003,22 +2019,6 @@
       "duration_ms": 194531,
       "name": "G0",
       "url": "https://open.spotify.com/track/1XJ8aKhIHPwJdsV3PB1wMh"
-    },
-    {
-      "added_at": "2026-07-17 15:09:03",
-      "album": {
-        "name": "Freak Me Baby",
-        "url": "https://open.spotify.com/album/33F8KBBE7P9cbuvLAFmpW7"
-      },
-      "artists": [
-        {
-          "name": "Luke DuBose",
-          "url": "https://open.spotify.com/artist/0fAIJgZWvKYPsitqdWWXDi"
-        }
-      ],
-      "duration_ms": 187942,
-      "name": "Freak Me Baby",
-      "url": "https://open.spotify.com/track/2zF9giZoXV6FeaYIIMVC9D"
     },
     {
       "added_at": "2026-07-31 15:49:44",

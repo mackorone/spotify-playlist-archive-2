@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-549 songs - 1 day 9 hr 15 min
+550 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Mindjeris De Panu Pretu](https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 4:31 | 2024-04-15 |  |
 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 | 2023-01-27 | 2024-04-19 |
 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 | 2022-11-25 | 2023-01-28 |
+| [MISS ME](https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [MISS ME](https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb) | 3:13 | 2026-10-22 |  |
 | [Moins joli](https://open.spotify.com/track/2fgINBjLf7eCI3ky3n2gnS) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Moins joli](https://open.spotify.com/album/2unO7pvDAYdfm6pzO9zqKM) | 2:59 | 2022-11-25 | 2024-04-19 |
 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2023-02-21 |  |
 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 | 2025-09-25 |  |
@@ -495,7 +496,7 @@
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-10 | 2026-07-25 |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:25 | 2023-01-11 | 2023-03-28 |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-14 | 2025-03-21 |
-| [Things I've done](https://open.spotify.com/track/160RtgEld3QWI5bHOSna6i) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Things I've done](https://open.spotify.com/album/3vSjGMxPRfNHvxe5h7rDnD) | 3:46 | 2026-10-15 |  |
+| [Things I've done](https://open.spotify.com/track/160RtgEld3QWI5bHOSna6i) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Things I've done](https://open.spotify.com/album/3vSjGMxPRfNHvxe5h7rDnD) | 3:46 | 2026-10-15 | 2026-10-24 |
 | [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 | 2025-03-14 | 2025-04-11 |
 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 | 2023-05-12 | 2023-07-05 |
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-01-23 | 2025-02-28 |

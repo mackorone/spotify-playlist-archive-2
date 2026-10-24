@@ -4079,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "Cada L\u00e1grima",
+        "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Cada L\u00e1grima",
+      "url": "https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/2gjoYpivdKaMgyqfZMrAIg"
       },
@@ -8720,7 +8738,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 223009,
       "name": "Eu Venho de Longe",
       "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
@@ -9128,7 +9146,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 158731,
       "name": "Fera Domesticada",
       "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
@@ -15043,6 +15061,24 @@
     },
     {
       "album": {
+        "name": "Dez Vidas",
+        "url": "https://open.spotify.com/album/6d4sMgo6fDkPxnDPuj2fX5"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189668,
+      "name": "N\u00e3o Importa",
+      "url": "https://open.spotify.com/track/24wejC7yyV0EjHoeJeGtZw"
+    },
+    {
+      "album": {
         "name": "N\u00c3O ME CHAME DE AMOR",
         "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
       },
@@ -19003,6 +19039,36 @@
     },
     {
       "album": {
+        "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
+        "url": "https://open.spotify.com/album/2gz25YLpqxjbkZhpcMiquh"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        },
+        {
+          "name": "Maria Beraldo",
+          "url": "https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW"
+        },
+        {
+          "name": "Teco Cardoso",
+          "url": "https://open.spotify.com/artist/2vFu2RmcRZ8Gi0vl1t3BEr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191792,
+      "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
+      "url": "https://open.spotify.com/track/5bCXKLqLtAsXuBwnlfRt70"
+    },
+    {
+      "album": {
         "name": "Prosa e Papo",
         "url": "https://open.spotify.com/album/1k4sGM3BS8H0DZgkiPIEP5"
       },
@@ -21600,7 +21666,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
@@ -23220,6 +23286,24 @@
       "duration_ms": 105616,
       "name": "te ver",
       "url": "https://open.spotify.com/track/6WRpU55CUE9Rqjps8De9vu"
+    },
+    {
+      "album": {
+        "name": "Teia",
+        "url": "https://open.spotify.com/album/0WSxVZLu5R8CpgU9kqKgzo"
+      },
+      "artists": [
+        {
+          "name": "Alan Bernardes",
+          "url": "https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Teia",
+      "url": "https://open.spotify.com/track/7JMMxmBYUWcEVMCUuIgsnz"
     },
     {
       "album": {
@@ -25188,7 +25272,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 223680,
       "name": "Varandas",
       "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"

@@ -44091,7 +44091,7 @@
     },
     {
       "album": {
-        "name": "Close My Eyes",
+        "name": "Close my eyes",
         "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
       },
       "artists": [
@@ -44108,7 +44108,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227000,
-      "name": "Close My Eyes",
+      "name": "Close my eyes",
       "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
     },
     {
@@ -48192,6 +48192,10 @@
         {
           "name": "Do\u00e7end",
           "url": "https://open.spotify.com/artist/6Jn6KXd0JB8BKedEf92fpX"
+        },
+        {
+          "name": "Nur Bal",
+          "url": "https://open.spotify.com/artist/4C0FBerSEmtJZBHN3knRmE"
         }
       ],
       "date_added": "2026-10-22",
@@ -181638,6 +181642,24 @@
       "duration_ms": 195073,
       "name": "Ya Sen Gidip de",
       "url": "https://open.spotify.com/track/3OFpWLnEXiuE9P5s01MIEQ"
+    },
+    {
+      "album": {
+        "name": "Ya Sev Ya",
+        "url": "https://open.spotify.com/album/7p11Ieq8L8otIYMWSbubF0"
+      },
+      "artists": [
+        {
+          "name": "BAL",
+          "url": "https://open.spotify.com/artist/261Nb56IhLiQ7qOGr2n4z3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137293,
+      "name": "Ya Sev Ya",
+      "url": "https://open.spotify.com/track/39otRjzigYQZeVzx4l0u1X"
     },
     {
       "album": {

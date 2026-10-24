@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Noah Kahan",
-  "num_followers": 506666,
+  "num_followers": 506752,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEDfWuOwtqpHGMruObh06IyoYgkV",
+  "snapshot_id": "AAAAAF5Hwsu9IK9vGqxaHPjYnKM3rQGa",
   "tracks": [
     {
       "added_at": "2026-10-02 04:03:00",
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/2N0y2WeVGfhIutZ8n3GiPm"
     },
     {
+      "added_at": "2026-10-23 04:01:03",
+      "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
+    },
+    {
       "added_at": "2026-10-19 22:33:13",
       "album": {
         "name": "Do Better",
@@ -127,6 +143,26 @@
       "duration_ms": 211000,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
+    },
+    {
+      "added_at": "2026-10-23 04:01:03",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "duration_ms": 228563,
+      "name": "Bodies On The Floor (feat. Clipse)",
+      "url": "https://open.spotify.com/track/58MoSwpvzOxZAgk7dMb3ci"
     },
     {
       "added_at": "2026-10-02 04:03:00",
@@ -159,6 +195,22 @@
       "duration_ms": 187265,
       "name": "Summer You Were Mine",
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
+    },
+    {
+      "added_at": "2026-10-23 04:01:03",
+      "album": {
+        "name": "Wrapped in Gold",
+        "url": "https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Wrapped in Gold",
+      "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
     },
     {
       "added_at": "2026-10-19 22:33:13",
@@ -243,6 +295,22 @@
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+    },
+    {
+      "added_at": "2026-10-23 04:01:03",
+      "album": {
+        "name": "Weekend In Texas",
+        "url": "https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 173382,
+      "name": "Weekend In Texas",
+      "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"
     },
     {
       "added_at": "2026-10-02 04:03:00",
@@ -623,22 +691,6 @@
     {
       "added_at": "2026-10-02 04:03:00",
       "album": {
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 178702,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
-    },
-    {
-      "added_at": "2026-10-02 04:03:00",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
@@ -951,42 +1003,6 @@
     {
       "added_at": "2026-10-02 04:03:00",
       "album": {
-        "name": "Dry Spell",
-        "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 197681,
-      "name": "Dry Spell",
-      "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
-    },
-    {
-      "added_at": "2026-10-02 04:03:00",
-      "album": {
-        "name": "Drive Safe",
-        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Drive Safe",
-      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
-    },
-    {
-      "added_at": "2026-10-02 04:03:00",
-      "album": {
         "name": "The Time Of My Life",
         "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 182467,
       "name": "Changing",
       "url": "https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9"
-    },
-    {
-      "added_at": "2026-10-02 04:03:00",
-      "album": {
-        "name": "Survive - EP",
-        "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 174688,
-      "name": "The Day That I Die",
-      "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
     },
     {
       "added_at": "2026-10-02 04:03:00",

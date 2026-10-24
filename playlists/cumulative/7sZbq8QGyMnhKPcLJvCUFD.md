@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-914 songs - 1 day 21 hr 28 min
+916 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Action](https://open.spotify.com/track/5BWCKHfQvqFISwyynSaD1P) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Action](https://open.spotify.com/album/76peazkhZj5eNDTTAQyyU4) | 3:18 | 2026-07-28 |  |
 | [Adrenaline](https://open.spotify.com/track/5FRDVLfLOLTYNlHojCBmPq) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Adrenaline](https://open.spotify.com/album/6GpObLu9wOkf8LZTlRlAtE) | 2:53 | 2025-10-24 |  |
 | [After The End](https://open.spotify.com/track/1STIii62ufTfUgSuWrOe3F) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [After The End](https://open.spotify.com/album/6ylRW2MYVHPJjP94U6ftn2) | 3:00 | 2025-01-03 |  |
+| [AFTERMATH](https://open.spotify.com/track/394PJx7LItPMIww6nXyi0o) | [SAM WAITIN](https://open.spotify.com/artist/4fUt1H64XAKDyYNRqUYzPG) | [AFTERMATH](https://open.spotify.com/album/6iRDGqXlWz0gSGowndrnDU) | 3:02 | 2026-10-23 |  |
 | [AI](https://open.spotify.com/track/72URNFUYBZg3JHf6J6rD2l) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [AI](https://open.spotify.com/album/10YXQqv5CYLQqkPlCvXgLQ) | 3:09 | 2024-03-21 | 2024-09-29 |
 | [AIN'T MISS A CALL](https://open.spotify.com/track/0r3WvXuModSLGH7f1Mq7WQ) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [AIN'T MISS A CALL](https://open.spotify.com/album/16KaW5D0MBBI6GJpTVaiGU) | 2:34 | 2024-08-22 |  |
 | [AIWA](https://open.spotify.com/track/2PhjL9HTU2o6TM0CgYCcyr) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AIWA](https://open.spotify.com/album/0QL7eQbf5f935ww9GVQisq) | 1:45 | 2024-10-24 |  |
@@ -277,6 +278,7 @@
 | [Falling](https://open.spotify.com/track/4y2PKLDSnodMO1r94Qupxl) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Falling](https://open.spotify.com/album/3Z2FL8pu662FCuXF2cIuRb) | 4:27 | 2023-05-24 | 2023-08-10 |
 | [Falling](https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Falling](https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp) | 3:35 | 2022-04-08 | 2023-04-28 |
 | [Falling \- Ayjin Remix](https://open.spotify.com/track/2IBiooC1rzmLqLfIsuea62) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28), [Ayjin](https://open.spotify.com/artist/2wNaQ7efIE7Q5ltzWXFjam) | [Falling \(Ayjin Remix\)](https://open.spotify.com/album/3UVR8MgUhiFM66SwyU7zJC) | 2:45 | 2023-05-18 | 2023-08-10 |
+| [Falling \- Kanzu & Daniel Ruh Remix](https://open.spotify.com/track/2rSs5ox05UFeqV2UlpjYUr) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu), [DiversionZ](https://open.spotify.com/artist/5ONBmwKlD6D8AiIWbLbh2z), [Kanzu](https://open.spotify.com/artist/2EJ0tDIHz2s35enFPyqluP), [Daniel Ruh](https://open.spotify.com/artist/4HPJWO3Ae1MNY4NMczEmYd) | [Falling \(Kanzu & Daniel Ruh Remix\)](https://open.spotify.com/album/5hrOkvI8FDwr3Wf63Wo7HX) | 2:39 | 2026-10-23 |  |
 | [Falling 4 U](https://open.spotify.com/track/1tWK8eiRURk9YTMOHnTDsK) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Falling 4 U](https://open.spotify.com/album/5dzZPmYf9lC4QZuMkaGnGv) | 3:45 | 2026-07-23 |  |
 | [Falling Down](https://open.spotify.com/track/3WoScc1NUyA2baArEoSkxX) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P) | [Falling Down](https://open.spotify.com/album/1Rt7712yU4yZ2P9JIleO8c) | 3:06 | 2023-04-13 | 2023-08-10 |
 | [Falling For You](https://open.spotify.com/track/4F4c8WTkidlCN0k0bL52I7) | [Justmylørd](https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO) | [Falling For You](https://open.spotify.com/album/6Q4MlcHZEGEHOcZgi1keKe) | 2:37 | 2023-06-09 | 2023-08-10 |

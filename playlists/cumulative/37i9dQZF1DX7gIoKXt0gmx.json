@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 322000,
       "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
       "url": "https://open.spotify.com/track/2F1GDrbrhsU8oLwA4n7vxc"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 310466,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj"
@@ -3298,6 +3298,24 @@
       "duration_ms": 170022,
       "name": "I LO<3 MY EX",
       "url": "https://open.spotify.com/track/375yP07IehIfCK16Ba4bne"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
     },
     {
       "album": {
@@ -6802,7 +6820,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 171400,
       "name": "Stuck In Sixteen",
       "url": "https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV"
@@ -7078,6 +7096,24 @@
       "duration_ms": 319454,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "album": {
@@ -8262,6 +8298,28 @@
       "duration_ms": 133762,
       "name": "Yebba\u2019s Heartbreak",
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "album": {
+        "name": "Yes (feat. Sevyn Streeter)",
+        "url": "https://open.spotify.com/album/01oX0iNi2NwvtO59wQtXP9"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161630,
+      "name": "Yes (feat. Sevyn Streeter)",
+      "url": "https://open.spotify.com/track/5hqbhdGf3HC2CvlbbZeFnu"
     },
     {
       "album": {

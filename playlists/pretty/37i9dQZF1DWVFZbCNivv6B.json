@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed vive el hip-hop mexicano. Neto Pe\u00f1a en la tarima. ",
-  "num_followers": 844177,
+  "num_followers": 844163,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMeTt7ntZhXdE0lZCt8y3ROV6yDh",
+  "snapshot_id": "AAAAAGNcQBphupHOVi3n3mz2/CtdMhU6",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:41",
@@ -23,6 +23,162 @@
       "duration_ms": 231950,
       "name": "Parece Que Fue Ayer",
       "url": "https://open.spotify.com/track/7oiA1062mT4nn3l58oKXiM"
+    },
+    {
+      "added_at": "2026-10-23 06:00:46",
+      "album": {
+        "name": "No Hay \u00c1ngeles Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 169341,
+      "name": "Lindsay Lohan",
+      "url": "https://open.spotify.com/track/73YfZrBGZE0CWGccQkb9cW"
+    },
+    {
+      "added_at": "2026-10-23 06:00:46",
+      "album": {
+        "name": "Rap Malandr\u00f3n",
+        "url": "https://open.spotify.com/album/5d7DYB1Oz11c4e3VpGpLuw"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Micky Ric\u00f3n",
+          "url": "https://open.spotify.com/artist/58mvd9iktPkPZrbbYX9Fmr"
+        }
+      ],
+      "duration_ms": 161791,
+      "name": "Rap Malandr\u00f3n",
+      "url": "https://open.spotify.com/track/0fKTcoOfDWziJlmdWR0Zme"
+    },
+    {
+      "added_at": "2026-10-23 06:00:46",
+      "album": {
+        "name": "Andamos Readys",
+        "url": "https://open.spotify.com/album/0iK8FhOUCiIi9E4HmLXdXi"
+      },
+      "artists": [
+        {
+          "name": "Jony Beltran",
+          "url": "https://open.spotify.com/artist/7nN4ORhj5Mi3tgU9IwQrFv"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+        }
+      ],
+      "duration_ms": 161590,
+      "name": "Andamos Readys",
+      "url": "https://open.spotify.com/track/07Rm8ru4tiFdfNhKbzXD6y"
+    },
+    {
+      "added_at": "2026-10-23 06:00:46",
+      "album": {
+        "name": "Pecado de Oro",
+        "url": "https://open.spotify.com/album/5jnkSg9j4OA9GiPhf04kWp"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 236923,
+      "name": "Modo Wild",
+      "url": "https://open.spotify.com/track/4WKPWSj6h5ueNetLLNFBN7"
+    },
+    {
+      "added_at": "2026-10-23 06:00:46",
+      "album": {
+        "name": "\u00c1nimo",
+        "url": "https://open.spotify.com/album/4QOuPQORFktkv8eZ3GCkfn"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Tren Lokote",
+          "url": "https://open.spotify.com/artist/0noKY9XbtS9j5z4GOAShmT"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        }
+      ],
+      "duration_ms": 246410,
+      "name": "Gallos de Pelea (feat. Teeam Revolver)",
+      "url": "https://open.spotify.com/track/0uacZRzRqcimPyBaSy1npS"
+    },
+    {
+      "added_at": "2026-10-23 06:00:46",
+      "album": {
+        "name": "Tendo",
+        "url": "https://open.spotify.com/album/4TokeHzzRXReN9yZ4ZTpXn"
+      },
+      "artists": [
+        {
+          "name": "Yorking HB",
+          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
+        },
+        {
+          "name": "Hione",
+          "url": "https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg"
+        },
+        {
+          "name": "Dj Kay Fear",
+          "url": "https://open.spotify.com/artist/54nmJ9XTJMCad8cxQwsrE6"
+        }
+      ],
+      "duration_ms": 157710,
+      "name": "Tendo",
+      "url": "https://open.spotify.com/track/3iF0eiKr5vVC4QoxT93FAB"
+    },
+    {
+      "added_at": "2026-10-23 06:00:46",
+      "album": {
+        "name": "Pasos al cielo",
+        "url": "https://open.spotify.com/album/7AVDfSvGJiPnZ245I7TBsW"
+      },
+      "artists": [
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "name": "ALPHA Z",
+          "url": "https://open.spotify.com/artist/47y38fx3kk8FsevtTvSMdb"
+        },
+        {
+          "name": "David bukowski",
+          "url": "https://open.spotify.com/artist/4bITAmagheKMaosETXK80X"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Pasos al cielo",
+      "url": "https://open.spotify.com/track/6CXGn4CeXV0CVWUrqhAK4x"
     },
     {
       "added_at": "2026-10-16 06:00:41",
@@ -343,26 +499,6 @@
     {
       "added_at": "2026-10-16 06:00:41",
       "album": {
-        "name": "Kodigos",
-        "url": "https://open.spotify.com/album/2B53OEaxNJyiXlxF2moOYb"
-      },
-      "artists": [
-        {
-          "name": "Trizte732",
-          "url": "https://open.spotify.com/artist/5xM2ZCy4NIWIKXhldC8cs1"
-        },
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Kodigos",
-      "url": "https://open.spotify.com/track/5RulQfm46yYABSyDMFvWSU"
-    },
-    {
-      "added_at": "2026-10-16 06:00:41",
-      "album": {
         "name": "Nadie Como T\u00fa",
         "url": "https://open.spotify.com/album/3PcBU9xmZRyLRzH2vJODdd"
       },
@@ -423,86 +559,6 @@
     {
       "added_at": "2026-10-16 06:00:41",
       "album": {
-        "name": "Viejo Gacho",
-        "url": "https://open.spotify.com/album/4O7gMnwpJ35xn1JfVR3SlQ"
-      },
-      "artists": [
-        {
-          "name": "Big Sempa",
-          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
-        },
-        {
-          "name": "Mun\u00e9",
-          "url": "https://open.spotify.com/artist/74Nrkmf527K4UyUHnaYbf7"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Viejo Gacho",
-      "url": "https://open.spotify.com/track/4R8y4zZppFouGhJ824I6Rf"
-    },
-    {
-      "added_at": "2026-10-16 06:00:41",
-      "album": {
-        "name": "Dolor y Fe",
-        "url": "https://open.spotify.com/album/62xQPRO3IBHezbqi44UThF"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Dolor y Fe",
-      "url": "https://open.spotify.com/track/4dEjMrg0ezloau9nJ6rYhr"
-    },
-    {
-      "added_at": "2026-10-16 06:00:41",
-      "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/1iZkpZGatk2MQwejjyhLOL"
-      },
-      "artists": [
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 126100,
-      "name": "Cap\u00edtulo 1",
-      "url": "https://open.spotify.com/track/4ZvteJxNizR2XuoxjQ6KjP"
-    },
-    {
-      "added_at": "2026-10-16 06:00:41",
-      "album": {
-        "name": "Naughty",
-        "url": "https://open.spotify.com/album/6If6VpFM0vlUR7ceyoh9jQ"
-      },
-      "artists": [
-        {
-          "name": "Miranda Sevilla",
-          "url": "https://open.spotify.com/artist/2vXNpuH4Ll1sjxxSPD03HH"
-        },
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        },
-        {
-          "name": "Angel Vega",
-          "url": "https://open.spotify.com/artist/0oRS41S5koQFWikYV5EKrZ"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Naughty",
-      "url": "https://open.spotify.com/track/1TfiitVto7je9TG2YfVqSv"
-    },
-    {
-      "added_at": "2026-10-16 06:00:41",
-      "album": {
         "name": "\u00bfQu\u00e9 Pensabas?",
         "url": "https://open.spotify.com/album/0Gd2SPFKfkPrcRKhkiEfbq"
       },
@@ -515,54 +571,6 @@
       "duration_ms": 252500,
       "name": "\u00bfQu\u00e9 Pensabas?",
       "url": "https://open.spotify.com/track/3tQodihinytFxj1wrvZ0QW"
-    },
-    {
-      "added_at": "2026-10-16 06:00:41",
-      "album": {
-        "name": "Pa' Que Mueva los Pies",
-        "url": "https://open.spotify.com/album/7vVITPiAtSAb0IxSaRliBF"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        },
-        {
-          "name": "Fntwxy",
-          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
-        }
-      ],
-      "duration_ms": 182823,
-      "name": "Pa' Que Mueva los Pies",
-      "url": "https://open.spotify.com/track/7Fkx9p3pfgDlekaeUarir4"
-    },
-    {
-      "added_at": "2026-10-16 06:00:41",
-      "album": {
-        "name": "Empareje Remix",
-        "url": "https://open.spotify.com/album/6BsJF6zbBIRYSh2qisBMEm"
-      },
-      "artists": [
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Empareje Remix",
-      "url": "https://open.spotify.com/track/2AJ8ltGJsScmIlc0aiM3pK"
     },
     {
       "added_at": "2026-10-16 06:00:41",

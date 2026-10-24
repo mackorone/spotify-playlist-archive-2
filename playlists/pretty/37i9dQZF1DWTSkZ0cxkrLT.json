@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 426112,
+  "num_followers": 426080,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+      "duration_ms": 262104,
+      "name": "COMO UN G",
+      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -371,22 +367,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 262104,
-      "name": "COMO UN G",
-      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -394,27 +374,15 @@
         {
           "name": "No Te Va Gustar",
           "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
+        },
         {
           "name": "Jorge Drexler",
           "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 164946,
-      "name": "Inoportuna",
-      "url": "https://open.spotify.com/track/5GCB9mqJzKN4kDKvmqQ03X"
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -435,18 +403,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "El Orden Implicado",
-        "url": "https://open.spotify.com/album/0FJfFCQ6mMxMyu7RZLqfxF"
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
       "artists": [
         {
-          "name": "M\u00e1ximo Disfrute",
-          "url": "https://open.spotify.com/artist/0JAOb3tfbVRRNNDqZiL2Pc"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Lo que el Aire Quiere Hablar",
-      "url": "https://open.spotify.com/track/6zrlZOUsvdhiDTJjhuilnv"
+      "duration_ms": 164946,
+      "name": "Inoportuna",
+      "url": "https://open.spotify.com/track/5GCB9mqJzKN4kDKvmqQ03X"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -463,6 +431,38 @@
       "duration_ms": 269196,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "El Orden Implicado",
+        "url": "https://open.spotify.com/album/0FJfFCQ6mMxMyu7RZLqfxF"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1ximo Disfrute",
+          "url": "https://open.spotify.com/artist/0JAOb3tfbVRRNNDqZiL2Pc"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Lo que el Aire Quiere Hablar",
+      "url": "https://open.spotify.com/track/6zrlZOUsvdhiDTJjhuilnv"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "los d\u00edas en la sala",
         "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 163411,
       "name": "siempre te voy a querer",
       "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 182373,
-      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Ahyre",
-        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
       },
       "artists": [
         {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 236612,
-      "name": "Bellasombra",
-      "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
+      "duration_ms": 182373,
+      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -775,6 +755,26 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Ahyre",
+        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 236612,
+      "name": "Bellasombra",
+      "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Tardes de Melancol\u00eda",
-      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "El lado B",
         "url": "https://open.spotify.com/album/0herv01D7VruP9cPQli1xn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 204328,
       "name": "Viaje Tropical - El lado B",
       "url": "https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Tardes de Melancol\u00eda",
+      "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "Vos",
+        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 198157,
+      "name": "Vos",
+      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Un Amor Que Se Termina",
         "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
       },
@@ -1239,22 +1259,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Vos",
-        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
       "artists": [
         {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 198157,
-      "name": "Vos",
-      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1295,22 +1311,6 @@
       "duration_ms": 181500,
       "name": "No me Arrepiento de este Amor",
       "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 177121,
-      "name": "Encuentro",
-      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Decir que s\u00ed",
         "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 138065,
       "name": "Dije que s\u00ed",
       "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 177121,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
     },
     {
       "added_at": "2026-10-13 18:55:37",

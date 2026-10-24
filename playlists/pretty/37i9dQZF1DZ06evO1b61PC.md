@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,485 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,484 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 28 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
 | 29 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
 | 30 | [Alive \- Radio Edit](https://open.spotify.com/track/4qtEOfaogx57ONrA6ozIrm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2zFcf6FC9hydetoczSLsCL) | 2:46 |
-| 31 | [Say My Name](https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Say My Name](https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI) | 3:30 |
-| 32 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \- Demo](https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \(Demo\)](https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt) | 3:38 |
+| 31 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \- Demo](https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \(Demo\)](https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt) | 3:38 |
+| 32 | [Say My Name](https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Say My Name](https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI) | 3:30 |
 | 33 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:29 |
 | 34 | [Tennis Skirt \(feat\. Ella Boh\) \(Demo\)](https://open.spotify.com/track/6Y77YLQpPg7NOY8f9UlnCx) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\) \[Demo\]](https://open.spotify.com/album/32uCBCbvYtW2kqSQbaoj4C) | 3:06 |
 | 35 | [Vertigo](https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Vertigo](https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5) | 3:02 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 45 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 1:40 |
 | 46 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
 
-Snapshot ID: `atavAAAAAADM8GYvsI6hYoRgFaBEtmq7`
+Snapshot ID: `atgAgAAAAACHPa0CcMRlMP8DuCSMHHvp`

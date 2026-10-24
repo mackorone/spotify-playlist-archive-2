@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Alex Ponce",
+  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia y Sotomonte",
   "name": "Indie Andinos",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 167545,
       "name": "Como un Phantasma",
       "url": "https://open.spotify.com/track/2a0xb85fH3BaXGeAExHVWa"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 212980,
       "name": "Los Ojos Del C\u00f3ndor",
       "url": "https://open.spotify.com/track/3cJvScXrQVCchpz83aNrXq"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210000,
       "name": "L\u00edmites",
       "url": "https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 220950,
       "name": "Nadie Lo Dir\u00eda",
       "url": "https://open.spotify.com/track/0b9xK6eoCf7BWpoUimY0r4"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 193125,
       "name": "que seas t\u00fa --",
       "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
@@ -2624,6 +2624,28 @@
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+    },
+    {
+      "album": {
+        "name": "se van las luces",
+        "url": "https://open.spotify.com/album/5uXqLKJC1a3LKF1Zjg9mvu"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        },
+        {
+          "name": "Sotomonte",
+          "url": "https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171892,
+      "name": "se van las luces",
+      "url": "https://open.spotify.com/track/0MTINDkhOLAFf9YF0E34kq"
     },
     {
       "album": {

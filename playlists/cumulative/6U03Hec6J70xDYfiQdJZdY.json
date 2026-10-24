@@ -392,7 +392,7 @@
           "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
         },
         {
-          "name": "Orchestre National De France",
+          "name": "Orchestre national de France",
           "url": "https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M"
         }
       ],
@@ -968,6 +968,28 @@
       "duration_ms": 169450,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3v30vhrt2ujqzuUaOUf7vb"
+    },
+    {
+      "album": {
+        "name": "Memory (Meredi Rework)",
+        "url": "https://open.spotify.com/album/6m5V2wwEbmDoAfYbn8I27S"
+      },
+      "artists": [
+        {
+          "name": "Felsmann + Tiley",
+          "url": "https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P"
+        },
+        {
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157030,
+      "name": "Memory (Meredi Rework)",
+      "url": "https://open.spotify.com/track/20LDoPW2fL6sN9JTqspGWK"
     },
     {
       "album": {

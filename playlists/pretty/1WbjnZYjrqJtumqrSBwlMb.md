@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,336 songs - 3 day 10 hr 34 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,347 songs - 3 day 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1344,5 +1344,16 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1334 | [Who’s Watching the Kids?](https://open.spotify.com/track/3OTgCysHMcqrGl3DRnQPmr) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Human Error](https://open.spotify.com/album/4eEEu5QHZm3miNdfCrD5ew) | 5:11 |
 | 1335 | [See the World](https://open.spotify.com/track/7fK3tJlA8GYF1FB3TGPhor) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Human Error](https://open.spotify.com/album/4eEEu5QHZm3miNdfCrD5ew) | 5:38 |
 | 1336 | [Peace](https://open.spotify.com/track/1Vh2FuTpnwoGY8nLofQWOF) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Human Error](https://open.spotify.com/album/4eEEu5QHZm3miNdfCrD5ew) | 7:09 |
+| 1337 | [only one way to know](https://open.spotify.com/track/6NkXjC6A01EsDAN6fF4G1a) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 2:46 |
+| 1338 | [in the middle of the night](https://open.spotify.com/track/4jmJRk8jb4hH4cmEXFhBET) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:36 |
+| 1339 | [let you](https://open.spotify.com/track/42ft9mAcIe4HYTKnNahsY9) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 4:03 |
+| 1340 | [eat the pavement](https://open.spotify.com/track/2USteg1PuxBCsRx2hxi8iy) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:44 |
+| 1341 | [pace](https://open.spotify.com/track/7gYmsG0K4XQdVdYQcx8OvY) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:36 |
+| 1342 | [easy for you](https://open.spotify.com/track/6BOAD7CezLnJhyiyS6hbSB) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:01 |
+| 1343 | [i never wanted to hurt u \(interlude\)](https://open.spotify.com/track/6Nl3cyyFqZkBsn1EPUv0YL) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 1:35 |
+| 1344 | [best friend](https://open.spotify.com/track/2w7vsxbXzWdgAACGE3wp5u) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:26 |
+| 1345 | [what happened to you](https://open.spotify.com/track/4JELLsTxh12ZPXVIppnznH) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:29 |
+| 1346 | [another word you say](https://open.spotify.com/track/5RJAYstQYFodU6domvYZb1) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 4:07 |
+| 1347 | [ice the bruise](https://open.spotify.com/track/4NoF85jfketuY00NXa5Mro) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 2:55 |
 
-Snapshot ID: `AAAKKtAxfeUp1UOhdHTT/8YuBkIkSjR7`
+Snapshot ID: `AAAKNWRwyO4x38Hx1pHDHGI3X3pTUVmq`

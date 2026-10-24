@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Zuchu",
-  "num_followers": 12508,
+  "num_followers": 12525,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Nitafanyaje",
-        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "Nitafanyaje",
-      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Naoa",
         "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 237898,
       "name": "Naoa",
       "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Nitafanyaje",
+        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "Nitafanyaje",
+      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Wanijue",
-        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
-      },
-      "artists": [
-        {
-          "name": "Micky Singer",
-          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "Wanijue",
-      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Hainaga Ushemeji",
         "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
       },
@@ -735,8 +719,24 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Alisema Ananipenda",
-        "url": "https://open.spotify.com/album/6ZOhQ5ArzHgpHAmWNnp3NQ"
+        "name": "Wanijue",
+        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
+      },
+      "artists": [
+        {
+          "name": "Micky Singer",
+          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Wanijue",
+      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Si Unajua? Remix",
+        "url": "https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW"
       },
       "artists": [
         {
@@ -744,13 +744,13 @@
           "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
         },
         {
-          "name": "Jb Mabaga",
-          "url": "https://open.spotify.com/artist/0krCWwIqylCQnAqHJ2MhAj"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 185286,
-      "name": "Alisema Ananipenda",
-      "url": "https://open.spotify.com/track/3ojYtb6d8mksXZizPp7koX"
+      "duration_ms": 198241,
+      "name": "Si Unajua? - Remix",
+      "url": "https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -835,8 +835,8 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Si Unajua? Remix",
-        "url": "https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW"
+        "name": "Alisema Ananipenda",
+        "url": "https://open.spotify.com/album/6ZOhQ5ArzHgpHAmWNnp3NQ"
       },
       "artists": [
         {
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
         },
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Jb Mabaga",
+          "url": "https://open.spotify.com/artist/0krCWwIqylCQnAqHJ2MhAj"
         }
       ],
-      "duration_ms": 198241,
-      "name": "Si Unajua? - Remix",
-      "url": "https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI"
+      "duration_ms": 185286,
+      "name": "Alisema Ananipenda",
+      "url": "https://open.spotify.com/track/3ojYtb6d8mksXZizPp7koX"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Makombolelo singeli version",
-        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
-      },
-      "artists": [
-        {
-          "name": "Mazegele Boy",
-          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Makombolelo singeli version",
-      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 314493,
       "name": "Penzi Jipya",
       "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
+      },
+      "artists": [
+        {
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+      "duration_ms": 282984,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Dua",
-        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 282984,
-      "name": "Dua",
-      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+        "name": "Niite Mbwa",
+        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
       },
       "artists": [
         {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+          "name": "Shilole",
+          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
         }
       ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
+      "duration_ms": 228146,
+      "name": "Niite Mbwa",
+      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1371,6 +1375,22 @@
       "duration_ms": 141724,
       "name": "Dj Travella Filimbi",
       "url": "https://open.spotify.com/track/7fdKNlSFk54tp7fDSnLVqF"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+      },
+      "artists": [
+        {
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1415,26 +1435,6 @@
       "duration_ms": 224545,
       "name": "Natafuta Hela",
       "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Niite Mbwa",
-        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
-      },
-      "artists": [
-        {
-          "name": "Shilole",
-          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Niite Mbwa",
-      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
     },
     {
       "added_at": "2026-10-09 18:37:41",

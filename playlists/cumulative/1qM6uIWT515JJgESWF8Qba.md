@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-338 songs - 21 hr 7 min
+339 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 | 2026-06-05 | 2026-08-08 |
 | [Revenge](https://open.spotify.com/track/67LncR8bh1wre4GVkjq8M1) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Revenge](https://open.spotify.com/album/2Cm2qoNr6PQp64EGQCT0wu) | 4:59 | 2026-01-17 |  |
 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-08-22 | 2026-09-25 |
+| [Rhoads](https://open.spotify.com/track/7HoeaXhjgR8M9rd6B6vD9R) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 3:03 | 2026-10-23 |  |
 | [Right Decision \- Remastered](https://open.spotify.com/track/3UGPBZMouJqeuPoRNNyVNz) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Right Decision \(Remastered\)](https://open.spotify.com/album/5Q5EZatUiY8iMKRVYgcJ60) | 4:28 | 2026-10-07 |  |
 | [Rise](https://open.spotify.com/track/7mYCsCoJSehy39yICnduge) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Rise](https://open.spotify.com/album/4Zieo2ylQAwyEQv9jNp5hf) | 4:22 | 2026-09-27 |  |
 | [Rooftops](https://open.spotify.com/track/0JJGV5lyQ2mji50PHu0Gce) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Rooftops](https://open.spotify.com/album/2300qonTPP24PHDOv62WqB) | 3:25 | 2026-01-22 | 2026-02-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Piano music to accompany and inspire your writing.",
-  "num_followers": 219670,
+  "num_followers": 219738,
   "original_name": "Music for Writing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkELQUc1qTJhoOgBOqKzJDmMndE",
+  "snapshot_id": "AAAAAAzmwYbWzVNnfqiYim56207iScvi",
   "tracks": [
     {
       "added_at": "2026-10-02 04:00:20",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/7GucH2uNSfhOInVJEaRI8s"
     },
     {
+      "added_at": "2026-10-23 04:01:50",
+      "album": {
+        "name": "A Little While",
+        "url": "https://open.spotify.com/album/1MJurU4oezE5y1DQlXFfRx"
+      },
+      "artists": [
+        {
+          "name": "Quire",
+          "url": "https://open.spotify.com/artist/2w7lRMm4lmFoPq20cGqMTt"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "A Little While",
+      "url": "https://open.spotify.com/track/1ubmrFkL5wY0FvffVwUSEr"
+    },
+    {
       "added_at": "2026-10-02 04:00:20",
       "album": {
         "name": "Astro",
@@ -455,6 +471,22 @@
       "duration_ms": 211032,
       "name": "Heather",
       "url": "https://open.spotify.com/track/5TeE1E52WeSDEsuE9jTWsQ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:50",
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2deTjGyybw2jaxmQ96rRXt"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "duration_ms": 137777,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/5bnAaS9D23fwliFJTWVkcU"
     },
     {
       "added_at": "2026-10-02 04:00:20",
@@ -601,6 +633,22 @@
       "url": "https://open.spotify.com/track/70NhtnEViHMSUAJ06vgqWv"
     },
     {
+      "added_at": "2026-10-23 04:01:50",
+      "album": {
+        "name": "Reflect",
+        "url": "https://open.spotify.com/album/0MIqJY6C251EzHlcDWppo0"
+      },
+      "artists": [
+        {
+          "name": "Chris Rusak",
+          "url": "https://open.spotify.com/artist/7pLo6CiE9wZsJTKW8rNIZC"
+        }
+      ],
+      "duration_ms": 134556,
+      "name": "Reflect",
+      "url": "https://open.spotify.com/track/2DrwEAny1f7SfATgisysxY"
+    },
+    {
       "added_at": "2026-10-02 04:00:20",
       "album": {
         "name": "Feel For Balance",
@@ -743,6 +791,22 @@
       "duration_ms": 150454,
       "name": "Two Years and One Month",
       "url": "https://open.spotify.com/track/2shiq9n6dLCrrYOIoNTbDe"
+    },
+    {
+      "added_at": "2026-10-23 04:01:50",
+      "album": {
+        "name": "Resting Light",
+        "url": "https://open.spotify.com/album/6A2XRb3cmKag8BbUFFXvnV"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "duration_ms": 149273,
+      "name": "Resting Light",
+      "url": "https://open.spotify.com/track/2YcGhnyRk1EQjemRkBKzi3"
     },
     {
       "added_at": "2026-10-02 04:00:20",

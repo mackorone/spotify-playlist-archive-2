@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Franz Keloh",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Meeko",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -6698,7 +6698,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160263,
       "name": "Danger",
       "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 112095,
       "name": "DISMOI (LOWKEY)",
       "url": "https://open.spotify.com/track/2TXaudf7XzQilhZ6PzuL0j"
@@ -7658,7 +7658,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 94285,
       "name": "district 11",
       "url": "https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q"
@@ -11711,6 +11711,28 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/3AXFK5ZddA3CSPHTMQMqT3"
+      },
+      "artists": [
+        {
+          "name": "Meeko",
+          "url": "https://open.spotify.com/artist/6mWepPXB2Ot85jKcT2843H"
+        },
+        {
+          "name": "Dyna+",
+          "url": "https://open.spotify.com/artist/3jkLaZMtrAAnp0RYaLbIv8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/36eROynYI50GOFz71eNi4f"
+    },
+    {
+      "album": {
         "name": "How's That Taste?!",
         "url": "https://open.spotify.com/album/59OizN68ItxSdS6GvzT2Lt"
       },
@@ -13364,6 +13386,24 @@
       "duration_ms": 143046,
       "name": "King-V",
       "url": "https://open.spotify.com/track/1QgzTqitUmu9j6mnSS2C0t"
+    },
+    {
+      "album": {
+        "name": "Kin\u00e9 1",
+        "url": "https://open.spotify.com/album/7u5FvhXlDpzNqO5q4ZAwff"
+      },
+      "artists": [
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75746,
+      "name": "Kin\u00e9 1",
+      "url": "https://open.spotify.com/track/5Uz8N3yFS1PGcqNFS1Izat"
     },
     {
       "album": {
@@ -16114,7 +16154,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 149071,
       "name": "MAUVAIS \u0152IL",
       "url": "https://open.spotify.com/track/61mUncDKRjhsCbvceudWlK"
@@ -17531,6 +17571,28 @@
     },
     {
       "album": {
+        "name": "M\u00eame Temps",
+        "url": "https://open.spotify.com/album/5hLvgF3LFapgVnZP7anhS4"
+      },
+      "artists": [
+        {
+          "name": "Kalibre",
+          "url": "https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN"
+        },
+        {
+          "name": "Lostboy Carlos",
+          "url": "https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "M\u00eame Temps",
+      "url": "https://open.spotify.com/track/3JqIegmui9kwBqkRy6ChqS"
+    },
+    {
+      "album": {
         "name": "Super Nova",
         "url": "https://open.spotify.com/album/0KxPOJWbFuPg7FYzVfoh2u"
       },
@@ -18232,6 +18294,36 @@
       "duration_ms": 110460,
       "name": "Numb",
       "url": "https://open.spotify.com/track/52MEjxii1qmETVwh17slLP"
+    },
+    {
+      "album": {
+        "name": "Nxt Lvl",
+        "url": "https://open.spotify.com/album/6gQM2reEof8zd1HQRJQM7f"
+      },
+      "artists": [
+        {
+          "name": "Tank Musik",
+          "url": "https://open.spotify.com/artist/1BokSeylOk30973pF3OC0K"
+        },
+        {
+          "name": "Gamelin",
+          "url": "https://open.spotify.com/artist/69W2pdGAIqg882AYO2D3qL"
+        },
+        {
+          "name": "DJ Horg",
+          "url": "https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR"
+        },
+        {
+          "name": "Tony Sawyer",
+          "url": "https://open.spotify.com/artist/2C4dzjDm4kR6QvUfksGkRJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198008,
+      "name": "Nxt Lvl",
+      "url": "https://open.spotify.com/track/3wqndbe9A6FTM5zdj98J8y"
     },
     {
       "album": {
@@ -22383,6 +22475,24 @@
     },
     {
       "album": {
+        "name": "Roulez jeunesse",
+        "url": "https://open.spotify.com/album/144RoGWIAQqde0FuoRjeKE"
+      },
+      "artists": [
+        {
+          "name": "De Lafe",
+          "url": "https://open.spotify.com/artist/221QAcwcTRrYBFnlCHQ9G1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169919,
+      "name": "Roulez jeunesse",
+      "url": "https://open.spotify.com/track/3JLYakBAUMSbLIR1gEdmPV"
+    },
+    {
+      "album": {
         "name": "Rowzin",
         "url": "https://open.spotify.com/album/15oSQFCbYUQ2Jgo9slqOOf"
       },
@@ -22634,6 +22744,28 @@
       "duration_ms": 180000,
       "name": "R\u00e9seau",
       "url": "https://open.spotify.com/track/3tQQqlX436aDst7fMfpgFC"
+    },
+    {
+      "album": {
+        "name": "ESSENCE MUSIQUE 1",
+        "url": "https://open.spotify.com/album/3wo0SoFfpZCyHjFACCEjQe"
+      },
+      "artists": [
+        {
+          "name": "Berlam",
+          "url": "https://open.spotify.com/artist/6VX0JdAybG05A8AtuPYLwN"
+        },
+        {
+          "name": "prodbymennace",
+          "url": "https://open.spotify.com/artist/7t620iSwiICX2FuM6Ja7bW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153039,
+      "name": "R\u00e9unir",
+      "url": "https://open.spotify.com/track/53ZWTMIpYchWU6WIw5qK6R"
     },
     {
       "album": {
@@ -22910,7 +23042,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 123000,
       "name": "SALTO",
       "url": "https://open.spotify.com/track/31muJWHYJD8MKayMFSoVAz"
@@ -23500,7 +23632,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 142564,
       "name": "SHAWTYFREAKABELLADANGER",
       "url": "https://open.spotify.com/track/5Z62mISXqKe332tZcJHRs6"

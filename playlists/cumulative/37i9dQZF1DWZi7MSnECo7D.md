@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Inês é Morta
 
-1,001 songs - 2 day 9 hr 11 min
+1,002 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Ayer Morí](https://open.spotify.com/track/3qYBVDMACGvbwiftiXX5l3) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [Ayer Morí](https://open.spotify.com/album/1byvBnHTMnu34AzKPFAFZz) | 2:38 | 2024-12-06 | 2026-02-07 |
 | [Azul](https://open.spotify.com/track/4vsDSmofpGQa0Gb43x0SWt) | [PERDIDOS](https://open.spotify.com/artist/07lGEl9cdorpl7Ht9OwKod) | [Azul](https://open.spotify.com/album/5qW2a7KYrGUQDziRtBF4fn) | 4:07 | 2023-04-14 | 2023-07-08 |
 | [Baile de Cinema](https://open.spotify.com/track/0wmeu1tH9rPyrkYDU3AOxC) | [Lê Almeida](https://open.spotify.com/artist/4OHUAFNTvf9buFreLAAomV) | [I Feel In The Sky](https://open.spotify.com/album/32rXGSkXtgtqFCHJgLfOmK) | 4:17 | 2023-10-06 | 2024-05-18 |
-| [Baile de Formatura](https://open.spotify.com/track/2wtMnf9LHAuLOKJiU9GE8G) | [cauiquee](https://open.spotify.com/artist/2oMCLSZtifrxCDUoyhgO39), [Dourado](https://open.spotify.com/artist/4y7sQ6DxY3m7pqkMmxoYNx) | [O Que Fazem Os Adultos?](https://open.spotify.com/album/0oIrkLblF8M5gMINtQItma) | 2:44 | 2026-04-24 |  |
+| [Baile de Formatura](https://open.spotify.com/track/2wtMnf9LHAuLOKJiU9GE8G) | [cauiquee](https://open.spotify.com/artist/2oMCLSZtifrxCDUoyhgO39), [Dourado](https://open.spotify.com/artist/4y7sQ6DxY3m7pqkMmxoYNx) | [O Que Fazem Os Adultos?](https://open.spotify.com/album/0oIrkLblF8M5gMINtQItma) | 2:44 | 2026-04-24 | 2026-10-24 |
 | [BALA DE BANANA](https://open.spotify.com/track/48TkQgizaqWSIajEodSKLx) | [OTTOPAPI](https://open.spotify.com/artist/4asAyLlV9JuKdEMSEV1P0I) | [BALA DE BANANA](https://open.spotify.com/album/2ecM686DWMlwwbKvnqtjto) | 2:49 | 2026-03-06 | 2026-08-22 |
 | [Barcelona](https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:37 | 2023-03-03 | 2023-05-01 |
 | [Barcelona](https://open.spotify.com/track/78iFCNxDIc1oASCP7pZTSZ) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:37 | 2023-04-28 | 2023-08-19 |
@@ -612,6 +612,7 @@
 | [Não foi por mal](https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não foi por mal](https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g) | 2:15 | 2022-02-11 | 2022-04-16 |
 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-07-08 | 2023-08-19 |
 | [Não Havia Paz para o Alquimista](https://open.spotify.com/track/4VkvIhXRE8q6YTYmdKrwo3) | [tem mas acabou](https://open.spotify.com/artist/2ZGLnv8hBLM3XJHbAALbMi), [Brita](https://open.spotify.com/artist/18MjKd8C1pcD2vGlm9MwGQ) | [Não Havia Paz para o Alquimista](https://open.spotify.com/album/2scE2LxrKSmASz4J9eseQg) | 3:28 | 2026-09-25 |  |
+| [Não Importa](https://open.spotify.com/track/24wejC7yyV0EjHoeJeGtZw) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Dez Vidas](https://open.spotify.com/album/6d4sMgo6fDkPxnDPuj2fX5) | 3:09 | 2026-10-23 |  |
 | [Não Leve a Mal](https://open.spotify.com/track/0XKoKz5CJDrn6IeMUOS6t1) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Não Leve a Mal](https://open.spotify.com/album/6i1hGNWpDAvAEsQ7l0ftjD) | 3:50 | 2024-06-07 | 2025-01-25 |
 | [Não Me Deixe Ir Embora](https://open.spotify.com/track/2PDgWcoY0VOsjXm1XxXWIE) | [pietro amarelo corrida](https://open.spotify.com/artist/5oyQDDcvYeL8ZAyQ5Edj8t) | [Cinco Idades](https://open.spotify.com/album/5xaThwITDEXKw4gctdZ4ru) | 7:26 | 2026-10-16 |  |
 | [não mudo por ninguém](https://open.spotify.com/track/1fXTWjQEdNx0z8Yx383fDw) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [fantasia de um amor perfeito](https://open.spotify.com/album/2szRuIFgI3PccmXm2jmDCt) | 2:50 | 2023-05-12 | 2023-07-08 |

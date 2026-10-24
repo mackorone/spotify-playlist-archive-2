@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Qlas, The Opposites, LISA, Bente, Jan Smit en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,969 likes - 87 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,252 likes - 87 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 23 | [focus](https://open.spotify.com/track/4BY3s0pKkwOikMfg7muN6D) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [focus](https://open.spotify.com/album/3Cs1UiyjaRNjaxzfinDXJK) | 2:58 |
 | 24 | [De Pijp Uit Met Een Lach](https://open.spotify.com/track/6PEzxrlhXO0FVpYMMMvJT2) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26) | 3:48 |
 | 25 | [Vloed](https://open.spotify.com/track/7FBRV6BeEeRkAPsFnfX32s) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Vloed](https://open.spotify.com/album/2sxTevZRGYfnVHb1kOgEKE) | 3:21 |
-| 26 | [Citroen](https://open.spotify.com/track/4ik2vPUVnyUUKTS5IbPUxH) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8), [Joris Willekes](https://open.spotify.com/artist/0jp3i7Faogeyr1cwmTsGLT) | [Citroen](https://open.spotify.com/album/2UO6dfhdgb9LdowdL4Ir6N) | 3:45 |
+| 26 | [Citroen](https://open.spotify.com/track/4ik2vPUVnyUUKTS5IbPUxH) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8) | [Citroen](https://open.spotify.com/album/2UO6dfhdgb9LdowdL4Ir6N) | 3:45 |
 | 27 | [Als Ik Het Hart Had](https://open.spotify.com/track/0OuVNuPYATgdgvhjrKg8ug) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Als Ik Het Hart Had](https://open.spotify.com/album/3r2IXsvyMojbxYgOFGzkSA) | 3:10 |
 | 28 | [Who You Callin' Crazy](https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Who You Callin' Crazy](https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ) | 4:09 |
 | 29 | [Peace & Patience](https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Peace & Patience](https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd) | 3:29 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 33 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
 | 34 | [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 |
 | 35 | [Weekend In Texas](https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weekend In Texas](https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf) | 2:53 |
-| 36 | [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
+| 36 | [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
 | 37 | [Everything Is Moving On](https://open.spotify.com/track/5DgzlTJ7OTvnnkjZPx2TtW) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Everything Is Moving On](https://open.spotify.com/album/1Q9dwXtXPd8nJk48pmuF54) | 3:45 |
 | 38 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 |
 | 39 | [Just Might Go \(feat\. Travis Scott\)](https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Watch Dis!](https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j) | 3:32 |

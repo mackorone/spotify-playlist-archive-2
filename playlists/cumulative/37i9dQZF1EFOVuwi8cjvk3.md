@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-302 songs - 17 hr 53 min
+303 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Since You Asked Kindly](https://open.spotify.com/track/3vybpXzMgBMsK9Nd2Ce7qh) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:41 | 2023-12-13 |  |
 | [Slave](https://open.spotify.com/track/3SrUV8pxnW1QhMbbwegpwG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino](https://open.spotify.com/album/0WMr3ulx5Mzi1B3C8LsHVA) | 2:59 | 2023-12-13 |  |
 | [Slow Motion](https://open.spotify.com/track/2FT0GRV9dOFe9rpwoZWgis) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 2:45 | 2025-06-11 |  |
+| [SMALL TOWN FAME](https://open.spotify.com/track/7Mff3LXnnfQT8ZNRiCjmE5) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy) | 2:28 | 2026-10-23 |  |
 | [Song For No One](https://open.spotify.com/track/2LUOkrWpTz1q5QeZY5jAHi) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:11 | 2023-12-13 |  |
 | [Sooner Or Later \(Die 1 Day\)](https://open.spotify.com/track/0bOQvSTtkJtTM6Q2ScJozq) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 3:31 | 2023-12-13 |  |
 | [Sour Soul](https://open.spotify.com/track/2rA45Uijx3fKwKhPMMiJVx) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Sour Soul](https://open.spotify.com/album/0ug3RLV5rGBZSRJ0ZRjyqG) | 2:45 | 2026-09-16 |  |

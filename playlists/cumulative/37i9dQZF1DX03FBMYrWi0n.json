@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Nectar Palace",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: comment debord",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 170188,
       "name": "Alfa Romeo",
       "url": "https://open.spotify.com/track/61JgdSbCnw1XDM95DZOh3u"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 252940,
       "name": "Barbara",
       "url": "https://open.spotify.com/track/6ZG0rmF8sJ8jlNveDEBL6d"
@@ -4799,6 +4799,24 @@
     },
     {
       "album": {
+        "name": "Hedi Dior",
+        "url": "https://open.spotify.com/album/1xSN9As79zWnUQpiyl2750"
+      },
+      "artists": [
+        {
+          "name": "6ODEM3",
+          "url": "https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Hedi Dior",
+      "url": "https://open.spotify.com/track/5v1uNmXjpYmoKwWtqAkS4T"
+    },
+    {
+      "album": {
         "name": "Here Comes",
         "url": "https://open.spotify.com/album/5VFTvUiz4KI5fVs8OKe9gz"
       },
@@ -5020,6 +5038,24 @@
       "duration_ms": 199320,
       "name": "I Can't Give You What You Want",
       "url": "https://open.spotify.com/track/69vnX0jY8jLoTQ2fsJpoM9"
+    },
+    {
+      "album": {
+        "name": "lowkey?",
+        "url": "https://open.spotify.com/album/1xinGYhMSeYSvyiCsPX22O"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Collin",
+          "url": "https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "i can't pretend",
+      "url": "https://open.spotify.com/track/3VKbQDLsMBgPyJQvux29uX"
     },
     {
       "album": {
@@ -6338,7 +6374,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 205161,
       "name": "La fin du monde",
       "url": "https://open.spotify.com/track/6mWaPThaMStSYeh9Yp9RmR"
@@ -6652,6 +6688,24 @@
       "duration_ms": 126000,
       "name": "Lazare",
       "url": "https://open.spotify.com/track/3nFebxOfpi9y8mJuAJTxSg"
+    },
+    {
+      "album": {
+        "name": "Le ciel",
+        "url": "https://open.spotify.com/album/57PmeWLS7xJcIOVpoHV9LG"
+      },
+      "artists": [
+        {
+          "name": "Bixi Boys",
+          "url": "https://open.spotify.com/artist/5YB8nQbaCBRR9tw4qbuT9e"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150549,
+      "name": "Le ciel",
+      "url": "https://open.spotify.com/track/6KJi2isnsoz6CRV43yRHj8"
     },
     {
       "album": {
@@ -8859,6 +8913,24 @@
     },
     {
       "album": {
+        "name": "DES FOIS DANSER",
+        "url": "https://open.spotify.com/album/6rWNACy0stQJ3cS8zHPcRU"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216900,
+      "name": "partir en peur",
+      "url": "https://open.spotify.com/track/1iKC22Ji0LX3sonw6UFVkk"
+    },
+    {
+      "album": {
         "name": "Pas tr\u00e8s perspicace",
         "url": "https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi"
       },
@@ -9022,7 +9094,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 272973,
       "name": "Pers\u00e9ides",
       "url": "https://open.spotify.com/track/47xeKat4c1eZVSpVfEIqVS"
@@ -9954,6 +10026,24 @@
       "duration_ms": 152481,
       "name": "RICH!",
       "url": "https://open.spotify.com/track/034J9CitLjXmZZSqZhY1VK"
+    },
+    {
+      "album": {
+        "name": "Rien faire",
+        "url": "https://open.spotify.com/album/2vP78HU5MteU7RXZp1QmHp"
+      },
+      "artists": [
+        {
+          "name": "Cobra Barbara",
+          "url": "https://open.spotify.com/artist/2x76EzxRDRHlIJSksM3l2t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176338,
+      "name": "Rien faire",
+      "url": "https://open.spotify.com/track/7EpmolM1clWFserjKlmXSv"
     },
     {
       "album": {
@@ -11490,7 +11580,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 208784,
       "name": "Te parler de DieuE",
       "url": "https://open.spotify.com/track/5iFQXig02whKXSHL3pNuVf"

@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-724 songs - 1 day 16 hr 6 min
+724 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [SURE](https://open.spotify.com/track/0Q9HxCnsukScN8HhStukkJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [SURE](https://open.spotify.com/album/0y3P7yCypBWA2Zc5CuTPAQ) | 2:24 | 2025-01-03 | 2025-03-21 |
 | [SURELY \- UNVL' 24](https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [SURELY \(UNVL' 24\)](https://open.spotify.com/album/0tzCM41z8QPFzQcLiIpWCX) | 2:05 | 2024-09-20 | 2024-11-08 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-03-22 |
+| [Surrounded](https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Surrounded By Giants](https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC) | 2:48 | 2026-10-23 |  |
 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \(Remix\)](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 | 2024-03-01 | 2024-06-07 |
 | [Sweet Humans](https://open.spotify.com/track/3YsHPktItHzH9iME3Q7Kej) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Sweet Humans](https://open.spotify.com/album/03YKAs3zrpoXKO4jRTQ5ce) | 2:54 | 2025-04-06 | 2025-05-30 |
 | [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 | 2026-06-19 |  |
@@ -643,7 +644,6 @@
 | [To me](https://open.spotify.com/track/312MQvrve82qCPpYQP2hbi) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [To me](https://open.spotify.com/album/5c6wFb8kE1iL0IswbinfWO) | 2:34 | 2024-02-10 | 2024-04-06 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-10-20 |  |
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-23 |
-| [Track 1](https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Surrounded By Giants](https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC) | 0:00 | 2026-10-23 |  |
 | [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-09 | 2024-03-22 |
 | [Trust](https://open.spotify.com/track/4jmPjHDQ9d8tIMTDELLIXF) | [GERALD ADUGBO](https://open.spotify.com/artist/06y01hToOeibM9lqYOApKl) | [Trust](https://open.spotify.com/album/61fpMsOw2HZQwJhqUsKUOd) | 2:33 | 2025-09-19 | 2025-10-31 |
 | [Trust](https://open.spotify.com/track/74DC94uJKUT4ifisoMjCWr) | [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Trust](https://open.spotify.com/album/3vCyVi8EnduLV93bGih19L) | 2:52 | 2024-03-08 | 2024-05-03 |

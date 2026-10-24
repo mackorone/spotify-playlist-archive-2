@@ -4,7 +4,7 @@
 
 > we shall sing when night’s decay ushers in a drearier day
 
-313 songs - 20 hr 21 min
+314 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2024-09-20 |  |
 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 | 2022-09-21 | 2024-09-21 |
 | [Haunted](https://open.spotify.com/track/4b1QYjd7i5D1Gx2VjN21qI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:34 | 2026-09-01 |  |
+| [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2026-10-23 |  |
 | [Heaven Up There](https://open.spotify.com/track/3Rl26h1HiMCV0HFHHVb2IM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Life After](https://open.spotify.com/album/2gnr57XaEBXSDlfbkowBP8) | 7:17 | 2023-08-28 | 2024-08-02 |
 | [Here's Where The Story Ends](https://open.spotify.com/track/67Tp0vRSc3yJU0z1UQMD7B) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Reading, Writing And Arithmetic](https://open.spotify.com/album/6Gym0ls2Eqkh1BtCOhBplN) | 3:54 | 2026-09-01 |  |
 | [Hollywood Forever Cemetery Sings](https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:10 | 2022-09-21 | 2023-08-29 |

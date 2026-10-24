@@ -12754,7 +12754,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
@@ -20440,6 +20440,24 @@
       "duration_ms": 200575,
       "name": "Tell Me Why (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7"
+    },
+    {
+      "album": {
+        "name": "Tenchu",
+        "url": "https://open.spotify.com/album/3fkVoiyeZHUly0szR3MLRC"
+      },
+      "artists": [
+        {
+          "name": "Esremborak",
+          "url": "https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362821,
+      "name": "Tenchu",
+      "url": "https://open.spotify.com/track/16E9xFP8csyjHwFhKmpGMj"
     },
     {
       "album": {

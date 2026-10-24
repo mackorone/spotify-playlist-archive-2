@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Kacey Musgraves and Intocable
 
-218 songs - 11 hr 58 min
+219 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 | 2023-07-14 | 2024-06-18 |
 | [Mi Casa \- We Bought a House \- Spanish Version](https://open.spotify.com/track/1v61YJhvATuIWMRARRhKbh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Mi Casa \(We Bought a House \- Spanish Version\)](https://open.spotify.com/album/480wf3uDfOScBJsnco9vku) | 3:04 | 2022-08-26 | 2024-04-10 |
 | [Mi Corazòn Está En Tejas](https://open.spotify.com/track/01hkApnacJH1MwdyPGnrs1) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Left My Heart In Texas](https://open.spotify.com/album/1XtCcz4zdpQQdMN2OyCCUl) | 3:06 | 2025-03-28 |  |
+| [Mi Tesoro](https://open.spotify.com/track/6NM6WvgeXafeCb46be3YOu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Mi Tesoro](https://open.spotify.com/album/64YE0WQEVhUDrV5AT6tmHf) | 3:15 | 2026-10-23 |  |
 | [Morenita](https://open.spotify.com/track/7sIpHft18Pg6GsvOsYTGd0) | [Teo & Diego](https://open.spotify.com/artist/299l7hHRNKCmeRGmGiSCjQ) | [Morenita](https://open.spotify.com/album/5jm5YRpf876zq3wb9v8VKN) | 3:10 | 2021-12-10 |  |
 | [Most Nights](https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Most Nights](https://open.spotify.com/album/40FJ8tW2YSU4gXEj9WOLgN) | 3:18 | 2021-12-10 | 2022-09-03 |
 | [Mountains](https://open.spotify.com/track/0YrVuZbN2BmMjXYdyUQo4k) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Mountains](https://open.spotify.com/album/7n1yMlzN1ciH8dEsWFYmmZ) | 3:15 | 2022-05-13 | 2024-04-10 |

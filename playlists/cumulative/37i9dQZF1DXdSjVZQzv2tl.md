@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
+> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Simone Mendes
 
 430 songs - 20 hr 9 min
 

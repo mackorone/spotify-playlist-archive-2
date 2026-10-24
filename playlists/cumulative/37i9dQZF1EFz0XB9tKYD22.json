@@ -2871,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Honeysuckle",
+      "url": "https://open.spotify.com/track/2s5JI1spg0ZBP9kWgi6YgV"
+    },
+    {
+      "album": {
         "name": "Hot Concrete",
         "url": "https://open.spotify.com/album/26vKfIBehbY1N3s57ouyRD"
       },

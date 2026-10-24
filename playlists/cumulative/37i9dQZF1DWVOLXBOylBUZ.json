@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de K\u00f8ddy G.",
+  "description": "Latinoam\u00e9rica baila al ritmo de La Cruz.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1548,6 +1548,36 @@
       "duration_ms": 223084,
       "name": "algo as\u00ed (remix)",
       "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
+    },
+    {
+      "album": {
+        "name": "ALGO BONITO",
+        "url": "https://open.spotify.com/album/78HHvnXbImnvQsX7I85NpI"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "eudis",
+          "url": "https://open.spotify.com/artist/3LtTqYfIFVNqhnUOaP4ZAT"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "ALGO BONITO",
+      "url": "https://open.spotify.com/track/7HAef7prVzrDU0DQGwPbgW"
     },
     {
       "album": {
@@ -4955,6 +4985,28 @@
     },
     {
       "album": {
+        "name": "Calle 4",
+        "url": "https://open.spotify.com/album/0oPZIL6rlXHsmFaMPXNIpw"
+      },
+      "artists": [
+        {
+          "name": "Hector Nazza",
+          "url": "https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB"
+        },
+        {
+          "name": "Dj Jac",
+          "url": "https://open.spotify.com/artist/3J84KNygFFEW38l9nRpg51"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Calle 4",
+      "url": "https://open.spotify.com/track/4TiHVxcRSX93L7PHW31oxO"
+    },
+    {
+      "album": {
         "name": "PARA TODAS LAS MAMACITAS",
         "url": "https://open.spotify.com/album/3vybLae46btPWds1OXSHTK"
       },
@@ -6002,7 +6054,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 131562,
       "name": "Choka Choka",
       "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
@@ -9498,7 +9550,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 185600,
       "name": "Duro",
       "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
@@ -13962,7 +14014,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169503,
       "name": "Karibe",
       "url": "https://open.spotify.com/track/0ah0RnKcmZBvIBEtnkLSoq"
@@ -21484,7 +21536,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 191490,
       "name": "Ojala",
       "url": "https://open.spotify.com/track/3zVu9yK91W3y1hBiE7f7jV"
@@ -21696,6 +21748,28 @@
       "duration_ms": 132244,
       "name": "Ojos Shanghai",
       "url": "https://open.spotify.com/track/5r2fuhiTuIcQVCA2W12jHm"
+    },
+    {
+      "album": {
+        "name": "Olimpo",
+        "url": "https://open.spotify.com/album/4vIpcjWLlMwyEdZsC1BKv3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149729,
+      "name": "Olimpo",
+      "url": "https://open.spotify.com/track/0vGKL7wzfkhzGEJScbYt7N"
     },
     {
       "album": {
@@ -30440,6 +30514,24 @@
       "duration_ms": 257333,
       "name": "Ultra Complicado (feat. Sebas) - Remix",
       "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
+    },
+    {
+      "album": {
+        "name": "Un 20",
+        "url": "https://open.spotify.com/album/2SN3HjYZTIy7z9lGl6jXh3"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145142,
+      "name": "Un 20",
+      "url": "https://open.spotify.com/track/1QD1FpnOJRwXud3jJuSjcZ"
     },
     {
       "album": {

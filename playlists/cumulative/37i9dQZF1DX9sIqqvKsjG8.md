@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-994 songs - 1 day 18 hr 31 min
+997 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 | 2023-09-23 |
 | [Ascent](https://open.spotify.com/track/4QKo1Fs1rxblTxdWl6fzEC) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Ascent](https://open.spotify.com/album/2Azjzabd4xGsmjpCqWSejA) | 1:55 | 2022-11-11 | 2023-07-26 |
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2021-12-07 | 2022-11-12 |
+| [At Dawn](https://open.spotify.com/track/7cO5el4Rc6dqYp0h7aTZHb) | [Rosenkalla](https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz) | [At Dawn](https://open.spotify.com/album/66NIkZI2gBaBzdaSBi9qBl) | 2:23 | 2026-10-23 |  |
 | [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
 | [Auf dem Felde](https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 1:48 | 2021-12-07 | 2022-03-18 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-03-16 | 2024-07-30 |
@@ -748,6 +749,7 @@
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-07-18 | 2025-05-17 |
 | [Soft Return](https://open.spotify.com/track/1Tkl43frGAm0ACGRla1TAW) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Soft Return](https://open.spotify.com/album/3QDRanOMocsDj5X4fsUaDP) | 2:25 | 2026-07-17 |  |
 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-03 | 2026-05-16 |
+| [soir roux](https://open.spotify.com/track/71PeLho0BOxWPvw6xQ8sCa) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [soir roux](https://open.spotify.com/album/1iOqMvaLwmHN4tvOgXRuEI) | 2:32 | 2026-10-23 |  |
 | [Sojourn](https://open.spotify.com/track/0rV61MLbhHcqQNmJYEZIXt) | [Théo Laurent](https://open.spotify.com/artist/73nqYCiXP0tWWhSWjSpC0w) | [Sojourn](https://open.spotify.com/album/5CLXvXaJzcQC9QYdUSE0hZ) | 2:31 | 2024-08-07 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-05 | 2023-07-26 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2023-03-21 |
@@ -962,6 +964,7 @@
 | [When She Flows](https://open.spotify.com/track/0kI6c7wGZ5h3njJ5wF4nMw) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When She Flows](https://open.spotify.com/album/3zCCxRh7AAooxeYJRD7fSM) | 2:10 | 2021-12-07 | 2022-05-06 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 | 2022-10-14 |
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-06 | 2024-12-12 |
+| [When You're Near](https://open.spotify.com/track/6eikZQ8O7NlnugEgCacoto) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [When You're Near](https://open.spotify.com/album/66BHLCBIC7pauIvbrj61Pz) | 2:24 | 2026-10-23 |  |
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-05-06 |
 | [Where We Belong](https://open.spotify.com/track/7imtufjk7dfVd1dBpXxhT7) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Where We Belong](https://open.spotify.com/album/1vw4pJwpVUdwqYH9m3mDqx) | 3:03 | 2024-10-22 |  |
 | [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 | 2024-11-05 |  |

@@ -1,13 +1,49 @@
 {
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Lucky Daye\n",
-  "num_followers": 89219,
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Jessie Reyez\n",
+  "num_followers": 89224,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIcZPX7TxBycRO7SouHPPoa/DgO9",
+  "snapshot_id": "AAAAAAhlOkT4dYLMAUpEBi9jGEBgRj+i",
   "tracks": [
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "SOVEREIGN LAND",
+        "url": "https://open.spotify.com/album/6nedzUexHeu5kEYuRmD4PU"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/3akNcl19u2UUXBtXmRWLxe"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "BEEN HERE BEFORE",
+        "url": "https://open.spotify.com/album/3ynfbKWAnghUZitU9jP6Fd"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 200151,
+      "name": "BEEN HERE BEFORE",
+      "url": "https://open.spotify.com/track/5sD01JnvvAOWCgrr5UzMBW"
+    },
     {
       "added_at": "2026-10-05 06:36:13",
       "album": {
@@ -23,6 +59,46 @@
       "duration_ms": 213562,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/2BCoCVN64DUwGlz9qnAaVM"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 171436,
+      "name": "GODDESS (feat. Lojay)",
+      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "duration_ms": 228563,
+      "name": "Bodies On The Floor (feat. Clipse)",
+      "url": "https://open.spotify.com/track/58MoSwpvzOxZAgk7dMb3ci"
     },
     {
       "added_at": "2026-10-05 06:36:13",
@@ -85,20 +161,24 @@
       "url": "https://open.spotify.com/track/20dDIAqQEqaRBFWWkEjwhI"
     },
     {
-      "added_at": "2026-10-19 03:04:56",
+      "added_at": "2026-10-23 10:57:10",
       "album": {
-        "name": "MADE 4 THIS",
-        "url": "https://open.spotify.com/album/1ErdNrarD5OecbKB1bVdNT"
+        "name": "She Decides (feat. Jeremih)",
+        "url": "https://open.spotify.com/album/2wWH2IzZkfofhy7W19ByTg"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Tallia Storm",
+          "url": "https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 165495,
-      "name": "MADE 4 THIS",
-      "url": "https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp"
+      "duration_ms": 152166,
+      "name": "She Decides (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/1PsFgpJ0dtbhl7H2Gsmw8e"
     },
     {
       "added_at": "2026-10-05 06:36:13",
@@ -135,6 +215,42 @@
       "duration_ms": 171818,
       "name": "Out Of Time with Tomoko Aran",
       "url": "https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "Cry On You",
+        "url": "https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 120521,
+      "name": "Cry On You",
+      "url": "https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "added_at": "2026-10-19 03:04:56",
@@ -191,6 +307,26 @@
       "duration_ms": 186666,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "love?... or something like it (Deluxe)",
+        "url": "https://open.spotify.com/album/0VI7CsEX0FZvHu1D7q9xFI"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "love or something like it (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
     },
     {
       "added_at": "2026-10-05 06:36:13",
@@ -307,6 +443,38 @@
       "duration_ms": 216247,
       "name": "CAN I WATCH YOU (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "Therapy Wasn't Enough: Off The Record",
+        "url": "https://open.spotify.com/album/3JnwiLvVIdbUoYdKYXmo3X"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 130647,
+      "name": "Reality Show - Bonus Track",
+      "url": "https://open.spotify.com/track/5umw9VsZu5K6AWPXoS0BWK"
+    },
+    {
+      "added_at": "2026-10-23 10:57:10",
+      "album": {
+        "name": "Misunderstood Angel",
+        "url": "https://open.spotify.com/album/1L3ePl6gKJsQvoRTtPwVQq"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Misunderstood Angel",
+      "url": "https://open.spotify.com/track/42VOAQC4YOksWxK4mXUd4A"
     },
     {
       "added_at": "2026-10-05 06:36:13",
@@ -1139,22 +1307,6 @@
     {
       "added_at": "2026-10-05 06:36:13",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -1283,22 +1435,6 @@
     {
       "added_at": "2026-10-05 06:36:13",
       "album": {
-        "name": "Black Flower",
-        "url": "https://open.spotify.com/album/5HxRHQMz3OhYjucr6qJAeE"
-      },
-      "artists": [
-        {
-          "name": "Becca Hatch",
-          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Black Flower",
-      "url": "https://open.spotify.com/track/5j7yfmvOnLEvwGAgK9z3aL"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
         "name": "Blue Island",
         "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },
@@ -1331,78 +1467,6 @@
       "duration_ms": 269028,
       "name": "Any Time (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
-        "name": "Dreamy",
-        "url": "https://open.spotify.com/album/2eW5ERfKLvt0TMmP2Oi6ey"
-      },
-      "artists": [
-        {
-          "name": "Blanka",
-          "url": "https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi"
-        },
-        {
-          "name": "Papa Rua",
-          "url": "https://open.spotify.com/artist/0yruMO5b0AFOOMNHhc5Fhb"
-        },
-        {
-          "name": "Nao Yoshioka",
-          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
-        }
-      ],
-      "duration_ms": 229846,
-      "name": "Dreamy",
-      "url": "https://open.spotify.com/track/1MW9Gu70xmm5LTu4iVeLsX"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
-        "name": "fallin",
-        "url": "https://open.spotify.com/album/7LRBPfwwyzSGZzSmEDIR9v"
-      },
-      "artists": [
-        {
-          "name": "Ray Lozano",
-          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "fallin",
-      "url": "https://open.spotify.com/track/4OvxlceUGGeS6iMfyjESpf"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
-        "name": "Besitos / Gave Myself 2 U",
-        "url": "https://open.spotify.com/album/7Au0iRd9Z4AQqGPiUEt1Uv"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/3D1zuCEEuruT48Y51VsHZq"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
-        "name": "One Last Night",
-        "url": "https://open.spotify.com/album/0dlENiHDElNovt0XENliLB"
-      },
-      "artists": [
-        {
-          "name": "ALBA",
-          "url": "https://open.spotify.com/artist/0X75mKnGIn5UddbkTZ87KK"
-        }
-      ],
-      "duration_ms": 137755,
-      "name": "One Last Night",
-      "url": "https://open.spotify.com/track/3JF6axsz0mPiqOb3xOArqE"
     },
     {
       "added_at": "2026-10-05 06:36:13",
@@ -1579,26 +1643,6 @@
     {
       "added_at": "2026-10-05 06:36:13",
       "album": {
-        "name": "Overthink (feat. Elmiene)",
-        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 207082,
-      "name": "Overthink (feat. Elmiene)",
-      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
         "name": "FIRE BURNIN' THRU THE RAIN",
         "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
       },
@@ -1611,30 +1655,6 @@
       "duration_ms": 167394,
       "name": "FIRE BURNIN' THRU THE RAIN",
       "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/4jN5RW12FnRjq1LDAF5SzY"
-      },
-      "artists": [
-        {
-          "name": "Misha",
-          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
-        },
-        {
-          "name": "Relyae",
-          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
-        },
-        {
-          "name": "Jussi Halme",
-          "url": "https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K"
-        }
-      ],
-      "duration_ms": 206357,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/2GKQ8pL7VJiQl5hQd0mqsv"
     },
     {
       "added_at": "2026-10-05 06:36:13",
@@ -1671,22 +1691,6 @@
       "duration_ms": 174230,
       "name": "is it cool? (feat. SZA)",
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
-        "name": "Bury It",
-        "url": "https://open.spotify.com/album/33W0mcGpZis0alt3swinMu"
-      },
-      "artists": [
-        {
-          "name": "Estelle Fly",
-          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Bury It",
-      "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
     },
     {
       "added_at": "2026-10-05 06:36:13",
@@ -1755,22 +1759,6 @@
       "duration_ms": 176297,
       "name": "Nowhere Fast",
       "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
-    },
-    {
-      "added_at": "2026-10-05 06:36:13",
-      "album": {
-        "name": "Dreamer's Song",
-        "url": "https://open.spotify.com/album/5oWIZq3lCaNWbSRYNJJfAP"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 181736,
-      "name": "Dreamer's Song",
-      "url": "https://open.spotify.com/track/5VbmUEAhSFWVzOnH0rmwsl"
     },
     {
       "added_at": "2026-10-05 06:36:13",

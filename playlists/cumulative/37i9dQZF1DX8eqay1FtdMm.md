@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Song Sohee\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: eaJ\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-673 songs - 1 day 19 hr 50 min
+674 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [An Unfinished Song](https://open.spotify.com/track/58yWhSlvdBSB0rZbUO9KyS) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV), [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b), [Lee Mujin](https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7), [이소정](https://open.spotify.com/artist/3q2uDma9mBdJlTSh5lpj68) | [Famous Singers, Pt\. 1 \(From the "JTBC" TV SHOW\)](https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd) | 4:18 | 2024-05-29 | 2024-06-06 |
 | [And The End](https://open.spotify.com/track/5g4Gu5pc7STz901CngD3JC) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [And The End](https://open.spotify.com/album/4Cd5Q17VMgm5OKSqLJvoQJ) | 3:48 | 2022-05-13 | 2022-07-28 |
 | [Anomaly](https://open.spotify.com/track/5DvxeABzpKJ5wrQ9PNYzAN) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Anomaly](https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0) | 3:01 | 2023-04-07 | 2023-04-19 |
+| [anxiety](https://open.spotify.com/track/2KdRiiEgMKq5MKiYqMq7NS) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [the responsibility of being in love](https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL) | 3:16 | 2026-10-23 |  |
 | [Anymore \(Feat\. Whee In of MAMAMOO\)](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 | 2021-12-20 | 2023-11-22 |
 | [Arcadia](https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Arcadia](https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO) | 2:50 | 2025-09-29 |  |
 | [Around You](https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Around You](https://open.spotify.com/album/28DDo4pRZosbVFpZxGnJbn) | 3:59 | 2022-07-04 | 2022-07-23 |
@@ -506,7 +507,7 @@
 | [Summer Sweet \(Kor Ver.\)](https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [STAY WITH ME](https://open.spotify.com/album/3viBb010uLvcWvlWmInkjJ) | 3:43 | 2024-07-11 | 2024-07-17 |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SunFlower](https://open.spotify.com/track/5T9rLJnCLFh5ZViMfdRF7u) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [SunFlower](https://open.spotify.com/album/6sMaJyWXCPtUBv0LTIazl1) | 3:39 | 2026-03-24 | 2026-05-11 |
-| [Sunlight, Wind](https://open.spotify.com/track/6pmUEbVCPyWf6XNk0jvBm3) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Sunlight, Wind](https://open.spotify.com/album/2gmresKEN0qJRSorfMpUkY) | 3:36 | 2026-10-15 |  |
+| [Sunlight, Wind](https://open.spotify.com/track/6pmUEbVCPyWf6XNk0jvBm3) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Sunlight, Wind](https://open.spotify.com/album/2gmresKEN0qJRSorfMpUkY) | 3:36 | 2026-10-15 | 2026-10-24 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 | 2026-10-01 |
 | [Surrender](https://open.spotify.com/track/3giNZ1ZVKFVRPJZq4ckF7o) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [DIVA](https://open.spotify.com/album/4sOFEOAhkVbcV3QiIJIRaT) | 3:57 | 2024-11-28 | 2024-12-06 |

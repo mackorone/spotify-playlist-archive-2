@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Mida in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,319 likes - 111 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,329 likes - 111 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 8 | [Where Is Gone?](https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Where Is Gone?](https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi) | 5:16 |
 | 9 | [Giornate perse](https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Giornate perse](https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH) | 3:39 |
 | 10 | [Amateur \(feat\. Salmo\)](https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Amateur](https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t) | 4:25 |
-| 11 | [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
+| 11 | [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
 | 12 | [OMBRE](https://open.spotify.com/track/0RanD45tjNfmAZ516XHIIF) | [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [LA TAVOLA DELL'UMORE](https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra) | 2:16 |
 | 13 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
 | 14 | [Nascondino](https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Nascondino](https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy) | 3:01 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 39 | [Due come noi due](https://open.spotify.com/track/6BZvp54X7G243O4QyFMal4) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Due come noi due](https://open.spotify.com/album/1JUn9SHjOvWXTaQZjBruJA) | 3:19 |
 | 40 | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 |
 | 41 | [SentiMentAL City](https://open.spotify.com/track/76YIuqXXieJBWUnU5WRyy9) | [Alberto Fortis](https://open.spotify.com/artist/2HsWQvn4lPIXf56bUK2qIw) | [SentiMentAL City](https://open.spotify.com/album/1S7gUPss3MxRlgQhKJ1ovV) | 3:17 |
-| 42 | [Track 9](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 0:00 |
+| 42 | [OH MY GOD](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 2:11 |
 | 43 | [SCHEGGE \(le foglie\)](https://open.spotify.com/track/2Je9pmfsMDcGBsqFoyrabq) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [SCHEGGE \(le foglie\)](https://open.spotify.com/album/1SyNAHksuZTJ08twv8uJzQ) | 2:47 |
 | 44 | [La Dolce Vita](https://open.spotify.com/track/3OfzppfFlwPuHvFjsTe6d1) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [La Dolce Vita](https://open.spotify.com/album/25JdKC9G8UodEfjLFZUdlP) | 3:12 |
 | 45 | [Pugni sul viso](https://open.spotify.com/track/2ttF2sK4MshnNtsCoagzoE) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Pugni sul viso](https://open.spotify.com/album/6wrjKzZHHKr7NuVLkjKqQo) | 2:36 |

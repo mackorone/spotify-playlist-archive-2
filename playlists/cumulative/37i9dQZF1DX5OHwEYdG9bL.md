@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: ALLDAY PROJECT\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BABYMONSTER\) \(Enjoy a playlist of songs that support music video features!\)
 
-275 songs - 15 hr 1 min
+286 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [DDI RO RI](https://open.spotify.com/track/4pKCIM6LQowiGak1lkymxz) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [DDI RO RI](https://open.spotify.com/album/11APOWQvzunwVquigB7umx) | 3:18 | 2026-06-12 |  |
 | [ddok ddok ddok](https://open.spotify.com/track/3gYInUz6sp2ujSizzUdZeg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/4gHuTmtRrcGHwgijzB7yR2) | 2:40 | 2026-05-12 |  |
 | [Death of Me](https://open.spotify.com/track/7fguLMcnTfPK8qSKGNMTPF) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 3:06 | 2026-09-08 |  |
+| [DESERVE](https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0) | 3:09 | 2026-10-23 |  |
 | [Dirty Work](https://open.spotify.com/track/26sWZviugh9BjAe5X61dzY) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/72ORvl4lM3vVPzT94dY2cD) | 3:09 | 2025-07-15 |  |
 | [Dirty Work](https://open.spotify.com/track/2LK8E55VY0DNq7X6XV93lE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3OJd8RS97G1BnlXQQ4MBFl) | 3:09 | 2025-07-15 |  |
 | [Dirty Work](https://open.spotify.com/track/71u18wkj6oDLfZG8zypwj6) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/4dqtUlg658VSRtLw2aVoWB) | 3:11 | 2025-07-15 |  |
@@ -94,6 +95,7 @@
 | [Don't Say You Love Me](https://open.spotify.com/track/1pOEu1CR7nzABdjduOq267) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Don't Say You Love Me](https://open.spotify.com/album/5iqDyXIzuN1U6Ojd9aheIn) | 3:25 | 2025-07-15 | 2026-09-09 |
 | [Don't Touch](https://open.spotify.com/track/795Fr7e5GFqrXgfrqH2uyW) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Don't Touch](https://open.spotify.com/album/3ioTGyU49H5UBFlkwUqrW9) | 3:43 | 2025-10-24 |  |
 | [DRAMA](https://open.spotify.com/track/0pZdmKnH2NhhV2KrPa7RNn) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [DRAMA](https://open.spotify.com/album/1O5r91kj7NKQkUPUbep328) | 4:04 | 2025-07-15 | 2025-08-20 |
+| [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 | 2026-10-23 |  |
 | [DRIP](https://open.spotify.com/track/2ubS7s4Kuw6XqECYi0wNTp) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/5e1uFLuNimnyC7m0TuJJCo) | 3:07 | 2025-07-15 | 2025-08-20 |
 | [DUMB](https://open.spotify.com/track/0ZHPYDSqdFpRbE1BwDlWmw) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/1t4XzEiLgt2Vz1ajM6aDe0) | 4:15 | 2025-10-24 |  |
 | [DUMB](https://open.spotify.com/track/7H5O7Mij8oihoFo7DTujwZ) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/62DrJOgv8LV4birLd9v0Jl) | 4:15 | 2025-10-24 |  |
@@ -120,6 +122,7 @@
 | [Gnarly](https://open.spotify.com/track/7vj7OlHx7CkqW7GbtkM6jt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/6sI1X80Cg2da4ZCKJJ1UPi) | 2:21 | 2025-07-15 | 2026-09-09 |
 | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0) | 2:17 | 2026-04-25 |  |
 | [GO](https://open.spotify.com/track/3W6hUFHRs7JoWSS7jBE27a) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [GO](https://open.spotify.com/album/5ChCtLGTl3t8XjHWOyiJDY) | 3:21 | 2026-03-03 |  |
+| [GO HARD](https://open.spotify.com/track/3VpPQbvLb354cZ3XK54zrs) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [GO HARD](https://open.spotify.com/album/1YN4zkwjw2YpdEwXnie8F8) | 3:07 | 2026-10-23 |  |
 | [Handlebars](https://open.spotify.com/track/02ycmM2h4Qy7N7F8d68evw) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars](https://open.spotify.com/album/3gcVaAZbYasW3tPtFYLMo9) | 3:31 | 2025-07-15 | 2025-08-20 |
 | [HANDS UP](https://open.spotify.com/track/36pQp4XqaNgg3aGipDkQc4) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/2tcFy4JMpGJ97f2IEi7VLb) | 3:24 | 2025-07-15 | 2026-09-09 |
 | [HANDS UP](https://open.spotify.com/track/5A6Hz16MM07t7yYacvB8fO) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/5LZ71KaercZEeBpGk3AOMp) | 3:24 | 2025-07-15 | 2026-09-09 |
@@ -135,6 +138,7 @@
 | [I DO ME](https://open.spotify.com/track/1bGdt5Fo9akCUN2vk2fj4g) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/1k8g31cGLQtyOTTQ6cjZbh) | 3:20 | 2025-07-15 | 2025-08-20 |
 | [I DON'T BARGAIN](https://open.spotify.com/track/0KTym6MHSmlfXYKrwtfGHQ) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/1sEhPdw88BoROmJeijHBFZ) | 2:55 | 2026-03-20 |  |
 | [I Feel Good](https://open.spotify.com/track/5AP8DwNug6FEIT1N2W6lzW) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [I Feel Good](https://open.spotify.com/album/6QhUisCryDNbiW76yx630U) | 3:13 | 2025-07-15 | 2026-09-09 |
+| [I SPY](https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [I SPY \- The 4th Mini Album](https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN) | 3:05 | 2026-10-23 |  |
 | [I'll Be There](https://open.spotify.com/track/5AWhWkXI2N124dAh5cVbLo) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/4qHj1TjoaZ2ZGVKLWDFtVQ) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [Ice Cream](https://open.spotify.com/track/5wxUDqvvV1S2mmQ9X04QWB) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/3CjxTjmJ0IefgzQzmVc7aG) | 3:08 | 2026-03-30 |  |
 | [Ice Cream](https://open.spotify.com/track/5De6B7Rh8ablBQMDQBB1fy) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/65Qzv9eW5oSY6ZtXsTdJsR) | 3:08 | 2026-03-30 |  |
@@ -158,6 +162,7 @@
 | [Like a Bubble](https://open.spotify.com/track/7LgDSRShxEGYpfF4NarHSx) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Like a Bubble](https://open.spotify.com/album/5RJ5xtdKiJnGgtCoEibdhc) | 3:27 | 2026-06-12 |  |
 | [like JENNIE](https://open.spotify.com/track/2cYzrDoBQNHuZ1a8gn91Qx) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [like JENNIE](https://open.spotify.com/album/18D8t8yEsudCJfFYIzcEI1) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [LOOK AT ME](https://open.spotify.com/track/7LUZEEGVPp2SsMUlUKg6sq) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [LOOK AT ME](https://open.spotify.com/album/2JiloDVxdzXC2DfLbUms7m) | 2:47 | 2025-12-13 |  |
+| [Looks Can Kill](https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm) | 3:15 | 2026-10-23 |  |
 | [Loose \- Korean Ver.](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 | 2025-07-15 |  |
 | [Loose \- Korean Ver.](https://open.spotify.com/track/2RCriW55nKo1k49PcgnzeK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661) | 4:06 | 2025-07-15 |  |
 | [Love Hangover](https://open.spotify.com/track/2yEdI37BR4XQsATAbtbBD0) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover](https://open.spotify.com/album/1OdyqCJWhfsRrhUarGejF1) | 3:37 | 2025-07-15 | 2025-08-20 |
@@ -169,15 +174,18 @@
 | [Magnetic](https://open.spotify.com/track/09dYdaC3OSE3yVUg26krr3) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic](https://open.spotify.com/album/7re6tanALidYb951y3GFyC) | 3:08 | 2025-07-15 | 2025-08-20 |
 | [Make the vibe](https://open.spotify.com/track/4sitc6f5LX9izF8egm9yxG) | [t024](https://open.spotify.com/artist/0jxjOumN4dyPFTLUojSbNP) | [Make the vibe](https://open.spotify.com/album/4GOfPeAyepa7lGZOXU0g4W) | 1:33 | 2025-07-15 | 2025-08-20 |
 | [Mama Said](https://open.spotify.com/track/42tOCWi4YorqdPm5CI2G8v) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Mama Said](https://open.spotify.com/album/1XDzjWr9I5RZ4afP8YUd6V) | 3:56 | 2025-07-15 | 2025-08-20 |
+| [Masterpiece](https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Masterpiece](https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6) | 2:49 | 2026-10-23 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/1gVZUPWSNPw8Q4ekYczjPM) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/6vAeQg3XwD5Ln2Y3bzMJmm) | 3:58 | 2025-07-15 | 2026-09-09 |
 | [ME](https://open.spotify.com/track/5krkNiStmZb9yoeEFVIj3t) | [KANG SEUNG YOON](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [ME](https://open.spotify.com/album/4Su5wdOi6QpLSKWZkew7nq) | 3:52 | 2025-12-03 |  |
 | [MEOW](https://open.spotify.com/track/7CrATpAMZGAiMDTWwBXW4P) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/3vBBplmxjFXt0f6Q3UQIpn) | 2:54 | 2025-07-15 | 2025-08-20 |
 | [Merry Go Round](https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Merry Go Round](https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo) | 4:15 | 2026-06-19 |  |
 | [Mess](https://open.spotify.com/track/3Xh6AHSA00ROOKCc3eH3Ql) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Mess](https://open.spotify.com/album/71XPrdRLDPTdXgg5lSdVGT) | 2:38 | 2025-07-15 | 2026-09-09 |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/7EfsDwMIp2K2zcesWFdIQ7) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/7AyY2UsDMJjLoAPLlSQtsa) | 3:05 | 2025-07-15 | 2026-09-09 |
+| [Mise en scène](https://open.spotify.com/track/0wIwrT28ZIAHdJsTgKhAt9) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Mise en scène](https://open.spotify.com/album/2IcyuoBzNE2AaaRzbOORd4) | 2:58 | 2026-10-23 |  |
 | [MONA LISA](https://open.spotify.com/track/6FfKVcRELC01p2V64HXsRH) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/0XOxRUT0IKQjJCdP0nqaKw) | 2:42 | 2025-07-15 | 2025-08-20 |
 | [MONEYMONEYMONEY](https://open.spotify.com/track/0ppEiP3M15ugB8MLnTZMyj) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [MONEYMONEYMONEY](https://open.spotify.com/album/6EvX3VmH0ADg9u1ET4bnFC) | 2:20 | 2026-08-25 |  |
 | [MUSEUM](https://open.spotify.com/track/3I8Dqw8JZI89crzCtWalJD) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/1717Ib5wr97Iz47nHBJTnM) | 3:17 | 2026-03-30 |  |
+| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-23 |  |
 | [NORMAL](https://open.spotify.com/track/5d1adDwusi5l5OsjRuIL2Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL](https://open.spotify.com/album/2eVLSqmG1Yc1XFOIljHCvl) | 3:21 | 2026-07-17 |  |
 | [NORMAL](https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL](https://open.spotify.com/album/5z3P0hbd1B5KDdAmRqeW5W) | 3:21 | 2026-07-17 |  |
 | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C) | 3:11 | 2026-06-01 |  |
@@ -234,6 +242,7 @@
 | [SPAGHETTI \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/2qWaY57V2DowqqMJFF8VYS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/7gDr60IgMn4LaVnKgafFV0) | 2:19 | 2026-06-08 |  |
 | [Star Eyes \- Spotify Live Version](https://open.spotify.com/track/5vDhLCnufZRYk4W43gOJjP) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/5QPRhveyVrCxrDpgeMUZ8F) | 4:24 | 2025-10-24 |  |
 | [Star Eyes \- Spotify Live Version](https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V) | 4:24 | 2025-10-24 |  |
+| [Star Trace](https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [HYPERDRIVE](https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q) | 2:59 | 2026-10-23 |  |
 | [STYLE](https://open.spotify.com/track/1IeVyzWo9BlNk903OPe6Nz) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/0kLPZ34ExPll2O7XovvC8b) | 3:43 | 2025-07-15 |  |
 | [SUGAR HONEY ICE TEA](https://open.spotify.com/track/1xecbaUvrQUT6Lw3a6Mgcx) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SUGAR HONEY ICE TEA](https://open.spotify.com/album/2MUPwuUNnpJFQeD4ztHocG) | 3:06 | 2026-06-08 |  |
 | [Summer Was You](https://open.spotify.com/track/3lM3PaTT8YhB4Tg7lqzLDg) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Summer Was You](https://open.spotify.com/album/5AupM0jo6m6ZTgbamHUi1o) | 3:49 | 2025-07-15 |  |
@@ -245,6 +254,7 @@
 | [SWIM](https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga) | 3:56 | 2026-03-20 |  |
 | [SWIM](https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/2Hb9BBHUN5ZDqcWj5ySyZm) | 3:56 | 2026-03-20 |  |
 | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD) | 2:42 | 2026-04-02 |  |
+| [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 | 2026-10-23 |  |
 | [The Reason](https://open.spotify.com/track/2byNQPJUMOmyKdaQSw0k15) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason](https://open.spotify.com/album/2XhgPDYlVpFwirVHaHubHw) | 3:08 | 2025-12-13 |  |
 | [THIS IS FOR](https://open.spotify.com/track/5D3yEO19Qolv5NNK4WUyDL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/62742xRMCVA32EzRjyie94) | 2:13 | 2025-07-15 |  |
 | [THRILLER](https://open.spotify.com/track/0pKZGh1aecHm3JwouoKTdU) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [THRILLER](https://open.spotify.com/album/6g6IrJ9NH4WzXeegihzWjI) | 2:57 | 2025-10-24 |  |
@@ -283,5 +293,6 @@
 | [YES](https://open.spotify.com/track/4cGS4U8XLzgBTCeo2UN4MA) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [YES](https://open.spotify.com/album/3RNowSUboaZkZF8ifShTs4) | 3:06 | 2025-08-13 |  |
 | [YOU AND I](https://open.spotify.com/track/3sSyfg5iyw2LGK3mEMkoJN) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [YOU AND I](https://open.spotify.com/album/7yypCvtYwlmx6kL6MTZNCR) | 2:59 | 2025-08-13 |  |
 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa) | 3:12 | 2026-03-30 |  |
+| [긴 소원 \(Birthday Wish\)](https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 3:20 | 2026-10-23 |  |
 
 \*This playlist was first scraped on 2025-03-15. Prior content cannot be recovered.

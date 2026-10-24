@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
+  "description": "Unique covers by your favorite country artists. Cover: Morgan Evans",
   "name": "Country Covers",
   "tracks": [
     {
@@ -246,6 +246,24 @@
       "duration_ms": 211730,
       "name": "Ain't Nothing 'Bout You (with Megan Moroney)",
       "url": "https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5"
+    },
+    {
+      "album": {
+        "name": "Steel Town (Deluxe)",
+        "url": "https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256299,
+      "name": "Ain\u2019t Going Down (\u2018Til the Sun Comes Up)",
+      "url": "https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O"
     },
     {
       "album": {
@@ -3778,7 +3796,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 208597,
       "name": "If The World Was Ending",
       "url": "https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,847 likes - 105 songs - 15 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,948 likes - 105 songs - 15 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 2 | [Good God](https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Good God](https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4) | 14:49 |
 | 3 | [Glory to God in the Highest](https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Life Recording](https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ) | 13:34 |
 | 4 | [Oluwatosin II](https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Oluwatosin II](https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc) | 10:56 |
-| 5 | [Glorified](https://open.spotify.com/track/2CvLzpnCmSngJLwNzlcS6S) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [Kaestrings](https://open.spotify.com/artist/4cXRlq46eQ78HJRRIUIbDP) | [Glorified](https://open.spotify.com/album/50NJLke2qbJYVvsaYjhTn6) | 18:45 |
+| 5 | [Glorified](https://open.spotify.com/track/2CvLzpnCmSngJLwNzlcS6S) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Glorified](https://open.spotify.com/album/50NJLke2qbJYVvsaYjhTn6) | 18:45 |
 | 6 | [Chinecherem \(Live\)](https://open.spotify.com/track/7MERrzA9P7J9NoCBYknyUA) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Chinecherem \(Live\)](https://open.spotify.com/album/1mzwra79YSKnA4WOm6tbdn) | 9:35 |
 | 7 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 |
 | 8 | [Oghene Do](https://open.spotify.com/track/3O0Wf0GHDyV2AAZQO0KSPz) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited \- Verse 1](https://open.spotify.com/album/3cBoClyLmO7nWQAVcPigPI) | 4:52 |
-| 9 | [I Believe](https://open.spotify.com/track/19riP5PtckUNjgn6XKvdlf) | [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [I Believe](https://open.spotify.com/album/0JqRmgSYbh7K7vABWF0opa) | 19:39 |
+| 9 | [I Believe \- Live](https://open.spotify.com/track/19riP5PtckUNjgn6XKvdlf) | [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [I Believe \(Live\)](https://open.spotify.com/album/0JqRmgSYbh7K7vABWF0opa) | 19:39 |
 | 10 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
 | 11 | [No Other Saviour](https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [No Other Saviour](https://open.spotify.com/album/3gczJFglRLc8S2VALfEwIe) | 17:06 |
 | 12 | [Praise the Lord](https://open.spotify.com/track/55UoVKZ4ENICeZxLMoyl0W) | [Kolawole Bekes](https://open.spotify.com/artist/7tLyiCHrnIe6aEsEDoAybu) | [Praise the Lord](https://open.spotify.com/album/0MOqeDAWWCC8AxxaZ9WemY) | 12:08 |
-| 13 | [With My heart \(Spontaneous\) \[feat\. Sanmi Michael\]](https://open.spotify.com/track/0DtCnUad5CGWvclmEvClFJ) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Sanmi Michael](https://open.spotify.com/artist/1o6J4pNCDn0qzJeuPkVowk) | [With My heart \(Spontaneous\) \[feat\. Sanmi Michael\]](https://open.spotify.com/album/2oy6YWa74rzaaGefA5qWeE) | 8:02 |
+| 13 | [With My heart \(Spontaneous\)](https://open.spotify.com/track/0DtCnUad5CGWvclmEvClFJ) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Sanmi Michael](https://open.spotify.com/artist/1o6J4pNCDn0qzJeuPkVowk) | [With My heart \(Spontaneous\)](https://open.spotify.com/album/2oy6YWa74rzaaGefA5qWeE) | 8:02 |
 | 14 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 |
 | 15 | [My God](https://open.spotify.com/track/0RVWYiqpXx4yl4piv0MPLM) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [My God](https://open.spotify.com/album/3KitNkoXR2uuRTvxAhDz6c) | 5:19 |
 | 16 | [Call Me One Hundred \(Spontaneous Worship\)](https://open.spotify.com/track/1mdSVLXx0KjDlVrJ5DP3QJ) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Call Me One Hundred \(Spontaneous Worship\)](https://open.spotify.com/album/3Q2FGSIvPi8PMdqgNMfsTP) | 3:08 |

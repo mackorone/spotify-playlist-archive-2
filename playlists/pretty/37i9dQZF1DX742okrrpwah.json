@@ -1,12 +1,12 @@
 {
   "description": "Ino Casablanca, La F\u00e8ve x Theodora, LISA & The Rolling Stones au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 416924,
+  "num_followers": 417337,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKy3EKExV25p68MBrevJYA2R0kKN",
+  "snapshot_id": "AAAAAHXU9TXJ4isaCnk6wLE55/aWeQRE",
   "tracks": [
     {
       "added_at": "2026-10-22 22:01:17",
@@ -410,10 +410,14 @@
         {
           "name": "Timmy Trumpet",
           "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 194014,
+      "name": "Dance Till I Die",
       "url": "https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH"
     },
     {
@@ -543,7 +547,7 @@
     {
       "added_at": "2026-10-22 22:01:17",
       "album": {
-        "name": "Close My Eyes",
+        "name": "Close my eyes",
         "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
       },
       "artists": [
@@ -557,7 +561,7 @@
         }
       ],
       "duration_ms": 227000,
-      "name": "Close My Eyes",
+      "name": "Close my eyes",
       "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
     },
     {
@@ -1349,6 +1353,22 @@
       "url": "https://open.spotify.com/track/2XlS3xEvc3YOQi4SSBVU1K"
     },
     {
+      "added_at": "2026-10-23 10:06:53",
+      "album": {
+        "name": "M\u00eame bois",
+        "url": "https://open.spotify.com/album/2pwLtHjerpGX67oFV2GWTE"
+      },
+      "artists": [
+        {
+          "name": "Asfar Shamsi",
+          "url": "https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs"
+        }
+      ],
+      "duration_ms": 156655,
+      "name": "M\u00eame bois",
+      "url": "https://open.spotify.com/track/4EHRdbCLmRnW2jTvaoozh5"
+    },
+    {
       "added_at": "2026-10-22 22:01:17",
       "album": {
         "name": "AFFECTION",
@@ -1367,6 +1387,22 @@
       "duration_ms": 168591,
       "name": "AFFECTION",
       "url": "https://open.spotify.com/track/16HcZnsLVs8wIZSrvK5lL5"
+    },
+    {
+      "added_at": "2026-10-22 22:01:17",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3P1U5x9BIVnAni87LRNtpn"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 181790,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1D7smZeZjSzSqg1Vcb6BRA"
     },
     {
       "added_at": "2026-10-22 22:01:17",
@@ -1636,8 +1672,8 @@
           "url": "https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 185746,
+      "name": "k.o. (sale atterrissage)",
       "url": "https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib"
     },
     {
@@ -1721,7 +1757,7 @@
         }
       ],
       "duration_ms": 247586,
-      "name": "Hano\u00ef",
+      "name": "Hano\u00ef - Version 2026",
       "url": "https://open.spotify.com/track/2bsfOHTZdMcZn8kkEbCZI1"
     },
     {

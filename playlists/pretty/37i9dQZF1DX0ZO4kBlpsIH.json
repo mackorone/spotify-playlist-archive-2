@@ -1,12 +1,12 @@
 {
   "description": "A taste of French caf\u00e9 culture \u2615\ufe0f jazz for slow mornings, sunny terraces, and long afternoons.",
-  "num_followers": 483361,
+  "num_followers": 483558,
   "original_name": "Caf\u00e9 de Paris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMtZspgpLjnhhr0xaRfxZpuAnI9u",
+  "snapshot_id": "AAAAAPBhbkeKKy5c3iSDCIMpYXaHvr6G",
   "tracks": [
     {
       "added_at": "2026-09-11 04:00:30",
@@ -191,38 +191,6 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
-        "name": "Ce si doux visage",
-        "url": "https://open.spotify.com/album/0W9bucc4qg1k2tslOrFDcu"
-      },
-      "artists": [
-        {
-          "name": "Notes de Nuit",
-          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
-        }
-      ],
-      "duration_ms": 199889,
-      "name": "Ce si doux visage",
-      "url": "https://open.spotify.com/track/3MFN3UgYAFTyxPENVXQjDL"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
-        "name": "Mama Zouk",
-        "url": "https://open.spotify.com/album/5jdDsEXwBIIYJUymedWDCK"
-      },
-      "artists": [
-        {
-          "name": "Velours Noir",
-          "url": "https://open.spotify.com/artist/5fwmrmMYdyldKxvqlgGa2w"
-        }
-      ],
-      "duration_ms": 153817,
-      "name": "Mama Zouk",
-      "url": "https://open.spotify.com/track/31mhkMf1l4qBquDfd9OTQD"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
         "name": "Jour de F\u00eate",
         "url": "https://open.spotify.com/album/48AHyOQkXBNq5WmtrBBebU"
       },
@@ -399,6 +367,22 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
+        "name": "Ce si doux visage",
+        "url": "https://open.spotify.com/album/0W9bucc4qg1k2tslOrFDcu"
+      },
+      "artists": [
+        {
+          "name": "Notes de Nuit",
+          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
+        }
+      ],
+      "duration_ms": 199889,
+      "name": "Ce si doux visage",
+      "url": "https://open.spotify.com/track/3MFN3UgYAFTyxPENVXQjDL"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
         "name": "Bleu Entrecote",
         "url": "https://open.spotify.com/album/5KOOlRfVVHuNHQAartkRog"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 158613,
       "name": "Reine de musette",
       "url": "https://open.spotify.com/track/3bBHMiALWgT39xebBnpgJN"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
+        "name": "Mama Zouk",
+        "url": "https://open.spotify.com/album/5jdDsEXwBIIYJUymedWDCK"
+      },
+      "artists": [
+        {
+          "name": "Velours Noir",
+          "url": "https://open.spotify.com/artist/5fwmrmMYdyldKxvqlgGa2w"
+        }
+      ],
+      "duration_ms": 153817,
+      "name": "Mama Zouk",
+      "url": "https://open.spotify.com/track/31mhkMf1l4qBquDfd9OTQD"
     },
     {
       "added_at": "2026-09-11 04:00:30",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
-        "name": "Pour Zo\u00e9",
-        "url": "https://open.spotify.com/album/2MUo9E1yT7Gcl5gXisbdXL"
-      },
-      "artists": [
-        {
-          "name": "George Laffitte",
-          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
-        }
-      ],
-      "duration_ms": 118970,
-      "name": "Pour Zo\u00e9",
-      "url": "https://open.spotify.com/track/4781FCyphRO1IRYVbp8gNF"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
         "name": "Petite Fleur",
         "url": "https://open.spotify.com/album/4pqTRwa2Yscsk07QH7gCTA"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-09-11 04:00:30",
       "album": {
+        "name": "Pour Zo\u00e9",
+        "url": "https://open.spotify.com/album/2MUo9E1yT7Gcl5gXisbdXL"
+      },
+      "artists": [
+        {
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
+        }
+      ],
+      "duration_ms": 118970,
+      "name": "Pour Zo\u00e9",
+      "url": "https://open.spotify.com/track/4781FCyphRO1IRYVbp8gNF"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 182153,
       "name": "Quai aux Fleurs",
       "url": "https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn"
-    },
-    {
-      "added_at": "2026-09-11 04:00:30",
-      "album": {
-        "name": "Donne moi ta fleur",
-        "url": "https://open.spotify.com/album/0eUYB0WKygXR6vz6F5JBq7"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9andre Porcher Orchestra",
-          "url": "https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7"
-        }
-      ],
-      "duration_ms": 202132,
-      "name": "Donne moi ta fleur",
-      "url": "https://open.spotify.com/track/4uInfO1vqoQps8Si4sHZxo"
     },
     {
       "added_at": "2026-09-11 04:00:30",
@@ -939,6 +923,22 @@
       "duration_ms": 130213,
       "name": "Montagne Ste Genevieve",
       "url": "https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC"
+    },
+    {
+      "added_at": "2026-09-11 04:00:30",
+      "album": {
+        "name": "Donne moi ta fleur",
+        "url": "https://open.spotify.com/album/0eUYB0WKygXR6vz6F5JBq7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9andre Porcher Orchestra",
+          "url": "https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7"
+        }
+      ],
+      "duration_ms": 202132,
+      "name": "Donne moi ta fleur",
+      "url": "https://open.spotify.com/track/4uInfO1vqoQps8Si4sHZxo"
     }
   ],
   "unique_name": "Caf\u00e9 de Paris",

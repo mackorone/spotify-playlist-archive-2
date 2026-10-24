@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Holiday Things",
+        "url": "https://open.spotify.com/album/7yZWl9QHkgX2jntmJAAyst"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214823,
+      "name": "All You Want for Christmas is Me",
+      "url": "https://open.spotify.com/track/6f3Fxckl4Nucl8xiMNYRnB"
+    },
+    {
+      "album": {
         "name": "Almost Christmas",
         "url": "https://open.spotify.com/album/40CD9COY2O6EiaZ8busmq8"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 202440,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/1F0yahgwR4oR9uOGU6SxNa"
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 241022,
       "name": "Celebrate Me Home",
       "url": "https://open.spotify.com/track/2LhahAutVL3V699VgMXCtt"
@@ -3218,6 +3236,24 @@
       "duration_ms": 252368,
       "name": "Christmas Dirtbag",
       "url": "https://open.spotify.com/track/05lLXO1gallwajxAD4aTvE"
+    },
+    {
+      "album": {
+        "name": "christmas dream",
+        "url": "https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160991,
+      "name": "christmas dream",
+      "url": "https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP"
     },
     {
       "album": {
@@ -8854,7 +8890,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 218157,
       "name": "Hot Cocoa",
       "url": "https://open.spotify.com/track/7hTFtyYGqtJBJAHVv1oXQ9"
@@ -12330,6 +12366,24 @@
       "duration_ms": 179309,
       "name": "Make It Home",
       "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
+    },
+    {
+      "album": {
+        "name": "mall santa",
+        "url": "https://open.spotify.com/album/60lWzRhx8F2syoAFT3in6I"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207050,
+      "name": "mall santa",
+      "url": "https://open.spotify.com/track/2vEOAz8nAPVVw7Tkj51ERf"
     },
     {
       "album": {

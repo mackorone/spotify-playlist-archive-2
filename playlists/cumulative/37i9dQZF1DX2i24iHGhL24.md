@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sienna Spiro
 
-475 songs - 1 day 3 hr 18 min
+476 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Kissing You](https://open.spotify.com/track/4cTafvpYaCM3u41plC0eK4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:55 | 2023-04-14 | 2023-12-09 |
 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-08-26 | 2022-12-30 |
 | [Landslide](https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ) | [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [Landslide](https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa) | 3:45 | 2021-12-17 | 2023-10-17 |
-| [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |
+| [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 | 2026-10-24 |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2021-12-17 |  |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2022-02-18 | 2022-10-29 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-04-14 | 2024-04-13 |
@@ -441,6 +441,7 @@
 | [Under the Bridge](https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Under the Bridge](https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab) | 2:20 | 2022-01-14 | 2022-12-30 |
 | [Use Somebody](https://open.spotify.com/track/0OcRaDIJXOBj8BKllfp3Fi) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Use Somebody](https://open.spotify.com/album/27pAJ7HDxqaHr2prUTbJL9) | 4:30 | 2021-12-17 | 2022-05-02 |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-12-17 |  |
+| [Waiting for love](https://open.spotify.com/track/7Bd9L0NkPH6nJwhnNvq07X) | [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Waiting for love](https://open.spotify.com/album/5uXan79uluUOJ3PmTfnuqr) | 2:18 | 2026-10-23 |  |
 | [Walking On The Moon](https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Walking On The Moon](https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL) | 4:01 | 2022-04-15 | 2023-10-17 |
 | [Wanted \(Acoustic\)](https://open.spotify.com/track/1KZaVU9QspHnzNT3NgH9Tg) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Carmen Justice](https://open.spotify.com/artist/2JrDkW63FG9GotlYtmuwTs) | [Wanted \(Acoustic\)](https://open.spotify.com/album/48VjpRGLXZxgmmTTMTFowz) | 2:18 | 2021-12-17 | 2022-01-22 |
 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-12-17 | 2024-07-19 |

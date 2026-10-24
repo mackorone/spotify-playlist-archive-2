@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: Kuami Eugene
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,817 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,824 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Faith](https://open.spotify.com/track/52lWCfra9Lh0O1Uv2GNj09) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:26 |
 | 2 | [Ajei](https://open.spotify.com/track/5OlnZD8XkWh0LLBf3j7YUI) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Ajei](https://open.spotify.com/album/5hITjNQOr2jg5EeIykEydK) | 2:41 |
-| 3 | [ABILITY \(feat\. Medikal & beatzvampire\)](https://open.spotify.com/track/5mrALmqbMOh64jH7AJCM7U) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [beatzvampire](https://open.spotify.com/artist/3UR0BfuOeel0tp2yKDCShl) | [ABILITY \(feat\. Medikal & beatzvampire\)](https://open.spotify.com/album/2JFCHtwOJ6WkiUtV2i4AiP) | 2:19 |
+| 3 | [ABILITY \(with Medikal & beatzvampire\)](https://open.spotify.com/track/5mrALmqbMOh64jH7AJCM7U) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [beatzvampire](https://open.spotify.com/artist/3UR0BfuOeel0tp2yKDCShl) | [ABILITY \(with Medikal & beatzvampire\)](https://open.spotify.com/album/2JFCHtwOJ6WkiUtV2i4AiP) | 2:19 |
 | 4 | [Sweet](https://open.spotify.com/track/5mRnNyJe2gVLmnwdTBgT2O) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Sweet](https://open.spotify.com/album/4BA5Fi5KDPF710kQmsn78u) | 2:53 |
 | 5 | [Wings](https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Wings](https://open.spotify.com/album/0BGYDElNNZBTxdp2FZflOF) | 2:40 |
 | 6 | [Dbee](https://open.spotify.com/track/6MLlZfZr5EkI7kGocfKpU1) | [Cojo Rae](https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC) | [Gen Z Highlife](https://open.spotify.com/album/4CfTMr3MPfVoSpmrBCrHBq) | 3:26 |

@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,060 songs - 2 day 7 hr 1 min
+1,061 songs - 2 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-03-04 | 2023-08-26 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-04-23 |  |
 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2021-02-27 | 2022-09-06 |
+| [Beautiful Respite](https://open.spotify.com/track/4MAdQw1F1YVIxoRFMFjUxL) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [Beautiful Respite](https://open.spotify.com/album/2FgZALQbT51lvrhzScEOJ9) | 3:01 | 2026-10-23 |  |
 | [Beauty Rains](https://open.spotify.com/track/5SEiOGFQsL6fJAwD0AWHBJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Beauty Rains](https://open.spotify.com/album/24z9o5rVLMHLmrMyH7WUJv) | 3:31 | 2021-08-27 | 2022-07-25 |
 | [bed \(Prod\. hinata miyake from luv\) \- English ver.](https://open.spotify.com/track/1hA0JUxG9EEhmGlacEVVaV) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [hinata miyake](https://open.spotify.com/artist/7xuVwXvurcXpbiAt38b6r9) | [bed \(Prod\. hinata miyake from luv\)](https://open.spotify.com/album/74GtCFtVE80hqI9X0EyVG0) | 3:14 | 2026-10-09 |  |
 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 | 2023-03-21 |  |
@@ -614,7 +615,7 @@
 | [Midnight Blue](https://open.spotify.com/track/0GHlFvtU5ALfhCSNEtTE0T) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Midnight Blue](https://open.spotify.com/album/6SEcf0C3QO1K45Fju3dqEO) | 4:39 | 2019-07-30\* | 2021-05-27 |
 | [milk in the morning](https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [milk in the morning](https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj) | 3:10 | 2024-03-01 | 2026-02-28 |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-04-23 | 2024-08-15 |
-| [miss u](https://open.spotify.com/track/04BnXlmsxwDTEAOCn487u6) | [Charlie Cello](https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH) | [miss u](https://open.spotify.com/album/1hQHEwB6Uof1IfyzOHFwBt) | 3:44 | 2026-10-09 |  |
+| [miss u](https://open.spotify.com/track/04BnXlmsxwDTEAOCn487u6) | [Charlie Cello](https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH) | [miss u](https://open.spotify.com/album/1hQHEwB6Uof1IfyzOHFwBt) | 3:44 | 2026-10-09 | 2026-10-24 |
 | [MKP](https://open.spotify.com/track/2pDrWUk0ZU0W00Cw8290y2) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [MKP](https://open.spotify.com/album/5bKkJRL5LTQhl3BVbVrJ0U) | 3:40 | 2021-05-04 | 2021-05-28 |
 | [mmmmm](https://open.spotify.com/track/29vSgGJJgVntYlzaXdMlPT) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [soft songs](https://open.spotify.com/album/4wL7nOcMIwIY0zr7B1bEnb) | 1:16 | 2020-06-12 | 2021-05-23 |
 | [Moneymaker](https://open.spotify.com/track/5tLXBOJvOu48PjpW76VStm) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Moneymaker](https://open.spotify.com/album/5XDL6RZGrCHqt8vX49KeZU) | 3:00 | 2021-03-20 | 2021-07-26 |

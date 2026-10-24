@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Wale",
+  "description": "Chillout hip-hop vibes. Cover: Cordae & Anderson .Paak",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -1549,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
+      "album": {
         "name": "Airport Industries (feat. Wiz Khalifa)",
         "url": "https://open.spotify.com/album/6T2TXHBvgiS3uhxOTr1LuS"
       },
@@ -2410,6 +2432,24 @@
       "duration_ms": 171891,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/2QcpPRoBOlTetfjN5enbPX"
+    },
+    {
+      "album": {
+        "name": "Cucuy",
+        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214196,
+      "name": "Apple Bottom",
+      "url": "https://open.spotify.com/track/58lCbrBPDHDuQzmhzFwsG4"
     },
     {
       "album": {
@@ -5639,6 +5679,28 @@
     },
     {
       "album": {
+        "name": "SONATA",
+        "url": "https://open.spotify.com/album/2h2iQ3KaMO3XcUaYE9qktG"
+      },
+      "artists": [
+        {
+          "name": "Kolo",
+          "url": "https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG"
+        },
+        {
+          "name": "6ix",
+          "url": "https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144379,
+      "name": "Can't Imagine",
+      "url": "https://open.spotify.com/track/3wGwnb1G0Gfz7iixRFbL3i"
+    },
+    {
+      "album": {
         "name": "Can't Wake Up (Remix)",
         "url": "https://open.spotify.com/album/3ELhsTmzpNjhEpfIGrC8X9"
       },
@@ -7607,6 +7669,28 @@
     },
     {
       "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159271,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2imgEKscNLv6OKGP1HUckh"
+    },
+    {
+      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/6l2GmTQIZkDZpQuGXQqcNP"
       },
@@ -7854,6 +7938,28 @@
       "duration_ms": 205851,
       "name": "Dark Hearted",
       "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
+    },
+    {
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202458,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/3aeTGgUKXmGyGeGoEBnGhG"
     },
     {
       "album": {
@@ -11356,7 +11462,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 220927,
       "name": "FOGO",
       "url": "https://open.spotify.com/track/3oQm2dZU1bVxkQJ6tHyMhL"
@@ -15353,6 +15459,24 @@
     },
     {
       "album": {
+        "name": "I Got Problems",
+        "url": "https://open.spotify.com/album/3RbMZujN41bdqDrcb95BSl"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153642,
+      "name": "I Got Problems",
+      "url": "https://open.spotify.com/track/2NVzVC8GL44y8m3UYHQzaV"
+    },
+    {
+      "album": {
         "name": "I Hate Everything",
         "url": "https://open.spotify.com/album/7AWk5kjw2sLUKuqrKsme7o"
       },
@@ -17388,7 +17512,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 225845,
       "name": "KNOCK",
       "url": "https://open.spotify.com/track/0idGJz40xztZf3amTmEKax"
@@ -18764,6 +18888,24 @@
       "duration_ms": 258674,
       "name": "Love Is Blu",
       "url": "https://open.spotify.com/track/4cpd7sqW4Q7yypR7XWu004"
+    },
+    {
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/0hcCuwdLOc9cfcHcYPqfij"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/4IKUU6v9QkLdAD6px5cAlf"
     },
     {
       "album": {
@@ -20825,6 +20967,24 @@
     },
     {
       "album": {
+        "name": "nerissimo package",
+        "url": "https://open.spotify.com/album/6QFfaBbHljQhji9ukRVPi3"
+      },
+      "artists": [
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145525,
+      "name": "nerissimo package",
+      "url": "https://open.spotify.com/track/6BxvbgBsI2kjLxWVeis4DU"
+    },
+    {
+      "album": {
         "name": "I've Never Been Here Before",
         "url": "https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB"
       },
@@ -20978,7 +21138,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160501,
       "name": "New Life",
       "url": "https://open.spotify.com/track/5tFO2Q2PNRZafF76yrH9jc"
@@ -28818,7 +28978,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 246074,
       "name": "Still Loading",
       "url": "https://open.spotify.com/track/4Xq6PxoSZ29DryBtsA13c4"

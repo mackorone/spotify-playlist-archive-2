@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: The Avalanches",
+  "description": "Genre-less. Quality first always. Cover: Khal!l",
   "name": "POLLEN",
   "tracks": [
     {
@@ -12094,7 +12094,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 117857,
       "name": "child of an immigrant",
       "url": "https://open.spotify.com/track/10VHgngkMOXJUSrt16Onaw"
@@ -13470,7 +13470,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 222840,
       "name": "Coming Home (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
@@ -19488,7 +19488,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 283386,
       "name": "elmyra",
       "url": "https://open.spotify.com/track/5pedzmyyKGTs8PV23dnvbc"
@@ -19560,7 +19560,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 258692,
       "name": "Emperor XIII in Shades - Live at Carnegie Hall",
       "url": "https://open.spotify.com/track/6UIqRlYsnQVpWzCD1GkoeX"
@@ -21298,7 +21298,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160360,
       "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
       "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
@@ -27967,6 +27967,24 @@
     },
     {
       "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
+    },
+    {
+      "album": {
         "name": "Heaven Hanging Low",
         "url": "https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk"
       },
@@ -31255,6 +31273,24 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
@@ -31879,6 +31915,24 @@
     },
     {
       "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271500,
+      "name": "I'll Walk",
+      "url": "https://open.spotify.com/track/0iWnzPWL7aO7VCgFIti51O"
+    },
+    {
+      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -32424,6 +32478,24 @@
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
+    },
+    {
+      "album": {
+        "name": "Oh, The Doubt Among Us",
+        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "IF ONLY",
+      "url": "https://open.spotify.com/track/6OqosV4EUfxY0mOF8aKk9W"
     },
     {
       "album": {
@@ -34139,6 +34211,24 @@
     },
     {
       "album": {
+        "name": "Jamie / Troublemakers",
+        "url": "https://open.spotify.com/album/2LjVgNnSy6unSsJtr8GxZp"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/5gTlY1G4ePYjsBHn4aNl6S"
+    },
+    {
+      "album": {
         "name": "January Sweetheart",
         "url": "https://open.spotify.com/album/2DmxoaPuKOTZwQJvZWTYKP"
       },
@@ -34412,7 +34502,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210028,
       "name": "Jersey (feat. Jam City)",
       "url": "https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk"
@@ -36312,6 +36402,28 @@
       "duration_ms": 138311,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/2S7ORjggE2JPyamVM7FKio"
+    },
+    {
+      "album": {
+        "name": "lavender (feat. 1tbsp)",
+        "url": "https://open.spotify.com/album/518H69Kdfi6duC9lO2llQw"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "lavender (feat. 1tbsp)",
+      "url": "https://open.spotify.com/track/1AZOd5a60670CtyMCVMb0y"
     },
     {
       "album": {
@@ -43085,6 +43197,24 @@
     },
     {
       "album": {
+        "name": "Muney",
+        "url": "https://open.spotify.com/album/5IkEyDwUARKRbj8XOpnYBX"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Muney",
+      "url": "https://open.spotify.com/track/3L4fYfVOnxBtFN174rC0Bs"
+    },
+    {
+      "album": {
         "name": "Music and Me",
         "url": "https://open.spotify.com/album/1TGE1fYvsSXrLabduuvPdJ"
       },
@@ -49013,6 +49143,28 @@
     },
     {
       "album": {
+        "name": "LK99+ DELUXE",
+        "url": "https://open.spotify.com/album/0i1UCnrf20ijJm8IEUsr66"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186421,
+      "name": "PIECES (+ Lucky Daye)",
+      "url": "https://open.spotify.com/track/0JSXogjNKHtEBDf0McymSu"
+    },
+    {
+      "album": {
         "name": "Pieces Of A Dream",
         "url": "https://open.spotify.com/album/7uCnCAztzPYMtlNOEBLjqM"
       },
@@ -51124,7 +51276,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 378945,
       "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
       "url": "https://open.spotify.com/track/5m1V6BHPqQr9yNNoMfkdot"
@@ -54222,7 +54374,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 204200,
       "name": "Sargasso Sea",
       "url": "https://open.spotify.com/track/4Oy185yBcxHHi5x2sa6iiv"
@@ -54536,6 +54688,24 @@
       "duration_ms": 172059,
       "name": "SAVING GRACE",
       "url": "https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF"
+    },
+    {
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161529,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP"
     },
     {
       "album": {
@@ -62692,7 +62862,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 207692,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/4mlJPRX7pJ00ZhnSdTHiJg"
@@ -65796,6 +65966,24 @@
       "duration_ms": 178780,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq"
+    },
+    {
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0u1VWER8zknxwY5eu701Rr"
+      },
+      "artists": [
+        {
+          "name": "PUSHBACK",
+          "url": "https://open.spotify.com/artist/5LJRqROVpf8LiTbUD9MetW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324349,
+      "name": "Triple Seven",
+      "url": "https://open.spotify.com/track/79OBnF7NRMbO1zSNIybdfq"
     },
     {
       "album": {
@@ -70534,7 +70722,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 285139,
       "name": "Winter Waiting",
       "url": "https://open.spotify.com/track/1ok5pQhSxf9jTOaFNborSj"

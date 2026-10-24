@@ -4,7 +4,7 @@
 
 > New and recent favorites of Progressive Metal\. Cover: Enslaved
 
-890 songs - 3 day 4 hr 31 min
+891 songs - 3 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [At the behest of night](https://open.spotify.com/track/54549MU3UapPjbGzY3PUXq) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [At the behest of night](https://open.spotify.com/album/2rq8tI4CdZUcha8VioRobG) | 5:03 | 2021-12-17 | 2022-07-28 |
 | [At the behest of night](https://open.spotify.com/track/7fHFdpyc17WghB8DAicz6S) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 5:03 | 2022-09-02 | 2023-01-21 |
 | [At the Behest of Origins](https://open.spotify.com/track/1T3tO7bdsMwlA8W4hWbXwE) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [At the Behest of Origins](https://open.spotify.com/album/6WdZ2mbYCKFIB8NcTOJUef) | 4:32 | 2021-12-17 | 2022-01-22 |
-| [At The Edge Of Winter](https://open.spotify.com/track/70wdYizX9TISjAcjw7DjzL) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO), [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [At The Edge Of Winter](https://open.spotify.com/album/0wrUCXTDj3AesrDJkbVAej) | 6:42 | 2025-11-07 |  |
+| [At The Edge Of Winter](https://open.spotify.com/track/3iv0fr8pMGnjU9JB64Gn32) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO), [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Genotype](https://open.spotify.com/album/6Rtb6kGCLxFJiknApNXuxZ) | 6:42 | 2026-10-19 |  |
+| [At The Edge Of Winter](https://open.spotify.com/track/70wdYizX9TISjAcjw7DjzL) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO), [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [At The Edge Of Winter](https://open.spotify.com/album/0wrUCXTDj3AesrDJkbVAej) | 6:42 | 2025-11-07 | 2026-10-24 |
 | [At the End](https://open.spotify.com/track/0Wc3gD4Fp7TNiX5AmBFbEO) | [Recode the Subliminal](https://open.spotify.com/artist/68FB6q7XC6TDdyMeGmH5Yo) | [The Cost of Every Man](https://open.spotify.com/album/4XoPUpQ9mzPFKwDvCVZMEP) | 3:58 | 2021-12-17 | 2022-01-27 |
 | [Atonement](https://open.spotify.com/track/6qpV9y4hLYXoM0MEWwf0rR) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Atonement](https://open.spotify.com/album/3E4LUxzT8WeKm3JYpLYQXu) | 4:49 | 2024-06-10 | 2026-05-16 |
 | [Atropos](https://open.spotify.com/track/0pfbHUS1He5Mjt0EmP8Mrl) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/7sB6EpMHLkV8POwkBM4tjB) | 8:23 | 2024-03-29 | 2026-05-16 |

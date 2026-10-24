@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,985 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,989 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 45 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
 | 46 | [Kanebo Kering](https://open.spotify.com/track/7KWNzwt17jrydxTkSB5VZD) | [Kuburan](https://open.spotify.com/artist/7GuqVpODs8wCyUXNDCLhkb) | [JASS FRIEND](https://open.spotify.com/album/2qZpBiwLuXXqtiBoz7Hv5i) | 2:57 |
 | 47 | [Broken Symphony](https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Divine](https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI) | 4:22 |
-| 48 | [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 |
-| 49 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
+| 48 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
+| 49 | [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 |
 | 50 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:08 |
 
 Snapshot ID: `AAAAAFx7X4V/vVBe+RhE4bf0BqssJWZk`

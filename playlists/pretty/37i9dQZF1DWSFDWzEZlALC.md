@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,777 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,815 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 0:00 |
+| 1 | [Gutmensch](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 2:24 |
 | 2 | [Für mich da](https://open.spotify.com/track/62uqgOBogBNLWhffFgoALj) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Kein Streit den man nicht lösen kann](https://open.spotify.com/album/61jMt8HC8MpJ2at4ebO1K8) | 2:59 |
 | 3 | [Mein Herz](https://open.spotify.com/track/4DWLDnKIh6vjK21vCGOCug) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Mein Herz](https://open.spotify.com/album/4wGNg9YAiI3v0GTUqQ299V) | 4:41 |
 | 4 | [SINTFLUT](https://open.spotify.com/track/3A212eMwxxYV8BLR29k70e) | [ENNI](https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW) | [SINTFLUT](https://open.spotify.com/album/2bzYyRlO6oef8V2dEQlhFg) | 2:29 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 13 | [Unter den Sternen](https://open.spotify.com/track/1CFl2PtJQ0GZHP86CRTyg2) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [Unter den Sternen](https://open.spotify.com/album/0skwJA3jKmGYsi82Tipt7K) | 2:36 |
 | 14 | [Indieboy\(asi\)](https://open.spotify.com/track/2J11MicMJBtkqN9rNCnf5K) | [Flippa](https://open.spotify.com/artist/1OSyu00oMiLJ75S00YnB9b), [wavybaby](https://open.spotify.com/artist/7lsuavUrl2S4MCpQ5aYQgF) | [Indieboy\(asi\)](https://open.spotify.com/album/5tIzTm6y1dcr7pXvFMnMdR) | 2:12 |
 | 15 | [wenigstens für jetzt](https://open.spotify.com/track/0pbdMK8Pix2NfRSkbTVZ72) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wenigstens für jetzt](https://open.spotify.com/album/5Pq4onkgUufE1MH3PAXQjH) | 2:26 |
-| 16 | [Track 6](https://open.spotify.com/track/6f76RjbZpibIhpUv0oWXMH) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Aus Der Kalten](https://open.spotify.com/album/2AAQVlkzEAKwpv3Zj43kkM) | 0:00 |
+| 16 | [Das Jahr War Schon Lang](https://open.spotify.com/track/6f76RjbZpibIhpUv0oWXMH) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV), [Audio88](https://open.spotify.com/artist/4YlBDllKcEFrLtby1mqaEK) | [Aus Der Kalten](https://open.spotify.com/album/2AAQVlkzEAKwpv3Zj43kkM) | 3:15 |
 | 17 | [BEL AMI](https://open.spotify.com/track/1WCfhEsAlPbZvpFC3ELQb3) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [BEL AMI](https://open.spotify.com/album/5PcEwHrnUx9ymDBNljyzgZ) | 2:20 |
 | 18 | [Cry Baby Cry](https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Cry Baby Cry](https://open.spotify.com/album/6iIBPT7er93Tii1o764t7j) | 3:08 |
 | 19 | [ALLES WAS ICH HASS](https://open.spotify.com/track/6J7Q0gOTdEtH5AJHZOrJ7P) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [Die kleinste Stadt](https://open.spotify.com/album/07OJjbzHj4Cd4xF3IQB67H) | 2:32 |

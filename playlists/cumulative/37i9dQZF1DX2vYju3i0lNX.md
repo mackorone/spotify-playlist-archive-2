@@ -4,7 +4,7 @@
 
 > Mellow jazz for focus or unwinding.
 
-1,403 songs - 3 day 10 hr 26 min
+1,407 songs - 3 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Almost Like Being In Love](https://open.spotify.com/track/3cOtGzGlzFl6qc8WFWfKhO) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Almost Like Being In Love](https://open.spotify.com/album/3yB5yoStWjbIvqlS5hOAXl) | 2:48 | 2023-01-05 | 2025-11-19 |
 | [Almost Then Again](https://open.spotify.com/track/0a88jtjco6o3ICLz79rp3i) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Almost Then Again](https://open.spotify.com/album/6SDkBs0FYBbk7UUGgX1iys) | 3:18 | 2026-04-24 |  |
 | [Almost Tomorrow](https://open.spotify.com/track/2rv9cIy5QhL71Z6opTfQGU) | [Night Current](https://open.spotify.com/artist/2UZE6F0C8uKiUUm6cz2pu5) | [Almost Tomorrow](https://open.spotify.com/album/6Jt5O3so2snD5gDnS8NecU) | 4:06 | 2026-03-13 |  |
+| [Along the way](https://open.spotify.com/track/4db7xuyC3RqmPMRnQ1aUVV) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Along the way](https://open.spotify.com/album/6ZvopNtQ6N2MTpjzh0ekYj) | 3:34 | 2026-10-23 |  |
 | [Always Already](https://open.spotify.com/track/6ui7GjvFm6BMVssbpU3SF7) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Always Already](https://open.spotify.com/album/3iVN7ehAiu6uErPZWzkOCm) | 2:28 | 2024-08-19 | 2026-01-15 |
 | [Always Paris](https://open.spotify.com/track/7axnFTbwWg0Qenx9aFTB8G) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Always Paris](https://open.spotify.com/album/254TGRCoEAhPX4ztHhyhp3) | 3:04 | 2026-05-29 |  |
 | [Amble](https://open.spotify.com/track/5mqn7zmKnNjHvmsg1OSgnq) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Amble](https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s) | 4:12 | 2022-11-10 | 2023-06-16 |
@@ -984,6 +985,7 @@
 | [Rising Apple Tree of Hope](https://open.spotify.com/track/3lXhXavD2xl20yELJfAT3U) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Rising Apple Tree of Hope](https://open.spotify.com/album/5EBSKClKn3AF6vEwiRqbYz) | 2:49 | 2022-08-30 | 2024-08-07 |
 | [Riverbed Reverie](https://open.spotify.com/track/4tVMhRSZj9S13VInXxFCxf) | [Clifford Randall Sextet](https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm) | [Riverbed Reverie](https://open.spotify.com/album/1y8gJlET7fkMddu3h46zHw) | 3:42 | 2025-11-25 | 2026-08-22 |
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 | 2025-11-19 |
+| [Roses](https://open.spotify.com/track/0t6f4cmGuIlEiEJYTrQZjy) | [Weston Avenue Band](https://open.spotify.com/artist/0HsAhtvlcTwuNnURHk16FI) | [Roses](https://open.spotify.com/album/1YjiXXQpeiD6Hs4q6mc2Yv) | 2:56 | 2026-10-23 |  |
 | [Rumours](https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Rumours](https://open.spotify.com/album/3su5gCbreTh9gZXPGK0JLZ) | 3:20 | 2023-04-20 | 2025-11-19 |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-02 | 2025-11-19 |
 | [Sailing Stones](https://open.spotify.com/track/73JetyewsVF0A1e2wEBzU6) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Sailing Stones](https://open.spotify.com/album/5be5TnG6tg6gRfx09QinvK) | 3:20 | 2024-05-10 | 2024-09-03 |
@@ -1030,6 +1032,8 @@
 | [Slow Dance](https://open.spotify.com/track/5AbIjlheQPOLLgGanARp5h) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Slow Dance](https://open.spotify.com/album/6UqEbtOPsQfr9dgxNJjSLy) | 3:53 | 2023-09-08 | 2025-11-19 |
 | [Slow fox](https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Slow fox](https://open.spotify.com/album/7IUSsZavpXkMkTx19eJaiA) | 3:35 | 2023-09-22 | 2024-11-26 |
 | [Slow river light](https://open.spotify.com/track/2MGhTdy3BodR1ANJNAIvFl) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Slow river light](https://open.spotify.com/album/7Ifpn0ro1xOH0DYFpFz0TA) | 3:21 | 2026-08-21 |  |
+| [Slumber for Two](https://open.spotify.com/track/2OZGhEewayLE8S5wvRWAAq) | [Odyssey Quartet](https://open.spotify.com/artist/4d7dGQmLdVYGRTddHREtlX) | [Slumber for Two](https://open.spotify.com/album/0bFTLWEQBMOvWzh2TI7NDB) | 3:33 | 2026-10-23 |  |
+| [Small Fry](https://open.spotify.com/track/29OZoGQi4reTO1nAx3D88J) | [Robert Nilsson Trio](https://open.spotify.com/artist/1ypkjC4yyrVncXd4e3RTcd) | [Small Fry](https://open.spotify.com/album/5tYGAa7Ceo1qYkGg3xUesD) | 3:46 | 2026-10-23 |  |
 | [Small Steps](https://open.spotify.com/track/4OpfAngpSybDsNk7TTaO1B) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Small Steps](https://open.spotify.com/album/1GI9Bz7hFaoAn9Ugy9D0hA) | 3:32 | 2022-11-10 | 2025-07-24 |
 | [Smarter Than Advertised](https://open.spotify.com/track/0vq11xwVzMfkHhhECA1YJq) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Smarter Than Advertised](https://open.spotify.com/album/1Oo6tU4FjDATGNkqdGGqQR) | 3:20 | 2024-07-22 | 2026-02-14 |
 | [Smile](https://open.spotify.com/track/62fsGTb05ahHcBN3alxd6F) | [Daniel Rhodes Trio](https://open.spotify.com/artist/7DRDSl6BZTpidZxh1IVZZO) | [Smile](https://open.spotify.com/album/5ara2FkUXVfILKnRdQcZsb) | 4:19 | 2021-12-07 | 2022-12-24 |

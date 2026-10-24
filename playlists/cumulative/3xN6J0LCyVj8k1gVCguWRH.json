@@ -32874,7 +32874,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 157241,
       "name": "EmDoS",
       "url": "https://open.spotify.com/track/1ggzxSSVU50CPQudjQZWfm"
@@ -35846,7 +35846,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 148225,
       "name": "Faraway",
       "url": "https://open.spotify.com/track/69mPudOB8v6ZTkDQDXsw3u"
@@ -38976,6 +38976,28 @@
       "duration_ms": 131114,
       "name": "For Love and Country",
       "url": "https://open.spotify.com/track/7C5WlEYLeGPARdQrahxPBd"
+    },
+    {
+      "album": {
+        "name": "For Love, For War",
+        "url": "https://open.spotify.com/album/5xXN8duJjfqS4qdxpeX7BI"
+      },
+      "artists": [
+        {
+          "name": "Maudlin Strangers",
+          "url": "https://open.spotify.com/artist/4KNxadN8IN1sYO7CWAOjoH"
+        },
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189969,
+      "name": "For Love, For War",
+      "url": "https://open.spotify.com/track/1ksIjDjegcsk273oQYN3r2"
     },
     {
       "album": {
@@ -50668,7 +50690,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 148704,
       "name": "I Could Be",
       "url": "https://open.spotify.com/track/3QPaEqcjR8wcHUrC8V0uoe"
@@ -55466,6 +55488,24 @@
       "duration_ms": 242307,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/32WeCOiQmzP7wVt1cDryIZ"
+    },
+    {
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/13NQZm2jmXlYpMchbV2KsC"
+      },
+      "artists": [
+        {
+          "name": "Molly Bogin",
+          "url": "https://open.spotify.com/artist/2rncvbp37DOzoTdYQc2Qrq"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Insomniac",
+      "url": "https://open.spotify.com/track/1vN1MQ9bprWHPCRZKzT1TW"
     },
     {
       "album": {
@@ -61366,6 +61406,24 @@
       "duration_ms": 311880,
       "name": "Let 'Em In - 2014 Remaster",
       "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
+    },
+    {
+      "album": {
+        "name": "The Way Up",
+        "url": "https://open.spotify.com/album/0zSr4MjUcMl6ZOrMq5gMCQ"
+      },
+      "artists": [
+        {
+          "name": "Adelide",
+          "url": "https://open.spotify.com/artist/0zXhxzXds0Ea3AUz5063hL"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244773,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3Y3R0IiKQxQj1xy06A6HdT"
     },
     {
       "album": {
@@ -94572,7 +94630,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 196918,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/3uVV5t6QkRdJLJ5KQhKfd8"
@@ -109527,6 +109585,24 @@
     },
     {
       "album": {
+        "name": "The Way Up",
+        "url": "https://open.spotify.com/album/0zSr4MjUcMl6ZOrMq5gMCQ"
+      },
+      "artists": [
+        {
+          "name": "Adelide",
+          "url": "https://open.spotify.com/artist/0zXhxzXds0Ea3AUz5063hL"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151013,
+      "name": "The Way Up",
+      "url": "https://open.spotify.com/track/34LNbbgvtKftCWUwh2ZXoT"
+    },
+    {
+      "album": {
         "name": "Soul Queen",
         "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
       },
@@ -114798,7 +114874,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 202500,
       "name": "Una Vez",
       "url": "https://open.spotify.com/track/3bndYuSoq7nlyrF3vGstIH"

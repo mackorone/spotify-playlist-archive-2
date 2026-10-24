@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-431 songs - 21 hr 41 min
+432 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 | 2026-06-18 |  |
 | [nie mam dla ciebie nic](https://open.spotify.com/track/0CrP2iqI8dOZG75eLtr2LX) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [nie mam dla ciebie nic](https://open.spotify.com/album/2SOM72XykpsANO0wWmOoU0) | 2:41 | 2025-02-07 | 2025-05-04 |
 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 | 2024-09-20 | 2025-05-21 |
+| [Nie mówcie mi jak mam kochać](https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v) | [Larah](https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp) | [Nie mówcie mi jak mam kochać](https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK) | 2:54 | 2026-10-02 |  |
 | [Nie mówię tak, nie mówię nie](https://open.spotify.com/track/35zrCdjDsVSuTvqjz1wrzA) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs), [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Nie mówię tak, nie mówię nie](https://open.spotify.com/album/3p5a6AcHEnFJS9Fl0EQMRd) | 2:39 | 2025-03-21 | 2026-03-28 |
 | [NIE MÓWIŁA NIC](https://open.spotify.com/track/5RFe2B5H3E3ZNYL0gn04JU) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [NIE MÓWIŁA NIC](https://open.spotify.com/album/3Bb29LKGzT3DfKyvB4QR4l) | 2:28 | 2024-06-28 | 2024-11-09 |
 | [Nie pozwolę Ci wyjść](https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Nie pozwolę Ci wyjść](https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd) | 2:41 | 2025-10-03 | 2025-11-08 |
@@ -291,7 +292,7 @@
 | [Personal Torture](https://open.spotify.com/track/1pV1rRJhXFovH0m5UcgDLO) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Personal Torture](https://open.spotify.com/album/4oWCEOTZUZPnYuwCaEXV8C) | 2:22 | 2025-01-17 | 2025-01-25 |
 | [Petrichor](https://open.spotify.com/track/2daYZAdnqxSlCFyCSnKlms) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f), [Monika Lewczuk](https://open.spotify.com/artist/2VF2TyrEMWX4IajxwKNPkX) | [Petrichor](https://open.spotify.com/album/4QKiPdH13ohhoEb9eWgBUR) | 3:10 | 2025-03-28 | 2025-05-20 |
 | [Pełen Bak](https://open.spotify.com/track/2v9TRUcnhmH7jG51x2jtrj) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [Pełen Bak](https://open.spotify.com/album/6v8iOkZs0ytWRQNTJ2jDeR) | 2:18 | 2025-01-24 | 2025-02-08 |
-| [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 | 2026-10-02 |  |
+| [Pick me baby](https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [Pick me baby](https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW) | 3:23 | 2026-10-02 | 2026-10-24 |
 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 | 2026-01-23 | 2026-09-19 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-07 | 2025-08-09 |
 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 | 2025-08-08 | 2026-06-19 |

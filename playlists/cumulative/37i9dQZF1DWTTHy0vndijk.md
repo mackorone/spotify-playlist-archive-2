@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Hearts2Hearts\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: MINNIE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-569 songs - 1 day 6 hr 48 min
+570 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-07-04 | 2023-02-04 |
 | [CAPPUCCINO](https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [CAPPUCCINO](https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr) | 2:57 | 2025-10-29 | 2025-11-22 |
 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 |  |
-| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-11 |  |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-11 | 2026-10-24 |
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
 | [CEREMONY](https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [4th Mini Album 'CEREMONY'](https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI) | 3:16 | 2026-05-04 | 2026-06-04 |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
@@ -326,7 +326,7 @@
 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 | 2021-11-29 | 2024-07-06 |
 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 | 2025-04-09 | 2025-06-28 |
 | [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-04-17 | 2024-05-06 |
-| [Next Chapter](https://open.spotify.com/track/0eTzMGetnDvA6G3QpQc2d4) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Next Chapter](https://open.spotify.com/album/1bbff8xB6Bk59qgFqON2BT) | 2:49 | 2026-10-16 |  |
+| [Next Chapter](https://open.spotify.com/track/0eTzMGetnDvA6G3QpQc2d4) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Next Chapter](https://open.spotify.com/album/1bbff8xB6Bk59qgFqON2BT) | 2:49 | 2026-10-16 | 2026-10-24 |
 | [NINETEEN](https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g) | 3:03 | 2021-11-29 | 2022-07-29 |
 | [No Oh Oh](https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Nu.Clear](https://open.spotify.com/album/2Izm951aqeQTSHrJW0hZ16) | 3:43 | 2021-11-29 | 2022-04-14 |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-07-04 | 2026-05-20 |
@@ -377,7 +377,7 @@
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 | 2023-01-06 |
 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 | 2021-11-29 | 2022-04-20 |
 | [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-08 |  |
-| [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-09-24 | 2026-10-17 |
+| [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-09-24 |  |
 | [PROMISE \(for UNICEF Promise Campaign\)](https://open.spotify.com/track/2Gceplet3jzhweUib54mhf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [EVERGLOW FOR UNICEF PROMISE CAMPAIGN](https://open.spotify.com/album/1Sp9Cm6n0ZzTAuwAKCS0Wd) | 3:34 | 2021-11-29 | 2022-07-29 |
 | [Psycho](https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Psycho \(From "Operation: True Love"\)](https://open.spotify.com/album/2nanNUoMsYRnX9U6jvdUkw) | 2:11 | 2025-11-21 | 2026-01-29 |
 | [Pure Love](https://open.spotify.com/track/5pjRQhcBP1fJkJt1lIluWK) | [Seorina](https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP) | [MARHEN.J : SUSTAIN](https://open.spotify.com/album/5E2gfnDgVuApKHVnmyswjB) | 3:13 | 2022-07-08 | 2022-07-29 |
@@ -500,6 +500,7 @@
 | [To Heart](https://open.spotify.com/track/3PIzI4Bl2b7oZloFWTPAna) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:08 | 2021-11-29 | 2022-07-25 |
 | [To My Boyfriend](https://open.spotify.com/track/2WuD4tAn8iCscm1EuZvVWr) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [To My Boyfriend](https://open.spotify.com/album/35tJGKUZuTosrpnCaKghCD) | 3:23 | 2023-10-24 | 2023-11-07 |
 | [To Reach You](https://open.spotify.com/track/39vr6WFmhE3juhrcDkQ9fu) | [Memory Fabricators](https://open.spotify.com/artist/7H7jQxAxVm0E8zzP92riSI) | [PRODUCE 48 \- 30 Girls 6 Concepts](https://open.spotify.com/album/1WzVAxZWm3JDNbI0jzk0dF) | 3:30 | 2022-02-14 | 2022-07-19 |
+| [to the moon :\)](https://open.spotify.com/track/698VZCnbPlyHyMzdgW9eXU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [i love you to the moon and back](https://open.spotify.com/album/5t3ccy97ysIsyQy7Zch0cM) | 3:47 | 2026-10-23 |  |
 | [To\. My First Love](https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 3:30 | 2026-03-05 | 2026-05-13 |
 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 | 2024-10-11 |  |
 | [Triangle](https://open.spotify.com/track/442KH2XPdpjhrj2AiqFB6l) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Fall in Lovelyz](https://open.spotify.com/album/5arTUoeVhoeHrRRXTjWoGA) | 3:30 | 2021-11-29 | 2022-07-24 |

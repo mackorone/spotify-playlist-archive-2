@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Jude York
 
-3,138 songs - 6 day 18 hr 37 min
+3,139 songs - 6 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 | 2024-06-20 | 2024-07-19 |
 | [Code Blue](https://open.spotify.com/track/53tQznOc7t4b9XoMmtjkWP) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Code Blue](https://open.spotify.com/album/5mxTtEaBXswFmtSvRzym2o) | 3:19 | 2026-05-15 | 2026-06-12 |
 | [Cognitive Dissonance](https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Spellbook](https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K) | 2:29 | 2025-12-18 | 2026-02-13 |
-| [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ilsey Juber](https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 | 2026-10-22 |  |
+| [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 | 2026-10-22 |  |
 | [cold medicine](https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [cold medicine](https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz) | 3:27 | 2024-06-13 | 2024-07-19 |
 | [collide](https://open.spotify.com/track/5MDjnOt0WLXp4GD56V1FUK) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [collide](https://open.spotify.com/album/5wGOOWVGtpcZrL4SuCLtQd) | 2:51 | 2024-10-03 | 2024-11-22 |
 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-17 | 2025-09-05 |
@@ -2951,6 +2951,7 @@
 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-06-28 | 2026-08-14 |
 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 | 2024-07-12 |
 | [Water Under The Bridge](https://open.spotify.com/track/2bII2VIUZ1jI2MvBoDzfKZ) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love \(Deluxe\)](https://open.spotify.com/album/4yo87qxXaDkzncFiujO60E) | 2:13 | 2025-05-29 | 2025-07-11 |
+| [Water, Shelter, Oxygen](https://open.spotify.com/track/1QgbO0gGOT1zZAEuvXrhEc) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41) | [Water, Shelter, Oxygen](https://open.spotify.com/album/3YiFTvQ12qioSobqb9pQlu) | 2:54 | 2026-10-23 |  |
 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2024-01-25 | 2024-02-16 |
 | [Way Up](https://open.spotify.com/track/4iVtDkLB9g20svdICYKNyp) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Way Up](https://open.spotify.com/album/5WnzFQMZnCenPaMmkjQ7J1) | 2:33 | 2025-02-07 | 2025-03-14 |
 | [Way We Move](https://open.spotify.com/track/2ErfAQ6YUGZz30MSEt2sxe) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Way We Move](https://open.spotify.com/album/0esnJlYUVMGwyowszBnKQa) | 3:41 | 2024-02-01 | 2024-02-16 |

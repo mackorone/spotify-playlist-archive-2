@@ -1,13 +1,41 @@
 {
   "description": "Damn son, where'd ya find this? ",
-  "num_followers": 334022,
+  "num_followers": 334030,
   "original_name": "Raw & Uncut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKaidDvCFzE3Lx8OkTf0t+h6i+e2",
+  "snapshot_id": "AAAAABrgNazMMeHdhW6d0c6z5Er4j65b",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:00:27",
+      "album": {
+        "name": "Stakes Is High (30th Anniversary)",
+        "url": "https://open.spotify.com/album/1VTEE6z34aENJ0kpfnDYHu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        {
+          "name": "Truth Enola",
+          "url": "https://open.spotify.com/artist/25PBb7uSJlvQ0meRfDVnIu"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Stakes Is High - J Dilla Remix",
+      "url": "https://open.spotify.com/track/3yDdwh1Iuyh1nAFBJLvzuL"
+    },
     {
       "added_at": "2026-09-18 04:00:47",
       "album": {
@@ -1435,22 +1463,6 @@
     {
       "added_at": "2026-09-18 04:00:47",
       "album": {
-        "name": "Labor Days",
-        "url": "https://open.spotify.com/album/3zJMNOxnbHWG2rZwswnSM2"
-      },
-      "artists": [
-        {
-          "name": "Aesop Rock",
-          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/05GnmzpvnAUwnXuOQ5OTop"
-    },
-    {
-      "added_at": "2026-09-18 04:00:47",
-      "album": {
         "name": "Liberation 2",
         "url": "https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn"
       },
@@ -1816,7 +1828,7 @@
           "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
         },
         {
-          "name": "Niko Is",
+          "name": "NIKO IS",
           "url": "https://open.spotify.com/artist/7Ci28o541njEn2byuNfjfs"
         },
         {

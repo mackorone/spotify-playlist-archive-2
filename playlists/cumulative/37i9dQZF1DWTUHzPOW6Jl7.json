@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197637,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/5scKH7NkdxmDMkDyCITr8A"
+    },
+    {
+      "album": {
         "name": "Desire - Spotify Singles",
         "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
@@ -4955,6 +4973,24 @@
     },
     {
       "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224690,
+      "name": "SO MUCH, SO MUCH",
+      "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
+    },
+    {
+      "album": {
         "name": "Soft Girl Era",
         "url": "https://open.spotify.com/album/5jBlZoU6wTgDDsNyr8PZwO"
       },
@@ -5010,7 +5046,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 325573,
       "name": "Soldier (feat. T.I. & Lil' Wayne)",
       "url": "https://open.spotify.com/track/0DlVOdK5GJtnom4nI3EOz5"

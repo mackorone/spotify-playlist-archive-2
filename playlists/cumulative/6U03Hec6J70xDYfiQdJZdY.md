@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-96 songs - 5 hr 6 min
+97 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Debussy : Suite bergamasque : III Clair de lune](https://open.spotify.com/track/5VXqnaVDKEFazcDt57pcVY) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [James Rhodes](https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh) | [Bullets & Lullabies](https://open.spotify.com/album/0vjjWk3CsuOIx3Na9pSrm2) | 5:57 | 2025-10-16 |  |
 | [Debussy: Arabesque No\. 1](https://open.spotify.com/track/6tLObgg6Uzqo0LINIodq0F) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Aurélien Pontier](https://open.spotify.com/artist/0v3FoXQEW6STimjWkCrbTo) | [Debussy: Arabesque No\. 1](https://open.spotify.com/album/6fzX8dIRoNXEyeeLoim7Kh) | 3:30 | 2025-10-16 |  |
 | [Debussy: Rêverie, CD 76, L\. 68](https://open.spotify.com/track/0PO9GJ0lOcJeA3Nv60BelK) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [The Proust Album \- Debussy: Rêverie](https://open.spotify.com/album/7d5VSPSshcqcYx8CVEyipv) | 3:53 | 2025-10-16 |  |
-| [Desplat: Girl with a Pearl Earring](https://open.spotify.com/track/6OHaWxG6PcMend1woo03WW) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Emmanuel Pahud](https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq), [Orchestre National De France](https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M) | [Airlines \- Girl with a Pearl Earring](https://open.spotify.com/album/1YKJyiTaAJqiZ5eXqDw7TI) | 7:26 | 2025-10-16 |  |
+| [Desplat: Girl with a Pearl Earring](https://open.spotify.com/track/6OHaWxG6PcMend1woo03WW) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Emmanuel Pahud](https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq), [Orchestre national de France](https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M) | [Airlines \- Girl with a Pearl Earring](https://open.spotify.com/album/1YKJyiTaAJqiZ5eXqDw7TI) | 7:26 | 2025-10-16 |  |
 | [Dvorak \- Theme from Largo of "The New World Symphony"](https://open.spotify.com/track/1HdR3nT5nehBD1MoCP0bl7) | [Joshua Leeds](https://open.spotify.com/artist/575iVccJswn9G8quswWP80) | [Relax and De\-Stress](https://open.spotify.com/album/6HoEHN2cE9F2p9Ie6h8ccs) | 5:00 | 2026-07-02 |  |
 | [Echoes](https://open.spotify.com/track/2PYyoWPyuO5DbEIsMDGLDs) | [Olexandr Ignatov](https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG) | [Echoes](https://open.spotify.com/album/1nAxhkUmDivcwWH4wx1JSg) | 2:24 | 2026-01-12 |  |
 | [Einaudi: I giorni](https://open.spotify.com/track/2UvpD4YYxCi27MlwDy1kvs) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Einaudi: I giorni](https://open.spotify.com/album/3D5DFh4FC3IpIEfNwV0JkS) | 6:58 | 2025-10-16 |  |
@@ -57,6 +57,7 @@
 | [Magical Violet](https://open.spotify.com/track/1ZddxOayH4wt8dFKjDcJyG) | [James Malikey](https://open.spotify.com/artist/2EyDwUM5rybE4PoBmsbKKw) | [Magical Violet](https://open.spotify.com/album/12hPtdcCE1CG2RYsVE8G9q) | 2:22 | 2025-10-16 |  |
 | [Memories](https://open.spotify.com/track/5aUSC9mvDVKzfTwCK0vzIC) | [Robert Gromotka](https://open.spotify.com/artist/3O0m1fz3mncIqJ2JmHIbH6), [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Memories](https://open.spotify.com/album/1RdwbcEOgga2yyjSEyLGNk) | 2:07 | 2025-10-16 |  |
 | [Memories](https://open.spotify.com/track/3v30vhrt2ujqzuUaOUf7vb) | [Wallerstedt](https://open.spotify.com/artist/7qBBYMwk5wXAjSXWWhPCxK) | [Memories](https://open.spotify.com/album/11rkx3sdTx0PMNkZOY25W9) | 2:49 | 2026-07-02 |  |
+| [Memory \(Meredi Rework\)](https://open.spotify.com/track/20LDoPW2fL6sN9JTqspGWK) | [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P), [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Memory \(Meredi Rework\)](https://open.spotify.com/album/6m5V2wwEbmDoAfYbn8I27S) | 2:37 | 2026-10-23 |  |
 | [Moments](https://open.spotify.com/track/3DIv6XPrL0jSksxGeYbW4S) | [Olexandr Ignatov](https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG) | [Just Close Your Eyes](https://open.spotify.com/album/18ZxMkckYxYio7onWd1oRg) | 3:33 | 2026-07-02 |  |
 | [moments of wonder](https://open.spotify.com/track/43uM3xySnkW3tgAIdkGdn3) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [moments of wonder](https://open.spotify.com/album/5Q1bluhJj8lLBK3UsZbnDe) | 2:18 | 2025-10-16 |  |
 | [Moody Blue](https://open.spotify.com/track/5xcgt2MRfBQyIrYL8OPPiz) | [James Malikey](https://open.spotify.com/artist/2EyDwUM5rybE4PoBmsbKKw) | [Moody Blue](https://open.spotify.com/album/75uZAVtIMubcwtS1fpgQR9) | 2:08 | 2025-10-16 |  |

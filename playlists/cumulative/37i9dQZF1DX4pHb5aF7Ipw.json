@@ -9306,7 +9306,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 132956,
       "name": "Digital Baba",
       "url": "https://open.spotify.com/track/1LZTwxt6L2itaeIMAcNEgn"
@@ -14690,7 +14690,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 148571,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/0J1OgFB62MyZVylQrlrgzV"
@@ -17620,6 +17620,28 @@
       "duration_ms": 145000,
       "name": "JGAANA",
       "url": "https://open.spotify.com/track/4C8tQzLuhUrRgSsvtMmgLV"
+    },
+    {
+      "album": {
+        "name": "Jhanjar",
+        "url": "https://open.spotify.com/album/5TQsk81jiqBVY7RdW7U2hv"
+      },
+      "artists": [
+        {
+          "name": "Rabaab PB31",
+          "url": "https://open.spotify.com/artist/7K3XGyHHso6JQQj0CaWbNU"
+        },
+        {
+          "name": "Veera Takker",
+          "url": "https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Jhanjar",
+      "url": "https://open.spotify.com/track/3KvY6Hlnmy32FhJi9CIg6j"
     },
     {
       "album": {
@@ -22844,6 +22866,24 @@
       "duration_ms": 204706,
       "name": "My Way",
       "url": "https://open.spotify.com/track/6oN6UFzcPdk4DMHbHE3XjN"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/04F2R5aguowXQquDt1lkEP"
+      },
+      "artists": [
+        {
+          "name": "G Brar",
+          "url": "https://open.spotify.com/artist/0wjT4RhM3wEPKPY0Uu7ASG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/6f7cI8LY596gdx0C3tgKCF"
     },
     {
       "album": {
@@ -30748,7 +30788,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 147426,
       "name": "Snap",
       "url": "https://open.spotify.com/track/30zTMLWav6eZs2fcyKiddB"
@@ -36144,6 +36184,32 @@
       "duration_ms": 138598,
       "name": "Who I Am (From \"Aapocalypse\")",
       "url": "https://open.spotify.com/track/0JoAU046IX1logwp0yzhdj"
+    },
+    {
+      "album": {
+        "name": "Who Jatt",
+        "url": "https://open.spotify.com/album/2jb2xCKkgQkQsi7telgUDE"
+      },
+      "artists": [
+        {
+          "name": "Gur Sohal",
+          "url": "https://open.spotify.com/artist/2nMv03Po8V5for7w0sldHB"
+        },
+        {
+          "name": "Ronn Sandhu",
+          "url": "https://open.spotify.com/artist/4mMKSiHybWRmkjMG9UXVEg"
+        },
+        {
+          "name": "Rahul bector",
+          "url": "https://open.spotify.com/artist/6Pgd43FqL2UsugIn9HplHg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Who Jatt",
+      "url": "https://open.spotify.com/track/5KqQk9Dj4wfYY7rxl6PMXh"
     },
     {
       "album": {

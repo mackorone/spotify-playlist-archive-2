@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Fabian",
-  "num_followers": 599479,
+  "num_followers": 599431,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbvK9N56fmnGskch8ucumja+6s6",
+  "snapshot_id": "AAAAAKFno+7qWYDZQN4BCsepwJKwiXbS",
   "tracks": [
     {
       "added_at": "2026-09-25 04:59:18",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ"
     },
     {
+      "added_at": "2026-10-23 04:59:34",
+      "album": {
+        "name": "mala marea",
+        "url": "https://open.spotify.com/album/6322XHElbmPhXRCtTJvFof"
+      },
+      "artists": [
+        {
+          "name": "Catalina",
+          "url": "https://open.spotify.com/artist/5e89WNYIDZlwyI4opb2kCK"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/5CeaWEKhYh4V6fOsi13X6d"
+    },
+    {
       "added_at": "2026-10-02 04:59:26",
       "album": {
         "name": "superpoder",
@@ -227,6 +243,34 @@
       "duration_ms": 189101,
       "name": "No Tengo Remedio",
       "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
+    },
+    {
+      "added_at": "2026-10-23 04:59:34",
+      "album": {
+        "name": "RADIO VENEZUELA: FRESCO",
+        "url": "https://open.spotify.com/album/7r3Sdxria6Ir7NaZh4UNHM"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "eudis",
+          "url": "https://open.spotify.com/artist/3LtTqYfIFVNqhnUOaP4ZAT"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "ALGO BONITO",
+      "url": "https://open.spotify.com/track/0SGowx0vnVayijQelSCIGn"
     },
     {
       "added_at": "2026-07-17 04:59:06",
@@ -675,26 +719,6 @@
     {
       "added_at": "2026-03-26 18:25:59",
       "album": {
-        "name": "Pinceles",
-        "url": "https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv"
-      },
-      "artists": [
-        {
-          "name": "Javi Medina",
-          "url": "https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Pinceles",
-      "url": "https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
       },
@@ -947,26 +971,6 @@
       "duration_ms": 203506,
       "name": "EL BARCO",
       "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
     },
     {
       "added_at": "2026-03-26 18:25:59",

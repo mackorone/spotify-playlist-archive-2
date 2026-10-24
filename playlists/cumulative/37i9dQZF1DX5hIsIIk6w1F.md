@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: AK 4:20 & Benja Valencia
 
-1,164 songs - 2 day 13 hr 26 min
+1,165 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Ella Es La Mía](https://open.spotify.com/track/2FlLSE725G8coEIW4hMTKp) | [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [milloNES](https://open.spotify.com/album/269wIlKyRNI5tV0ahfQpqe) | 3:25 | 2025-07-11 | 2026-07-03 |
 | [Ella Me Llama](https://open.spotify.com/track/6xKtgOnvgxwO5JAmhte6nA) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Ella Me Llama](https://open.spotify.com/album/6CwNKcqOoJhZHYNsNXpcZn) | 2:56 | 2022-09-23 | 2022-12-03 |
 | [ELLA QUIERE MA](https://open.spotify.com/track/6expUFxBdWu1hFgpjGOX8k) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt) | [ELLA QUIERE MA](https://open.spotify.com/album/2aOOZBhz6nRruhysrlnZ0r) | 2:30 | 2026-05-29 |  |
-| [ELLA SABE QUE](https://open.spotify.com/track/1uKYfFBfakR2mVdCmdcZIF) | [Charlie Sky](https://open.spotify.com/artist/2It1tcIjbPCtsFBWDvbaOQ), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [ELLA SABE QUE](https://open.spotify.com/album/2S4V7GNB6ltu7ENMt4yLri) | 2:47 | 2026-05-08 |  |
+| [ELLA SABE QUE](https://open.spotify.com/track/1uKYfFBfakR2mVdCmdcZIF) | [Charlie Sky](https://open.spotify.com/artist/2It1tcIjbPCtsFBWDvbaOQ), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [ELLA SABE QUE](https://open.spotify.com/album/2S4V7GNB6ltu7ENMt4yLri) | 2:47 | 2026-05-08 | 2026-10-24 |
 | [Ellas](https://open.spotify.com/track/4dLTsUhwJZjqcyuRHNEjIK) | [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Ellas](https://open.spotify.com/album/1kpG4TNx8OsCNB5wvHDq3D) | 3:25 | 2022-08-19 | 2022-09-24 |
 | [Empezamos de 0](https://open.spotify.com/track/6Rd7wO0b2eG2YOO3yVlvsX) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Empezamos de 0](https://open.spotify.com/album/2Er4TGNCgPnlvOYbmFTKps) | 2:56 | 2022-05-23 | 2022-09-03 |
 | [En 3D](https://open.spotify.com/track/690j1YLr9uZ7WdT4WunwJa) | [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [En 3D](https://open.spotify.com/album/1DcWkHJwOfcCKZloHTvwzu) | 2:57 | 2024-09-06 | 2025-01-25 |
@@ -895,6 +895,7 @@
 | [Ram](https://open.spotify.com/track/3KE79Zt2aM32NwURw5FCjr) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:03 | 2023-11-03 | 2024-04-19 |
 | [Ram](https://open.spotify.com/track/3th0luN7pe8n10lHJDIDkg) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:03 | 2023-03-10 | 2025-02-01 |
 | [Rapido \(with Cris Mj\)](https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:26 | 2024-06-14 | 2024-11-23 |
+| [RAPIDO LENTO](https://open.spotify.com/track/5CXZNnfzWvly5JKuNn80th) | [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T) | [RAPIDO LENTO](https://open.spotify.com/album/7IGQZw73KKXpQjiEquDfCl) | 1:50 | 2026-10-23 |  |
 | [REBULEO](https://open.spotify.com/track/6qepYRhvU44L9kYkB8TLMC) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [REBULEO](https://open.spotify.com/album/07EE8oYvWhe89XXQePeZhU) | 3:24 | 2023-12-15 | 2024-07-06 |
 | [Recuerdo](https://open.spotify.com/track/0kOr8nY50seObPL9bYHr9f) | [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Recuerdo](https://open.spotify.com/album/5xLdJAeTVrAbaD0SXSx8mt) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [Red Flag](https://open.spotify.com/track/1YZR8L15wmHNWRs2kwGklj) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Red Flag](https://open.spotify.com/album/6nMqd6gK1zwnu0hTqMu9n1) | 2:14 | 2024-05-24 | 2024-07-06 |

@@ -755,6 +755,32 @@
     },
     {
       "album": {
+        "name": "Can't Sell Dope Forever the Mixtape Vol.1",
+        "url": "https://open.spotify.com/album/5Lp50IBHcDGvdK2AJj0pWn"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Stic.Man",
+          "url": "https://open.spotify.com/artist/42vHS17nhGnEnG8ORbbHjW"
+        },
+        {
+          "name": "Layzie Bone",
+          "url": "https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Came-Up",
+      "url": "https://open.spotify.com/track/78P7ynCCP0lZDHzjJjH4X5"
+    },
+    {
+      "album": {
         "name": "Thug In Thug Out",
         "url": "https://open.spotify.com/album/1Ei2ttYorukI5w8PCeOo0x"
       },
@@ -944,7 +970,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 219847,
       "name": "Cold Game",
       "url": "https://open.spotify.com/track/3qnfpioCY8qxwtkB32tPLy"
@@ -1022,7 +1048,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 312267,
       "name": "Control Your Destiny (feat. Aktual)",
       "url": "https://open.spotify.com/track/5DhAWr9YOcbqk7077Dcxi5"
@@ -2034,7 +2060,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 152973,
       "name": "God Said It",
       "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
@@ -4934,7 +4960,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198922,
       "name": "Son of God",
       "url": "https://open.spotify.com/track/2w9UDH6xXAxWPXkICnbF2m"
@@ -5210,7 +5236,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 113136,
       "name": "Surviving",
       "url": "https://open.spotify.com/track/7KBU12tvd67cUSV4NZU0Dz"

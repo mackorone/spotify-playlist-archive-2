@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,438 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,468 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 30 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
 | 31 | [África](https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [África](https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq) | 3:11 |
 | 32 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
-| 33 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
-| 34 | [Dale Candela Dale Sabor](https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO) | [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa) | [Dale Candela Dale Sabor](https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG) | 2:35 |
+| 33 | [Dale Candela Dale Sabor](https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO) | [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa) | [Dale Candela Dale Sabor](https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG) | 2:35 |
+| 34 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
 | 35 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 36 | [Dawn](https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE) | [HAMAL](https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1) | [Dawn](https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6) | 3:29 |
 | 37 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 47 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
 | 48 | [BATEA](https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [BATEA](https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp) | 2:23 |
 | 49 | [Domination](https://open.spotify.com/track/6RSvdEqQvf1orNbomVCvAZ) | [DjGiovanni Ríos](https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo) | [Cosmos](https://open.spotify.com/album/2RLgy549hB1pE0RhFebCmQ) | 3:20 |
-| 50 | [Tambor Azteca](https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [Obscure Tribal](https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z) | 2:48 |
+| 50 | [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 |
 
 Snapshot ID: `AAAAALJQ0L8OWgp9w7iTdfVGki1yKzIY`

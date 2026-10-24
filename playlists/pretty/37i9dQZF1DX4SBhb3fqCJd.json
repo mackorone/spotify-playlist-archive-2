@@ -1,52 +1,52 @@
 {
-  "description": "Where R&B lives. Cover: Lucky Daye",
-  "num_followers": 6011499,
+  "description": "Where R&B lives. Cover: Snoh Aalegra",
+  "num_followers": 6011044,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFknsO/52RdRW3xD1pLmAylv8CNA",
+  "snapshot_id": "AAAAACImL5t0q/SMKLx6MBCucUPK1Kot",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:33:53",
+      "added_at": "2026-10-23 04:02:13",
       "album": {
-        "name": "ALOUD!",
-        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 177391,
-      "name": "Mouf Say",
-      "url": "https://open.spotify.com/track/4MBN3o3wB4uEWGgKXXjVo0"
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
     },
     {
-      "added_at": "2026-10-02 04:03:09",
+      "added_at": "2026-10-23 04:02:13",
       "album": {
-        "name": "Frequency Of Love",
-        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+        "name": "Main Attraction (Remix)",
+        "url": "https://open.spotify.com/album/2HVHWBKdXpqqEIVl3FtUui"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         }
       ],
-      "duration_ms": 158026,
-      "name": "See You In My Dreams (feat. SZA)",
-      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+      "duration_ms": 184666,
+      "name": "Main Attraction - Remix",
+      "url": "https://open.spotify.com/track/0j14eHWV5jzB3pOitfCFE4"
     },
     {
       "added_at": "2026-09-11 04:01:22",
@@ -69,20 +69,44 @@
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
-      "added_at": "2026-10-16 04:33:53",
+      "added_at": "2026-10-02 04:03:09",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
+      "duration_ms": 158026,
+      "name": "See You In My Dreams (feat. SZA)",
+      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+    },
+    {
+      "added_at": "2026-10-16 04:33:53",
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0J6kLqNvkt4IYOmyvOBiWA"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -117,22 +141,6 @@
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
-      "added_at": "2026-10-02 04:03:09",
-      "album": {
-        "name": "options",
-        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 212131,
-      "name": "options",
-      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
-    },
-    {
       "added_at": "2026-10-09 04:00:35",
       "album": {
         "name": "MACHIKO",
@@ -147,42 +155,6 @@
       "duration_ms": 222970,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
-    },
-    {
-      "added_at": "2026-10-16 04:33:53",
-      "album": {
-        "name": "ALOUD!",
-        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Fly U Out",
-      "url": "https://open.spotify.com/track/0J6kLqNvkt4IYOmyvOBiWA"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -207,22 +179,18 @@
     {
       "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 132048,
-      "name": "Talking Dirty",
-      "url": "https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4"
+      "duration_ms": 228348,
+      "name": "After The Club",
+      "url": "https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -259,6 +227,54 @@
     {
       "added_at": "2026-10-02 04:03:09",
       "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+    },
+    {
+      "added_at": "2026-10-09 04:00:35",
+      "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-10-02 04:03:09",
+      "album": {
         "name": "Frequency Of Love",
         "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 194765,
       "name": "Almost",
       "url": "https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "He Belongs",
-      "url": "https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD"
     },
     {
       "added_at": "2026-10-09 04:00:35",
@@ -311,18 +311,106 @@
     {
       "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 181091,
-      "name": "good girl",
-      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+      "duration_ms": 240466,
+      "name": "Gentlewoman",
+      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
+    },
+    {
+      "added_at": "2026-10-16 04:33:53",
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Mouf Say",
+      "url": "https://open.spotify.com/track/4MBN3o3wB4uEWGgKXXjVo0"
+    },
+    {
+      "added_at": "2026-09-11 04:01:22",
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "He Belongs",
+      "url": "https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I can\u2019t be high around you anymore",
+      "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 132048,
+      "name": "Talking Dirty",
+      "url": "https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4"
+    },
+    {
+      "added_at": "2026-08-28 04:02:43",
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -367,34 +455,18 @@
     {
       "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 228348,
-      "name": "After The Club",
-      "url": "https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "THERAPY AT THE CLUB",
-        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I can\u2019t be high around you anymore",
-      "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
+      "duration_ms": 177217,
+      "name": "HOT TUBS",
+      "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -497,52 +569,24 @@
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
     },
     {
-      "added_at": "2026-08-28 04:02:43",
+      "added_at": "2026-10-23 04:02:13",
       "album": {
-        "name": "A*POP",
-        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 177217,
-      "name": "HOT TUBS",
-      "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
-    },
-    {
-      "added_at": "2026-10-16 04:33:53",
-      "album": {
-        "name": "ALOUD!",
-        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
-      },
-      "artists": [
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 176297,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/2AIZY5H3xdQcpKn17WfSqB"
-    },
-    {
-      "added_at": "2026-10-09 04:00:35",
-      "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+      "duration_ms": 239666,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/2pNmCsSJpuQ4ZCEy4IKTF4"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -601,6 +645,22 @@
       "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
     },
     {
+      "added_at": "2026-10-16 04:33:53",
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 176297,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/2AIZY5H3xdQcpKn17WfSqB"
+    },
+    {
       "added_at": "2026-08-28 04:02:43",
       "album": {
         "name": "ROADRUNNER",
@@ -637,38 +697,6 @@
       "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
     },
     {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Gentlewoman",
-      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
-    },
-    {
-      "added_at": "2026-09-11 04:01:22",
-      "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 207555,
-      "name": "Ceiling (Freestyle)",
-      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM"
-    },
-    {
       "added_at": "2026-10-09 04:00:35",
       "album": {
         "name": "and all pride aside",
@@ -699,6 +727,38 @@
       "duration_ms": 165652,
       "name": "what u want",
       "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
+    },
+    {
+      "added_at": "2026-10-16 04:33:53",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
+    },
+    {
+      "added_at": "2026-10-23 04:02:13",
+      "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
     },
     {
       "added_at": "2026-08-28 04:02:43",
@@ -767,22 +827,6 @@
     {
       "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Haiku",
-      "url": "https://open.spotify.com/track/2dJkI8vIXC1rpEHADdw6KK"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
         "name": "Kehlani",
         "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
       },
@@ -839,26 +883,6 @@
     {
       "added_at": "2026-08-28 04:02:43",
       "album": {
-        "name": "THERAPY AT THE CLUB",
-        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Sex In Peace (ft. kwn)",
-      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
         "name": "At Least She's Beautiful",
         "url": "https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL"
       },
@@ -871,26 +895,6 @@
       "duration_ms": 140259,
       "name": "Tricks Are For Kids",
       "url": "https://open.spotify.com/track/6ggChS1qPtrjHYcN7s4Uol"
-    },
-    {
-      "added_at": "2026-08-28 04:02:43",
-      "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
     },
     {
       "added_at": "2026-08-28 04:02:43",

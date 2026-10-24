@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Staind",
+  "description": "For full-volume lovers. Cover: Ghostemane",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 179402,
       "name": "Altar",
       "url": "https://open.spotify.com/track/7zEB4Og0QWj3YmAyYka65B"
@@ -6220,7 +6220,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 263972,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
@@ -6832,7 +6832,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 227116,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49"
@@ -7238,6 +7238,24 @@
       "duration_ms": 174527,
       "name": "Deathwalk",
       "url": "https://open.spotify.com/track/3KT0kwny4izeeLyE6MTyP7"
+    },
+    {
+      "album": {
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/4HlWa17cRTW9uQraVvh0tc"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247185,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0ZvGajFnTQtEAyKNjqt982"
     },
     {
       "album": {
@@ -7820,7 +7838,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 176458,
       "name": "Die In Your Arms",
       "url": "https://open.spotify.com/track/7lgbZBmlIyDcB0IIJlePly"
@@ -11596,7 +11614,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 139243,
       "name": "fury.",
       "url": "https://open.spotify.com/track/45fibgeS4hxzZI3EGOYF6S"
@@ -12145,6 +12163,24 @@
     },
     {
       "album": {
+        "name": "Glad You Came",
+        "url": "https://open.spotify.com/album/0aSA2FcE4MsGh0Wql5uFh0"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283280,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/0LJ5OaAjSs15LvRZaL9v7J"
+    },
+    {
+      "album": {
         "name": "Gladrags",
         "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
       },
@@ -12566,7 +12602,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 168303,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2TcN0bwzNKXDZDV6yhFnBM"
@@ -13068,7 +13104,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Half Past Dead (Unbury Me)",
       "url": "https://open.spotify.com/track/74Tt7azCRWhutQoHHELeVz"
@@ -16379,6 +16415,28 @@
     },
     {
       "album": {
+        "name": "It's The Limit",
+        "url": "https://open.spotify.com/album/1Ven9ZbmxHC7B2bxcuGpeM"
+      },
+      "artists": [
+        {
+          "name": "Cro-Mags",
+          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+        },
+        {
+          "name": "Meg Mills",
+          "url": "https://open.spotify.com/artist/0Uv2sKHVu4DtyxCG2dXLYv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95374,
+      "name": "It's The Limit",
+      "url": "https://open.spotify.com/track/1JYJLWSpTndpYnBhX7EVpq"
+    },
+    {
+      "album": {
         "name": "Mammoth II",
         "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
@@ -16541,6 +16599,28 @@
     },
     {
       "album": {
+        "name": "Jolene (With Dolly Parton)",
+        "url": "https://open.spotify.com/album/5FEJavT3zql5xlYSLHPRxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159388,
+      "name": "Jolene (With Dolly Parton)",
+      "url": "https://open.spotify.com/track/0PzF4Hjq28F5mvGfYoLgY8"
+    },
+    {
+      "album": {
         "name": "Joseph",
         "url": "https://open.spotify.com/album/3KIlhMEiSYNn8VD7e6yglU"
       },
@@ -16582,6 +16662,24 @@
       "duration_ms": 244728,
       "name": "Judas Mind - edit",
       "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+    },
+    {
+      "album": {
+        "name": "AM:FM",
+        "url": "https://open.spotify.com/album/4lCnapy9lBE8F7LmKluKwK"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164336,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/6OK8weaEFsE73aTbRKfvny"
     },
     {
       "album": {
@@ -17550,7 +17648,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 218501,
       "name": "Leaving California",
       "url": "https://open.spotify.com/track/2twEuHQc4SA6CZPueEa1DC"
@@ -22944,6 +23042,28 @@
       "duration_ms": 181402,
       "name": "Over Me",
       "url": "https://open.spotify.com/track/4xGudlD8tKwVOZyevYyljd"
+    },
+    {
+      "album": {
+        "name": "From the Dark",
+        "url": "https://open.spotify.com/album/4iAUrFmilfatLq7lBeH29p"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328333,
+      "name": "Over the Violent Sun",
+      "url": "https://open.spotify.com/track/5NYH5eJbFkchsNmV2L2YXW"
     },
     {
       "album": {
@@ -28668,6 +28788,24 @@
       "duration_ms": 272567,
       "name": "Starless",
       "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
+    },
+    {
+      "album": {
+        "name": "Starshine",
+        "url": "https://open.spotify.com/album/5AkCJ6OYmXvDJsTuT5EjMC"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Starshine",
+      "url": "https://open.spotify.com/track/5IOreCTRoBZDgtDTuJIua0"
     },
     {
       "album": {
@@ -35532,7 +35670,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 183266,
       "name": "WHY YOU SURVIVED",
       "url": "https://open.spotify.com/track/0a5SZeT5pojGx7t8oe6Bhi"

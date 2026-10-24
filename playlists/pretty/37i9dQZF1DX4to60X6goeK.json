@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77063,
+  "num_followers": 77068,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -423,30 +423,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "SUUNE",
-          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
-        }
-      ],
-      "duration_ms": 186751,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 215172,
       "name": "USB",
       "url": "https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "SUUNE",
+          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 186751,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "CLOSE2U",
-        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 224657,
-      "name": "CLOSE2U",
-      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Here For You",
         "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 202971,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "CLOSE2U",
+        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 224657,
+      "name": "CLOSE2U",
+      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "On The Gas",
-        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
-      },
-      "artists": [
-        {
-          "name": "MANIA",
-          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "On The Gas",
-      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Satellite (SOTA Remix)",
         "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "On The Gas",
+        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
+      },
+      "artists": [
+        {
+          "name": "MANIA",
+          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "On The Gas",
+      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
     },
     {
       "added_at": "2026-10-22 23:00:31",

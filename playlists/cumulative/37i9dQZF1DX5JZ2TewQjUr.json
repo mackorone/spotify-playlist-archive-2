@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: elka \u912d\u82b7\u6dc7",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Vincy \u8607\u8a60\u6df3",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 339354,
       "name": "Crystallize",
       "url": "https://open.spotify.com/track/53IcghwXEu67lDKxCUib0q"
@@ -11809,6 +11809,24 @@
     },
     {
       "album": {
+        "name": "Mantis",
+        "url": "https://open.spotify.com/album/6Mge6ryvkiR6xP1ndAsDf1"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126320,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/4snBSeOluEZzOq3Wnh84ys"
+    },
+    {
+      "album": {
         "name": "Martyr#1",
         "url": "https://open.spotify.com/album/4x08OFLQ71g3UsVGpT3p0C"
       },
@@ -14114,7 +14132,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169284,
       "name": "OOTB",
       "url": "https://open.spotify.com/track/4slCroq2mhooCM14dndiRE"
@@ -17865,6 +17883,24 @@
     },
     {
       "album": {
+        "name": "suite 02: velvet",
+        "url": "https://open.spotify.com/album/7CaEcIwNdPJfH5w92nfCsN"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "suite 02: velvet",
+      "url": "https://open.spotify.com/track/3bSPpMFhhtPCKuliR9d1sd"
+    },
+    {
+      "album": {
         "name": "sultana lady",
         "url": "https://open.spotify.com/album/5JI0EcP2BM3fWT15kJBdJn"
       },
@@ -18436,7 +18472,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 195196,
       "name": "Taken by the Tide",
       "url": "https://open.spotify.com/track/0JCVAmvfxkoxaC5UQxNCyh"
@@ -24205,6 +24241,28 @@
     },
     {
       "album": {
+        "name": "\u5357\u65b9\u4e4b\u661f",
+        "url": "https://open.spotify.com/album/6reyc9DT3yyQGMnOf9BSV9"
+      },
+      "artists": [
+        {
+          "name": "before the night ends",
+          "url": "https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU"
+        },
+        {
+          "name": "Jim Yan",
+          "url": "https://open.spotify.com/artist/1E8wUKpoj218ixj9PdcwfC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "\u5357\u65b9\u4e4b\u661f",
+      "url": "https://open.spotify.com/track/6DvGBsmDVF3CT94nWKOqIJ"
+    },
+    {
+      "album": {
         "name": "\u5361\u5f0f",
         "url": "https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1"
       },
@@ -29217,6 +29275,24 @@
     },
     {
       "album": {
+        "name": "\u6c89\u9032\u6d77\u7684\u661f",
+        "url": "https://open.spotify.com/album/3Y8r1kXxRu34XwN0hYIIxy"
+      },
+      "artists": [
+        {
+          "name": "Vincy \u8607\u8a60\u6df3",
+          "url": "https://open.spotify.com/artist/1Uo1h4cGK34qpSLdlg4GUA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "\u6c89\u9032\u6d77\u7684\u661f",
+      "url": "https://open.spotify.com/track/6wsupRH5oEmqfRGWAmpYKm"
+    },
+    {
+      "album": {
         "name": "\u6c89\u9ed8\u7684\u6ce2\u838e\u9732\u5a03",
         "url": "https://open.spotify.com/album/37Q7AwxAFwYntB2Ldh7s4q"
       },
@@ -30864,7 +30940,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 132000,
       "name": "\u7b2c\u4e00\u652f\u7159 (The First Cigarette)",
       "url": "https://open.spotify.com/track/0xA6Kv2WeXBksQv9Q4U4Pl"

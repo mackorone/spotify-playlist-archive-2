@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,665,224 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,665,493 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 12 | [Make It Good](https://open.spotify.com/track/553IXhpPYgf5yVWNQeM7iB) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Memory](https://open.spotify.com/album/5j6AoIkhOX3kRHx4PkCvmD) | 11:30 |
 | 13 | [Song of Thanksgiving](https://open.spotify.com/track/1dqyWKC9XTP03pqhFd3zXU) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Happy To Be Here \(Deluxe\)](https://open.spotify.com/album/6DNSFcZjyTG1dRvE4vxxe4) | 4:53 |
 | 14 | [Whole Heart](https://open.spotify.com/track/5aOwxm0zEWCgjGeOnwKEFc) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Worth Everything](https://open.spotify.com/album/2PEJzFepo0yBNtLma4flW6) | 3:26 |
-| 15 | [Let Me Say \- Live](https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [Promised Land \(Deluxe\) \[Live\]](https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x) | 5:20 |
+| 15 | [Let Me Say](https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [Promised Land \(Deluxe\) \[Live\]](https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x) | 5:20 |
 | 16 | [hey God](https://open.spotify.com/track/6KVagN1ypGvF1obmc9s9Lb) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us \(Deluxe\)](https://open.spotify.com/album/0D41g4dvxr9KFRuxQJm8t3) | 3:28 |
 | 17 | [Let There Be Light \- in lieu of me](https://open.spotify.com/track/5X3vJE1gKlTDRIcgHkOAGP) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- in lieu of me \(Vol\. 2\)](https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1) | 6:19 |
 | 18 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |

@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "All this softness",
+        "url": "https://open.spotify.com/album/4nDwOeswcRVUO7nNH11O8T"
+      },
+      "artists": [
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "All this softness",
+      "url": "https://open.spotify.com/track/33cwanZqoTSRn0k4tSYkrF"
+    },
+    {
+      "album": {
         "name": "Alle werden alt",
         "url": "https://open.spotify.com/album/00aDacxHbkR3WvdehjaRU0"
       },
@@ -9382,7 +9400,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 222608,
       "name": "Go Fast",
       "url": "https://open.spotify.com/track/5QAmieDO5LokwAGZtFRr5g"
@@ -17206,7 +17224,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 337576,
       "name": "Primal Particel",
       "url": "https://open.spotify.com/track/320HRgAAtaG7X28fmsQmNT"
@@ -21269,6 +21287,28 @@
     },
     {
       "album": {
+        "name": "Do Our Thing",
+        "url": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178295,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/5GXyDd4l7oO8qVrnOd5WSd"
+    },
+    {
+      "album": {
         "name": "Syndrom",
         "url": "https://open.spotify.com/album/7vU3F2RWrJtvCPmWwiCDk2"
       },
@@ -21444,6 +21484,24 @@
       "duration_ms": 397333,
       "name": "Take It Down",
       "url": "https://open.spotify.com/track/4oGujfzpCA9H3JhkiLN7qF"
+    },
+    {
+      "album": {
+        "name": "Take Me to Ecstasy",
+        "url": "https://open.spotify.com/album/7lSgVKdX8c07TZVTaffiNb"
+      },
+      "artists": [
+        {
+          "name": "Alyne",
+          "url": "https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Take Me to Ecstasy",
+      "url": "https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN"
     },
     {
       "album": {
@@ -23272,7 +23330,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 277551,
       "name": "Tool 1",
       "url": "https://open.spotify.com/track/5SvA2nYqDdYkl0w7CYLzVW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,610 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,625 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 42 | [Tres Días De Carnaval](https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 4:59 |
 | 43 | [Celia](https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 4:03 |
 | 44 | [Sabor Gitano](https://open.spotify.com/track/6Pf8k23JUFjnLk6oBiv14o) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [En España](https://open.spotify.com/album/7L1kk0NoH0rJR7ucNhhet8) | 3:37 |
-| 45 | [Y Mi Negro Esta Cansao](https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 2:39 |
-| 46 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 |
+| 45 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 |
+| 46 | [Y Mi Negro Esta Cansao](https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 2:39 |
 | 47 | [Dos Días en la Vida](https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 3:43 |
 | 48 | [Sazón](https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 4:49 |
 | 49 | [Encántigo](https://open.spotify.com/track/1LNJ3Ne0gSkGGhkjYMtTN3) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 7:58 |
 | 50 | [Juancito Trucupey](https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Guarachas De La Guarachera](https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB) | 2:46 |
 
-Snapshot ID: `atavAAAAAAD6CO3mITQjxPuDpGvzhxn6`
+Snapshot ID: `atgAgAAAAADbAJsl/vWqeuye9lAIXQwF`

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-817 songs - 1 day 15 hr 8 min
+818 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Gaddi](https://open.spotify.com/track/7kKzZe40RUyKHWSIQxQehy) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Gaddi](https://open.spotify.com/album/6k6hDbaEZumhfTd9xplzVN) | 3:46 | 2023-04-21 | 2024-04-19 |
 | [Gaddi](https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:17 | 2023-03-29 | 2023-07-15 |
 | [Galbat Boldi](https://open.spotify.com/track/6EcksI7ouzPgreQRnP2IN2) | [Jot Jamsher](https://open.spotify.com/artist/5ziUnPezHP9uUPzRuWnV0m) | [Galbat Boldi](https://open.spotify.com/album/1FtjXZGKD0FPRzuO0feJdW) | 2:06 | 2025-04-30 | 2025-06-06 |
+| [Gallan](https://open.spotify.com/track/0f5y8mwWhQqhGdHVdQBqvL) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Lassoi Vibe](https://open.spotify.com/album/4rtJ2sqvIh28jbHXHuIzX5) | 2:15 | 2026-10-23 |  |
 | [Gallan Hundiyan \- From "Majhail"](https://open.spotify.com/track/2cdu7CQkntC4wNe1IISyg8) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gallan Hundiyan \(From "Majhail"\)](https://open.spotify.com/album/4eXHXXfO93us9UtOjbtpo1) | 2:02 | 2025-01-25 | 2025-05-03 |
 | [Game](https://open.spotify.com/track/0TNB0RJsCi4WmeYtRqyAdt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Game](https://open.spotify.com/album/3yVTUGFUELk79kX3ahcULT) | 4:34 | 2025-03-19 |  |
 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 | 2025-02-12 |  |
@@ -624,7 +625,7 @@
 | [Rap God](https://open.spotify.com/track/3fyMZV3GCjUTQYeGKueDWL) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Banks On The Beat](https://open.spotify.com/artist/31zYllWwjMll08u4ljBLVc) | [Rap God](https://open.spotify.com/album/7BRIUafUOwCwNt5ERXFkVV) | 2:51 | 2025-06-27 | 2025-07-29 |
 | [Rare](https://open.spotify.com/track/6UIeXd0oMQk5ZuC2PGDGgq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Mood Mechanic](https://open.spotify.com/artist/1RrL9MD1idOnU0jUvorr9v) | [Rare](https://open.spotify.com/album/6kSqx59AZ9ETpqP5nLybcd) | 1:57 | 2024-02-29 | 2024-03-21 |
 | [REAL SHI](https://open.spotify.com/track/4Ox50ESB2MQlybbU0HEHZF) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [NO REMORSE](https://open.spotify.com/album/1kAlPyvPOUkphqKNBvfnjS) | 2:29 | 2025-03-10 | 2025-04-29 |
-| [Real Thoughts](https://open.spotify.com/track/7njEzMtNyaSjdHgZ4B15mJ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF) | [BLACK AND WHITE](https://open.spotify.com/album/5qVFswtg7g13VmcMCVWzrF) | 8:15 | 2026-09-07 |  |
+| [Real Thoughts](https://open.spotify.com/track/7njEzMtNyaSjdHgZ4B15mJ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF) | [BLACK AND WHITE](https://open.spotify.com/album/5qVFswtg7g13VmcMCVWzrF) | 8:15 | 2026-09-07 | 2026-10-24 |
 | [Reason](https://open.spotify.com/track/7Ev92k96OVcJw7JxQUMorq) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Jais Atwal](https://open.spotify.com/artist/554BvnjtSox5U5Xz0qHOd2), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi) | [Reason](https://open.spotify.com/album/6ZMxZ0bfUVzHaoCyOmTFiW) | 3:04 | 2024-06-10 | 2024-06-29 |
 | [Rebel](https://open.spotify.com/track/55nyHIEC9uSC5nqgMGiZIe) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Chidiyan Da Chamba](https://open.spotify.com/album/7Dsgh4TMCBZW64jpsEGyIv) | 3:11 | 2023-10-20 | 2023-10-24 |
 | [Reckless](https://open.spotify.com/track/2v2mjj2MR3Hn4tqsGUY9yy) | [Raahi Rana](https://open.spotify.com/artist/2oyC92A0JdkwjwXSiaMISV), [Sokhey](https://open.spotify.com/artist/4laP09HfJ6zF5LCriwUZCJ) | [Reckless](https://open.spotify.com/album/0mYyZKRMAVxjEjjM6Gx7bg) | 2:26 | 2026-03-13 | 2026-04-17 |

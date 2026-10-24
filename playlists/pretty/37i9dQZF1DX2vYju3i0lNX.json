@@ -1,12 +1,12 @@
 {
   "description": "Mellow jazz for focus or unwinding.",
-  "num_followers": 1068765,
+  "num_followers": 1070023,
   "original_name": "Chilled Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANOISAgxKGItMwZS08BqSoxGk+ct",
+  "snapshot_id": "AAAAAERMrAIwjBbQZXE91vazBHS7MKRm",
   "tracks": [
     {
       "added_at": "2026-10-05 13:05:54",
@@ -23,6 +23,22 @@
       "duration_ms": 228034,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/1BGav5mLEuaRhS9aBNlcOh"
+    },
+    {
+      "added_at": "2026-10-23 13:07:27",
+      "album": {
+        "name": "Along the way",
+        "url": "https://open.spotify.com/album/6ZvopNtQ6N2MTpjzh0ekYj"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Along the way",
+      "url": "https://open.spotify.com/track/4db7xuyC3RqmPMRnQ1aUVV"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/6kj0DVybNKiTAAUgpI9Z7H"
     },
     {
+      "added_at": "2026-10-23 13:07:27",
+      "album": {
+        "name": "Slumber for Two",
+        "url": "https://open.spotify.com/album/0bFTLWEQBMOvWzh2TI7NDB"
+      },
+      "artists": [
+        {
+          "name": "Odyssey Quartet",
+          "url": "https://open.spotify.com/artist/4d7dGQmLdVYGRTddHREtlX"
+        }
+      ],
+      "duration_ms": 213180,
+      "name": "Slumber for Two",
+      "url": "https://open.spotify.com/track/2OZGhEewayLE8S5wvRWAAq"
+    },
+    {
       "added_at": "2026-10-16 08:44:04",
       "album": {
         "name": "Leave It Alone",
@@ -103,6 +135,22 @@
       "duration_ms": 259250,
       "name": "Leave It Alone",
       "url": "https://open.spotify.com/track/2g9P9lZx8AGCDbSKHXkYf0"
+    },
+    {
+      "added_at": "2026-10-23 13:07:27",
+      "album": {
+        "name": "Small Fry",
+        "url": "https://open.spotify.com/album/5tYGAa7Ceo1qYkGg3xUesD"
+      },
+      "artists": [
+        {
+          "name": "Robert Nilsson Trio",
+          "url": "https://open.spotify.com/artist/1ypkjC4yyrVncXd4e3RTcd"
+        }
+      ],
+      "duration_ms": 226076,
+      "name": "Small Fry",
+      "url": "https://open.spotify.com/track/29OZoGQi4reTO1nAx3D88J"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -151,6 +199,22 @@
       "duration_ms": 202875,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/3KJsKPwU0kQIq8guLpD52p"
+    },
+    {
+      "added_at": "2026-10-23 13:07:27",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/1YjiXXQpeiD6Hs4q6mc2Yv"
+      },
+      "artists": [
+        {
+          "name": "Weston Avenue Band",
+          "url": "https://open.spotify.com/artist/0HsAhtvlcTwuNnURHk16FI"
+        }
+      ],
+      "duration_ms": 176624,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0t6f4cmGuIlEiEJYTrQZjy"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -295,22 +359,6 @@
       "duration_ms": 229060,
       "name": "Gentle Dance",
       "url": "https://open.spotify.com/track/0paGyUzVyVubb5xDN65qWR"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
-        "name": "Far From Over",
-        "url": "https://open.spotify.com/album/7ajWBcuRk6kNCP3WOEPskf"
-      },
-      "artists": [
-        {
-          "name": "Gramhane Group",
-          "url": "https://open.spotify.com/artist/3nNsFr9UCq4JQnJb1vkTrk"
-        }
-      ],
-      "duration_ms": 172142,
-      "name": "Far From Over",
-      "url": "https://open.spotify.com/track/72LPnQlPoJiXjeoneKzGjD"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -555,6 +603,22 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
+        "name": "Far From Over",
+        "url": "https://open.spotify.com/album/7ajWBcuRk6kNCP3WOEPskf"
+      },
+      "artists": [
+        {
+          "name": "Gramhane Group",
+          "url": "https://open.spotify.com/artist/3nNsFr9UCq4JQnJb1vkTrk"
+        }
+      ],
+      "duration_ms": 172142,
+      "name": "Far From Over",
+      "url": "https://open.spotify.com/track/72LPnQlPoJiXjeoneKzGjD"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
         "name": "As It Falls",
         "url": "https://open.spotify.com/album/0ZoQBsYZdTqaZUtO93HLRR"
       },
@@ -631,22 +695,6 @@
       "duration_ms": 173922,
       "name": "Linen skies",
       "url": "https://open.spotify.com/track/7w8xHEII6bVO1xw6hyfDBg"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
-        "name": "Ocean's Embrace",
-        "url": "https://open.spotify.com/album/08iAQlbUHYs1OEA0fjLXbB"
-      },
-      "artists": [
-        {
-          "name": "James Leeluck",
-          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
-        }
-      ],
-      "duration_ms": 174236,
-      "name": "Ocean's Embrace",
-      "url": "https://open.spotify.com/track/0Gskcb03fG6YbFKSjVlcHO"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -839,6 +887,22 @@
       "duration_ms": 136845,
       "name": "Silent Heartside",
       "url": "https://open.spotify.com/track/4Ys2ZJxW3WP6fF5Qq74hGJ"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "Ocean's Embrace",
+        "url": "https://open.spotify.com/album/08iAQlbUHYs1OEA0fjLXbB"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "duration_ms": 174236,
+      "name": "Ocean's Embrace",
+      "url": "https://open.spotify.com/track/0Gskcb03fG6YbFKSjVlcHO"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -1099,22 +1163,6 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "Still Waiting",
-        "url": "https://open.spotify.com/album/6lwo3yTQxpJ4GHNscdRfsy"
-      },
-      "artists": [
-        {
-          "name": "Sapphire 4",
-          "url": "https://open.spotify.com/artist/7K4kr1J5r8oL1B93QXSQFn"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/52whDkRvIWSkWgV3yLY2Ai"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
         "name": "The Three of Us",
         "url": "https://open.spotify.com/album/73JU0L7WZYHKzskNkMhLYb"
       },
@@ -1127,22 +1175,6 @@
       "duration_ms": 207233,
       "name": "The Three Of Us",
       "url": "https://open.spotify.com/track/0R7N2b82rZfCb574geg8J4"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
-        "name": "Let's Be In Love",
-        "url": "https://open.spotify.com/album/50KonU2PiDTqvRJ53eHYHA"
-      },
-      "artists": [
-        {
-          "name": "Trio Rosa",
-          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
-        }
-      ],
-      "duration_ms": 194970,
-      "name": "Let's Be In Love",
-      "url": "https://open.spotify.com/track/1ERVDUNSdOSorgWYUdauWA"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -1323,6 +1355,38 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/album/6lwo3yTQxpJ4GHNscdRfsy"
+      },
+      "artists": [
+        {
+          "name": "Sapphire 4",
+          "url": "https://open.spotify.com/artist/7K4kr1J5r8oL1B93QXSQFn"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/52whDkRvIWSkWgV3yLY2Ai"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "Let's Be In Love",
+        "url": "https://open.spotify.com/album/50KonU2PiDTqvRJ53eHYHA"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "duration_ms": 194970,
+      "name": "Let's Be In Love",
+      "url": "https://open.spotify.com/track/1ERVDUNSdOSorgWYUdauWA"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
         "name": "So, So Hungry for You",
         "url": "https://open.spotify.com/album/5lOlPgwT0JfoMsHRyratkD"
       },
@@ -1463,22 +1527,6 @@
       "duration_ms": 304364,
       "name": "Beyond The Stars",
       "url": "https://open.spotify.com/track/7boJgwOmip6mQNKM0gyKmT"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
-        "name": "My musical expression",
-        "url": "https://open.spotify.com/album/0YlD2vE1pVBpKuxfwYWAP0"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 256316,
-      "name": "My musical expression",
-      "url": "https://open.spotify.com/track/6Rm2AeALtJc9Cx3D5749yW"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -1655,6 +1703,22 @@
       "duration_ms": 202973,
       "name": "Windy Fyn",
       "url": "https://open.spotify.com/track/5V57qaRgARQUTYzeLAKT76"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "My musical expression",
+        "url": "https://open.spotify.com/album/0YlD2vE1pVBpKuxfwYWAP0"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 256316,
+      "name": "My musical expression",
+      "url": "https://open.spotify.com/track/6Rm2AeALtJc9Cx3D5749yW"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -2331,22 +2395,6 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "Boulevards",
-        "url": "https://open.spotify.com/album/3EiGrEmrW6M8ij5B6EtxMX"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "Boulevards",
-      "url": "https://open.spotify.com/track/0HWu0wW5Z0EIUOuafQCtmL"
-    },
-    {
-      "added_at": "2026-10-05 13:05:54",
-      "album": {
         "name": "Pretending We're Alone",
         "url": "https://open.spotify.com/album/7MuvT9bQ5NPZw0yTO3S8wL"
       },
@@ -2507,18 +2555,18 @@
     {
       "added_at": "2026-10-05 13:05:54",
       "album": {
-        "name": "And still it was quiet",
-        "url": "https://open.spotify.com/album/0I4rvQxwzESr8j3JTp1VF5"
+        "name": "Boulevards",
+        "url": "https://open.spotify.com/album/3EiGrEmrW6M8ij5B6EtxMX"
       },
       "artists": [
         {
-          "name": "Blue Hour Theory",
-          "url": "https://open.spotify.com/artist/2HRFwBMwsqAMf7c6xFhz2H"
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
         }
       ],
-      "duration_ms": 196363,
-      "name": "And still it was quiet",
-      "url": "https://open.spotify.com/track/7fjhQ3RlieskEDsnmKvoM1"
+      "duration_ms": 206625,
+      "name": "Boulevards",
+      "url": "https://open.spotify.com/track/0HWu0wW5Z0EIUOuafQCtmL"
     },
     {
       "added_at": "2026-10-05 13:05:54",
@@ -2679,6 +2727,22 @@
       "duration_ms": 203324,
       "name": "Nod in Agreement",
       "url": "https://open.spotify.com/track/1Gt3b2N5sq9NWhyyZkEOer"
+    },
+    {
+      "added_at": "2026-10-05 13:05:54",
+      "album": {
+        "name": "And still it was quiet",
+        "url": "https://open.spotify.com/album/0I4rvQxwzESr8j3JTp1VF5"
+      },
+      "artists": [
+        {
+          "name": "Blue Hour Theory",
+          "url": "https://open.spotify.com/artist/2HRFwBMwsqAMf7c6xFhz2H"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "And still it was quiet",
+      "url": "https://open.spotify.com/track/7fjhQ3RlieskEDsnmKvoM1"
     },
     {
       "added_at": "2026-10-05 13:05:54",

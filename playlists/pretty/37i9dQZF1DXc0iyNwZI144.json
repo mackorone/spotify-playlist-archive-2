@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1020722,
+  "num_followers": 1020613,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 204173,
       "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
       "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 193511,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Alane",
-        "url": "https://open.spotify.com/album/537cgkkJUqMb46JUSNh0n7"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Wes",
-          "url": "https://open.spotify.com/artist/3tXUeiWOSod3mSQ2lOautf"
-        }
-      ],
-      "duration_ms": 175016,
-      "name": "Alane",
-      "url": "https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Pretty Girl (Cheat Codes X CADE Remix)",
         "url": "https://open.spotify.com/album/6jO7hs4GsF6924w10xQTyA"
       },
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS"
+        "name": "Alane",
+        "url": "https://open.spotify.com/album/537cgkkJUqMb46JUSNh0n7"
       },
       "artists": [
         {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Wes",
+          "url": "https://open.spotify.com/artist/3tXUeiWOSod3mSQ2lOautf"
         }
       ],
-      "duration_ms": 138638,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da"
+      "duration_ms": 175016,
+      "name": "Alane",
+      "url": "https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1235,6 +1219,22 @@
       "duration_ms": 174125,
       "name": "Fica Tudo Bem - Bhaskar Remix",
       "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 138638,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
+        "name": "Iguana",
+        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
+      },
+      "artists": [
+        {
+          "name": "Louie Austen",
+          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Glamour Girl",
+      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
         "name": "Alien (Topic Remix)",
         "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 159927,
       "name": "Alien - Topic Remix",
       "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
-        "name": "Iguana",
-        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
-      },
-      "artists": [
-        {
-          "name": "Louie Austen",
-          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Glamour Girl",
-      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Home (feat. Bonn)",
-        "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 239067,
-      "name": "Home (feat. Bonn)",
-      "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
+      "duration_ms": 195619,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1403,22 +1403,22 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Kisses",
-        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
+        "name": "Home (feat. Bonn)",
+        "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
         }
       ],
-      "duration_ms": 195619,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
+      "duration_ms": 239067,
+      "name": "Home (feat. Bonn)",
+      "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Cry Dancing",
-        "url": "https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl"
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
       },
       "artists": [
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 179396,
-      "name": "Cry Dancing",
-      "url": "https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq"
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2026-07-24 17:31:08",

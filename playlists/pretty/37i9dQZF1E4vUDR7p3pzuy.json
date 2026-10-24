@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wehmut",
-        "url": "https://open.spotify.com/album/5TbWCaicEFtMQmHrLpQitM"
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/7GPbsKlxO81uQPgQBquEZw"
       },
       "artists": [
         {
-          "name": "Rue Oberkampf",
-          "url": "https://open.spotify.com/artist/26TwVOegezL4LgF9TkqJ6D"
+          "name": "New World Revolution",
+          "url": "https://open.spotify.com/artist/3jScDqgJD8GY3auN3YSl6t"
+        },
+        {
+          "name": "Mina Tobias",
+          "url": "https://open.spotify.com/artist/4WfJcEMSPHPKBiYEF1Kay1"
         }
       ],
-      "duration_ms": 191680,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/1IoHHeNV6GM0PMllV0FwZk"
+      "duration_ms": 152706,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/6PxlE8rSywCxfviSU57dQv"
     },
     {
       "added_at": null,
@@ -115,50 +119,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/3qfo1dksZ4shrLfHJyCW3f"
+        "name": "Satin Melody For You",
+        "url": "https://open.spotify.com/album/1a8aAw0EXQBDiHCFu4YlqK"
       },
       "artists": [
         {
-          "name": "Suzi Sabotage",
-          "url": "https://open.spotify.com/artist/4Xg5IOdSKG15oMi05Xf1yn"
+          "name": "4NSPTR",
+          "url": "https://open.spotify.com/artist/72cYyLEFCLueIUvHs48kMm"
         }
       ],
-      "duration_ms": 300951,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/6hZlvOrSSquPmmPK51Ju29"
+      "duration_ms": 145008,
+      "name": "Satin Melody For You",
+      "url": "https://open.spotify.com/track/7lQdkgP7E60hs0HGeqtQCX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Land",
-        "url": "https://open.spotify.com/album/6c9uuyLvk236ra09cmuYSl"
+        "name": "Wehmut",
+        "url": "https://open.spotify.com/album/5TbWCaicEFtMQmHrLpQitM"
       },
       "artists": [
         {
-          "name": "Then Comes Silence",
-          "url": "https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy"
+          "name": "Rue Oberkampf",
+          "url": "https://open.spotify.com/artist/26TwVOegezL4LgF9TkqJ6D"
         }
       ],
-      "duration_ms": 210694,
-      "name": "Bye Bye Land",
-      "url": "https://open.spotify.com/track/7gsHg2pOcZ7a1b5PoMbLDO"
+      "duration_ms": 191680,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/1IoHHeNV6GM0PMllV0FwZk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "where is the sign",
-        "url": "https://open.spotify.com/album/42n5P6Y9sCKJk4meo7oBpN"
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/4WD7I8qFCq0L96N8yTGeSO"
       },
       "artists": [
         {
-          "name": "Oblivyus",
-          "url": "https://open.spotify.com/artist/4SJZ4N7pzgJlTEqITA8XVz"
+          "name": "Hey Calamity",
+          "url": "https://open.spotify.com/artist/6JIU9ey0yGi4uv0lDGTC8G"
         }
       ],
-      "duration_ms": 151876,
-      "name": "where is the sign",
-      "url": "https://open.spotify.com/track/0t3jA9lPbkAXrGgs6J7FYg"
+      "duration_ms": 250136,
+      "name": "Empty Room",
+      "url": "https://open.spotify.com/track/0auX5w6US3LPwAQcpjMygH"
     },
     {
       "added_at": null,
@@ -203,34 +207,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/4WD7I8qFCq0L96N8yTGeSO"
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/3qfo1dksZ4shrLfHJyCW3f"
       },
       "artists": [
         {
-          "name": "Hey Calamity",
-          "url": "https://open.spotify.com/artist/6JIU9ey0yGi4uv0lDGTC8G"
+          "name": "Suzi Sabotage",
+          "url": "https://open.spotify.com/artist/4Xg5IOdSKG15oMi05Xf1yn"
         }
       ],
-      "duration_ms": 250136,
-      "name": "Empty Room",
-      "url": "https://open.spotify.com/track/0auX5w6US3LPwAQcpjMygH"
+      "duration_ms": 300951,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/6hZlvOrSSquPmmPK51Ju29"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Satin Melody For You",
-        "url": "https://open.spotify.com/album/1a8aAw0EXQBDiHCFu4YlqK"
+        "name": "Buy Now",
+        "url": "https://open.spotify.com/album/4FHCi2dqcofj3lredFG5LL"
       },
       "artists": [
         {
-          "name": "4NSPTR",
-          "url": "https://open.spotify.com/artist/72cYyLEFCLueIUvHs48kMm"
+          "name": "plaine",
+          "url": "https://open.spotify.com/artist/35D1c7EqwP9yee0HiTXnUA"
         }
       ],
-      "duration_ms": 145008,
-      "name": "Satin Melody For You",
-      "url": "https://open.spotify.com/track/7lQdkgP7E60hs0HGeqtQCX"
+      "duration_ms": 230590,
+      "name": "Buy Now",
+      "url": "https://open.spotify.com/track/5967VxIaJHSHZKRmaT0JGx"
     },
     {
       "added_at": null,
@@ -251,18 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wehmut",
-        "url": "https://open.spotify.com/album/5TbWCaicEFtMQmHrLpQitM"
+        "name": "Feed",
+        "url": "https://open.spotify.com/album/1Md9jM9n41WGU4ljO9hxIa"
       },
       "artists": [
         {
-          "name": "Rue Oberkampf",
-          "url": "https://open.spotify.com/artist/26TwVOegezL4LgF9TkqJ6D"
+          "name": "rayray",
+          "url": "https://open.spotify.com/artist/3LB1EOdePE8vAvMQ3pc7jY"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Blanc Poney",
-      "url": "https://open.spotify.com/track/0NaDCnQc8DRHqYmMcICgWX"
+      "duration_ms": 209971,
+      "name": "Feed",
+      "url": "https://open.spotify.com/track/1ONK0N5n6ugF46VBQmM3XM"
     },
     {
       "added_at": null,
@@ -287,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bye Bye Land",
+        "url": "https://open.spotify.com/album/6c9uuyLvk236ra09cmuYSl"
+      },
+      "artists": [
+        {
+          "name": "Then Comes Silence",
+          "url": "https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy"
+        }
+      ],
+      "duration_ms": 210694,
+      "name": "Bye Bye Land",
+      "url": "https://open.spotify.com/track/7gsHg2pOcZ7a1b5PoMbLDO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Undead",
         "url": "https://open.spotify.com/album/3Dq2uea0mXGC35nwguWIS5"
       },
@@ -303,34 +323,106 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feed",
-        "url": "https://open.spotify.com/album/1Md9jM9n41WGU4ljO9hxIa"
+        "name": "Wehmut",
+        "url": "https://open.spotify.com/album/5TbWCaicEFtMQmHrLpQitM"
       },
       "artists": [
         {
-          "name": "rayray",
-          "url": "https://open.spotify.com/artist/3LB1EOdePE8vAvMQ3pc7jY"
+          "name": "Rue Oberkampf",
+          "url": "https://open.spotify.com/artist/26TwVOegezL4LgF9TkqJ6D"
         }
       ],
-      "duration_ms": 209971,
-      "name": "Feed",
-      "url": "https://open.spotify.com/track/1ONK0N5n6ugF46VBQmM3XM"
+      "duration_ms": 240040,
+      "name": "Blanc Poney",
+      "url": "https://open.spotify.com/track/0NaDCnQc8DRHqYmMcICgWX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "IDK",
-        "url": "https://open.spotify.com/album/27tmveLGl1WJudm3KbU7TQ"
+        "name": "where is the sign",
+        "url": "https://open.spotify.com/album/42n5P6Y9sCKJk4meo7oBpN"
       },
       "artists": [
         {
-          "name": "Mardy",
-          "url": "https://open.spotify.com/artist/6HaC81NCS3UYMTm658wCz3"
+          "name": "Oblivyus",
+          "url": "https://open.spotify.com/artist/4SJZ4N7pzgJlTEqITA8XVz"
         }
       ],
-      "duration_ms": 189558,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
+      "duration_ms": 151876,
+      "name": "where is the sign",
+      "url": "https://open.spotify.com/track/0t3jA9lPbkAXrGgs6J7FYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep The Light On",
+        "url": "https://open.spotify.com/album/19MAVwshUMivL9dc7RSLu1"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Keep The Light On",
+      "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinematic World",
+        "url": "https://open.spotify.com/album/7FM62hDNYn84MFzTG3AUtu"
+      },
+      "artists": [
+        {
+          "name": "Paolo Coruzzi",
+          "url": "https://open.spotify.com/artist/4h9TD849ci45qZi5om2Yxe"
+        }
+      ],
+      "duration_ms": 244598,
+      "name": "Cinematic World",
+      "url": "https://open.spotify.com/track/6PISRCG0sR1qSKDCj3SgPV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "End of the Rope",
+        "url": "https://open.spotify.com/album/1h7lWXgvRcpzCE6qvEJkDC"
+      },
+      "artists": [
+        {
+          "name": "Comfort Module",
+          "url": "https://open.spotify.com/artist/4iJxGGAsqsDxGNFJNUTbv8"
+        }
+      ],
+      "duration_ms": 276166,
+      "name": "End of the Rope",
+      "url": "https://open.spotify.com/track/7zgf8K3iieDafl5ySY4Plf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPIRITUALIZER",
+        "url": "https://open.spotify.com/album/3HGcC4VGQbig4r8DgpWgO9"
+      },
+      "artists": [
+        {
+          "name": "Red Industrie",
+          "url": "https://open.spotify.com/artist/0xa7WZBynbvyibscm06jbs"
+        },
+        {
+          "name": "Sara Noxx",
+          "url": "https://open.spotify.com/artist/7f4A7MBsvMkeAGUBU8YDyy"
+        }
+      ],
+      "duration_ms": 240744,
+      "name": "Sweet Nightmare",
+      "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
     },
     {
       "added_at": null,
@@ -367,42 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/22fvbJd3X4MfGQW7qEauLo"
-      },
-      "artists": [
-        {
-          "name": "Fading Signals",
-          "url": "https://open.spotify.com/artist/1IxJHnfOv3n8slV8r2Et5R"
-        }
-      ],
-      "duration_ms": 265511,
-      "name": "Template",
-      "url": "https://open.spotify.com/track/2U3ZCVEM5t3V2kgfBgJAFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPIRITUALIZER",
-        "url": "https://open.spotify.com/album/3HGcC4VGQbig4r8DgpWgO9"
-      },
-      "artists": [
-        {
-          "name": "Red Industrie",
-          "url": "https://open.spotify.com/artist/0xa7WZBynbvyibscm06jbs"
-        },
-        {
-          "name": "Sara Noxx",
-          "url": "https://open.spotify.com/artist/7f4A7MBsvMkeAGUBU8YDyy"
-        }
-      ],
-      "duration_ms": 240744,
-      "name": "Sweet Nightmare",
-      "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/49Knq1ViTWboqR4X5cwfs9"
       },
@@ -419,18 +475,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy Now",
-        "url": "https://open.spotify.com/album/4FHCi2dqcofj3lredFG5LL"
+        "name": "AB Positive",
+        "url": "https://open.spotify.com/album/2dMKvqeX8YYpthCIXWtr3B"
       },
       "artists": [
         {
-          "name": "plaine",
-          "url": "https://open.spotify.com/artist/35D1c7EqwP9yee0HiTXnUA"
+          "name": "NUDNIK",
+          "url": "https://open.spotify.com/artist/6wXx613GPctyfnNcbRn3p0"
         }
       ],
-      "duration_ms": 230590,
-      "name": "Buy Now",
-      "url": "https://open.spotify.com/track/5967VxIaJHSHZKRmaT0JGx"
+      "duration_ms": 205600,
+      "name": "Cybernetic Dummy",
+      "url": "https://open.spotify.com/track/1NqdEb2VNDRAbmEbfV1Sho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Broken King",
+        "url": "https://open.spotify.com/album/5eTDFtEAkJQH03OupRnv1o"
+      },
+      "artists": [
+        {
+          "name": "Simian Politik",
+          "url": "https://open.spotify.com/artist/5usSNtXbvaQbYDV6crubQo"
+        }
+      ],
+      "duration_ms": 219024,
+      "name": "Broken Picasso (A Very British Protest)",
+      "url": "https://open.spotify.com/track/1Rm4dNrtCihWV9WBuQ62Ww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wehmut",
+        "url": "https://open.spotify.com/album/5TbWCaicEFtMQmHrLpQitM"
+      },
+      "artists": [
+        {
+          "name": "Rue Oberkampf",
+          "url": "https://open.spotify.com/artist/26TwVOegezL4LgF9TkqJ6D"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "Come on Moon",
+      "url": "https://open.spotify.com/track/4PsrTSuZWI93sOFsX0NMnf"
     },
     {
       "added_at": null,
@@ -459,66 +547,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "hi-chew",
-        "url": "https://open.spotify.com/album/0Ni3U6PtFysN8WfTCDFjPQ"
+        "name": "To the Core (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X347ztAUr4yUh2sbmjeHV"
       },
       "artists": [
         {
-          "name": "telekura",
-          "url": "https://open.spotify.com/artist/4RVcjmP8ppJczQZCUn25NV"
+          "name": "Zanias",
+          "url": "https://open.spotify.com/artist/6ouPbOWchZ9U2ojCpMF9Vv"
         }
       ],
-      "duration_ms": 168537,
-      "name": "hi-chew",
-      "url": "https://open.spotify.com/track/2FPqLD50a3gzCeZmjyOFky"
+      "duration_ms": 314943,
+      "name": "Follow the Body - 2026 Version",
+      "url": "https://open.spotify.com/track/3PpF5Vl3TKbmnaVCsN4LTA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Last Song",
-        "url": "https://open.spotify.com/album/5QjAl4VNvnfdh8i8JyUFzz"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/22fvbJd3X4MfGQW7qEauLo"
       },
       "artists": [
         {
-          "name": "Vague Phonique",
-          "url": "https://open.spotify.com/artist/4N2c1Zi3OtpNybZsHkHI2S"
+          "name": "Fading Signals",
+          "url": "https://open.spotify.com/artist/1IxJHnfOv3n8slV8r2Et5R"
         }
       ],
-      "duration_ms": 263656,
-      "name": "The Last Song",
-      "url": "https://open.spotify.com/track/7HVk4Edz6QEeKalkqyHCPF"
+      "duration_ms": 265511,
+      "name": "Template",
+      "url": "https://open.spotify.com/track/2U3ZCVEM5t3V2kgfBgJAFa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wehmut",
-        "url": "https://open.spotify.com/album/5TbWCaicEFtMQmHrLpQitM"
+        "name": "CLAW MACHINE",
+        "url": "https://open.spotify.com/album/1ASzv3eCc8UZ09QXnNbJYy"
       },
       "artists": [
         {
-          "name": "Rue Oberkampf",
-          "url": "https://open.spotify.com/artist/26TwVOegezL4LgF9TkqJ6D"
+          "name": "HIERONYMUSIC",
+          "url": "https://open.spotify.com/artist/47iCTPABFsfzuMZeUcU4zy"
         }
       ],
-      "duration_ms": 300466,
-      "name": "Come on Moon",
-      "url": "https://open.spotify.com/track/4PsrTSuZWI93sOFsX0NMnf"
+      "duration_ms": 197000,
+      "name": "CLAW MACHINE",
+      "url": "https://open.spotify.com/track/7rHOkT1T72TEQYBduComAY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Armour Hill",
-        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
+        "name": "Sou1/Spiri7",
+        "url": "https://open.spotify.com/album/5YTiSpHTXcepnKNFjejSoS"
       },
       "artists": [
         {
-          "name": "Gran Fenwick",
-          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
+          "name": "MYMOU",
+          "url": "https://open.spotify.com/artist/3mMqgWb4KL1Kmdt3dB86J9"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Armour Hill",
-      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
+      "duration_ms": 162063,
+      "name": "Sou1/Spiri7",
+      "url": "https://open.spotify.com/track/1QIG4U1pHWp4DU9bNFNoF8"
     },
     {
       "added_at": null,
@@ -543,18 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "d.e.v.i.l.",
-        "url": "https://open.spotify.com/album/3F6VEx7PSYWEPxBdIv7s7W"
+        "name": "The Last Song",
+        "url": "https://open.spotify.com/album/5QjAl4VNvnfdh8i8JyUFzz"
       },
       "artists": [
         {
-          "name": "becca kate",
-          "url": "https://open.spotify.com/artist/4k11Fgj5xMaWa4GF1a06e5"
+          "name": "Vague Phonique",
+          "url": "https://open.spotify.com/artist/4N2c1Zi3OtpNybZsHkHI2S"
         }
       ],
-      "duration_ms": 192500,
-      "name": "d.e.v.i.l.",
-      "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
+      "duration_ms": 263656,
+      "name": "The Last Song",
+      "url": "https://open.spotify.com/track/7HVk4Edz6QEeKalkqyHCPF"
     },
     {
       "added_at": null,
@@ -575,154 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Life",
-        "url": "https://open.spotify.com/album/2hLHmde256SIeTzUv0FrUs"
+        "name": "Ekstasis",
+        "url": "https://open.spotify.com/album/5jIZyeB8Fz36tNKfoFO240"
       },
       "artists": [
         {
-          "name": "SOOTH",
-          "url": "https://open.spotify.com/artist/40UUzmCiG8fYTGs8itCcoJ"
+          "name": "Samuel Joseph Kim",
+          "url": "https://open.spotify.com/artist/7qTuHMOsxfNcFsNQ0RHKAs"
         }
       ],
-      "duration_ms": 184920,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/2JuhLjWpYIBYUJsVZIw5Fd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "./Bob&Alice",
-        "url": "https://open.spotify.com/album/1tYTowZ59F5H4iND5wimoH"
-      },
-      "artists": [
-        {
-          "name": "Irene Shapes",
-          "url": "https://open.spotify.com/artist/3P3ikBWtAD1LMvnIXiZ9UB"
-        }
-      ],
-      "duration_ms": 313240,
-      "name": "./Bob&Alice",
-      "url": "https://open.spotify.com/track/2wA63JqLYbJWozhx532IVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Send Me An Angel",
-        "url": "https://open.spotify.com/album/0nrn0tOMLbItKkxGW3IB1n"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Favourite Child",
-        "url": "https://open.spotify.com/album/1o2oaSX1TahNLHWncOMtlr"
-      },
-      "artists": [
-        {
-          "name": "Ria Timkin",
-          "url": "https://open.spotify.com/artist/51VEp4bgGrQDFyWEAkEgYQ"
-        }
-      ],
-      "duration_ms": 185499,
-      "name": "War Zone",
-      "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "End of the Rope",
-        "url": "https://open.spotify.com/album/1h7lWXgvRcpzCE6qvEJkDC"
-      },
-      "artists": [
-        {
-          "name": "Comfort Module",
-          "url": "https://open.spotify.com/artist/4iJxGGAsqsDxGNFJNUTbv8"
-        }
-      ],
-      "duration_ms": 276166,
-      "name": "End of the Rope",
-      "url": "https://open.spotify.com/track/7zgf8K3iieDafl5ySY4Plf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imperial Dunes",
-        "url": "https://open.spotify.com/album/0YTBB11oEQcBteV0E0D8Sw"
-      },
-      "artists": [
-        {
-          "name": "Landroid",
-          "url": "https://open.spotify.com/artist/7DIJjtbZhJdqXSVSFfBWyP"
-        }
-      ],
-      "duration_ms": 240431,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/2pfYj2TMVjoMvU0DrsZzuT"
-      },
-      "artists": [
-        {
-          "name": "Amphisbaena",
-          "url": "https://open.spotify.com/artist/4SIwBMRLlJLuxrcaccX71T"
-        }
-      ],
-      "duration_ms": 169176,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Murmurs Under Memphis",
-        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "Warlock Poet",
-          "url": "https://open.spotify.com/artist/4U4Z81LkoZkX3OxAWq3h4z"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Ancestral Cry",
-      "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Broken King",
-        "url": "https://open.spotify.com/album/5eTDFtEAkJQH03OupRnv1o"
-      },
-      "artists": [
-        {
-          "name": "Simian Politik",
-          "url": "https://open.spotify.com/artist/5usSNtXbvaQbYDV6crubQo"
-        }
-      ],
-      "duration_ms": 219024,
-      "name": "Broken Picasso (A Very British Protest)",
-      "url": "https://open.spotify.com/track/1Rm4dNrtCihWV9WBuQ62Ww"
+      "duration_ms": 192125,
+      "name": "Unending Story",
+      "url": "https://open.spotify.com/track/3r5JB5Nc5fgvKNRmDyHX12"
     },
     {
       "added_at": null,
@@ -747,40 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Loan From the Universe",
-        "url": "https://open.spotify.com/album/1XFC0rOQLUxowkk4kxWGnP"
-      },
-      "artists": [
-        {
-          "name": "Norwegian Soft Kitten",
-          "url": "https://open.spotify.com/artist/1RhLtCCiEhC0PxzMXEu5yk"
-        }
-      ],
-      "duration_ms": 362238,
-      "name": "Full Moon Raging",
-      "url": "https://open.spotify.com/track/5q4QoW7xycpvTn2rYAsWGY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Capture Reveal",
-        "url": "https://open.spotify.com/album/3cS3HqW3LIn0rG9mKbBntH"
-      },
-      "artists": [
-        {
-          "name": "Fig by Four",
-          "url": "https://open.spotify.com/artist/2GEAXLGTZsR2R2N0ARiaJD"
-        }
-      ],
-      "duration_ms": 145838,
-      "name": "It Is, Is It?",
-      "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep The Light On",
-        "url": "https://open.spotify.com/album/19MAVwshUMivL9dc7RSLu1"
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
       },
       "artists": [
         {
@@ -788,29 +708,13 @@
           "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
         },
         {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+          "name": "Warlock Poet",
+          "url": "https://open.spotify.com/artist/4U4Z81LkoZkX3OxAWq3h4z"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Keep The Light On",
-      "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2nq8VpmYdq2CEXYCeX4n75"
-      },
-      "artists": [
-        {
-          "name": "Mirror of Venus",
-          "url": "https://open.spotify.com/artist/7MaOzY6rpmZHqmdxdoY125"
-        }
-      ],
-      "duration_ms": 261696,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/6MhcROf37o3rAqVnGpVFQK"
+      "duration_ms": 262000,
+      "name": "Ancestral Cry",
+      "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
     },
     {
       "added_at": null,
@@ -831,42 +735,130 @@
     {
       "added_at": null,
       "album": {
-        "name": "always under pressure",
-        "url": "https://open.spotify.com/album/48hf6yUQBbmeitwmNzDBIX"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2pfYj2TMVjoMvU0DrsZzuT"
       },
       "artists": [
         {
-          "name": "bs",
-          "url": "https://open.spotify.com/artist/3z1xqVpqUypwkROfddpGxs"
+          "name": "Amphisbaena",
+          "url": "https://open.spotify.com/artist/4SIwBMRLlJLuxrcaccX71T"
         }
       ],
-      "duration_ms": 138705,
-      "name": "is it enough?",
-      "url": "https://open.spotify.com/track/6vMWHxbtL2u34lk510XQv3"
+      "duration_ms": 169176,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Town Flesh Extended Play",
-        "url": "https://open.spotify.com/album/5qrag64FQwLAqE4o6k9dT2"
+        "name": "Make me Proud",
+        "url": "https://open.spotify.com/album/4XWlQLPcoaVtMgnFbTvmKr"
       },
       "artists": [
         {
-          "name": "Town Flesh",
-          "url": "https://open.spotify.com/artist/3mvdSfKvp5nnPPNv4mhsYW"
-        },
-        {
-          "name": "Pia Fraus",
-          "url": "https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT"
-        },
-        {
-          "name": "Rein Fuks",
-          "url": "https://open.spotify.com/artist/1ZaBfJovGteskaWUntZg4W"
+          "name": "Cloudburst Swe",
+          "url": "https://open.spotify.com/artist/00kKIdn2R8UINAqEbdns4o"
         }
       ],
-      "duration_ms": 210162,
-      "name": "Afternoon - Remix by Pia Fraus",
-      "url": "https://open.spotify.com/track/6WUiNwTFt2Q98pBrNjevLl"
+      "duration_ms": 263000,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/0e73V4IkTodEYyuvgQMRYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperial Dunes",
+        "url": "https://open.spotify.com/album/0YTBB11oEQcBteV0E0D8Sw"
+      },
+      "artists": [
+        {
+          "name": "Landroid",
+          "url": "https://open.spotify.com/artist/7DIJjtbZhJdqXSVSFfBWyP"
+        }
+      ],
+      "duration_ms": 240431,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cranky Tulips",
+        "url": "https://open.spotify.com/album/0E6tZ8Gta6j1G6z8QvnZAi"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "duration_ms": 276372,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capture Reveal",
+        "url": "https://open.spotify.com/album/3cS3HqW3LIn0rG9mKbBntH"
+      },
+      "artists": [
+        {
+          "name": "Fig by Four",
+          "url": "https://open.spotify.com/artist/2GEAXLGTZsR2R2N0ARiaJD"
+        }
+      ],
+      "duration_ms": 145838,
+      "name": "It Is, Is It?",
+      "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BONUS SONGS EP",
+        "url": "https://open.spotify.com/album/5aNaZlBuWCJd8YRKKaazmU"
+      },
+      "artists": [
+        {
+          "name": "Rod Savage",
+          "url": "https://open.spotify.com/artist/0lNCFL41lHB0QXonzUCaES"
+        }
+      ],
+      "duration_ms": 205008,
+      "name": "Fascinating Me",
+      "url": "https://open.spotify.com/track/2sAz58nXQoQTSwsxCdHVWg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Guardi\u00e1n del Equilibrio",
+        "url": "https://open.spotify.com/album/7kvGaHTv4Qs81RzYYLtaqd"
+      },
+      "artists": [
+        {
+          "name": "Drofkai",
+          "url": "https://open.spotify.com/artist/0xr3lCcDDcCilYwtQLNVK2"
+        }
+      ],
+      "duration_ms": 93409,
+      "name": "El Guardi\u00e1n del Equilibrio",
+      "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Medium",
+        "url": "https://open.spotify.com/album/22PMileSmxYA53W3MsgUFN"
+      },
+      "artists": [
+        {
+          "name": "LooveX",
+          "url": "https://open.spotify.com/artist/0NdsQYukQrCTFmPgriWd5e"
+        }
+      ],
+      "duration_ms": 141010,
+      "name": "25 Medium",
+      "url": "https://open.spotify.com/track/4wZkurfUQhCxzBm85qThzr"
     }
   ],
   "unique_name": "DePitcha Radio",

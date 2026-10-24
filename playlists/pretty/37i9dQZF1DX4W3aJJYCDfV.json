@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Sammy Virji, Skepta, Jazzy, Michael Kiwanuka and more! ",
-  "num_followers": 1039547,
+  "num_followers": 1040196,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACeYL2grcp25gRf7M989fhjEmSTs",
+  "snapshot_id": "AAAAANW3aA//LayrtI8atYaL2I6N63HY",
   "tracks": [
     {
       "added_at": "2026-10-22 23:00:45",
@@ -167,6 +167,22 @@
       "duration_ms": 85334,
       "name": "hackney_wick",
       "url": "https://open.spotify.com/track/668eTlw1gXdgd4yIPftSc6"
+    },
+    {
+      "added_at": "2026-10-23 09:16:08",
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 145099,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
       "added_at": "2026-10-22 23:00:45",
@@ -995,7 +1011,7 @@
     {
       "added_at": "2026-10-22 23:00:45",
       "album": {
-        "name": "PASSENGER PRINCESS",
+        "name": "PASSENGER PRINCESS (feat. Not3s & Deno)",
         "url": "https://open.spotify.com/album/2txrQGMM52McgLwSYm4YHR"
       },
       "artists": [
@@ -1004,16 +1020,16 @@
           "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
         },
         {
-          "name": "Deno",
-          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
-        },
-        {
           "name": "Not3s",
           "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        },
+        {
+          "name": "Deno",
+          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
         }
       ],
       "duration_ms": 181855,
-      "name": "PASSENGER PRINCESS",
+      "name": "PASSENGER PRINCESS (feat. Not3s & Deno)",
       "url": "https://open.spotify.com/track/6h9M79FfL7dCOyYly4gJwB"
     },
     {
@@ -1320,8 +1336,8 @@
           "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 182594,
+      "name": "Working On Myself",
       "url": "https://open.spotify.com/track/02Zpp73rjzDE7zEJkAeFNo"
     },
     {
@@ -1379,7 +1395,7 @@
     {
       "added_at": "2026-10-22 23:00:45",
       "album": {
-        "name": "Close My Eyes",
+        "name": "Close my eyes",
         "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
       },
       "artists": [
@@ -1393,7 +1409,7 @@
         }
       ],
       "duration_ms": 227000,
-      "name": "Close My Eyes",
+      "name": "Close my eyes",
       "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
     },
     {
@@ -1560,8 +1576,8 @@
           "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 224160,
+      "name": "Fortuna",
       "url": "https://open.spotify.com/track/0WdTgNaOkg6ECF2C8id4ug"
     },
     {

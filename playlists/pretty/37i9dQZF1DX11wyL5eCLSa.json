@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Nsqk en portada. ",
-  "num_followers": 179583,
+  "num_followers": 179586,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACaOqT5Rs6DeCBM7+a+EN9Hu4ABm",
+  "snapshot_id": "AAAAALnmYseQ5axRWWxSIfUUvWHb/eZB",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:20",
@@ -27,6 +27,54 @@
       "duration_ms": 222580,
       "name": "Dientes De Fierro",
       "url": "https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj"
+    },
+    {
+      "added_at": "2026-10-23 06:00:48",
+      "album": {
+        "name": "HP HOP",
+        "url": "https://open.spotify.com/album/40EDo17B0uJQziHtoqz1GA"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "HP HOP",
+      "url": "https://open.spotify.com/track/3baMOlktV95cOV1c4ZDBjR"
+    },
+    {
+      "added_at": "2026-10-23 06:00:48",
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/08vSgyoH5tOsVHolqqcOmx"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "duration_ms": 172590,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/4cWw0TPimL3a3OATw639lg"
+    },
+    {
+      "added_at": "2026-10-23 06:00:48",
+      "album": {
+        "name": "Almanautas",
+        "url": "https://open.spotify.com/album/2ioOYaqACPikyUrNZuq3Ce"
+      },
+      "artists": [
+        {
+          "name": "Esper\u00f3n",
+          "url": "https://open.spotify.com/artist/4VD0eThiy8dR6NTT0ZulGI"
+        }
+      ],
+      "duration_ms": 266603,
+      "name": "Almanautas",
+      "url": "https://open.spotify.com/track/3FF7bOJ6b6zqMV4yYjm30G"
     },
     {
       "added_at": "2026-10-16 06:00:20",
@@ -983,22 +1031,6 @@
     {
       "added_at": "2026-10-16 06:00:20",
       "album": {
-        "name": "Fiesta en la Ciudad",
-        "url": "https://open.spotify.com/album/5pSDd5eusuCSM37UceAq0U"
-      },
-      "artists": [
-        {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
-        }
-      ],
-      "duration_ms": 242230,
-      "name": "Fiesta en la Ciudad",
-      "url": "https://open.spotify.com/track/6NAoDrD7PUfz0S1k8HqByh"
-    },
-    {
-      "added_at": "2026-10-16 06:00:20",
-      "album": {
         "name": "Six Seven",
         "url": "https://open.spotify.com/album/1WDr24Knc3ybhyP3jpsM7H"
       },
@@ -1111,22 +1143,6 @@
       "duration_ms": 211384,
       "name": "Me Decid\u00ed",
       "url": "https://open.spotify.com/track/2PG2rc1AOwtbG0VibwkCZ1"
-    },
-    {
-      "added_at": "2026-10-16 06:00:20",
-      "album": {
-        "name": "Cantar y amar",
-        "url": "https://open.spotify.com/album/2jKSpP2UKGNEN9u9dsdynm"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Cantar y amar",
-      "url": "https://open.spotify.com/track/2s0rlgH5aEemPbIRwLeRnm"
     },
     {
       "added_at": "2026-10-16 06:00:20",
@@ -1339,22 +1355,6 @@
       "duration_ms": 276613,
       "name": "Esta noche",
       "url": "https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM"
-    },
-    {
-      "added_at": "2026-10-16 06:00:20",
-      "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "added_at": "2026-10-16 06:00:20",

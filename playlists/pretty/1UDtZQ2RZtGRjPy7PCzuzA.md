@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,615 songs - 3 day 21 hr 14 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,617 songs - 3 day 21 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1539,7 +1539,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1529 | [Everything Changes](https://open.spotify.com/track/6nUhDYgFdSWWIWnN0Mwq9G) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA), [Waitress Original Broadway Cast Ensemble](https://open.spotify.com/artist/42T0ua8vepUO5ao1H0RExt) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 3:02 |
 | 1530 | [Opening Up \- Finale](https://open.spotify.com/track/0D0hntFnPGhcqlexHeudeV) | [Waitress Original Broadway Company](https://open.spotify.com/artist/1miImnjS3RGbyWaixJ5ZdK) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 1:44 |
 | 1531 | [Uncle ACE](https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:16 |
-| 1532 | [No Right Thing](https://open.spotify.com/track/5u8ZMevzINPCrN2uXQkeNZ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [David Longstreth](https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:11 |
+| 1532 | [No Right Thing](https://open.spotify.com/track/5u8ZMevzINPCrN2uXQkeNZ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:11 |
 | 1533 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
 | 1534 | [Chosen](https://open.spotify.com/track/0AHJWgA2mLYz2iFVwbCeod) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 6:44 |
 | 1535 | [Clipped On](https://open.spotify.com/track/3YCoVXFnaF5cct0hOxFeQO) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Despot](https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 3:10 |
@@ -1617,11 +1617,13 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1607 | [Summer Wine](https://open.spotify.com/track/2JKRZGp4LwT9GGbcXtx2sw) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:44 |
 | 1608 | [Lady Bird](https://open.spotify.com/track/1ixklIx8NoGTFPLePorib7) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:04 |
 | 1609 | [She'll Never Be Me](https://open.spotify.com/track/3wgrOVBvLSjPujrxDjdWeV) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [She'll Never Be Me](https://open.spotify.com/album/6bJ8cNQanzgNNzKIfQMxUC) | 3:05 |
-| 1610 | [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
+| 1610 | [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
 | 1611 | [G.U.Y.](https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:52 |
 | 1612 | [The Trickster](https://open.spotify.com/track/0cGhVtElTkkJMcs0CQUPxR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [My Iron Lung](https://open.spotify.com/album/4GqinDAWUcJ20wfCaie6f8) | 4:42 |
 | 1613 | [My Hero](https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:20 |
 | 1614 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
 | 1615 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
+| 1616 | [Neon in the Dance Halls](https://open.spotify.com/track/6gpkiucXSuUPFMlolp0iWa) | [Fearless Vampire Killers](https://open.spotify.com/artist/1T0jkjcPB2OUmOb3pNr9wU) | [Unbreakable Hearts](https://open.spotify.com/album/7dz9GljicF6Z8r7cjbUpKo) | 3:52 |
+| 1617 | [Say What You Want from Me \(The Ghost You Left Behind\)](https://open.spotify.com/track/0N2oSwyHTeMsT8o7rT418H) | [Fearless Vampire Killers](https://open.spotify.com/artist/1T0jkjcPB2OUmOb3pNr9wU) | [Unbreakable Hearts](https://open.spotify.com/album/7dz9GljicF6Z8r7cjbUpKo) | 4:31 |
 
-Snapshot ID: `AAAOaR3gCpCD6h/9JplNI33M1omVuzo9`
+Snapshot ID: `AAAOa0Z7M65byoS50UuhcBFnPn/XXkwV`

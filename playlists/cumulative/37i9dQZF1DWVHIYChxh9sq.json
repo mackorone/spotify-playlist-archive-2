@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Los Encinos De Sinaloa",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Banda Clave de Oro de Christian Rojas ",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 209375,
       "name": "Agua Y Aceite - En Vivo",
       "url": "https://open.spotify.com/track/5HUaMvZnDyE1Nob6Hi9ZeD"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192394,
       "name": "Besos Y Cerezas (En Vivo)",
       "url": "https://open.spotify.com/track/2LFMfRklB7N8ZEgAkt3XvP"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 206043,
       "name": "Cielito Lindo - Live",
       "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 174032,
       "name": "Delante De Mi - En Vivo",
       "url": "https://open.spotify.com/track/0VuDKIjFFzHxT4Xa7Yaq0Q"
@@ -5165,6 +5165,28 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s Del Chubasco (En Vivo)",
+        "url": "https://open.spotify.com/album/0dQ7NFIYoZO8EXSGiXlid0"
+      },
+      "artists": [
+        {
+          "name": "NORTE\u00d1AZO",
+          "url": "https://open.spotify.com/artist/24Spi0bZV1slKqwAOlTf4f"
+        },
+        {
+          "name": "Los Eugenios De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5mkOXsyiAZ1HJZt4CKl8ml"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "El Vino Y La Parranda - En Vivo",
+      "url": "https://open.spotify.com/track/6gwhyMEjsIk8g9bInnVL1a"
+    },
+    {
+      "album": {
         "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
         "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
       },
@@ -5298,6 +5320,24 @@
       "duration_ms": 186578,
       "name": "En Las Cantinas - En Vivo",
       "url": "https://open.spotify.com/track/0G8TwOjPirVFlzvAJrRgg5"
+    },
+    {
+      "album": {
+        "name": "Pura Rolita De 500 En Vivo",
+        "url": "https://open.spotify.com/album/42jqtgBQAlORDTVQT0BqMv"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "En Los Puritos Huesos",
+      "url": "https://open.spotify.com/track/33w6MMIgoZ5IaGUfrkXROU"
     },
     {
       "album": {
@@ -5934,7 +5974,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 172160,
       "name": "Gano Holanda Perdio China En Vivo",
       "url": "https://open.spotify.com/track/1x2FztnRnTV5I2MRMNT3Fo"
@@ -7768,7 +7808,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 232241,
       "name": "Le\u00f3n Ruso - En Vivo",
       "url": "https://open.spotify.com/track/3p6znSCBo1B36ipWIpvY0K"
@@ -8912,7 +8952,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 259828,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6"
@@ -9084,6 +9124,24 @@
       "duration_ms": 177005,
       "name": "Ni Parientes Somos - En Vivo",
       "url": "https://open.spotify.com/track/69shFbqWcNTkQEwv2ZVDtS"
+    },
+    {
+      "album": {
+        "name": "Desde La M\u00e9xico Cap\u00edtulo 5 (Boleros De Siempre) (En Vivo)",
+        "url": "https://open.spotify.com/album/6aDllX40LCZvO7h2cOUgTz"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193365,
+      "name": "No Hay Novedad - Boleros De Siempre (En Vivo)",
+      "url": "https://open.spotify.com/track/6AVnsX6L4MTDtFNXriHYIM"
     },
     {
       "album": {
@@ -9923,6 +9981,24 @@
     },
     {
       "album": {
+        "name": "Por Tus Amores Juanita (En Vivo)",
+        "url": "https://open.spotify.com/album/7BuceWvTrbVvf7o4B75d4c"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206894,
+      "name": "Por Tus Amores Juanita - En Vivo",
+      "url": "https://open.spotify.com/track/6oo8Bwdi51XQFl7E7oK209"
+    },
+    {
+      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -10134,7 +10210,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 229546,
       "name": "Que No Se D\u00e9 Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/63BqSJThnN0iYkFsW9vCgC"

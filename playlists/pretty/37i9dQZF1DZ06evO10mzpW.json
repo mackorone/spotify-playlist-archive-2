@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADc55ev6mVO1wqsQZkGXkRA",
+  "snapshot_id": "atgAgAAAAACBwGZcXgqKhM2T9+opqkNw",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 369173,
-      "name": "Organized Confusion",
-      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
+      "duration_ms": 282135,
+      "name": "Plot Zero",
+      "url": "https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 282135,
-      "name": "Plot Zero",
-      "url": "https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP"
+      "duration_ms": 369173,
+      "name": "Organized Confusion",
+      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
     },
     {
       "added_at": null,
@@ -356,15 +356,15 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 347438,
-      "name": "The Pulsation",
-      "url": "https://open.spotify.com/track/3LRpu81vIDpX0Avb4i1Wex"
+      "duration_ms": 270539,
+      "name": "Marking Time",
+      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Joy / Domestic Peace",
-        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 208986,
-      "name": "Domestic Peace",
-      "url": "https://open.spotify.com/track/3s7YNaBBYhCHs8ACMmp6JH"
+      "duration_ms": 323146,
+      "name": "Tenement Stairwell",
+      "url": "https://open.spotify.com/track/5uNPTCRQdNOP1lAKsoRXQo"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectre",
-        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
+        "name": "Quiet Joy / Domestic Peace",
+        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 323146,
-      "name": "Tenement Stairwell",
-      "url": "https://open.spotify.com/track/5uNPTCRQdNOP1lAKsoRXQo"
+      "duration_ms": 208986,
+      "name": "Domestic Peace",
+      "url": "https://open.spotify.com/track/3s7YNaBBYhCHs8ACMmp6JH"
     },
     {
       "added_at": null,

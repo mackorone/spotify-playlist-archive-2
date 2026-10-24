@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,221 likes - 36 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,222 likes - 36 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 27 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
 | 28 | [Dale Jr.](https://open.spotify.com/track/4iBqrjHrqEBafmRe8FstMK) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Dale Jr.](https://open.spotify.com/album/3ieOkLgEJWVADeBeqIXPs1) | 3:35 |
 | 29 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/4Dvqy5ohQ4sUR1sCETSeak) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 |
-| 30 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 |
-| 31 | [Winter](https://open.spotify.com/track/69mhMyy8rxYKGfPpr9wesT) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 5:42 |
-| 32 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
-| 33 | [Build Me A Daddy](https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Build Me A Daddy](https://open.spotify.com/album/3wCpymONuF2pwfAyz4mFW3) | 3:09 |
+| 30 | [Winter](https://open.spotify.com/track/69mhMyy8rxYKGfPpr9wesT) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 5:42 |
+| 31 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 |
+| 32 | [Build Me A Daddy](https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Build Me A Daddy](https://open.spotify.com/album/3wCpymONuF2pwfAyz4mFW3) | 3:09 |
+| 33 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
 | 34 | [Song For Dad](https://open.spotify.com/track/0l2G2yxjpE9zgUA8rJlAMu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:56 |
 | 35 | [Daughters](https://open.spotify.com/track/2cOfceFeMN2YgYaOf3KYJ6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:20 |
-| 36 | [My Old Man](https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:41 |
+| 36 | [Daddy Could Swear, I Declare](https://open.spotify.com/track/2EljJKZd4yCPBhWczgQjoo) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 3:45 |
 
 Snapshot ID: `AAAAABlgD11Dw2hxTQuZBw6E1QZsAaKV`

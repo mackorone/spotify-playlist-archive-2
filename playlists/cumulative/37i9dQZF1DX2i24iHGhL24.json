@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 161125,
       "name": "Lay All Your Love On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
@@ -8076,6 +8076,24 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "album": {
+        "name": "Waiting for love",
+        "url": "https://open.spotify.com/album/5uXan79uluUOJ3PmTfnuqr"
+      },
+      "artists": [
+        {
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Waiting for love",
+      "url": "https://open.spotify.com/track/7Bd9L0NkPH6nJwhnNvq07X"
     },
     {
       "album": {

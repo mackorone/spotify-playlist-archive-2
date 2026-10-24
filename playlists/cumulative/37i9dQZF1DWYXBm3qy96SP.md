@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: girl in red
 
-2,410 songs - 5 day 20 hr 46 min
+2,411 songs - 5 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [Cross Your Fingers](https://open.spotify.com/track/2kDS2SAoh9qDZjg1uNxDyz) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Cross Your Fingers](https://open.spotify.com/album/6uHfrz1awx019bmQvuqcax) | 3:49 | 2024-02-15 | 2024-02-23 |
 | [Crown In The Grave](https://open.spotify.com/track/3EiZRLPpax6Jfzr3Ia5dNx) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Crown In The Grave](https://open.spotify.com/album/3OZcfjKKdFHpl787goUIJb) | 4:56 | 2026-10-08 |  |
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-18 | 2024-01-26 |
-| [Crucified](https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Crucified](https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE) | 4:23 | 2026-09-25 |  |
+| [Crucified](https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Crucified](https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE) | 4:23 | 2026-09-25 | 2026-10-24 |
 | [CRUEL](https://open.spotify.com/track/0T70OATh83XtJsQG74lL86) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [CRUEL](https://open.spotify.com/album/7ELoEFG7ec1h7GLDZdFU99) | 2:21 | 2023-11-23 | 2023-12-01 |
 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 | 2026-03-12 | 2026-04-07 |
 | [Crumbs](https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Crumbs](https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq) | 4:13 | 2026-03-05 | 2026-03-22 |
@@ -514,7 +514,7 @@
 | [DANGEROUS](https://open.spotify.com/track/70RmpH9F7edjr4Q31FYDGa) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [DANGEROUS](https://open.spotify.com/album/7IyRivYKTh7Ius18JMzbmL) | 4:06 | 2026-03-12 | 2026-03-27 |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-06 | 2023-04-14 |
 | [DARK](https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [DARK](https://open.spotify.com/album/5hcEXufQsdqSx8Ik7oXXEm) | 2:59 | 2024-05-23 | 2024-10-22 |
-| [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 | 2026-07-30 |  |
+| [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 | 2026-07-30 | 2026-10-24 |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-15 | 2024-06-09 |
 | [Dark Skies](https://open.spotify.com/track/72mLqLvPHY8RU0noE9CpKs) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Dark Skies](https://open.spotify.com/album/5NodXs8mlXnrAA0P6yu8n4) | 3:27 | 2024-01-11 | 2024-01-26 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-12 | 2024-02-09 |
@@ -1290,7 +1290,7 @@
 | [Lucid Love](https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [⁠Lucid Love](https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH) | 3:30 | 2026-07-03 | 2026-08-07 |
 | [Luckiest Man In The World](https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb \(Re\-Assemble Edition\)](https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV) | 6:12 | 2024-11-22 | 2025-01-10 |
 | [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 | 2026-10-01 | 2026-10-09 |
-| [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 | 2026-10-01 | 2026-10-23 |
+| [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 | 2026-10-01 |  |
 | [Machine](https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Machine](https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD) | 4:00 | 2026-09-17 |  |
 | [MAD CONTROL](https://open.spotify.com/track/3mbumdEcCKGj7Ns04bS2U5) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [MAD CONTROL](https://open.spotify.com/album/4GfCf8VSvcXVfgEqoJMN7U) | 3:49 | 2024-08-09 | 2024-09-13 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-02 | 2023-11-10 |
@@ -1701,6 +1701,7 @@
 | [Reward the Scars](https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Reward the Scars](https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl) | 3:35 | 2026-04-23 | 2026-07-31 |
 | [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 | 2023-10-26 | 2024-02-23 |
 | [RE：人是](https://open.spotify.com/track/5WuKGARwktpTcoGhbBiaqh) | [鬼否](https://open.spotify.com/artist/6QJLsvsWMiVNKdvOJY9CGC) | [本體Ontology](https://open.spotify.com/album/7JP1h7mQBNTuq6HVSpAU8c) | 3:43 | 2024-04-18 | 2024-06-21 |
+| [Ribbon Factory](https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [Ribbon Factory](https://open.spotify.com/album/19xC9OCK7OdpU7e81iNsvL) | 4:14 | 2026-10-22 |  |
 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 | 2026-06-04 | 2026-06-19 |
 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 | 2026-04-23 | 2026-06-26 |
 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-06 | 2023-04-21 |

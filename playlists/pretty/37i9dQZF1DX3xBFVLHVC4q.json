@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Sunshine!!\" \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
-  "num_followers": 55921,
+  "num_followers": 55926,
   "original_name": "Love Live! Sunshine!!",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c/MIRAI TICKET",
-        "url": "https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        }
-      ],
-      "duration_ms": 293880,
-      "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c",
-      "url": "https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "Awaken the power",
         "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 236053,
       "name": "Strawberry Trapper",
       "url": "https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c/MIRAI TICKET",
+        "url": "https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        }
+      ],
+      "duration_ms": 293880,
+      "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c",
+      "url": "https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
-        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
-      },
-      "artists": [
-        {
-          "name": "CYaRon!",
-          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
-      "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "Strawberry Trapper",
         "url": "https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+      "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "\u9752\u7a7aJumping Heart",
         "url": "https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ"
       },
@@ -247,6 +247,86 @@
       "duration_ms": 284413,
       "name": "\u9752\u7a7aJumping Heart",
       "url": "https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "Dazzling White Town",
+        "url": "https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Dazzling White Town",
+      "url": "https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+      "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Shadow gate to love",
+      "url": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 VOL.2 \uff5eWINTER VACATION\uff5e",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        }
+      ],
+      "duration_ms": 296840,
+      "name": "Misty Frosty Love",
+      "url": "https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\uff5e2017)",
+        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "duration_ms": 275173,
+      "name": "Daydream Warrior",
+      "url": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -283,22 +363,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
-        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "\u6c7a\u3081\u305f\u3088Hand in Hand",
-      "url": "https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
         "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
       },
@@ -315,34 +379,82 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\uff5e2017)",
-        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
+        "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \uff5ePianoforte Monologue\uff5e",
+        "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
       },
       "artists": [
         {
-          "name": "Aqours",
-          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
         }
       ],
-      "duration_ms": 275173,
-      "name": "Daydream Warrior",
-      "url": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs"
+      "duration_ms": 310293,
+      "name": "PURE PHRASE",
+      "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
     },
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "Dazzling White Town",
-        "url": "https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv"
+        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
       },
       "artists": [
         {
-          "name": "Saint Snow",
-          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
         }
       ],
-      "duration_ms": 262680,
-      "name": "Dazzling White Town",
-      "url": "https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo"
+      "duration_ms": 266866,
+      "name": "\u6c7a\u3081\u305f\u3088Hand in Hand",
+      "url": "https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \uff5e\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\uff5e",
+        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?",
+      "url": "https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "GALAXY HidE and SeeK",
+        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "INNOCENT BIRD",
+      "url": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "New Romantic Sailors",
+        "url": "https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "New Romantic Sailors",
+      "url": "https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -379,22 +491,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "New Romantic Sailors",
-        "url": "https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF"
-      },
-      "artists": [
-        {
-          "name": "Guilty Kiss",
-          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "New Romantic Sailors",
-      "url": "https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\uff5e2017)",
         "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
       },
@@ -407,6 +503,22 @@
       "duration_ms": 256813,
       "name": "Waku-Waku-Week!",
       "url": "https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "Amazing Travel DNA",
+        "url": "https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "\u30e1\u30a4\u30ba\u30bb\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/6sfCZBZbomvxfp2l15eumu"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -443,8 +555,8 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
-        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
+        "name": "Braveheart Coaster",
+        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
       },
       "artists": [
         {
@@ -452,25 +564,9 @@
           "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
         }
       ],
-      "duration_ms": 278400,
-      "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
-      "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
-        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
-      },
-      "artists": [
-        {
-          "name": "Guilty Kiss",
-          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Shadow gate to love",
-      "url": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj"
+      "duration_ms": 252466,
+      "name": "\u30b3\u30c9\u30af\u30fb\u30c6\u30ec\u30dd\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7drkoBPx9SHgtXOuFjD8eb"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -491,22 +587,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
-        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
-      "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 VOL.1 \uff5eSUMMER VACATION\uff5e",
         "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
       },
@@ -519,54 +599,6 @@
       "duration_ms": 277133,
       "name": "\u771f\u590f\u306f\u8ab0\u306e\u30e2\u30ce?",
       "url": "https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "Braveheart Coaster",
-        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
-      },
-      "artists": [
-        {
-          "name": "CYaRon!",
-          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
-        }
-      ],
-      "duration_ms": 309506,
-      "name": "CHANGELESS",
-      "url": "https://open.spotify.com/track/11L8jsLlG0Ml8BBqdZxWqh"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 VOL.2 \uff5eWINTER VACATION\uff5e",
-        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
-          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
-        }
-      ],
-      "duration_ms": 296840,
-      "name": "Misty Frosty Love",
-      "url": "https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \uff5e\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\uff5e",
-        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
-          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "\u3082\u3063\u3068\u306d!",
-      "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -603,6 +635,38 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
+      "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \uff5e\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\uff5e",
+        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "\u3082\u3063\u3068\u306d!",
+      "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 VOL.1 \uff5eSUMMER VACATION\uff5e",
         "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
       },
@@ -615,86 +679,6 @@
       "duration_ms": 285586,
       "name": "\u5730\u5143\u611b\u25bd\u6e80\u30bf\u30f3\u2606\u30b5\u30de\u30fc\u30e9\u30a4\u30d5",
       "url": "https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \uff5ePianoforte Monologue\uff5e",
-        "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
-          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "PURE PHRASE",
-      "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 VOL.2 \uff5eWINTER VACATION\uff5e",
-        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
-          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
-      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \uff5eRED GEM WINK\uff5e",
-        "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
-      },
-      "artists": [
-        {
-          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
-          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "RED GEM WINK",
-      "url": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "GALAXY HidE and SeeK",
-        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
-      },
-      "artists": [
-        {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "INNOCENT BIRD",
-      "url": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "Braveheart Coaster",
-        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
-      },
-      "artists": [
-        {
-          "name": "CYaRon!",
-          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "Braveheart Coaster",
-      "url": "https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -715,8 +699,40 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \uff5e\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\uff5e",
-        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
+        "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \uff5eRED GEM WINK\uff5e",
+        "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "RED GEM WINK",
+      "url": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "Braveheart Coaster",
+        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "duration_ms": 309506,
+      "name": "CHANGELESS",
+      "url": "https://open.spotify.com/track/11L8jsLlG0Ml8BBqdZxWqh"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 VOL.2 \uff5eWINTER VACATION\uff5e",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
         }
       ],
-      "duration_ms": 288293,
-      "name": "\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?",
-      "url": "https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R"
+      "duration_ms": 263146,
+      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
+      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -743,22 +759,6 @@
       "duration_ms": 283520,
       "name": "\u30ad\u30e2\u30c1\u3082\u30e6\u30e1\u3082\u4e00\u7dd2\u3060\u306d!",
       "url": "https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "Amazing Travel DNA",
-        "url": "https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2"
-      },
-      "artists": [
-        {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "\u7a7a\u4e2d\u604b\u611b\u8ad6",
-      "url": "https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD"
     },
     {
       "added_at": "2024-12-17 16:20:41",

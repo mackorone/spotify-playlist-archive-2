@@ -4345,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "Without a Word",
+        "url": "https://open.spotify.com/album/1MrA7zIefy4ibNZeUdl3sI"
+      },
+      "artists": [
+        {
+          "name": "Asger Rykker",
+          "url": "https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Without a Word",
+      "url": "https://open.spotify.com/track/45dVmnPoz3qOcHwXi3aQpY"
+    },
+    {
+      "album": {
         "name": "Written in Stone",
         "url": "https://open.spotify.com/album/3SKH2KhCNa0HP3S28xPWbL"
       },

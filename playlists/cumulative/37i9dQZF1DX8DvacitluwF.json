@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: TRON PYRE",
+  "description": "The best in South African and international R&B. Cover: Mikhal\u00e9 Jones",
   "name": "R&Beats",
   "tracks": [
     {
@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Boy Bye",
+        "url": "https://open.spotify.com/album/4Rexq8Gfnr2HVugZtBQe32"
+      },
+      "artists": [
+        {
+          "name": "Mikhal\u00e9 Jones",
+          "url": "https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185368,
+      "name": "Boy Bye",
+      "url": "https://open.spotify.com/track/1qHfALx9TOCooQQ8uzILzc"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
       },
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 220235,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 195279,
       "name": "DIAMOND GOLD",
       "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 307800,
       "name": "Every Part of Me",
       "url": "https://open.spotify.com/track/54GqsB6gSZk8yejl2L0kOX"
@@ -3914,6 +3932,28 @@
       "duration_ms": 176347,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/6ll7qHgdALQu5P6Q2uBNOG"
+    },
+    {
+      "album": {
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/7utMwG37UMHPARIWE9azq1"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "MAJIC",
+          "url": "https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245496,
+      "name": "Feel My Love (feat. MAJIC)",
+      "url": "https://open.spotify.com/track/0b5HPucjqCC7R9J1QzfaSO"
     },
     {
       "album": {
@@ -4976,7 +5016,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 235200,
       "name": "Healer",
       "url": "https://open.spotify.com/track/2wRrrlLs4fncP1TzVjt2Gt"
@@ -8744,7 +8784,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198620,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l"
@@ -12245,6 +12285,24 @@
     },
     {
       "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+    },
+    {
+      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -13412,7 +13470,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 199466,
       "name": "What a Woman",
       "url": "https://open.spotify.com/track/1c7gIfA5Lq06MHWIDMrCuB"
@@ -13702,7 +13760,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210212,
       "name": "Wtshyf (I Love It)",
       "url": "https://open.spotify.com/track/65W0ND2YGkfqHon8IuJPMd"

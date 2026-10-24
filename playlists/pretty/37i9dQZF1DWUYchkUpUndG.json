@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: Saelem",
-  "num_followers": 67576,
+  "num_followers": 67714,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMCZqZnJlJ5GywHSlscB+3xSFFMt",
+  "snapshot_id": "AAAAAGPlKXxgZ4XOMOdlvp6tzClMENi+",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:18",
@@ -40,7 +40,7 @@
           "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
         }
       ],
-      "duration_ms": 180456,
+      "duration_ms": 180923,
       "name": "Locked In",
       "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
     },
@@ -112,8 +112,8 @@
           "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
         },
         {
-          "name": "Kaestrings",
-          "url": "https://open.spotify.com/artist/4cXRlq46eQ78HJRRIUIbDP"
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
         }
       ],
       "duration_ms": 1125880,
@@ -150,10 +150,14 @@
         {
           "name": "Gabriel Eziashi",
           "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 500898,
+      "name": "Raggae Goodnews",
       "url": "https://open.spotify.com/track/4dNv518ydCjW09cTsod9gR"
     },
     {
@@ -291,7 +295,7 @@
     {
       "added_at": "2026-10-23 00:01:18",
       "album": {
-        "name": "I Believe",
+        "name": "I Believe (Live)",
         "url": "https://open.spotify.com/album/0JqRmgSYbh7K7vABWF0opa"
       },
       "artists": [
@@ -301,8 +305,40 @@
         }
       ],
       "duration_ms": 1179863,
-      "name": "I Believe",
+      "name": "I Believe - Live",
       "url": "https://open.spotify.com/track/19riP5PtckUNjgn6XKvdlf"
+    },
+    {
+      "added_at": "2026-10-23 09:16:47",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Wus6I2cHdX9HBF3U5f0js"
+      },
+      "artists": [
+        {
+          "name": "Taiwo Oshin",
+          "url": "https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U"
+        }
+      ],
+      "duration_ms": 347294,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/4k2FUrjkfSMkyZTM7B4O64"
+    },
+    {
+      "added_at": "2026-10-23 10:14:41",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/12dS4Gq6wVlkQqRWapmbck"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 166110,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5zbFzMSjsPAjp9UYumhr0u"
     },
     {
       "added_at": "2026-10-23 00:01:18",
@@ -459,7 +495,7 @@
     {
       "added_at": "2026-10-23 00:01:18",
       "album": {
-        "name": "With My heart (Spontaneous) [feat. Sanmi Michael]",
+        "name": "With My heart (Spontaneous)",
         "url": "https://open.spotify.com/album/2oy6YWa74rzaaGefA5qWeE"
       },
       "artists": [
@@ -473,7 +509,7 @@
         }
       ],
       "duration_ms": 482266,
-      "name": "With My heart (Spontaneous) [feat. Sanmi Michael]",
+      "name": "With My heart (Spontaneous)",
       "url": "https://open.spotify.com/track/0DtCnUad5CGWvclmEvClFJ"
     },
     {
@@ -652,8 +688,8 @@
           "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 168960,
+      "name": "Surrounded",
       "url": "https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm"
     },
     {
@@ -1147,6 +1183,26 @@
       "duration_ms": 193280,
       "name": "MIRACLES",
       "url": "https://open.spotify.com/track/4ZDfSUZC6sUhQWYtxT2VMM"
+    },
+    {
+      "added_at": "2026-10-23 00:01:18",
+      "album": {
+        "name": "Before And Beyond (Songs Of Old)",
+        "url": "https://open.spotify.com/album/1i2PZcJs5Mht6FhJaKZGoR"
+      },
+      "artists": [
+        {
+          "name": "Da Vizion",
+          "url": "https://open.spotify.com/artist/5m4AloToly2v9In26VSR5Y"
+        },
+        {
+          "name": "Vessel (PV)",
+          "url": "https://open.spotify.com/artist/3vYJqUWr7lm8irTTNuFZNG"
+        }
+      ],
+      "duration_ms": 247296,
+      "name": "JUDGMENT DAY",
+      "url": "https://open.spotify.com/track/0ZY9bgo5MkInpFPy5MKnJY"
     },
     {
       "added_at": "2026-10-16 00:01:31",

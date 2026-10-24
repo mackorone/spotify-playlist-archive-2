@@ -7309,6 +7309,24 @@
     },
     {
       "album": {
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/5N8EIJo0rBiTiDgGH49Cri"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ"
+    },
+    {
+      "album": {
         "name": "fallIn'",
         "url": "https://open.spotify.com/album/0UBt9qU96ZwijUeQHCrPN5"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 112225,
+  "num_followers": 112226,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADgJaiUoTGH6lKnQXzYmq1c",
+  "snapshot_id": "atgAgAAAAACEtBPMGLJHBvkB+jtwQgz0",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 312826,
-      "name": "Through the Night Mist",
-      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 546106,
       "name": "To the Unknown Man",
       "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 331426,
-      "name": "12 O'Clock",
-      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 326653,
       "name": "Main Theme - From \"Chariots of Fire\"",
       "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 331426,
+      "name": "12 O'Clock",
+      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reprise 1990-1999",
-        "url": "https://open.spotify.com/album/38ZlWsy8hIIl42Cv7bQFHB"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Theme from Bitter Moon",
-      "url": "https://open.spotify.com/track/60oJ9svwUE4lvyF7KYA60p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 212680,
       "name": "Early Years",
       "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reprise 1990-1999",
+        "url": "https://open.spotify.com/album/38ZlWsy8hIIl42Cv7bQFHB"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Theme from Bitter Moon",
+      "url": "https://open.spotify.com/track/60oJ9svwUE4lvyF7KYA60p"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 402493,
-      "name": "Spanish Harbour",
-      "url": "https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 351133,
       "name": "Nocturnal Promenade",
       "url": "https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 402493,
+      "name": "Spanish Harbour",
+      "url": "https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG"
     },
     {
       "added_at": null,

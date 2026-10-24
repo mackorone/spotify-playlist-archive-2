@@ -1,18 +1,18 @@
 {
   "description": "Listen to the best songs from faith-based indie artists.  Cover: Gable Price without Friends",
-  "num_followers": 98352,
+  "num_followers": 98362,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACdFF6D4GGKF2MrkwxRQe5UanTl1",
+  "snapshot_id": "AAAAAD0CrIB6VJNXWtrAKGkdtrSf9Y0L",
   "tracks": [
     {
-      "added_at": "2026-09-19 01:45:15",
+      "added_at": "2026-10-23 06:55:15",
       "album": {
-        "name": "Talking Like Friends",
-        "url": "https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91"
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4C3KANVpErZn25vEVc7SdU"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
         }
       ],
-      "duration_ms": 292857,
-      "name": "Talking Like Friends",
-      "url": "https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht"
+      "duration_ms": 205454,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/64SUQzv420o9B2HGsPdL3e"
     },
     {
       "added_at": "2026-09-19 01:45:15",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/65ou3JOhPK3lH0T5EXq7U2"
     },
     {
+      "added_at": "2026-10-23 06:55:15",
+      "album": {
+        "name": "Where Else?",
+        "url": "https://open.spotify.com/album/1UHBi1ZpDMJxZjNzKVZfAW"
+      },
+      "artists": [
+        {
+          "name": "TIDES",
+          "url": "https://open.spotify.com/artist/0eZKxTEWH3Sb70LcJWeWQZ"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Where Else?",
+      "url": "https://open.spotify.com/track/77Qdxc3fmcMxkGBuj9WX1Z"
+    },
+    {
       "added_at": "2026-09-19 01:45:15",
       "album": {
         "name": "i can see ur progress from here",
@@ -147,6 +163,58 @@
       "duration_ms": 190266,
       "name": "IDOLS",
       "url": "https://open.spotify.com/track/3gDMt3XKRxb2ttX6epwIYa"
+    },
+    {
+      "added_at": "2026-10-23 06:55:15",
+      "album": {
+        "name": "r n r",
+        "url": "https://open.spotify.com/album/43o1Mz3m9QPpytIHrDWb6D"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 182442,
+      "name": "r n r",
+      "url": "https://open.spotify.com/track/1I9BMMgS8972CutO5bpL1A"
+    },
+    {
+      "added_at": "2026-09-19 01:45:15",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/2B2cpJbsP8Rx52InsAwqQk"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 106978,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/7b0FkHlN93w2hyW8bBDgd7"
+    },
+    {
+      "added_at": "2026-10-23 06:55:15",
+      "album": {
+        "name": "Origami (Pt. 2)",
+        "url": "https://open.spotify.com/album/4OOXw3sUcAYtO8jjGTbeII"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 186879,
+      "name": "Origami - Pt. 2",
+      "url": "https://open.spotify.com/track/1GsnWpfrj6Dx2fUmDwcxtC"
     },
     {
       "added_at": "2026-09-19 01:45:15",
@@ -233,6 +301,22 @@
       "url": "https://open.spotify.com/track/0iWOdu95ZS9X5o5Bwnavjy"
     },
     {
+      "added_at": "2026-10-23 06:55:15",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4Z5Iy5WM3rDuYgsXc472sI"
+      },
+      "artists": [
+        {
+          "name": "Rashid Saint-Fleur",
+          "url": "https://open.spotify.com/artist/61UpX29ka8i1TPCwhoh3Lr"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/2F4ZMrm8fcZXibtFXAoi5j"
+    },
+    {
       "added_at": "2026-09-19 01:45:15",
       "album": {
         "name": "Jesus, I Love You",
@@ -247,6 +331,22 @@
       "duration_ms": 192000,
       "name": "Jesus, I Love You",
       "url": "https://open.spotify.com/track/64rfngBqWNhYU4ghX0nSGd"
+    },
+    {
+      "added_at": "2026-10-23 06:55:15",
+      "album": {
+        "name": "Fading Fast",
+        "url": "https://open.spotify.com/album/397i5QpnyA4P9dVMAc4bAm"
+      },
+      "artists": [
+        {
+          "name": "Tyler Corbin",
+          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Fading Fast",
+      "url": "https://open.spotify.com/track/5iPXW5iubjIAt8X2lzERct"
     },
     {
       "added_at": "2026-09-19 01:45:15",
@@ -279,22 +379,6 @@
       "duration_ms": 183789,
       "name": "Loves Me Well",
       "url": "https://open.spotify.com/track/6U9YHd5h5AxfhUxCLNxWW6"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/2B2cpJbsP8Rx52InsAwqQk"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 106978,
-      "name": "Rushing",
-      "url": "https://open.spotify.com/track/7b0FkHlN93w2hyW8bBDgd7"
     },
     {
       "added_at": "2026-09-19 01:45:15",
@@ -467,38 +551,6 @@
     {
       "added_at": "2026-09-19 01:45:15",
       "album": {
-        "name": "Every Tear",
-        "url": "https://open.spotify.com/album/6ePFbb6Oo5DUrlSQspwEr7"
-      },
-      "artists": [
-        {
-          "name": "HERITVGE",
-          "url": "https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX"
-        }
-      ],
-      "duration_ms": 139249,
-      "name": "Every Tear",
-      "url": "https://open.spotify.com/track/2m5RTWRcDc5IwdIUfgYxLL"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
-        "name": "POKEDEX",
-        "url": "https://open.spotify.com/album/6AsUd11YrLTRlDkREQ0Szh"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "POKEDEX",
-      "url": "https://open.spotify.com/track/2nJjqgDKKMortxozu6EJu3"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
       },
@@ -527,6 +579,22 @@
       "duration_ms": 136839,
       "name": "oasis for my soul",
       "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
+    },
+    {
+      "added_at": "2026-10-23 06:55:15",
+      "album": {
+        "name": "first love",
+        "url": "https://open.spotify.com/album/1W6mD1bwpKBEqVCcyQDALk"
+      },
+      "artists": [
+        {
+          "name": "Seven7h Way",
+          "url": "https://open.spotify.com/artist/12ULdx7URT1ylRKozDRHM7"
+        }
+      ],
+      "duration_ms": 152766,
+      "name": "first love",
+      "url": "https://open.spotify.com/track/6SDLJQR177aqAKefmKPRnR"
     },
     {
       "added_at": "2026-09-19 01:45:15",
@@ -721,6 +789,26 @@
       "url": "https://open.spotify.com/track/5cG16h1wpCgGhsyrORb3fh"
     },
     {
+      "added_at": "2026-10-23 06:55:15",
+      "album": {
+        "name": "Far Enough",
+        "url": "https://open.spotify.com/album/7Fc6PPSd9GHAUE8TDcTYLq"
+      },
+      "artists": [
+        {
+          "name": "Chloe Mack",
+          "url": "https://open.spotify.com/artist/4dmgGw3d4aIazEIFp5Nmzd"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "duration_ms": 206541,
+      "name": "Far Enough",
+      "url": "https://open.spotify.com/track/0olRs5aewdUTDXSmkTwVlD"
+    },
+    {
       "added_at": "2026-09-19 01:45:15",
       "album": {
         "name": "You Were There",
@@ -839,22 +927,6 @@
     {
       "added_at": "2026-09-19 01:45:15",
       "album": {
-        "name": "EVERYTHING.",
-        "url": "https://open.spotify.com/album/0o5sVZ3GbbPaqsFNTLcqpH"
-      },
-      "artists": [
-        {
-          "name": "ALTAR POETRY",
-          "url": "https://open.spotify.com/artist/3c1TfhJzB4ZYEiaWQPRNdv"
-        }
-      ],
-      "duration_ms": 260787,
-      "name": "EVERYTHING.",
-      "url": "https://open.spotify.com/track/002vR3Z3GD2ClHm3LgqIPc"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/4y0S2B7k2vOzWZTf17ue7s"
       },
@@ -939,30 +1011,6 @@
     {
       "added_at": "2026-09-19 01:45:15",
       "album": {
-        "name": "SEE YOU OUTSIDE",
-        "url": "https://open.spotify.com/album/1AEOnJnOHmipDQkrdAN9ld"
-      },
-      "artists": [
-        {
-          "name": "Jude Barclay",
-          "url": "https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW"
-        },
-        {
-          "name": "Sincer",
-          "url": "https://open.spotify.com/artist/3DMeMHLuD9xKf1MoJEaAl3"
-        },
-        {
-          "name": "CLUBHOUSE!",
-          "url": "https://open.spotify.com/artist/2ifPi03GO4SDwNfkypQKqs"
-        }
-      ],
-      "duration_ms": 111918,
-      "name": "YOUR LOVE IS ALL I EVER NEEDED",
-      "url": "https://open.spotify.com/track/7cKboNJENGijw2GyH2W1SS"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
         "name": "Make Us Ready",
         "url": "https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN"
       },
@@ -1015,22 +1063,6 @@
     {
       "added_at": "2026-09-19 01:45:15",
       "album": {
-        "name": "Decay",
-        "url": "https://open.spotify.com/album/3jPDj7pEs0bJsaFuYVlBti"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Torrens",
-          "url": "https://open.spotify.com/artist/44pylNYJsi2kZZNyxruroW"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Decay",
-      "url": "https://open.spotify.com/track/0Cg8dILW4Rly10d1Al4Yop"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
         "name": "NO HALO",
         "url": "https://open.spotify.com/album/4V5t1kUDI1rra95A1CvPj4"
       },
@@ -1043,22 +1075,6 @@
       "duration_ms": 115517,
       "name": "i5 SOUTH (HEAD TRAUMA)",
       "url": "https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
-        "name": "So Far, So Fine",
-        "url": "https://open.spotify.com/album/3R9IvICpmTITQcnCAR7x8j"
-      },
-      "artists": [
-        {
-          "name": "Alvin Love",
-          "url": "https://open.spotify.com/artist/6Hng7qHsjVDwppa6jmwHgk"
-        }
-      ],
-      "duration_ms": 207919,
-      "name": "So Far, So Fine",
-      "url": "https://open.spotify.com/track/3QmAbaUqmHfj3B7UDSQlPU"
     },
     {
       "added_at": "2026-09-19 01:45:15",
@@ -1191,30 +1207,6 @@
       "duration_ms": 131360,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/5l0ppnih0HggExR4gtYi1u"
-    },
-    {
-      "added_at": "2026-09-19 01:45:15",
-      "album": {
-        "name": "clsr",
-        "url": "https://open.spotify.com/album/0vmy4Cf1Qh0RsWmO69K6vN"
-      },
-      "artists": [
-        {
-          "name": "SizzlePRO",
-          "url": "https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "bbystps",
-          "url": "https://open.spotify.com/artist/68fREiCxsehECNOgx2dTym"
-        }
-      ],
-      "duration_ms": 180645,
-      "name": "clsr",
-      "url": "https://open.spotify.com/track/7DHs3N3wnXmXe8snRziWpj"
     },
     {
       "added_at": "2026-09-19 01:45:15",

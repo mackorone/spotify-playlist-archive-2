@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> Rock songs you need to know\. Turn it  ⬆️ Cover: U2
+> Rock songs you need to know\. Turn it  ⬆️ Cover: Greta Van Fleet
 
-2,020 songs - 5 day 0 hr 55 min
+2,022 songs - 5 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 | 2022-11-18 | 2023-01-28 |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-01-27 | 2023-03-18 |
 | [Dying In Reverse](https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Dying In Reverse](https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx) | 3:54 | 2026-10-09 |  |
-| [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2025-10-24 |  |
+| [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2025-10-24 | 2026-10-24 |
 | [Dynamite](https://open.spotify.com/track/0HyTlSNDM1T23hPUphzWBX) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [War Within](https://open.spotify.com/album/5D0LpsoApx8bPbwLiLsbtD) | 3:48 | 2024-01-12 | 2024-04-19 |
 | [Dynamite \- 2023 Version](https://open.spotify.com/track/2ldT3qdqwNsnKAji6AarfD) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Dynamite \(2023 Version\)](https://open.spotify.com/album/4pY0MgV6z1PBAX4e8YYK2L) | 3:18 | 2023-09-22 | 2023-12-09 |
 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 | 2024-10-25 | 2025-01-25 |
@@ -766,6 +766,7 @@
 | [Hanging Out With All The Wrong People](https://open.spotify.com/track/6niHYEQnhbmqxT5ZOL5BM0) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis Of Faith](https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW) | 3:46 | 2022-02-04 | 2022-07-23 |
 | [Happier?](https://open.spotify.com/track/12Tb8eKhcPMoVMkhzeJwdr) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Happier?](https://open.spotify.com/album/2pyFVRgKldXQFcCOtMWrZq) | 5:10 | 2021-10-29 | 2022-02-05 |
 | [Happiness](https://open.spotify.com/track/0cZLr41IF4Gocxfja74isP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39) | 4:29 | 2024-10-25 | 2024-11-23 |
+| [HAPPY FEELS LIKE](https://open.spotify.com/track/3zRJRc9jQqfX3df6cTO1Uh) | [Ninth Key](https://open.spotify.com/artist/4lcvro3hYRhGU6BtcNIIYx), [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [HAPPY FEELS LIKE](https://open.spotify.com/album/7nMQFa6bK6jv7IRDcRLuTT) | 2:50 | 2026-10-23 |  |
 | [Hard](https://open.spotify.com/track/1gaGSdNSAWyxdMYdRcM9T5) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:26 | 2023-10-27 | 2023-12-09 |
 | [HARD2TELL](https://open.spotify.com/track/4hOjT0UtqEMGbAEukb84zR) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [HARD2TELL](https://open.spotify.com/album/4aJGlUg8Cms9VtzKS4OrqA) | 2:59 | 2025-12-05 | 2026-02-07 |
 | [Harridan](https://open.spotify.com/track/2ixHZTXZwFkPGauOYTLQrW) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Harridan](https://open.spotify.com/album/3vjYPAzHWD2jB3SeIpoAp0) | 8:07 | 2021-11-01 | 2022-01-22 |
@@ -1438,7 +1439,7 @@
 | [Sad Weather Kids](https://open.spotify.com/track/5NIXjeTRJmdGFixIwCe8p9) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Sad Weather Kids](https://open.spotify.com/album/7fv3QtWfx54JtvZzyddyes) | 2:35 | 2023-08-04 | 2023-09-23 |
 | [Safe And Sound](https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Prepare For Despair](https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv) | 3:21 | 2023-08-18 | 2023-10-21 |
 | [Safe And Sound](https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Safe And Sound](https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH) | 3:21 | 2023-02-24 | 2023-08-19 |
-| [Safe And Sound](https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Safe And Sound](https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN) | 3:21 | 2026-02-18 |  |
+| [Safe And Sound](https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Safe And Sound](https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN) | 3:21 | 2026-02-18 | 2026-10-24 |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2022-10-29 |
 | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP) | 3:27 | 2023-08-25 | 2023-11-25 |
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-31 | 2023-05-03 |
@@ -1480,7 +1481,7 @@
 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 | 2026-06-12 | 2026-08-28 |
 | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs) | 4:03 | 2026-05-08 | 2026-08-15 |
 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 | 2023-12-08 | 2024-03-23 |
-| [SEEIN’ STARS: ELTON JOHN VERSION](https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 4:13 | 2026-08-28 |  |
+| [SEEIN’ STARS: ELTON JOHN VERSION](https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 4:13 | 2026-08-28 | 2026-10-24 |
 | [Seethe](https://open.spotify.com/track/4eYfOnJz3APqGzWPwWtC5r) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Seethe](https://open.spotify.com/album/3UBJnVsxBJ61rit0lJ1xk8) | 3:17 | 2026-08-21 |  |
 | [Self\-Destruct](https://open.spotify.com/track/29ffs4yVqnGEzwCazHzJrd) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Self\-Destruct](https://open.spotify.com/album/7uMAqt7XYA49zcwAhLT4wk) | 2:53 | 2023-02-24 | 2023-08-26 |
 | [Sellout](https://open.spotify.com/track/7zirKNmHLkkBYIPOFIcQuG) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Sellout](https://open.spotify.com/album/6Aw2J1CVHtZyspEQ5bCgsT) | 3:08 | 2025-11-07 | 2025-12-06 |
@@ -1661,6 +1662,7 @@
 | [Teacher Has A Gun](https://open.spotify.com/track/21b4iOoZDS7eyTs5jrji9S) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Teacher Has A Gun](https://open.spotify.com/album/4agqtrbOGxTILqjJfgyg81) | 3:07 | 2024-06-28 | 2024-07-27 |
 | [tear gas](https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL) | 4:17 | 2022-07-29 | 2022-10-22 |
 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 | 2022-10-21 | 2023-06-17 |
+| [Tear It Down](https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Tear It Down](https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA) | 4:23 | 2026-10-23 |  |
 | [Tear It Down](https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/7qpwjm2QJOXh4Rfh844z13) | 3:57 | 2022-07-15 | 2022-07-29 |
 | [Tear It Down](https://open.spotify.com/track/64donJ2nJTgqW711j5YoHl) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:57 | 2022-10-14 | 2022-11-26 |
 | [Tear It Down](https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI) | 3:57 | 2022-07-22 | 2022-11-13 |

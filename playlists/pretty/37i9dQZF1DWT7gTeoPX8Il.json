@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 173339,
+  "num_followers": 173390,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
+        "name": "Bila Memang Kamu",
+        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Bila Memang Kamu",
+      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 227908,
       "name": "Salah Apa Aku",
       "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
-        "name": "Bila Memang Kamu",
-        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
-      },
-      "artists": [
-        {
-          "name": "Betrand Putra Onsu",
-          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Bila Memang Kamu",
-      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Tak Adil",
-        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
-      },
-      "artists": [
-        {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
-        }
-      ],
-      "duration_ms": 188012,
-      "name": "Tak Adil",
-      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Aku Tanpa Kamu Tanpa Aku",
         "url": "https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 267392,
       "name": "Aku Tanpa Kamu Tanpa Aku",
       "url": "https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Tak Adil",
+        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 188012,
+      "name": "Tak Adil",
+      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4"
-      },
-      "artists": [
-        {
-          "name": "Aufahanie",
-          "url": "https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 256500,
       "name": "Break",
       "url": "https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4"
+      },
+      "artists": [
+        {
+          "name": "Aufahanie",
+          "url": "https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Aduh",
-        "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 196897,
-      "name": "Aduh",
-      "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "masih ada waktunya",
         "url": "https://open.spotify.com/album/6s0GsQTvbGxhUw4YqN2LW4"
       },
@@ -843,22 +827,34 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Seni Berdamai Dengan Takdir",
-        "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
+        "name": "Aduh",
+        "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
       },
       "artists": [
         {
-          "name": "Naim Daniel",
-          "url": "https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO"
-        },
-        {
-          "name": "Adnin Roslan",
-          "url": "https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg"
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
         }
       ],
-      "duration_ms": 235890,
-      "name": "Seni Berdamai Dengan Takdir",
-      "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
+      "duration_ms": 196897,
+      "name": "Aduh",
+      "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Tak Ada Restu",
+        "url": "https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h"
+      },
+      "artists": [
+        {
+          "name": "Brisia Jodie",
+          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
+        }
+      ],
+      "duration_ms": 224020,
+      "name": "Tak Ada Restu",
+      "url": "https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG"
     }
   ],
   "unique_name": "galau rabak",

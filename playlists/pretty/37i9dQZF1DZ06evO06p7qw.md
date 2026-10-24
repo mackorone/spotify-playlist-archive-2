@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,595 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,607 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 19 | [Donde Nadie Pueda Ir](https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 2:49 |
 | 20 | [Mucho Más Que Ayer](https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mucho Más Que Ayer](https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS) | 3:42 |
 | 21 | [Hace Tiempo](https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:22 |
-| 22 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
-| 23 | [La Mujer Que Bota Fuego](https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:08 |
+| 22 | [La Mujer Que Bota Fuego](https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:08 |
+| 23 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
 | 24 | [Cuando Te Beso](https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 2:19 |
 | 25 | [Mariposas En El Pecho](https://open.spotify.com/track/02VWAshhgMhK8gEqwbOWyy) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mariposas En El Pecho](https://open.spotify.com/album/4G7lZH7HqircGRaCDXwV0U) | 3:54 |
 | 26 | [Historia De Un Amor](https://open.spotify.com/track/4kF52Us8ae35E230x84Vht) | [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Las De Infante](https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH) | 2:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 48 | [Fresa](https://open.spotify.com/track/4iJRJffhKJVjTUui6J8Vtl) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mosaico Pirata](https://open.spotify.com/album/7e9TPw9GhQrRiKwD0V5EXT) | 2:53 |
 | 49 | [Ángel](https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 2:21 |
 
-Snapshot ID: `atavAAAAAAB8F8lp2oH4lolJ1qj+DXnM`
+Snapshot ID: `atgAgAAAAAAa/kWASwxWnaHSJqvWj+e8`

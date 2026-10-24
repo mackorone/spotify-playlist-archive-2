@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Sign up for False Idols at Drumsheds <a href="https://register.broadwicklive.com/false\-idols\-london?ref=dsweb">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,881 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,883 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 13 | [I Turn To You](https://open.spotify.com/track/1Le4SDanBrX8OtmnnyTNrh) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 5:52 |
 | 14 | [What’s Your Pleasure?](https://open.spotify.com/track/2ZcwbSYqc8RfPGMMXTIdb0) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:38 |
 | 15 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
-| 16 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 |
-| 17 | [Be Good](https://open.spotify.com/track/1W9d86MctMM8Hh76tWoGlS) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Be Good](https://open.spotify.com/album/1kkGfY3iZn6H43PFmRE3Nl) | 6:33 |
+| 16 | [Be Good](https://open.spotify.com/track/1W9d86MctMM8Hh76tWoGlS) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Be Good](https://open.spotify.com/album/1kkGfY3iZn6H43PFmRE3Nl) | 6:33 |
+| 17 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 |
 | 18 | [Muschi Muschi](https://open.spotify.com/track/3pqvIzV7DIS9orbtKlHAal) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [SLUT BOPZ VOL\. I](https://open.spotify.com/album/1bFC5vkhBXMF7Xz36e87rw) | 3:02 |
 | 19 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
 | 20 | [The Daisy](https://open.spotify.com/track/0aegbRrg4oVF2kSMZwmnq8) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:38 |

@@ -2885,6 +2885,28 @@
     },
     {
       "album": {
+        "name": "CULT CHROME II",
+        "url": "https://open.spotify.com/album/2fMzDNj8s4y3AgemvaKtsp"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "Basstrick",
+          "url": "https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "CHAINSAW",
+      "url": "https://open.spotify.com/track/1ydsW0MBvHFnYHZkPABatN"
+    },
+    {
+      "album": {
         "name": "change my mind",
         "url": "https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH"
       },
@@ -3517,6 +3539,28 @@
     },
     {
       "album": {
+        "name": "CRITICAL MASS",
+        "url": "https://open.spotify.com/album/04PAQKuLgWiW0KLF5Vomdx"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Paytra",
+          "url": "https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "CRITICAL MASS",
+      "url": "https://open.spotify.com/track/5ZtbObvp6UlsnJoqFfuKHv"
+    },
+    {
+      "album": {
         "name": "CRUISE N CRASH (Litek & RNDM Beats Refix Edition)",
         "url": "https://open.spotify.com/album/28tKww6xlKuojAis24fRby"
       },
@@ -3658,7 +3702,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 139714,
       "name": "DA ILLEST",
       "url": "https://open.spotify.com/track/7s2OBiO85s0Z1bNPuGGpca"
@@ -4876,6 +4920,28 @@
       "duration_ms": 182718,
       "name": "Echelon",
       "url": "https://open.spotify.com/track/6PXGhhC502UkxHSKKXQjaK"
+    },
+    {
+      "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/5MImiEE7ScHUqrcJiDbBX2"
+      },
+      "artists": [
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/7AlemQMHpofDh4RPlWGada"
     },
     {
       "album": {
@@ -16408,7 +16474,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 262784,
       "name": "STACKS",
       "url": "https://open.spotify.com/track/5iO3BTPlAkaefauf8hBLXw"
@@ -19402,7 +19468,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201444,
       "name": "VOC\u00ca DAN\u00c7A",
       "url": "https://open.spotify.com/track/7pYVaGdXsvNYbLYE0n8gKF"

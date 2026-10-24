@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Kerser
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,931 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,948 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 5 | [Player](https://open.spotify.com/track/7ynnIE2JkTcPfpWaH1DxMy) | [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [MATEK](https://open.spotify.com/artist/6W1873QQeyM22YAo1dm8uY) | [Player](https://open.spotify.com/album/4f8Y1PpbmWEvwSrgqOpvF0) | 2:13 |
 | 6 | [Goat](https://open.spotify.com/track/2jOqLrfpMZBOHMsdFQ39rm) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Goat](https://open.spotify.com/album/6WO9D5X0NcFoh2CtpIbC4U) | 4:09 |
 | 7 | [AFTER THE PARTY](https://open.spotify.com/track/5Zobujy9uygazwjWTZDPlx) | [Fat Papi](https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov), [prodshushy](https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA) | [AFTER THE PARTY](https://open.spotify.com/album/3Z7fkP5drgWHjibyOctHx3) | 2:21 |
-| 8 | [Track 2](https://open.spotify.com/track/2NVGfu0uZEd2yVUQGXnIGx) | [Urthboy](https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ) | [Reckless Bloom](https://open.spotify.com/album/7eEzXDxA15UpA3DEPv2oUA) | 0:00 |
+| 8 | [Alarm](https://open.spotify.com/track/2NVGfu0uZEd2yVUQGXnIGx) | [Urthboy](https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ), [Emmy Mack](https://open.spotify.com/artist/1SSw312Ww6IHELkKnbHFaP) | [Reckless Bloom](https://open.spotify.com/album/7eEzXDxA15UpA3DEPv2oUA) | 3:02 |
 | 9 | [NO GOING BACK](https://open.spotify.com/track/6Offg4cMS5FnsXkZxW9xj8) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [NO GOING BACK](https://open.spotify.com/album/0d0tRN84RoZkQewMccBxZJ) | 2:15 |
 | 10 | [Ben 10](https://open.spotify.com/track/1mUJ0kk0U5qeMY4PO1kTv0) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Ben 10](https://open.spotify.com/album/1US839apPDqjQ4C6SAbCUk) | 2:40 |
 | 11 | [Ruby \(MHMM\) \- Kobie Dee & Nerve Remix](https://open.spotify.com/track/1yd1Gx5axeivYN0p2GiFzR) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Marger](https://open.spotify.com/artist/65uhMhwobL11ah8HltpDK2), [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Ruby \(MHMM\) \(Kobie Dee & Nerve Remix\)](https://open.spotify.com/album/1kOt2zEA5qtqewoSIzrEvb) | 3:21 |

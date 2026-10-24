@@ -2861,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "Peace & Patience",
+        "url": "https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209723,
+      "name": "Peace & Patience",
+      "url": "https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"
+    },
+    {
+      "album": {
         "name": "Into The Bounce",
         "url": "https://open.spotify.com/album/1J4ck23JjAzM8AycwW5lgH"
       },

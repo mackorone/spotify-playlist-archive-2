@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933 likes - 37 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TTW \- Kaytranada Remix](https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TTW \(Kaytranada Remix\)](https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr) | 4:27 |
-| 2 | [The Boy \- TOKiMONSTA Remix](https://open.spotify.com/track/0WXqcuo8IUsuS8ILuFovpA) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Disc 3](https://open.spotify.com/album/6laYPSz0GiIiPcjX7KjCVt) | 3:56 |
-| 3 | [Follow Me](https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 4:00 |
+| 1 | [The Boy \- TOKiMONSTA Remix](https://open.spotify.com/track/0WXqcuo8IUsuS8ILuFovpA) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Disc 3](https://open.spotify.com/album/6laYPSz0GiIiPcjX7KjCVt) | 3:56 |
+| 2 | [Follow Me](https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 4:00 |
+| 3 | [TTW \- Kaytranada Remix](https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TTW \(Kaytranada Remix\)](https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr) | 4:27 |
 | 4 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 |
 | 5 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
 | 6 | [Lowkey](https://open.spotify.com/track/4M10NvfwzXoBjGTT7DXyK6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:43 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 29 | [Situation](https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 4:13 |
 | 30 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 |
 | 31 | [No Love](https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 2:36 |
-| 32 | [Tour Bus](https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Project Sidiooo, Vol\. 1](https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA) | 1:59 |
+| 32 | [Raven \- TYGAPAW Remix feat\. Rochelle Jordan](https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:26 |
 | 33 | [Next 2 You](https://open.spotify.com/track/7tNkPC6JSJFY9Jwr3fooEA) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:00 |
-| 34 | [Raven \- TYGAPAW Remix feat\. Rochelle Jordan](https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:26 |
+| 34 | [Tour Bus](https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Project Sidiooo, Vol\. 1](https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA) | 1:59 |
 | 35 | [DREAMZ COME TRUE](https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [DREAMZ COME TRUE](https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA) | 3:44 |
 | 36 | [Slow](https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Voices](https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm) | 3:42 |
 | 37 | [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 |
 
-Snapshot ID: `atavAAAAAAASJDzKBtv1tXGTqowhR/K2`
+Snapshot ID: `atgAgAAAAABhcZKEdqynkS8xBEgfidLf`

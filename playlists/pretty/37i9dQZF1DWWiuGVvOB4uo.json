@@ -1,12 +1,12 @@
 {
   "description": "Acoustic covers of all your favourite songs.",
-  "num_followers": 544302,
+  "num_followers": 544577,
   "original_name": "Cozy Coffeehouse Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFd2Ni4Cao5Krcb1OrwrjZ8j9z9m",
+  "snapshot_id": "AAAAAKT2QoCTZu/R3Sd6SGlWzHP6E2eb",
   "tracks": [
     {
       "added_at": "2026-09-07 09:08:59",
@@ -135,22 +135,6 @@
       "duration_ms": 191879,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
-    },
-    {
-      "added_at": "2026-09-07 09:08:59",
-      "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "added_at": "2026-09-07 09:08:59",
@@ -411,6 +395,22 @@
     {
       "added_at": "2026-09-07 09:08:59",
       "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
+    },
+    {
+      "added_at": "2026-09-07 09:08:59",
+      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/6L08f7pRTZIlceFtIGYHL0"
       },
@@ -551,38 +551,6 @@
       "duration_ms": 206923,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/6Haih5koeTEO8I5SL30VE4"
-    },
-    {
-      "added_at": "2026-09-07 09:08:59",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
-      },
-      "artists": [
-        {
-          "name": "S\u018eLFISH",
-          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
-        }
-      ],
-      "duration_ms": 132147,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
-    },
-    {
-      "added_at": "2026-09-07 09:08:59",
-      "album": {
-        "name": "Sex is on fire",
-        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "duration_ms": 163833,
-      "name": "Sex is on fire",
-      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
     },
     {
       "added_at": "2026-09-07 09:08:59",
@@ -783,6 +751,22 @@
     {
       "added_at": "2026-09-07 09:08:59",
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
+      },
+      "artists": [
+        {
+          "name": "S\u018eLFISH",
+          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
+        }
+      ],
+      "duration_ms": 132147,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
+    },
+    {
+      "added_at": "2026-09-07 09:08:59",
+      "album": {
         "name": "what if",
         "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 197227,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/0oJdAKfEck3cQxi28lExu2"
+    },
+    {
+      "added_at": "2026-09-07 09:08:59",
+      "album": {
+        "name": "Sex is on fire",
+        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 163833,
+      "name": "Sex is on fire",
+      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
     },
     {
       "added_at": "2026-09-07 09:08:59",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-07 09:08:59",
       "album": {
-        "name": "First Date (Acoustic)",
-        "url": "https://open.spotify.com/album/01vxszmVdERPN5jDRcEDwo"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 175486,
-      "name": "First Date - Acoustic",
-      "url": "https://open.spotify.com/track/7sskqSUwyGS5DIf3PCFsDS"
-    },
-    {
-      "added_at": "2026-09-07 09:08:59",
-      "album": {
         "name": "Take on Me",
         "url": "https://open.spotify.com/album/12NMWW1pgidVHBD6XU8vfz"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 168289,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf"
+    },
+    {
+      "added_at": "2026-09-07 09:08:59",
+      "album": {
+        "name": "First Date (Acoustic)",
+        "url": "https://open.spotify.com/album/01vxszmVdERPN5jDRcEDwo"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 175486,
+      "name": "First Date - Acoustic",
+      "url": "https://open.spotify.com/track/7sskqSUwyGS5DIf3PCFsDS"
     },
     {
       "added_at": "2026-09-07 09:08:59",

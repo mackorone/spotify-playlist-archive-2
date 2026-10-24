@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3193856,
+  "num_followers": 3193835,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Dusty... Definitely (Expanded Edtion)",
-        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164173,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
         "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 154733,
       "name": "Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164173,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Idea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "I Started A Joke",
-      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Led Zeppelin",
         "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 166266,
       "name": "Good Times Bad Times - 1993 Remaster",
       "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Idea (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LcOOTBvHj22Nl90AuRsro"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "I Started A Joke",
+      "url": "https://open.spotify.com/track/36CKza28wMxYdjdzji7ine"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Runaway with Del Shannon",
-        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
-      },
-      "artists": [
-        {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
-        }
-      ],
-      "duration_ms": 137306,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 622000,
       "name": "Sinnerman",
       "url": "https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Runaway with Del Shannon",
+        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
+      },
+      "artists": [
+        {
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+        }
+      ],
+      "duration_ms": 137306,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1383,6 +1383,38 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "Wimoweh!!! - The Best Of The Tokens",
         "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
       },
@@ -1395,22 +1427,6 @@
       "duration_ms": 162093,
       "name": "The Lion Sleeps Tonight (Wimoweh)",
       "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1431,6 +1447,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "The Exciting Wilson Pickett",
         "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
       },
@@ -1447,22 +1479,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Album 1700",
         "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 207240,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Between The Buttons",
+        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Ruby Tuesday",
+      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1591,38 +1607,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 215285,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "Between The Buttons",
-        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Ruby Tuesday",
-      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 215285,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "The Best Of Canned Heat",
-        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Going Up The Country",
-      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
         "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Going Up The Country",
+      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "I Left My Heart In San Francisco",
         "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 177307,
       "name": "(I Left My Heart) In San Francisco",
       "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Mony Mony",
-        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
-      },
-      "artists": [
-        {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 168455,
       "name": "Crying",
       "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Mony Mony",
+        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Take Good Care Of My Baby",
-        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Take Good Care Of My Baby",
-      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 157173,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Eve Of Destruction",
         "url": "https://open.spotify.com/album/1ue4XKSgfovqJp8wgoyaOX"
       },
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2323,6 +2307,22 @@
       "duration_ms": 169296,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2026-02-06 15:24:01",

@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: KAROL G & Bruno Mars",
-  "num_followers": 504349,
+  "num_followers": 504350,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 209720,
       "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Despu\u00e9s de ti",
-        "url": "https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Greg Gonzalez",
-          "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
-        }
-      ],
-      "duration_ms": 268996,
-      "name": "Despu\u00e9s de ti",
-      "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Despu\u00e9s de ti",
+        "url": "https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Greg Gonzalez",
+          "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
+        }
+      ],
+      "duration_ms": 268996,
+      "name": "Despu\u00e9s de ti",
+      "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -963,18 +963,22 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Imizamo Yami",
-        "url": "https://open.spotify.com/album/3Lfbsj7w7y2qzKbnDsicPI"
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
       },
       "artists": [
         {
-          "name": "Feza",
-          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 258324,
-      "name": "Sengithole Omunye",
-      "url": "https://open.spotify.com/track/46rac4X07nXvGTPezZKMSu"
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -999,26 +1003,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Estilo R'S",
-        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+        "name": "Imizamo Yami",
+        "url": "https://open.spotify.com/album/3Lfbsj7w7y2qzKbnDsicPI"
       },
       "artists": [
         {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
         }
       ],
-      "duration_ms": 133564,
-      "name": "Beretta (De Los Cerros La Escuela)",
-      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+      "duration_ms": 258324,
+      "name": "Sengithole Omunye",
+      "url": "https://open.spotify.com/track/46rac4X07nXvGTPezZKMSu"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
         "name": "Soundgasm",
         "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 188263,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1207,6 +1187,26 @@
       "duration_ms": 189357,
       "name": "Botshelo Ke Eng",
       "url": "https://open.spotify.com/track/5gBaYximqC7VruZHOkUKl8"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "L'undertaker, Pt. 1",
-        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
+        "name": "L'undertaker, Pt. 1",
+        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
       },
@@ -1375,26 +1375,6 @@
       "duration_ms": 124471,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/13bPROSNrEszkMcTtX2SHh"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
-        "name": "Joven y Salvaje (with Bb trickz)",
-        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 122703,
-      "name": "Joven y Salvaje (with Bb trickz)",
-      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1419,6 +1399,26 @@
       "duration_ms": 208910,
       "name": "Woman Commando (feat. Anitta & Coco Jones)",
       "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Joven y Salvaje (with Bb trickz)",
+        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 122703,
+      "name": "Joven y Salvaje (with Bb trickz)",
+      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-08-07 09:42:57",

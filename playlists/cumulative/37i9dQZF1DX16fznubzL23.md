@@ -4,7 +4,7 @@
 
 > e don cast
 
-315 songs - 15 hr 59 min
+316 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [DON'T](https://open.spotify.com/track/5AzIXbjKdIR5NwLtQD4f48) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [DON'T](https://open.spotify.com/album/2XU7xRMCtUUtgYhqRldvKT) | 2:19 | 2022-11-25 | 2022-12-02 |
 | [Don't Be Late](https://open.spotify.com/track/7p8vxY7zwg1qIOMe6B8Buv) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Don't Be Late](https://open.spotify.com/album/5eYjYoa63hjgsjpEINGSaL) | 3:31 | 2022-02-11 | 2022-07-14 |
 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/39CW71Je0OSO9DRBFkwxbs) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 | 2022-02-11 |  |
-| [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 |  |
+| [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 | 2026-10-24 |
+| [Don't Say Bye](https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH) | [Something To Die For](https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT) | 2:57 | 2026-10-23 |  |
 | [Don’t Waste My Time](https://open.spotify.com/track/5VXnWxhAdSUWz0dAazsYiR) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Paedae Drop a Flow](https://open.spotify.com/album/604se8iMB1MPJW9VGpSYkk) | 2:58 | 2022-06-24 | 2022-09-20 |
 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 | 2022-02-11 | 2024-03-06 |
 | [DYANA](https://open.spotify.com/track/31d1jnHHtwc43kLjZDNuRs) | [ERMA](https://open.spotify.com/artist/2PwK5I2RMc0AL6NIRCIUWG) | [DYANA](https://open.spotify.com/album/4uSyCrq4DNXkkgSJNPLDbr) | 3:10 | 2025-03-28 | 2025-10-09 |

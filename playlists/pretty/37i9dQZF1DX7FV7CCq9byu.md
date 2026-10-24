@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,234 likes - 169 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,231 likes - 169 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 4 | [Från början](https://open.spotify.com/track/4HpA7two0bMn79sp7WiokX) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Fling](https://open.spotify.com/album/49LV22xJQCTn77vOLCUhQn) | 3:26 |
 | 5 | [Blue Moon](https://open.spotify.com/track/5EDHxPobOf50pYWwcwxI8y) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Blue Moon](https://open.spotify.com/album/1wqnLiqd9x2fAM0VHHvb97) | 2:57 |
 | 6 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
-| 7 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ilsey Juber](https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
+| 7 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
 | 8 | [tutto passa](https://open.spotify.com/track/3nzrTBdDYoy7OBVlRcSoa3) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [tutto passa](https://open.spotify.com/album/5BwuWUXizujBSicrDPbEzz) | 3:12 |
 | 9 | [Angel Of My Dreams](https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:17 |
 | 10 | [Look At You](https://open.spotify.com/track/1cwsPU0nmZE7fllF580Xdt) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Look At You](https://open.spotify.com/album/3S2u5fv2cIUi8a3ByngJ5G) | 2:23 |

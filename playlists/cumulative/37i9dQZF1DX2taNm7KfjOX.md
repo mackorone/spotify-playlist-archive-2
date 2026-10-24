@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Babehoven
 
-775 songs - 2 day 0 hr 13 min
+776 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 | 2023-05-12 | 2024-04-19 |
 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [Javelin](https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Javelin](https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX) | 3:45 | 2026-05-01 | 2026-07-16 |
-| [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2024-01-05 |  |
+| [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2024-01-05 | 2026-10-24 |
 | [Jessie's Comet](https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Modes of Transportation](https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD) | 3:30 | 2025-09-22 | 2026-05-16 |
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-10-22 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-06-24 | 2024-01-06 |
@@ -440,6 +440,7 @@
 | [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 | 2021-10-22 |  |
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-06-24 |  |
 | [Mirror](https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y) | 4:56 | 2025-02-07 | 2025-03-25 |
+| [Mirror Mirror](https://open.spotify.com/track/2S1U1fB9XXTwxUa1a181yW) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Angel in Plainclothes](https://open.spotify.com/album/3RSIafhkmhAvdFJ1z9ldqv) | 4:09 | 2026-09-18 |  |
 | [Mirrors of Paradise](https://open.spotify.com/track/5u1hFiNBLQDWat8IRXuavN) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:11 | 2022-04-13 | 2022-04-21 |
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-10-22 | 2023-10-22 |
 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-13 | 2024-04-19 |

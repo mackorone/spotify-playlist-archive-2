@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,508 likes - 100 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,509 likes - 100 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 5 | [French Disko](https://open.spotify.com/track/0C03B3oqKkoGVrNqgWjkqB) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6e9SIhpwUY4B3oyVT2W7bW) | 3:35 |
 | 6 | [Surfing The Warm Industry](https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ) | [Kashmir](https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu) | [Zitilites](https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c) | 4:26 |
 | 7 | [The Land Before Timeland](https://open.spotify.com/track/4fBzcidYDAiZ6Dh6pKbkiK) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Laminated Denim](https://open.spotify.com/album/5f0IPVaiRNK0knLx8UbqIq) | 15:00 |
-| 8 | [Nana](https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:13 |
-| 9 | [Knickerbocker](https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Lightbulbs](https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH) | 3:20 |
+| 8 | [Knickerbocker](https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Lightbulbs](https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH) | 3:20 |
+| 9 | [Nana](https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:13 |
 | 10 | [Program](https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya) | 4:05 |
 | 11 | [Chase the Tear](https://open.spotify.com/track/00CjPU9Nv69kf6YofOIazK) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Chase the Tear](https://open.spotify.com/album/7ofIuqyYYYTu1MbgDJgef4) | 5:15 |
 | 12 | [Vitamin C](https://open.spotify.com/track/0N9w2k0qrAYDHUyliycGD5) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:32 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 27 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 |
 | 28 | [Hollywood](https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 4:45 |
 | 29 | [Light: Look at Your Sun](https://open.spotify.com/track/2gWT8m0KpmVVboR2MzdneA) | [Ash Ra Tempel](https://open.spotify.com/artist/5f6eufK2ZswS7hxhEZyIG9), [Manuel Göttsching](https://open.spotify.com/artist/38KMWWA4MPJ6VxlO9kx6CU) | [Schwingungen \(Mixed Tracks\)](https://open.spotify.com/album/6GsU6r8GoVcTXOLZK417nz) | 6:36 |
-| 30 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
+| 30 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 31 | [Der Elektrolurch](https://open.spotify.com/track/7ELA9TEEHZo1isqffIQnX7) | [Guru Guru](https://open.spotify.com/artist/7mjz8GxBSAJtRpzS9tSldf) | [Krautrock](https://open.spotify.com/album/6DZaSFDFIqHFym2tkuCCGS) | 9:45 |
-| 32 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
+| 32 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
 | 33 | [Morgengruß](https://open.spotify.com/track/0GNWAR5YioLyQSZMXMjBX4) | [Popol Vuh](https://open.spotify.com/artist/5zeiqAaIiDrjiDch33A2lT) | [Einsjäger & Siebenjäger](https://open.spotify.com/album/4IGLNxalsV3nE6cVYwAoQW) | 2:57 |
 | 34 | [Doors Unlocked and Open](https://open.spotify.com/track/3f4jwbmw35TF2Wx9y47GuW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys \(Deluxe Edition\)](https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy) | 5:37 |
 | 35 | [Lookin Up \- Instrumental Version](https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw) | [Manic Vila](https://open.spotify.com/artist/6l8cL9AYxzM9OqJlLLeVrd) | [33641 \(Instrumental Version\)](https://open.spotify.com/album/6gRt01llWuDsh96iVOFA6W) | 1:12 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 62 | [Bang \- Peanut Butter Wolf Remix](https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang \(Peanut Butter Wolf Remix\)](https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24) | 4:08 |
 | 63 | [Silver Cloud](https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 8:02 |
 | 64 | [Out There](https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:54 |
-| 65 | [Krautrock](https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [Faust IV](https://open.spotify.com/album/6ou63QavbhaQvDTQ3BCkPv) | 11:47 |
-| 66 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
+| 65 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
+| 66 | [Krautrock](https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [Faust IV](https://open.spotify.com/album/6ou63QavbhaQvDTQ3BCkPv) | 11:47 |
 | 67 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 |
 | 68 | [Conductor 71](https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 4:10 |
-| 69 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
-| 70 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
+| 69 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
+| 70 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
 | 71 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 |
 | 72 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 |
 | 73 | [La Düsseldorf](https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 4:29 |

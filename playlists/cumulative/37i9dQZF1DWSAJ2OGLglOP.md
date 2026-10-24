@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-443 songs - 1 day 1 hr 43 min
+444 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 | 2025-01-13 | 2025-03-22 |
 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 | 2026-06-25 | 2026-10-14 |
 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 | 2025-04-04 | 2025-07-12 |
+| [Dalmatian](https://open.spotify.com/track/3QOi7KqTVoJqt6AikA4MH0) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Dalmatian](https://open.spotify.com/album/0mOxy8sYSb1RroY27LhAdf) | 4:13 | 2026-10-14 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-10-12 | 2026-10-14 |
 | [Dancing in my bad life \- feat.CLAN QUEEN](https://open.spotify.com/track/4AEw2WCrbdjvYw6AVCksGg) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t), [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Dancing in my bad life \(feat.CLAN QUEEN\)](https://open.spotify.com/album/3nEakkMSAOhDPIz7Bt4EQJ) | 4:08 | 2025-12-02 | 2026-05-01 |
 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 | 2024-02-08 | 2024-12-01 |
@@ -311,7 +312,7 @@
 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-08 | 2026-06-26 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 | 2025-02-26 |
 | [ultra soul](https://open.spotify.com/track/5QAZVZA3FN1s368XgijXHZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ultra soul](https://open.spotify.com/album/0a1Icq0xPZNr5RhFcT0rbb) | 3:38 | 2026-04-27 | 2026-10-14 |
-| [Umm](https://open.spotify.com/track/7BSh89v209dfsLEwo7CfFX) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Umm](https://open.spotify.com/album/3oT6ICuvOg4tv4cIGOj5tD) | 3:54 | 2026-10-14 |  |
+| [Umm](https://open.spotify.com/track/7BSh89v209dfsLEwo7CfFX) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Umm](https://open.spotify.com/album/3oT6ICuvOg4tv4cIGOj5tD) | 3:54 | 2026-10-14 | 2026-10-24 |
 | [Universe](https://open.spotify.com/track/6KLaKHxwJE3CZECVJLH4cN) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Universe](https://open.spotify.com/album/6mzpMk6MO18WhDLXfS3va6) | 4:46 | 2026-04-27 |  |
 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-05-02 | 2025-07-06 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-04-04 |  |

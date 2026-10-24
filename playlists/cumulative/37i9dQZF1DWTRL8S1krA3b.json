@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Candy Cane Cowboy",
+        "url": "https://open.spotify.com/album/3D1PGwJlZ3MlwVLZ5yboGK"
+      },
+      "artists": [
+        {
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192701,
+      "name": "Candy Cane Cowboy",
+      "url": "https://open.spotify.com/track/4YsPbko6vO4c82HgXYqz7r"
+    },
+    {
+      "album": {
         "name": "Celebrate Me Home",
         "url": "https://open.spotify.com/album/5doSwgjks8R6LIucsbuPNe"
       },

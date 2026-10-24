@@ -2431,6 +2431,28 @@
     },
     {
       "album": {
+        "name": "Don't Look No More",
+        "url": "https://open.spotify.com/album/6Bw6o1aPKYjGs6eFg8Fisi"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        },
+        {
+          "name": "Erika Baier",
+          "url": "https://open.spotify.com/artist/72YA7wXN9AVZgo9TuP3ng8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221237,
+      "name": "Don't Look No More",
+      "url": "https://open.spotify.com/track/5cgES2FDWPXywBFusuXAeo"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Take Advantage Of Me",
         "url": "https://open.spotify.com/album/5IQTaJtWRL77KVm1xuc0gj"
       },
@@ -4727,6 +4749,28 @@
     },
     {
       "album": {
+        "name": "I Played Pool with Otis Rush",
+        "url": "https://open.spotify.com/album/4Gg8jB31LDGwusSnfoTaqO"
+      },
+      "artists": [
+        {
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        },
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318883,
+      "name": "I Played Pool with Otis Rush",
+      "url": "https://open.spotify.com/track/4nCxn25vXLduOpbUd02I1s"
+    },
+    {
+      "album": {
         "name": "I Shall Not Be Moved",
         "url": "https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6"
       },
@@ -5026,7 +5070,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 277474,
       "name": "I'm Feeling You",
       "url": "https://open.spotify.com/track/2ZPHgYiKcROxotVsU4sKwq"
@@ -5614,7 +5658,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 220276,
       "name": "Keep On Pushing",
       "url": "https://open.spotify.com/track/4OmoALERN3OLVHvUGz92Yi"
@@ -7515,6 +7559,28 @@
     },
     {
       "album": {
+        "name": "Push Through",
+        "url": "https://open.spotify.com/album/3u39SiaHiktRMEzOE4mhPm"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332068,
+      "name": "Push Through",
+      "url": "https://open.spotify.com/track/1WHswKK7hmiSS0O3AWF3w4"
+    },
+    {
+      "album": {
         "name": "Raisin' Kane",
         "url": "https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA"
       },
@@ -8126,7 +8192,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 229640,
       "name": "Serves Me Right To Suffer",
       "url": "https://open.spotify.com/track/3EwoYHtePxVs4GzTOucx7J"

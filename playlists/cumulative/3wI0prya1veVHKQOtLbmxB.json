@@ -4821,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Say When (from Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/1sAOV9vKM60TBvhDbcGjvP"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227399,
+      "name": "Say When - from Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/0WOITRgSeNeY0ZGxn1vkJc"
+    },
+    {
+      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -5432,7 +5450,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 180347,
       "name": "Thank You For Loving Me",
       "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"

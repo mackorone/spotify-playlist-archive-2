@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Rashmeet Kaur
 
-300 songs - 15 hr 4 min
+301 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Glow](https://open.spotify.com/track/41S9T0UnfZHBabzzufoAbi) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Kabil Gill](https://open.spotify.com/artist/2lzr2O2ErjOq5RKQat7A11) | [Glow](https://open.spotify.com/album/5yllrFqjMqbkLyIewh0bQ5) | 1:52 | 2026-01-30 | 2026-03-13 |
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-04-19 | 2024-04-19 |
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-01-30 | 2024-04-24 |
-| [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2025-03-20 |  |
+| [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2025-03-20 | 2026-10-24 |
 | [Gustakhi](https://open.spotify.com/track/2khgycGenz8WXa8DgH0fGH) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y) | [Gustakhi](https://open.spotify.com/album/2hf7wUuaRVXOCbMTV8lotP) | 2:16 | 2025-06-05 | 2025-07-26 |
 | [Haal Mittra](https://open.spotify.com/track/1UgfPvdUJLi6J4jNQ86M8V) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Haal Mittra](https://open.spotify.com/album/6JMD95X5h8Wz3QJUDjyZ4d) | 2:37 | 2026-06-26 |  |
 | [Haaniya](https://open.spotify.com/track/01rsvFmtiW3Cr5oMW1RA9m) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Haaniya](https://open.spotify.com/album/6EMMY5bwElZSSlwzw8XNA7) | 3:08 | 2023-03-18 | 2023-04-20 |
@@ -131,6 +131,7 @@
 | [Jogi Naal](https://open.spotify.com/track/3Oqfj8U3rQqGnQMXIvmku8) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Raja](https://open.spotify.com/artist/75prkScvmpqHqH5vI89qw9), [Aden](https://open.spotify.com/artist/22wNTxE1rJerY53nAhyZl0) | [PARINDA](https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI) | 2:38 | 2026-08-28 |  |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-03-18 | 2024-04-24 |
 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 | 2025-01-24 |  |
+| [Kaali LC](https://open.spotify.com/track/22MNy4MsC9ciVnHXsq1E2x) | [Diksha B](https://open.spotify.com/artist/332aOLGOOexxuMhIR8nUZq), [BxckBencher](https://open.spotify.com/artist/1Sy2RufSEABGPPWSQyQn6i) | [Kaali LC](https://open.spotify.com/album/1zFDpiNznfVrBalcW4p8e5) | 3:13 | 2026-10-23 |  |
 | [Kachi Umar](https://open.spotify.com/track/1iFpF1YTNWKeDFe0bFhb5E) | [Pavie Virk](https://open.spotify.com/artist/0o5zJsNi1DeT2YQMqQ2XzP), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Kachi Umar](https://open.spotify.com/album/5gFecZ1jVTSjkpQ5Dl4SSX) | 3:12 | 2025-01-09 | 2025-08-03 |
 | [KAHANI](https://open.spotify.com/track/1HBT2aq5MwWncKt4H4SiBr) | [Avin Gill](https://open.spotify.com/artist/0jl5MrF3Ry8ROjsl5Opfdp) | [KAHANI](https://open.spotify.com/album/5EktebJF2fNgJMROjzlPGS) | 2:46 | 2024-11-20 | 2025-03-21 |
 | [Kajla](https://open.spotify.com/track/5WLhcOzSlH8fGqwVWQN7QO) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Kajla](https://open.spotify.com/album/7A8U16OreD6q9ahr2xsZY4) | 2:12 | 2024-10-08 | 2024-11-22 |

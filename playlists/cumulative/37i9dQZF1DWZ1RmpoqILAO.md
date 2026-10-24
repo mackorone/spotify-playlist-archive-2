@@ -4,7 +4,7 @@
 
 > pinegrove autumn 🍂 sadurn on the cover
 
-393 songs - 1 day 1 hr 12 min
+396 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/6m2OUSC736AxOVJ3W0FcEr) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/2oASnIn2Mt8QE4tDmSyWpy) | 4:36 | 2024-04-14 | 2026-04-11 |
 | [Blue Lightning](https://open.spotify.com/track/2PNvb2hdbbAvWCjybGbqXO) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:51 | 2023-02-23 | 2023-07-20 |
 | [Bobby](https://open.spotify.com/track/41AzwDX7tWHHKI0zvK4YpW) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:15 | 2024-08-26 |  |
+| [Born Again](https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Born Again](https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v) | 3:37 | 2026-10-23 |  |
 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 | 2023-09-22 | 2024-03-09 |
 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 | 2023-09-22 | 2024-04-19 |
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-08-25 |  |
@@ -160,6 +161,7 @@
 | [Good Ol Days](https://open.spotify.com/track/5vRWfHVWcKncaW7WYNdKyJ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/4YrL4gc7GACAqnKomXuvGk) | 4:54 | 2024-03-01 | 2024-04-19 |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-23 | 2026-01-31 |
 | [Grandmother](https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 6:00 | 2025-09-19 |  |
+| [Halo Mode](https://open.spotify.com/track/60IH1n6y6LHfRlB2PQovPE) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M) | [Audition Tape](https://open.spotify.com/album/01sOQtxvpv31cCyEcRNjQh) | 3:17 | 2026-10-23 |  |
 | [Hanging Out With a Blueberry Pop](https://open.spotify.com/track/1SlFNZ0cbfeBertOQxgzNW) | [Croz Boyce](https://open.spotify.com/artist/5lpU5YJ5sJEHDcA8Z7HXJ6), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Hanging Out With a Blueberry Pop](https://open.spotify.com/album/4zkenwJpvQ2NWNwUKLTlga) | 4:59 | 2026-03-13 |  |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2023-02-23 |  |
 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-28 | 2024-04-19 |
@@ -283,6 +285,7 @@
 | [Right On Time](https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Right On Time](https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq) | 3:29 | 2026-10-16 |  |
 | [Right Side of My Neck](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 2:33 | 2023-02-23 |  |
 | [Ring Of Fire](https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Ring Of Fire](https://open.spotify.com/album/6lZXWwg79uVFYoyrAaRjtZ) | 3:52 | 2026-02-06 |  |
+| [Ring Stains](https://open.spotify.com/track/6pWpJSWr0SncxUJh282JnO) | [Lamplight](https://open.spotify.com/artist/6W7C7NhjSvrh9u1P7bjUx0) | [Lick the Spoon, Let it Soften](https://open.spotify.com/album/403SneXFVPq7mACnLz8rBQ) | 1:46 | 2026-10-23 |  |
 | [riverflies](https://open.spotify.com/track/5vyG3fEQmgvuTRGDYpmLCV) | [deeper sleeper](https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ) | [deeper sleeper](https://open.spotify.com/album/4JH3jfuhTmXCqNCCrwSODW) | 2:42 | 2026-04-10 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2023-02-23 | 2025-02-26 |
 | [Roadkill](https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:55 | 2023-06-30 | 2026-01-31 |

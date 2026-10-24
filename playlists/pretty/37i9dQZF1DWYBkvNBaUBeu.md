@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,735 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,777 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 4 | [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 |
 | 5 | [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 |
 | 6 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 |
-| 7 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ilsey Juber](https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
+| 7 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
 | 8 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
 | 9 | [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 |
 | 10 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |

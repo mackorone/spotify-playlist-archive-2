@@ -1,12 +1,12 @@
 {
   "description": "Let these calm Jazz tracks lull you to sleep.",
-  "num_followers": 1678098,
+  "num_followers": 1678199,
   "original_name": "Jazz for Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABdYO72O3Dg8w+FNEjekxri+cJ+t",
+  "snapshot_id": "AAAAAGmb8uu6KehVIPLetzME0bFYCYt8",
   "tracks": [
     {
       "added_at": "2026-09-18 07:37:38",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Late Bloom",
-        "url": "https://open.spotify.com/album/6oW0ROEV1z0cVFZIqmqgYh"
-      },
-      "artists": [
-        {
-          "name": "Myles Dale",
-          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Late Bloom",
-      "url": "https://open.spotify.com/track/7rDXImf1Wauo75e2WfgKLA"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/2TThwBr6HJzElTqEInURzf"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 173200,
       "name": "Listening to the Distance",
       "url": "https://open.spotify.com/track/6fw45XDVkbibckw76QbbWJ"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "Fading Summer",
-        "url": "https://open.spotify.com/album/6DOGwn9kPtoo9Hd0KoLy6Q"
-      },
-      "artists": [
-        {
-          "name": "Talia Vernon",
-          "url": "https://open.spotify.com/artist/3W6H4hzFD0fZP4EMnTrzQ8"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Fading Summer",
-      "url": "https://open.spotify.com/track/1XN6WtcvAaAQuiybRrFt7F"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -315,22 +283,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Almost still",
-        "url": "https://open.spotify.com/album/7pSwQecdTPSGO2hJRQnr6Y"
-      },
-      "artists": [
-        {
-          "name": "Camille Blanche",
-          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
-        }
-      ],
-      "duration_ms": 152466,
-      "name": "Almost still",
-      "url": "https://open.spotify.com/track/3uGWndV95MPnhLQhOUhBLA"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "in the same breath",
         "url": "https://open.spotify.com/album/0GsvxOzW7CHcqcALo24Gev"
       },
@@ -395,6 +347,22 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
+        "name": "Late Bloom",
+        "url": "https://open.spotify.com/album/6oW0ROEV1z0cVFZIqmqgYh"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Late Bloom",
+      "url": "https://open.spotify.com/track/7rDXImf1Wauo75e2WfgKLA"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
         "name": "Night Letters",
         "url": "https://open.spotify.com/album/6efIG2eK0GIjruVjXG4jiS"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 149762,
       "name": "Almost Like Being There",
       "url": "https://open.spotify.com/track/7kLV94VyYS7PR4ypFgGOaR"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
+        "name": "Fading Summer",
+        "url": "https://open.spotify.com/album/6DOGwn9kPtoo9Hd0KoLy6Q"
+      },
+      "artists": [
+        {
+          "name": "Talia Vernon",
+          "url": "https://open.spotify.com/artist/3W6H4hzFD0fZP4EMnTrzQ8"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Fading Summer",
+      "url": "https://open.spotify.com/track/1XN6WtcvAaAQuiybRrFt7F"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -519,6 +503,22 @@
       "duration_ms": 146077,
       "name": "Where Forever Starts",
       "url": "https://open.spotify.com/track/435mOmID4FlRSGQuzYdTu5"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
+        "name": "Almost still",
+        "url": "https://open.spotify.com/album/7pSwQecdTPSGO2hJRQnr6Y"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "duration_ms": 152466,
+      "name": "Almost still",
+      "url": "https://open.spotify.com/track/3uGWndV95MPnhLQhOUhBLA"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Neat",
-        "url": "https://open.spotify.com/album/7roDBFdvNTm06wsuFUXosT"
-      },
-      "artists": [
-        {
-          "name": "A. Mayven",
-          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Neat",
-      "url": "https://open.spotify.com/track/7kRhG55tZ6RHDh1JsnckqH"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "Late Supper",
         "url": "https://open.spotify.com/album/40P9mq2kbHM1Pc3LVOqq7o"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 158733,
       "name": "Nothing Like",
       "url": "https://open.spotify.com/track/2Vw46xS7R0mGrY7LnYxypY"
+    },
+    {
+      "added_at": "2026-09-18 07:37:38",
+      "album": {
+        "name": "Neat",
+        "url": "https://open.spotify.com/album/7roDBFdvNTm06wsuFUXosT"
+      },
+      "artists": [
+        {
+          "name": "A. Mayven",
+          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Neat",
+      "url": "https://open.spotify.com/track/7kRhG55tZ6RHDh1JsnckqH"
     },
     {
       "added_at": "2026-09-18 07:37:38",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Her Eyes",
-        "url": "https://open.spotify.com/album/0138HKj1htEK3bn6vG5cYJ"
-      },
-      "artists": [
-        {
-          "name": "Leigh Daniels",
-          "url": "https://open.spotify.com/artist/1ieFgrCmKWj5ryTlo8TMWC"
-        }
-      ],
-      "duration_ms": 160362,
-      "name": "Her Eyes",
-      "url": "https://open.spotify.com/track/2Pjv68RqZZfwFAztoYG65U"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "Fading Skies",
         "url": "https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0"
       },
@@ -2651,22 +2635,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "The Way You Stay",
-        "url": "https://open.spotify.com/album/1SkeqV8IopjzxYQuHNOp93"
-      },
-      "artists": [
-        {
-          "name": "Aven Ash",
-          "url": "https://open.spotify.com/artist/5pNTxBbJF6IcHU8jTk1kKq"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "The Way You Stay",
-      "url": "https://open.spotify.com/track/1jfaCzz0V1WQd1aphQJ4Gk"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "Moments like these",
         "url": "https://open.spotify.com/album/3scy4jz8xlk8r5LCpvRHCh"
       },
@@ -2811,22 +2779,6 @@
     {
       "added_at": "2026-09-18 07:37:38",
       "album": {
-        "name": "Until the End of Night",
-        "url": "https://open.spotify.com/album/1DIOYPyEmtndqsvjnmRnpE"
-      },
-      "artists": [
-        {
-          "name": "Wiz Senega",
-          "url": "https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "Until the End of Night",
-      "url": "https://open.spotify.com/track/6h90hz90xCvuPonKE3hkau"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
         "name": "The Long Way Home",
         "url": "https://open.spotify.com/album/5pSEQWT3skSHS6JW12MMrG"
       },
@@ -2855,38 +2807,6 @@
       "duration_ms": 161950,
       "name": "When shadows fall",
       "url": "https://open.spotify.com/track/3fZhmPTU8TFCNqp2FQkQG9"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "I Knew You\u2019d Smile",
-        "url": "https://open.spotify.com/album/3jkt7uN6Al3Klwa1YrPjEc"
-      },
-      "artists": [
-        {
-          "name": "Lev Banks",
-          "url": "https://open.spotify.com/artist/78kWvPdx9S93qoBi9kVpOD"
-        }
-      ],
-      "duration_ms": 176397,
-      "name": "I Knew You\u2019d Smile",
-      "url": "https://open.spotify.com/track/72RZTtAJgnyM3uciNR8Cwo"
-    },
-    {
-      "added_at": "2026-09-18 07:37:38",
-      "album": {
-        "name": "Strollin in the Park",
-        "url": "https://open.spotify.com/album/1ZrgW0At3UG29JBvZoOnKK"
-      },
-      "artists": [
-        {
-          "name": "Noah Wenger",
-          "url": "https://open.spotify.com/artist/61K16AcuP4yczd1ZH6u0fm"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Strollin in the Park",
-      "url": "https://open.spotify.com/track/4Ao2tGbc6AG1b7U51EktJI"
     }
   ],
   "unique_name": "Jazz for Sleep",

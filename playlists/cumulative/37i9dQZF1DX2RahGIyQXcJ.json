@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover: Dhanda Nyoliwala\n",
+  "description": "Best of Desi Hip-Hop! Cover: Karan Aujla\n",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 146428,
       "name": "Big Plans",
       "url": "https://open.spotify.com/track/6oiR3TNT3vNRa9KbP7tTAe"
@@ -3916,7 +3916,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186600,
       "name": "Ek Din Pyaar",
       "url": "https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV"
@@ -3996,6 +3996,32 @@
       "duration_ms": 169303,
       "name": "Engine",
       "url": "https://open.spotify.com/track/6d8YAyAeC56chQdK9fAP4e"
+    },
+    {
+      "album": {
+        "name": "EVER SINCE",
+        "url": "https://open.spotify.com/album/6fNR73rpABGXVfTLU3aS6c"
+      },
+      "artists": [
+        {
+          "name": "XUG",
+          "url": "https://open.spotify.com/artist/1G2Xz5Qw96kK6jL6q8KNMl"
+        },
+        {
+          "name": "SLA",
+          "url": "https://open.spotify.com/artist/1FzdLleVUaJuUtMbWFzhwU"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "EVER SINCE",
+      "url": "https://open.spotify.com/track/4nTjZ6JNnw06NmJNh55h63"
     },
     {
       "album": {
@@ -4250,7 +4276,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 130000,
       "name": "Faraar",
       "url": "https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G"
@@ -4268,7 +4294,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192495,
       "name": "FARAK - Live",
       "url": "https://open.spotify.com/track/4vSgEJ018SwZU1L86qawP0"
@@ -5140,7 +5166,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 148578,
       "name": "Hashbrown",
       "url": "https://open.spotify.com/track/5pRmOLFfqEybt2C2hfmglZ"
@@ -5636,7 +5662,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186086,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f"
@@ -6303,6 +6329,28 @@
     },
     {
       "album": {
+        "name": "TROUBLESOME '96",
+        "url": "https://open.spotify.com/album/311PG77TzArhVJE6xARP7Q"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Karachi Rambo",
+      "url": "https://open.spotify.com/track/184DJZobmZCin0oMiddLJG"
+    },
+    {
+      "album": {
         "name": "Karacola",
         "url": "https://open.spotify.com/album/539yc6BZmUkZ4ma2g0mcSv"
       },
@@ -6574,7 +6622,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 175909,
       "name": "Knife Brows",
       "url": "https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1"
@@ -6618,7 +6666,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 363203,
       "name": "KODAK",
       "url": "https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd"
@@ -7377,6 +7425,24 @@
     },
     {
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/6FYNVDTDh3NK2YBFeERXWc"
+      },
+      "artists": [
+        {
+          "name": "Arinar Black",
+          "url": "https://open.spotify.com/artist/7yx3gerc8n9twrvZ0YNmUm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117281,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/0Xd0n84Hps58jnh2YMbZcV"
+    },
+    {
+      "album": {
         "name": "DESIGNERR",
         "url": "https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa"
       },
@@ -7674,7 +7740,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 185567,
       "name": "Marzi",
       "url": "https://open.spotify.com/track/2mmA9toRZsgxte9kzB87YN"
@@ -8014,7 +8080,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 171787,
       "name": "MUDDA (feat. Seedhe Maut)",
       "url": "https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX"
@@ -8666,7 +8732,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 218142,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK"
@@ -8790,7 +8856,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190444,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
@@ -9354,7 +9420,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 226751,
       "name": "Payal",
       "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
@@ -9797,6 +9863,32 @@
     },
     {
       "album": {
+        "name": "AUJLA SZN 1",
+        "url": "https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        },
+        {
+          "name": "Azaad 4L",
+          "url": "https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245952,
+      "name": "Rap Killa",
+      "url": "https://open.spotify.com/track/3B6vLmcMBl772iLn9AWgWw"
+    },
+    {
+      "album": {
         "name": "RISKTAPE",
         "url": "https://open.spotify.com/album/58tPbamRoUkTyNFWLb9N7Q"
       },
@@ -10048,7 +10140,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 139789,
       "name": "Ring A Rose",
       "url": "https://open.spotify.com/track/2TwzMCeWCH3B66jvwMtEem"
@@ -10427,6 +10519,32 @@
     },
     {
       "album": {
+        "name": "ALL I EVER",
+        "url": "https://open.spotify.com/album/6wWFlHWi3PX5QUcCSxy8mQ"
+      },
+      "artists": [
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228578,
+      "name": "SARDIYAN",
+      "url": "https://open.spotify.com/track/7iypm6rsVgbJUGtssIoOeu"
+    },
+    {
+      "album": {
         "name": "Sargoshi",
         "url": "https://open.spotify.com/album/1ANUXBw3AUVUUXfFpbIcY7"
       },
@@ -10616,6 +10734,28 @@
       "duration_ms": 224000,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4"
+    },
+    {
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/4TiLunEJxE8k1cZBhxj5ea"
+      },
+      "artists": [
+        {
+          "name": "Kim The Beloved",
+          "url": "https://open.spotify.com/artist/2lXkftiHxP34fKQl8W6hCC"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6esAptCMkyEwYxdDAnD03c"
     },
     {
       "album": {
@@ -10864,7 +11004,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 163160,
       "name": "Shmello Dance",
       "url": "https://open.spotify.com/track/2vkBNLL8TzlutSlOENjWq1"
@@ -11234,7 +11374,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 132978,
       "name": "SWITCHIN' LANES",
       "url": "https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ"
@@ -11574,6 +11714,28 @@
       "duration_ms": 209230,
       "name": "These Days (feat. Bohemia)",
       "url": "https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9"
+    },
+    {
+      "album": {
+        "name": "TROUBLESOME '96",
+        "url": "https://open.spotify.com/album/311PG77TzArhVJE6xARP7Q"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297142,
+      "name": "Thousand Faces",
+      "url": "https://open.spotify.com/track/3RsCWVZNfEjffLexIbOgLP"
     },
     {
       "album": {
@@ -12065,6 +12227,28 @@
     },
     {
       "album": {
+        "name": "ALL I EVER",
+        "url": "https://open.spotify.com/album/6wWFlHWi3PX5QUcCSxy8mQ"
+      },
+      "artists": [
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "WAIT A SEC",
+      "url": "https://open.spotify.com/track/7899sXIrUfAOSSwzDJk42g"
+    },
+    {
+      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/6BPLe47ABtvmDwWJ7UsvVE"
       },
@@ -12444,7 +12628,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 172106,
       "name": "Wild Ride (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/4Ec2TXBQ5NMXuXfFBDkE1A"
@@ -12540,7 +12724,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 256000,
       "name": "Y2K",
       "url": "https://open.spotify.com/track/090UnEhlo1IBW0a4pQa0Tc"
@@ -12684,7 +12868,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 159312,
       "name": "YEDA YUNG",
       "url": "https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs"
@@ -12702,7 +12886,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 211783,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF"

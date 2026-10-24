@@ -360,6 +360,24 @@
     {
       "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243977,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/2jIUgQMInVgGOXryTgIMAe"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
       "artists": [
@@ -820,7 +838,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 197973,
       "name": "LOYAL (feat. Drake)",
       "url": "https://open.spotify.com/track/6wTOQUNs8XNeTsVAPYubFg"

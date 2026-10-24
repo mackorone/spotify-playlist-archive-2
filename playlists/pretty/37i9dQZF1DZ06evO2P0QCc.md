@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,035 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,065 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 7 | [Te He Prometido](https://open.spotify.com/track/0bKzmBLpd9pqd1ChV0YeR6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 3:13 |
 | 8 | [Pero Qué Necesidad](https://open.spotify.com/track/0uGyELT65mHxzWTf0wgBMs) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Pero Qué Necesidad](https://open.spotify.com/album/1OqqbUySswh0MEgG9QvAR1) | 3:08 |
 | 9 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
-| 10 | [Por Última Vez](https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:15 |
+| 10 | [Como Te Extraño](https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:46 |
 | 11 | [Osito Dormilón](https://open.spotify.com/track/6viyvPzQ2vMDWgVjrHoaXg) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Tony Hernández](https://open.spotify.com/artist/6fRERRLf0Zobo3uczaVanX) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 4:08 |
-| 12 | [Como Te Extraño](https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:46 |
+| 12 | [Por Última Vez](https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:15 |
 | 13 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 14 | [Brindo por ti](https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Amar o Morir](https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u) | 4:12 |
 | 15 | [Yo No Nací Para Amar](https://open.spotify.com/track/36yZWXnrRJnxScVITAwcFl) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 4:31 |
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 22 | [Ska Voovee Boobie Baby](https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:23 |
 | 23 | [Pánico](https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:00 |
 | 24 | [Amargo Adiós](https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 3:37 |
-| 25 | [Tengo un Amor](https://open.spotify.com/track/7F0iPNyf2Zmxmu7r220B5m) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1) | [A la Larga Te Acostumbras](https://open.spotify.com/album/5jk2mKBw1wNaDuCHy0lwvz) | 3:06 |
-| 26 | [Serpientes Y Escaleras](https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:34 |
+| 25 | [Serpientes Y Escaleras](https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:34 |
+| 26 | [Tengo un Amor](https://open.spotify.com/track/7F0iPNyf2Zmxmu7r220B5m) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1) | [A la Larga Te Acostumbras](https://open.spotify.com/album/5jk2mKBw1wNaDuCHy0lwvz) | 3:06 |
 | 27 | [Convaleciente](https://open.spotify.com/track/55uzTdtJjz4pHt51IoAJYI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:26 |
 | 28 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
-| 29 | [Deja Ya de Mentir](https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:50 |
-| 30 | [Grita](https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 |
+| 29 | [Grita](https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 |
+| 30 | [Deja Ya de Mentir](https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:50 |
 | 31 | [Noviembre \(feat\. Ely Guerra\)](https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:20 |
 | 32 | [Breve Historia de Alcohol y una Mujer](https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:21 |
 | 33 | [Luna](https://open.spotify.com/track/0coZWcSFpUwrkimzmiUfVM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 |
 | 50 | [My Girl](https://open.spotify.com/track/0vDqVNO9oc8F2lKB1IzJn0) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 2:53 |
 
-Snapshot ID: `atavAAAAAABPo4Dmo1WuytN0oeOITmdV`
+Snapshot ID: `atgAgAAAAACNgFJetsujdEm2QDheUYEb`

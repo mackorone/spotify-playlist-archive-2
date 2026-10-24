@@ -1,13 +1,153 @@
 {
   "description": "The home of Canadian country music. Cover: The Reklaws",
-  "num_followers": 84581,
+  "num_followers": 84587,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ88ebxZ4W3EHhtYZ3vogiT+768F",
+  "snapshot_id": "AAAAAKtU8aS2rLIUoDEZLnCIOtXn+Vtp",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "It's A Good Life If You Don't Weaken (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/6omGKUjclc3fRwolyQJly5"
+      },
+      "artists": [
+        {
+          "name": "'It's A Good Life If You Don't Weaken' Original Cast",
+          "url": "https://open.spotify.com/artist/44TNh3EziKQGhN9VJFvGiM"
+        },
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 209525,
+      "name": "Boots Or Hearts (feat. Owen Riegling) - 'It's A Good Life If You Don't Weaken' Original Cast Recording",
+      "url": "https://open.spotify.com/track/2bchpzpoxdSU1raVgQcMmE"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Outcast",
+        "url": "https://open.spotify.com/album/0l7eb4aBYTCFNgzu2Wf7mq"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Outcast",
+      "url": "https://open.spotify.com/track/531JT5v5NMAXtfa8oazztG"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Set Me Free (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/0cVPJWwvk76ZCWTykU0lDE"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Set Me Free (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/4Qf4BzzNTJUNSuMkcY86K1"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Queen of the Strait",
+        "url": "https://open.spotify.com/album/7hu5dx7qlVmU4YmjJ6H6SS"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Jim Cuddy Dress",
+      "url": "https://open.spotify.com/track/0wyMhwWnCvUR19SsSzrpcT"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Scorpio Sun",
+        "url": "https://open.spotify.com/album/10Jnb5Nk6ElwA69ie5BY43"
+      },
+      "artists": [
+        {
+          "name": "The Redhill Valleys",
+          "url": "https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ"
+        }
+      ],
+      "duration_ms": 245316,
+      "name": "Scorpio Sun",
+      "url": "https://open.spotify.com/track/7mdfWG5X2W6LVtxU9U5rbE"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Ain't that Bad",
+        "url": "https://open.spotify.com/album/0El1xpdyiTZqoZRgCEbG3W"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "duration_ms": 215897,
+      "name": "Ain't that Bad",
+      "url": "https://open.spotify.com/track/1k8PaiICiBuczTDob6Fbdz"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "the Last Call",
+        "url": "https://open.spotify.com/album/1uHiGTP9H3HsxC3FsXNJG2"
+      },
+      "artists": [
+        {
+          "name": "Paige Rutledge",
+          "url": "https://open.spotify.com/artist/4L5j4JbDdUfOd3NievouB1"
+        },
+        {
+          "name": "Chase Kasner",
+          "url": "https://open.spotify.com/artist/2vbwUfC5XPFBq4LzJJ9VmN"
+        }
+      ],
+      "duration_ms": 153339,
+      "name": "Tennessee Time (feat. Chase Kasner)",
+      "url": "https://open.spotify.com/track/5PJCVOPHpS29oMBjoeWIFn"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Knock off the Rust",
+        "url": "https://open.spotify.com/album/3w8R3Vc446WNY42f8ovYIO"
+      },
+      "artists": [
+        {
+          "name": "Justin Legacy",
+          "url": "https://open.spotify.com/artist/0PaE9CZDcuNWOwE0SBaq7R"
+        }
+      ],
+      "duration_ms": 189312,
+      "name": "Knock off the Rust",
+      "url": "https://open.spotify.com/track/1FdkkOCsQjjNwJ4q7m3bcz"
+    },
     {
       "added_at": "2026-10-16 04:03:23",
       "album": {
@@ -23,6 +163,134 @@
       "duration_ms": 156071,
       "name": "In A While",
       "url": "https://open.spotify.com/track/06fIYIfYUqZgKXixvhv0xW"
+    },
+    {
+      "added_at": "2026-10-09 04:03:54",
+      "album": {
+        "name": "My First Rodeo",
+        "url": "https://open.spotify.com/album/5Es88oc5apsaMJzoPedOdu"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "duration_ms": 196928,
+      "name": "My First Rodeo",
+      "url": "https://open.spotify.com/track/557iWce8PD0cY22ldVhCGV"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "M\u2019enfuir de moi-m\u00eame",
+        "url": "https://open.spotify.com/album/0kbVP0oWCKHfi07ffs726W"
+      },
+      "artists": [
+        {
+          "name": "Ariane Simard",
+          "url": "https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "M\u2019enfuir de moi-m\u00eame",
+      "url": "https://open.spotify.com/track/0a4nD2tsIK6hH0aMYROcaa"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Gets Around",
+        "url": "https://open.spotify.com/album/5svIX2CqemUf5kCSFRDbyL"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "duration_ms": 176042,
+      "name": "Gets Around",
+      "url": "https://open.spotify.com/track/4sRjTgVqZaeS6DyQW0dAxE"
+    },
+    {
+      "added_at": "2026-09-25 04:04:21",
+      "album": {
+        "name": "Drink Things Through",
+        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "Drink Things Through",
+      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "The River (Back Home)",
+        "url": "https://open.spotify.com/album/3DZw0VPGbxotbiXRcjuWpB"
+      },
+      "artists": [
+        {
+          "name": "Theo Tams",
+          "url": "https://open.spotify.com/artist/6Voq6xq7exrhYKhCsSDl3N"
+        }
+      ],
+      "duration_ms": 178265,
+      "name": "The River - Back Home",
+      "url": "https://open.spotify.com/track/3BwwCSe4KAKPm4L3MhHbtH"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "why am I not over you",
+        "url": "https://open.spotify.com/album/7wthqpRSpqsKAb4Qccn0AH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "duration_ms": 234154,
+      "name": "why am I not over you",
+      "url": "https://open.spotify.com/track/1jUAopEA53rT217zv2HgEB"
+    },
+    {
+      "added_at": "2026-10-23 04:03:27",
+      "album": {
+        "name": "Donne-toi la chance",
+        "url": "https://open.spotify.com/album/6ens2fDplvSXrL3pSEpQrm"
+      },
+      "artists": [
+        {
+          "name": "Andie Therio",
+          "url": "https://open.spotify.com/artist/6iJjcbcInK5wOen7mW7emi"
+        }
+      ],
+      "duration_ms": 169032,
+      "name": "Donne-toi la chance",
+      "url": "https://open.spotify.com/track/7hKnW3PW1fUSwPehi80LUh"
+    },
+    {
+      "added_at": "2026-10-16 04:03:23",
+      "album": {
+        "name": "the long haul",
+        "url": "https://open.spotify.com/album/4FATH35O7poCB78iRgrnFp"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 204149,
+      "name": "the long haul",
+      "url": "https://open.spotify.com/track/3VzruTDlXDth0txAyBnAwb"
     },
     {
       "added_at": "2026-10-16 04:03:23",
@@ -55,54 +323,6 @@
       "duration_ms": 174971,
       "name": "Wild Hearts",
       "url": "https://open.spotify.com/track/766cYWzIzH059y6HZRnhIQ"
-    },
-    {
-      "added_at": "2026-10-09 04:03:54",
-      "album": {
-        "name": "My First Rodeo",
-        "url": "https://open.spotify.com/album/5Es88oc5apsaMJzoPedOdu"
-      },
-      "artists": [
-        {
-          "name": "The Prairie States",
-          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
-        }
-      ],
-      "duration_ms": 196928,
-      "name": "My First Rodeo",
-      "url": "https://open.spotify.com/track/557iWce8PD0cY22ldVhCGV"
-    },
-    {
-      "added_at": "2026-09-25 04:04:21",
-      "album": {
-        "name": "Drink Things Through",
-        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "Drink Things Through",
-      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
-    },
-    {
-      "added_at": "2026-10-16 04:03:23",
-      "album": {
-        "name": "the long haul",
-        "url": "https://open.spotify.com/album/4FATH35O7poCB78iRgrnFp"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 204149,
-      "name": "the long haul",
-      "url": "https://open.spotify.com/track/3VzruTDlXDth0txAyBnAwb"
     },
     {
       "added_at": "2026-10-16 04:03:23",
@@ -3065,22 +3285,6 @@
       "url": "https://open.spotify.com/track/3emUP6eGVNw0m8wuu7j12v"
     },
     {
-      "added_at": "2026-06-19 04:03:02",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/2ZgnqafVCj78rO9kTGwPVS"
-      },
-      "artists": [
-        {
-          "name": "Brian John Harwood",
-          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/14PPOwZGiNdxa9CtYLitR2"
-    },
-    {
       "added_at": "2026-06-12 04:03:11",
       "album": {
         "name": "GIRLFRIENDS BEWARE",
@@ -3143,198 +3347,6 @@
       "duration_ms": 156690,
       "name": "Living For Friday Night",
       "url": "https://open.spotify.com/track/6OhXiz0Q4cq5GTq6VDS9Cm"
-    },
-    {
-      "added_at": "2026-06-12 04:03:11",
-      "album": {
-        "name": "Work Truck",
-        "url": "https://open.spotify.com/album/0rAJN8CqghuXjocwSytdoc"
-      },
-      "artists": [
-        {
-          "name": "Buck Twenty",
-          "url": "https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq"
-        }
-      ],
-      "duration_ms": 168692,
-      "name": "Work Truck",
-      "url": "https://open.spotify.com/track/1XE8qDoGJUBtDqGEidZAq7"
-    },
-    {
-      "added_at": "2026-06-19 04:03:02",
-      "album": {
-        "name": "CIGARETTE",
-        "url": "https://open.spotify.com/album/0HFxBzNyidcwiHQ6pl81SD"
-      },
-      "artists": [
-        {
-          "name": "Sean Michael Ryan",
-          "url": "https://open.spotify.com/artist/6HRmf5pui2Mcqi3URD8Uvk"
-        }
-      ],
-      "duration_ms": 205071,
-      "name": "CIGARETTE",
-      "url": "https://open.spotify.com/track/5N974DIUb3OBJirNNFnYRw"
-    },
-    {
-      "added_at": "2026-05-29 14:51:47",
-      "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/085IcPMakVdABGg6iV6L2n"
-      },
-      "artists": [
-        {
-          "name": "Kelsi Mayne",
-          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
-        }
-      ],
-      "duration_ms": 155824,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/3nfjyqeYMXo88OLpwFZ6hF"
-    },
-    {
-      "added_at": "2026-06-12 04:03:11",
-      "album": {
-        "name": "Bar Star",
-        "url": "https://open.spotify.com/album/4XPGw3t3OlxZ7xsvQAaJGH"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Leigh Meyer",
-          "url": "https://open.spotify.com/artist/7vIpDPwFrupPH6AqxZNtY6"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Before You (Wedding Version)",
-      "url": "https://open.spotify.com/track/0g9rZ52Z1ADLwWVh6F1Z1f"
-    },
-    {
-      "added_at": "2026-06-12 04:03:11",
-      "album": {
-        "name": "Rox in the Box",
-        "url": "https://open.spotify.com/album/1MpqWkZ6ULonyjh36z9w0i"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 192695,
-      "name": "Rox in the Box",
-      "url": "https://open.spotify.com/track/2erJo1o9jHIWUfAlbZml90"
-    },
-    {
-      "added_at": "2026-06-05 04:02:58",
-      "album": {
-        "name": "Backroads",
-        "url": "https://open.spotify.com/album/0aFHi5gbd3YCQk8ZOmSt16"
-      },
-      "artists": [
-        {
-          "name": "Fred Dionne",
-          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
-        }
-      ],
-      "duration_ms": 202184,
-      "name": "Backroads",
-      "url": "https://open.spotify.com/track/7sFiwtLhG46Jxy8D7Np15D"
-    },
-    {
-      "added_at": "2026-06-12 04:03:11",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/3EISSb48UhturhlGFgHJw7"
-      },
-      "artists": [
-        {
-          "name": "Taylor-Rae",
-          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
-        }
-      ],
-      "duration_ms": 169681,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/5LnWNN9VXR5lOXAs51LErj"
-    },
-    {
-      "added_at": "2026-06-12 04:03:11",
-      "album": {
-        "name": "New Classic",
-        "url": "https://open.spotify.com/album/4evx2V3nKnP3TQOnFAMp7F"
-      },
-      "artists": [
-        {
-          "name": "Megan Dawson",
-          "url": "https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4"
-        }
-      ],
-      "duration_ms": 195494,
-      "name": "New Classic",
-      "url": "https://open.spotify.com/track/7biQFmMlQWFVT63Adgr08w"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Tethered",
-        "url": "https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mason",
-          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
-        }
-      ],
-      "duration_ms": 241686,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
-    },
-    {
-      "added_at": "2026-06-05 04:02:58",
-      "album": {
-        "name": "Family Drama",
-        "url": "https://open.spotify.com/album/5ta2vcaiJPQqOIQ8dKyJiy"
-      },
-      "artists": [
-        {
-          "name": "Brittany Kennell",
-          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Family Drama",
-      "url": "https://open.spotify.com/track/1qpg7FBXAPGbln4MJfVkBc"
-    },
-    {
-      "added_at": "2026-06-05 04:02:58",
-      "album": {
-        "name": "All The Time",
-        "url": "https://open.spotify.com/album/2ULdnGqXdbALk6M4WhnJX1"
-      },
-      "artists": [
-        {
-          "name": "Roslyn Witter",
-          "url": "https://open.spotify.com/artist/3X47AgHr9mKO5Wy1Dv8Xmf"
-        }
-      ],
-      "duration_ms": 206686,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/7m86fo0eB2AZlGZa9bDajc"
-    },
-    {
-      "added_at": "2026-06-05 04:02:58",
-      "album": {
-        "name": "Tell Me To",
-        "url": "https://open.spotify.com/album/6OJ98R36YCE8T2V2sWheKt"
-      },
-      "artists": [
-        {
-          "name": "Dawson Gray",
-          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Tell Me To",
-      "url": "https://open.spotify.com/track/78EeE8TcOs3tDM3rhjFeIv"
     }
   ],
   "unique_name": "North Country",

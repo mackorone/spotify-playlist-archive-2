@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12911,
+  "num_followers": 12910,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABba573yVtL0xtGgYXasBUs",
+  "snapshot_id": "atgAgAAAAADV+dDTvhwWpnD497a07sM3",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+        "name": "Anyhow",
+        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 302106,
-      "name": "You Are Good - Live",
-      "url": "https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C"
+      "duration_ms": 324600,
+      "name": "Anyhow",
+      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyhow",
-        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Anyhow",
-      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
       },
@@ -468,25 +452,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 334186,
-      "name": "Nobody - Live",
-      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
+      "duration_ms": 302106,
+      "name": "You Are Good - Live",
+      "url": "https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C"
     },
     {
       "added_at": null,
@@ -507,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 187458,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 101280,
       "name": "Most High God (Lude)",
       "url": "https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 334186,
+      "name": "Nobody - Live",
+      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 306368,
       "name": "Glory To God Forever / There Is Nothing Like / Way Maker - Live",
       "url": "https://open.spotify.com/track/4uCaoBzTg4t2F1FqjGrdlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "1-2 (Victory Check) - Live",
+      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 101106,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/2vpzga018mYLVXkE77wEds"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 307586,
       "name": "We Are Victorious (feat. Tye Tribbett)",
       "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 101106,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/2vpzga018mYLVXkE77wEds"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 292813,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 509186,
       "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
       "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 292813,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
     },
     {
       "added_at": null,

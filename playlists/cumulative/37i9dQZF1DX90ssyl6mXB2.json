@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "2LATE",
+        "url": "https://open.spotify.com/album/46VoS5qh48zYis18pVZx9n"
+      },
+      "artists": [
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "2LATE",
+      "url": "https://open.spotify.com/track/7LNe22N7YECRhqZPpkO93V"
+    },
+    {
+      "album": {
         "name": "2REAL",
         "url": "https://open.spotify.com/album/2B6MTDPqZLWQN4FcPv6azt"
       },
@@ -718,6 +736,24 @@
       "duration_ms": 166736,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/6Y8fg2jrxBDzMijRIUCSoL"
+    },
+    {
+      "album": {
+        "name": "Been Showed Up",
+        "url": "https://open.spotify.com/album/0LEaPOq59LqGyQB0LBEfIn"
+      },
+      "artists": [
+        {
+          "name": "7AE",
+          "url": "https://open.spotify.com/artist/0W6ygO3cS60iJHYUU281cp"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214812,
+      "name": "Been Showed Up",
+      "url": "https://open.spotify.com/track/1zQ73y8vSPhsdAeKoRxmC3"
     },
     {
       "album": {
@@ -1858,6 +1894,24 @@
       "duration_ms": 153637,
       "name": "Drama",
       "url": "https://open.spotify.com/track/40ROAtBj7soL5rbqXQjU4k"
+    },
+    {
+      "album": {
+        "name": "dress up",
+        "url": "https://open.spotify.com/album/5URq0P4FkYeJ8Rh5XxRaB0"
+      },
+      "artists": [
+        {
+          "name": "rl",
+          "url": "https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187177,
+      "name": "dress up",
+      "url": "https://open.spotify.com/track/0c2yvtjL14s5d3Yeqpe6Jf"
     },
     {
       "album": {
@@ -5080,7 +5134,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 177423,
       "name": "she goes by.",
       "url": "https://open.spotify.com/track/3kpGbIP1qVaFHNE78tTGEy"
@@ -5102,6 +5156,24 @@
       "duration_ms": 146363,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
+    },
+    {
+      "album": {
+        "name": "Sin City",
+        "url": "https://open.spotify.com/album/6ZN20w7vtSus34Rc4iwn7B"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/4WEN05q9X5xgIfBcE0MAAu"
     },
     {
       "album": {

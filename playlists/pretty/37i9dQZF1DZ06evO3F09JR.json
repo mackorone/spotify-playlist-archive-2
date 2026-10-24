@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAD6yXQ7B5fBme5c2h/4q0EH",
+  "snapshot_id": "atgAgAAAAAAt9wtjgBvdg9E57b7ZG0+s",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 458040,
-      "name": "Berlino",
-      "url": "https://open.spotify.com/track/2XmhhABUjLE3ab6wxT6qWI"
+      "duration_ms": 616360,
+      "name": "Primafalsa",
+      "url": "https://open.spotify.com/track/0qwruIYvzzV7LLWOXdlqBC"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 616360,
-      "name": "Primafalsa",
-      "url": "https://open.spotify.com/track/0qwruIYvzzV7LLWOXdlqBC"
+      "duration_ms": 458040,
+      "name": "Berlino",
+      "url": "https://open.spotify.com/track/2XmhhABUjLE3ab6wxT6qWI"
     },
     {
       "added_at": null,
@@ -231,26 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
       },
       "artists": [
         {
-          "name": "Alain Johannes",
-          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
-        },
-        {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Norm Block",
-          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 202600,
-      "name": "The Long Road",
-      "url": "https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e"
+      "duration_ms": 276000,
+      "name": "Quasi Casa",
+      "url": "https://open.spotify.com/track/562ikulQIED38RmLXUowpq"
     },
     {
       "added_at": null,
@@ -267,22 +259,6 @@
       "duration_ms": 586146,
       "name": "Alba",
       "url": "https://open.spotify.com/track/7KZVkN7WJpdYAJh5VaOMgw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento",
-        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Quasi Casa",
-      "url": "https://open.spotify.com/track/562ikulQIED38RmLXUowpq"
     },
     {
       "added_at": null,
@@ -336,9 +312,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 246773,
-      "name": "Splinter Hell",
-      "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
+      "duration_ms": 202600,
+      "name": "The Long Road",
+      "url": "https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e"
     },
     {
       "added_at": null,
@@ -416,9 +392,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 57946,
-      "name": "Heart of the Volcano",
-      "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
+      "duration_ms": 246773,
+      "name": "Splinter Hell",
+      "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
     },
     {
       "added_at": null,
@@ -464,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 322775,
-      "name": "Finire",
-      "url": "https://open.spotify.com/track/5TZ65mVDwl9O8MJiPhxd1f"
+      "duration_ms": 458393,
+      "name": "Nonfare",
+      "url": "https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl"
     },
     {
       "added_at": null,
@@ -488,9 +464,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 55000,
-      "name": "To Live Another Day",
-      "url": "https://open.spotify.com/track/0uDw3vdZfUWIejxagpJEnC"
+      "duration_ms": 57946,
+      "name": "Heart of the Volcano",
+      "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
     },
     {
       "added_at": null,
@@ -540,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 458393,
-      "name": "Nonfare",
-      "url": "https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl"
+      "duration_ms": 439648,
+      "name": "Aspettare",
+      "url": "https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra"
     },
     {
       "added_at": null,
@@ -564,9 +540,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 185893,
-      "name": "Sentinels on Patrol",
-      "url": "https://open.spotify.com/track/1CORVHstYrHGOx7YLqZLFP"
+      "duration_ms": 55000,
+      "name": "To Live Another Day",
+      "url": "https://open.spotify.com/track/0uDw3vdZfUWIejxagpJEnC"
     },
     {
       "added_at": null,
@@ -616,9 +592,33 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 439648,
-      "name": "Aspettare",
-      "url": "https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra"
+      "duration_ms": 322775,
+      "name": "Finire",
+      "url": "https://open.spotify.com/track/5TZ65mVDwl9O8MJiPhxd1f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Sentinels on Patrol",
+      "url": "https://open.spotify.com/track/1CORVHstYrHGOx7YLqZLFP"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
       "duration_ms": 367529,
       "name": "Immediate Horizon 2",
       "url": "https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonno",
-        "url": "https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "Di passaggio",
-      "url": "https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C"
     },
     {
       "added_at": null,
@@ -720,15 +704,15 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 452933,
-      "name": "Variabile",
-      "url": "https://open.spotify.com/track/5PsnswibVBgIH5OMTeTIqT"
+      "duration_ms": 292466,
+      "name": "Di passaggio",
+      "url": "https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C"
     },
     {
       "added_at": null,
       "album": {
-        "name": "VOLUME MASSIMO",
-        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+        "name": "Il Mostro (Colonna sonora della serie Netflix)",
+        "url": "https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 308813,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU"
+      "duration_ms": 61823,
+      "name": "La Tramontana (Main Title)",
+      "url": "https://open.spotify.com/track/56GpyA3IQmTJ98dMAu1k3E"
     },
     {
       "added_at": null,
@@ -784,15 +768,15 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Dell'influenza",
-      "url": "https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA"
+      "duration_ms": 452933,
+      "name": "Variabile",
+      "url": "https://open.spotify.com/track/5PsnswibVBgIH5OMTeTIqT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Il Mostro (Colonna sonora della serie Netflix)",
-        "url": "https://open.spotify.com/album/0hOIw7vuuXA3A9UB0JMQbN"
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 61823,
-      "name": "La Tramontana (Main Title)",
-      "url": "https://open.spotify.com/track/56GpyA3IQmTJ98dMAu1k3E"
+      "duration_ms": 308813,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU"
     },
     {
       "added_at": null,
@@ -823,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forse 1",
-        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Festa",
-      "url": "https://open.spotify.com/track/2AafKkDSGPZEn7VauY0D6E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Risveglio",
         "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 31108,
       "name": "Dormiveglia",
       "url": "https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonno",
+        "url": "https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Dell'influenza",
+      "url": "https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forse 1",
+        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/2AafKkDSGPZEn7VauY0D6E"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VOLUME MASSIMO",
-        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+        "name": "Risveglio",
+        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 315448,
-      "name": "BATTICUORE",
-      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
+      "duration_ms": 444068,
+      "name": "Lotta",
+      "url": "https://open.spotify.com/track/3kZH2IwWMOhg1tthntDBas"
     }
   ],
   "unique_name": "This Is Alessandro Cortini",

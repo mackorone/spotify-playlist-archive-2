@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Lainey Wilson
+> Trending for a reason \- the home of country's future monster hits\. Cover: Brandon Lake
 
-723 songs - 1 day 15 hr 17 min
+725 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2022-04-15 | 2022-12-03 |
 | [Change My Mind](https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Change My Mind](https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8) | 3:19 | 2025-04-04 | 2025-09-07 |
 | [Changed Everything](https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Changed Everything](https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0) | 3:46 | 2021-12-31 | 2022-05-20 |
+| [Changing](https://open.spotify.com/track/4uqhnuKU2p6iFCXQwzNJox) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Changing](https://open.spotify.com/album/6cyVRxzCRWl1RJoEILIM7A) | 2:53 | 2026-10-23 |  |
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2025-10-24 | 2026-05-02 |
 | [Chrome Pony](https://open.spotify.com/track/3W4TmuyzcMWz3iyVhCMmm2) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Chrome Pony](https://open.spotify.com/album/0NhxATfJ9luYFiQ8xzy0S4) | 3:24 | 2026-09-11 |  |
 | [Cigarette Burns](https://open.spotify.com/track/5lg7kVzuf0zpnbcgPNfmt3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Cigarette Burns](https://open.spotify.com/album/69YV3IXNEn03rJAJiht2zC) | 2:41 | 2026-06-26 | 2026-07-25 |
@@ -256,7 +257,7 @@
 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 | 2024-02-09 | 2024-06-08 |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-09-02 | 2023-04-15 |
 | [Hands Of Time](https://open.spotify.com/track/2XZobkFLKJKBaH9yKpAB2B) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hands Of Time](https://open.spotify.com/album/6YPblznaikFmGivA9dOUac) | 3:32 | 2025-05-02 | 2025-06-21 |
-| [Hands Up](https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hands Up](https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au) | 3:14 | 2026-06-26 |  |
+| [Hands Up](https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hands Up](https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au) | 3:14 | 2026-06-26 | 2026-10-24 |
 | [Happen To Me](https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Happen To Me](https://open.spotify.com/album/5FzT4YTYR95DHUhUkKWjvb) | 3:03 | 2025-02-28 | 2025-12-06 |
 | [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-09-27 | 2025-02-22 |
 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 | 2021-12-17 | 2022-09-24 |
@@ -378,6 +379,7 @@
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-12 | 2024-10-26 |
 | [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 | 2025-08-29 | 2026-05-02 |
 | [LMWYL](https://open.spotify.com/track/0KtNkUt8YNIR7VuVJYlNOt) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Exclusive](https://open.spotify.com/album/5oZYFsqM43tL6ZCrkpbvux) | 3:08 | 2026-01-23 | 2026-05-02 |
+| [Lodi When](https://open.spotify.com/track/1mzJsnHWXIthrJQKwe8Yci) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:56 | 2026-10-23 |  |
 | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww) | 3:09 | 2024-08-02 | 2025-01-25 |
 | [Long Live Cowgirls \(with Cody Johnson\)](https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Long Live Cowgirls \(with Cody Johnson\)](https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN) | 3:04 | 2022-02-04 | 2022-09-10 |
 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 | 2025-01-24 | 2025-05-10 |
@@ -665,7 +667,7 @@
 | [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2023-02-10 | 2023-05-19 |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-12 | 2024-02-10 |
 | [Weatherman](https://open.spotify.com/track/16tR0x7Rf4ryBuTJmJV4O9) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Weatherman](https://open.spotify.com/album/4Mlb3TAFRXMpKGzwSf0yK3) | 3:19 | 2025-03-28 | 2025-09-07 |
-| [Wedding Dress](https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:50 | 2026-02-27 |  |
+| [Wedding Dress](https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:50 | 2026-02-27 | 2026-10-24 |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-11 | 2025-08-17 |
 | [What A Song Can Do](https://open.spotify.com/track/2hRDjNbuoqxqHcXj29JJfZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:41 | 2021-12-17 | 2022-02-19 |
 | [What Are You Drinking](https://open.spotify.com/track/6G2hBL1ttQuXbCvXV6c6F3) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:24 | 2021-12-17 | 2022-09-10 |

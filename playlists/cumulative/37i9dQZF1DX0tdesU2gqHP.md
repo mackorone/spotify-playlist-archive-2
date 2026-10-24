@@ -4,7 +4,7 @@
 
 > The best videos from the world of pop! Cover: Olivia Rodrigo & Chappell Roan
 
-280 songs - 15 hr 1 min
+282 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 | 2026-03-20 | 2026-07-20 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-12-29 | 2026-08-01 |
 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 | 2025-12-09 | 2026-03-21 |
-| [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-19 |  |
+| [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-19 | 2026-10-24 |
 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-04 |  |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-31 | 2026-07-20 |
 | [Closet](https://open.spotify.com/track/1GQxMqoBlrrJFQdDjvHdmY) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Valley Girl Problems](https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso) | 2:26 | 2026-07-31 |  |
@@ -177,7 +177,7 @@
 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 | 2026-04-06 | 2026-08-22 |
 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-20 |  |
 | [New Boy](https://open.spotify.com/track/1Wt7sKbYdV0mGJ8Qjavgmm) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [New Boy](https://open.spotify.com/album/2VXIUV45brM8NAoKeQn5Dg) | 3:10 | 2026-06-06 | 2026-09-19 |
-| [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 | 2026-05-28 |  |
+| [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 | 2026-05-28 | 2026-10-24 |
 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 | 2026-03-09 | 2026-06-13 |
 | [New To You](https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [New To You](https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq) | 2:31 | 2026-08-21 | 2026-10-20 |
 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-18 |  |
@@ -199,6 +199,7 @@
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-12 | 2026-08-22 |
 | [Patient Zero](https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA) | 5:12 | 2026-09-28 |  |
 | [petal](https://open.spotify.com/track/66BbGik5yj7hGzs6rQurrp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/0dhHvaHUgsi23dD2NypxZu) | 6:50 | 2026-07-31 |  |
+| [Peter Pan Syndrome](https://open.spotify.com/track/4xVC1UohDxY5NrvAWyClZr) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Peter Pan Syndrome](https://open.spotify.com/album/6demjC0kDFAp07LWgXou0O) | 3:06 | 2026-10-23 |  |
 | [Petty Crimes](https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Petty Crimes](https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx) | 3:12 | 2026-09-11 | 2026-10-10 |
 | [Pillow Fight](https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Pillow Fight / I’d Rather Be Alone](https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv) | 2:21 | 2026-09-11 | 2026-09-26 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-12-09 | 2026-05-16 |
@@ -252,6 +253,7 @@
 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 | 2026-08-21 | 2026-10-20 |
 | [Take A Video](https://open.spotify.com/track/5yieRaZS2kd0XLGMkcYcpP) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Take A Video](https://open.spotify.com/album/056xtyjduIvd1wt98OIRjH) | 2:59 | 2026-10-09 |  |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/1tLZhEZgYZGP0GeopkBjSG) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/77YroeAWQJO7OkQsx3GfCz) | 3:13 | 2025-12-09 | 2026-01-15 |
+| [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 | 2026-10-23 |  |
 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 | 2026-07-31 | 2026-09-19 |
 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 | 2026-07-31 |  |
 | [That's a Year](https://open.spotify.com/track/0kZM3WMqxlJiIU43CkASer) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [That's a Year](https://open.spotify.com/album/6U7cekaGWJ3dSMaWaXaNfA) | 2:39 | 2026-08-21 | 2026-09-12 |

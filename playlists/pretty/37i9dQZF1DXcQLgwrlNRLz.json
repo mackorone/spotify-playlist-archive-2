@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Tiakola",
-  "num_followers": 19688,
+  "num_followers": 19718,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "CARTIER",
-      "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "HYPERACTIF",
         "url": "https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 148193,
       "name": "Mood (feat. D2 & kulturr)",
       "url": "https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "IGBO",
+        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "IGBO",
+      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "Doucement",
         "url": "https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 227080,
       "name": "Doucement",
       "url": "https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "IGBO",
-        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "IGBO",
-      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "DM",
         "url": "https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Glish",
-        "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Yoyo / Petit coeur",
-      "url": "https://open.spotify.com/track/0zKdCMxjRXZW3xENEFMI1k"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Fire in your Eyes",
         "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
       },
@@ -895,22 +879,18 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "JEUNE&INNOCENT",
-        "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
+        "name": "Glish",
+        "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
       },
       "artists": [
         {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        },
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 205714,
-      "name": "SO MAWA (feat. Mauvais djo)",
-      "url": "https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2"
+      "duration_ms": 292173,
+      "name": "Yoyo / Petit coeur",
+      "url": "https://open.spotify.com/track/0zKdCMxjRXZW3xENEFMI1k"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -939,6 +919,26 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "JEUNE&INNOCENT",
+        "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "SO MAWA (feat. Mauvais djo)",
+      "url": "https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "DACHIBA KOUMGBA TCHAIBA",
         "url": "https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo"
       },
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "Il s'appelait Tayc",
+        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 220490,
+      "name": "Il s'appelait Tayc",
+      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "Jeune prince",
         "url": "https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 155973,
       "name": "Pression",
       "url": "https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "Il s'appelait Tayc",
-        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 220490,
-      "name": "Il s'appelait Tayc",
-      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Buku Jero",
-        "url": "https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 169166,
-      "name": "Buku Jero",
-      "url": "https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 137390,
       "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Buku Jero",
+        "url": "https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 169166,
+      "name": "Buku Jero",
+      "url": "https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Ma nana",
-        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
-      },
-      "artists": [
-        {
-          "name": "Dk2fois",
-          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
-        }
-      ],
-      "duration_ms": 197285,
-      "name": "Ma nana",
-      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Oulala",
         "url": "https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 145250,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Ma nana",
+        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
+      },
+      "artists": [
+        {
+          "name": "Dk2fois",
+          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Ma nana",
+      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "BOUCHEKARAILLE",
-        "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
-      },
-      "artists": [
-        {
-          "name": "Ste Milano",
-          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "BOUCHEKARAILLE",
-      "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "Bilingual Baddie(BB)",
         "url": "https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 118636,
       "name": "Bilingual Baddie(BB)",
       "url": "https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "BOUCHEKARAILLE",
+        "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
+      },
+      "artists": [
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "BOUCHEKARAILLE",
+      "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
     },
     {
       "added_at": "2026-10-23 00:01:08",

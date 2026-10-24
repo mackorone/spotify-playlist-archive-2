@@ -1,13 +1,129 @@
 {
   "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 104123,
+  "num_followers": 104198,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFCaA9QwP2b1ORIEAMdjwssFaNp",
+  "snapshot_id": "AAAAAOw72ZHXDCYhpYEwV9qWnKZV/lj4",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:29:18",
+      "album": {
+        "name": "Puppy Dance Party",
+        "url": "https://open.spotify.com/album/008IqnPFOJP5LREJWcv13s"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 110626,
+      "name": "Puppy Dance Party",
+      "url": "https://open.spotify.com/track/147eaS0BDvMC86ZmfgnGUA"
+    },
+    {
+      "added_at": "2026-10-23 04:29:18",
+      "album": {
+        "name": "Hangin\u2019 With My Dogs",
+        "url": "https://open.spotify.com/album/344jq8xhtsqof8RA7yzvEm"
+      },
+      "artists": [
+        {
+          "name": "Doozie's Doghouse",
+          "url": "https://open.spotify.com/artist/3651TGq8L0Zme78jxAhCKl"
+        },
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Hangin\u2019 With My Dogs",
+      "url": "https://open.spotify.com/track/6E4gFHlIW6e9mBh6mjHbWv"
+    },
+    {
+      "added_at": "2026-10-23 04:29:18",
+      "album": {
+        "name": "Love Is Everywhere",
+        "url": "https://open.spotify.com/album/2XUwFfftInf4hSgjUVroHY"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+        }
+      ],
+      "duration_ms": 182048,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/5ty7YTjIQACe2mDGNBWydB"
+    },
+    {
+      "added_at": "2026-10-23 04:29:18",
+      "album": {
+        "name": "Koovers",
+        "url": "https://open.spotify.com/album/5IDAqXTWA40NCmAUMWWjIH"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "duration_ms": 115711,
+      "name": "Yakety Yak - Koover",
+      "url": "https://open.spotify.com/track/0YHWOCBqmODdD5EUDMMIZB"
+    },
+    {
+      "added_at": "2026-10-23 04:29:18",
+      "album": {
+        "name": "Little Dino Dinosaur",
+        "url": "https://open.spotify.com/album/6WAkhXk8oiknlox4t9GBWG"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 178963,
+      "name": "Little Dino Dinosaur",
+      "url": "https://open.spotify.com/track/5Ggy4yA1RJeY3V8hSD9Xtr"
+    },
+    {
+      "added_at": "2026-10-23 04:29:18",
+      "album": {
+        "name": "Gotta Do It My Way",
+        "url": "https://open.spotify.com/album/4DIaSMvpQPTWZp2hAANmln"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 73591,
+      "name": "Gotta Do It My Way",
+      "url": "https://open.spotify.com/track/6LKMgjMJuXL0mHFqnTr1GH"
+    },
     {
       "added_at": "2026-09-25 04:01:48",
       "album": {
@@ -1727,130 +1843,6 @@
       "duration_ms": 154960,
       "name": "Ball Pit Party (with Bounce Patrol)",
       "url": "https://open.spotify.com/track/26JXItKm11HlVHFd1XbZGD"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Colours of the Rainbow",
-        "url": "https://open.spotify.com/album/312MSqJuqH6VN16GDjkMAg"
-      },
-      "artists": [
-        {
-          "name": "Oh Clementine",
-          "url": "https://open.spotify.com/artist/5AN1Wjg0YhqPFqF2xE0TnV"
-        },
-        {
-          "name": "Elizabeth Mitchell",
-          "url": "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Colours of the Rainbow",
-      "url": "https://open.spotify.com/track/4ARNKC0dakEO3b8W2f9Gsf"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Step by Step",
-        "url": "https://open.spotify.com/album/79ic9FglKQupUlsQLcaWpr"
-      },
-      "artists": [
-        {
-          "name": "The Lightcatchers Band",
-          "url": "https://open.spotify.com/artist/56LaK1yeHlJOV1FP36rr7P"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Step by Step",
-      "url": "https://open.spotify.com/track/3XEuweAwrjXlbPupQbKp1R"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Alma in Oz: The Musical",
-        "url": "https://open.spotify.com/album/06ZzYZAXyKphnitotSkFcD"
-      },
-      "artists": [
-        {
-          "name": "Alma's Way",
-          "url": "https://open.spotify.com/artist/67F6yiiA0nSOZM6iLIuJxY"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "You've Got It In You",
-      "url": "https://open.spotify.com/track/1SujgLCyeKnaIuP9lwl0S2"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "I'm Gonna Tap, Tap, Tap (Rhythm Stick Song)",
-        "url": "https://open.spotify.com/album/11h1h2l9KAix3fZgo5qaqo"
-      },
-      "artists": [
-        {
-          "name": "Miss Caitlin",
-          "url": "https://open.spotify.com/artist/1mxTDiZyelEP86sMqeRBBw"
-        }
-      ],
-      "duration_ms": 161119,
-      "name": "I'm Gonna Tap, Tap, Tap (Rhythm Stick Song)",
-      "url": "https://open.spotify.com/track/4Q4hej5Sv1jsBkhNp6G1bE"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "The Shaker Song",
-        "url": "https://open.spotify.com/album/1boEeAqkPGMWjzLRTUu0x4"
-      },
-      "artists": [
-        {
-          "name": "Caitie's Classroom",
-          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
-        },
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 209398,
-      "name": "The Shaker Song",
-      "url": "https://open.spotify.com/track/20OSwhwxSrvOLea7IZjdfm"
-    },
-    {
-      "added_at": "2026-07-10 04:00:27",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/5nIgD5ISbeiUEtyDNsuHUc"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 183180,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/3K2sq4GzFkLFA3u0lhYWeR"
-    },
-    {
-      "added_at": "2026-07-03 04:00:34",
-      "album": {
-        "name": "Little Miss Muffet / Peter Pumpkin Eater",
-        "url": "https://open.spotify.com/album/24JYYF7JmDtCaVgMYDCwH6"
-      },
-      "artists": [
-        {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        }
-      ],
-      "duration_ms": 105293,
-      "name": "Little Miss Muffet",
-      "url": "https://open.spotify.com/track/3CWyYDKPJ6sW11U5mrkHxi"
     }
   ],
   "unique_name": "New Kids Music",

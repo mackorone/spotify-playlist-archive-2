@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 125284,
+  "num_followers": 125299,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "De Pie",
+        "url": "https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 268260,
+      "name": "De Pie",
+      "url": "https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Sistema (Remix)",
         "url": "https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 240837,
       "name": "Sistema - Remix",
       "url": "https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "De Pie",
-        "url": "https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 268260,
-      "name": "De Pie",
-      "url": "https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -515,22 +515,6 @@
       "duration_ms": 276307,
       "name": "Singular (feat. El Chojin)",
       "url": "https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Espacio",
-        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
-      },
-      "artists": [
-        {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
-        }
-      ],
-      "duration_ms": 275318,
-      "name": "Espacio",
-      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -575,6 +559,22 @@
       "duration_ms": 194341,
       "name": "La Ansiedad y Yo",
       "url": "https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
+      },
+      "artists": [
+        {
+          "name": "Bocafloja",
+          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
+        }
+      ],
+      "duration_ms": 275318,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Punchline City, Vol. 1",
-        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
-      },
-      "artists": [
-        {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "duration_ms": 76660,
-      "name": "NueveOnce",
-      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Dolor",
         "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 265747,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Punchline City, Vol. 1",
+        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
+      },
+      "artists": [
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "duration_ms": 76660,
+      "name": "NueveOnce",
+      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Psicofonia",
+        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 184255,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Hombre (One Shot) [Remix]",
         "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 184600,
       "name": "Hombre (One Shot) - Remix",
       "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Psicofonia",
-        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 184255,
-      "name": "Matar o Morir",
-      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "104",
+        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "104",
+      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Rimas Femeninas",
         "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 193952,
       "name": "Rimas Femeninas",
       "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "104",
-        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "104",
-      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Inmunes",
-        "url": "https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 194831,
-      "name": "Inmunes",
-      "url": "https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Shhh",
         "url": "https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 145520,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Inmunes",
+        "url": "https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "duration_ms": 194831,
+      "name": "Inmunes",
+      "url": "https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Relojito",
-        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Striptease",
         "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 221826,
       "name": "R\u00ede Cuando Puedas",
       "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Relojito",
+        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Gangstas",
-        "url": "https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN"
+        "name": "En el Aire",
+        "url": "https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea"
       },
       "artists": [
         {
-          "name": "Lobo Estepario",
-          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Gangstas",
-      "url": "https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye"
+      "duration_ms": 181110,
+      "name": "En el Aire",
+      "url": "https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "En el Aire",
-        "url": "https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea"
+        "name": "Gangstas",
+        "url": "https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN"
       },
       "artists": [
         {
-          "name": "Astrid Cruz",
-          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+          "name": "Lobo Estepario",
+          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
         }
       ],
-      "duration_ms": 181110,
-      "name": "En el Aire",
-      "url": "https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk"
+      "duration_ms": 185000,
+      "name": "Gangstas",
+      "url": "https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye"
     },
     {
       "added_at": "2025-05-23 06:00:30",

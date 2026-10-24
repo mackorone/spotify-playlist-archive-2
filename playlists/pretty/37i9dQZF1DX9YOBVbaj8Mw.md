@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,403 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,404 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 9 | [Zabiorę Cię Tam](https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Zabiorę Cię Tam](https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B) | 3:33 |
 | 10 | [Kamień z serca](https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Kamień z serca](https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti) | 6:49 |
 | 11 | [Polsilver](https://open.spotify.com/track/2BG7eli63SGzeJaWn3wiSw) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [EX UMBRA AD LIBERTATEM](https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q) | 3:30 |
-| 12 | [NORADRENALINA](https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Duit](https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra) | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1) | 3:45 |
-| 13 | [Cud](https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 3:06 |
+| 12 | [Cud](https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 3:06 |
+| 13 | [NORADRENALINA](https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Duit](https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra) | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1) | 3:45 |
 | 14 | [zanim spadnie deszcz](https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 3:08 |
 | 15 | [Dość](https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Dość](https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu) | 2:14 |
 | 16 | [Nie mówię tak, nie mówię nie](https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs), [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Tak jak tutaj stoję](https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y) | 2:39 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 48 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |
 | 49 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
 | 50 | [Dubbrat](https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q) | [Vavamuffin](https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD) | [Fly High\-Fi!](https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF) | 3:50 |
-| 51 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
-| 52 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
+| 51 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
+| 52 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
 | 53 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
 | 54 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
 | 55 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 75 | [Tisra for Zawinul \(feat\. Bodek Janke\)](https://open.spotify.com/track/7MNT9fWxScxpQInHFaasdr) | [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A), [Bodek Janke](https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE) | [No Return No Karma](https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB) | 5:02 |
 | 76 | [Dawno I Nieprawda](https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY) | [Karolina Błachnia](https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX) | [Wschód](https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92) | 7:50 |
 | 77 | [number 4](https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato) | [Aga Derlak](https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l) | [neurodivergent](https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu) | 3:09 |
-| 78 | [Etiuda f\-moll z Trois Nouvelles Études nr 1 Dbop\. 36A](https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK) | [LIS](https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Fryderyk LIS](https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71) | 4:11 |
-| 79 | [Give It a Rest](https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ) | [Alan Balcerowski Quintet](https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug) | [Looking Ahead](https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9) | 7:06 |
+| 78 | [Give It a Rest](https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ) | [Alan Balcerowski Quintet](https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug) | [Looking Ahead](https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9) | 7:06 |
+| 79 | [Etiuda f\-moll z Trois Nouvelles Études nr 1 Dbop\. 36A](https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK) | [LIS](https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Fryderyk LIS](https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71) | 4:11 |
 
 Snapshot ID: `AAAAAMYLpF3ie/vYOlgXSjeLgS13z5b1`

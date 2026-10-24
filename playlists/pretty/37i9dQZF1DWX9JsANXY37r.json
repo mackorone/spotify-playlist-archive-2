@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123599,
+  "num_followers": 123594,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 196388,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "I Wish you Roses",
         "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 196388,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "Feel Your Weight",
-      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "Feel Your Weight",
+      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Sweet Time",
         "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 159400,
       "name": "i want war (BUT I NEED PEACE)",
       "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Catch n' Release",
-        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Red Wine Holiday",
-      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Couleurs Primaires",
         "url": "https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 314635,
       "name": "Sur Une Chanson En Fran\u00e7ais",
       "url": "https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

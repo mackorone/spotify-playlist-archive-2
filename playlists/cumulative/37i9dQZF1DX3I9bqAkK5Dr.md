@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Manisha Eerabathini
 
-601 songs - 1 day 11 hr 41 min
+602 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Telugu Flow](https://open.spotify.com/track/3Q4Rn6L8GRbbR43DHcFwN7) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Telugu Flow](https://open.spotify.com/album/70gsV2nrvydHTwVRGUbUsA) | 3:13 | 2023-05-29 | 2023-07-11 |
 | [Telupana Cheli](https://open.spotify.com/track/7Mwdxcy1LsYtghUphU2yzI) | [Shashank Bhaskaruni](https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Telupana Cheli](https://open.spotify.com/album/3w59ATwnl8qqnfq52SgmSJ) | 2:44 | 2026-03-19 |  |
 | [telusa](https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ) | [ananya](https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc) | [telusa](https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp) | 2:50 | 2026-07-31 |  |
+| [telusa \- acoustic version](https://open.spotify.com/track/2zw75iU7NoFwSbeGWUcMm5) | [ananya](https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc), [RKmadeIT](https://open.spotify.com/artist/4K88AH4eczEQ0kUbkgmqIh) | [telusa \(acoustic version\)](https://open.spotify.com/album/1pPS9LuIbMar5cKYXkoUin) | 2:58 | 2026-10-22 |  |
 | [Telusa Nuvvevaro](https://open.spotify.com/track/4AiOWsLqXlYgs70dYugZBf) | [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Telusa Nuvvevaro](https://open.spotify.com/album/5RBhYJpO14jspepP1yMAfh) | 3:04 | 2024-03-05 | 2025-01-16 |
 | [Thaanu](https://open.spotify.com/track/2wOflzlWeTjOtzq5xWce1E) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u) | [Thaanu](https://open.spotify.com/album/5l0c9ZBV6Y3NQza3E7m3jL) | 3:12 | 2024-05-25 | 2025-09-16 |
 | [Thamara Poovai](https://open.spotify.com/track/5bvJPJZGprkIDqLSXmRdSf) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Thamara Poovai](https://open.spotify.com/album/16utbSdG0wcQcTaGvHk7c5) | 5:30 | 2023-06-16 | 2023-07-04 |

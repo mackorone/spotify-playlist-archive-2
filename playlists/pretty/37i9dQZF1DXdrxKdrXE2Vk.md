@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,518 likes - 74 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,503 likes - 74 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 8 | [Love Of My Life \- Live](https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Love Of My Life \(Live\)](https://open.spotify.com/album/0CeeiriXCYTPYiKzk1z2Bl) | 9:23 |
 | 9 | [In The Morning \- Live](https://open.spotify.com/track/2YYixsA9Q9NpBviTGW1MSL) | [House Worship](https://open.spotify.com/artist/55MNpzoGb8zFUdembHY4as), [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab) | [In The Morning \(Live\)](https://open.spotify.com/album/01MlVdbcwuMcgom3vJUSZD) | 7:47 |
 | 10 | [We Lift You Up \- Live](https://open.spotify.com/track/6m5G6wxD26gIaZo4ZM1aiO) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo) | [We Lift You Up \(Live\)](https://open.spotify.com/album/5liVTFUIqjuVKqmi9tqptX) | 8:16 |
-| 11 | [Let Me Say \- Live](https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [Promised Land \(Deluxe\) \[Live\]](https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x) | 5:20 |
+| 11 | [Let Me Say](https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [Promised Land \(Deluxe\) \[Live\]](https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x) | 5:20 |
 | 12 | [Let God Arise \- Live](https://open.spotify.com/track/0Lpl2mO3A1Q8kuIc3zxOQE) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm) | [Let God Arise \(Live\)](https://open.spotify.com/album/3ye0Ef75LtQ2iQ0EhyhVX7) | 5:00 |
 | 13 | [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 |
 | 14 | [No Other \(He Shall Reign\) \- Live](https://open.spotify.com/track/1ped3DPoyHYks0swqaaGae) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs) | [No Other \(He Shall Reign\) \[Live\]](https://open.spotify.com/album/6eaBfkQQUiHPPQQfx0HcVG) | 5:09 |

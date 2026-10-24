@@ -1,13 +1,33 @@
 {
-  "description": "Introducing RADAR Philippines Cast of 2026. Cover: rhodessa",
-  "num_followers": 135835,
+  "description": "Introducing RADAR Philippines Cast of 2026. Cover: NEW LORE",
+  "num_followers": 135837,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgPicg77Fw2An0EqU7kHRrAwVS7",
+  "snapshot_id": "AAAAADGLBOBreqp1uClPyyi52L5PSA3C",
   "tracks": [
+    {
+      "added_at": "2026-10-23 03:55:34",
+      "album": {
+        "name": "Awkward (feat. Clara Benin)",
+        "url": "https://open.spotify.com/album/6vymv9J9yfsmWf01ifmVUa"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Awkward (feat. Clara Benin)",
+      "url": "https://open.spotify.com/track/7INbWiQ3aKYACHdVbu0yzv"
+    },
     {
       "added_at": "2026-10-16 02:09:45",
       "album": {

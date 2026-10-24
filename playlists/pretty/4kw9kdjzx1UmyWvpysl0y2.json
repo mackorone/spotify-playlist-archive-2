@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122386,
+  "num_followers": 122376,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV26TBETYHUdVT08orgapoyOpf9anz",
+  "snapshot_id": "AAAV3NIpLUa4SAiJ3ijUM4Qj8AxWl5wd",
   "tracks": [
+    {
+      "added_at": "2026-10-23 14:27:40",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/4ndVC5wCSQ92I67YLGU5CC"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Shayan",
+          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
+        }
+      ],
+      "duration_ms": 143142,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/1dPcEm6TROs3PEJxOUXnzX"
+    },
     {
       "added_at": "2026-10-22 15:05:38",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 600492,
+  "num_followers": 600460,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
         }
       ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+      "duration_ms": 269083,
+      "name": "Letter to Madeline",
+      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Between the Country",
-        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
       "artists": [
         {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 269083,
-      "name": "Letter to Madeline",
-      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Recordings of the Middle East",
         "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Stars and Satellites",
-        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268280,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 240147,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Stars and Satellites",
+        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 268280,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "You Are Not Alone",
         "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "The Phosphorescent Blues",
-        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "Julep",
-      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
+        "name": "The Phosphorescent Blues",
+        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
       },
       "artists": [
         {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 192666,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
+      "duration_ms": 326493,
+      "name": "Julep",
+      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -927,6 +911,22 @@
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Extralife",
         "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 149426,
       "name": "Devil's Backbone",
       "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "Heaven Sent",
-      "url": "https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 239080,
       "name": "No One's Gonna Love You - Live from Spotify Sweden",
       "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/0FbKvqTBo2TsSzhT5ohFI2"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "Tried to Tell You",
-      "url": "https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Tried to Tell You",
+      "url": "https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u"
     },
     {
       "added_at": "2024-08-28 14:08:37",

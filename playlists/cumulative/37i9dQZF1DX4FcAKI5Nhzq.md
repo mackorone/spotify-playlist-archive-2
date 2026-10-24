@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: A2O MAY\)
 
-1,820 songs - 4 day 1 hr 0 min
+1,821 songs - 4 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 | 2025-07-03 | 2025-08-13 |
 | [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 | 2026-01-28 | 2026-03-30 |
 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 | 2024-11-25 | 2025-03-13 |
+| [DESERVE](https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/5N8EIJo0rBiTiDgGH49Cri) | 3:09 | 2026-10-21 |  |
 | [Designer](https://open.spotify.com/track/4j6eC1fspkLNV3Owy24oYA) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [Subconscious](https://open.spotify.com/album/2OMMDFODzniFpAc1uD9IRZ) | 3:02 | 2023-06-14 | 2023-08-12 |
 | [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 | 2026-04-05 | 2026-05-09 |
 | [DESSERT](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [DESSERT](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) | 3:20 | 2020-10-13\* | 2020-10-22 |

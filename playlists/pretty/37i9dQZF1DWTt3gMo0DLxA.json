@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Basinga Basinga Balaaleee!",
-  "num_followers": 686862,
+  "num_followers": 687458,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGWr2uxIxal/c5Zbyb+E0Ky+kOrl",
+  "snapshot_id": "AAAAACPTr+E6Zc6RSFHjqKAKbfgI6QuZ",
   "tracks": [
     {
       "added_at": "2026-09-22 11:32:42",
@@ -31,26 +31,6 @@
       "duration_ms": 249836,
       "name": "Basinga Balaalu",
       "url": "https://open.spotify.com/track/5aAm4h5bLg4hV5wQAi5MGx"
-    },
-    {
-      "added_at": "2026-10-16 06:25:10",
-      "album": {
-        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3u1nPpilT7rd8F3o1UwFBR"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Srinivasa Mouli",
-          "url": "https://open.spotify.com/artist/64I3SF2YQOyooctWNMd8bH"
-        }
-      ],
-      "duration_ms": 240012,
-      "name": "Ala Bolelo",
-      "url": "https://open.spotify.com/track/3mrQ2rs6gJH55skAHSaTAk"
     },
     {
       "added_at": "2026-08-31 05:29:54",
@@ -107,6 +87,26 @@
       "duration_ms": 328023,
       "name": "Endhayya Saami (From \"Ranabaali\")",
       "url": "https://open.spotify.com/track/0HG0q1rtcVe1kXlreHz9Kf"
+    },
+    {
+      "added_at": "2026-10-23 05:56:38",
+      "album": {
+        "name": "Chatrapathi",
+        "url": "https://open.spotify.com/album/6HRd6z5l3t6rd48WLN4Wiv"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Sunitha",
+          "url": "https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "Gundu Sudhi",
+      "url": "https://open.spotify.com/track/1O830N4qSvTEjDqDyvAuWQ"
     },
     {
       "added_at": "2026-10-21 15:09:33",
@@ -265,6 +265,26 @@
       "url": "https://open.spotify.com/track/6KroI9N5liA2gBaWK7n3Gq"
     },
     {
+      "added_at": "2026-10-23 05:56:38",
+      "album": {
+        "name": "Chatrapathi",
+        "url": "https://open.spotify.com/album/6HRd6z5l3t6rd48WLN4Wiv"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Mathangi",
+          "url": "https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t"
+        }
+      ],
+      "duration_ms": 283490,
+      "name": "A Vachi B Pai",
+      "url": "https://open.spotify.com/track/4HJYuPeFQscnDtT4tFFhEC"
+    },
+    {
       "added_at": "2026-09-22 11:32:42",
       "album": {
         "name": "Singari [From \"Dude (Telugu)\"]",
@@ -337,10 +357,10 @@
       "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
     },
     {
-      "added_at": "2026-09-29 10:10:35",
+      "added_at": "2026-02-25 10:32:25",
       "album": {
-        "name": "The Paradise (Telugu)",
-        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
+        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
       },
       "artists": [
         {
@@ -348,13 +368,41 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Arjun Chandy",
+          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
+        },
+        {
           "name": "Kasarla Shyam",
           "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
-      "duration_ms": 103668,
-      "name": "Sammakka",
-      "url": "https://open.spotify.com/track/0pK4CzGihaILc3kzVfqChx"
+      "duration_ms": 286917,
+      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
+    },
+    {
+      "added_at": "2026-10-23 05:56:38",
+      "album": {
+        "name": "Chatrapathi",
+        "url": "https://open.spotify.com/album/6HRd6z5l3t6rd48WLN4Wiv"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Mathangi",
+          "url": "https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Agni Skalana",
+      "url": "https://open.spotify.com/track/4nANZnr8LzaPvRgqyqY0nP"
     },
     {
       "added_at": "2026-08-05 10:40:35",
@@ -401,34 +449,6 @@
       "url": "https://open.spotify.com/track/68cR7xQ7LKVms9EGKjDVTP"
     },
     {
-      "added_at": "2026-02-25 10:32:25",
-      "album": {
-        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Jangi Reddy",
-          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
-        },
-        {
-          "name": "Arjun Chandy",
-          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 286917,
-      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
-    },
-    {
       "added_at": "2026-10-16 06:25:10",
       "album": {
         "name": "Taxiwaala",
@@ -447,34 +467,6 @@
       "duration_ms": 296220,
       "name": "Maate Vinadhuga",
       "url": "https://open.spotify.com/track/2fPppuLH5Ib1x0F2BXJ19f"
-    },
-    {
-      "added_at": "2026-09-02 03:52:40",
-      "album": {
-        "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
-        "url": "https://open.spotify.com/album/1m13JuOLltPCwqh23FPKn9"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Arun Kaundinya",
-          "url": "https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4"
-        }
-      ],
-      "duration_ms": 210197,
-      "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
-      "url": "https://open.spotify.com/track/1RcJDhlZCRP48IyoRyvbys"
     },
     {
       "added_at": "2026-09-22 11:32:42",
@@ -515,6 +507,26 @@
       "duration_ms": 228048,
       "name": "Hellallallo (From \"Peddi\") [TELUGU]",
       "url": "https://open.spotify.com/track/7yfBat6kf9vOPNSWbYyeHp"
+    },
+    {
+      "added_at": "2026-09-29 10:10:35",
+      "album": {
+        "name": "The Paradise (Telugu)",
+        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 103668,
+      "name": "Sammakka",
+      "url": "https://open.spotify.com/track/0pK4CzGihaILc3kzVfqChx"
     },
     {
       "added_at": "2026-09-22 11:32:42",
@@ -1139,34 +1151,6 @@
       "duration_ms": 243333,
       "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
       "url": "https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy"
-    },
-    {
-      "added_at": "2026-08-05 10:40:35",
-      "album": {
-        "name": "GlobeTrotter (From \"Varanasi\")",
-        "url": "https://open.spotify.com/album/3F9p3s24oL5KZjzc1qfRwp"
-      },
-      "artists": [
-        {
-          "name": "M. M. Keeravaani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
-        },
-        {
-          "name": "Shruti Haasan",
-          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Chaitanya Prasad",
-          "url": "https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf"
-        }
-      ],
-      "duration_ms": 215178,
-      "name": "GlobeTrotter (From \"Varanasi\")",
-      "url": "https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV"
     },
     {
       "added_at": "2026-04-22 09:15:28",

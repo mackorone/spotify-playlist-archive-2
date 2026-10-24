@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-283 songs - 15 hr 41 min
+284 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,10 +206,11 @@
 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 | 2023-10-13 | 2024-01-20 |
 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-12 | 2024-05-11 |
 | [One Night \- Stripped Version](https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night \(Stripped Version\)](https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn) | 2:34 | 2022-01-28 | 2025-09-13 |
-| [Opalite \- Life Is A Song Acoustic Version](https://open.spotify.com/track/2ZbU5CJSi02RLNsldux0QQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Opalite](https://open.spotify.com/album/3evV0p6SkiOZFt1rtWRco9) | 4:02 | 2026-02-09 |  |
+| [Opalite \- Life Is A Song Acoustic Version](https://open.spotify.com/track/2ZbU5CJSi02RLNsldux0QQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Opalite](https://open.spotify.com/album/3evV0p6SkiOZFt1rtWRco9) | 4:02 | 2026-02-09 | 2026-10-24 |
 | [Paradise \- Acoustic](https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/23yHB7E61DTKC1cWORnuhS) | 3:05 | 2022-01-28 | 2022-07-29 |
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6GlMK7hhbyC0mlC3x5r3IY) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(The Acoustics\)](https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK) | 3:05 | 2022-10-14 | 2022-11-13 |
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(Guitar Acoustic\)](https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47) | 3:05 | 2022-07-15 | 2023-05-20 |
+| [Patient Zero \- Acoustic Version](https://open.spotify.com/track/2a5MkKmuigi8mqJNzGpRQv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/3rU7c934ngxDXPfjgXyzyu) | 3:55 | 2026-10-23 |  |
 | [Perfect](https://open.spotify.com/track/4pjBBVpRwXVHkp5yFlUyWU) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:06 | 2023-06-09 | 2024-02-10 |
 | [Pink Balloon \- Acoustic](https://open.spotify.com/track/0qD9PXLzAH18ozfNbMteFe) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Pink Balloon \(Acoustic\)](https://open.spotify.com/album/3OZJKFtUWnWK0tyRUUE49O) | 3:42 | 2024-12-09 |  |
 | [Please Please Please \- Acoustic](https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1) | 3:01 | 2024-06-21 |  |

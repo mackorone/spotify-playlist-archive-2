@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,408 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,413 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 35 | [El Sobrino](https://open.spotify.com/track/3I6BLpbHPGMp4bHr39Kezz) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:52 |
 | 36 | [48th Piso](https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [48th Piso](https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj) | 2:02 |
 | 37 | [Calorcito En California](https://open.spotify.com/track/1ScDrnhZg0oEgWWMdiq8so) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Desde Almanza Friesians Ranch, Vol\. 2](https://open.spotify.com/album/6ZRu67zVL7LPmNxQeKziTb) | 2:42 |
-| 38 | [El Buenazo](https://open.spotify.com/track/1dmMTB71FFbS6HHHG6M28F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Desde Almanza Friesians Ranch, Vol\. 1](https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf) | 2:49 |
+| 38 | [El De La Codeina](https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Desde Almanza Friesians Ranch, Vol\. 1](https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf) | 2:53 |
 | 39 | [Los 3 Del NM](https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 1:50 |
 | 40 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 |
 | 41 | [Soy Rencoroso](https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:15 |
-| 42 | [El De La Codeina](https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Desde Almanza Friesians Ranch, Vol\. 1](https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf) | 2:53 |
+| 42 | [El Buenazo](https://open.spotify.com/track/1dmMTB71FFbS6HHHG6M28F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Desde Almanza Friesians Ranch, Vol\. 1](https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf) | 2:49 |
 | 43 | [El Cimarron](https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:36 |
 | 44 | [Cuando Me Faltaban](https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:56 |
 | 45 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 |
 | 50 | [Contrato Con La Muerte](https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jimmy Humilde Presenta Lo Mejor De Los 90's](https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH) | 3:19 |
 
-Snapshot ID: `atavAAAAAABtYXn+VccaiVFws8YBMP8N`
+Snapshot ID: `atgAgAAAAAA2fYLoA5COc3qFTryfH/8i`

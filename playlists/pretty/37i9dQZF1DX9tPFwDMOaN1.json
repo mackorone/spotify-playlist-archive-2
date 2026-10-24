@@ -1,12 +1,12 @@
 {
   "description": "The new & hottest K-Pop is here! (Cover: LISA)",
-  "num_followers": 6127603,
+  "num_followers": 6128453,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIWTxqeCfWeJuftBl6ppAYfxqYaR",
+  "snapshot_id": "AAAAAAZRn/v4uO8lOHNrCcXsSyg80XVL",
   "tracks": [
     {
       "added_at": "2026-10-22 15:44:50",
@@ -23,6 +23,22 @@
       "duration_ms": 171104,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
+    },
+    {
+      "added_at": "2026-10-23 07:44:16",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 181790,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
     },
     {
       "added_at": "2026-10-19 09:27:36",
@@ -75,6 +91,22 @@
       "duration_ms": 208000,
       "name": "NEON",
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
+    },
+    {
+      "added_at": "2026-10-23 07:44:16",
+      "album": {
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
     },
     {
       "added_at": "2026-10-22 15:44:50",
@@ -807,38 +839,6 @@
       "duration_ms": 175000,
       "name": "FLOAT",
       "url": "https://open.spotify.com/track/6VohXisU3ybT3INqyKCJXD"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "Pretty Girl - Special Single",
-        "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "OriginaLyn",
-        "url": "https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60"
-      },
-      "artists": [
-        {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "ChecK",
-      "url": "https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

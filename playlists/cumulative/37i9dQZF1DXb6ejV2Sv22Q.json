@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "#HOT #FUN #$EX",
+        "url": "https://open.spotify.com/album/4UuZZswg7oPmh2raab64ch"
+      },
+      "artists": [
+        {
+          "name": "Guerrero",
+          "url": "https://open.spotify.com/artist/4Npz1xEXGFWSPxmjmobask"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99629,
+      "name": "#HOT #FUN #$EX",
+      "url": "https://open.spotify.com/track/1WlSGFDmoJGFn0BLiSBBd0"
+    },
+    {
+      "album": {
         "name": "#TULTEPEK",
         "url": "https://open.spotify.com/album/5ihrpu57F6zJyLUDsl42Zj"
       },
@@ -2784,7 +2806,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 120000,
       "name": "daddy issues",
       "url": "https://open.spotify.com/track/6yWsuWu4Cz96nYg7QVfyEs"
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160000,
       "name": "DIAS LLUVIOSOS",
       "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
@@ -6196,6 +6218,24 @@
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
+    },
+    {
+      "album": {
+        "name": "La penitencia",
+        "url": "https://open.spotify.com/album/6aSqWRs2Zao4CisPdEl48y"
+      },
+      "artists": [
+        {
+          "name": "Un Le\u00f3n Marinero",
+          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "La penitencia",
+      "url": "https://open.spotify.com/track/5NZy3Fc6scVoSVGEiqILTd"
     },
     {
       "album": {

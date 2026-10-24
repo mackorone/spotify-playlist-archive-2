@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 165006,
       "name": "Bartender In Destin - Acoustic",
       "url": "https://open.spotify.com/track/6fkFDbK4gYsvlFYAiqmubN"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 177500,
       "name": "bloodstream (Official Music Video)",
       "url": "https://open.spotify.com/track/3bssyIRidCzKTV6yvZymSo"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 278378,
       "name": "De Lejitos - Remix",
       "url": "https://open.spotify.com/track/0Yfh01HYCPRmp6k4iJWKvO"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 250144,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6HcL9Jd6mcH8F9ebUl28J5"
@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 185365,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb"
@@ -4076,6 +4076,24 @@
       "duration_ms": 236416,
       "name": "Secretos",
       "url": "https://open.spotify.com/track/1cz3VyxNWzbinqATaNuv5N"
+    },
+    {
+      "album": {
+        "name": "SEKSMISJA",
+        "url": "https://open.spotify.com/album/5zEA7eyUClBacCod3f6YyA"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150016,
+      "name": "SEKSMISJA",
+      "url": "https://open.spotify.com/track/3GCKHRvmRWZmBTRL555N10"
     },
     {
       "album": {

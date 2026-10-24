@@ -1,6 +1,6 @@
 {
   "description": "Family friendly country songs to listen to together.",
-  "num_followers": 101709,
+  "num_followers": 101743,
   "original_name": "Family Country",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Traveller",
-      "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Crash My Party",
         "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 226866,
       "name": "Play It Again",
       "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Traveller",
+      "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Jo Dee Messina",
-        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Heads Carolina, Tails California",
-      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Jo Dee Messina",
+        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Heads Carolina, Tails California",
+      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "I Like The Sound Of That",
+      "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 188270,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "I Like The Sound Of That",
-      "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
@@ -751,18 +767,34 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 219053,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -799,38 +831,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Kane Brown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Suds in the Bucket",
-      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Suds in the Bucket",
+      "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "5-1-5-0",
-      "url": "https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 193929,
       "name": "Slow Dance In A Parking Lot",
       "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "5-1-5-0",
+      "url": "https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "The Incredible Machine",
-        "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
-      },
-      "artists": [
-        {
-          "name": "Sugarland",
-          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "Stuck Like Glue",
-      "url": "https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Rockin' With The Rhythm",
         "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 254640,
       "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
       "url": "https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "The Incredible Machine",
+        "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
+      },
+      "artists": [
+        {
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "Stuck Like Glue",
+      "url": "https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi"
     },
     {
       "added_at": "2026-10-01 16:28:02",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-10-01 16:28:02",
       "album": {
-        "name": "Charleston, SC 1966",
-        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Come Back Song",
-      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
-    },
-    {
-      "added_at": "2026-10-01 16:28:02",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2026-10-01 16:28:02",
+      "album": {
+        "name": "Charleston, SC 1966",
+        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Come Back Song",
+      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
     },
     {
       "added_at": "2026-10-01 16:28:02",

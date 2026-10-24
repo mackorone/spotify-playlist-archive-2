@@ -1,13 +1,125 @@
 {
-  "description": "Rising voices, enduring roots. Cover: Margo Cilker",
-  "num_followers": 56751,
+  "description": "Rising voices, enduring roots. Cover: Caroline Marie Brooks",
+  "num_followers": 56765,
   "original_name": "Emerging Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAswGyfNTZn8gDAjF3wrIlNxfCdr",
+  "snapshot_id": "AAAAAEoozEsFSRzWFWh5N8uTjl9qUmxV",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:01:12",
+      "album": {
+        "name": "Light and Matter",
+        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
+      },
+      "artists": [
+        {
+          "name": "Caroline Marie Brooks",
+          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
+        }
+      ],
+      "duration_ms": 198588,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/51ViDB6bUbnRJplPyLGowf"
+    },
+    {
+      "added_at": "2026-10-23 04:01:12",
+      "album": {
+        "name": "Mr. Moon",
+        "url": "https://open.spotify.com/album/6GgRgw2GBneXO2vEpQwQ0H"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "duration_ms": 242756,
+      "name": "Mr. Moon",
+      "url": "https://open.spotify.com/track/6K6IpSfrfgGkPZIbwEd8OO"
+    },
+    {
+      "added_at": "2026-10-16 04:00:12",
+      "album": {
+        "name": "Change My Mind",
+        "url": "https://open.spotify.com/album/4XVoCNuUXcLYBEBjTNCgpb"
+      },
+      "artists": [
+        {
+          "name": "Saige Davis",
+          "url": "https://open.spotify.com/artist/3acAq5TmjJOyw2o1B6zKiS"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/0G2tkpjCndTAVxF0Iiv6p7"
+    },
+    {
+      "added_at": "2026-10-23 04:01:12",
+      "album": {
+        "name": "Grandpa Clocks and Gravestones",
+        "url": "https://open.spotify.com/album/0ZdEteNZ9TcnJhh9uGnOhD"
+      },
+      "artists": [
+        {
+          "name": "Dasher The Band",
+          "url": "https://open.spotify.com/artist/5IEGhfMgzofovjCJq9jalr"
+        }
+      ],
+      "duration_ms": 248498,
+      "name": "Grandpa Clocks and Gravestones",
+      "url": "https://open.spotify.com/track/53Cq9EfHYLT8JjZuiqm7p2"
+    },
+    {
+      "added_at": "2026-10-16 04:00:12",
+      "album": {
+        "name": "Take One Too",
+        "url": "https://open.spotify.com/album/1gpL83N5OwyhO7KHwv66IQ"
+      },
+      "artists": [
+        {
+          "name": "Talise",
+          "url": "https://open.spotify.com/artist/2y5FoD2JGJB0CDtlVVfHPO"
+        }
+      ],
+      "duration_ms": 250076,
+      "name": "Take One Too",
+      "url": "https://open.spotify.com/track/32gmTjLxRY9Mg8LgoSFjq0"
+    },
+    {
+      "added_at": "2026-10-23 13:26:13",
+      "album": {
+        "name": "Dead Little Thing",
+        "url": "https://open.spotify.com/album/5vNl2pNQBKNbRlaalpT67D"
+      },
+      "artists": [
+        {
+          "name": "Redd & The Paper Flowers",
+          "url": "https://open.spotify.com/artist/2bnXixwpVfopSYPLkujWO3"
+        }
+      ],
+      "duration_ms": 199083,
+      "name": "Dead Little Cabin",
+      "url": "https://open.spotify.com/track/4vq2dSsz1zM2OQjtWvlWBu"
+    },
+    {
+      "added_at": "2026-10-16 04:00:12",
+      "album": {
+        "name": "Zeitgeist",
+        "url": "https://open.spotify.com/album/69uoex1maETxweGIyrjn0X"
+      },
+      "artists": [
+        {
+          "name": "Kindred Valley",
+          "url": "https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy"
+        }
+      ],
+      "duration_ms": 142870,
+      "name": "Zeitgeist",
+      "url": "https://open.spotify.com/track/4mcMXsDtRB4ORmIXtuSu0b"
+    },
     {
       "added_at": "2026-10-16 04:00:12",
       "album": {
@@ -27,50 +139,18 @@
     {
       "added_at": "2026-10-16 04:00:12",
       "album": {
-        "name": "Suzie's Beach",
-        "url": "https://open.spotify.com/album/0CDLPygNLJNof1lvkXHmwK"
+        "name": "Here Lies Love/Sawdust To Stardust",
+        "url": "https://open.spotify.com/album/6Xx6wzmVTtdHxtzRNWn909"
       },
       "artists": [
         {
-          "name": "Braden Lam",
-          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
         }
       ],
-      "duration_ms": 220933,
-      "name": "Suzie's Beach",
-      "url": "https://open.spotify.com/track/1Z7rGkGfCIuPM2RWeF5pdo"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
-        "name": "Change My Mind",
-        "url": "https://open.spotify.com/album/4XVoCNuUXcLYBEBjTNCgpb"
-      },
-      "artists": [
-        {
-          "name": "Saige Davis",
-          "url": "https://open.spotify.com/artist/3acAq5TmjJOyw2o1B6zKiS"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "Change My Mind",
-      "url": "https://open.spotify.com/track/0G2tkpjCndTAVxF0Iiv6p7"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
-        "name": "Zeitgeist",
-        "url": "https://open.spotify.com/album/69uoex1maETxweGIyrjn0X"
-      },
-      "artists": [
-        {
-          "name": "Kindred Valley",
-          "url": "https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy"
-        }
-      ],
-      "duration_ms": 142870,
-      "name": "Zeitgeist",
-      "url": "https://open.spotify.com/track/4mcMXsDtRB4ORmIXtuSu0b"
+      "duration_ms": 176720,
+      "name": "Nothing Like Shakespeare",
+      "url": "https://open.spotify.com/track/3k1ScqyvjNY0t9khBY3YaW"
     },
     {
       "added_at": "2026-10-16 04:00:12",
@@ -123,38 +203,6 @@
     {
       "added_at": "2026-10-16 04:00:12",
       "album": {
-        "name": "Here Lies Love/Sawdust To Stardust",
-        "url": "https://open.spotify.com/album/6Xx6wzmVTtdHxtzRNWn909"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Rothman",
-          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Nothing Like Shakespeare",
-      "url": "https://open.spotify.com/track/3k1ScqyvjNY0t9khBY3YaW"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
-        "name": "Take One Too",
-        "url": "https://open.spotify.com/album/1gpL83N5OwyhO7KHwv66IQ"
-      },
-      "artists": [
-        {
-          "name": "Talise",
-          "url": "https://open.spotify.com/artist/2y5FoD2JGJB0CDtlVVfHPO"
-        }
-      ],
-      "duration_ms": 250076,
-      "name": "Take One Too",
-      "url": "https://open.spotify.com/track/32gmTjLxRY9Mg8LgoSFjq0"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
         "name": "May a Love Like This Find Me",
         "url": "https://open.spotify.com/album/68Xesqjp1G4u40Qfj1AKyR"
       },
@@ -187,6 +235,22 @@
       "duration_ms": 158120,
       "name": "Gas Station",
       "url": "https://open.spotify.com/track/6FKh0JEZ5yY6A6lPxIEjPA"
+    },
+    {
+      "added_at": "2026-10-16 04:00:12",
+      "album": {
+        "name": "Suzie's Beach",
+        "url": "https://open.spotify.com/album/0CDLPygNLJNof1lvkXHmwK"
+      },
+      "artists": [
+        {
+          "name": "Braden Lam",
+          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Suzie's Beach",
+      "url": "https://open.spotify.com/track/1Z7rGkGfCIuPM2RWeF5pdo"
     },
     {
       "added_at": "2026-10-16 04:00:12",
@@ -511,22 +575,6 @@
       "duration_ms": 193600,
       "name": "Failing",
       "url": "https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
-        "name": "Coquihalla",
-        "url": "https://open.spotify.com/album/6sOvtJyWQ7J8fIC2XRcmM3"
-      },
-      "artists": [
-        {
-          "name": "Braden Lam",
-          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
-        }
-      ],
-      "duration_ms": 156669,
-      "name": "Coquihalla",
-      "url": "https://open.spotify.com/track/5EdwMMjdUXyIe6K8oCJzrw"
     },
     {
       "added_at": "2026-10-16 04:00:12",
@@ -1403,22 +1451,6 @@
     {
       "added_at": "2026-10-16 04:00:12",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 248148,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/6TOi3zlVKoBLOAT3mwbGkR"
       },
@@ -1531,6 +1563,22 @@
     {
       "added_at": "2026-10-16 04:00:12",
       "album": {
+        "name": "crescent reflections",
+        "url": "https://open.spotify.com/album/5am7S787OVEfqP6f5sQg1o"
+      },
+      "artists": [
+        {
+          "name": "wasp eater",
+          "url": "https://open.spotify.com/artist/2dlyTYSPl66F5Ke47zFtkJ"
+        }
+      ],
+      "duration_ms": 177453,
+      "name": "crescent reflections",
+      "url": "https://open.spotify.com/track/5tPwyKkM5ug2mOWROm35II"
+    },
+    {
+      "added_at": "2026-10-16 04:00:12",
+      "album": {
         "name": "E-350",
         "url": "https://open.spotify.com/album/0xfHOLl0LPD96FsxZLWzCl"
       },
@@ -1555,22 +1603,6 @@
     {
       "added_at": "2026-10-16 04:00:12",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/6Oq2uNmcgKdMSAdZSXG73j"
-      },
-      "artists": [
-        {
-          "name": "The Band Loula",
-          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4qKwdtvtfuqCU9Pgveh79C"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
         "name": "Who's Keeping Time?",
         "url": "https://open.spotify.com/album/6tbWKtxdJaSE3diFD8DBBl"
       },
@@ -1583,22 +1615,6 @@
       "duration_ms": 271293,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/3fMhQGzmpGXBs5HAKtSIs8"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
-        "name": "Out In The Country",
-        "url": "https://open.spotify.com/album/1GjWGVY0rVULFjqRLMx9aF"
-      },
-      "artists": [
-        {
-          "name": "Ben Chapman",
-          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
-        }
-      ],
-      "duration_ms": 170428,
-      "name": "Out In The Country",
-      "url": "https://open.spotify.com/track/4nbR39RIcs1eunYDNO5yC4"
     },
     {
       "added_at": "2026-10-16 04:00:12",
@@ -1635,38 +1651,6 @@
       "duration_ms": 149975,
       "name": "All Day",
       "url": "https://open.spotify.com/track/5yxfccv96ZD2O8Sdj7oJ8D"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
-        "name": "Love of the Song",
-        "url": "https://open.spotify.com/album/61URQ5acii7IEqzIusuDsS"
-      },
-      "artists": [
-        {
-          "name": "Jobi Riccio",
-          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
-        }
-      ],
-      "duration_ms": 201099,
-      "name": "Love of the Song",
-      "url": "https://open.spotify.com/track/0Tzk8dfVz0O5vdFzqUw8md"
-    },
-    {
-      "added_at": "2026-10-16 04:00:12",
-      "album": {
-        "name": "crescent reflections",
-        "url": "https://open.spotify.com/album/5am7S787OVEfqP6f5sQg1o"
-      },
-      "artists": [
-        {
-          "name": "wasp eater",
-          "url": "https://open.spotify.com/artist/2dlyTYSPl66F5Ke47zFtkJ"
-        }
-      ],
-      "duration_ms": 177453,
-      "name": "crescent reflections",
-      "url": "https://open.spotify.com/track/5tPwyKkM5ug2mOWROm35II"
     }
   ],
   "unique_name": "Emerging Americana",

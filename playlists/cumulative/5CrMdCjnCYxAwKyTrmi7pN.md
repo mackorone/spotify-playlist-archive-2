@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
 
-468 songs - 1 day 1 hr 51 min
+471 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2025-07-17 | 2025-08-06 |
 | [CANCELLED!](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:31 | 2025-10-03 | 2025-11-08 |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-09-22 | 2026-04-14 |
+| [Carry On](https://open.spotify.com/track/0mG4lEdqrxRj1B0KmpEffX) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Carry On](https://open.spotify.com/album/1mEoulfEor7JTmthXbQiQN) | 4:10 | 2026-10-23 |  |
 | [Chains of Love](https://open.spotify.com/track/77qLAmRzMPetmXywybpH15) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:50 | 2026-02-27 | 2026-03-25 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2026-01-23 | 2026-02-03 |
 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 | 2026-05-19 | 2026-06-13 |
@@ -248,6 +249,7 @@
 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-20 | 2026-07-28 |
 | [Midnight Echoes](https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx), [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Albert RCB](https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc) | [Midnight Echoes](https://open.spotify.com/album/3I6PSzNiPefKTnEnCaoH8c) | 2:36 | 2026-06-26 | 2026-07-11 |
 | [Minibar](https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 2:00 | 2026-08-05 |  |
+| [MISS ME](https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [MISS ME](https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb) | 3:13 | 2026-10-23 |  |
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-25 | 2026-02-13 |
 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 | 2026-06-26 | 2026-09-10 |
 | [Moonlight](https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Moonlight](https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy) | 2:18 | 2026-05-15 | 2026-06-12 |
@@ -419,6 +421,7 @@
 | [to love and to lose](https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [to love and to lose](https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3) | 3:01 | 2026-09-28 |  |
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-23 | 2026-03-25 |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2025-07-17 | 2025-09-23 |
+| [Tom and Jerry](https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Tom and Jerry](https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0) | 3:51 | 2026-10-23 |  |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-09-22 | 2026-03-25 |
 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 | 2025-11-21 | 2026-02-03 |
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-12 | 2026-09-10 |

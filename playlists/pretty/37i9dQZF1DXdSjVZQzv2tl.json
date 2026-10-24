@@ -1,13 +1,33 @@
 {
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
-  "num_followers": 8052569,
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus & Kauan, Simone Mendes",
+  "num_followers": 8052888,
   "original_name": "Esquenta Sertanejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMW3KF4ohrPZp6QEgodnyekX9D+B",
+  "snapshot_id": "AAAAAM368fDB+Yt/sNecSKZud42zPMr6",
   "tracks": [
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
+        "name": "Meu Sil\u00eancio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 179595,
+      "name": "Meu Sil\u00eancio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm"
+    },
     {
       "added_at": "2026-10-15 20:39:38",
       "album": {
@@ -419,26 +439,6 @@
       "duration_ms": 241247,
       "name": "Dia de Sorte / Eu N\u00e3o Sou de Ningu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/3zV5z415MPhWftZsBgN6uU"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
-        "name": "Meu Sil\u00eancio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 179595,
-      "name": "Meu Sil\u00eancio - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm"
     },
     {
       "added_at": "2026-10-09 19:36:43",

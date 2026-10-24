@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Wuicho Kun",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -6089,6 +6089,28 @@
     },
     {
       "album": {
+        "name": "No Hay \u00c1ngeles Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Victoria Mendivil",
+          "url": "https://open.spotify.com/artist/6wI14hOYxGAK6xYr5ok5D3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223914,
+      "name": "Cansada",
+      "url": "https://open.spotify.com/track/1SD7wVmPtpXuBIRxtvn34V"
+    },
+    {
+      "album": {
         "name": "cansada de verte en todas partes",
         "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
       },
@@ -7902,6 +7924,24 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Vac\u00edo",
+        "url": "https://open.spotify.com/album/5Rhbn86H35AnVyxdsoyYP0"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Coraz\u00f3n Vac\u00edo",
+      "url": "https://open.spotify.com/track/5Mqdw5Vr0pxbK4zS2zb1is"
     },
     {
       "album": {
@@ -11458,7 +11498,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 183031,
       "name": "El Dreamer",
       "url": "https://open.spotify.com/track/4R3XsaL4ruqGpz5wysE15Y"
@@ -11946,6 +11986,24 @@
       "duration_ms": 266066,
       "name": "El M\u00e9ndigo D\u00eda Del Padre",
       "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
+    },
+    {
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/08vSgyoH5tOsVHolqqcOmx"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172590,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/4cWw0TPimL3a3OATw639lg"
     },
     {
       "album": {
@@ -12604,7 +12662,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 221183,
       "name": "En Dos Ruedas",
       "url": "https://open.spotify.com/track/0CeKuW9rKnST6pdl5ZbmIl"
@@ -13480,7 +13538,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
@@ -17738,6 +17796,24 @@
       "duration_ms": 177538,
       "name": "La Matraca (Remix)",
       "url": "https://open.spotify.com/track/1umDTlmpNfOjoG0EpS267S"
+    },
+    {
+      "album": {
+        "name": "Las P*tas Aman Tambi\u00e9n",
+        "url": "https://open.spotify.com/album/5tq4nrlsKnZDElBhR9ffKt"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148791,
+      "name": "La Medicina",
+      "url": "https://open.spotify.com/track/7gyOFthLUrYJAZiaDrZYuI"
     },
     {
       "album": {
@@ -22496,7 +22572,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 207104,
       "name": "Mil Problemas",
       "url": "https://open.spotify.com/track/0Wm2AsGxzuVmpRwePxKIfx"
@@ -23965,6 +24041,24 @@
     },
     {
       "album": {
+        "name": "Nadie Te Extra\u00f1a",
+        "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151607,
+      "name": "Nadie Te Extra\u00f1a",
+      "url": "https://open.spotify.com/track/1hoJ9H798o6HaJ9pDTov5r"
+    },
+    {
+      "album": {
         "name": "Naranjita s\u00ed carnal",
         "url": "https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1"
       },
@@ -25168,7 +25262,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189333,
       "name": "No Quiero Ser",
       "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
@@ -25652,7 +25746,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 183529,
       "name": "Nostalgia .0018 Efimero",
       "url": "https://open.spotify.com/track/5RiOuk4Q9VG4Ihn491JMQv"
@@ -27018,7 +27112,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 174545,
       "name": "PARAMICORAZON: - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
@@ -30272,6 +30366,24 @@
       "duration_ms": 176923,
       "name": "RE-CREO",
       "url": "https://open.spotify.com/track/3KdOtZsp0nK3fLa5eztJRl"
+    },
+    {
+      "album": {
+        "name": "Reacciona",
+        "url": "https://open.spotify.com/album/2oy3ZaZmtVCQvwir0XRF5F"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217873,
+      "name": "Reacciona",
+      "url": "https://open.spotify.com/track/4qNwVLXoOLFL8UiICKM2gq"
     },
     {
       "album": {
@@ -34892,7 +35004,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173778,
       "name": "Todo Baila (feat. M. Ward)",
       "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
@@ -38608,7 +38720,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169537,
       "name": "Ya No Me Duele Tanto",
       "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
@@ -39582,6 +39694,28 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/6ODtkG0boPTJTSVPbhV9Cd"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/6GcK0KjppUwOYYmSqygoug"
     },
     {
       "album": {

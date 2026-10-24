@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,898 songs - 4 day 8 hr 10 min
+1,899 songs - 4 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,7 +985,7 @@
 | [LOKERA](https://open.spotify.com/track/33cF8aTmGJ6TsEf23uqGIN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:17 | 2022-11-12 | 2023-02-01 |
 | [LOKITA](https://open.spotify.com/track/5Bn7ZZ5EEwUKKN8WV6HmXZ) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:34 | 2023-08-30 | 2023-09-03 |
 | [Lokita Por Mí](https://open.spotify.com/track/2aG4AXf3TUtlmk4s9BLYDi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 3:59 | 2026-01-15 | 2026-02-09 |
-| [LOLA](https://open.spotify.com/track/0aMgm42ExTYIlDMls1nm3C) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [SORDO DE UN PIE](https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir) | 3:05 | 2026-10-10 |  |
+| [LOLA](https://open.spotify.com/track/0aMgm42ExTYIlDMls1nm3C) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [SORDO DE UN PIE](https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir) | 3:05 | 2026-10-10 | 2026-10-24 |
 | [LOLA](https://open.spotify.com/track/5X4E1LIOihLM2HTfkBFZbb) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [LOLA](https://open.spotify.com/album/3yWihcSCGj6oN5vC6dVUMm) | 3:05 | 2026-09-05 | 2026-09-07 |
 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 | 2023-10-02 | 2024-01-18 |
 | [LOQUITA](https://open.spotify.com/track/0Jep4PtPjGk8IIrAP4W8Rz) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [LOQUITA](https://open.spotify.com/album/1K5TbHKzrXWTcn8aESR08d) | 2:30 | 2025-11-06 | 2025-11-16 |
@@ -1893,6 +1893,7 @@
 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 | 2024-07-13 | 2024-11-06 |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-28 |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 | 2024-04-27 |
+| [YOUR NUMBER \- Spanish Version](https://open.spotify.com/track/2wXfVALLxXJCilQPcSnT4M) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn) | [YOUR NUMBER](https://open.spotify.com/album/2hW6wl7ldOAxQCrucB9vIy) | 3:14 | 2026-10-23 |  |
 | [YSL](https://open.spotify.com/track/2f9KKPKgASUYZqo1JBJuFO) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v), [JOHNNYFUU](https://open.spotify.com/artist/4qvOXukEJTWZG6jjlUQFEu) | [YSL](https://open.spotify.com/album/23qlqZnWlSa7LF1wp1naCx) | 3:40 | 2026-01-15 | 2026-02-05 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-18 |
 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 | 2026-08-06 | 2026-10-11 |

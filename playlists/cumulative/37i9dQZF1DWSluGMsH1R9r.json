@@ -5371,6 +5371,24 @@
     },
     {
       "album": {
+        "name": "In Passing",
+        "url": "https://open.spotify.com/album/0qjys17O7yhsYvSEnu1FWF"
+      },
+      "artists": [
+        {
+          "name": "Wisteria Forte",
+          "url": "https://open.spotify.com/artist/4nmmbn9wBP9XK9QPjTZUvW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131069,
+      "name": "In Passing",
+      "url": "https://open.spotify.com/track/7LDM3Cc7OXWjeG9TgflyGn"
+    },
+    {
+      "album": {
         "name": "In Qualsiasi Momento",
         "url": "https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ"
       },
@@ -7801,6 +7819,24 @@
     },
     {
       "album": {
+        "name": "Moonlight Image (Reimagined)",
+        "url": "https://open.spotify.com/album/7DrsabqxuycaKjjEwBPRzV"
+      },
+      "artists": [
+        {
+          "name": "Marcel Gara",
+          "url": "https://open.spotify.com/artist/4HSuTVTF1uUhvrCdTDlHKM"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138058,
+      "name": "Moonlight Image (Reimagined)",
+      "url": "https://open.spotify.com/track/7Dk26pOdc4uWRdWnmn4gGF"
+    },
+    {
+      "album": {
         "name": "Morning Air",
         "url": "https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj"
       },
@@ -8701,6 +8737,24 @@
     },
     {
       "album": {
+        "name": "On the Way Home",
+        "url": "https://open.spotify.com/album/4XpOiBznGCj2cdLJVeKQoE"
+      },
+      "artists": [
+        {
+          "name": "Carl Kaleo",
+          "url": "https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133076,
+      "name": "On the Way Home",
+      "url": "https://open.spotify.com/track/0W9pZAgt10zEfXTdvmkas1"
+    },
+    {
+      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o"
       },
@@ -9040,6 +9094,24 @@
       "duration_ms": 132900,
       "name": "Over and over again",
       "url": "https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr"
+    },
+    {
+      "album": {
+        "name": "Over Quiet Water",
+        "url": "https://open.spotify.com/album/2uq2Cn4Bd5fmboZYmvaeYv"
+      },
+      "artists": [
+        {
+          "name": "B. Isidor",
+          "url": "https://open.spotify.com/artist/1TlpCopNm1IpA2d8mADVzy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160062,
+      "name": "Over Quiet Water",
+      "url": "https://open.spotify.com/track/3YiPKS1QLD6Tfnu267SjTv"
     },
     {
       "album": {

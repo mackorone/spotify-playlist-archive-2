@@ -1,36 +1,32 @@
 {
-  "description": "Chillout hip-hop vibes. Cover: Wale",
-  "num_followers": 1400239,
+  "description": "Chillout hip-hop vibes. Cover: Cordae & Anderson .Paak",
+  "num_followers": 1400238,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpOPAOyj33HfItgrsXahNObZMUv",
+  "snapshot_id": "AAAAAGHa52h8un9yu8wrpuiDwow92/ed",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:02:22",
+      "added_at": "2026-10-23 04:02:28",
       "album": {
-        "name": "Shroom Clouds (feat. reggie & Jeremih)",
-        "url": "https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813"
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         },
         {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 195210,
-      "name": "Shroom Clouds (feat. reggie & Jeremih)",
-      "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
       "added_at": "2026-10-16 04:02:22",
@@ -73,6 +69,38 @@
       "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
     },
     {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "I Got Problems",
+        "url": "https://open.spotify.com/album/3RbMZujN41bdqDrcb95BSl"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 153642,
+      "name": "I Got Problems",
+      "url": "https://open.spotify.com/track/2NVzVC8GL44y8m3UYHQzaV"
+    },
+    {
+      "added_at": "2026-10-16 04:02:22",
+      "album": {
+        "name": "My Forte",
+        "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "duration_ms": 151179,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
+    },
+    {
       "added_at": "2026-10-16 04:02:22",
       "album": {
         "name": "STRIKING",
@@ -97,36 +125,44 @@
       "url": "https://open.spotify.com/track/06jJ94bMXKhgOhTniBtSEv"
     },
     {
-      "added_at": "2026-10-16 04:02:22",
+      "added_at": "2026-10-23 04:02:28",
       "album": {
-        "name": "WHACK'S MUSEUM (DELUXE)",
-        "url": "https://open.spotify.com/album/5Ra59w1kmSmZi4PeFC25C3"
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
       },
       "artists": [
         {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 132356,
-      "name": "RECOGNITION",
-      "url": "https://open.spotify.com/track/4doyYDQB1r2TkaQbR0akD7"
+      "duration_ms": 202458,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/3aeTGgUKXmGyGeGoEBnGhG"
     },
     {
-      "added_at": "2026-10-16 04:02:22",
+      "added_at": "2026-10-23 04:02:28",
       "album": {
-        "name": "My Forte",
-        "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
+        "name": "SONATA",
+        "url": "https://open.spotify.com/album/2h2iQ3KaMO3XcUaYE9qktG"
       },
       "artists": [
         {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+          "name": "Kolo",
+          "url": "https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG"
+        },
+        {
+          "name": "6ix",
+          "url": "https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud"
         }
       ],
-      "duration_ms": 151179,
-      "name": "E.T.",
-      "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
+      "duration_ms": 144379,
+      "name": "Can't Imagine",
+      "url": "https://open.spotify.com/track/3wGwnb1G0Gfz7iixRFbL3i"
     },
     {
       "added_at": "2026-10-16 04:02:22",
@@ -169,6 +205,42 @@
       "url": "https://open.spotify.com/track/3JnWRfZr9hAx6togM06icV"
     },
     {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Cucuy",
+        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "duration_ms": 214196,
+      "name": "Apple Bottom",
+      "url": "https://open.spotify.com/track/58lCbrBPDHDuQzmhzFwsG4"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 159271,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2imgEKscNLv6OKGP1HUckh"
+    },
+    {
       "added_at": "2026-10-16 04:02:22",
       "album": {
         "name": "Champagne Wishes",
@@ -199,6 +271,46 @@
     {
       "added_at": "2026-10-16 04:02:22",
       "album": {
+        "name": "WHACK'S MUSEUM (DELUXE)",
+        "url": "https://open.spotify.com/album/5Ra59w1kmSmZi4PeFC25C3"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 132356,
+      "name": "RECOGNITION",
+      "url": "https://open.spotify.com/track/4doyYDQB1r2TkaQbR0akD7"
+    },
+    {
+      "added_at": "2026-10-16 04:02:22",
+      "album": {
+        "name": "Shroom Clouds (feat. reggie & Jeremih)",
+        "url": "https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Shroom Clouds (feat. reggie & Jeremih)",
+      "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
+    },
+    {
+      "added_at": "2026-10-16 04:02:22",
+      "album": {
         "name": "The Divine Feminine (10th Anniversary)",
         "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
       },
@@ -211,6 +323,22 @@
       "duration_ms": 264280,
       "name": "Channel 13",
       "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "nerissimo package",
+        "url": "https://open.spotify.com/album/6QFfaBbHljQhji9ukRVPi3"
+      },
+      "artists": [
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        }
+      ],
+      "duration_ms": 145525,
+      "name": "nerissimo package",
+      "url": "https://open.spotify.com/track/6BxvbgBsI2kjLxWVeis4DU"
     },
     {
       "added_at": "2026-10-16 04:02:22",
@@ -255,6 +383,22 @@
       "duration_ms": 228874,
       "name": "500 Horses",
       "url": "https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/0hcCuwdLOc9cfcHcYPqfij"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/4IKUU6v9QkLdAD6px5cAlf"
     },
     {
       "added_at": "2026-10-16 04:02:22",
@@ -419,22 +563,6 @@
     {
       "added_at": "2026-10-16 04:02:22",
       "album": {
-        "name": "New Life",
-        "url": "https://open.spotify.com/album/1CY4ywLOvU3m7b2rEEk34X"
-      },
-      "artists": [
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        }
-      ],
-      "duration_ms": 160501,
-      "name": "New Life",
-      "url": "https://open.spotify.com/track/5tFO2Q2PNRZafF76yrH9jc"
-    },
-    {
-      "added_at": "2026-10-16 04:02:22",
-      "album": {
         "name": "STRIKING",
         "url": "https://open.spotify.com/album/1qD7ujFQ06byTA6jObEPOx"
       },
@@ -447,26 +575,6 @@
       "duration_ms": 84669,
       "name": "Hopecore!",
       "url": "https://open.spotify.com/track/0tBXOmXKIUSBOTcrKbzJI3"
-    },
-    {
-      "added_at": "2026-10-16 04:02:22",
-      "album": {
-        "name": "Illmad",
-        "url": "https://open.spotify.com/album/03PHVxcQtxlVwuWFeSNk6O"
-      },
-      "artists": [
-        {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
-        },
-        {
-          "name": "Illmac",
-          "url": "https://open.spotify.com/artist/57cZEJjLppvEmppehjqwmI"
-        }
-      ],
-      "duration_ms": 220927,
-      "name": "FOGO",
-      "url": "https://open.spotify.com/track/3oQm2dZU1bVxkQJ6tHyMhL"
     },
     {
       "added_at": "2026-10-16 04:02:22",
@@ -787,30 +895,6 @@
     {
       "added_at": "2026-10-16 04:02:22",
       "album": {
-        "name": "KNOCK",
-        "url": "https://open.spotify.com/album/0L0sz7yXh4q0FWU5wEVvAk"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        },
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 225845,
-      "name": "KNOCK",
-      "url": "https://open.spotify.com/track/0idGJz40xztZf3amTmEKax"
-    },
-    {
-      "added_at": "2026-10-16 04:02:22",
-      "album": {
         "name": "GO:OD AM (10th Anniversary)",
         "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
       },
@@ -855,22 +939,6 @@
       "duration_ms": 139642,
       "name": "Golden Goose Freestyle",
       "url": "https://open.spotify.com/track/0FD3FZWKO5Koyav5Lr6OkJ"
-    },
-    {
-      "added_at": "2026-10-16 04:02:22",
-      "album": {
-        "name": "Still Loading",
-        "url": "https://open.spotify.com/album/1B9pi2O4L0WDAKY025aRq1"
-      },
-      "artists": [
-        {
-          "name": "Mez",
-          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
-        }
-      ],
-      "duration_ms": 246074,
-      "name": "Still Loading",
-      "url": "https://open.spotify.com/track/4Xq6PxoSZ29DryBtsA13c4"
     },
     {
       "added_at": "2026-10-16 04:02:22",

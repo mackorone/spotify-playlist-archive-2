@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Sienna Spiro
 
-1,109 songs - 2 day 13 hr 7 min
+1,111 songs - 2 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2021-12-17 | 2022-10-01 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-10-18 | 2025-03-26 |
 | [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 | 2026-08-07 |  |
+| [Home Tonight](https://open.spotify.com/track/15JWJHmZIpQMP0ojCUEW27) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Nobody Wants This: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b) | 3:32 | 2026-10-23 |  |
 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 | 2024-12-06 | 2025-03-26 |
 | [Hospital Blue](https://open.spotify.com/track/4FCZ8hxMvHiYWx1mdLoqEs) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [What Would I Look Like Without A Brave Face? \(Deluxe\)](https://open.spotify.com/album/3Hj9SMz8qehBEn6KQGkCC6) | 2:43 | 2026-02-20 | 2026-02-28 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 | 2022-04-16 |
@@ -803,7 +804,7 @@
 | [Postcard](https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Postcard](https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM) | 2:59 | 2026-09-11 |  |
 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 | 2025-01-31 | 2026-07-25 |
 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 | 2024-05-17 | 2024-10-28 |
-| [Pretty Ugly](https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Pretty Ugly](https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI) | 2:49 | 2026-08-07 |  |
+| [Pretty Ugly](https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Pretty Ugly](https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI) | 2:49 | 2026-08-07 | 2026-10-24 |
 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-29 | 2023-12-23 |
 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 | 2026-08-21 |  |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-10-04 | 2025-03-26 |
@@ -811,7 +812,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 | 2024-05-17 | 2024-06-08 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-04-30 |  |
 | [Recover From](https://open.spotify.com/track/3Owg4E2Liitys4sz447Szf) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Recover From](https://open.spotify.com/album/0rwFrGSEInpBf4PmNZfszT) | 2:30 | 2025-05-09 | 2025-06-21 |
-| [relapse](https://open.spotify.com/track/4U79JUWOHrww52hBySHL8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [relapse](https://open.spotify.com/album/3Xlls9vCfkFRNgvTrqk1zZ) | 3:23 | 2026-07-24 |  |
+| [relapse](https://open.spotify.com/track/4U79JUWOHrww52hBySHL8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [relapse](https://open.spotify.com/album/3Xlls9vCfkFRNgvTrqk1zZ) | 3:23 | 2026-07-24 | 2026-10-24 |
 | [Remember \- Acoustic](https://open.spotify.com/track/1EL27Y8YRofgvgIyhRD5JS) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:58 | 2022-10-26 | 2025-12-20 |
 | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:02 | 2024-11-29 | 2025-11-08 |
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2021-12-24 | 2022-12-28 |
@@ -832,6 +833,7 @@
 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 | 2025-08-15 | 2025-09-30 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-07-18 | 2022-07-23 |
 | [Ruins](https://open.spotify.com/track/4yqi1WxBUMw75zodggxj6g) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4), [Drew Schueler](https://open.spotify.com/artist/1F2PBVC03y1a9PCszIxJhI) | [Ruins](https://open.spotify.com/album/49xPyLWptFULo4SmaCW6D0) | 3:20 | 2022-05-27 | 2022-06-10 |
+| [Rust](https://open.spotify.com/track/0PuPIQIsX4RfzWJWjuBtRg) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [From My Side](https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck) | 3:12 | 2026-10-23 |  |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-05-20 |
 | [Sad About You](https://open.spotify.com/track/6n4p56pjlwieUzyBcXtvK1) | [Reid Wilson](https://open.spotify.com/artist/5YlzV8KSHg4YLAbNKi50Bf) | [Sad About You](https://open.spotify.com/album/5COqkRTwPDzOmcBe6tPUyH) | 2:33 | 2024-10-11 | 2024-10-16 |
 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 | 2023-10-13 | 2024-01-19 |

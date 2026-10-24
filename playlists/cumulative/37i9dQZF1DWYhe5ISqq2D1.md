@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 | 2026-10-22 |
+| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 |  |
 | [\(I keep reaching but\) the light is far](https://open.spotify.com/track/21uv2vOAAnRXTj0ZYjNgfU) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [\(I keep reaching but\) the light is far](https://open.spotify.com/album/3mOmkItwWWARVN2v9BakWl) | 3:05 | 2025-07-08 | 2025-07-16 |
 | [0.2mm](https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [OITOMA](https://open.spotify.com/album/3t6vgq00zaSOviMFDdKVAx) | 4:38 | 2026-02-24 | 2026-09-30 |
 | [0821\_a](https://open.spotify.com/track/3dcFxSx1vIKmRouPHBWYmF) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Nisshoku Natsuko 15th Anniversary BEST \- Fly\-by2024\-](https://open.spotify.com/album/7gmE43E3l6qPzX5muaklAK) | 5:39 | 2024-09-17 | 2024-10-02 |
@@ -44,7 +44,7 @@
 | [afraid to love](https://open.spotify.com/track/015GuDehFbHYA3sBZDRjP8) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サファイア](https://open.spotify.com/album/5XdY7QJZ1Mo4mwzt715kNI) | 3:42 | 2025-08-05 | 2025-08-13 |
 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 | 2025-09-16 | 2025-12-10 |
 | [After the recital](https://open.spotify.com/track/3TZJpSNMmgNwKT6jRQ1Uh8) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [After the recital](https://open.spotify.com/album/3K3Bm50WGE3ncvjRYPduxP) | 4:56 | 2025-01-14 | 2025-01-22 |
-| [Aftertaste](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 | 2026-06-16 |  |
+| [Aftertaste](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 | 2026-06-16 | 2026-10-24 |
 | [again](https://open.spotify.com/track/1aseYWvk8nyKCLYIBkMyRr) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [again](https://open.spotify.com/album/5RLK5P7bmOWSnAwsWNtp42) | 3:12 | 2026-03-03 | 2026-03-11 |
 | [Aging](https://open.spotify.com/track/4wSfTNpteKJo0uKiy4VCBT) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Aging](https://open.spotify.com/album/4Tcip93W7ziXsIInpVzUY9) | 4:01 | 2025-07-08 | 2025-07-23 |
 | [Ai](https://open.spotify.com/track/7MtFI7SSGFJAkCYaj5IoJZ) | [猫蛙](https://open.spotify.com/artist/4LoPTaiMDcYYOohGwm5T11) | [Ai](https://open.spotify.com/album/5tJg96D4h2SqZXDDLuiNoU) | 1:48 | 2025-03-18 | 2025-03-26 |

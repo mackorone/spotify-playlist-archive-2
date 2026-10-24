@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,781 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,780 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 24 | [Champions](https://open.spotify.com/track/3mmyWgZhhL8QlblPguccP7) | [Damon Dash](https://open.spotify.com/artist/4ZkdpElKTmTEs9F5BuKTOe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Young Chris](https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Dame Dash Presents Paid In Full / Dream Team \(Soundtrack\)](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 6:12 |
 | 25 | [FIND YOUR WINGS \- Instrumental](https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cherry Bomb + Instrumentals](https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3) | 3:00 |
 | 26 | [Papillon \(aka Hot Butterfly\)](https://open.spotify.com/track/45fclN1U2QlQ5CLTvZVMZC) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:07 |
-| 27 | [No One in the World \(New Orleans Bounce\)](https://open.spotify.com/track/3nVH3JISreuuJqVF10qKa5) | [DJ Aktright](https://open.spotify.com/artist/7DjBdzcugkf6XrW7G3dyhB) | [New Orleans Bounce Essentials, Vol\. 1](https://open.spotify.com/album/1ErFP5RZYuAr6OcwyYPmqn) | 3:23 |
-| 28 | [Make Yours a Happy Home](https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Claudine \(Original Soundtrack\)](https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV) | 4:33 |
+| 27 | [Make Yours a Happy Home](https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Claudine \(Original Soundtrack\)](https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV) | 4:33 |
+| 28 | [No One in the World \(New Orleans Bounce\)](https://open.spotify.com/track/3nVH3JISreuuJqVF10qKa5) | [DJ Aktright](https://open.spotify.com/artist/7DjBdzcugkf6XrW7G3dyhB) | [New Orleans Bounce Essentials, Vol\. 1](https://open.spotify.com/album/1ErFP5RZYuAr6OcwyYPmqn) | 3:23 |
 | 29 | [You'll Never Find \(a Better Woman\)](https://open.spotify.com/track/2aJzN2dhjqBrBzMuNYMkiG) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:12 |
 | 30 | [My Life](https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life \(Deluxe / Commentary Edition\)](https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO) | 4:17 |
 | 31 | [Serve This Royalty](https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [The Headphone Masterpiece](https://open.spotify.com/album/4DO0EipTAYZYaUDSoEVK98) | 5:42 |

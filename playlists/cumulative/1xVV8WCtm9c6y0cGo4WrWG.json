@@ -10589,6 +10589,28 @@
     },
     {
       "album": {
+        "name": "Tripping His Cousin",
+        "url": "https://open.spotify.com/album/09jMrlK9HDrqPMEmLJbZz9"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Tripping His Cousin",
+      "url": "https://open.spotify.com/track/4SkvEkzhKUcQDDKQMNR1qv"
+    },
+    {
+      "album": {
         "name": "Rise Of An Empire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
       },

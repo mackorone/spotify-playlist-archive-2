@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,712 songs - 6 day 13 hr 54 min
+2,715 songs - 6 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1938,6 +1938,7 @@
 | [Rita Line](https://open.spotify.com/track/6HulHrVy8G9vPPdLsvE2gH) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Rita Line](https://open.spotify.com/album/4wZqO6GsvIH83Z8FZ7CmDn) | 3:41 | 2026-01-01 |  |
 | [Ritmo che sale](https://open.spotify.com/track/1itc1nYEjZ7GuL1oErI6Oe) | [Martino Stripoli](https://open.spotify.com/artist/5UdNN2pxDMK4USUqEqWUku) | [Ritmo che sale](https://open.spotify.com/album/2AcylfLLONG7gbQno25Wwz) | 2:51 | 2025-09-06 |  |
 | [Ritmo Frenetico \(HIIT 30\-10\)](https://open.spotify.com/track/7EnvsmIAUsBCvfVHdrToLD) | [THE COACH](https://open.spotify.com/artist/1TXrJpe4fvCaVpg3f1nbjW) | [HIIT FRENETICO](https://open.spotify.com/album/6qoJhjAStNrszMp7sN0Q9N) | 1:20 | 2024-12-25 |  |
+| [Ritmo Latino](https://open.spotify.com/track/1VYI8yJs9WJsWoQmxIP1OV) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Ritmo Latino](https://open.spotify.com/album/3StjamvQhsKPUSJYODixCp) | 3:33 | 2026-10-23 |  |
 | [RITMOHOUSE](https://open.spotify.com/track/4vt7GdGKyIktnO6IjHoa6k) | [Sigle Animazione Villaggi](https://open.spotify.com/artist/0lYLbo908pCzPD5jQEt1bm) | [RITMOHOUSE](https://open.spotify.com/album/392lqYDcims3UcipVv1C6N) | 2:20 | 2024-03-14 |  |
 | [Ritmos Fit \(HIIT 30\-10\)](https://open.spotify.com/track/0DDHwFeFia7Y8DTfhEDJAV) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [HIIT BRASIL 30\-10](https://open.spotify.com/album/4fLeywEPeRMgra2PDYpAcN) | 1:20 | 2024-03-08 |  |
 | [Rituals](https://open.spotify.com/track/22jnSqBJ5fxftDizxD4sid) | [Ashanti Selah](https://open.spotify.com/artist/1IdpvTfGDPshOD7PaYPAkS), [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Rituals](https://open.spotify.com/album/790fxRQeupN9YpHLNiWYiK) | 5:12 | 2026-04-12 |  |
@@ -1990,7 +1991,7 @@
 | [Samajhne Doo](https://open.spotify.com/track/5i2vJJB1aFvWJ9Jo0QL1j1) | [ARYAN BHATNAGAR](https://open.spotify.com/artist/4953U4ZTklTgBuY2Lh9e7Q) | [Samajhne Doo](https://open.spotify.com/album/4Anowd1l0Rm9i5VWw9uTKK) | 2:30 | 2025-08-06 |  |
 | [Same Old Story](https://open.spotify.com/track/5dHYtA57E2ZBIOXvElxgCZ) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Same Old Story](https://open.spotify.com/album/1G7aMcB7dRIE0gChH2zi63) | 4:38 | 2024-04-10 |  |
 | [Sampai Kau Kembali](https://open.spotify.com/track/0nAyih1mjCRH347QsMgiN7) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Sampai Kau Kembali](https://open.spotify.com/album/3hhMLe5xs73PXXKmQAo2vU) | 3:08 | 2025-07-17 |  |
-| [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [la C LDV](https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 | 2025-11-25 |  |
+| [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 | 2025-11-25 |  |
 | [Sangue Fluttuante](https://open.spotify.com/track/77ATWA5poUKLZ7oed0irQo) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Paolo Russotto](https://open.spotify.com/artist/2qojmQGNwkXtfulktkX35X) | [Sangue Fluttuante](https://open.spotify.com/album/2EqZSvCTBXsAWu17a41hJH) | 3:49 | 2025-03-14 |  |
 | [SANPO](https://open.spotify.com/track/0iF1OTM8gKRmN2IiFzWV8F) | [RAS TAMANO](https://open.spotify.com/artist/4yOfZvC32oEIseTaawz38b), [DAHBORS](https://open.spotify.com/artist/20aCe88nAWk6yealnABwKr) | [SANPO](https://open.spotify.com/album/2VSLs9f2MV45VPmlipsCJK) | 5:23 | 2025-11-26 |  |
 | [Santa Maria strela do dia](https://open.spotify.com/track/0HR1y4lTgRX3UiM9Vrexoc) | [Alfonso X El Sabio](https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:20 | 2025-08-12 |  |
@@ -2511,6 +2512,7 @@
 | [VERTIGO ROCK](https://open.spotify.com/track/0IHnjvD1P9RNnwOM7BxeEl) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [VERTIGO ROCK](https://open.spotify.com/album/7eAI024Vg4jx6H5u1CZipB) | 1:28 | 2025-03-06 |  |
 | [Viajando](https://open.spotify.com/track/0uAveBsjd9FEQvCfrEokCM) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:59 | 2025-12-28 |  |
 | [Vicky](https://open.spotify.com/track/4CFl9apNEnVSUGJyXWE4R6) | [Marzena Majcher](https://open.spotify.com/artist/6sHN6iLyhZVMg5w5t7Kdsj) | [Amateurs \(Original motion picture soundtrack\)](https://open.spotify.com/album/4Z8t4Qv9a3l39Nkq5HsoBa) | 2:44 | 2025-09-10 |  |
+| [Vida Cigana](https://open.spotify.com/track/7tJRonX2GXkrBTnyKXYRsh) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Vida Cigana](https://open.spotify.com/album/1D6ElPRfePxhxtyEnM3xB4) | 2:57 | 2026-10-23 |  |
 | [vida de patrão](https://open.spotify.com/track/19lVNgRsYOw2QmNKCWu2gp) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 2:55 | 2026-01-25 |  |
 | [Vienna](https://open.spotify.com/track/0PCzNRFKGyraIzhkmMKHrJ) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Vienna](https://open.spotify.com/album/37LrPY0zy6GPUWWKwVCGHq) | 2:26 | 2026-01-26 |  |
 | [Vindicta](https://open.spotify.com/track/5J45NNA2HrWzwnWJG3IsAG) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Vindicta](https://open.spotify.com/album/2Vn5fMsQhKkKOnkJisvOtA) | 4:23 | 2024-04-10 |  |
@@ -2534,6 +2536,7 @@
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
 | [Wading In The Water](https://open.spotify.com/track/10XJf0lXpUmgHWBq7K3hui) | [Blair Jollands](https://open.spotify.com/artist/5p9yXFiNqgv9Nl6zr3Fhy8) | [Little Comet](https://open.spotify.com/album/3Dy7knxrjjZpGmaYbVb6OP) | 4:23 | 2026-08-18 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
+| [Wake up sunshine](https://open.spotify.com/track/0FfEQq0Z4iJDQV2Y2TPlQL) | [Lonely Days For](https://open.spotify.com/artist/4yTcl4GvLCu068IP0chIQw) | [Wake up sunshine](https://open.spotify.com/album/5sqpzDn7ZsqBVXfMoOd2z6) | 1:34 | 2026-10-23 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |
 | [Walk](https://open.spotify.com/track/36ljAvtG4reh3K95d8vPkD) | [Blushtone](https://open.spotify.com/artist/3Oy3N7DzjmLpat1DSUqO82) | [Walk](https://open.spotify.com/album/0alB43j0Gl2cBJUaRxS9Nn) | 2:37 | 2025-06-06 |  |
 | [WALK IT OFF](https://open.spotify.com/track/31QkpuGiQQiu6AxchCWYNV) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:16 | 2025-09-08 |  |

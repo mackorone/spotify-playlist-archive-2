@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: KenTheMan",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -2290,6 +2290,24 @@
       "duration_ms": 134311,
       "name": "Blind Em",
       "url": "https://open.spotify.com/track/4M7pQy4wQuIm41JVNWiVvQ"
+    },
+    {
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/29DcwTXk2kQxQAn01Sdn8d"
     },
     {
       "album": {
@@ -5872,7 +5890,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 114928,
       "name": "Get Hit",
       "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
@@ -6202,6 +6220,24 @@
       "duration_ms": 181890,
       "name": "Gloss Up Broke Boy",
       "url": "https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3"
+    },
+    {
+      "album": {
+        "name": "GO BANANAS",
+        "url": "https://open.spotify.com/album/229PpFxPvD64kzwxvY1SXf"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157874,
+      "name": "GO BANANAS",
+      "url": "https://open.spotify.com/track/5cQYgOxMf0AkCADNNPAFdA"
     },
     {
       "album": {
@@ -8385,6 +8421,28 @@
     },
     {
       "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+    },
+    {
+      "album": {
         "name": "Just Relax",
         "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
       },
@@ -10101,6 +10159,24 @@
     },
     {
       "album": {
+        "name": "Throw Aways",
+        "url": "https://open.spotify.com/album/6eBzOnSReb75Fg0sXMhXJG"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144660,
+      "name": "Munyun",
+      "url": "https://open.spotify.com/track/76nPNtQqzXWeKUZuOLdtWJ"
+    },
+    {
+      "album": {
         "name": "Must Be",
         "url": "https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE"
       },
@@ -10648,6 +10724,24 @@
       "duration_ms": 176842,
       "name": "No Bars",
       "url": "https://open.spotify.com/track/4aJYaQide0vBqT3ErvVKvp"
+    },
+    {
+      "album": {
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/73fplZaiXzMcXALbVjAYpN"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/1IMJpWsaVVZ2jq2SjVlr3e"
     },
     {
       "album": {
@@ -13110,7 +13204,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 125680,
       "name": "QUEEN [THE WHACK VERSION]",
       "url": "https://open.spotify.com/track/6H6bBK59BXJKvWH0omXHyI"
@@ -15662,7 +15756,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 136411,
       "name": "Top Of Cars",
       "url": "https://open.spotify.com/track/6KhAY6HMsbKbv68VT4c35p"
@@ -16734,7 +16828,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
@@ -16752,7 +16846,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 149724,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0YcZT9SjPgmylWUfJSFtm3"
@@ -16854,6 +16948,24 @@
       "duration_ms": 191711,
       "name": "Where Them Girls At",
       "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
+    },
+    {
+      "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/1cVYSRkTd7ftd81JjMFVxy"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140147,
+      "name": "Which One",
+      "url": "https://open.spotify.com/track/5Arf8kzR32ps4iebRsgVMr"
     },
     {
       "album": {
@@ -17118,7 +17230,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 159633,
       "name": "WITH MY BESTIE",
       "url": "https://open.spotify.com/track/1FrktDz7UEUYZb7OqIx9CQ"

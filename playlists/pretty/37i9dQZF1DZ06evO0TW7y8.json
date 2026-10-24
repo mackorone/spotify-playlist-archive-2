@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 327370,
+  "num_followers": 327521,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACr9wgVOKWH7BgANR+aoNQ3",
+  "snapshot_id": "atgAgAAAAAAO4RtKMkE0GdXAzBYyGFOe",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Are The Odds",
         "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 207085,
       "name": "Alive (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4LMRZo0fJ9UcfvVqvsn6CY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 161784,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Over (Remix)",
         "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 161784,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "I Lied, You Lied",
-      "url": "https://open.spotify.com/track/4AtKiiVqo5lIZZBwfOmshW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 226906,
       "name": "Teenage Fantasy",
       "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/4AtKiiVqo5lIZZBwfOmshW"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 157767,
-      "name": "What Are The Odds",
-      "url": "https://open.spotify.com/track/7pXOVush7EakPluHkka7hr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 201028,
       "name": "With You",
       "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 157767,
+      "name": "What Are The Odds",
+      "url": "https://open.spotify.com/track/7pXOVush7EakPluHkka7hr"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 214047,
       "name": "Burn",
       "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Are The Odds",
-        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 224099,
-      "name": "The Way It Was",
-      "url": "https://open.spotify.com/track/4U2CDe6ldkhHArb060Dvwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191992,
       "name": "Where Did I Go?",
       "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 224099,
+      "name": "The Way It Was",
+      "url": "https://open.spotify.com/track/4U2CDe6ldkhHArb060Dvwf"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
     },
     {
       "added_at": null,

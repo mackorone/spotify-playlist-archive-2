@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,416 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,427 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Knew It, I Knew You \- Piano Version \(From "Toy Story 5"\)](https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG) | 3:10 |
+| 1 | [Patient Zero \- Acoustic Version](https://open.spotify.com/track/2a5MkKmuigi8mqJNzGpRQv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/3rU7c934ngxDXPfjgXyzyu) | 3:55 |
 | 2 | [we can't be friends \(wait for your love\) \- acoustic \(live from jungle city studios\)](https://open.spotify.com/track/23itJEBZlued974YuPPLlq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [we can't be friends \(wait for your love\) \[acoustic \(live from jungle city studios\)\]](https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD) | 3:07 |
 | 3 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
 | 4 | [Addicted](https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Addicted](https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R) | 3:12 |
 | 5 | [Please Please Please \- Acoustic](https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1) | 3:01 |
-| 6 | [Opalite \- Life Is A Song Acoustic Version](https://open.spotify.com/track/2ZbU5CJSi02RLNsldux0QQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Opalite](https://open.spotify.com/album/3evV0p6SkiOZFt1rtWRco9) | 4:02 |
+| 6 | [I Knew It, I Knew You \- Piano Version \(From "Toy Story 5"\)](https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG) | 3:10 |
 | 7 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 |
 | 8 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
 | 9 | [The Fate of Ophelia \- Alone In My Tower Acoustic Version](https://open.spotify.com/track/3Z2nTctPsTsgqqJm5fCSvG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Fate of Ophelia \(Alone In My Tower Acoustic Version\)](https://open.spotify.com/album/60pPcuYWCIAdcErvx2TLGB) | 3:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 98 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
 | 99 | [You should be sad \- Acoustic](https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:18 |
 
-Snapshot ID: `AAAAAE8xWqOQNaUEF/7KKv7ttTezKmQh`
+Snapshot ID: `AAAAAPHPHwM4z3CN1rD0JBG5qyT8pg0/`

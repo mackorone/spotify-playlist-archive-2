@@ -1,32 +1,116 @@
 {
-  "description": "We got you! Den bedste nye pop er samlet her. Chappell Roan & Olivia Rodrigo p\u00e5 cover \ud83e\udead",
-  "num_followers": 107723,
+  "description": "We got you! Den bedste nye pop er samlet her. Tate McRae p\u00e5 cover \ud83e\udead",
+  "num_followers": 107728,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEMG5z5vtZCxLd5Jzm0llfKG04Ho",
+  "snapshot_id": "AAAAAGxA8UDO88MQr8STI7lr6Ggo8PNK",
   "tracks": [
     {
-      "added_at": "2026-10-16 00:00:18",
+      "added_at": "2026-10-23 08:35:19",
       "album": {
-        "name": "expectations (feat. Chappell Roan)",
-        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 223935,
-      "name": "expectations (feat. Chappell Roan)",
-      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "Alle Kender Nogen",
+        "url": "https://open.spotify.com/album/0qPC1VQqDkA8jkpqPUMy2s"
+      },
+      "artists": [
+        {
+          "name": "Alex Vargas",
+          "url": "https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        },
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        },
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        },
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        },
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        },
+        {
+          "name": "Peter A.G.",
+          "url": "https://open.spotify.com/artist/0qiapJGmudLpAbxBmeFA46"
+        },
+        {
+          "name": "Sanne Salomonsen",
+          "url": "https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb"
+        },
+        {
+          "name": "Soleima",
+          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+        },
+        {
+          "name": "Thomas Helmig",
+          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
+        }
+      ],
+      "duration_ms": 214928,
+      "name": "Alle Kender Nogen",
+      "url": "https://open.spotify.com/track/7r49zBYaM5kjsiRW5ztt95"
+    },
+    {
+      "added_at": "2026-10-16 00:00:18",
+      "album": {
+        "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
+        "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
+      "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
     },
     {
       "added_at": "2026-10-16 00:00:18",
@@ -43,6 +127,26 @@
       "duration_ms": 158879,
       "name": "Sygt jeg stadig savner dig",
       "url": "https://open.spotify.com/track/3YT4FLkIGMuMzht3erEUWX"
+    },
+    {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "se p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5uakZTtEb8o1QsZSFKYCQQ"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 140043,
+      "name": "se p\u00e5 mig",
+      "url": "https://open.spotify.com/track/0t2J4HDNDKgSy57JufNZQ3"
     },
     {
       "added_at": "2026-10-16 00:00:18",
@@ -77,20 +181,40 @@
       "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
     },
     {
-      "added_at": "2026-10-16 00:00:18",
+      "added_at": "2026-10-23 08:35:19",
       "album": {
-        "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
-        "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
       },
       "artists": [
         {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 175680,
-      "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
-      "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
+    },
+    {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "Lighter (feat. Gilli)",
+        "url": "https://open.spotify.com/album/6SWJQIXybUPfmjzxwzXPdi"
+      },
+      "artists": [
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 152201,
+      "name": "Lighter (feat. Gilli)",
+      "url": "https://open.spotify.com/track/1VcwyFJ80YEgfmKYwEtQLJ"
     },
     {
       "added_at": "2026-10-16 00:00:18",
@@ -107,6 +231,22 @@
       "duration_ms": 190248,
       "name": "Har Du M\u00e6rket Dig Selv?",
       "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
+    },
+    {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "It's A New Day",
+        "url": "https://open.spotify.com/album/7D8G2Sy7jMSCga3WbZsmBy"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 170009,
+      "name": "It's A New Day",
+      "url": "https://open.spotify.com/track/1sQzpB8StECTvUbAKWF8eK"
     },
     {
       "added_at": "2026-10-16 00:00:18",
@@ -141,6 +281,22 @@
       "url": "https://open.spotify.com/track/0yXbholP1jDYnkFXo7XwqH"
     },
     {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "Dengang",
+        "url": "https://open.spotify.com/album/1wOjLf4Roj6LvOKuL2jnuF"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 182783,
+      "name": "Dengang",
+      "url": "https://open.spotify.com/track/2uDc0LXyTkNB3R9bpx9SRr"
+    },
+    {
       "added_at": "2026-10-16 00:00:18",
       "album": {
         "name": "L\u00e5nt tid",
@@ -171,6 +327,22 @@
       "duration_ms": 195000,
       "name": "Sex & Drugs",
       "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
+    },
+    {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "Cold Blooded (Demo) [from the Netflix Series \"Nobody Wants This\" Season 3]",
+        "url": "https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 195608,
+      "name": "Cold Blooded (Demo) - from the Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv"
     },
     {
       "added_at": "2026-10-16 00:00:18",
@@ -229,6 +401,34 @@
       "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
     },
     {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "D\u00f8 For Dig",
+        "url": "https://open.spotify.com/album/7oHDBJVAfyJpVIhAJhW5k1"
+      },
+      "artists": [
+        {
+          "name": "Rune Rask",
+          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+        },
+        {
+          "name": "Ankerstjerne",
+          "url": "https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d"
+        },
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        },
+        {
+          "name": "Sigvardt",
+          "url": "https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI"
+        }
+      ],
+      "duration_ms": 171290,
+      "name": "D\u00f8 For Dig",
+      "url": "https://open.spotify.com/track/2ivHE36S9hEbhWFwLdyvJq"
+    },
+    {
       "added_at": "2026-10-16 00:00:18",
       "album": {
         "name": "tyde dine intentioner.",
@@ -245,6 +445,22 @@
       "url": "https://open.spotify.com/track/6U68BZqj7bLh65W14UqfS4"
     },
     {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "Idiot",
+        "url": "https://open.spotify.com/album/6fL7X80o0ts8R5UpMEBpU8"
+      },
+      "artists": [
+        {
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+        }
+      ],
+      "duration_ms": 153025,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/5JLQgDYZKaOd4PmNYMpugI"
+    },
+    {
       "added_at": "2026-10-16 00:00:18",
       "album": {
         "name": "Legendary Love",
@@ -259,6 +475,22 @@
       "duration_ms": 209453,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz"
+    },
+    {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "N\u00e5r Vi Taler Om Solen",
+        "url": "https://open.spotify.com/album/3ZRtlOcWoUI8tZZp0gb6fS"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 197848,
+      "name": "Violetbl\u00e5",
+      "url": "https://open.spotify.com/track/7bIpmmq4AEIE7TwmETUvKa"
     },
     {
       "added_at": "2026-10-16 00:00:18",
@@ -349,6 +581,22 @@
       "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
     },
     {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "Vanvid",
+        "url": "https://open.spotify.com/album/5SEGl3x5IQOFjFVpYa454t"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Vanvid",
+      "url": "https://open.spotify.com/track/0ZZUniWHuZH8kvR440jozQ"
+    },
+    {
       "added_at": "2026-10-16 00:00:18",
       "album": {
         "name": "Problemer",
@@ -431,22 +679,6 @@
     {
       "added_at": "2026-10-16 00:00:18",
       "album": {
-        "name": "Savner Mig",
-        "url": "https://open.spotify.com/album/10hpwucFccoaeVt14lGzQH"
-      },
-      "artists": [
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Savner Mig",
-      "url": "https://open.spotify.com/track/71pNKnbdJ5GrnhrBkNgN4n"
-    },
-    {
-      "added_at": "2026-10-16 00:00:18",
-      "album": {
         "name": "124",
         "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
       },
@@ -479,6 +711,26 @@
       "duration_ms": 230503,
       "name": "Danceteria Afterhours",
       "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+    },
+    {
+      "added_at": "2026-10-16 00:00:18",
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-10-16 00:00:18",

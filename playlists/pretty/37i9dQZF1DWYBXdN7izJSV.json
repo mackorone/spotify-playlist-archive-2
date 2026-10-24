@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117508,
+  "num_followers": 117503,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 278213,
+      "name": "Oneida",
+      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 278213,
-      "name": "Oneida",
-      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "Seven Year Ache",
+        "url": "https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "Here We Rest",
         "url": "https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Seven Year Ache",
-        "url": "https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Harlem River Blues",
         "url": "https://open.spotify.com/album/1ve8jKdqG5opm9j26Jb8aE"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "O' Be Joyful",
-        "url": "https://open.spotify.com/album/4nuJVavarQXSOd2MP7892J"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 240535,
-      "name": "Birmingham",
-      "url": "https://open.spotify.com/track/5ciSr1SyZUQrxySlxZhdhg"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 208733,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "O' Be Joyful",
+        "url": "https://open.spotify.com/album/4nuJVavarQXSOd2MP7892J"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "duration_ms": 240535,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/5ciSr1SyZUQrxySlxZhdhg"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Crusades Of The Restless Knights",
         "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 294053,
       "name": "Conversation With The Devil",
       "url": "https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Anodyne",
-        "url": "https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Chickamauga",
-      "url": "https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Cruel Moon",
         "url": "https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 195293,
       "name": "Does My Ring Burn Your Finger",
       "url": "https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Anodyne",
+        "url": "https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Chickamauga",
+      "url": "https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Uncle Tupelo 89/93: An Anthology",
-        "url": "https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 263666,
-      "name": "Moonshiner",
-      "url": "https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Low Estate",
         "url": "https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 268960,
       "name": "Brimstone Rock",
       "url": "https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Uncle Tupelo 89/93: An Anthology",
+        "url": "https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 263666,
+      "name": "Moonshiner",
+      "url": "https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04"
     },
     {
       "added_at": "2026-06-19 04:01:42",

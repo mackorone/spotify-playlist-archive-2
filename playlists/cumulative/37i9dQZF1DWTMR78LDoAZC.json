@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Me and the Music",
+        "url": "https://open.spotify.com/album/4z815sIdN6BdCRbF5kWTKW"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221745,
+      "name": "Gay Witchcraft",
+      "url": "https://open.spotify.com/track/5iAUMO1NyTPEorQ3f3vSJX"
+    },
+    {
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
@@ -2398,6 +2416,24 @@
       "duration_ms": 184534,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/41AlN934iycErjzCzwtO3C"
+    },
+    {
+      "album": {
+        "name": "Ladylike",
+        "url": "https://open.spotify.com/album/113ejPYZEjoK59HHABCxme"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178374,
+      "name": "Ladylike",
+      "url": "https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu"
     },
     {
       "album": {
@@ -3578,7 +3614,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
@@ -4914,7 +4950,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 337371,
       "name": "The Idea Of A Wave",
       "url": "https://open.spotify.com/track/3x9T42czDlcWpVAYv3MjGM"
@@ -5286,6 +5322,24 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+    },
+    {
+      "album": {
+        "name": "Gentling the Horse at the Walt Whitman Mall",
+        "url": "https://open.spotify.com/album/5vTXXPuNbjStVeQP2jkfGG"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189797,
+      "name": "Valery (please don\u2019t be mad at me)",
+      "url": "https://open.spotify.com/track/1PD0Yp2QIrwuSteLt8FhvZ"
     },
     {
       "album": {

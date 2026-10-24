@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-275 songs - 14 hr 49 min
+276 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Blue Christmas \(feat\. Vince Gill\)](https://open.spotify.com/track/48xYHTEI8fQdiTxOTNn0lR) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Love Under The Christmas Tree](https://open.spotify.com/album/5TNnXsMBgzXAXOwxV9heKR) | 3:36 | 2023-11-24 | 2024-10-19 |
 | [Boots On \- Santa's Version](https://open.spotify.com/track/5j2iFvz5MwZpOdgkrIBkqc) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Boots On \(Santa's Version\)](https://open.spotify.com/album/2gRprOXDKvdWmydNjEXEDa) | 2:31 | 2024-11-15 | 2025-11-08 |
 | [Call It Christmas](https://open.spotify.com/track/6U07SuRy9956tEyO0JxgYn) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Call It Christmas](https://open.spotify.com/album/4QtiBMfr2QcutH7GJRgGwS) | 2:47 | 2025-11-21 |  |
+| [Candy Cane Cowboy](https://open.spotify.com/track/4YsPbko6vO4c82HgXYqz7r) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [Candy Cane Cowboy](https://open.spotify.com/album/3D1PGwJlZ3MlwVLZ5yboGK) | 3:12 | 2026-10-23 |  |
 | [Celebrate Me Home](https://open.spotify.com/track/5O2jmlWdeLEN7n3LrP7MFB) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Celebrate Me Home](https://open.spotify.com/album/5doSwgjks8R6LIucsbuPNe) | 3:52 | 2023-11-24 | 2024-10-19 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2fbpm5GymyaMpdWoP8TgDg) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/5GzoZlQpyvqLQCyhjqMM62) | 2:40 | 2024-11-29 | 2025-11-08 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6LaZYe9ZUt8ZY1G5fwhBnb) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:52 | 2024-10-18 | 2025-11-08 |

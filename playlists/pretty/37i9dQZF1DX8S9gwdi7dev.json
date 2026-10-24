@@ -1,12 +1,12 @@
 {
   "description": "Fun tracks for your Halloween festivities!",
-  "num_followers": 1428038,
+  "num_followers": 1431839,
   "original_name": "Halloween Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOk3DYMBRXMxBvC5D86WXeLiBOQR",
+  "snapshot_id": "AAAAAB5Q0IkWOA9ElWsfXL8NL9xtSnvN",
   "tracks": [
     {
       "added_at": "2026-08-31 15:22:11",
@@ -215,6 +215,22 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -667,6 +683,54 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2026-10-19 23:50:48",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/4AFXEVdwVYAX7IcDjGF0bO"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/1R3Gy6oW42C8atZHSy8om4"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/4kkeuVl6gF3RMqE4Nn5W3E"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
         "name": "Monster (Spotify Singles)",
         "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
       },
@@ -759,38 +823,6 @@
       "duration_ms": 187773,
       "name": "She Wolf",
       "url": "https://open.spotify.com/track/4WcCW10tnJCljX8Fhs0FdE"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2026-10-19 23:50:48",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/4AFXEVdwVYAX7IcDjGF0bO"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/1R3Gy6oW42C8atZHSy8om4"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "E.T.",
-      "url": "https://open.spotify.com/track/4kkeuVl6gF3RMqE4Nn5W3E"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
@@ -1209,20 +1225,20 @@
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
-      "added_at": "2026-08-31 15:22:11",
+      "added_at": "2026-10-23 04:02:22",
       "album": {
-        "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO"
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
       "artists": [
         {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
         }
       ],
-      "duration_ms": 168874,
-      "name": "Cross My Heart I Hope U Die",
-      "url": "https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz"
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1679,22 +1695,6 @@
       "duration_ms": 238253,
       "name": "I Did Something Bad",
       "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 306440,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
     },
     {
       "added_at": "2026-08-31 15:22:11",

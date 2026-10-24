@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : BEN plg",
-  "num_followers": 401383,
+  "num_followers": 401366,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Quand est-ce qu'on oublie qu'on aime",
+        "url": "https://open.spotify.com/album/10xv43esfpGz0vDmXMCe2N"
+      },
+      "artists": [
+        {
+          "name": "Zed Yun Pavarotti",
+          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+        },
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Quand est-ce qu'on oublie qu'on aime",
+      "url": "https://open.spotify.com/track/6QiCYnNjyD0dmnNBPIytt3"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Cognac en canette",
         "url": "https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP"
       },
@@ -567,26 +587,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "Quand est-ce qu'on oublie qu'on aime",
-        "url": "https://open.spotify.com/album/10xv43esfpGz0vDmXMCe2N"
-      },
-      "artists": [
-        {
-          "name": "Zed Yun Pavarotti",
-          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
-        },
-        {
-          "name": "Marguerite Thiam",
-          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Quand est-ce qu'on oublie qu'on aime",
-      "url": "https://open.spotify.com/track/6QiCYnNjyD0dmnNBPIytt3"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
-        "name": "sentinel",
-        "url": "https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 206501,
-      "name": "sentinel",
-      "url": "https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
         "name": "tout \u00e0 la fois",
         "url": "https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 164000,
       "name": "pas assez",
       "url": "https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
+        "name": "sentinel",
+        "url": "https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 206501,
+      "name": "sentinel",
+      "url": "https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y"
     },
     {
       "added_at": "2026-09-30 22:00:22",

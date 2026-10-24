@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,667 songs - 5 day 17 hr 26 min
+2,668 songs - 5 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,7 @@
 | [det her liv](https://open.spotify.com/track/0FWck5zQaJS3cib1sDZpZH) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:10 | 2023-09-02 | 2023-09-08 |
 | [Det jo bare et kram \(interlude\)](https://open.spotify.com/track/4Gj9vSPvSd8u9ugjDPSy7x) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 1:20 | 2025-05-09 | 2025-05-18 |
 | [det ku jeg ik se \(feat\. Sira Jovina\)](https://open.spotify.com/track/3aIkfHMJphau3JylyathD4) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF), [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [det ku jeg ik se \(feat\. Sira Jovina\)](https://open.spotify.com/album/1mdTXl0Y4Jccir9adu2hiQ) | 2:52 | 2026-01-15 | 2026-01-25 |
-| [Det Modsatte](https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Det Modsatte](https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8) | 3:21 | 2024-01-03 |  |
+| [Det Modsatte](https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Det Modsatte](https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8) | 3:21 | 2024-01-03 | 2026-10-24 |
 | [Det samme](https://open.spotify.com/track/0XD6kwpubfslkR15JEsDmj) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:01 | 2025-10-04 | 2025-10-06 |
 | [Det Vi Venter På](https://open.spotify.com/track/5rEt8B0mS2e7KvbrKHpkpb) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:29 | 2022-01-08 | 2022-01-14 |
 | [Det Voldsomt](https://open.spotify.com/track/2oHa5vQV6dSEjf1dPbRXim) | [KLIKEN](https://open.spotify.com/artist/67BbnG370WnGcK7Thdx7OC) | [SHOWBIZZ](https://open.spotify.com/album/11H84qxgwl4oVK13uiQ2Hn) | 2:05 | 2026-10-10 | 2026-10-12 |
@@ -2158,6 +2158,7 @@
 | [Sober](https://open.spotify.com/track/6GKuRbnxJRJbVW6xOMUOOb) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:34 | 2026-06-20 | 2026-07-19 |
 | [SODA](https://open.spotify.com/track/2qQW6QYAqpRXWkIjiABgys) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [SODA](https://open.spotify.com/album/1Oc0wPHNFMdpvAB6F0H0zc) | 2:08 | 2026-10-03 | 2026-10-05 |
 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 | 2025-08-04 | 2025-11-05 |
+| [Sofie, Jeg Elsker Dig](https://open.spotify.com/track/6IPoBxgqN4QHuoqmzbVscZ) | [Sondergaard](https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Sofie, Jeg Elsker Dig](https://open.spotify.com/album/0rGVuzaCE7EZdrMlJPL2Uk) | 2:35 | 2026-10-23 |  |
 | [Solar Eclipse \(feat\. Don Toliver\)](https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:38 | 2026-10-03 | 2026-10-05 |
 | [Solen Op](https://open.spotify.com/track/3riJzTjTvRcuvUfG7q7x25) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Solen Op](https://open.spotify.com/album/7sHCxQKeu6O7D54wXnvBVm) | 2:24 | 2023-02-04 | 2023-02-21 |
 | [Solhverv](https://open.spotify.com/track/5x6ggDM895CRGHxS3dwRHz) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Solhverv](https://open.spotify.com/album/00knk068AEGY1pN5O7Y4Ax) | 3:33 | 2021-03-27\* | 2023-01-03 |

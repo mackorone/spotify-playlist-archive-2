@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 140974,
+  "num_followers": 140987,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABxKdFGPJJT8TM4yXIftBty",
+  "snapshot_id": "atgAgAAAAAD9bLxOGChQEATWL6G6uaMn",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Of Love",
-        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 275119,
-      "name": "Don't Want to Be a Fool",
-      "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
+      "duration_ms": 328119,
+      "name": "Since I Lost My Baby",
+      "url": "https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+        "name": "Power Of Love",
+        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 328119,
-      "name": "Since I Lost My Baby",
-      "url": "https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS"
+      "duration_ms": 275119,
+      "name": "Don't Want to Be a Fool",
+      "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
     },
     {
       "added_at": null,

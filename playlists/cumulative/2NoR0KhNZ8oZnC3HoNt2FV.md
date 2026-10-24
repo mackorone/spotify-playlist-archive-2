@@ -4,7 +4,7 @@
 
 > 
 
-1,364 songs - 3 day 3 hr 43 min
+1,365 songs - 3 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [BUTTERFLY COUPE \(feat\. Quavo\) \- PART 2](https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [BUTTERFLY COUPE feat\. Quavo \(PART 2\)](https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43) | 2:44 | 2024-01-25 |  |
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2024-01-25 |  |
 | [C'est la Vie](https://open.spotify.com/track/7vWeWw8ENP2XZnYPQYQawi) | [Swindail](https://open.spotify.com/artist/2Yg6r5cZF2mTtxFAWkWnY1), [Innanet James](https://open.spotify.com/artist/7p1KdHKrIDsXbiHnRNPOTG) | [C'est la Vie](https://open.spotify.com/album/5xpnL032wfCaJwMy7oRh7W) | 3:14 | 2024-01-25 | 2025-03-28 |
+| [C.R.E.A.M\. \- Call of Duty: Modern Warfare 4 Remix](https://open.spotify.com/track/3vMJu8ZXevRbVNUb5fDLLZ) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [C.R.E.A.M\. \(Call of Duty: Modern Warfare 4 Remix\)](https://open.spotify.com/album/6mzqGoOSkzCh675eqenfVz) | 3:25 | 2026-10-23 |  |
 | [Ca$ino](https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 4:20 | 2026-02-20 | 2026-03-10 |
 | [Calculated Steppin](https://open.spotify.com/track/5zk0j7V1nzYlQ6Rbe0QhHn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:22 | 2025-10-31 | 2025-11-13 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2024-01-25 |  |

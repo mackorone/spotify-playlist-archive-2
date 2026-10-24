@@ -4,7 +4,7 @@
 
 > Model ve haftanın en iyi çıkışları!
 
-10,590 songs - 22 day 14 hr 55 min
+10,591 songs - 22 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2297,7 +2297,7 @@
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-22 | 2025-05-30 |
 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-03 | 2026-09-11 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-19 | 2026-03-27 |
-| [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-22 |  |
+| [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-22 |  |
 | [Close to You](https://open.spotify.com/track/1vkA7llFtaaQb5qo58kiGi) | [His&Hertz](https://open.spotify.com/artist/5Ymz0VxIThb8lZyIqykGI0), [Toprak Baris](https://open.spotify.com/artist/0o6zBZOHer0cIGpGOQk7nD), [Ece Yilmaz](https://open.spotify.com/artist/6QL4sw7mQfBDo0uuweEnAS) | [Close to You](https://open.spotify.com/album/1hD4ndeK8KUhHmG9E4UNYW) | 4:11 | 2026-08-13 | 2026-08-21 |
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-19 | 2025-06-27 |
 | [Closer](https://open.spotify.com/track/5IxLLsi01rEQ1hU5XptAqC) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Mucahit Bakgor](https://open.spotify.com/artist/4VgIxaGs8hEMMlz33RNhMX) | [Closer](https://open.spotify.com/album/5oHHeUWMaAmcQAE2wZhhf6) | 3:18 | 2026-03-26 | 2026-04-03 |
@@ -2502,7 +2502,7 @@
 | [Deli Ediyor](https://open.spotify.com/track/2sX9jae43MKUzbpJcnsJUB) | [Melisa Karakurt](https://open.spotify.com/artist/73DiISVOqWg54BVFHLiCPH) | [ASU](https://open.spotify.com/album/77RPykwvYhaDQEqoBEFmLg) | 3:36 | 2026-04-09 | 2026-04-17 |
 | [Deli Ettin](https://open.spotify.com/track/19ssNtKjZHN1lktebAP4Qx) | [BERO257](https://open.spotify.com/artist/2TnpwW6SAg5AdwtIZyoRpy), [Ozi VRD](https://open.spotify.com/artist/3F2gn0RSWZuw8BWCIV30Ef) | [Deli Ettin](https://open.spotify.com/album/1M7HyIDqHmAxnormvjYPxl) | 2:18 | 2026-05-07 | 2026-05-15 |
 | [Deli Gibi](https://open.spotify.com/track/1dvJ7vk6j73vGeCMvdyI2S) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Deli Gibi](https://open.spotify.com/album/2wwQqbJxODE4MTsqcTGFhV) | 2:28 | 2025-12-18 | 2025-12-26 |
-| [Deli Gibi Yüreğime Zorsun](https://open.spotify.com/track/3ftsbBOQC6Mf92MVHhJlG6) | [Doçend](https://open.spotify.com/artist/6Jn6KXd0JB8BKedEf92fpX) | [Deli Gibi Yüreğime Zorsun](https://open.spotify.com/album/7tCiseduALXqddMMydJbKr) | 2:04 | 2026-10-22 |  |
+| [Deli Gibi Yüreğime Zorsun](https://open.spotify.com/track/3ftsbBOQC6Mf92MVHhJlG6) | [Doçend](https://open.spotify.com/artist/6Jn6KXd0JB8BKedEf92fpX), [Nur Bal](https://open.spotify.com/artist/4C0FBerSEmtJZBHN3knRmE) | [Deli Gibi Yüreğime Zorsun](https://open.spotify.com/album/7tCiseduALXqddMMydJbKr) | 2:04 | 2026-10-22 |  |
 | [Deli Gömleği](https://open.spotify.com/track/28ZwbvdvrGj6wH8BkA6VYp) | [Fulya ERCİYAS](https://open.spotify.com/artist/2quO5A2kISsGXY1LyWuHmA) | [Deli Gömleği](https://open.spotify.com/album/61n35MgGlAo7h42YnnY8ha) | 3:29 | 2026-10-01 | 2026-10-09 |
 | [Deli Gönlüm](https://open.spotify.com/track/7I9LsVz33v4jnhAl2kdZt2) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Deli Gönlüm](https://open.spotify.com/album/5wyuUd2ckRkk34O8nGK3uE) | 2:07 | 2025-09-18 | 2025-09-27 |
 | [Deli Gönlüm](https://open.spotify.com/track/6HHHI9970DOa8D17Jn1yL3) | [EVREN](https://open.spotify.com/artist/73VTFL1i460qkiRlJ6gOfA) | [Deli Gönlüm](https://open.spotify.com/album/6sYG3wW6RBlkQGpYFuAxFd) | 2:10 | 2026-07-23 | 2026-07-31 |
@@ -9390,6 +9390,7 @@
 | [Ya Pişman Ya Düşman](https://open.spotify.com/track/35ENEf7CqyY9fqeRS89qdR) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Ya Pişman Ya Düşman](https://open.spotify.com/album/2nJd6OJ5BxmJtTknXAEFAz) | 2:10 | 2025-05-22 | 2025-05-30 |
 | [Ya Rab Bu Ne Derttr](https://open.spotify.com/track/6J22wt1Z1Ok4e2AeeGGpiO) | [Pınar Aydınlar](https://open.spotify.com/artist/5SnRp8gUkvq1HpS4YY9Snw) | [Ya Rab Bu Ne Derttr](https://open.spotify.com/album/5xxUYl7tWc6NZT17X06snC) | 5:20 | 2026-09-03 | 2026-09-11 |
 | [Ya Sen Gidip de](https://open.spotify.com/track/3OFpWLnEXiuE9P5s01MIEQ) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Ümit Sayın](https://open.spotify.com/artist/04EJLUSUcz99lY4Vy0DYLM) | [Ya Sen Gidip de](https://open.spotify.com/album/1XyQ1tzLlK7Bi40uFROpVC) | 3:15 | 2026-05-07 | 2026-05-15 |
+| [Ya Sev Ya](https://open.spotify.com/track/39otRjzigYQZeVzx4l0u1X) | [BAL](https://open.spotify.com/artist/261Nb56IhLiQ7qOGr2n4z3) | [Ya Sev Ya](https://open.spotify.com/album/7p11Ieq8L8otIYMWSbubF0) | 2:17 | 2026-10-23 |  |
 | [Ya Tabtab](https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Char Bell](https://open.spotify.com/artist/4Op8WlR7WeCf0mkzjZsd6k) | [Ya Tabtab](https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo) | 2:53 | 2026-05-21 | 2026-05-29 |
 | [Ya Ummi](https://open.spotify.com/track/1gBmaSWVAMaAVQQLU0aLJY) | [Selin Sümbültepe](https://open.spotify.com/artist/0KmKUL5Vh4hWu4y94z4L2l), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [Ya Ummi](https://open.spotify.com/album/6ab3REhS5wq9pHU2aobrWa) | 2:49 | 2025-10-23 | 2025-10-31 |
 | [Ya Var Et Ya Yok Et](https://open.spotify.com/track/4uUF0ypsl0fCHQ61VDMQ4P) | [Vedat Sakman](https://open.spotify.com/artist/6dyj8hW2rSZ30SHlj2KHrT) | [Ya Var Et Ya Yok Et](https://open.spotify.com/album/1e5jIqkQm3Qs6oJazYJ59M) | 3:09 | 2026-09-24 | 2026-10-02 |

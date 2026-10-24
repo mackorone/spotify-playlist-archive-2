@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADWPfYJn2F3hY8njvVxou93",
+  "snapshot_id": "atgAgAAAAACouhgjMGNdhDGl3C7GT7jB",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
       },
       "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 149871,
-      "name": "U think Maybe? (feat. Liv.e and Venna)",
-      "url": "https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L"
+      "duration_ms": 242933,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
     },
     {
       "added_at": null,
@@ -411,18 +403,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avenue B",
-        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
       },
       "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Avenue B",
-      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
+      "duration_ms": 149871,
+      "name": "U think Maybe? (feat. Liv.e and Venna)",
+      "url": "https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L"
     },
     {
       "added_at": null,
@@ -454,15 +454,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 254333,
-      "name": "The Last Poets",
-      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
+      "duration_ms": 144746,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
     },
     {
       "added_at": null,
@@ -534,11 +530,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 144746,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
+      "duration_ms": 254333,
+      "name": "The Last Poets",
+      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
     },
     {
       "added_at": null,

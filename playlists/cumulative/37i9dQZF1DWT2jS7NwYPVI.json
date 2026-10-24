@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "your cheat sheet for all that's on the rise in alt/rock. Cover: breakkaway",
+  "description": "your cheat sheet for all that's on the rise in alt/rock. Cover: Niis",
   "name": "New Noise",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 228000,
       "name": "480p",
       "url": "https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ"
@@ -5185,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "Play Niis",
+        "url": "https://open.spotify.com/album/229GwK7pxQ81okcU4phzEC"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199449,
+      "name": "Bad Aim",
+      "url": "https://open.spotify.com/track/5QvDo7Q4jUaE4O8d07h4Us"
+    },
+    {
+      "album": {
         "name": "Bad Childhood",
         "url": "https://open.spotify.com/album/3rEjmhY3zBkWjERM0DTjrL"
       },
@@ -5720,7 +5738,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 142221,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx"
@@ -8773,6 +8791,24 @@
     },
     {
       "album": {
+        "name": "Blue Hour / Was It Ever Enough?",
+        "url": "https://open.spotify.com/album/4GqwQcU4dp17pPDB7vgF6r"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218963,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/4JUoaZy1Sd3orFRVwgoZDz"
+    },
+    {
+      "album": {
         "name": "Blue Light",
         "url": "https://open.spotify.com/album/3VZT0Lm1YZXbDtfJu7K7IN"
       },
@@ -10635,6 +10671,24 @@
     },
     {
       "album": {
+        "name": "Bury Me",
+        "url": "https://open.spotify.com/album/6ve95wOJsZB77x9aLMt2fM"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209285,
+      "name": "Bury Me",
+      "url": "https://open.spotify.com/track/65xI45mP9m4XOCCnVNqtut"
+    },
+    {
+      "album": {
         "name": "bus stop",
         "url": "https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit"
       },
@@ -11054,10 +11108,28 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 216263,
       "name": "Calling This Healing",
       "url": "https://open.spotify.com/track/2n2uQ2voZul23Q4rfFk13T"
+    },
+    {
+      "album": {
+        "name": "CALLUS",
+        "url": "https://open.spotify.com/album/1p1qODIrRytKg1O9waFMFq"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229011,
+      "name": "CALLUS",
+      "url": "https://open.spotify.com/track/3MD9494GZ8hpIdAeTok3Nc"
     },
     {
       "album": {
@@ -12908,7 +12980,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 134262,
       "name": "Choke",
       "url": "https://open.spotify.com/track/66Y93qAv4PUv2DkE7ICP7x"
@@ -14352,6 +14424,24 @@
       "duration_ms": 196887,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl"
+    },
+    {
+      "album": {
+        "name": "Consequence",
+        "url": "https://open.spotify.com/album/0BYePYbTkj6UXtePE3XOoj"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226488,
+      "name": "Consequence",
+      "url": "https://open.spotify.com/track/07FuTFnRyAeJVgXobuL7nA"
     },
     {
       "album": {
@@ -20433,6 +20523,24 @@
     },
     {
       "album": {
+        "name": "DSD",
+        "url": "https://open.spotify.com/album/4CoDtnicWVA8FbbEhkc1OF"
+      },
+      "artists": [
+        {
+          "name": "Porcelain",
+          "url": "https://open.spotify.com/artist/4PUPdR1u1N18esUCWLGYxW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "DSD",
+      "url": "https://open.spotify.com/track/5Cxc5v4G9FzuVrvA3qYlsw"
+    },
+    {
+      "album": {
         "name": "RAT WARS",
         "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
       },
@@ -21804,7 +21912,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 243238,
       "name": "Every Version Of You",
       "url": "https://open.spotify.com/track/6locM4uEtYPLfjhNF1jqBV"
@@ -21894,7 +22002,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 224550,
       "name": "EVERYDAY",
       "url": "https://open.spotify.com/track/0yd1SIg5rUXVU7gYrPA8uA"
@@ -28842,7 +28950,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 145266,
       "name": "Gut",
       "url": "https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl"
@@ -30865,6 +30973,24 @@
     },
     {
       "album": {
+        "name": "Sigil",
+        "url": "https://open.spotify.com/album/0K1EUXhIQHhJ6LShElGilb"
+      },
+      "artists": [
+        {
+          "name": "Sour Widows",
+          "url": "https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242112,
+      "name": "Her Garden",
+      "url": "https://open.spotify.com/track/2rBBRvvG1pAhq8Gg8FAgoU"
+    },
+    {
+      "album": {
         "name": "Here For You",
         "url": "https://open.spotify.com/album/4AkRpGIU2D9zKXZa8SQiXj"
       },
@@ -31244,7 +31370,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 154960,
       "name": "High",
       "url": "https://open.spotify.com/track/6eK3Kzfo6RDlc1QcW2yLpd"
@@ -31738,6 +31864,24 @@
       "duration_ms": 154000,
       "name": "Home Appliance",
       "url": "https://open.spotify.com/track/6ks4d0iyf2KJvVxwgE4U7M"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/44UfiNGAoP9K1ItoFZOOgK"
+      },
+      "artists": [
+        {
+          "name": "Tough Cookie",
+          "url": "https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194684,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/21PET0e7XxVHMoH4d2FeQU"
     },
     {
       "album": {
@@ -43292,7 +43436,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 253893,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/5j7oH0XVQGwaDF5wkqf9LK"
@@ -43910,6 +44054,24 @@
       "duration_ms": 194853,
       "name": "Man on the Run (feat. Brianna Collins)",
       "url": "https://open.spotify.com/track/4sa4aOEyc19IpJJX9WdKou"
+    },
+    {
+      "album": {
+        "name": "Man or Myth / Aquarium",
+        "url": "https://open.spotify.com/album/3fefETJLswgcB4prPInzEW"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173685,
+      "name": "Man or Myth",
+      "url": "https://open.spotify.com/track/1SWN7pkIbBEweQrt394Hv6"
     },
     {
       "album": {
@@ -64648,7 +64810,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 170086,
       "name": "Spilled",
       "url": "https://open.spotify.com/track/0MfBrS3KErpMzFmUVwJk7B"
@@ -65584,7 +65746,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 181126,
       "name": "Steel",
       "url": "https://open.spotify.com/track/1Yt3AAzEWJFgUvg7t9pNgm"
@@ -69028,6 +69190,24 @@
       "duration_ms": 264106,
       "name": "The Bad Thing",
       "url": "https://open.spotify.com/track/76xHWLF6ZTZn6h6ic88taR"
+    },
+    {
+      "album": {
+        "name": "The Basement / Spilt",
+        "url": "https://open.spotify.com/album/6LQR9ywQxcxq992e9h2mU5"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213643,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu"
     },
     {
       "album": {
@@ -73257,6 +73437,24 @@
     },
     {
       "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/0VL8TAjkk762506sV3DrqD"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/5lOpq5VJX1UrXYWLu59ONv"
+    },
+    {
+      "album": {
         "name": "Tough Luck (When You Don\u2019t Call)",
         "url": "https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk"
       },
@@ -74268,7 +74466,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173360,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2MJRMs7ZWRikUtQS3Hs009"
@@ -74890,6 +75088,24 @@
       "duration_ms": 135831,
       "name": "Uno II",
       "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
+    },
+    {
+      "album": {
+        "name": "Unreasonable Person",
+        "url": "https://open.spotify.com/album/2PiLPzXEFs6xq1LsbwsYlm"
+      },
+      "artists": [
+        {
+          "name": "Dazy",
+          "url": "https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Unreasonable Person",
+      "url": "https://open.spotify.com/track/1fJyI0joH2w6RgHTFGeqne"
     },
     {
       "album": {

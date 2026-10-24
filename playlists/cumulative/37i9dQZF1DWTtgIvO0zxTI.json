@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. ",
+  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Foto: La Cruz ",
   "name": "Flow Venezuela",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184586,
       "name": "2.0",
       "url": "https://open.spotify.com/track/6AjiGIH30jG3ho4BwOvHIg"
@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
+    },
+    {
+      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -392,7 +410,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 213000,
       "name": "Billetes de 100",
       "url": "https://open.spotify.com/track/3uxOuhjpRNrduuLfelV1Cr"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 158677,
       "name": "Cuchi",
       "url": "https://open.spotify.com/track/3z7Yz7cF5l5H0DJFj7vngz"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190344,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/0iH52C7k07HUibOHBsxRta"
@@ -1110,6 +1128,24 @@
       "duration_ms": 169411,
       "name": "Desenvidiao",
       "url": "https://open.spotify.com/track/3446RIZOsYjRw5Hj3W3Uul"
+    },
+    {
+      "album": {
+        "name": "desn\u00fadame x Medellin",
+        "url": "https://open.spotify.com/album/3O87bRydSOciQ9BqFZGUuT"
+      },
+      "artists": [
+        {
+          "name": "Dani Barranco",
+          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156176,
+      "name": "desn\u00fadame x Medellin",
+      "url": "https://open.spotify.com/track/40QRSZXAeuuIzZpg1jUFfh"
     },
     {
       "album": {
@@ -1457,6 +1493,62 @@
     },
     {
       "album": {
+        "name": "Gidi 2 Caracas (La M\u00fasica)",
+        "url": "https://open.spotify.com/album/2wXcuMCVdvsHaAje0TgNph"
+      },
+      "artists": [
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "Gidi 2 Caracas - La M\u00fasica",
+      "url": "https://open.spotify.com/track/3KDNjufpaTpwTiR9zAxDbY"
+    },
+    {
+      "album": {
+        "name": "G\u00d3ZALO, QUE TU MARIDO EST\u00c1 PRESO (RMX)",
+        "url": "https://open.spotify.com/album/0JVVZgd8CUQypp9JhyTJcP"
+      },
+      "artists": [
+        {
+          "name": "Zelcok Kp",
+          "url": "https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Kiddy Fount",
+          "url": "https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra"
+        },
+        {
+          "name": "J-Lit",
+          "url": "https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v"
+        },
+        {
+          "name": "Luis Malave",
+          "url": "https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "G\u00d3ZALO, QUE TU MARIDO EST\u00c1 PRESO - RMX",
+      "url": "https://open.spotify.com/track/0pOfjsuKWEDHqSjzgXzuhd"
+    },
+    {
+      "album": {
         "name": "Halls de Menta",
         "url": "https://open.spotify.com/album/0dUimFfYkFEWcgzsqc3Oaf"
       },
@@ -1476,7 +1568,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 230770,
       "name": "Halls de Menta",
       "url": "https://open.spotify.com/track/6irAgzFb8mbG8UlKITIMRA"
@@ -1574,6 +1666,28 @@
       "duration_ms": 144748,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/5PiobPEH4MzphZ1exSPW10"
+    },
+    {
+      "album": {
+        "name": "La Cruz",
+        "url": "https://open.spotify.com/album/1A2tcmVclWcTeaL9mLq4mT"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/7B8dyxwtaaj4poPORKstMM"
     },
     {
       "album": {
@@ -1753,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "La Cruz",
+        "url": "https://open.spotify.com/album/1A2tcmVclWcTeaL9mLq4mT"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164640,
+      "name": "La Plaga",
+      "url": "https://open.spotify.com/track/0znUFe2cmaYqH0A5jOhOPL"
+    },
+    {
+      "album": {
         "name": "Laguna",
         "url": "https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD"
       },
@@ -1764,7 +1900,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 211764,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0"
@@ -2228,7 +2364,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 213463,
       "name": "No Creo En Mujeres",
       "url": "https://open.spotify.com/track/1khZCgEjEDU5O3SvFXhvAw"
@@ -2250,7 +2386,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173960,
       "name": "No Es Normal (con Jay Wheeler)",
       "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
@@ -2434,7 +2570,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 135000,
       "name": "Only",
       "url": "https://open.spotify.com/track/7uMN0N0Wvq6kH9xJYQGZlG"
@@ -2599,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "La Cruz",
+        "url": "https://open.spotify.com/album/1A2tcmVclWcTeaL9mLq4mT"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173626,
+      "name": "Pedro Cash",
+      "url": "https://open.spotify.com/track/3YIBTnSiiroBbB3cEVLu4J"
+    },
+    {
+      "album": {
         "name": "Perro Mujeriego",
         "url": "https://open.spotify.com/album/6U4odtZ8h1Hdlku9bXNOe0"
       },
@@ -2674,6 +2832,28 @@
       "duration_ms": 268000,
       "name": "Prend\u00eda",
       "url": "https://open.spotify.com/track/3FkIUK4YmiPmuQeiI2JBdm"
+    },
+    {
+      "album": {
+        "name": "Problematikoh",
+        "url": "https://open.spotify.com/album/0PzOWsRyj1XSE6ttFsMxQ7"
+      },
+      "artists": [
+        {
+          "name": "Dani Barranco",
+          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Problematikoh",
+      "url": "https://open.spotify.com/track/301LYshJiRuZuqcIqUl4LB"
     },
     {
       "album": {
@@ -3054,7 +3234,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 146938,
       "name": "SAHARA",
       "url": "https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS"
@@ -3231,6 +3411,28 @@
     },
     {
       "album": {
+        "name": "Las Cosas Que Solo Se Hacen En La Noche",
+        "url": "https://open.spotify.com/album/4m13C4u0Xhkaqla5t9Mf3T"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208465,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5NxXxl58r1bRlyB32vxEJh"
+    },
+    {
+      "album": {
         "name": "Desp\u00eddeme De Todxs",
         "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
       },
@@ -3344,10 +3546,32 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173227,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/4lNqp5wlde1EtSO5q89vub"
+    },
+    {
+      "album": {
+        "name": "Todo Es Mental",
+        "url": "https://open.spotify.com/album/5DewEop6eRVdMBNkee9f0B"
+      },
+      "artists": [
+        {
+          "name": "Neomai",
+          "url": "https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz"
+        },
+        {
+          "name": "Laureano S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/4WJqqNKVi1tYJCHnyPejkU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232651,
+      "name": "Todo Es Mental",
+      "url": "https://open.spotify.com/track/0PvKAtpCZOyf53AxQzISEP"
     },
     {
       "album": {
@@ -3424,6 +3648,24 @@
       "duration_ms": 149667,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
+    },
+    {
+      "album": {
+        "name": "Un 20",
+        "url": "https://open.spotify.com/album/2SN3HjYZTIy7z9lGl6jXh3"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145142,
+      "name": "Un 20",
+      "url": "https://open.spotify.com/track/1QD1FpnOJRwXud3jJuSjcZ"
     },
     {
       "album": {
@@ -3526,7 +3768,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 204310,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp"

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "11:10 (La Solter\u00eda)",
+        "url": "https://open.spotify.com/album/2L9ZUyb4ekCqxDO7sRrb90"
+      },
+      "artists": [
+        {
+          "name": "Mc Car",
+          "url": "https://open.spotify.com/artist/1vVqFZ65U41UO7RTT4egvl"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224104,
+      "name": "11:10 (La Solter\u00eda)",
+      "url": "https://open.spotify.com/track/0admqRmTILLBjiPeuxHnAf"
+    },
+    {
+      "album": {
         "name": "6 AM",
         "url": "https://open.spotify.com/album/3RgFh0I834wmOuxM3IT0Sg"
       },
@@ -242,7 +260,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219677,
       "name": "Borracho Bailando Champeta",
       "url": "https://open.spotify.com/track/0YvLeotyvjHwoyDo7R7Fx9"
@@ -570,6 +588,32 @@
       "duration_ms": 217959,
       "name": "Dame Un Beso",
       "url": "https://open.spotify.com/track/6D8ayHlwlcKaaGLjGNLsr7"
+    },
+    {
+      "album": {
+        "name": "DATE DATE",
+        "url": "https://open.spotify.com/album/2Mn7Of8OWgAFfarQIIjNAQ"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "Killaboyz",
+          "url": "https://open.spotify.com/artist/3Afftoz4C8gN5kCpPFTC7k"
+        },
+        {
+          "name": "La Colectiva \u00c9lite",
+          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108243,
+      "name": "DATE DATE",
+      "url": "https://open.spotify.com/track/65Mag3nwHMRpChFQXxi3BD"
     },
     {
       "album": {
@@ -2638,7 +2682,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 159322,
       "name": "Toy Buena",
       "url": "https://open.spotify.com/track/5jqx3tceb1kA1veL5c4Df4"

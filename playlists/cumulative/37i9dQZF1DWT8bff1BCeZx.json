@@ -742,7 +742,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 168000,
       "name": "al is mr",
       "url": "https://open.spotify.com/track/2ZRq6qpi3cluaFHL61Y8b1"
@@ -7175,6 +7175,28 @@
     },
     {
       "album": {
+        "name": "Glory in the Highest",
+        "url": "https://open.spotify.com/album/0qClQx2FhcApLMHSHiYDOc"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        },
+        {
+          "name": "MOG MUSIC",
+          "url": "https://open.spotify.com/artist/17ACo7QahQIRPKlonJnOlc"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241099,
+      "name": "Glory in the Highest",
+      "url": "https://open.spotify.com/track/7BP5kZnojytuqBqkE2cPAC"
+    },
+    {
+      "album": {
         "name": "go back",
         "url": "https://open.spotify.com/album/7FLrjtMHZgWVS0gA1xGOEU"
       },
@@ -13536,6 +13558,24 @@
       "duration_ms": 320296,
       "name": "My All (Never Let A Day) - Live",
       "url": "https://open.spotify.com/track/3TxvBwGgYfADeARypgo51n"
+    },
+    {
+      "album": {
+        "name": "My Baba",
+        "url": "https://open.spotify.com/album/7kx3hrVc2BDcfRvWfInX2e"
+      },
+      "artists": [
+        {
+          "name": "Minister Rachel K",
+          "url": "https://open.spotify.com/artist/3e5JDlZMh9AHtEv5zee0bl"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262429,
+      "name": "My Baba",
+      "url": "https://open.spotify.com/track/2eEkTiXfAWfCm6hRBlFryw"
     },
     {
       "album": {
@@ -21610,7 +21650,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 174936,
       "name": "Victory",
       "url": "https://open.spotify.com/track/5pcpmt28hIjhHYA40yhCQP"

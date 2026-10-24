@@ -1,15 +1,31 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 544839,
+  "num_followers": 544986,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLtvk/e4hf5hvDFX9wYjGut6wIa",
+  "snapshot_id": "AAAAAF8JpgwtVImoxI81d4klGX5vIAw1",
   "tracks": [
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "This Time I'm Swingin'/Pretty Baby",
+        "url": "https://open.spotify.com/album/6GiiT8KIGNmVRdVM7uabcq"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/2BbC6eZK6RJE3hYuMGZELY"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
@@ -41,235 +73,27 @@
       "url": "https://open.spotify.com/track/7moJWeYfMTr7iWgSHvwF7Y"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "It Might as Well Be Spring",
+        "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         },
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Kyle Pogline",
+          "url": "https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Don't Get Around Much Anymore",
-      "url": "https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs"
+      "duration_ms": 292706,
+      "name": "It Might as Well Be Spring",
+      "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
-      },
-      "artists": [
-        {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Got You on My Mind",
-        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        },
-        {
-          "name": "William Galison",
-          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
-        }
-      ],
-      "duration_ms": 152531,
-      "name": "Back in Your Own Back Yard",
-      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Beyond the Sea",
-        "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 175865,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "The Electrifying Aretha Franklin (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 135791,
-      "name": "Ac-Cent-Tchu-Ate the Positive",
-      "url": "https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
-        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Oh! Look At Me Now",
-        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
@@ -297,7 +121,235 @@
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Got You on My Mind",
+        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        },
+        {
+          "name": "William Galison",
+          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
+        }
+      ],
+      "duration_ms": 152531,
+      "name": "Back in Your Own Back Yard",
+      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Beyond the Sea",
+        "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 175865,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "The Electrifying Aretha Franklin (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 135791,
+      "name": "Ac-Cent-Tchu-Ate the Positive",
+      "url": "https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Ella And Basie",
+        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 184933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
+        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Cheek To Cheek: The Complete Duet Recordings",
         "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
@@ -317,7 +369,7 @@
       "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
@@ -337,7 +389,7 @@
       "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
@@ -353,27 +405,7 @@
       "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "It Might as Well Be Spring",
-        "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Kyle Pogline",
-          "url": "https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH"
-        }
-      ],
-      "duration_ms": 292706,
-      "name": "It Might as Well Be Spring",
-      "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
@@ -389,23 +421,7 @@
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/7ib2yxCbRfAj33CW2IJHd9"
@@ -421,7 +437,23 @@
       "url": "https://open.spotify.com/track/6YC6lvvorgEvQol3o2v6JN"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Chris Connor",
         "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Oscar Peterson's Finest Hour",
         "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
@@ -457,23 +489,7 @@
       "url": "https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Desafinado",
         "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "You Stepped Out Of A Dream",
         "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
@@ -505,23 +521,7 @@
       "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Dippin'",
         "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
@@ -537,7 +537,23 @@
       "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "It's All Right!",
         "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Three Little Words",
         "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "My Kinda Swing",
         "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
@@ -601,23 +617,7 @@
       "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Light-Foot",
         "url": "https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR"
@@ -633,23 +633,23 @@
       "url": "https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "Desmond Blue",
-        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 279146,
-      "name": "I've Got You Under My Skin - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Lips Can Lie",
         "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Oscar Peterson Plays The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
@@ -681,23 +681,23 @@
       "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+        "name": "Desmond Blue",
+        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
       "artists": [
         {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+      "duration_ms": 279146,
+      "name": "I've Got You Under My Skin - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "You Go to My Head",
         "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
@@ -713,7 +713,23 @@
       "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "The Duke: The Columbia Years (1927-1962)",
         "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Didn\u2019t I Tell You So?",
         "url": "https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Paris In The Rain",
         "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "My Kinda Swing",
         "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Exclusively for My Friends: Girl Talk, Vol. II",
         "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Past Midnight",
         "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Dinah! (Expanded Edition)",
         "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "I Got Rhythm",
         "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
@@ -997,23 +1013,7 @@
       "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Pavanne",
-      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
@@ -1033,7 +1033,23 @@
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Pavanne",
+      "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
@@ -1049,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
@@ -1065,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "They Say It's Spring",
         "url": "https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
@@ -1097,59 +1113,7 @@
       "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "Harry James & Harry James' Orchestra",
-          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
-      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
-      },
-      "artists": [
-        {
-          "name": "Tyler Henderson",
-          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
-        }
-      ],
-      "duration_ms": 263444,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "How Love Begins (Extended Edition)",
         "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
@@ -1169,7 +1133,59 @@
       "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "Harry James & Harry James' Orchestra",
+          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
+      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Henderson",
+          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
+        }
+      ],
+      "duration_ms": 263444,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
         "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
@@ -1189,7 +1205,7 @@
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
@@ -1205,7 +1221,7 @@
       "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
@@ -1221,7 +1237,7 @@
       "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Thedia",
         "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
@@ -1237,23 +1253,7 @@
       "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "The Modern Sound Of Betty Carter",
         "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
@@ -1269,7 +1269,23 @@
       "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
@@ -1285,7 +1301,7 @@
       "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/0aGNp8GjnQQYnbbTHGwYMR"
@@ -1301,7 +1317,7 @@
       "url": "https://open.spotify.com/track/2fan0ngjXFnhBtnnltRB7K"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Why'd You Have To Go and Lie To Me Boy",
         "url": "https://open.spotify.com/album/2Dqtu0iBpv2YdpUam2awCq"
@@ -1325,7 +1341,7 @@
       "url": "https://open.spotify.com/track/1cYjSURe4iTZb6ndRFHOVr"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Dimples",
         "url": "https://open.spotify.com/album/5cC7x4dTPPH5jPluPfPvKA"
@@ -1341,7 +1357,7 @@
       "url": "https://open.spotify.com/track/0WvEPAbHsfTa3SSUXiRu3D"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Blue Trane",
         "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
@@ -1357,7 +1373,7 @@
       "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "The Architect",
         "url": "https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ"
@@ -1373,7 +1389,7 @@
       "url": "https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
@@ -1389,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Singin' a Melody",
         "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
@@ -1405,7 +1421,7 @@
       "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Delightfulee",
         "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
@@ -1421,7 +1437,7 @@
       "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Markham Sunrise",
         "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
@@ -1437,7 +1453,7 @@
       "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Love for Sale",
         "url": "https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe"
@@ -1453,7 +1469,7 @@
       "url": "https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Far Away Lands",
         "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
@@ -1469,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
@@ -1485,7 +1501,7 @@
       "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Skamento",
         "url": "https://open.spotify.com/album/71uoYHx7cGdN8XHAvElVg5"
@@ -1513,23 +1529,7 @@
       "url": "https://open.spotify.com/track/2oQNyvZn0oDSWn73zf7FJ7"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Loads of Love",
-        "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Loads of Love",
-      "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Easy come easy go (Edit)",
         "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
@@ -1545,7 +1545,23 @@
       "url": "https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Loads of Love",
+        "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Loads of Love",
+      "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
@@ -1573,7 +1589,7 @@
       "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
@@ -1589,7 +1605,7 @@
       "url": "https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Sextan Bucket",
         "url": "https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8"
@@ -1617,7 +1633,7 @@
       "url": "https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Blues Vaccine",
         "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
@@ -1633,7 +1649,7 @@
       "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
@@ -1649,7 +1665,7 @@
       "url": "https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Signed Crossings",
         "url": "https://open.spotify.com/album/1EH1b77BruwqBf3DZArNBw"
@@ -1673,7 +1689,7 @@
       "url": "https://open.spotify.com/track/57WQLAFyQs8ONDkD3PleLp"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
         "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
@@ -1689,7 +1705,7 @@
       "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Impressions of Evans",
         "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
@@ -1717,7 +1733,7 @@
       "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
     },
     {
-      "added_at": "2026-10-16 10:54:08",
+      "added_at": "2026-10-23 07:55:55",
       "album": {
         "name": "Surf Ride",
         "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
@@ -1731,22 +1747,6 @@
       "duration_ms": 191640,
       "name": "Holiday Flight",
       "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
-    },
-    {
-      "added_at": "2026-10-16 10:54:08",
-      "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
     }
   ],
   "unique_name": "Feel Good Jazz",

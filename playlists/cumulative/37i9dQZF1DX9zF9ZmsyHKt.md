@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-324 songs - 18 hr 44 min
+325 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [JBL](https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 2](https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY) | 3:13 | 2021-10-15 | 2024-10-23 |
 | [Juntando Os Cacos](https://open.spotify.com/track/2j9Ii2xPwOvyKko1RX31Fn) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Eu Também Sei Fazer](https://open.spotify.com/album/63DpknxYsCnfJY6iMFLbhe) | 3:38 | 2021-10-15 | 2022-07-28 |
 | [Jurema](https://open.spotify.com/track/5AH4URhuNZDXLYDW0ijh6L) | [Renata Rosa](https://open.spotify.com/artist/30qZQIUjlWSlqBK3F0xP2v) | [Encantações](https://open.spotify.com/album/5FYBBY4heFkCPii0s3oIXI) | 3:51 | 2021-10-15 | 2022-07-27 |
+| [Jurerê \(Volta pro Teu Dengo\)](https://open.spotify.com/track/3g3Ae1LiAPOjGDhh8oAd0o) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Cachaça e Paredão, Vol\. 1](https://open.spotify.com/album/6mB4QDkNr8JBKVMnFdElsT) | 2:31 | 2026-10-23 |  |
 | [Já Foi](https://open.spotify.com/track/4Ue3lmWQbJRl32Dj2H9ZwW) | [Janine Mathias](https://open.spotify.com/artist/0IVFb2BEbIsxxhtKw3Yyus) | [Dendê](https://open.spotify.com/album/2uj1zY8Y4pNcmeZZCGLIvr) | 3:03 | 2021-10-15 | 2022-07-29 |
 | [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 | 2025-04-18 |  |
 | [Linda e Preta](https://open.spotify.com/track/1FHJ6I6TMbc2d2Nxn0LYUS) | [Nara Couto](https://open.spotify.com/artist/0E8Tq0Ix04PzANZuqMcho5) | [Linda e Preta](https://open.spotify.com/album/2TgSMrMYT0hVoHngxPTJs0) | 2:58 | 2021-10-15 | 2022-07-29 |
@@ -198,7 +199,7 @@
 | [Ninguém Perguntou por Você](https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 5:21 | 2021-10-15 | 2024-10-23 |
 | [Nobre Vagabundo](https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:53 | 2021-10-15 | 2024-04-19 |
 | [Nobre Vagabundo](https://open.spotify.com/track/4tlqGrCS0PdlDPHyWPkgMR) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS) | 3:53 | 2021-10-15 | 2024-10-23 |
-| [Noite Fria](https://open.spotify.com/track/6YngOrALVp1l4GZ1FsJ1BD) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE), [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Noite Fria](https://open.spotify.com/album/0yt126mT5JDuWRtCRI3M3J) | 2:34 | 2026-09-11 |  |
+| [Noite Fria](https://open.spotify.com/track/6YngOrALVp1l4GZ1FsJ1BD) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE), [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Noite Fria](https://open.spotify.com/album/0yt126mT5JDuWRtCRI3M3J) | 2:34 | 2026-09-11 | 2026-10-24 |
 | [Nuvem de Lágrimas](https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Maxximum \- Fafá de Belém](https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr) | 4:10 | 2021-10-15 | 2024-10-23 |
 | [Nuvens no Jardim](https://open.spotify.com/track/5Q2khrcPlrhXKeGTSQbDsX) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B) | [Nuvens no Jardim](https://open.spotify.com/album/2DtMlfHx1Y8MKNIH6mzkKF) | 3:25 | 2021-10-15 | 2022-07-29 |
 | [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 | 2025-02-07 |  |

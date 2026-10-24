@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11485,
+  "num_followers": 11484,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADM8GYvsI6hYoRgFaBEtmq7",
+  "snapshot_id": "atgAgAAAAACHPa0CcMRlMP8DuCSMHHvp",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "REHMA",
-          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
         "url": "https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
       "url": "https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
     },
     {
       "added_at": null,

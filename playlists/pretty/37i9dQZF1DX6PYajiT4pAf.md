@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > La Pantera & Quevedo, Myke Towers, YOLAMASCARA, Natalia Lacunza y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,563 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,214 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 29 | [Al Mar](https://open.spotify.com/track/0N5ulTA0u8lnbixgasdA2e) | [Mr\. Kilombo](https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo) | [Al Mar](https://open.spotify.com/album/7mTLfOznCcUBzHVwEh40ML) | 3:29 |
 | 30 | [La Verdad](https://open.spotify.com/track/2tBWyqvCOm2YZTc4hMbBS7) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [La Verdad](https://open.spotify.com/album/2JNRgxUweLKWL5R0oIwnyz) | 4:12 |
 | 31 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 |
-| 32 | [Track 1](https://open.spotify.com/track/2BYau8xlbWeAI1bAxiagY3) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [ENSALITRADOS \(Una historia de TUTTO PASSA\)](https://open.spotify.com/album/4WzcmmpNPv0DjPKw4NeG9L) | 0:00 |
+| 32 | [CARNAVALEANDO](https://open.spotify.com/track/2BYau8xlbWeAI1bAxiagY3) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [ENSALITRADOS \(Una historia de TUTTO PASSA\)](https://open.spotify.com/album/4WzcmmpNPv0DjPKw4NeG9L) | 2:35 |
 | 33 | [Polimórfiko](https://open.spotify.com/track/3i0dT422FmRaKaK75C3cOI) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Polimórfiko](https://open.spotify.com/album/4TJ2Ky6OmeoMwAmNpqqTS9) | 2:05 |
 | 34 | [DIABLA DE OSAKA](https://open.spotify.com/track/0do7RG37y521ak6ceXTlL4) | [Gsus lz](https://open.spotify.com/artist/4qyzYqmGhKieYxQZmTX4xS) | [DIABLA DE OSAKA](https://open.spotify.com/album/0Tj7W7fABoqEn3P9ssgt0w) | 2:38 |
 | 35 | [DIFERENTE \- REMIX](https://open.spotify.com/track/1vOF7xbStHowfZOf6CwZqM) | [DAWIL](https://open.spotify.com/artist/0ssVkFA8ncbEh6xAPiNWVq), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Samuel SLZR](https://open.spotify.com/artist/5jxnZJCpTkZJSxyRzbVhGx), [El Krtl](https://open.spotify.com/artist/1GlDnTZULQ96YYba4bq8Wg) | [DIFERENTE \(REMIX\)](https://open.spotify.com/album/3bOtPucdFrShh3o6hQmXHX) | 3:56 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 41 | [Alto Voltaje](https://open.spotify.com/track/6wPP2kSysqfgb094R2LFU0) | [Sara Socas](https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d) | [Alto Voltaje](https://open.spotify.com/album/4VGGeRYqaN62xnHhD1eGHJ) | 2:28 |
 | 42 | [DEJAVÚ](https://open.spotify.com/track/6goshuwCN38kgfcIIbl0l1) | [Funzo](https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo), [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [PALAGIRA](https://open.spotify.com/album/6JDYSHKFT6iT0UF6Dric31) | 2:41 |
 | 43 | [Sin Miedo A Nada](https://open.spotify.com/track/2CSrQGKBaxxUIhGp4yFNue) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Sin Miedo A Nada](https://open.spotify.com/album/5N1KA4T3iiNuN46JOpBfOS) | 3:42 |
-| 44 | [Ninfita](https://open.spotify.com/track/02DNW1RyBquAXLwjHjQsKv) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [1001 Noches](https://open.spotify.com/album/1Wt15gwtqOvFMbwtXRkgpQ) | 3:23 |
+| 44 | [Ninfita](https://open.spotify.com/track/02DNW1RyBquAXLwjHjQsKv) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [1001 Noches](https://open.spotify.com/album/1Wt15gwtqOvFMbwtXRkgpQ) | 3:22 |
 | 45 | [Pablo185 & Recycled J I Selecta Motorseries \#14](https://open.spotify.com/track/0X1iLk5vLOxQvgEiMebVyq) | [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ), [Pablo185](https://open.spotify.com/artist/2LuOjDL0P1LZMoSYZpFhPZ), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Pablo185 & Recycled J I Selecta Motorseries \#14](https://open.spotify.com/album/240C2cEFHCMDY3O0o2R8bu) | 2:31 |
 | 46 | [Bala Perdida](https://open.spotify.com/track/5gZJnLX8nC3BYeetr4Mttw) | [Guille Toledano](https://open.spotify.com/artist/3e2lnsMUQvjNOUmh60siv7) | [El Toledano](https://open.spotify.com/album/0qJs61erwh3B1GYWxqOU1G) | 3:10 |
 | 47 | [10MINUTOS](https://open.spotify.com/track/0J5MGVtdmJTWuUcW780dtn) | [NANO Mz](https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn) | [10MINUTOS](https://open.spotify.com/album/1kY2HmYDus7GZ0bPUd0X5O) | 3:06 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 58 | [Animaliak Solte](https://open.spotify.com/track/3UQiiPUPYDqXEwY22bdZT5) | [Dupla](https://open.spotify.com/artist/5kcrF8TL0L4P4VuzDyRQuU) | [Animaliak Solte](https://open.spotify.com/album/5cX4zW5WFZnK7E9WSPxRbm) | 2:31 |
 | 59 | [PETER PAN](https://open.spotify.com/track/7v5oUMcH0ndekAvk5ddtxY) | [Fraderita](https://open.spotify.com/artist/1YaKke1PejI7S5TJSgqVcl) | [PETER PAN](https://open.spotify.com/album/1zwhqnHVteSaX2LAfrut3E) | 2:55 |
 | 60 | [13 COSITAS MÁS, CAGÓN](https://open.spotify.com/track/1lz8iZxbBSJGTa0a2QOTfk) | [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [SE LO CONTÉ A LAS NIÑAS](https://open.spotify.com/album/0FfwYuMhTichJncALlThQ5) | 2:48 |
-| 61 | [BADDIE](https://open.spotify.com/track/6b9jmzC9kpL3qFuqHN7qio) | [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524) | [BADDIE](https://open.spotify.com/album/5tfbQi7PtfNtFxjnKOOx9S) | 3:55 |
+| 61 | [BADDIE](https://open.spotify.com/track/6b9jmzC9kpL3qFuqHN7qio) | [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524), [Nikkito](https://open.spotify.com/artist/6YvkUS9lekLZSFexDUrOfx) | [BADDIE](https://open.spotify.com/album/5tfbQi7PtfNtFxjnKOOx9S) | 3:55 |
 | 62 | [mate banana](https://open.spotify.com/track/18JtneUeikfVpiWyOpHMYb) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [emmi](https://open.spotify.com/artist/4uKazpOzJICJZ1MU1wwLfC) | [mate banana](https://open.spotify.com/album/1VPvmJvhma3ZxcrBfxjm72) | 3:07 |
 | 63 | [Un 20](https://open.spotify.com/track/1QD1FpnOJRwXud3jJuSjcZ) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Un 20](https://open.spotify.com/album/2SN3HjYZTIy7z9lGl6jXh3) | 2:25 |
 | 64 | [Horas Bajas](https://open.spotify.com/track/1qdcKyFEPl0RWqwwbd91LC) | [Javi Chapela](https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk) | [Horas Bajas](https://open.spotify.com/album/7MC4AbG9wFdqeE8TBTasth) | 2:58 |

@@ -1,28 +1,28 @@
 {
-  "description": "Pop on the rise you should know, featuring Morat.",
-  "num_followers": 1861676,
+  "description": "Pop on the rise you should know, featuring Alleh.",
+  "num_followers": 1861441,
   "original_name": "Latin Pop Today",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGSlWCU+52c6MUT/sVb0ddhSIivi",
+  "snapshot_id": "AAAAAC9icB6kmL1I2qrpYcl2gAr4Zeg7",
   "tracks": [
     {
-      "added_at": "2026-10-09 04:02:26",
+      "added_at": "2026-10-16 16:00:27",
       "album": {
-        "name": "Me Mata",
-        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
         }
       ],
-      "duration_ms": 186611,
-      "name": "Me Mata",
-      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
+      "duration_ms": 170083,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
     },
     {
       "added_at": "2026-10-09 04:02:26",
@@ -67,6 +67,46 @@
     {
       "added_at": "2026-10-09 04:02:26",
       "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186611,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
+    },
+    {
+      "added_at": "2026-10-23 04:00:44",
+      "album": {
+        "name": "C\u00f3brame t\u00fa",
+        "url": "https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "C\u00f3brame t\u00fa",
+      "url": "https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V"
+    },
+    {
+      "added_at": "2026-10-09 04:02:26",
+      "album": {
         "name": "AGUA",
         "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
       },
@@ -101,6 +141,26 @@
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
+      "added_at": "2026-10-23 04:00:44",
+      "album": {
+        "name": "Las Cosas Que Solo Se Hacen En La Noche",
+        "url": "https://open.spotify.com/album/4m13C4u0Xhkaqla5t9Mf3T"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 138839,
+      "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq"
+    },
+    {
       "added_at": "2026-10-09 04:02:26",
       "album": {
         "name": "Para Cuando Sean Mayores",
@@ -121,20 +181,36 @@
       "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
     },
     {
-      "added_at": "2026-10-16 16:00:27",
+      "added_at": "2026-10-09 04:02:26",
       "album": {
-        "name": "uno+1",
-        "url": "https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e"
+        "name": "que seas t\u00fa -- & amor herido . . .",
+        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
         }
       ],
-      "duration_ms": 170083,
-      "name": "uno+1",
-      "url": "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs"
+      "duration_ms": 193125,
+      "name": "que seas t\u00fa --",
+      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
+    },
+    {
+      "added_at": "2026-10-23 04:00:44",
+      "album": {
+        "name": "mosca",
+        "url": "https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 197879,
+      "name": "\u00bfQu\u00e9 Tan Cerca Es Cerca?",
+      "url": "https://open.spotify.com/track/3koTH4PYS8Pd8arnOg9sCr"
     },
     {
       "added_at": "2026-10-09 04:02:26",
@@ -171,22 +247,6 @@
       "duration_ms": 142677,
       "name": "No es tu estilo",
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
-    },
-    {
-      "added_at": "2026-10-09 04:02:26",
-      "album": {
-        "name": "que seas t\u00fa -- & amor herido . . .",
-        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "que seas t\u00fa --",
-      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
     },
     {
       "added_at": "2026-10-09 04:02:26",
@@ -687,6 +747,22 @@
     {
       "added_at": "2026-10-09 04:02:26",
       "album": {
+        "name": "Corolla Del 96",
+        "url": "https://open.spotify.com/album/2IGmu7SaHgxydC2n7eHzFE"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Corolla Del 96",
+      "url": "https://open.spotify.com/track/1oO8aFnTnlLO85ryc0K6tx"
+    },
+    {
+      "added_at": "2026-10-09 04:02:26",
+      "album": {
         "name": "Para Cuando Sean Mayores",
         "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
       },
@@ -759,98 +835,6 @@
     {
       "added_at": "2026-10-09 04:02:26",
       "album": {
-        "name": "Te Caigo",
-        "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Te Caigo",
-      "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
-    },
-    {
-      "added_at": "2026-10-09 04:02:26",
-      "album": {
-        "name": "BONSAI",
-        "url": "https://open.spotify.com/album/3Iax81L8R4DIwP0EtkLNEi"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "BONSAI",
-      "url": "https://open.spotify.com/track/5UFIoYQw6P0qUVjz8zFele"
-    },
-    {
-      "added_at": "2026-10-09 04:02:26",
-      "album": {
-        "name": "LOS CISNES",
-        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
-      },
-      "artists": [
-        {
-          "name": "Melanie Santiler",
-          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
-        }
-      ],
-      "duration_ms": 177215,
-      "name": "CARI\u00d1O",
-      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
-    },
-    {
-      "added_at": "2026-10-09 04:02:26",
-      "album": {
-        "name": "ya no estoy",
-        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "ya no estoy",
-      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
-    },
-    {
-      "added_at": "2026-10-09 04:02:26",
-      "album": {
-        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-10-09 04:02:26",
-      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -887,22 +871,6 @@
     {
       "added_at": "2026-10-09 04:02:26",
       "album": {
-        "name": "Corolla Del 96",
-        "url": "https://open.spotify.com/album/2IGmu7SaHgxydC2n7eHzFE"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Corolla Del 96",
-      "url": "https://open.spotify.com/track/1oO8aFnTnlLO85ryc0K6tx"
-    },
-    {
-      "added_at": "2026-10-09 04:02:26",
-      "album": {
         "name": "Qui\u00e9n Contra M\u00ed (Live From Los \u00c1ngeles)",
         "url": "https://open.spotify.com/album/5tprz9NyjHKjJz8u2Pfg3n"
       },
@@ -915,6 +883,46 @@
       "duration_ms": 219104,
       "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB"
+    },
+    {
+      "added_at": "2026-10-09 04:02:26",
+      "album": {
+        "name": "BONSAI",
+        "url": "https://open.spotify.com/album/3Iax81L8R4DIwP0EtkLNEi"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "BONSAI",
+      "url": "https://open.spotify.com/track/5UFIoYQw6P0qUVjz8zFele"
+    },
+    {
+      "added_at": "2026-10-09 04:02:26",
+      "album": {
+        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
     }
   ],
   "unique_name": "Latin Pop Today",

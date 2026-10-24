@@ -4,7 +4,7 @@
 
 > tutte le migliori novità indie 🇮🇹 Francamente in cover
 
-2,129 songs - 4 day 15 hr 23 min
+2,129 songs - 4 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1403,6 +1403,7 @@
 | [Paradiso](https://open.spotify.com/track/1APwnXntnMEakvngEmepiL) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [Paradiso](https://open.spotify.com/album/2oU2zgrbm8TDGrpf1at9VV) | 3:13 | 2025-10-09 | 2025-10-31 |
 | [paradiso](https://open.spotify.com/track/0Mbu7beOY6V435dfnqSAHB) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [paradiso](https://open.spotify.com/album/6zyF02pm0tFZolZHy7LoT0) | 2:44 | 2025-11-27 | 2026-01-15 |
 | [paralia](https://open.spotify.com/track/1k4JEOy49ft3lM3uacYTXi) | [greatwaterpressure](https://open.spotify.com/artist/5VGPD348DI9SiKx9mPXkAj) | [paralia](https://open.spotify.com/album/6pEusz7eBJEM2HxCYkwIqF) | 2:51 | 2026-05-21 | 2026-06-19 |
+| [Parallelismi](https://open.spotify.com/track/4cmO0uVIYLxLZbbrBjg4aZ) | [Aldolà Chivalà](https://open.spotify.com/artist/6y2QGZK67fYnvUeDPR3ofx), [Golden Rain](https://open.spotify.com/artist/2JD4quzgZcSRB0CGCLfS6h) | [Aldo Livello](https://open.spotify.com/album/0YXky43houRscNeUR9IQBj) | 4:43 | 2026-10-22 |  |
 | [PARANOIA](https://open.spotify.com/track/60O9RVj2LGZuLQrFepZ9v4) | [GIOVAPIÙGIOVA](https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx) | [AMORE X3](https://open.spotify.com/album/2KH9ZGfmNFUP3NYcW1gvL7) | 2:56 | 2026-06-18 | 2026-07-17 |
 | [PARANOIA](https://open.spotify.com/track/1F79creq17hCEaFLADFPWy) | [Still Alice](https://open.spotify.com/artist/5p3O4QZMhOXyZw9QnmWv48), [laiv](https://open.spotify.com/artist/3xaDIExFRMerdcD3ebnHM0), [MEIS](https://open.spotify.com/artist/16YgI3Hb4LCEIGOgyoxqmx) | [PARANOIA](https://open.spotify.com/album/0ktAWRcEOUoY3heFyhniED) | 2:43 | 2025-05-29 | 2025-07-11 |
 | [Parigi](https://open.spotify.com/track/7k0wwLMbwALgmtWSZtxXGp) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Parigi](https://open.spotify.com/album/0Ndm7HT6g36utM2jFdjJS3) | 2:50 | 2025-11-27 | 2025-12-19 |
@@ -1932,7 +1933,6 @@
 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 | 2025-03-07 | 2025-05-09 |
 | [Tra le spine e i serpai](https://open.spotify.com/track/3hODiymuLEY1ghNuzHjpyQ) | [Nervi](https://open.spotify.com/artist/0chKXV04c85z3yZ5fjeXqm) | [Tra le spine e i serpai](https://open.spotify.com/album/45Vwg00UMNpVXsWZcL9wDu) | 3:11 | 2026-06-25 | 2026-09-11 |
 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 | 2025-11-06 | 2025-12-05 |
-| [Track 8](https://open.spotify.com/track/4cmO0uVIYLxLZbbrBjg4aZ) | [Aldolà Chivalà](https://open.spotify.com/artist/6y2QGZK67fYnvUeDPR3ofx) | [Aldo Livello](https://open.spotify.com/album/0YXky43houRscNeUR9IQBj) | 0:00 | 2026-10-22 |  |
 | [traffico](https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q) | [Nostalgia/Futuro](https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n) | [traffico](https://open.spotify.com/album/4DhmacndeoSITFKELZ5JG8) | 3:21 | 2026-01-15 | 2026-02-06 |
 | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/track/0OK7GFhrMmMVzHppXk3DSv) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/album/0GxhWR52oyRYwp9SgBcjhk) | 2:44 | 2025-10-30 | 2025-11-14 |
 | [Tranky Funky](https://open.spotify.com/track/71axDWBLrFzciRUC8yPyfL) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tranky Funky](https://open.spotify.com/album/1gzR5uvJuGujMKnyTGV3cl) | 2:49 | 2026-03-19 | 2026-04-17 |

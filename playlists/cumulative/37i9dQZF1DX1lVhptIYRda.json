@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Zach Bryan",
+  "description": "Today's top country hits. Cover: Kacey Musgraves",
   "name": "Hot Country",
   "tracks": [
     {
@@ -2269,6 +2269,28 @@
     },
     {
       "album": {
+        "name": "Born and Raised Hell (EDIT)",
+        "url": "https://open.spotify.com/album/4tKyCxdYRVWGQI2z18mKds"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198253,
+      "name": "Born and Raised Hell (Feat. Cody Johnson) - EDIT",
+      "url": "https://open.spotify.com/track/62HZVrw8exZifnARvHEpAt"
+    },
+    {
+      "album": {
         "name": "Born Here Live Here Die Here",
         "url": "https://open.spotify.com/album/7u1Tix9DQQ5he0AESSfGkp"
       },
@@ -3854,7 +3876,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 217446,
       "name": "Damned If I Do",
       "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
@@ -14397,6 +14419,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227399,
+      "name": "Say When",
+      "url": "https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg"
+    },
+    {
+      "album": {
         "name": "With Heaven On Top",
         "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
       },
@@ -14650,7 +14690,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184786,
       "name": "Shoot The Bull",
       "url": "https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF"
@@ -16576,7 +16616,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 193573,
       "name": "The Old Guys",
       "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
@@ -18054,6 +18094,24 @@
       "duration_ms": 230635,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r"
+    },
+    {
+      "album": {
+        "name": "Weekend In Texas",
+        "url": "https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "Weekend In Texas",
+      "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"
     },
     {
       "album": {

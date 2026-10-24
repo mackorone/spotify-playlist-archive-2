@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,403 songs - 5 day 4 hr 31 min
+2,403 songs - 5 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,7 @@
 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 | 2024-06-20 | 2024-08-30 |
 | [Fooled by September](https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Fooled by September](https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK) | 2:53 | 2023-10-05 | 2023-12-23 |
 | [For Myself](https://open.spotify.com/track/5ZoeL2XT9knQOUjhhwkoJJ) | [Gabi Goldman](https://open.spotify.com/artist/5QCwKKyeCdNCSIJSWQpLHJ) | [For Myself](https://open.spotify.com/album/3ObQAtlGdLUJa8hFafb60G) | 2:47 | 2024-05-16 | 2024-06-14 |
-| [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 | 2026-07-23 |  |
+| [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 | 2026-07-23 | 2026-10-24 |
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
 | [Forever Is Not That Long](https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Forever Is Not That Long](https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju) | 4:18 | 2025-02-06 | 2025-05-08 |
 | [Forever June](https://open.spotify.com/track/0dI91F5rGGIvG8ARfc9yJG) | [Jacqline](https://open.spotify.com/artist/5ZIzGM3sXUiF8EI6K18XQC) | [Forever June](https://open.spotify.com/album/7yY1t6U4nDXv5sG1LXnAol) | 2:52 | 2026-08-13 | 2026-09-29 |
@@ -1125,6 +1125,7 @@
 | [Jag är ett monster](https://open.spotify.com/track/4KKuTddr6nvuJN3pTp1xo3) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Jag är ett monster](https://open.spotify.com/album/6YFVAkI5hTe3on3puHWoi7) | 4:36 | 2024-05-02 | 2024-06-01 |
 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-10-26 | 2024-02-09 |
 | [Jaiye Forever](https://open.spotify.com/track/7KKIcF74uBEaNuchFS2X6v) | [C\-Joe](https://open.spotify.com/artist/2relalSIlRWsTuc6YMXG7l) | [Jaiye Forever](https://open.spotify.com/album/1VQQ0azt5BqaFbKHijmKl3) | 3:04 | 2024-05-23 | 2024-06-21 |
+| [JC](https://open.spotify.com/track/5s7vVkBzfweZJLbx7Pmfut) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Nya känslor](https://open.spotify.com/album/1UUcIqZKtfaUGRRITPm6xs) | 3:22 | 2026-10-22 |  |
 | [Jealous](https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Jealous](https://open.spotify.com/album/34mio8hxaosvK9PV8xt1Ko) | 2:43 | 2021-12-16 | 2022-03-11 |
 | [Jeansjacka](https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jeansjacka](https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu) | 3:51 | 2024-05-23 | 2024-06-21 |
 | [Jimmy](https://open.spotify.com/track/3WDuNbcCulXtDkaUInTe69) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Jimmy](https://open.spotify.com/album/2MkyoXVn3hX1D6pwulQgpl) | 3:25 | 2024-02-24 | 2024-04-12 |
@@ -1189,7 +1190,7 @@
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 | 2025-05-09 |
 | [känna det igen](https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [känna det igen](https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566) | 3:08 | 2025-05-29 | 2025-10-10 |
-| [Känna nåt](https://open.spotify.com/track/7s2lKvx3zLtS0Plkz3p2hD) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Känna nåt mer](https://open.spotify.com/album/6HQBJfcDiQal9JS1Pb74VA) | 2:28 | 2026-10-15 | 2026-10-23 |
+| [Känna nåt](https://open.spotify.com/track/7s2lKvx3zLtS0Plkz3p2hD) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Känna nåt mer](https://open.spotify.com/album/6HQBJfcDiQal9JS1Pb74VA) | 2:28 | 2026-10-15 |  |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [Känns som igår](https://open.spotify.com/track/1GWsPe0PZYRRlY8Awcejds) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känns som igår](https://open.spotify.com/album/08c1O8RIYYnazaS59PwhPD) | 2:53 | 2024-03-28 | 2024-05-03 |
 | [Känslodiplomaten](https://open.spotify.com/track/1000gg1gsEwmCMXrVbJnFt) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Känslodiplomaten](https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr) | 3:32 | 2023-10-19 | 2023-11-27 |
@@ -2128,7 +2129,6 @@
 | [Toulouse](https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Toulouse](https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc) | 3:00 | 2024-08-29 | 2024-10-06 |
 | [Toxic Som Mig](https://open.spotify.com/track/7mWsekctZ2EtxDIc29diPv) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Toxic Som Mig](https://open.spotify.com/album/5BDR0gDGqKPw2dECdSiCRX) | 2:31 | 2024-01-11 | 2024-03-15 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-04-03 | 2025-06-06 |
-| [Track 7](https://open.spotify.com/track/5s7vVkBzfweZJLbx7Pmfut) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Nya känslor](https://open.spotify.com/album/1UUcIqZKtfaUGRRITPm6xs) | 0:00 | 2026-10-22 |  |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 | 2024-01-19 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-06-27 |
 | [Trasiga Skor](https://open.spotify.com/track/2oui1x8hu3GY3FQDxFADbe) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Trasiga Skor](https://open.spotify.com/album/3DI1AW6MIBUL1pgDRAsBew) | 2:33 | 2024-05-09 | 2024-06-07 |

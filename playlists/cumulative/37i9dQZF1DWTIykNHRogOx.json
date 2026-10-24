@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "LA FOUDRE",
+        "url": "https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5"
+      },
+      "artists": [
+        {
+          "name": "Alo\u00efse Sauvage",
+          "url": "https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185746,
+      "name": "k.o. (sale atterrissage)",
+      "url": "https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib"
+    },
+    {
+      "album": {
         "name": "Kisbee",
         "url": "https://open.spotify.com/album/62m4yqqakepro5IsQz5QN5"
       },
@@ -6740,24 +6758,6 @@
       "duration_ms": 246968,
       "name": "Toute l'eau qui coule",
       "url": "https://open.spotify.com/track/7sI0sOYbt9POeWwalKfMdz"
-    },
-    {
-      "album": {
-        "name": "LA FOUDRE",
-        "url": "https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5"
-      },
-      "artists": [
-        {
-          "name": "Alo\u00efse Sauvage",
-          "url": "https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ"
-        }
-      ],
-      "date_added": "2026-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > Cosas que pasan en Juárez que pueden entrar en tus oídos, quedarse en tu mente y hacerte feliz
 
-[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 50 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 808 likes - 50 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

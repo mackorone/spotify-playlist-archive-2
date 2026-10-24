@@ -1,12 +1,12 @@
 {
   "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: ARIA VEGA\n",
-  "num_followers": 955184,
+  "num_followers": 955137,
   "original_name": "Made in Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMw04gFjwcwy+33ESd9lSXNYWCJU",
+  "snapshot_id": "AAAAAMtt84LabjbkRXq0mR0Lipj7/lyg",
   "tracks": [
     {
       "added_at": "2026-10-16 04:59:31",
@@ -109,6 +109,30 @@
       "url": "https://open.spotify.com/track/4lz3N9CKsrJEvNHA5irhEJ"
     },
     {
+      "added_at": "2026-10-23 04:59:30",
+      "album": {
+        "name": "C\u00f3brame t\u00fa",
+        "url": "https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "C\u00f3brame t\u00fa",
+      "url": "https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V"
+    },
+    {
       "added_at": "2026-10-16 04:59:31",
       "album": {
         "name": "Seg\u00fan Qui\u00e9n",
@@ -205,6 +229,26 @@
       "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
     },
     {
+      "added_at": "2026-10-23 04:59:30",
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/39lco9qqscXeogniQu2Hsu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "duration_ms": 159073,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1f0qGRxYOXlNR3vXxiqGKd"
+    },
+    {
       "added_at": "2026-10-16 04:59:31",
       "album": {
         "name": "Que Tin y Que Tan",
@@ -279,6 +323,22 @@
       "duration_ms": 248684,
       "name": "Aqu\u00ed Seguir\u00e9",
       "url": "https://open.spotify.com/track/5WD8Qs7IRj4gxXdeU0jpkR"
+    },
+    {
+      "added_at": "2026-10-23 04:59:30",
+      "album": {
+        "name": "Encontr\u00e9 mi Coleador",
+        "url": "https://open.spotify.com/album/3JSJyA2NebmFPztdAd14y7"
+      },
+      "artists": [
+        {
+          "name": "Milena Benites",
+          "url": "https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Encontr\u00e9 mi Coleador",
+      "url": "https://open.spotify.com/track/3A90HX3EFy6Qc2rs8ewwt7"
     },
     {
       "added_at": "2026-10-16 04:59:31",
@@ -603,30 +663,6 @@
     {
       "added_at": "2026-10-16 04:59:31",
       "album": {
-        "name": "GALACTICOS",
-        "url": "https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU"
-      },
-      "artists": [
-        {
-          "name": "Bigg Danny",
-          "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
-        },
-        {
-          "name": "El Americano 4KT",
-          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
-        },
-        {
-          "name": "El Goldo",
-          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "GALACTICOS",
-      "url": "https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E"
-    },
-    {
-      "added_at": "2026-10-16 04:59:31",
-      "album": {
         "name": "M\u00e1s Que Palabras",
         "url": "https://open.spotify.com/album/0LUFuSfEP0eKUSu8mEj7Wf"
       },
@@ -715,26 +751,6 @@
       "duration_ms": 218755,
       "name": "La Mar\u00eda",
       "url": "https://open.spotify.com/track/2dbbYIXYJQzJoUoOl6i0LY"
-    },
-    {
-      "added_at": "2026-10-16 04:59:31",
-      "album": {
-        "name": "Ware",
-        "url": "https://open.spotify.com/album/1DOhItN9LTo2LRFlD3xj07"
-      },
-      "artists": [
-        {
-          "name": "Skinny TLW",
-          "url": "https://open.spotify.com/artist/3ArCxywf9nzWOeQ24a6iSj"
-        },
-        {
-          "name": "Mr Jastin",
-          "url": "https://open.spotify.com/artist/27WpZLTLfGwueF05GccNw6"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Ware",
-      "url": "https://open.spotify.com/track/0NzSvGk8z27koEiDX9Iyg7"
     },
     {
       "added_at": "2026-10-16 04:59:31",
@@ -887,22 +903,6 @@
       "duration_ms": 155265,
       "name": "SANKA",
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
-    },
-    {
-      "added_at": "2026-10-16 04:59:31",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
       "added_at": "2026-10-16 04:59:31",

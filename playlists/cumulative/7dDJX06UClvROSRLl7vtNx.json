@@ -26371,6 +26371,32 @@
     },
     {
       "album": {
+        "name": "So Tenderly",
+        "url": "https://open.spotify.com/album/5UoUmI1byGm7blukPU9OMQ"
+      },
+      "artists": [
+        {
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        },
+        {
+          "name": "Fex",
+          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "So Tenderly",
+      "url": "https://open.spotify.com/track/01E3n7iQD6nY8Mw3YqEnVc"
+    },
+    {
+      "album": {
         "name": "Soak Up The Sun",
         "url": "https://open.spotify.com/album/2x05LFjjMIgWbeUj8Iy4r8"
       },

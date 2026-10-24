@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats for a restful night's sleep.",
-  "num_followers": 606332,
+  "num_followers": 608424,
   "original_name": "lofi sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADGJmeXiQjpz9ifb7AuEMMjJnvft",
+  "snapshot_id": "AAAAANmRP+S36Dt+gl3yXMKUcnsGdgCz",
   "tracks": [
     {
       "added_at": "2026-09-18 13:42:07",
@@ -23,6 +23,22 @@
       "duration_ms": 141762,
       "name": "Stars Far Away",
       "url": "https://open.spotify.com/track/0D3RfZSoK7Va7xfJ1HSqzM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:26",
+      "album": {
+        "name": "A Quiet Conversation",
+        "url": "https://open.spotify.com/album/4deLyXRAxGKY1hhIymSXKA"
+      },
+      "artists": [
+        {
+          "name": "Mellow Melt",
+          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "A Quiet Conversation",
+      "url": "https://open.spotify.com/track/64L5JJcstJbIecCqDtqEiI"
     },
     {
       "added_at": "2026-09-18 13:42:07",
@@ -149,6 +165,38 @@
       "url": "https://open.spotify.com/track/4pnNTshnFIzoRzjkt6nV71"
     },
     {
+      "added_at": "2026-10-23 04:00:26",
+      "album": {
+        "name": "Time Heals",
+        "url": "https://open.spotify.com/album/2oZsRmxwfgHrgS4HWfHYhT"
+      },
+      "artists": [
+        {
+          "name": "softwaves",
+          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Time Heals",
+      "url": "https://open.spotify.com/track/6Ko97Ml7LNjmvev8i1uaQ5"
+    },
+    {
+      "added_at": "2026-10-23 04:00:26",
+      "album": {
+        "name": "an evening together",
+        "url": "https://open.spotify.com/album/4YJnNfo2udzTNUzTBraHc6"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "duration_ms": 156025,
+      "name": "an evening together",
+      "url": "https://open.spotify.com/track/5YuoXYjRhm3aZYr6MevV7l"
+    },
+    {
       "added_at": "2026-09-18 13:42:07",
       "album": {
         "name": "so what.",
@@ -239,38 +287,6 @@
     {
       "added_at": "2026-09-18 13:42:07",
       "album": {
-        "name": "Eternal City",
-        "url": "https://open.spotify.com/album/4MOigin3f2BsQjkaEIUQbU"
-      },
-      "artists": [
-        {
-          "name": "mxgnetic.",
-          "url": "https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "Eternal City",
-      "url": "https://open.spotify.com/track/0L9iGPU1FPtQxslxUoHX6d"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
-        "name": "quiet stories",
-        "url": "https://open.spotify.com/album/46WWGYOqQmznEgil5VjOlh"
-      },
-      "artists": [
-        {
-          "name": "cosmo cat",
-          "url": "https://open.spotify.com/artist/1noZJDxgC7jVP1t4Vgowms"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "quiet stories",
-      "url": "https://open.spotify.com/track/53SIQUu8UytBBUGso9m1RB"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
         "name": "Summersleep",
         "url": "https://open.spotify.com/album/6ho1hTisiLzmyL2JwQG80T"
       },
@@ -351,38 +367,6 @@
       "duration_ms": 116666,
       "name": "end of time",
       "url": "https://open.spotify.com/track/4WQl6cI7wdBdJWpP21bKiI"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
-        "name": "In Between Us",
-        "url": "https://open.spotify.com/album/5iwNNDQZcDNXfwJX0SmJTR"
-      },
-      "artists": [
-        {
-          "name": "Paler Blue",
-          "url": "https://open.spotify.com/artist/6MUuwk8degW5jb94Aa2ziL"
-        }
-      ],
-      "duration_ms": 104769,
-      "name": "In Between Us",
-      "url": "https://open.spotify.com/track/5hbE8VJhcR0dhH1FRUlkB3"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
-        "name": "Haven",
-        "url": "https://open.spotify.com/album/2VIQXmVUrF2wXJmV0bCkpy"
-      },
-      "artists": [
-        {
-          "name": "softwaves",
-          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Haven",
-      "url": "https://open.spotify.com/track/5cI6TsNHBjH4l0rYJ9XHPh"
     },
     {
       "added_at": "2026-09-18 13:42:07",
@@ -495,6 +479,54 @@
     {
       "added_at": "2026-09-18 13:42:07",
       "album": {
+        "name": "Eternal City",
+        "url": "https://open.spotify.com/album/4MOigin3f2BsQjkaEIUQbU"
+      },
+      "artists": [
+        {
+          "name": "mxgnetic.",
+          "url": "https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "Eternal City",
+      "url": "https://open.spotify.com/track/0L9iGPU1FPtQxslxUoHX6d"
+    },
+    {
+      "added_at": "2026-09-18 13:42:07",
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2VIQXmVUrF2wXJmV0bCkpy"
+      },
+      "artists": [
+        {
+          "name": "softwaves",
+          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/5cI6TsNHBjH4l0rYJ9XHPh"
+    },
+    {
+      "added_at": "2026-09-18 13:42:07",
+      "album": {
+        "name": "In Between Us",
+        "url": "https://open.spotify.com/album/5iwNNDQZcDNXfwJX0SmJTR"
+      },
+      "artists": [
+        {
+          "name": "Paler Blue",
+          "url": "https://open.spotify.com/artist/6MUuwk8degW5jb94Aa2ziL"
+        }
+      ],
+      "duration_ms": 104769,
+      "name": "In Between Us",
+      "url": "https://open.spotify.com/track/5hbE8VJhcR0dhH1FRUlkB3"
+    },
+    {
+      "added_at": "2026-09-18 13:42:07",
+      "album": {
         "name": "somewhere else",
         "url": "https://open.spotify.com/album/0kWIxQhtINfadDbFj4QeWN"
       },
@@ -603,26 +635,6 @@
       "duration_ms": 99000,
       "name": "Composure",
       "url": "https://open.spotify.com/track/4omm3r30yPuFRfovpiVMFd"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
-        "name": "Pale Moon",
-        "url": "https://open.spotify.com/album/6IyH2FJe1EtghrhR7qiujI"
-      },
-      "artists": [
-        {
-          "name": "softwaves",
-          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
-        },
-        {
-          "name": "Late Night Tones",
-          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Pale Moon",
-      "url": "https://open.spotify.com/track/09PfwP9y4Elt4YXL9r6xSu"
     },
     {
       "added_at": "2026-09-18 13:42:07",
@@ -783,6 +795,26 @@
       "duration_ms": 135483,
       "name": "Violet",
       "url": "https://open.spotify.com/track/7iwPLTNGojHF4tFeGeZGFq"
+    },
+    {
+      "added_at": "2026-09-18 13:42:07",
+      "album": {
+        "name": "Pale Moon",
+        "url": "https://open.spotify.com/album/6IyH2FJe1EtghrhR7qiujI"
+      },
+      "artists": [
+        {
+          "name": "softwaves",
+          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
+        },
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Pale Moon",
+      "url": "https://open.spotify.com/track/09PfwP9y4Elt4YXL9r6xSu"
     },
     {
       "added_at": "2026-09-18 13:42:07",
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2026-09-18 13:42:07",
       "album": {
-        "name": "those little moments",
-        "url": "https://open.spotify.com/album/34DIU7Iz6v5bPTPF693GHN"
-      },
-      "artists": [
-        {
-          "name": "slowburn",
-          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
-        }
-      ],
-      "duration_ms": 113930,
-      "name": "those little moments",
-      "url": "https://open.spotify.com/track/6qasdnOEXladTtUrH9PhsS"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
         "name": "any place is better",
         "url": "https://open.spotify.com/album/0KDFnMSxRMDi3zC2eewqYT"
       },
@@ -1719,26 +1735,6 @@
     {
       "added_at": "2026-09-18 13:42:07",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/3l7FLPiCBmBaJYEcuPMwgn"
-      },
-      "artists": [
-        {
-          "name": "Prithvi",
-          "url": "https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU"
-        },
-        {
-          "name": "sftspkn",
-          "url": "https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0FzMJnAshFfOlhp1dqMHV8"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
         "name": "off",
         "url": "https://open.spotify.com/album/6cwdBY5sbsCVYuvO3yvXip"
       },
@@ -1911,6 +1907,26 @@
       "duration_ms": 121000,
       "name": "sonic massage",
       "url": "https://open.spotify.com/track/2TJC0fB6aBTyVc0K2QGTFL"
+    },
+    {
+      "added_at": "2026-09-18 13:42:07",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3l7FLPiCBmBaJYEcuPMwgn"
+      },
+      "artists": [
+        {
+          "name": "Prithvi",
+          "url": "https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU"
+        },
+        {
+          "name": "sftspkn",
+          "url": "https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0FzMJnAshFfOlhp1dqMHV8"
     },
     {
       "added_at": "2026-09-18 13:42:07",
@@ -2451,22 +2467,6 @@
     {
       "added_at": "2026-09-18 13:42:07",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/3SkM8Js7RlNlHtaeJonddp"
-      },
-      "artists": [
-        {
-          "name": "softwaves",
-          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/4J8gyKdzDhmBFVYyQm9J1h"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/36U3xFcObfIZcpo6AhLbSw"
       },
@@ -2615,22 +2615,6 @@
       "duration_ms": 125000,
       "name": "Laying Down",
       "url": "https://open.spotify.com/track/6gsNjOs6ory73RZk23ATti"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/6a1WPFoFlo0h8F03Sbzpfd"
-      },
-      "artists": [
-        {
-          "name": "Mellow Melt",
-          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Night Lights",
-      "url": "https://open.spotify.com/track/46ulvlB9z8U6UdMQ7WrBYs"
     },
     {
       "added_at": "2026-09-18 13:42:07",
@@ -2855,22 +2839,6 @@
       "duration_ms": 128046,
       "name": "Tension In The Stars",
       "url": "https://open.spotify.com/track/02v6hr1iytOcwlE4QiT0oN"
-    },
-    {
-      "added_at": "2026-09-18 13:42:07",
-      "album": {
-        "name": "Wunderkind",
-        "url": "https://open.spotify.com/album/3ngXpICokhkA4wmJXAdqZ7"
-      },
-      "artists": [
-        {
-          "name": "Harvest Emotions",
-          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Wunderkind",
-      "url": "https://open.spotify.com/track/2JiKSNdbGmiRSeHgglHkTq"
     },
     {
       "added_at": "2026-09-18 13:42:07",

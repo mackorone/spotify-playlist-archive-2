@@ -4,7 +4,7 @@
 
 > crisp air & fall foliage 🍂
 
-137 songs - 8 hr 35 min
+138 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [I Can See](https://open.spotify.com/track/1adWjZU3hbIjzG1Ir58LuX) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 5:44 | 2026-10-19 |  |
 | [I Keep Changing](https://open.spotify.com/track/01nbZnTz6leaP0wPFTxWsn) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [No Glory](https://open.spotify.com/album/78RUUDGvddkndnrYevXAAo) | 2:57 | 2025-06-27 |  |
 | [I See Myself](https://open.spotify.com/track/1rqGuE3jvcvacQk96lfnl6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:00 | 2025-06-27 |  |
-| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2025-06-27 |  |
+| [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2025-06-27 | 2026-10-24 |
 | [I Was Wrong](https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4) | 3:30 | 2026-06-05 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/54QckpslekyZCIEanFk787) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 2:24 | 2025-06-27 |  |
 | [I'm Not Bothered By The Rain](https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti) | [Eric McEntee](https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz) | [I'm Not Bothered By The Rain](https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO) | 3:45 | 2026-01-01 |  |
@@ -96,7 +96,7 @@
 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 | 2026-09-18 |  |
 | [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 | 2025-07-18 |  |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2025-06-27 | 2026-09-11 |
-| [Peace of Mind](https://open.spotify.com/track/5R5W17mKIjtLw5ubZwjFuA) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:04 | 2025-06-27 |  |
+| [Peace of Mind](https://open.spotify.com/track/5R5W17mKIjtLw5ubZwjFuA) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:04 | 2025-06-27 | 2026-10-24 |
 | [Pictures of Flowers](https://open.spotify.com/track/65MR2EZRBN0cwPVj3dS07E) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/0TTguje6lH4Ezfp39wByb0) | 4:20 | 2025-06-27 |  |
 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 | 2025-06-27 |  |
 | [Pluto's Lament](https://open.spotify.com/track/58BAK2xCNBY2Q8xnCzp69E) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 2:45 | 2025-06-27 | 2026-09-11 |
@@ -107,7 +107,7 @@
 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2025-06-27 |  |
 | [rome](https://open.spotify.com/track/771HqvspPa0yUzG7uod7mn) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [YOUNG REGAN](https://open.spotify.com/album/7odkdCGZcEFevFilZZIjn9) | 2:48 | 2026-09-18 |  |
 | [Run Away](https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI) | 3:39 | 2026-09-18 |  |
-| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-06-27 |  |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-06-27 | 2026-10-24 |
 | [Sammy G's](https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899) | [Sideways](https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r) | 3:20 | 2026-09-10 |  |
 | [Satellite](https://open.spotify.com/track/06guidgPnPfyA4VJaELthY) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/7CungZ9S54si6eKBOqhnF6) | 2:54 | 2025-06-27 |  |
 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 | 2026-09-18 |  |
@@ -133,6 +133,7 @@
 | [Trouble](https://open.spotify.com/track/56nsBD9bmnuW7V5wHlyVCx) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 5:00 | 2025-06-27 | 2026-09-11 |
 | [True Feeling](https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [True Feeling](https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w) | 4:25 | 2026-09-10 |  |
 | [unlearning everything](https://open.spotify.com/track/5pHidSst7qUjGbrahWaGzA) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [life & death etc](https://open.spotify.com/album/5pH13IhD7mHxVcaMyqcbaz) | 3:57 | 2026-09-18 |  |
+| [Up and Down a Mountain](https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [True Violet](https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5) | 3:49 | 2026-10-23 |  |
 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 | 2025-06-27 |  |
 | [Valley](https://open.spotify.com/track/6QNqIj7AZCjqVgpvEzhupG) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 3:09 | 2025-06-27 | 2025-07-08 |
 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 | 2025-07-07 |  |
@@ -141,7 +142,7 @@
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2025-06-27 |  |
 | [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 | 2025-06-27 |  |
 | [Wild World](https://open.spotify.com/track/3L7pNo1cJAZ4xJ2lHBocvi) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [I’m afraid to be in love with someone who crashes their car that much](https://open.spotify.com/album/7x55HpFEMlUn7tN4YJJyTA) | 4:01 | 2025-06-27 |  |
-| [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 | 2025-06-27 |  |
+| [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 | 2025-06-27 | 2026-10-24 |
 | [winner](https://open.spotify.com/track/1Vy109Rc1RuDrKxcVSAY1d) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [winner \(deluxe edition\)](https://open.spotify.com/album/3Gv0nXcKGHYSjywqQMdyKV) | 2:48 | 2026-09-10 |  |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-06-27 | 2026-09-11 |
 | [Young](https://open.spotify.com/track/3OP8UeYimRl9HCNxMg7Ihl) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/58Zq3iYZFzaW4sm5Z8iwyt) | 3:09 | 2025-06-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the real beauty of Instrumentals!",
-  "num_followers": 57953,
+  "num_followers": 57962,
   "original_name": "Indie Instrumental",
   "owner": {
     "name": "Spotify",
@@ -357,6 +357,22 @@
       "url": "https://open.spotify.com/track/6HNNqCMbrENJxDvUGsow3D"
     },
     {
+      "added_at": "2026-09-24 14:51:45",
+      "album": {
+        "name": "Whirlwind Kadhal",
+        "url": "https://open.spotify.com/album/4HKzxd6lWsr9J5A2VZPbHF"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "duration_ms": 103199,
+      "name": "Whirlwind Kadhal",
+      "url": "https://open.spotify.com/track/5kD7Nn9y3cDGgo0dNGMtln"
+    },
+    {
       "added_at": "2026-02-10 09:33:25",
       "album": {
         "name": "Across The Ocean",
@@ -395,22 +411,6 @@
       "duration_ms": 313888,
       "name": "Across The Ocean",
       "url": "https://open.spotify.com/track/5R1cHabaCTU0atNY249IxR"
-    },
-    {
-      "added_at": "2026-09-24 14:51:45",
-      "album": {
-        "name": "Whirlwind Kadhal",
-        "url": "https://open.spotify.com/album/4HKzxd6lWsr9J5A2VZPbHF"
-      },
-      "artists": [
-        {
-          "name": "Saurav Srisan",
-          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
-        }
-      ],
-      "duration_ms": 103199,
-      "name": "Whirlwind Kadhal",
-      "url": "https://open.spotify.com/track/5kD7Nn9y3cDGgo0dNGMtln"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 743595,
-      "name": "Shuddh Sarang",
-      "url": "https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "Gandhi - Mantras Of Compassion",
         "url": "https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Of Agency and Abstraction",
-        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
       },
       "artists": [
         {
-          "name": "Rajna Swaminathan",
-          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
         },
         {
-          "name": "Anjna Swaminathan",
-          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 249063,
-      "name": "Peregrination (feat. Anjna Swaminathan)",
-      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
+      "duration_ms": 743595,
+      "name": "Shuddh Sarang",
+      "url": "https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -791,6 +771,26 @@
       "duration_ms": 350930,
       "name": "Transition",
       "url": "https://open.spotify.com/track/5q2fh6DMLlFQYjjLBCC4I4"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Of Agency and Abstraction",
+        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
+      },
+      "artists": [
+        {
+          "name": "Rajna Swaminathan",
+          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
+        },
+        {
+          "name": "Anjna Swaminathan",
+          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
+        }
+      ],
+      "duration_ms": 249063,
+      "name": "Peregrination (feat. Anjna Swaminathan)",
+      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Opening Act",
-        "url": "https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0"
-      },
-      "artists": [
-        {
-          "name": "Rhythm Shaw",
-          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "All I Was Thinking Of",
-      "url": "https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "The Emerging",
         "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 547186,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6yPIsdN9uXp0uRCWxTvq1c"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Naked on a Train",
+        "url": "https://open.spotify.com/album/1Nd6oKZfCjqr2RzLfCRB6i"
+      },
+      "artists": [
+        {
+          "name": "Vinay Kaushal",
+          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
+        }
+      ],
+      "duration_ms": 224455,
+      "name": "A Tune for Peace - an Interlude",
+      "url": "https://open.spotify.com/track/1IsJo7jMClxOoNCpfQuiBs"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Naked on a Train",
-        "url": "https://open.spotify.com/album/1Nd6oKZfCjqr2RzLfCRB6i"
+        "name": "Opening Act",
+        "url": "https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0"
       },
       "artists": [
         {
-          "name": "Vinay Kaushal",
-          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
+          "name": "Rhythm Shaw",
+          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
         }
       ],
-      "duration_ms": 224455,
-      "name": "A Tune for Peace - an Interlude",
-      "url": "https://open.spotify.com/track/1IsJo7jMClxOoNCpfQuiBs"
+      "duration_ms": 238626,
+      "name": "All I Was Thinking Of",
+      "url": "https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Live at Gray Spark Audio",
-        "url": "https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g"
-      },
-      "artists": [
-        {
-          "name": "Bharath Kashyap",
-          "url": "https://open.spotify.com/artist/64gIAKUTHEFa94DBnvFdXR"
-        }
-      ],
-      "duration_ms": 300132,
-      "name": "A Mother's Lullaby - Live",
-      "url": "https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "Wavelengths",
         "url": "https://open.spotify.com/album/3XnJNeNVQLSgr8f5JCYJ05"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 461310,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Live at Gray Spark Audio",
+        "url": "https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g"
+      },
+      "artists": [
+        {
+          "name": "Bharath Kashyap",
+          "url": "https://open.spotify.com/artist/64gIAKUTHEFa94DBnvFdXR"
+        }
+      ],
+      "duration_ms": 300132,
+      "name": "A Mother's Lullaby - Live",
+      "url": "https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/7odi5CDkg2KJ0a76povCuj"
     },
     {
+      "added_at": "2026-10-12 05:22:06",
+      "album": {
+        "name": "Grooveena",
+        "url": "https://open.spotify.com/album/3VIklQi7hvdCq3PLObLBoe"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Grooveena",
+      "url": "https://open.spotify.com/track/2ACOee4Cp7dh2P1K5xjDj9"
+    },
+    {
       "added_at": "2026-02-10 09:33:25",
       "album": {
         "name": "Leela",
@@ -1079,6 +1095,22 @@
       "duration_ms": 230314,
       "name": "When Mountains Meet The Sky",
       "url": "https://open.spotify.com/track/4UgmT9HJw8RTjYaEmgXkpK"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Across the River",
+        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
+      },
+      "artists": [
+        {
+          "name": "Eashwar Subramanian",
+          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Offering at Dawn",
+      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1099,38 +1131,6 @@
       "duration_ms": 185685,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Across the River",
-        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
-      },
-      "artists": [
-        {
-          "name": "Eashwar Subramanian",
-          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Offering at Dawn",
-      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
-    },
-    {
-      "added_at": "2026-10-12 05:22:06",
-      "album": {
-        "name": "Grooveena",
-        "url": "https://open.spotify.com/album/3VIklQi7hvdCq3PLObLBoe"
-      },
-      "artists": [
-        {
-          "name": "Rajhesh Vaidhya",
-          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Grooveena",
-      "url": "https://open.spotify.com/track/2ACOee4Cp7dh2P1K5xjDj9"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
-      },
-      "artists": [
-        {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
-        }
-      ],
-      "duration_ms": 215722,
-      "name": "Mind In Wonderland",
-      "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "The Emerging",
         "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
+      },
+      "artists": [
+        {
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+        }
+      ],
+      "duration_ms": 215722,
+      "name": "Mind In Wonderland",
+      "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "The Violin Player (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 347379,
       "name": "The Last Cadenza",
       "url": "https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Electric Ganesha Land",
+        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
+      },
+      "artists": [
+        {
+          "name": "Prasanna",
+          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Indra's Necklace",
+      "url": "https://open.spotify.com/track/6D1PgbnMCFNQcAVAr0wqE8"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1235,22 +1251,6 @@
       "duration_ms": 268125,
       "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
       "url": "https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Electric Ganesha Land",
-        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
-      },
-      "artists": [
-        {
-          "name": "Prasanna",
-          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Indra's Necklace",
-      "url": "https://open.spotify.com/track/6D1PgbnMCFNQcAVAr0wqE8"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "J'ai Fame",
-        "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
-      },
-      "artists": [
-        {
-          "name": "Leprofici",
-          "url": "https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd"
-        }
-      ],
-      "duration_ms": 213718,
-      "name": "La Lune (Prelude)",
-      "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "Emotive Conversation",
         "url": "https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 296275,
       "name": "Monsoon Melodies",
       "url": "https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "J'ai Fame",
+        "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
+      },
+      "artists": [
+        {
+          "name": "Leprofici",
+          "url": "https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd"
+        }
+      ],
+      "duration_ms": 213718,
+      "name": "La Lune (Prelude)",
+      "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG"
+        "name": "One Big Sky",
+        "url": "https://open.spotify.com/album/1zUsQok0rVwhy3ay8UD3Mw"
       },
       "artists": [
         {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+          "name": "Celestial Teapot",
+          "url": "https://open.spotify.com/artist/6aHtkeW2toEgtMdYoiaVg8"
         }
       ],
-      "duration_ms": 294999,
-      "name": "Valencia",
-      "url": "https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr"
+      "duration_ms": 404696,
+      "name": "Change Is Constant",
+      "url": "https://open.spotify.com/track/6cMH2fGXa2mnVmpH5ZJQ9r"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1407,18 +1407,34 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "One Big Sky",
-        "url": "https://open.spotify.com/album/1zUsQok0rVwhy3ay8UD3Mw"
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
       },
       "artists": [
         {
-          "name": "Celestial Teapot",
-          "url": "https://open.spotify.com/artist/6aHtkeW2toEgtMdYoiaVg8"
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
         }
       ],
-      "duration_ms": 404696,
-      "name": "Change Is Constant",
-      "url": "https://open.spotify.com/track/6cMH2fGXa2mnVmpH5ZJQ9r"
+      "duration_ms": 183637,
+      "name": "Mon Kharaper Bristi",
+      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "duration_ms": 294999,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1435,22 +1451,6 @@
       "duration_ms": 256500,
       "name": "Mone Ki Dwidha",
       "url": "https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
-      },
-      "artists": [
-        {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "Mon Kharaper Bristi",
-      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
     },
     {
       "added_at": "2026-02-10 09:33:25",

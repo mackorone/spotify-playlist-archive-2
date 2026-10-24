@@ -1,12 +1,12 @@
 {
   "description": "back roads up loud with Dexter and The Moonrocks and Avery Anna",
-  "num_followers": 47194,
+  "num_followers": 47263,
   "original_name": "GRAVEL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAInpy4thoSYUxKm5WYenB+0bReXB",
+  "snapshot_id": "AAAAABoIB9HwKNr5mFta62bSmztnsiAH",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:37",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/18m5aSDgzYu18fWAGdQIRD"
     },
     {
+      "added_at": "2026-10-23 04:02:11",
+      "album": {
+        "name": "Reason Is You",
+        "url": "https://open.spotify.com/album/0RY0VDAyTQt9YhM08ZvTxa"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 150340,
+      "name": "Reason Is You",
+      "url": "https://open.spotify.com/track/1MTTqvstqjnsVw5jO4rt1q"
+    },
+    {
       "added_at": "2026-10-09 04:00:37",
       "album": {
         "name": "Your Loss, My Misery",
@@ -271,6 +287,22 @@
       "duration_ms": 236602,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/1u4dMSzBUN1oHPKQqnGrR5"
+    },
+    {
+      "added_at": "2026-10-23 04:02:11",
+      "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/02UgOQXlncifBfUMrb4PPQ"
+      },
+      "artists": [
+        {
+          "name": "Sterling Elza",
+          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
+        }
+      ],
+      "duration_ms": 184677,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/1WY3SAhzCJKccmpA5DmH3m"
     },
     {
       "added_at": "2026-10-09 04:00:37",

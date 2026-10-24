@@ -4,7 +4,7 @@
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-96 songs - 11 hr 1 min
+97 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl) | 5:48 | 2024-05-18 | 2024-10-02 |
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/3UMeu4qzpJC0XW8s1hW1Yd) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/38lZbkJnTd1c4aZePzOX2V) | 5:48 | 2024-12-19 | 2025-03-13 |
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4Kf8ujQyyQIhwQksSQHQqM) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/7HZGHG5ElP7mbYK8WuKFBd) | 5:48 | 2024-10-16 | 2024-12-11 |
-| [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 | 2025-04-19 |  |
+| [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 | 2025-04-19 | 2026-10-24 |
 | [Jesus \- Acústico](https://open.spotify.com/track/1HBBcfWy1lRQiezmcMXhCm) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Estefania Chaves](https://open.spotify.com/artist/1HafHsLjh2puiMZOsY9EPj) | [Em Casa \(Acústico\)](https://open.spotify.com/album/5Kvc037mncJXV6K8xk244Y) | 6:32 | 2025-11-20 | 2026-01-02 |
 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 | 2023-07-10 | 2026-04-03 |
+| [JESUS É O CENTRO](https://open.spotify.com/track/1CO5LWz9F9GRlPAdV0hYu0) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [JESUS É O CENTRO](https://open.spotify.com/album/27HDtE551Yh6oOs9cdYieQ) | 10:14 | 2026-10-24 |  |
 | [Jireh](https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Bruno Graça](https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Jireh](https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq) | 9:35 | 2023-07-10 |  |
 | [Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO) | 2:11 | 2023-07-10 |  |
 | [Maravilhado](https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3) | [Gateway Worship Português](https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Gloria A Deus](https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx) | 6:19 | 2025-03-19 |  |

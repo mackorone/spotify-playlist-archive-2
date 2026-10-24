@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9193,
+  "num_followers": 9195,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAARRHCSMcMZyv1/311wPmJNkMEba8SP",
+  "snapshot_id": "AAARUWvGtNcb6wH9eDGrYm997mgsUq2w",
   "tracks": [
+    {
+      "added_at": "2026-10-23 16:56:01",
+      "album": {
+        "name": "From the Dark",
+        "url": "https://open.spotify.com/album/4iAUrFmilfatLq7lBeH29p"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 328333,
+      "name": "Over the Violent Sun",
+      "url": "https://open.spotify.com/track/5NYH5eJbFkchsNmV2L2YXW"
+    },
+    {
+      "added_at": "2026-10-23 14:44:43",
+      "album": {
+        "name": "Sutures",
+        "url": "https://open.spotify.com/album/7IlEqetnjB1wg9bHgnBXl4"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Sutures",
+      "url": "https://open.spotify.com/track/1jATn2HJ7sDM3JLWRYOzIg"
+    },
+    {
+      "added_at": "2026-10-23 15:04:11",
+      "album": {
+        "name": "Crackology",
+        "url": "https://open.spotify.com/album/3y0FEzEgiVuLjYs9ddOKL5"
+      },
+      "artists": [
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        }
+      ],
+      "duration_ms": 173244,
+      "name": "Crackology",
+      "url": "https://open.spotify.com/track/44LKq2xDLGrApS4VxjufWd"
+    },
+    {
+      "added_at": "2026-10-23 19:09:52",
+      "album": {
+        "name": "Capulet",
+        "url": "https://open.spotify.com/album/6hFEAT2RBG5CAu7PrFRPej"
+      },
+      "artists": [
+        {
+          "name": "VICIOUS",
+          "url": "https://open.spotify.com/artist/5AapdBl2rS3ozNB7a7Ko3N"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "Capulet",
+      "url": "https://open.spotify.com/track/0wUfgzZAdt0FSBmKaETMS9"
+    },
+    {
+      "added_at": "2026-10-23 19:10:40",
+      "album": {
+        "name": "AM:FM",
+        "url": "https://open.spotify.com/album/4lCnapy9lBE8F7LmKluKwK"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 135597,
+      "name": "Miazma",
+      "url": "https://open.spotify.com/track/7Ba0k4a3kkwqOYxPXkgVo9"
+    },
+    {
+      "added_at": "2026-10-23 19:11:05",
+      "album": {
+        "name": "Reminders of Hell",
+        "url": "https://open.spotify.com/album/0VmUfxZguY6nIpf031LJpf"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Reminders of Hell",
+      "url": "https://open.spotify.com/track/6o9YZBl3nQXuBD82XTcYQa"
+    },
     {
       "added_at": "2026-10-16 16:34:07",
       "album": {

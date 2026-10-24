@@ -16599,6 +16599,24 @@
     },
     {
       "album": {
+        "name": "Gamut / Styrofoam",
+        "url": "https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244125,
+      "name": "Gamut",
+      "url": "https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB"
+    },
+    {
+      "album": {
         "name": "Garment Bag",
         "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
       },

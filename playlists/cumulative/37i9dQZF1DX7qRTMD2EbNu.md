@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-1,052 songs - 2 day 4 hr 22 min
+1,052 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Monsters Dey Back](https://open.spotify.com/track/2aLALW67CYtGhlJ5BWTtKb) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Monsters Dey Back](https://open.spotify.com/album/28FqK06cpOCZlUG07uOiq3) | 2:17 | 2022-06-24 | 2022-12-02 |
 | [MOOD](https://open.spotify.com/track/0ei8sI3SpiPoMlhcAXDrnF) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [MOOD](https://open.spotify.com/album/1bS9Kowm41KATu43nV62u4) | 2:01 | 2022-06-24 | 2023-09-29 |
 | [Moonlight](https://open.spotify.com/track/68kLBc1qUai4uAkO6tbKkW) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:40 | 2023-12-08 | 2024-01-05 |
+| [More bands](https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Jayduh](https://open.spotify.com/artist/4WDR1dWlBAX1cCYTWRbam3) | [Dolla](https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC) | 1:35 | 2026-10-23 |  |
 | [Motherfxcker](https://open.spotify.com/track/1D1Mp6lTvkAqTjbVewRkpQ) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Motherfxcker](https://open.spotify.com/album/3FUWRe4bQJOynPXqMIm0Zb) | 2:27 | 2026-08-28 | 2026-09-04 |
 | [Mountain Tall](https://open.spotify.com/track/1zwPYYCU0y3qLRn1KAjeeg) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Arathejay](https://open.spotify.com/artist/766TmQenI8cK9circQjAfp) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:40 | 2026-05-15 | 2026-08-07 |
 | [Mrs Sativa](https://open.spotify.com/track/5ARd8VUjVywyr4eSh6cBLA) | [Halfco Baby](https://open.spotify.com/artist/5Z1tk0XItnDFfbknQ6bF9U), [Zan](https://open.spotify.com/artist/3qJXMb1WeIhBNu1qifUiPn), [Benty](https://open.spotify.com/artist/3gJSud2qrIBrwHCKHP6A0S) | [Mrs Sativa](https://open.spotify.com/album/3xFHiV8Qx0bUNZ76iO9tvQ) | 4:23 | 2024-02-16 | 2024-03-08 |
@@ -946,7 +947,6 @@
 | [Too Windy 4 U](https://open.spotify.com/track/7JuLuj4Z4v85apcflxXW5O) | [Mus](https://open.spotify.com/artist/4gIy9bx9Mw1zNM6PRnfT0P), [Japo](https://open.spotify.com/artist/7fKwtNYCndojisAPoE3z7m) | [Too Windy 4 U](https://open.spotify.com/album/4SdPGtonnFujGC874zu2Ii) | 1:58 | 2024-08-09 | 2024-08-26 |
 | [Top Speed](https://open.spotify.com/track/5uMtLvgPkHjclh5zIgYSOO) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Top Speed](https://open.spotify.com/album/5QTnDhXpzwXkhzqHcyhxYp) | 3:01 | 2025-09-26 | 2026-08-07 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
-| [Track 4](https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1) | [Dolla](https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC) | 0:00 | 2026-10-23 |  |
 | [Tracking You](https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Tracking You](https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6) | 3:03 | 2025-09-05 |  |
 | [Tranquillo](https://open.spotify.com/track/0R5MHXzCbwJkng8NHlH2S2) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Tranquillo](https://open.spotify.com/album/6tlJwdz4dFTig2UG6HoSAn) | 3:05 | 2023-06-09 | 2023-06-23 |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-08-09 |

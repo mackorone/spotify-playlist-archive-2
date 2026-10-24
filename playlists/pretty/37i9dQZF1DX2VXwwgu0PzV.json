@@ -1,12 +1,12 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover: Omojo",
-  "num_followers": 88615,
+  "num_followers": 88678,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAw6n7P2EvKcf7U6NcmbYlFHHmW5",
+  "snapshot_id": "AAAAAGEMGr+juC0aPvQ96kAE/8IVFpFZ",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:35",
@@ -40,7 +40,7 @@
           "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
         }
       ],
-      "duration_ms": 180456,
+      "duration_ms": 180923,
       "name": "Locked In",
       "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
     },
@@ -244,9 +244,25 @@
           "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 168960,
+      "name": "Surrounded",
       "url": "https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm"
+    },
+    {
+      "added_at": "2026-10-23 10:15:49",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/12dS4Gq6wVlkQqRWapmbck"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 166110,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5zbFzMSjsPAjp9UYumhr0u"
     },
     {
       "added_at": "2026-10-16 00:01:45",

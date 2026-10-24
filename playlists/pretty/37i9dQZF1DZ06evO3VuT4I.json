@@ -1,12 +1,12 @@
 {
   "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
-  "num_followers": 4077,
+  "num_followers": 4078,
   "original_name": "This Is Suzanne Ciani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACa5IS5Qs4PxtUxszMgE64C",
+  "snapshot_id": "atgAgAAAAAAbfLHO7WYAM44py1DPJ3lr",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 317733,
-      "name": "The Third Wave - Love In The Waves",
-      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+      "duration_ms": 347626,
+      "name": "The Fifth Wave - Water Lullaby",
+      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 347626,
-      "name": "The Fifth Wave - Water Lullaby",
-      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
+      "duration_ms": 317733,
+      "name": "The Third Wave - Love In The Waves",
+      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
     },
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suzanne Ciani and the Wave:Live!",
+        "url": "https://open.spotify.com/album/398Y6tbq0b2c4daBYHtUBH"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 321773,
+      "name": "Go Genlty",
+      "url": "https://open.spotify.com/track/4xCkV1atOhjswQQy0ZNGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silver Ship",
         "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 232000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/4loFAwDRPaSB1QMJyO7jdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hotel Luna",
-      "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suzanne Ciani and the Wave:Live!",
-        "url": "https://open.spotify.com/album/398Y6tbq0b2c4daBYHtUBH"
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 321773,
-      "name": "Go Genlty",
-      "url": "https://open.spotify.com/track/4xCkV1atOhjswQQy0ZNGi8"
+      "duration_ms": 174000,
+      "name": "Hotel Luna",
+      "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Velocity Of Love",
-        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 586880,
-      "name": "History Of My Heart",
-      "url": "https://open.spotify.com/track/7HywLdWwU2nkyTwIsnI5Qs"
+      "duration_ms": 264493,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 586880,
+      "name": "History Of My Heart",
+      "url": "https://open.spotify.com/track/7HywLdWwU2nkyTwIsnI5Qs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pianissimo III",
         "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 285986,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 342760,
+      "name": "Sailing To Byzantium - (New)",
+      "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pianissimo III",
         "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 306680,
       "name": "Full Moon Sonata",
       "url": "https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "Time Stops",
-      "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Private Music Of Suzanne Ciani",
-        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 342760,
-      "name": "Sailing To Byzantium - (New)",
-      "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
+      "duration_ms": 252333,
+      "name": "Time Stops",
+      "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
     }
   ],
   "unique_name": "This Is Suzanne Ciani",

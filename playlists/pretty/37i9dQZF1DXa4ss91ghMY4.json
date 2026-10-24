@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 558080,
+  "num_followers": 558025,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 152784,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
-        "name": "The Prelude",
-        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 170344,
-      "name": "At My Worst",
-      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+        "name": "The Prelude",
+        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 152784,
-      "name": "don't come back",
-      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
+      "duration_ms": 170344,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
+        "name": "Chaotic",
+        "url": "https://open.spotify.com/album/6nUQsCdTK0xbG6FjyqJUXq"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "911",
+      "url": "https://open.spotify.com/track/23KVefoON2iEz1dh940quQ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
         "name": "Paraiso",
         "url": "https://open.spotify.com/album/5VdRN37AB08PPnwgGQYXRf"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 147423,
       "name": "Paraiso",
       "url": "https://open.spotify.com/track/4AdM5EcWPehGPXivufXQj7"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
-        "name": "Chaotic",
-        "url": "https://open.spotify.com/album/6nUQsCdTK0xbG6FjyqJUXq"
-      },
-      "artists": [
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "911",
-      "url": "https://open.spotify.com/track/23KVefoON2iEz1dh940quQ"
     },
     {
       "added_at": "2026-09-04 03:00:36",

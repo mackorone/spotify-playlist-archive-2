@@ -4,7 +4,7 @@
 
 > The sound of the underground\. Cover: Polyphia
 
-921 songs - 2 day 7 hr 3 min
+922 songs - 2 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-04-19 | 2025-09-12 |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-04-04 | 2025-09-12 |
 | [Bring On The Psychics](https://open.spotify.com/track/1NxMIykscSdcZNI2BeJSoq) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:44 | 2026-07-17 | 2026-08-21 |
+| [Bring You Back](https://open.spotify.com/track/6X26YFr9c2xFILZ1QXjL5E) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Bring You Back](https://open.spotify.com/album/1PFGGX3O52cyWPRneJHoK6) | 3:44 | 2026-10-23 |  |
 | [Broken and Blind](https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj) | 3:12 | 2025-10-10 | 2026-05-01 |
 | [Bruised](https://open.spotify.com/track/1EvYAo0qfXX8ug2tnzsRmO) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Bruised](https://open.spotify.com/album/0ofgnfS0nzFKnTWGEFy7Pz) | 2:53 | 2026-06-12 | 2026-10-16 |
 | [Bullshit](https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Bullshit](https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr) | 3:35 | 2026-06-26 |  |
@@ -568,7 +569,7 @@
 | [NEW! Christianity](https://open.spotify.com/track/2h48pUPKbkXCH0z2BqgUyQ) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [NEW! Christianity](https://open.spotify.com/album/2n6M7s3zRVBCYKCYnmUO04) | 2:33 | 2024-09-20 | 2025-09-12 |
 | [Nice Guy \(feat\. Ekoh\)](https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [Nice Guy \(feat\. Ekoh\)](https://open.spotify.com/album/6USpargOEBNeYfcXzn9dJe) | 3:05 | 2025-10-23 | 2026-08-07 |
 | [Night Whispers & Shining Lights](https://open.spotify.com/track/38uBpv9HZwZf93FJNY3eEi) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Night Whispers & Shining Lights](https://open.spotify.com/album/3hfTkcKLG1sSLQhjKW6tq2) | 3:52 | 2026-10-23 |  |
-| [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia), [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz) | 5:21 | 2026-02-13 | 2026-10-23 |
+| [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia), [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz) | 5:21 | 2026-02-13 |  |
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-11-10 | 2023-07-26 |
 | [NO ESCAPE](https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 3:34 | 2022-11-10 | 2023-02-08 |
 | [No Good For People](https://open.spotify.com/track/2uhoiTvEQ7pZEBQMIz8LTn) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [No Good For People](https://open.spotify.com/album/6mBlcuYbLSYwcEuUUkdD1T) | 2:32 | 2025-08-11 | 2025-09-12 |
@@ -610,7 +611,7 @@
 | [PIN DROP](https://open.spotify.com/track/5JX5jI1UUzwxHyRapkE5CW) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DARKER WHITE](https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP) | 3:01 | 2024-10-04 | 2025-09-12 |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2024-03-08 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-11-10 | 2023-07-26 |
-| [Pins](https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Pins](https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu) | 4:01 | 2026-09-11 |  |
+| [Pins](https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Pins](https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu) | 4:01 | 2026-09-11 | 2026-10-24 |
 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-11-10 | 2023-07-26 |
 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-03-08 | 2024-05-24 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-23 | 2025-09-12 |

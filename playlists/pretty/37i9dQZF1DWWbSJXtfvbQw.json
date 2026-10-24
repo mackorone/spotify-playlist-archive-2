@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2016. Cover: Shakira\n\n",
-  "num_followers": 75326,
+  "num_followers": 75354,
   "original_name": "Latin Hits 2016",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios",
-        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Aprender A Quererte",
-      "url": "https://open.spotify.com/track/3zNcn4BaVfKORyx3uDfruW"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
         "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 306373,
       "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
       "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Aprender A Quererte",
+      "url": "https://open.spotify.com/track/3zNcn4BaVfKORyx3uDfruW"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Vacaciones",
-      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "La Promesa",
         "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 212161,
       "name": "Si Ella Quisiera",
       "url": "https://open.spotify.com/track/7cIkMEpDhT7Vpw1FHOQqKC"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
     },
     {
       "added_at": "2024-07-13 01:19:45",

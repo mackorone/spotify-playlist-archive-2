@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Quavo, A$AP Rocky and Gunna.",
+  "description": "New music from Yeat, Yung Miami and Anderson .Paak & Cordae.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -2479,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
+      "album": {
         "name": "High Off Life",
         "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
       },
@@ -3986,7 +4008,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 227787,
       "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
       "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
@@ -5008,6 +5030,24 @@
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/6AgkhCQME5wqQ2xqFgeMYK"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110142,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/5xqqwC86B6OHPdLMekNIm4"
     },
     {
       "album": {
@@ -14050,7 +14090,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 182084,
       "name": "DOWN FOR REAL",
       "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
@@ -15576,7 +15616,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 128566,
       "name": "F You",
       "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
@@ -24104,7 +24144,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 167666,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
@@ -27365,6 +27405,28 @@
     },
     {
       "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+    },
+    {
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -29983,6 +30045,28 @@
     },
     {
       "album": {
+        "name": "Luh Leakyz Vol. 1",
+        "url": "https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lyfestyle Corporation",
+          "url": "https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Lil Krazy",
+      "url": "https://open.spotify.com/track/3301sy6RP2XMn67qrjzY0y"
+    },
+    {
+      "album": {
         "name": "Still Flexin, Still Steppin",
         "url": "https://open.spotify.com/album/6mhlquPOu46v4c7nXS35mX"
       },
@@ -30126,6 +30210,32 @@
       "duration_ms": 216053,
       "name": "Litty (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2Zza7LeJBNz3R2xprlfrFS"
+    },
+    {
+      "album": {
+        "name": "Live and Die",
+        "url": "https://open.spotify.com/album/07e5jzTwCwh1TvsDmLFxM6"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166561,
+      "name": "Live and Die",
+      "url": "https://open.spotify.com/track/6iwrQJKw5jXclaI9tEV6Sf"
     },
     {
       "album": {
@@ -35896,7 +36006,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 313546,
       "name": "No Vaseline",
       "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
@@ -53172,7 +53282,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 213133,
       "name": "The Team",
       "url": "https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU"

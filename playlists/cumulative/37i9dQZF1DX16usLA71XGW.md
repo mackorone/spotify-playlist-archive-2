@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Akoth Jumadi
+> East Africa queens in their music bag\. Cover: Victoria Kimani
 
-199 songs - 10 hr 33 min
+201 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [I Do](https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 3:01 | 2024-07-04 | 2024-07-06 |
 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 | 2022-11-17 | 2024-02-24 |
 | [I Love You \(Nakupenda\)](https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Bits & Pieces](https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY) | 4:24 | 2022-07-18 | 2026-05-13 |
+| [IDWBU](https://open.spotify.com/track/6w8XS5E1ez22Q4cEddrip9) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [IDWBU](https://open.spotify.com/album/3t8BWSUMPBEBFaszZkCw7E) | 1:52 | 2026-10-23 |  |
 | [IF I DO, IF I DON'T](https://open.spotify.com/track/0BGksyPJgbgD9oRnNYvlat) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [VISION 2020](https://open.spotify.com/album/18E926OD0EL7QrLWo3ymBy) | 3:14 | 2024-10-04 | 2025-08-22 |
 | [Inawezekana](https://open.spotify.com/track/5LFqAvooQPm0XFZ63WawzM) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Inawezekana](https://open.spotify.com/album/3335lkgj003Ei3L0JFAtZQ) | 4:14 | 2023-08-25 | 2026-05-13 |
 | [INCONSISTENT](https://open.spotify.com/track/2pZoUhklrNvuK4snbBn9ek) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [INCONSISTENT](https://open.spotify.com/album/7g3q116NR4hA6AVxGlqUjR) | 2:29 | 2024-05-24 | 2025-08-22 |
@@ -106,6 +107,7 @@
 | [Moto](https://open.spotify.com/track/6h1MhPXXOtyOQcizOoo3xB) | [BLU 3](https://open.spotify.com/artist/1Mh9FYQxIQVCw73k5OLiYC) | [Moto](https://open.spotify.com/album/6sR25UDBq3j5Htck3jz67k) | 3:07 | 2026-05-28 |  |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-07-18 | 2023-09-02 |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2023-03-31 |
+| [My Baby](https://open.spotify.com/track/16Jy5nXm3UUoPrbXcB5dIq) | [Juanita](https://open.spotify.com/artist/2Itueij8fk67HWdPAJYqJ9) | [My Baby](https://open.spotify.com/album/0zSMjbhJIumMcJnaDtPsgJ) | 3:12 | 2026-10-23 |  |
 | [My Cherrie](https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [My Cherie](https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S) | 4:38 | 2022-11-24 | 2024-02-24 |
 | [Nabo](https://open.spotify.com/track/2ounUVg5MLgyykUalI0VsC) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [NABO](https://open.spotify.com/album/0dEvZv2bvBamdD39FOIpv1) | 2:37 | 2022-07-18 | 2022-10-14 |
 | [Namna Hiyo](https://open.spotify.com/track/20uBG9S6zwD3IhAU8jcjBN) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Silver](https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW) | 4:02 | 2025-06-19 |  |
@@ -120,7 +122,7 @@
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 | 2024-03-08 |
 | [Niwache](https://open.spotify.com/track/1LHYQ6x4I6DCbalbbyjBCP) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Lick Back](https://open.spotify.com/album/08DXRawHAxPzzamzypr5QU) | 2:52 | 2026-05-28 |  |
 | [Njiira Love](https://open.spotify.com/track/462ozq0tVcoq50ZjaM2lWs) | [Sheebah Karungi](https://open.spotify.com/artist/5HwCHe2TkWMfGGpk2A8aku), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Njiira Love](https://open.spotify.com/album/3JFPB4w1ZhFDE1QAgz58F2) | 2:32 | 2022-07-18 | 2024-05-25 |
-| [No Stress](https://open.spotify.com/track/1VQereVv8Flzey3eD9sj6D) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [No Stress](https://open.spotify.com/album/47InAFoqRqQ7E7LdEcrUFt) | 2:35 | 2025-05-15 |  |
+| [No Stress](https://open.spotify.com/track/1VQereVv8Flzey3eD9sj6D) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [No Stress](https://open.spotify.com/album/47InAFoqRqQ7E7LdEcrUFt) | 2:35 | 2025-05-15 | 2026-10-24 |
 | [Ntaawa](https://open.spotify.com/track/0gwOZ0bsxcHkXjdewTVC4I) | [JOWY LANDA](https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X) | [Ntaawa](https://open.spotify.com/album/5uKZ39gh0m85av50uFH7vE) | 2:22 | 2024-01-29 | 2026-05-29 |
 | [Ntatoboa](https://open.spotify.com/track/71drzL1qpGHCctFj1EFJ1w) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Ntatoboa](https://open.spotify.com/album/7bBH8FtqTy2kh0tntqCRjK) | 3:49 | 2024-05-17 | 2026-05-29 |
 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 | 2024-01-30 |
@@ -171,7 +173,7 @@
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 | 2022-08-20 |
 | [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 | 2024-12-21 |
 | [Slow Dancing](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 | 2022-07-18 | 2024-05-18 |
-| [Soloboka](https://open.spotify.com/track/4CE3V8EGwoQLxL01Ote4Sc) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Mad King](https://open.spotify.com/artist/6r8ZqiOsLmT393IZa5j61b) | [Soloboka](https://open.spotify.com/album/5h4bn2keRBe9mcQsX8blyc) | 2:59 | 2025-12-18 |  |
+| [Soloboka](https://open.spotify.com/track/4CE3V8EGwoQLxL01Ote4Sc) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Mad King](https://open.spotify.com/artist/6r8ZqiOsLmT393IZa5j61b) | [Soloboka](https://open.spotify.com/album/5h4bn2keRBe9mcQsX8blyc) | 2:59 | 2025-12-18 | 2026-10-24 |
 | [Some Body](https://open.spotify.com/track/44koYo4DjHx8TdgvTKPcwn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Some Body](https://open.spotify.com/album/6hFZt3hSff4zwBfVxaCDRy) | 2:36 | 2025-08-21 | 2026-06-12 |
 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-01 | 2025-08-22 |
 | [Start Again](https://open.spotify.com/track/45cDu30IifztKis1wPt2En) | [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr) | [Start Again](https://open.spotify.com/album/44sCzg740j9nuzoyPrOh7O) | 4:04 | 2024-04-18 | 2025-08-22 |

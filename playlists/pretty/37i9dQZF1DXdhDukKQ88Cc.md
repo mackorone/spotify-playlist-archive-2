@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 ### [ny rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap øverst 👀  Artigeardit på cover!!
+> kun det nyeste danske rap øverst 👀  Belly på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,372 likes - 71 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,361 likes - 73 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Te Ske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Te Ske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 |
-| 2 | [Barn Af Byen](https://open.spotify.com/track/1S0AAzLHoTTPIKjWCghWkB) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Barn Af Byen](https://open.spotify.com/album/5i3OXuxnvjtGocI746TZQA) | 2:22 |
-| 3 | [400KM](https://open.spotify.com/track/3ZQOc4eHvf8ndHcQsgOjY7) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [400KM](https://open.spotify.com/album/6WEjxiLRlD6VCzzj7aIJx7) | 2:14 |
-| 4 | [PIZZAMAN](https://open.spotify.com/track/6nzYAba8pQ9bzHKRnXDFJV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [PIZZAMAN](https://open.spotify.com/album/1dCOXSPtIE3T2aP6VoEx4i) | 2:27 |
-| 5 | [Repertoire](https://open.spotify.com/track/2RtcQTIEUUPJtuh0UpItuD) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [Repertoire](https://open.spotify.com/album/0nUvJucfYQjJMAaSRDr8qW) | 3:04 |
-| 6 | [WEEZYBALLY](https://open.spotify.com/track/3MqKqxLMnwQped4F6pqgWF) | [KAS](https://open.spotify.com/artist/4phSEXoMC7iWJUN7Zxo6fJ) | [WEEZYBALLY](https://open.spotify.com/album/0mkdY7ljtJ6oLxm9FNWByW) | 2:51 |
-| 7 | [Reserveret](https://open.spotify.com/track/0fkB0JqfHEQcmi9ImNFYcr) | [HEISING](https://open.spotify.com/artist/2lLGHMeB6AaHqkD4eMVw6p) | [Reserveret](https://open.spotify.com/album/6XVED7F8jtd00VTiTxjrRf) | 2:41 |
-| 8 | [WAYTA?](https://open.spotify.com/track/6kDf3Q7ILt0VQwR7uusf3g) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [WAYTA?](https://open.spotify.com/album/225eVssASgjupEqe3yNPYj) | 2:50 |
-| 9 | [Push It](https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:33 |
+| 1 | [Barn Af Byen](https://open.spotify.com/track/1S0AAzLHoTTPIKjWCghWkB) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Barn Af Byen](https://open.spotify.com/album/5i3OXuxnvjtGocI746TZQA) | 2:22 |
+| 2 | [Push It](https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:33 |
+| 3 | [Te Ske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Te Ske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 |
+| 4 | [WAYTA?](https://open.spotify.com/track/6kDf3Q7ILt0VQwR7uusf3g) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [WAYTA?](https://open.spotify.com/album/225eVssASgjupEqe3yNPYj) | 2:50 |
+| 5 | [400KM](https://open.spotify.com/track/3ZQOc4eHvf8ndHcQsgOjY7) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [400KM](https://open.spotify.com/album/6WEjxiLRlD6VCzzj7aIJx7) | 2:14 |
+| 6 | [PIZZAMAN](https://open.spotify.com/track/6nzYAba8pQ9bzHKRnXDFJV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [PIZZAMAN](https://open.spotify.com/album/1dCOXSPtIE3T2aP6VoEx4i) | 2:27 |
+| 7 | [Repertoire](https://open.spotify.com/track/2RtcQTIEUUPJtuh0UpItuD) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [Repertoire](https://open.spotify.com/album/0nUvJucfYQjJMAaSRDr8qW) | 3:04 |
+| 8 | [WEEZYBALLY](https://open.spotify.com/track/3MqKqxLMnwQped4F6pqgWF) | [KAS](https://open.spotify.com/artist/4phSEXoMC7iWJUN7Zxo6fJ) | [WEEZYBALLY](https://open.spotify.com/album/0mkdY7ljtJ6oLxm9FNWByW) | 2:51 |
+| 9 | [Reserveret](https://open.spotify.com/track/0fkB0JqfHEQcmi9ImNFYcr) | [HEISING](https://open.spotify.com/artist/2lLGHMeB6AaHqkD4eMVw6p) | [Reserveret](https://open.spotify.com/album/6XVED7F8jtd00VTiTxjrRf) | 2:41 |
 | 10 | [Alias](https://open.spotify.com/track/4Y6rOZhHbvgNcRpbcanmFG) | [Forty](https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Alias](https://open.spotify.com/album/689u8RbLH1Ih7MbIbCc7IA) | 2:22 |
 | 11 | [Blackjack](https://open.spotify.com/track/5jUGkXx4UEwl22L6Q8YxBc) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Blackjack](https://open.spotify.com/album/1uirwIlgXZAwVLKkT1sWQv) | 1:55 |
 | 12 | [Ude Fra Indre \(feat\. Freyy\)](https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Freyy](https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS) | [Noahs Ark II](https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo) | 2:49 |
@@ -62,22 +62,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 52 | [Westerlin](https://open.spotify.com/track/1x83R7cDnQzpuNwwvRVFZa) | [1WAY](https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH) | [Westerlin](https://open.spotify.com/album/4tTXelGtBBpqCXYdzsCTb6) | 2:24 |
 | 53 | [WORKIN'](https://open.spotify.com/track/62qFtLxFEWDxz9JilEyoYv) | [dB](https://open.spotify.com/artist/5nospQluEmA57wvulbbV9N), [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [WORKIN'](https://open.spotify.com/album/49SwRiM8737kaO3BBExd3s) | 2:03 |
 | 54 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
-| 55 | [Jordskælv](https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Jordskælv](https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm) | 3:05 |
-| 56 | [Libre](https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Libre](https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw) | 2:03 |
-| 57 | [Stadig Herude](https://open.spotify.com/track/5sYhKtqWT8waojFexjTBH7) | [Izzy18](https://open.spotify.com/artist/0MaOERaUJ2WX8YxMNHZDIc) | [Stadig Herude](https://open.spotify.com/album/4zOZRN1FGgJgCyIFiTLwD0) | 1:50 |
-| 58 | [Turn Me Up](https://open.spotify.com/track/0CKeO5wgXwswNgpAVkec0e) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [Turn Me Up](https://open.spotify.com/album/1rQf3BNiAejFPcKK1cvRLd) | 3:10 |
-| 59 | [Etage](https://open.spotify.com/track/4Ky5e8gfgppoylrDOkMjR3) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ), [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB) | [Etage](https://open.spotify.com/album/3YfzKwoo8Or9xua0FJDH3d) | 2:01 |
-| 60 | [Burde Være Mig](https://open.spotify.com/track/75U4WBwyPotccZd5iBbbU0) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [Burde Være Mig](https://open.spotify.com/album/4OR5OckLOn4jLzJN7xDZRs) | 2:28 |
-| 61 | [LV Sweater](https://open.spotify.com/track/6cj6EZt4Gqja2XFXpqf9O4) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 6:49 |
-| 62 | [Marseille](https://open.spotify.com/track/4ARdA06K4N7xiuZD5zN3VO) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Start 11](https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1) | 2:21 |
-| 63 | [12 Dage](https://open.spotify.com/track/4SFx0z3e0MHU5RL6aA26SS) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [12 Dage](https://open.spotify.com/album/2SegepYWdJtTAgHPVU20H0) | 2:33 |
-| 64 | [Salpeter](https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 3:00 |
-| 65 | [Drømmer](https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Drømmer](https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL) | 2:52 |
-| 66 | [+63](https://open.spotify.com/track/0ETlgD1JDpp0OHLCpewdX7) | [yungholgi](https://open.spotify.com/artist/5VCUpUqOArU81gOjm8SBHS) | [SMADRE MUZIK](https://open.spotify.com/album/5nSoZ6qwH2K2fQt54Y8Bt1) | 1:31 |
-| 67 | [Big Ben](https://open.spotify.com/track/4yl1Ce1RQlBlmKMDaxOfjb) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Big Ben](https://open.spotify.com/album/40Ttu4VLHdw6a6g4DlPW0L) | 2:17 |
-| 68 | [Blown Away](https://open.spotify.com/track/7lKdAx2mblLAAMtoKYdlJU) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Blown Away](https://open.spotify.com/album/2mK0bEG2WgniiFWZwykyV8) | 2:12 |
-| 69 | [Hvis væggene kunne tale](https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 2:58 |
-| 70 | [Rammer Mig Ik'](https://open.spotify.com/track/63QZYodrrUlRIxQcuY7mhR) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Rammer Mig Ik'](https://open.spotify.com/album/0TMAEUPkKoCn3JqrrFTcvg) | 3:04 |
-| 71 | [Stresser ik](https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Stresser ik](https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i) | 1:56 |
+| 55 | [Utaknemmelig](https://open.spotify.com/track/48Mi8ghTU0cJUexL9Vrpsp) | [Altid.Marcus](https://open.spotify.com/artist/5LjjyYZXu49pFYb8uib12B) | [Utaknemmelig](https://open.spotify.com/album/7yYV30IEDq2RGwfgtBpws4) | 2:30 |
+| 56 | [Jordskælv](https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Jordskælv](https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm) | 3:05 |
+| 57 | [Libre](https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Libre](https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw) | 2:03 |
+| 58 | [Stadig Herude](https://open.spotify.com/track/5sYhKtqWT8waojFexjTBH7) | [Izzy18](https://open.spotify.com/artist/0MaOERaUJ2WX8YxMNHZDIc) | [Stadig Herude](https://open.spotify.com/album/4zOZRN1FGgJgCyIFiTLwD0) | 1:50 |
+| 59 | [Turn Me Up](https://open.spotify.com/track/0CKeO5wgXwswNgpAVkec0e) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [Turn Me Up](https://open.spotify.com/album/1rQf3BNiAejFPcKK1cvRLd) | 3:10 |
+| 60 | [Etage](https://open.spotify.com/track/4Ky5e8gfgppoylrDOkMjR3) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ), [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB) | [Etage](https://open.spotify.com/album/3YfzKwoo8Or9xua0FJDH3d) | 2:01 |
+| 61 | [Burde Være Mig](https://open.spotify.com/track/75U4WBwyPotccZd5iBbbU0) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [Burde Være Mig](https://open.spotify.com/album/4OR5OckLOn4jLzJN7xDZRs) | 2:28 |
+| 62 | [LV Sweater](https://open.spotify.com/track/6cj6EZt4Gqja2XFXpqf9O4) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 6:49 |
+| 63 | [Marseille](https://open.spotify.com/track/4ARdA06K4N7xiuZD5zN3VO) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Start 11](https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1) | 2:21 |
+| 64 | [12 Dage](https://open.spotify.com/track/4SFx0z3e0MHU5RL6aA26SS) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [12 Dage](https://open.spotify.com/album/2SegepYWdJtTAgHPVU20H0) | 2:33 |
+| 65 | [Tiden var ik' med os](https://open.spotify.com/track/7ticct158HlKUVSfiZdveG) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Tiden var ik' med os](https://open.spotify.com/album/6qVA1OJOFrdhKNu8msxaRI) | 2:40 |
+| 66 | [Salpeter](https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 3:00 |
+| 67 | [Drømmer](https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Drømmer](https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL) | 2:52 |
+| 68 | [+63](https://open.spotify.com/track/0ETlgD1JDpp0OHLCpewdX7) | [yungholgi](https://open.spotify.com/artist/5VCUpUqOArU81gOjm8SBHS) | [SMADRE MUZIK](https://open.spotify.com/album/5nSoZ6qwH2K2fQt54Y8Bt1) | 1:31 |
+| 69 | [Big Ben](https://open.spotify.com/track/4yl1Ce1RQlBlmKMDaxOfjb) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Big Ben](https://open.spotify.com/album/40Ttu4VLHdw6a6g4DlPW0L) | 2:17 |
+| 70 | [Blown Away](https://open.spotify.com/track/7lKdAx2mblLAAMtoKYdlJU) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Blown Away](https://open.spotify.com/album/2mK0bEG2WgniiFWZwykyV8) | 2:12 |
+| 71 | [Hvis væggene kunne tale](https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 2:58 |
+| 72 | [Rammer Mig Ik'](https://open.spotify.com/track/63QZYodrrUlRIxQcuY7mhR) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Rammer Mig Ik'](https://open.spotify.com/album/0TMAEUPkKoCn3JqrrFTcvg) | 3:04 |
+| 73 | [Stresser ik](https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Stresser ik](https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i) | 1:56 |
 
-Snapshot ID: `AAAAAONoqqOhnMEnvjG+KOGBzrmxLTOi`
+Snapshot ID: `AAAAAAFL4z+k8fnSglEw2GkcZ3SZYWc1`

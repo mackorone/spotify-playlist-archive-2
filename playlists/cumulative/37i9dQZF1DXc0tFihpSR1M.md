@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Anna Lille
 
-733 songs - 1 day 14 hr 9 min
+734 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Bring It](https://open.spotify.com/track/4Gqk05iNREv4ln3txoADwg) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Bring It](https://open.spotify.com/album/1zhEdgjIV87BqV6k2eJmUK) | 2:41 | 2026-01-23 | 2026-02-27 |
 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 | 2026-04-30 | 2026-08-05 |
 | [BROKE BITCH FREE$TYLE](https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BROKE BITCH FREE$TYLE](https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE) | 2:13 | 2026-04-17 | 2026-05-08 |
-| [Broken chair](https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Broken chair](https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w) | 3:40 | 2026-10-22 |  |
+| [Broken chair](https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Broken chair](https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w) | 3:40 | 2026-10-22 | 2026-10-24 |
 | [Bullets & Blades \(feat\. Kehlani\)](https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 3:15 | 2026-07-31 | 2026-09-11 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-20 | 2025-11-28 |
 | [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 | 2026-05-21 | 2026-06-05 |
@@ -579,6 +579,7 @@
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-11-02 |
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-16 | 2025-11-28 |
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 | 2025-10-03 |
+| [Smoke & Drink](https://open.spotify.com/track/1HQsISpkX5n5XiTh113D6x) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Smoke & Drink](https://open.spotify.com/album/0ize3ebfyKDvtUSUTn4rdE) | 3:03 | 2026-10-23 |  |
 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 | 2025-09-25 | 2026-01-15 |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-06-27 | 2024-11-02 |
 | [So cool](https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [So cool](https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U) | 3:42 | 2025-05-08 | 2025-07-11 |

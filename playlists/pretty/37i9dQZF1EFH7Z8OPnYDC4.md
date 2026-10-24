@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713 likes - 335 songs - 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 714 likes - 335 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,7 +320,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 310 | [You Always Love The Same Girl](https://open.spotify.com/track/01YhOo04ivdw3SBaGH91AO) | [Dick Foran](https://open.spotify.com/artist/3CjTTAjzgN2IcZ0aJxgRDS) | [A Connecticut Yankee \- Original Broadway Cast](https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh) | 3:14 |
 | 311 | [From Afar](https://open.spotify.com/track/7lV93cvaU5RjR3BaxYgUQS) | [Nicol Williamson](https://open.spotify.com/artist/40RoUcmgirwMpNr79bUwU8) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 3:05 |
 | 312 | [La La La](https://open.spotify.com/track/1bFEqg4kTbdQEVaia2o0jJ) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Remastered Classics, Vol\. 6, Billy May](https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw) | 2:22 |
-| 313 | [How Was I to Know](https://open.spotify.com/track/5cNyOgzr09vpfYXZAaEowP) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM), [André Kostelanetz Orchestra](https://open.spotify.com/artist/2bGYqwJAjJlq3OLlGUtcte) | [Kostelanetz Plays Richard Rodgers](https://open.spotify.com/album/776usvENKACM75MxyRMjWR) | 1:30 |
+| 313 | [How Was I to Know](https://open.spotify.com/track/5cNyOgzr09vpfYXZAaEowP) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM), [André Kostelanetz Orchestra](https://open.spotify.com/artist/4RKZCy0S1uf3XPUPK2fClI) | [Kostelanetz Plays Richard Rodgers](https://open.spotify.com/album/776usvENKACM75MxyRMjWR) | 1:30 |
 | 314 | [Overture](https://open.spotify.com/track/0lwtgfd7Asz21a3sexSbnj) | [Jacob Schwartzdorf](https://open.spotify.com/artist/679Pb7DIAI00NbwbTlZKVA), [St\. James Theatre Orchestra](https://open.spotify.com/artist/29Wob3qbTCy4PYaOlsENO7), [St\. James Theatre Chorus](https://open.spotify.com/artist/6QQIOVSyQXu1MWzcDYOKNJ) | [Oklahoma! \(Original Broadway Cast 1943\)](https://open.spotify.com/album/1EqFgtBnrEQ3Uyp33jetaT) | 5:15 |
 | 315 | [Overture](https://open.spotify.com/track/7yvJ4aQUSiKEExpqu5Okbb) | [Orchestra of I Remember Mama](https://open.spotify.com/artist/2nsAFf4sgQQgxLp7o8t1ZX), [John Yap](https://open.spotify.com/artist/00nfwMY19NEvMutq0neftB) | [I Remember Mama \(World Premiere Cast Recording\)](https://open.spotify.com/album/12Dms3retCzMNho556jlir) | 5:29 |
 | 316 | [Strangers](https://open.spotify.com/track/2JQfPvlIhhAaZh74leLiF8) | [Inga Swenson](https://open.spotify.com/artist/7EqGzM2cJA1e2tZhH7lsY5), [John Cullum](https://open.spotify.com/artist/1odplm0E6R5DQDgfdPqfL5) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 5:03 |
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 334 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 | 335 | [She Could Shake the Maracas](https://open.spotify.com/track/4pJIB4iNu8GeqjGOwZRxmw) | [George Abbott](https://open.spotify.com/artist/4pNU6xIv6pHseJVwo9Bis1) | [Too Many Girls](https://open.spotify.com/album/035x7wyVllNXrldHkXE67P) | 2:15 |
 
-Snapshot ID: `AcfqEAAAAACgTlc5y2AbEqySkkcge3dA`
+Snapshot ID: `AcfvsAAAAADVKoBtw8sF9RpswWUEFFL8`

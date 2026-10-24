@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Catch Me (Before It's Too Late) [Acoustic]",
+        "url": "https://open.spotify.com/album/4Vj3jYj58cehJfeyvFyFNI"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160869,
+      "name": "Catch Me (Before It's Too Late) - Acoustic",
+      "url": "https://open.spotify.com/track/7raNFMcoUUBd3PuZYNzQbV"
+    },
+    {
+      "album": {
         "name": "Check (Acoustic)",
         "url": "https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr"
       },
@@ -1626,6 +1644,28 @@
       "duration_ms": 238835,
       "name": "Family - Acoustic",
       "url": "https://open.spotify.com/track/6Q8gSQmRmZjC8KWDG8MvDp"
+    },
+    {
+      "album": {
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/7utMwG37UMHPARIWE9azq1"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "MAJIC",
+          "url": "https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245496,
+      "name": "Feel My Love (feat. MAJIC)",
+      "url": "https://open.spotify.com/track/0b5HPucjqCC7R9J1QzfaSO"
     },
     {
       "album": {

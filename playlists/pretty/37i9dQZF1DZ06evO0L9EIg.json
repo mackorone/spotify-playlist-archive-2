@@ -1,12 +1,12 @@
 {
   "description": "This is Volker Bertelmann. The essential tracks, all in one playlist.",
-  "num_followers": 855,
+  "num_followers": 856,
   "original_name": "This Is Volker Bertelmann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACqb1VquLzOtheWi1SxmtnF",
+  "snapshot_id": "atgAgAAAAACD46md85uHhtN0dH1083Kp",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 155632,
-      "name": "Data",
-      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
+      "duration_ms": 169091,
+      "name": "Reporting for Duty",
+      "url": "https://open.spotify.com/track/5Xy19elG6eCFOcjP3nXQtn"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "23,000 Leben (Soundtrack des Netflix Films)",
+        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 59256,
-      "name": "The Abyss Calls Out",
-      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
+      "duration_ms": 169021,
+      "name": "One Big Step",
+      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 169091,
-      "name": "Reporting for Duty",
-      "url": "https://open.spotify.com/track/5Xy19elG6eCFOcjP3nXQtn"
+      "duration_ms": 155632,
+      "name": "Data",
+      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "23,000 Leben (Soundtrack des Netflix Films)",
-        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 169021,
-      "name": "One Big Step",
-      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
+      "duration_ms": 59256,
+      "name": "The Abyss Calls Out",
+      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 67518,
-      "name": "Route of Fear",
-      "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrift (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 325477,
       "name": "Salvation (From \"Adrift\" Soundtrack)",
       "url": "https://open.spotify.com/track/6t52BHKOeX3os9AxPqET1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 70064,
+      "name": "Walk of Doubt",
+      "url": "https://open.spotify.com/track/5IP352PPY5GDptNnR0qceo"
     },
     {
       "added_at": null,
@@ -516,25 +516,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 38999,
-      "name": "Why the Weather",
-      "url": "https://open.spotify.com/track/6i3ucuq6Wa2utadifWJMVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 70064,
-      "name": "Walk of Doubt",
-      "url": "https://open.spotify.com/track/5IP352PPY5GDptNnR0qceo"
+      "duration_ms": 61424,
+      "name": "Back To Work",
+      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 102222,
       "name": "Sunset Monet (From \"Adrift\" Soundtrack)",
       "url": "https://open.spotify.com/track/0K9XD6kV0t9JTbk5w5TdUX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 67518,
+      "name": "Route of Fear",
+      "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 61424,
-      "name": "Back To Work",
-      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
+      "duration_ms": 44747,
+      "name": "Whatever The Weather",
+      "url": "https://open.spotify.com/track/7C4CkSHJDsQXHzdcpO4VWZ"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 44747,
-      "name": "Whatever The Weather",
-      "url": "https://open.spotify.com/track/7C4CkSHJDsQXHzdcpO4VWZ"
+      "duration_ms": 38999,
+      "name": "Why the Weather",
+      "url": "https://open.spotify.com/track/6i3ucuq6Wa2utadifWJMVT"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Uprising (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
+        "name": "Classical Piano - Peaceful music to fall asleep",
+        "url": "https://open.spotify.com/album/7tUACpaBwLPreYrkYG5DWk"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 70000,
-      "name": "Place For A Miracle",
-      "url": "https://open.spotify.com/track/2tPYxRrFMpPsAQMvqc4FxO"
+      "duration_ms": 92906,
+      "name": "Sunny and George",
+      "url": "https://open.spotify.com/track/7ptZ6zMSKkY4xmHGIuXJqx"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Piano - Peaceful music to fall asleep",
-        "url": "https://open.spotify.com/album/7tUACpaBwLPreYrkYG5DWk"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 92906,
-      "name": "Sunny and George",
-      "url": "https://open.spotify.com/track/7ptZ6zMSKkY4xmHGIuXJqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A House Of Dynamite (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+        "name": "The Uprising (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
       },
       "artists": [
         {
@@ -740,9 +724,25 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 155993,
-      "name": "Fureur juv\u00e9nile",
-      "url": "https://open.spotify.com/track/0WZumi2mX4GC80VEmJWnBY"
+      "duration_ms": 70000,
+      "name": "Place For A Miracle",
+      "url": "https://open.spotify.com/track/2tPYxRrFMpPsAQMvqc4FxO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dune: Prophecy (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/5ewoEIF9JE6aiEYT1bTwmL"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 64096,
+      "name": "Sisterhood Choir Ritual",
+      "url": "https://open.spotify.com/track/5sLIOmna8EQfnHjypmhFr9"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 77110,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4bOIqLNSQnQVfAaQ7kSrim"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Uprising (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "The Pitfall",
-      "url": "https://open.spotify.com/track/4J6kUjeZgfTaadinwyuGem"
     },
     {
       "added_at": null,

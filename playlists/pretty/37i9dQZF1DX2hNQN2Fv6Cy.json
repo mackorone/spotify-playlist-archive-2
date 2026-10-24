@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 324748,
+  "num_followers": 325021,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -491,46 +491,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Kevin McCall",
-          "url": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Deuces (feat. Tyga & Kevin McCall)",
-      "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -559,6 +519,46 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Kevin McCall",
+          "url": "https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Deuces (feat. Tyga & Kevin McCall)",
+      "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 244826,
       "name": "Baby Boy (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 263173,
       "name": "What's My Name?",
       "url": "https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Rated Next",
         "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 259440,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Lucy Pearl",
-        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Southern Hummingbird",
         "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Fantasy EP",
-        "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 291355,
-      "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
-      "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 212276,
       "name": "Never Leave You (Uh Oooh, Uh Oooh) - Uh Oooh Remix",
       "url": "https://open.spotify.com/track/7h4T9TmS2uxOHYGOrc6wSM"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Fantasy EP",
+        "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 291355,
+      "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
+      "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Pain Is Love (International Version)",
         "url": "https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 245093,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "Everything Is Everything",
-      "url": "https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Signs (UK Version)",
         "url": "https://open.spotify.com/album/6s3BgptRMf2lKX3uuI4H6I"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 238066,
       "name": "Signs",
       "url": "https://open.spotify.com/track/1tx9agoDcTxIcUngUwNylR"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu"
     },
     {
       "added_at": "2024-07-15 07:37:26",

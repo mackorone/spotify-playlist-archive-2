@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Fother Muckers
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Beto Cuevas
 
-329 songs - 20 hr 51 min
+330 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 | 2023-06-23 |  |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2023-02-01 |
 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 | 2024-04-19 |
-| [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 |  |
+| [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 | 2026-10-24 |
 | [Barbaridad](https://open.spotify.com/track/5I8icolCLnyGH6KceHWwlE) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [Barbaridad](https://open.spotify.com/album/5rmeyjO9VebVcGDei9BSwg) | 6:23 | 2022-04-08 | 2022-07-16 |
 | [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 | 2022-10-14 |  |
 | [Besos de Mentira](https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe) | 4:18 | 2022-07-08 | 2022-12-17 |
@@ -203,6 +203,7 @@
 | [Me Vuelves a Herir \- En Vivo](https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Me Vuelves a Herir \(En Vivo\)](https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq) | 4:42 | 2022-04-08 | 2026-09-06 |
 | [Mechón](https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o) | [VerDor](https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o) | [Punk Para Gatitos](https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn) | 2:52 | 2024-12-20 |  |
 | [Mi Destino](https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Glup](https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9) | 3:25 | 2022-04-08 | 2022-12-17 |
+| [Mi Memoria](https://open.spotify.com/track/7nMKQCcEXagkR8Q8aHothB) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Mi Memoria](https://open.spotify.com/album/6qRaSTGUUtO51E15TIrHKk) | 3:08 | 2026-10-23 |  |
 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 | 2022-04-08 | 2023-03-03 |
 | [Milagro](https://open.spotify.com/track/4IbgQmI6Pwh7fchypm4EEW) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Milagro](https://open.spotify.com/album/43Qds07LHMxKUDjTJ6N57L) | 3:33 | 2022-04-08 | 2022-12-17 |
 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 | 2022-04-08 |  |

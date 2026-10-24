@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Mi Tesoro",
+        "url": "https://open.spotify.com/album/64YE0WQEVhUDrV5AT6tmHf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195110,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/6NM6WvgeXafeCb46be3YOu"
+    },
+    {
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/5jm5YRpf876zq3wb9v8VKN"
       },

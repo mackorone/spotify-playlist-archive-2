@@ -1,12 +1,12 @@
 {
   "description": "Find your study focus with calm instrumental Jazz.",
-  "num_followers": 652784,
+  "num_followers": 652992,
   "original_name": "Jazz for Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+FTvysZ2a/wWc4zgJ2YXYQZ4IW",
+  "snapshot_id": "AAAAADy5q8S6s9jiyF71/UyGjexha4hc",
   "tracks": [
     {
       "added_at": "2026-10-05 13:06:49",
@@ -103,22 +103,6 @@
       "duration_ms": 189333,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/1IxvlqgOcGjzj5vVvW076C"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/26kcYcA7KPVh6PCn2h2xoo"
-      },
-      "artists": [
-        {
-          "name": "The Stilltones",
-          "url": "https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/7MIrFvWDpC24z37FfvFHyF"
     },
     {
       "added_at": "2026-10-05 13:06:49",
@@ -379,6 +363,22 @@
     {
       "added_at": "2026-10-05 13:06:49",
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/26kcYcA7KPVh6PCn2h2xoo"
+      },
+      "artists": [
+        {
+          "name": "The Stilltones",
+          "url": "https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7MIrFvWDpC24z37FfvFHyF"
+    },
+    {
+      "added_at": "2026-10-05 13:06:49",
+      "album": {
         "name": "Midnight Dialogue",
         "url": "https://open.spotify.com/album/0LCAUYiSaTSZdFOrOLzFgy"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 304364,
       "name": "Beyond The Stars",
       "url": "https://open.spotify.com/track/7boJgwOmip6mQNKM0gyKmT"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1CFwMXw0NPLHQMQ0X2GSFa"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Leroy Quartet",
-          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/5990bXGpXty9SWsZMIUxRH"
     },
     {
       "added_at": "2026-10-05 13:06:49",
@@ -695,6 +679,22 @@
       "duration_ms": 214247,
       "name": "Only You And I",
       "url": "https://open.spotify.com/track/3z30wW71F28C6hk1uUYo25"
+    },
+    {
+      "added_at": "2026-10-05 13:06:49",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1CFwMXw0NPLHQMQ0X2GSFa"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/5990bXGpXty9SWsZMIUxRH"
     },
     {
       "added_at": "2026-10-05 13:06:49",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-10-05 13:06:49",
       "album": {
-        "name": "My musical expression",
-        "url": "https://open.spotify.com/album/0YlD2vE1pVBpKuxfwYWAP0"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 256316,
-      "name": "My musical expression",
-      "url": "https://open.spotify.com/track/6Rm2AeALtJc9Cx3D5749yW"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
         "name": "Alice Corner",
         "url": "https://open.spotify.com/album/27cypFRKmPqno5giELZOyT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 186259,
       "name": "A Job Promotion",
       "url": "https://open.spotify.com/track/5tu555JJdfnt5xc1by9bbJ"
+    },
+    {
+      "added_at": "2026-10-05 13:06:49",
+      "album": {
+        "name": "My musical expression",
+        "url": "https://open.spotify.com/album/0YlD2vE1pVBpKuxfwYWAP0"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 256316,
+      "name": "My musical expression",
+      "url": "https://open.spotify.com/track/6Rm2AeALtJc9Cx3D5749yW"
     },
     {
       "added_at": "2026-10-05 13:06:49",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-10-05 13:06:49",
       "album": {
-        "name": "Night And Day",
-        "url": "https://open.spotify.com/album/2qhvsAjSJYcAbDylo9845L"
-      },
-      "artists": [
-        {
-          "name": "Al Fowler Trio",
-          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
-        }
-      ],
-      "duration_ms": 217631,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/1H6od6QtgiKp5SPf09MHu5"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
         "name": "Walk My Way",
         "url": "https://open.spotify.com/album/6bfTSrMU67Iwjt6TeROtBy"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2026-10-05 13:06:49",
       "album": {
-        "name": "Solemnly Promising",
-        "url": "https://open.spotify.com/album/208MoAQUMS1dIncuScpudd"
+        "name": "Night And Day",
+        "url": "https://open.spotify.com/album/2qhvsAjSJYcAbDylo9845L"
       },
       "artists": [
         {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
         }
       ],
-      "duration_ms": 215197,
-      "name": "Solemnly Promising",
-      "url": "https://open.spotify.com/track/2lxEx2C8RgzzOcauGXH43k"
+      "duration_ms": 217631,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/1H6od6QtgiKp5SPf09MHu5"
     },
     {
       "added_at": "2026-10-05 13:06:49",
@@ -1739,22 +1723,6 @@
     {
       "added_at": "2026-10-05 13:06:49",
       "album": {
-        "name": "Tenderloins",
-        "url": "https://open.spotify.com/album/5liHcDf0MGuvlAMGhNEDMQ"
-      },
-      "artists": [
-        {
-          "name": "Owen Silberman",
-          "url": "https://open.spotify.com/artist/7elv0yvaQGqWdcnwV1VVUy"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Tenderloins",
-      "url": "https://open.spotify.com/track/0TtAyEgzxTZnU8MCPp1fmT"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
         "name": "This moment",
         "url": "https://open.spotify.com/album/4llBMu5EhyK3mKXZwIoxnx"
       },
@@ -1831,6 +1799,22 @@
       "duration_ms": 177585,
       "name": "Sounds like a plan",
       "url": "https://open.spotify.com/track/3ogU2aDL5MUzfLOqTbI4eY"
+    },
+    {
+      "added_at": "2026-10-05 13:06:49",
+      "album": {
+        "name": "Solemnly Promising",
+        "url": "https://open.spotify.com/album/208MoAQUMS1dIncuScpudd"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "duration_ms": 215197,
+      "name": "Solemnly Promising",
+      "url": "https://open.spotify.com/track/2lxEx2C8RgzzOcauGXH43k"
     },
     {
       "added_at": "2026-10-05 13:06:49",
@@ -2043,38 +2027,6 @@
     {
       "added_at": "2026-10-05 13:06:49",
       "album": {
-        "name": "The Way We Looked Then",
-        "url": "https://open.spotify.com/album/3CQsGjyqE8bwqzDmsxNFPz"
-      },
-      "artists": [
-        {
-          "name": "Reed Stricklers",
-          "url": "https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC"
-        }
-      ],
-      "duration_ms": 214508,
-      "name": "The Way We Looked Then",
-      "url": "https://open.spotify.com/track/7f1c51MW06vPI4049aQRqg"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
-        "name": "Late Night",
-        "url": "https://open.spotify.com/album/44gOVNI3sSaD2PUJCR5fYT"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 221902,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/3PTxiKGQyyaPVug10VZdxM"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/20megDenCZJIgfLYe1VWpb"
       },
@@ -2139,22 +2091,6 @@
     {
       "added_at": "2026-10-05 13:06:49",
       "album": {
-        "name": "Far Away Friend",
-        "url": "https://open.spotify.com/album/3dqGuIzeIuVrFx3FwZ7ZNw"
-      },
-      "artists": [
-        {
-          "name": "Eric Rowland",
-          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
-        }
-      ],
-      "duration_ms": 244624,
-      "name": "Far Away Friend",
-      "url": "https://open.spotify.com/track/2WSlLxaMa7uiGjXnZEFtiH"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
         "name": "Whispered Longing",
         "url": "https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF"
       },
@@ -2199,22 +2135,6 @@
       "duration_ms": 192248,
       "name": "Railroad Tracks",
       "url": "https://open.spotify.com/track/6sxvsyHI6XCCnnEt2IYDdB"
-    },
-    {
-      "added_at": "2026-10-05 13:06:49",
-      "album": {
-        "name": "Across The Way",
-        "url": "https://open.spotify.com/album/2Ru0paYVsDMN6ProWWkvje"
-      },
-      "artists": [
-        {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
-        }
-      ],
-      "duration_ms": 228201,
-      "name": "Across The Way",
-      "url": "https://open.spotify.com/track/0EhctTHXX6MRtNHHurF4Ay"
     },
     {
       "added_at": "2026-10-05 13:06:49",

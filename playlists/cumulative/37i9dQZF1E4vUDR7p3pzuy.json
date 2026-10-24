@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 313240,
       "name": "./Bob&Alice",
       "url": "https://open.spotify.com/track/2wA63JqLYbJWozhx532IVv"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 141010,
       "name": "25 Medium",
       "url": "https://open.spotify.com/track/4wZkurfUQhCxzBm85qThzr"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210162,
       "name": "Afternoon - Remix by Pia Fraus",
       "url": "https://open.spotify.com/track/6WUiNwTFt2Q98pBrNjevLl"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 259000,
       "name": "Armour Hill",
       "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Cinematic World",
+        "url": "https://open.spotify.com/album/7FM62hDNYn84MFzTG3AUtu"
+      },
+      "artists": [
+        {
+          "name": "Paolo Coruzzi",
+          "url": "https://open.spotify.com/artist/4h9TD849ci45qZi5om2Yxe"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244598,
+      "name": "Cinematic World",
+      "url": "https://open.spotify.com/track/6PISRCG0sR1qSKDCj3SgPV"
+    },
+    {
+      "album": {
         "name": "Cipher in The Snow",
         "url": "https://open.spotify.com/album/5lqPemfzGPOSuzDn4Nr9jq"
       },
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "CLAW MACHINE",
       "url": "https://open.spotify.com/track/7rHOkT1T72TEQYBduComAY"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 205600,
       "name": "Cybernetic Dummy",
       "url": "https://open.spotify.com/track/1NqdEb2VNDRAbmEbfV1Sho"
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 93409,
       "name": "El Guardi\u00e1n del Equilibrio",
       "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -7420,7 +7438,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 205008,
       "name": "Fascinating Me",
       "url": "https://open.spotify.com/track/2sAz58nXQoQTSwsxCdHVWg"
@@ -7841,6 +7859,24 @@
     },
     {
       "album": {
+        "name": "To the Core (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X347ztAUr4yUh2sbmjeHV"
+      },
+      "artists": [
+        {
+          "name": "Zanias",
+          "url": "https://open.spotify.com/artist/6ouPbOWchZ9U2ojCpMF9Vv"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314943,
+      "name": "Follow the Body - 2026 Version",
+      "url": "https://open.spotify.com/track/3PpF5Vl3TKbmnaVCsN4LTA"
+    },
+    {
+      "album": {
         "name": "As Above",
         "url": "https://open.spotify.com/album/6KMVygRI6RjByXQnvqULYA"
       },
@@ -8222,7 +8258,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 362238,
       "name": "Full Moon Raging",
       "url": "https://open.spotify.com/track/5q4QoW7xycpvTn2rYAsWGY"
@@ -8877,6 +8913,28 @@
     },
     {
       "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/7GPbsKlxO81uQPgQBquEZw"
+      },
+      "artists": [
+        {
+          "name": "New World Revolution",
+          "url": "https://open.spotify.com/artist/3jScDqgJD8GY3auN3YSl6t"
+        },
+        {
+          "name": "Mina Tobias",
+          "url": "https://open.spotify.com/artist/4WfJcEMSPHPKBiYEF1Kay1"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152706,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/6PxlE8rSywCxfviSU57dQv"
+    },
+    {
+      "album": {
         "name": "hands on the board",
         "url": "https://open.spotify.com/album/41CMWBGQAxTmWEI331BUHF"
       },
@@ -8906,7 +8964,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 263000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0e73V4IkTodEYyuvgQMRYg"
@@ -9390,7 +9448,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 168537,
       "name": "hi-chew",
       "url": "https://open.spotify.com/track/2FPqLD50a3gzCeZmjyOFky"
@@ -10368,7 +10426,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189558,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
@@ -11108,7 +11166,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 138705,
       "name": "is it enough?",
       "url": "https://open.spotify.com/track/6vMWHxbtL2u34lk510XQv3"
@@ -17656,7 +17714,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -19027,6 +19085,24 @@
     },
     {
       "album": {
+        "name": "Sou1/Spiri7",
+        "url": "https://open.spotify.com/album/5YTiSpHTXcepnKNFjejSoS"
+      },
+      "artists": [
+        {
+          "name": "MYMOU",
+          "url": "https://open.spotify.com/artist/3mMqgWb4KL1Kmdt3dB86J9"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162063,
+      "name": "Sou1/Spiri7",
+      "url": "https://open.spotify.com/track/1QIG4U1pHWp4DU9bNFNoF8"
+    },
+    {
+      "album": {
         "name": "Signals, Vol. 2",
         "url": "https://open.spotify.com/album/7EpmHd5VVQJgLFPUuD3ouX"
       },
@@ -19908,7 +19984,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 261696,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6MhcROf37o3rAqVnGpVFQK"
@@ -21992,7 +22068,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184920,
       "name": "This Life",
       "url": "https://open.spotify.com/track/2JuhLjWpYIBYUJsVZIw5Fd"
@@ -23070,7 +23146,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 192125,
       "name": "Unending Story",
       "url": "https://open.spotify.com/track/3r5JB5Nc5fgvKNRmDyHX12"
@@ -23862,7 +23938,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"

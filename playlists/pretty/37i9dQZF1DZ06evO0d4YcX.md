@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,745 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,746 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 42 | [JUMP \(feat\. Steve Vai & Travis Barker\) \- Coca\-Cola Anthem for the FIFA World Cup 26™](https://open.spotify.com/track/3rw7X1utxqRRCig2Bxua7K) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [JUMP \(feat\. Steve Vai & Travis Barker\) \[Coca\-Cola Anthem for the FIFA World Cup 26™\]](https://open.spotify.com/album/3y7padDq5LgNJrzo9cYXrx) | 3:28 |
 | 43 | [Can You Hear Me?](https://open.spotify.com/track/7EylApIgCvOGodzaRV35Hy) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:49 |
 | 44 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
-| 45 | [Trees On Fire \(ft\. Amber Mark and Marco McKinnis\)](https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Big Wave More Fire](https://open.spotify.com/album/30tc5b5AulEnOeyKTT9Cz3) | 3:46 |
-| 46 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 |
+| 45 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 |
+| 46 | [Trees On Fire \(ft\. Amber Mark and Marco McKinnis\)](https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Big Wave More Fire](https://open.spotify.com/album/30tc5b5AulEnOeyKTT9Cz3) | 3:46 |
 | 47 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 |
 | 48 | [Out of Luck](https://open.spotify.com/track/5vwBdLidaM8UEE6Hcn7zu7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 3:50 |
 | 49 | [Regret](https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:23 |
 | 50 | [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 |
 
-Snapshot ID: `atavAAAAAADSjIozWSnUZ8s0vwOCqdiR`
+Snapshot ID: `atgAgAAAAADtWTAB19yq3cUedd3+AtpZ`

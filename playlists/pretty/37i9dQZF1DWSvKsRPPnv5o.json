@@ -1,12 +1,12 @@
 {
-  "description": "Holdin' it down for the westside. Cover: AZ Chike",
-  "num_followers": 753786,
+  "description": "Holdin' it down for the westside. Cover: Anderson .Paak and Cordae",
+  "num_followers": 753706,
   "original_name": "Westside",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACzRiX7T0W9s9BkpicoPKcb++PKX",
+  "snapshot_id": "AAAAAOB8Ix/t14dRps+oqrQ+Z5AhvRaQ",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:52",
@@ -25,20 +25,44 @@
       "url": "https://open.spotify.com/track/0YZkkvAyPLdpNLB8Uj07XE"
     },
     {
-      "added_at": "2026-10-16 04:01:52",
+      "added_at": "2026-10-23 04:01:56",
       "album": {
-        "name": "Uber Eats",
-        "url": "https://open.spotify.com/album/1mfxBWZIAKs2Mx3DFqblFa"
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
       },
       "artists": [
         {
-          "name": "PayGotti",
-          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 117551,
-      "name": "Uber Eats",
-      "url": "https://open.spotify.com/track/0vt1UeUfaei8IRjK8qMSb6"
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "Luh Leakyz Vol. 1",
+        "url": "https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lyfestyle Corporation",
+          "url": "https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Lil Krazy",
+      "url": "https://open.spotify.com/track/3301sy6RP2XMn67qrjzY0y"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -105,6 +129,26 @@
       "url": "https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ"
     },
     {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "DnD (feat. Luhh Dyl)",
+        "url": "https://open.spotify.com/album/7iKG32N0nhNZr0ctV8rSl2"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        },
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "DnD (feat. Luhh Dyl)",
+      "url": "https://open.spotify.com/track/4OpAciGCBuoLij64eoFqyO"
+    },
+    {
       "added_at": "2026-10-16 04:01:52",
       "album": {
         "name": "STRIKING",
@@ -123,6 +167,42 @@
       "duration_ms": 163098,
       "name": "WINDO",
       "url": "https://open.spotify.com/track/2bCR8odsE65ME4wMnGz43h"
+    },
+    {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "Relax (2009)",
+        "url": "https://open.spotify.com/album/6KxJzeHMNbGJvcj9qM9DWd"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 221727,
+      "name": "Relax (2009)",
+      "url": "https://open.spotify.com/track/3283xMe0tWUXRtIJ7pydi5"
+    },
+    {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "I Got Problems",
+        "url": "https://open.spotify.com/album/3RbMZujN41bdqDrcb95BSl"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 153642,
+      "name": "I Got Problems",
+      "url": "https://open.spotify.com/track/2NVzVC8GL44y8m3UYHQzaV"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -159,42 +239,6 @@
     {
       "added_at": "2026-10-16 04:01:52",
       "album": {
-        "name": "Hoochie Coochie",
-        "url": "https://open.spotify.com/album/7IiGBju1sfBr6VgHYGknOv"
-      },
-      "artists": [
-        {
-          "name": "Haiti Babii",
-          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
-        },
-        {
-          "name": "Babyquaccey5",
-          "url": "https://open.spotify.com/artist/3fqprIeCzEKASuIzcnbtM4"
-        }
-      ],
-      "duration_ms": 125090,
-      "name": "Hoochie Coochie",
-      "url": "https://open.spotify.com/track/3wBNf7VniAveZawmowlyW4"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
-        "name": "Maybach Parked",
-        "url": "https://open.spotify.com/album/7bez9Lx0cUQxLjYz4hhr6p"
-      },
-      "artists": [
-        {
-          "name": "Big Sad 1900",
-          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
-        }
-      ],
-      "duration_ms": 145322,
-      "name": "Maybach Parked",
-      "url": "https://open.spotify.com/track/3J49TRZHFuBz1qapRWXxoX"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
         "name": "A Good Day",
         "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
       },
@@ -211,6 +255,38 @@
       "duration_ms": 151072,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "Creative Luxury 2 (Freestyle)",
+        "url": "https://open.spotify.com/album/1fXJSEwWYoj6OljxEpAbM6"
+      },
+      "artists": [
+        {
+          "name": "aroomfullofmirrors",
+          "url": "https://open.spotify.com/artist/4CxaPxktjqoN6F9nyftKYW"
+        }
+      ],
+      "duration_ms": 580465,
+      "name": "Creative Luxury 2 (Freestyle)",
+      "url": "https://open.spotify.com/track/3mdYffy3GLyysx05Xwzi0P"
+    },
+    {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/5VlbhxAWqw1uKDpHnLtvCj"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        }
+      ],
+      "duration_ms": 170998,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/389aQacAu5BJ81RrsY1t91"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -255,30 +331,6 @@
     {
       "added_at": "2026-10-16 04:01:52",
       "album": {
-        "name": "KNOCK",
-        "url": "https://open.spotify.com/album/0L0sz7yXh4q0FWU5wEVvAk"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        },
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 225845,
-      "name": "KNOCK",
-      "url": "https://open.spotify.com/track/0idGJz40xztZf3amTmEKax"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
         "name": "m.o.b. (outside)",
         "url": "https://open.spotify.com/album/3SEgVRjx6q5mOkGy7igcLL"
       },
@@ -291,6 +343,46 @@
       "duration_ms": 134000,
       "name": "m.o.b. (outside)",
       "url": "https://open.spotify.com/track/4UG0txLwbbfxQKBIiJ5nz1"
+    },
+    {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "TOP OPP",
+        "url": "https://open.spotify.com/album/7iYXW9pkJCpvV7UqUES3F5"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "BG Figgstar",
+          "url": "https://open.spotify.com/artist/1F9Sqto6ckKdhBOPHuNJQM"
+        }
+      ],
+      "duration_ms": 117648,
+      "name": "TOP OPP",
+      "url": "https://open.spotify.com/track/29OWihZdIUJayfPmCNxkWg"
+    },
+    {
+      "added_at": "2026-10-23 04:01:56",
+      "album": {
+        "name": "1019",
+        "url": "https://open.spotify.com/album/2S4XcoD0As679HOf6BIzuz"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        },
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "duration_ms": 123036,
+      "name": "How To Ball",
+      "url": "https://open.spotify.com/track/1CHDHDOewcAZTPPvQT5NIO"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -515,22 +607,6 @@
       "duration_ms": 153505,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/6J1ReKLy0EuDHgCSkG2tdO"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
-        "name": "Eyez On Me",
-        "url": "https://open.spotify.com/album/5lYlR7XrpVXknArYIT0Tj1"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        }
-      ],
-      "duration_ms": 135096,
-      "name": "Eyez On Me",
-      "url": "https://open.spotify.com/track/37Q6DkCFmyiE5hBLCTkBeX"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -891,22 +967,6 @@
     {
       "added_at": "2026-10-16 04:01:52",
       "album": {
-        "name": "World's Gone Crazy",
-        "url": "https://open.spotify.com/album/0wwOzJPMps8YHJpqUMPM6S"
-      },
-      "artists": [
-        {
-          "name": "aroomfullofmirrors",
-          "url": "https://open.spotify.com/artist/4CxaPxktjqoN6F9nyftKYW"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "World's Gone Crazy",
-      "url": "https://open.spotify.com/track/1aAP4ualPEDGuBy3GTQBR8"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
         "name": "TALKIN FYE",
         "url": "https://open.spotify.com/album/1CWcR6oP4LuBhsVizDTYOW"
       },
@@ -1135,22 +1195,6 @@
     {
       "added_at": "2026-10-16 04:01:52",
       "album": {
-        "name": "The Karate Kid",
-        "url": "https://open.spotify.com/album/677sywVAuOw5UxqxUg18jP"
-      },
-      "artists": [
-        {
-          "name": "Chef Boy",
-          "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Slow Down (Right now 2)",
-      "url": "https://open.spotify.com/track/4f06i592Nc214IDT8DMZGK"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/7qmv1kdoIsATLn4Azf8TZA"
       },
@@ -1191,22 +1235,6 @@
       "duration_ms": 197900,
       "name": "Bacc of the Bach",
       "url": "https://open.spotify.com/track/1SsujD1BNQ24qRb02YPsYN"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
-        "name": "The Real Boutabag III",
-        "url": "https://open.spotify.com/album/5t89Cgo1rdEV2l9GMl7NiL"
-      },
-      "artists": [
-        {
-          "name": "DB.Boutabag",
-          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
-        }
-      ],
-      "duration_ms": 130429,
-      "name": "Modern Day Dre",
-      "url": "https://open.spotify.com/track/4P578Og7D6OjPzUGtbRGaD"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -1483,22 +1511,6 @@
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
-        "name": "THE GENTLEMEN'S CLUB",
-        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 217754,
-      "name": "WE KNOW THE TRUTH",
-      "url": "https://open.spotify.com/track/2pLunsAZbnzIPpfKU0Caw4"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -1867,66 +1879,6 @@
       "duration_ms": 104212,
       "name": "Streets Don't Love You",
       "url": "https://open.spotify.com/track/1kV59Fg5fPiuWGYxFurasX"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
-        "name": "EVERYBODY (Remix)",
-        "url": "https://open.spotify.com/album/0eZwrojLzZXjPg2PbEIjMQ"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        },
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        },
-        {
-          "name": "John Mackk",
-          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
-        },
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "Rucci",
-          "url": "https://open.spotify.com/artist/5JbXKReqHxzCVIrHTIvSIT"
-        },
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        },
-        {
-          "name": "CUZZOS",
-          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
-        },
-        {
-          "name": "Wallie the Sensei",
-          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
-        },
-        {
-          "name": "Chef Boy",
-          "url": "https://open.spotify.com/artist/4omnknFgN7kkHAiCZkR8XU"
-        }
-      ],
-      "duration_ms": 374117,
-      "name": "EVERYBODY (feat. 310babii, OHGEESY, BlueBucksClan, John Mackk, G Perico, RJMrLA, Rucci, Heembeezy, CUZZOS, Wallie the Sensei, Chef Boy) - Remix",
-      "url": "https://open.spotify.com/track/308356n91cdilodNAW0HfG"
     },
     {
       "added_at": "2026-10-16 04:01:52",

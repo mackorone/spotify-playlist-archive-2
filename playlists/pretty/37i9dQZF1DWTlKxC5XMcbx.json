@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61455,
+  "num_followers": 61454,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Tuesday Wonderland",
-        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Where We Used to Live",
-      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Ellis In Wonderland",
         "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 224320,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Tuesday Wonderland",
+        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Where We Used to Live",
+      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
-      },
-      "artists": [
-        {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Sous Le Ciel De Paris",
-      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Maze of Tranquility",
         "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 262707,
       "name": "Maze of Tranquility",
       "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Sous Le Ciel De Paris",
+      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 447280,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -771,30 +771,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Master Trio",
-        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Angel Eyes - Studio",
-      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -823,6 +799,30 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Master Trio",
+        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Angel Eyes - Studio",
+      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "A Hundred Dreams from Now",
         "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 206040,
       "name": "A Hundred Dreams from Now",
       "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -883,22 +899,6 @@
       "duration_ms": 404026,
       "name": "Light Blue",
       "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Ernie's Tune",
-      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 451155,
       "name": "Does The Sun Really Shine On The Moon",
       "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Ernie's Tune",
+      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Self-Portrait in Three Colors",
-      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "And Suddenly There Was Love",
         "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 267142,
       "name": "And Suddenly There Was Love",
       "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Self-Portrait in Three Colors",
+      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 286600,
       "name": "Joy Is Sorrow Unmasked",
       "url": "https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Gone With The Wind",
-        "url": "https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r"
-      },
-      "artists": [
-        {
-          "name": "Martin Wind",
-          "url": "https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT"
-        },
-        {
-          "name": "Bill Mays",
-          "url": "https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ"
-        },
-        {
-          "name": "Keith Copeland",
-          "url": "https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe"
-        }
-      ],
-      "duration_ms": 499600,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Night in the City",
         "url": "https://open.spotify.com/album/7I9Av7XYxponwKOHUJqmd4"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 77533,
       "name": "Interlude No. 3",
       "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Gone With The Wind",
+        "url": "https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r"
+      },
+      "artists": [
+        {
+          "name": "Martin Wind",
+          "url": "https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT"
+        },
+        {
+          "name": "Bill Mays",
+          "url": "https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ"
+        },
+        {
+          "name": "Keith Copeland",
+          "url": "https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe"
+        }
+      ],
+      "duration_ms": 499600,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym"
     },
     {
       "added_at": "2026-02-09 02:43:04",

@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 39197,
+  "num_followers": 39198,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABPE6tS5cEx79Jhc7mZWVlu",
+  "snapshot_id": "atgAgAAAAACFihTa+f1icyw5oQBrpzNG",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+        "name": "Reason For Breathing",
+        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Stressed Out",
-      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
+      "duration_ms": 342800,
+      "name": "Reason for Breathing - Album Edit",
+      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reason For Breathing",
-        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 342800,
-      "name": "Reason for Breathing - Album Edit",
-      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
+      "duration_ms": 215466,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
     },
     {
       "added_at": null,

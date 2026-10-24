@@ -1,12 +1,12 @@
 {
   "description": "The best videos from the world of pop! Cover: Olivia Rodrigo & Chappell Roan",
-  "num_followers": 11869,
+  "num_followers": 11904,
   "original_name": "Pop Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqMnA7lDrs/cP1JcIzYiSt7HgXa",
+  "snapshot_id": "AAAAAMaXwZSq0SzohXkFswqnlFYUloxa",
   "tracks": [
     {
       "added_at": "2026-10-20 00:20:01",
@@ -43,6 +43,22 @@
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-23 04:55:57",
+      "album": {
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
     },
     {
       "added_at": "2026-10-09 05:10:31",
@@ -287,6 +303,22 @@
       "duration_ms": 214806,
       "name": "Lucy, When You Wake Up",
       "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
+    },
+    {
+      "added_at": "2026-10-23 04:55:57",
+      "album": {
+        "name": "Peter Pan Syndrome",
+        "url": "https://open.spotify.com/album/6demjC0kDFAp07LWgXou0O"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4xVC1UohDxY5NrvAWyClZr"
     },
     {
       "added_at": "2026-09-18 04:52:51",
@@ -1471,22 +1503,6 @@
     {
       "added_at": "2026-08-21 18:05:13",
       "album": {
-        "name": "CHAT",
-        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
-      },
-      "artists": [
-        {
-          "name": "GIRLSET",
-          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "CHAT",
-      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
         "name": "High Hopes 3000",
         "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
       },
@@ -1499,6 +1515,22 @@
       "duration_ms": 245755,
       "name": "High Hopes 3000",
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+    },
+    {
+      "added_at": "2026-08-21 18:05:13",
+      "album": {
+        "name": "House Tour",
+        "url": "https://open.spotify.com/album/5La0WUeRDbLQCJqSZHZHcJ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 214472,
+      "name": "House Tour",
+      "url": "https://open.spotify.com/track/33KlGMwarP80x0CmgcHuCT"
     },
     {
       "added_at": "2026-08-21 18:05:13",
@@ -1567,42 +1599,6 @@
       "duration_ms": 194880,
       "name": "Dance No More",
       "url": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
-    },
-    {
-      "added_at": "2026-08-21 18:05:13",
-      "album": {
-        "name": "House Tour",
-        "url": "https://open.spotify.com/album/5La0WUeRDbLQCJqSZHZHcJ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 214472,
-      "name": "House Tour",
-      "url": "https://open.spotify.com/track/33KlGMwarP80x0CmgcHuCT"
     },
     {
       "added_at": "2026-08-21 18:05:13",

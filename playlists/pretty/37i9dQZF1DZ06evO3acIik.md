@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,080 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,091 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 28 | [Hollow Lover](https://open.spotify.com/track/4IGKuHwRCzLU72OcKVewrA) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/7hKTlT6GObMqemap6iBa5Q) | 3:07 |
 | 29 | [Is it a Crime?](https://open.spotify.com/track/7dr1xuaEhYlykaoGNP10a3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 3:20 |
 | 30 | [Soon](https://open.spotify.com/track/4bYtMO7J56StUfIEEAQSPH) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 3:16 |
-| 31 | [Better Off](https://open.spotify.com/track/66xRBkSLMayKuFHVVSiqNY) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD) | 1:50 |
-| 32 | [Bodies](https://open.spotify.com/track/21yc8LrPyJ8v52s4PC1hUC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb) | 0:56 |
-| 33 | [You Changed on Me.](https://open.spotify.com/track/4zPtXbC2XnYo6AoEArcJBx) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 2:04 |
+| 31 | [Bodies](https://open.spotify.com/track/21yc8LrPyJ8v52s4PC1hUC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb) | 0:56 |
+| 32 | [Better Off](https://open.spotify.com/track/66xRBkSLMayKuFHVVSiqNY) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD) | 1:50 |
+| 33 | [Mercy](https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW) | 2:29 |
 | 34 | [Belong](https://open.spotify.com/track/3ej0eVZ6orLdaYTk5MckFc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 3:08 |
-| 35 | [Mercy](https://open.spotify.com/track/21EIQVCOJd52ka7xpmIcQP) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/0EXsVBTG8GyITT2d6q9ECW) | 2:29 |
+| 35 | [You Changed on Me.](https://open.spotify.com/track/4zPtXbC2XnYo6AoEArcJBx) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 2:04 |
 | 36 | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/album/1WPY8kRB01objem7KdBwya) | 4:27 |
 | 37 | [We Are Still In Love](https://open.spotify.com/track/3JJhBch0AWO0QY18dSd0Wc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/7zti2rv9mVrfELqwp9mgpD) | 3:35 |
 | 38 | [I'd Do Anything For You](https://open.spotify.com/track/781598Nn95TxDrkXny42A8) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Stay Patient.](https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay Patient.](https://open.spotify.com/album/2XhxedyLppu92AMi3038ES) | 3:20 |
 | 50 | [3:35am](https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt) | 3:02 |
 
-Snapshot ID: `atavAAAAAAAlyaQ1iCK2m/nQRi9287BB`
+Snapshot ID: `atgAgAAAAABLSqhsWCPDoivajmXv9MU4`

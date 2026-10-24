@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90807,
+  "num_followers": 90823,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 243014,
-      "name": "Pool - Stripped",
-      "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Smoke & Embers",
         "url": "https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 227693,
       "name": "Smoke & Embers",
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 243014,
+      "name": "Pool - Stripped",
+      "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Sunflowers and Leather",
+        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "4 songs",
         "url": "https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 184540,
       "name": "pull me out",
       "url": "https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Sunflowers and Leather",
-        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "For The First Time, Again",
-        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 213902,
-      "name": "For The First Time, Again",
-      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Death in the Business of Whaling",
         "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "For The First Time, Again",
+        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "For The First Time, Again",
+      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Beneath The Lilypad",
+        "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Savior",
+          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
+        }
+      ],
+      "duration_ms": 224130,
+      "name": "Goodbye, Old Friend",
+      "url": "https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -995,26 +1011,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "I Don't Know How But They Found Me...Again!",
-        "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 229911,
-      "name": "God Has A Hitman",
-      "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
       },
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Beneath The Lilypad",
-        "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
+        "name": "I Don't Know How But They Found Me...Again!",
+        "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
       },
       "artists": [
         {
-          "name": "Alexandra Savior",
-          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 224130,
-      "name": "Goodbye, Old Friend",
-      "url": "https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY"
+      "duration_ms": 229911,
+      "name": "God Has A Hitman",
+      "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "if i'm honest for once",
+        "url": "https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "generations in the making",
+      "url": "https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "My Days of 58",
         "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "if i'm honest for once",
-        "url": "https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM"
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
       },
       "artists": [
         {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 257384,
-      "name": "generations in the making",
-      "url": "https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ"
+      "duration_ms": 289653,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1159,22 +1175,6 @@
       "duration_ms": 272196,
       "name": "Warning",
       "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Poison In My Well",
         "url": "https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
         }
       ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1459,22 +1475,6 @@
       "duration_ms": 259842,
       "name": "My Maker",
       "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Nostalgic for Nothing",
-        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Nostalgic for Nothing",
-      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Getting By",
-        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 191349,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Little Boxes",
-        "url": "https://open.spotify.com/album/01h62VkdHGj6AUleVFbroG"
+        "name": "Twilight Override",
+        "url": "https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
         }
       ],
-      "duration_ms": 273241,
-      "name": "Little Boxes",
-      "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
+      "duration_ms": 263040,
+      "name": "Caught Up In the Past",
+      "url": "https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Twilight Override",
-        "url": "https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6"
+        "name": "Little Boxes",
+        "url": "https://open.spotify.com/album/01h62VkdHGj6AUleVFbroG"
       },
       "artists": [
         {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Caught Up In the Past",
-      "url": "https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE"
+      "duration_ms": 273241,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 170810,
       "name": "Donn\u00e9 ma peau",
       "url": "https://open.spotify.com/track/18ttEALJCQM64xw532B815"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 166426,
       "name": "Missing",
       "url": "https://open.spotify.com/track/6cjLzYXcciwqS0CtSuZNSh"
@@ -3514,6 +3514,24 @@
       "duration_ms": 188000,
       "name": "rainwater on the windowsill",
       "url": "https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj"
+    },
+    {
+      "album": {
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "album": {

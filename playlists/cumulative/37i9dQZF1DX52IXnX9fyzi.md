@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-599 songs - 1 day 1 hr 46 min
+603 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/track/3wbUNzYewaXXPMqeKZvl8I) | [Aramis Silvereke](https://open.spotify.com/artist/11efnmWuN6PImMPmQjAfKq) | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/album/0ZwZThQ3XiWXWNw8xF06hF) | 4:00 | 2022-05-04 | 2024-10-02 |
 | [A Heart Left Waiting](https://open.spotify.com/track/665cLB7yDDROBMULcwxWPN) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [A Heart Left Waiting](https://open.spotify.com/album/0Cd764v4nVZXsXXJ0TN7fO) | 2:58 | 2026-09-25 |  |
 | [A Landscape In Time](https://open.spotify.com/track/3N3MDdkEPA6GDJcv5piDvF) | [Aran Locksley](https://open.spotify.com/artist/7GSlNqdvjRJaWUof6GaobW) | [A Landscape In Time](https://open.spotify.com/album/7AuKscPwxN4mpn8CicToVZ) | 2:18 | 2026-07-17 |  |
+| [A Little While](https://open.spotify.com/track/1ubmrFkL5wY0FvffVwUSEr) | [Quire](https://open.spotify.com/artist/2w7lRMm4lmFoPq20cGqMTt) | [A Little While](https://open.spotify.com/album/1MJurU4oezE5y1DQlXFfRx) | 3:14 | 2026-10-23 |  |
 | [A Love Note](https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [A Love Note](https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU) | 2:06 | 2023-11-07 | 2025-05-01 |
 | [A passing season](https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [A passing season](https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7) | 2:55 | 2024-03-04 | 2026-08-28 |
 | [A Quiet Journey](https://open.spotify.com/track/0Tzt1xoXzSEsQF3alItEV3) | [Jonas Kolberg](https://open.spotify.com/artist/6s0rUzmBKNenjVjkQ6BGf7) | [A Quiet Journey](https://open.spotify.com/album/0PQWXqyD9MPQWuhr1hz1mj) | 2:37 | 2022-08-03 | 2023-04-19 |
@@ -209,6 +210,7 @@
 | [Goodnight Moon](https://open.spotify.com/track/05YZGty7GN6MftfPu3vWiI) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Goodnight Moon](https://open.spotify.com/album/4v823p6Ws27vZ6IxpjwIQu) | 3:14 | 2022-04-14 | 2024-04-04 |
 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 | 2022-04-14 | 2024-04-04 |
 | [Hat full of candles](https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Hat full of candles](https://open.spotify.com/album/6egJetQktX1XDBVLpAcvOe) | 3:03 | 2023-10-10 | 2026-08-01 |
+| [Haven](https://open.spotify.com/track/5bnAaS9D23fwliFJTWVkcU) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Haven](https://open.spotify.com/album/2deTjGyybw2jaxmQ96rRXt) | 2:17 | 2026-10-23 |  |
 | [Heal](https://open.spotify.com/track/2fxcZyta2BeXV92mae22B3) | [Pieter Savenberg](https://open.spotify.com/artist/2S4k9mN8c0AUrenisHLpNp) | [Duality](https://open.spotify.com/album/69L1ipjKws5rY7QuECAicd) | 2:09 | 2022-05-26 | 2025-04-10 |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2022-04-14 | 2022-05-14 |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 | 2026-02-11 |
@@ -403,12 +405,14 @@
 | [Randonnée](https://open.spotify.com/track/2HfRtKv9HU2e9PsLFRAjkD) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Randonnée](https://open.spotify.com/album/7C4KHUzQB4b6mvdEqEEgGI) | 3:29 | 2024-03-19 | 2026-02-11 |
 | [Range of expression](https://open.spotify.com/track/7uNVQkCgMF1P0R453HWhZL) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Range of expression](https://open.spotify.com/album/42ALfkEw95kdyAvJ6fdDDi) | 2:21 | 2026-07-17 |  |
 | [Recueillement](https://open.spotify.com/track/2y5JRyMaUeelv5mKHYmu1E) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Recueillement](https://open.spotify.com/album/28LsKQTEpvkctTTsD7CqIJ) | 2:14 | 2022-05-13 | 2022-07-16 |
+| [Reflect](https://open.spotify.com/track/2DrwEAny1f7SfATgisysxY) | [Chris Rusak](https://open.spotify.com/artist/7pLo6CiE9wZsJTKW8rNIZC) | [Reflect](https://open.spotify.com/album/0MIqJY6C251EzHlcDWppo0) | 2:14 | 2026-10-23 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-04-14 | 2023-10-11 |
 | [Reflexao](https://open.spotify.com/track/1jAOGVtimzJediy92w6URn) | [M\. Lapis](https://open.spotify.com/artist/7yapVPB4FRlHJJ3IsOpbaO) | [Reflexao](https://open.spotify.com/album/7nrqn6Ri8ISlwBpIenRNnI) | 2:09 | 2026-07-17 |  |
 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 | 2024-02-02 |  |
 | [Remember those quiet evenings](https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Remember those quiet evenings](https://open.spotify.com/album/7CWDWm6UhHaEvXvNbSxzjl) | 2:36 | 2024-05-01 |  |
 | [Reprieve](https://open.spotify.com/track/3KsmiO162iiPwd7M4LTEoj) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Reprieve](https://open.spotify.com/album/516r2bY7jgSZkScDfSCg2V) | 2:37 | 2022-04-14 | 2022-05-14 |
 | [Resonance](https://open.spotify.com/track/5KaaNCxeT5nkzZWDIrFc57) | [Julian Ellwood](https://open.spotify.com/artist/4MDVendmY7CecWKdkoPjNc) | [Resonance](https://open.spotify.com/album/0am8yGAM9H08RY1veBCOc0) | 2:15 | 2023-01-20 | 2025-04-05 |
+| [Resting Light](https://open.spotify.com/track/2YcGhnyRk1EQjemRkBKzi3) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Resting Light](https://open.spotify.com/album/6A2XRb3cmKag8BbUFFXvnV) | 2:29 | 2026-10-23 |  |
 | [Retrospect](https://open.spotify.com/track/5iSifjMixcgREH6uzunq1P) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Retrospect](https://open.spotify.com/album/15IKoauTEvz6dQQ1egPE9H) | 2:49 | 2022-12-22 | 2025-05-01 |
 | [Return of the wolves](https://open.spotify.com/track/2OIzFIGMPL2UCjtDyEjzhK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG), [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [Return of the wolves](https://open.spotify.com/album/5zldCchYUyq0M1gbxkRuhQ) | 2:46 | 2023-09-05 | 2026-02-11 |
 | [Riding the wind](https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Riding the wind](https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn) | 3:21 | 2023-08-22 | 2026-05-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Elmo. The essential tracks, all in one playlist.",
-  "num_followers": 16912,
+  "num_followers": 16963,
   "original_name": "This Is Elmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACHSJU0wRcQc5PuLNp4cHm5",
+  "snapshot_id": "atgAgAAAAABp8OpwEvZeRFdezF5OpRRA",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "S Is for Sing!",
+        "url": "https://open.spotify.com/album/5bPDOr55yh38yF93hvG0qx"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "The Sesame Street Cast",
+          "url": "https://open.spotify.com/artist/5x7XfWbvbfarIFWWzMa4rM"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/5cHHjFKe2uuAH4AONCdLZL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happy Dance",
         "url": "https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 95740,
       "name": "What Do Monsters Love to Do?",
       "url": "https://open.spotify.com/track/2D6yjZuQxgsew0QBfdcJBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S Is for Sing!",
-        "url": "https://open.spotify.com/album/5bPDOr55yh38yF93hvG0qx"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "The Sesame Street Cast",
-          "url": "https://open.spotify.com/artist/5x7XfWbvbfarIFWWzMa4rM"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/5cHHjFKe2uuAH4AONCdLZL"
     },
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rhythm of Routines",
-        "url": "https://open.spotify.com/album/0W865n05JMBUF3HfiabeEZ"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Abby Cadabby",
-          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 100666,
-      "name": "Clean Up Song",
-      "url": "https://open.spotify.com/track/3uJprElJjcZxbx0uQlGPl7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesame Street: Kids' Favorite Songs 2",
         "url": "https://open.spotify.com/album/16aAKJ6cx1nA0S15UTyEJm"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 192406,
       "name": "Mary Had a Little Lamb",
       "url": "https://open.spotify.com/track/121kEUeDcmXImXePRcCHKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rhythm of Routines",
+        "url": "https://open.spotify.com/album/0W865n05JMBUF3HfiabeEZ"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 100666,
+      "name": "Clean Up Song",
+      "url": "https://open.spotify.com/track/3uJprElJjcZxbx0uQlGPl7"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blippi And Sesame Street Adventures",
+        "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/2kEhzvRzkxM8m8HB3P0bdM"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 124634,
+      "name": "Let's Take Care Of Animals - Sesame Street Version",
+      "url": "https://open.spotify.com/track/0S9xlPL4GkXtpcCylsXbCg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ABC 123",
         "url": "https://open.spotify.com/album/0QXCIagcYSnzr59Gp0C4fr"
       },
@@ -1083,38 +1115,6 @@
       "duration_ms": 93755,
       "name": "The Letter of the Day \"B\"",
       "url": "https://open.spotify.com/track/6lxyDrQ5HDvEPieUNL9IO3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blippi And Sesame Street Adventures",
-        "url": "https://open.spotify.com/album/2XfdTa9USFOgbnANZzyUco"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        },
-        {
-          "name": "Meekah",
-          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
-        },
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Grover",
-          "url": "https://open.spotify.com/artist/2kEhzvRzkxM8m8HB3P0bdM"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 124634,
-      "name": "Let's Take Care Of Animals - Sesame Street Version",
-      "url": "https://open.spotify.com/track/0S9xlPL4GkXtpcCylsXbCg"
     },
     {
       "added_at": null,

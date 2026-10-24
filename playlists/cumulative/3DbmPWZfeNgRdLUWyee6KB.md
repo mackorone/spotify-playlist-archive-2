@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,627 songs - 3 day 22 hr 56 min
+1,630 songs - 3 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,6 +1099,7 @@
 | [Que la luna me desarme](https://open.spotify.com/track/2Frm899zUZksGp5fRfialm) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 2:53 | 2026-02-19 | 2026-03-25 |
 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 | 2026-09-08 | 2026-10-23 |
 | [Querendo se amar](https://open.spotify.com/track/7zzt1qN5liyVqDjhKLNUmD) | [MARÉ MANSA](https://open.spotify.com/artist/0aqA11WetNWTGzgeHm6aF7) | [Querendo se amar](https://open.spotify.com/album/1lPc2hHods1EXP2aRwCKc7) | 2:44 | 2026-05-04 | 2026-06-05 |
+| [Quetzal](https://open.spotify.com/track/7ea21HK7BpF9cr2Y82QoZR) | [Isa G](https://open.spotify.com/artist/2dGQlNsgOf5n1hzyL3lPIv), [DJ Okay](https://open.spotify.com/artist/3pmFBfQSNpyyWrNLI0907a), [DJ Speedy Macchiato](https://open.spotify.com/artist/0DSdGntAi53SBkmEx9AT9z) | [Quetzal](https://open.spotify.com/album/5sMuJOPlLPB1SFGa3irbyl) | 4:37 | 2026-10-23 |  |
 | [Quienes hacen cuadros](https://open.spotify.com/track/0856K6dsv0MtyloOBMWlPZ) | [Los Insólitos](https://open.spotify.com/artist/4dgg2FsnowLvnzFaXVqhNX) | [Quienes hacen cuadros](https://open.spotify.com/album/2TSJGJ93cXAupQqCjeFjK3) | 3:00 | 2026-04-13 | 2026-05-14 |
 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 | 2025-12-15 | 2026-01-15 |
 | [Quiet Mirror](https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:58 | 2025-12-22 | 2026-01-27 |
@@ -1113,6 +1114,7 @@
 | [Rated M](https://open.spotify.com/track/1LUPdZ7SeiuZUV8oTgb43H) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Rated M](https://open.spotify.com/album/3qm2eECvQThRRONvUXTMPQ) | 1:44 | 2025-10-23 | 2025-11-29 |
 | [Ready Set \- Stripped Down Version](https://open.spotify.com/track/27pGFErz2lZx9yEPzWfQIo) | [huch79](https://open.spotify.com/artist/6fMQ33yPUv5a6CHDEGKhd8) | [Ready Set \(Stripped Down Version\)](https://open.spotify.com/album/0l1VaZQw0MGcxTfqF2dDM8) | 5:24 | 2026-10-14 |  |
 | [Ready to fly](https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x) | [The Last North](https://open.spotify.com/artist/32rZRpC22soXsW4tuNAzLs) | [Ready to fly](https://open.spotify.com/album/0DJUFmcW18iQwGaWdtQnUs) | 3:28 | 2026-09-07 | 2026-10-03 |
+| [Ready to Risk](https://open.spotify.com/track/7IXa7Cs6KUWWDyucCpDi1d) | [Harlem Night](https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd) | [Ready to Risk](https://open.spotify.com/album/5VeQqR8G9Glfl0C9wvrELB) | 4:12 | 2026-10-23 |  |
 | [Ready, Set, Go.](https://open.spotify.com/track/0ySUMpzNZ0HC8ztomSTKtz) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Ready, Set, Go.](https://open.spotify.com/album/0esJrPhaQKTgfeujAPP0Oj) | 3:02 | 2025-09-19 | 2025-11-29 |
 | [Reason](https://open.spotify.com/track/5oUtDEqAP26uZ3QKmjec3e) | [Dom Guedes](https://open.spotify.com/artist/5mwKiaUgvMs600WQ6aMyuM) | [Reason](https://open.spotify.com/album/5jFSeeXNx6ktQhzurPMWAa) | 3:50 | 2026-08-13 | 2026-09-17 |
 | [Rebel Made](https://open.spotify.com/track/48kOUJRx3b9bMHpc4Mv0td) | [Ichinomoto Yu](https://open.spotify.com/artist/0RKwMRcEaP7vFUsyQOLOkr) | [Rebel Made](https://open.spotify.com/album/1Zy5kzjejttU7SwzqQoWHf) | 2:39 | 2026-01-06 | 2026-02-03 |
@@ -1539,6 +1541,7 @@
 | [WE CAN TRY](https://open.spotify.com/track/00Ev00L99Lb4zWvxbHIZR7) | [XORXE](https://open.spotify.com/artist/5slrVjAepvQSLBRQ7dIZAD) | [WE CAN TRY](https://open.spotify.com/album/49mup2btItIOyPGOJIfkN5) | 3:41 | 2026-03-24 | 2026-04-22 |
 | [WE GOT ME AND YOU](https://open.spotify.com/track/7iE9B4ABEnccnd1wlVvIdA) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK), [Steve Balsamo](https://open.spotify.com/artist/6g4NDZyv8dDbZUnNu2dDEe) | [WE GOT ME AND YOU](https://open.spotify.com/album/7ftfDtY8Kfqe1lFlzZpAgk) | 3:26 | 2025-09-23 | 2025-11-29 |
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2026-02-17 | 2026-03-25 |
+| [We Might As Well](https://open.spotify.com/track/3vgR3WEPLoe3BiDSEDejio) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Tsunami](https://open.spotify.com/album/3vEEDi3eoXun3rU13XpAvb) | 4:32 | 2026-10-23 |  |
 | [Weisst du noch ?](https://open.spotify.com/track/4huYzPzA8X4qbVEy68KjLD) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Weisst du noch ?](https://open.spotify.com/album/2GcaJ26qd0XxJOdVhd6yqu) | 2:56 | 2026-01-20 | 2026-02-20 |
 | [Weizenwetter](https://open.spotify.com/track/6zWKGR8Rn1EGib9mOP2jxf) | [LEEZE](https://open.spotify.com/artist/2IiWnyqGW4BZHM8THRSFpe) | [Weizenwetter](https://open.spotify.com/album/1HLwzEgafWcvuhsJqaIYgb) | 3:09 | 2026-05-29 | 2026-07-03 |
 | [Welcome Back](https://open.spotify.com/track/52i2rBvsE7q3TLQXvIheyn) | [Marionette Noir](https://open.spotify.com/artist/4rDm5cA7jpu6LF95zokjHA) | [The Playbook EP](https://open.spotify.com/album/60AJDuaR9hs29AN1QQueeN) | 5:09 | 2026-10-20 |  |

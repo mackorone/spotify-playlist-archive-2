@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 65602,
+  "num_followers": 65611,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACf4xNth1KnqHwWyJHR9JcU",
+  "snapshot_id": "atgAgAAAAABsQXQocTjGea/IOBawfCeA",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "El Despilfarro",
-      "url": "https://open.spotify.com/track/0cKpLltsjba1REqMwFzvK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Despilfarro",
+        "url": "https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "El Despilfarro",
+      "url": "https://open.spotify.com/track/0cKpLltsjba1REqMwFzvK1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
       },
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Antes del Meridiano",
+      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 316002,
       "name": "La Esquina del Mariachi",
       "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Antes del Meridiano",
-      "url": "https://open.spotify.com/track/6l3SJhTmqqlmCcm3gMRTFE"
     },
     {
       "added_at": null,

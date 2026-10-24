@@ -1,13 +1,29 @@
 {
-  "description": "What's happening in r&b, right now \u2013 featuring Lucky Daye.",
-  "num_followers": 361399,
+  "description": "What's happening in r&b, right now \u2013 featuring Avenoir.",
+  "num_followers": 361396,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKnQ/gSfToj9ktfyApm7wjgNG+Pr",
+  "snapshot_id": "AAAAAFeFJVlTP3KpwSBMmTYaQqa9U8JT",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "Superposition",
+        "url": "https://open.spotify.com/album/7cefdWw7RyJXmKZEX0PduI"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "Superposition",
+      "url": "https://open.spotify.com/track/5vR7uJE1YTA9p3n6xBE1p1"
+    },
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
@@ -45,44 +61,20 @@
       "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
     },
     {
-      "added_at": "2026-10-16 04:00:21",
+      "added_at": "2026-10-23 04:00:28",
       "album": {
-        "name": "FOR SIXXX IN THE MORNIN (with Samara Cyn)",
-        "url": "https://open.spotify.com/album/2RG13AEWo5I4OQaHuvtJ5N"
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 234036,
-      "name": "FOR SIXXX IN THE MORNIN (with Samara Cyn)",
-      "url": "https://open.spotify.com/track/5hGnrxC9mJHSZolU7DZPiA"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "Frequency Of Love",
-        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 158026,
-      "name": "See You In My Dreams (feat. SZA)",
-      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -107,6 +99,102 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
+        "name": "FOR SIXXX IN THE MORNIN (with Samara Cyn)",
+        "url": "https://open.spotify.com/album/2RG13AEWo5I4OQaHuvtJ5N"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "FOR SIXXX IN THE MORNIN (with Samara Cyn)",
+      "url": "https://open.spotify.com/track/5hGnrxC9mJHSZolU7DZPiA"
+    },
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "Yes (feat. Sevyn Streeter)",
+        "url": "https://open.spotify.com/album/01oX0iNi2NwvtO59wQtXP9"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 161630,
+      "name": "Yes (feat. Sevyn Streeter)",
+      "url": "https://open.spotify.com/track/5hqbhdGf3HC2CvlbbZeFnu"
+    },
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
+      "added_at": "2026-10-16 04:00:21",
+      "album": {
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 158026,
+      "name": "See You In My Dreams (feat. SZA)",
+      "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
+    },
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "love?... or something like it (Deluxe)",
+        "url": "https://open.spotify.com/album/0VI7CsEX0FZvHu1D7q9xFI"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "love or something like it (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
+    },
+    {
+      "added_at": "2026-10-16 04:00:21",
+      "album": {
         "name": "HABIBTI (FOMO)",
         "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
       },
@@ -123,6 +211,22 @@
       "duration_ms": 218388,
       "name": "Solar Eclipse (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
+    },
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "director's cut",
+        "url": "https://open.spotify.com/album/3IgaUAhm4g3YOuVpjH5XVs"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 155191,
+      "name": "director's cut",
+      "url": "https://open.spotify.com/track/3DJ24lIq2doZ0s2I6lizy1"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -171,6 +275,26 @@
       "duration_ms": 196762,
       "name": "Mr Right",
       "url": "https://open.spotify.com/track/3rZj4LoO1tK4NsmlVAVe8e"
+    },
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "Relax (2009)",
+        "url": "https://open.spotify.com/album/6KxJzeHMNbGJvcj9qM9DWd"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 221727,
+      "name": "Relax (2009)",
+      "url": "https://open.spotify.com/track/3283xMe0tWUXRtIJ7pydi5"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -243,22 +367,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "Plein Soleil",
-        "url": "https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Plein Soleil",
-      "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "Juicy",
         "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
       },
@@ -271,6 +379,26 @@
       "duration_ms": 186666,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
+    },
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "Cry On You",
+        "url": "https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 120521,
+      "name": "Cry On You",
+      "url": "https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -319,6 +447,22 @@
       "duration_ms": 200600,
       "name": "Narcotica",
       "url": "https://open.spotify.com/track/3xoZfRajtcVV9ClP8ZoGC5"
+    },
+    {
+      "added_at": "2026-10-23 04:00:28",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 224690,
+      "name": "SO MUCH, SO MUCH",
+      "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -883,26 +1027,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "Put Up",
-        "url": "https://open.spotify.com/album/46yLNPmVixjtMo5zR0sQ4q"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Lady London",
-          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
-        }
-      ],
-      "duration_ms": 172008,
-      "name": "Put Up",
-      "url": "https://open.spotify.com/track/1di5wVDR3Y4tKOaiuhFQ5B"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "Mood 2",
         "url": "https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY"
       },
@@ -1047,22 +1171,6 @@
       "duration_ms": 152000,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "DO YOU SEE ME?",
-        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
-      },
-      "artists": [
-        {
-          "name": "Q Marsden",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "silly boy",
-      "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -1515,22 +1623,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "Small Chops",
-        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 104070,
-      "name": "Cry On You",
-      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "Passport Stamps",
         "url": "https://open.spotify.com/album/1BN7JMmV7h7XL6QFvKdXIB"
       },
@@ -1551,26 +1643,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "Fallin' (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 266276,
-      "name": "Fallin' (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "Kehlani",
         "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
       },
@@ -1587,22 +1659,6 @@
       "duration_ms": 186112,
       "name": "Shoulda Never (feat. USHER)",
       "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "Gemini Moon",
-        "url": "https://open.spotify.com/album/3TMxYvZnfavln0bhn9nxZl"
-      },
-      "artists": [
-        {
-          "name": "Yoko Gold",
-          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
-        }
-      ],
-      "duration_ms": 160723,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/5WwvrJP8Fsd4PY85pNjtyU"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -1639,22 +1695,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "Don\u2019t Come Home",
-        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 131189,
-      "name": "Call Me When You Can",
-      "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -1675,26 +1715,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "girl, get up. (feat. SZA)",
-        "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "girl, get up. (feat. SZA)",
-      "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "PRAY FOR ME",
         "url": "https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs"
       },
@@ -1707,42 +1727,6 @@
       "duration_ms": 195687,
       "name": "96 Camry",
       "url": "https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "added_at": "2026-10-16 04:00:21",

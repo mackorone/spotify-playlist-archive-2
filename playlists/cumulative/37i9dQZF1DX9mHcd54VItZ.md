@@ -4,7 +4,7 @@
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-1,004 songs - 2 day 10 hr 32 min
+1,006 songs - 2 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bag of Bones](https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Bag of Bones](https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1) | 2:37 | 2022-09-15 | 2022-11-25 |
 | [Bakers Mini Krieket](https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ) | [Dawid de Koning en die Kommuniste](https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2) | [Aangenaam](https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5) | 3:57 | 2024-12-19 | 2025-01-31 |
 | [Bangkinners](https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Bangkinners](https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA) | 2:43 | 2026-07-30 | 2026-09-18 |
+| [Baseline](https://open.spotify.com/track/73lM1799uutdMU9kYRGn6M) | [We Had Plans](https://open.spotify.com/artist/17gJ9vPD1savdV1NJpelGg) | [Baseline](https://open.spotify.com/album/2gRUmq4vnojyJn4jOfbV51) | 4:00 | 2026-10-23 |  |
 | [Battering Lamb](https://open.spotify.com/track/7vwVsjEnWkCLgQRc6gbFFw) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Battering Lamb](https://open.spotify.com/album/4qvCXMGH7dfliEGXYvXdaw) | 3:24 | 2024-07-04 | 2024-08-04 |
 | [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 | 2023-06-01 | 2023-08-20 |
 | [Before You Disappear](https://open.spotify.com/track/495cjydvmEw3WdH4K8LJJz) | [Ruben Gerritz](https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0) | [Before You Disappear](https://open.spotify.com/album/0gPgCrgYK8KeTPogzoccHA) | 3:18 | 2026-06-18 | 2026-07-18 |
@@ -229,7 +230,7 @@
 | [Die Man](https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We) | [André Visagie](https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK) | [Bo Dorp](https://open.spotify.com/album/0ob0rVAs13K2PSZeJ8P49w) | 2:42 | 2023-08-31 | 2023-10-27 |
 | [Die Reënmasjien](https://open.spotify.com/track/15zECs6Gbi1MFSKdxEUZ1F) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Kleiner](https://open.spotify.com/album/1LYVEZzgNtSpZKK4k4xOnS) | 3:13 | 2026-10-16 |  |
 | [Die Ritme Boer](https://open.spotify.com/track/4SyfOZUJYVCp8zTF9935YW) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Die Ritme Boer](https://open.spotify.com/album/5xdoman8l0daDSvMiceNoh) | 3:18 | 2025-09-25 | 2025-10-03 |
-| [Die Ruimte](https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Die Ruimte](https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql) | 2:58 | 2025-03-21 |  |
+| [Die Ruimte](https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Die Ruimte](https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql) | 2:58 | 2025-03-21 | 2026-10-24 |
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2023-05-06 |
 | [DIE SONDE LÊ EN LOER](https://open.spotify.com/track/2pVV2Zf3CsqQdH8HPQEhqN) | [Francis Na Die Maan](https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL) | [JOHANNA VAN ARK](https://open.spotify.com/album/6kjUzzGUQm3eK7Zqr0cwr7) | 3:12 | 2025-08-14 | 2025-09-20 |
 | [Die Sterre Binne Jou](https://open.spotify.com/track/0SASpYNg8wXAzljJNVkTuv) | [Saarkie](https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf) | [Die Sterre Binne Jou](https://open.spotify.com/album/2LfoCD0e6F2enqGZAhSzIE) | 3:51 | 2025-01-30 | 2025-02-07 |
@@ -922,7 +923,7 @@
 | [Twisted By The Sound](https://open.spotify.com/track/5SQu1E9ACvBeqLxb04224Z) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Twisted By The Sound](https://open.spotify.com/album/3RYoTkgyhZuKT8otm9DM6H) | 2:49 | 2026-09-24 | 2026-10-09 |
 | [Tyd](https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Klein Wêreld](https://open.spotify.com/album/1GH5KV0DZzHDTPgf4UTs9A) | 3:38 | 2023-07-13 | 2023-09-16 |
 | [Tyd & Gees](https://open.spotify.com/track/2SqU2NNOv9NP9tXDZUjRzS) | [Kris Ray](https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN), [Juan Bester](https://open.spotify.com/artist/4HJKWV58OFtAAGQlkzH1ws) | [Tyd & Gees](https://open.spotify.com/album/4CQpqFExdrMXtAjqFbPqoy) | 2:59 | 2026-06-12 | 2026-06-19 |
-| [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 | 2025-01-30 |  |
+| [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 | 2025-01-30 | 2026-10-24 |
 | [Uitgesonderde Uitsig](https://open.spotify.com/track/5D0ihUX0oyFvzIHb37QM3b) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Uitgesonderde Uitsig](https://open.spotify.com/album/3NcfdCj0cUlWfBBcmL0TFG) | 3:32 | 2026-06-18 | 2026-07-18 |
 | [Unbroken](https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Unbroken](https://open.spotify.com/album/6Yf1kD6cBNBqRSPbVWgaGm) | 4:51 | 2023-06-01 | 2023-08-05 |
 | [Undercover](https://open.spotify.com/track/3122Tq7clEd0NgsAO7s4Gg) | [FREDDY L](https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm) | [Undercover](https://open.spotify.com/album/7HHgQX997jps6Gtpc1yEpa) | 3:10 | 2025-11-07 | 2025-12-10 |
@@ -977,6 +978,7 @@
 | [Wat Wil Jy Hê?](https://open.spotify.com/track/0SMPO9w1ikRAdqxw1MqW4q) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Wat Wil Jy Hê?](https://open.spotify.com/album/6XaR3XqYKlWCDcXDslbS6A) | 2:32 | 2026-06-12 | 2026-07-03 |
 | [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 | 2024-05-03 | 2024-07-05 |
 | [Weet Jy](https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Weet Jy](https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6) | 3:27 | 2023-11-09 | 2024-01-05 |
+| [Werk is Kerk](https://open.spotify.com/track/72WGSi6PTeZFgbPvLSMOZa) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Werk is Kerk](https://open.spotify.com/album/472FKZHyC2dSqV99TaTzf5) | 3:22 | 2026-10-23 |  |
 | [What The Hell](https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [Everything In Between](https://open.spotify.com/album/5AymQfngxW5AAnuLWOIroe) | 2:49 | 2026-09-17 | 2026-10-09 |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 | 2022-11-18 |
 | [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2023-02-20 | 2023-02-22 |

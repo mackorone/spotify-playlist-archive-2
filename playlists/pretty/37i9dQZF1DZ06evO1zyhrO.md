@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,585 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,589 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 20 | [When the Bassline Drops](https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:05 |
 | 21 | [Who You Are](https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:25 |
 | 22 | [Time to Party](https://open.spotify.com/track/6NSmOtlkUnpavCWIuLbZo8) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 4:04 |
-| 23 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
-| 24 | [In It With You](https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [In It With You](https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO) | 3:12 |
+| 23 | [In It With You](https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [In It With You](https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO) | 3:12 |
+| 24 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
 | 25 | [Officially Yours](https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:55 |
 | 26 | [2 Steps Back](https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:48 |
 | 27 | [Rain](https://open.spotify.com/track/4aTIJmX2tfsw2Lcxo8LwBg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:34 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 37 | [Let Her Go](https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:02 |
 | 38 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 |
 | 39 | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/track/4XIIjW8c8pPaB3tZ712yH9) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/3ZhVhgmMYyPalwUSX6D42l) | 2:35 |
-| 40 | [This Is the Girl \(with Kano\)](https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 4:10 |
-| 41 | [Let's Stay Together](https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:36 |
+| 40 | [Let's Stay Together](https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:36 |
+| 41 | [This Is the Girl \(with Kano\)](https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 4:10 |
 | 42 | [Separate Ways](https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:00 |
 | 43 | [Couldn't Be Mine](https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:01 |
 | 44 | [Addicted \- Radio Edit](https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Greg Parys](https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV) | [Addicted \(Radio Edit\)](https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [Abracadabra, Pt\. 2](https://open.spotify.com/track/2PpnFO3ziuVkycFe4ZZOXD) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2](https://open.spotify.com/album/49sQr4EXfsQiWsCN7lAimX) | 2:47 |
 | 50 | [Hot Stuff \(Let's Dance\)](https://open.spotify.com/track/1xHQVFM5gwg2bZJq9txEzH) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:39 |
 
-Snapshot ID: `atavAAAAAACXv5KAvdIHhTV3hFiOvSSV`
+Snapshot ID: `atgAgAAAAABW6azoFYTA5DCEEzGPWnVP`

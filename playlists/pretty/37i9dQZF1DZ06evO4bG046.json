@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 37130,
+  "num_followers": 37129,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADqnT0Bc+4en5S0QwnP15xL",
+  "snapshot_id": "atgAgAAAAABh/pH6lYyCC/T4j94fz7R1",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 136560,
-      "name": "Del Aire al Aire",
-      "url": "https://open.spotify.com/track/1MzUpAQrUIPT6qE27YnnBO"
+      "duration_ms": 322413,
+      "name": "\u00c1guila Sideral",
+      "url": "https://open.spotify.com/track/5KiAfMWWdmUpoYI0NLIDCq"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 322413,
-      "name": "\u00c1guila Sideral",
-      "url": "https://open.spotify.com/track/5KiAfMWWdmUpoYI0NLIDCq"
+      "duration_ms": 136560,
+      "name": "Del Aire al Aire",
+      "url": "https://open.spotify.com/track/1MzUpAQrUIPT6qE27YnnBO"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tributo a V\u00edctor Jara",
-        "url": "https://open.spotify.com/album/1lhuCHXgkuqYyRe6eJuVWb"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 195080,
-      "name": "Vamos por Ancho Camino",
-      "url": "https://open.spotify.com/track/2OCQXBHuJ8ZXgM2JAmlC6o"
+      "duration_ms": 663000,
+      "name": "Y Arriba Quemando el Sol",
+      "url": "https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI"
     }
   ],
   "unique_name": "This Is Los Jaivas",

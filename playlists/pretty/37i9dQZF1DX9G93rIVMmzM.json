@@ -1,6 +1,6 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 417709,
+  "num_followers": 417798,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 428800,
-      "name": "Love You to Death",
-      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
         "name": "Take A Look In The Mirror",
         "url": "https://open.spotify.com/album/3487OYBtnRl82qA6tfyWco"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 197906,
       "name": "Y'all Want a Single",
       "url": "https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 428800,
+      "name": "Love You to Death",
+      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
     },
     {
       "added_at": "2026-02-13 21:18:20",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "Wake",
-        "url": "https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB"
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
       },
       "artists": [
         {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
         }
       ],
-      "duration_ms": 125024,
-      "name": "Rolling Out the Red Carpet",
-      "url": "https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT"
+      "duration_ms": 192340,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
     },
     {
       "added_at": "2026-02-13 21:18:20",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
       },
       "artists": [
         {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         }
       ],
-      "duration_ms": 192340,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
     },
     {
       "added_at": "2026-02-13 21:18:20",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
         }
       ],
-      "duration_ms": 209333,
-      "name": "SHALLOW",
-      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
+      "duration_ms": 125024,
+      "name": "Rolling Out the Red Carpet",
+      "url": "https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT"
     },
     {
       "added_at": "2026-02-13 21:18:20",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 190833,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6PmANbpP9JqPJzcy5VjO2q"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 203806,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2hQJFN6wkwtScdFcUbbj1R"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 190833,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE"
     },
     {
       "added_at": "2026-02-13 21:18:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "Urban Legend",
-        "url": "https://open.spotify.com/album/7oaCMCOJ3qSnpALIuv38aL"
-      },
-      "artists": [
-        {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
-        }
-      ],
-      "duration_ms": 279403,
-      "name": "The Hunger",
-      "url": "https://open.spotify.com/track/2bLNXRbC7Q2s9s7tVDdjJv"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
         "name": "I Feel Everything",
         "url": "https://open.spotify.com/album/2ocVKzxMyOPFzVRLl7b15B"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 175985,
       "name": "I Feel Everything",
       "url": "https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/7oaCMCOJ3qSnpALIuv38aL"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "duration_ms": 279403,
+      "name": "The Hunger",
+      "url": "https://open.spotify.com/track/2bLNXRbC7Q2s9s7tVDdjJv"
     },
     {
       "added_at": "2026-02-13 21:18:20",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
         "name": "Blood on the Sheets",
         "url": "https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 229500,
       "name": "Blood on the Sheets",
       "url": "https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     },
     {
       "added_at": "2026-02-13 21:18:20",

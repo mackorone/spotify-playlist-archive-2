@@ -3037,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181374,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
+    },
+    {
+      "album": {
         "name": "Bad Luck / Feel",
         "url": "https://open.spotify.com/album/0P5lz9M9GgAOmkPpOhDs2B"
       },
@@ -14788,6 +14806,24 @@
       "duration_ms": 186473,
       "name": "Firestarter - Streaming Edit",
       "url": "https://open.spotify.com/track/5o9nxhf1ZRbT2uAP2y85fA"
+    },
+    {
+      "album": {
+        "name": "Fonky Fish EP",
+        "url": "https://open.spotify.com/album/31i4eU6zFvhH9D4VLjGMiO"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Fish & Chips",
+      "url": "https://open.spotify.com/track/6hGjwfwALzqrf9tgfjwdsU"
     },
     {
       "album": {
@@ -41387,6 +41423,24 @@
     },
     {
       "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/3WZomqlFXocE30Udiw1A6p"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159403,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/0hxRuJTSckYfGv845s7YnB"
+    },
+    {
+      "album": {
         "name": "Sudando",
         "url": "https://open.spotify.com/album/3SS2CBEzuoHsJEyr5t6ZpX"
       },
@@ -51044,6 +51098,24 @@
       "duration_ms": 144461,
       "name": "Zoochi",
       "url": "https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J"
+    },
+    {
+      "album": {
+        "name": "Zoolander",
+        "url": "https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178238,
+      "name": "Zoolander",
+      "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
     },
     {
       "album": {

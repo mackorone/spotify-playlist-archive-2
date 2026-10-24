@@ -1,13 +1,29 @@
 {
-  "description": "sweet. sharp. unbothered - GRANT KNOCHE on the cover",
-  "num_followers": 522516,
+  "description": "sweet. sharp. unbothered - Dove Cameron on the cover",
+  "num_followers": 522499,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADRAO/S8oGF9U8+BqNPBuCeDbM0V",
+  "snapshot_id": "AAAAAM4MrYQzBLGBKWG7k6nA6G57VfST",
   "tracks": [
+    {
+      "added_at": "2026-10-23 13:08:29",
+      "album": {
+        "name": "do the math",
+        "url": "https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 186553,
+      "name": "do the math",
+      "url": "https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8"
+    },
     {
       "added_at": "2026-10-17 19:55:54",
       "album": {
@@ -27,6 +43,114 @@
       "duration_ms": 168913,
       "name": "FRICTION",
       "url": "https://open.spotify.com/track/38QQX5owEYU3h4alb7CaPU"
+    },
+    {
+      "added_at": "2026-10-23 13:08:29",
+      "album": {
+        "name": "Night at the Opera: Intermission",
+        "url": "https://open.spotify.com/album/1wR0iRw6AKwbNED8OG37PB"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 129399,
+      "name": "Regularly Scheduled Program",
+      "url": "https://open.spotify.com/track/2Sjpi4RA5zFmgYuwwZY8zi"
+    },
+    {
+      "added_at": "2026-10-23 13:08:29",
+      "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1trz2cTNpf94R6DdHciSbS"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/1PS9KaNbnSggKcR1TelUHA"
+    },
+    {
+      "added_at": "2026-10-23 13:08:29",
+      "album": {
+        "name": "little black dress",
+        "url": "https://open.spotify.com/album/0g7eewUCAkmkOeMjBCBmrN"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 153306,
+      "name": "little black dress",
+      "url": "https://open.spotify.com/track/05UGMVbH06OGSgq3tExW9C"
+    },
+    {
+      "added_at": "2026-10-23 13:08:29",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/38cOo1Kpp2Jduc1hOEYHC3"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        },
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7E5S9WN0WCewbPLoDMBdn1"
+    },
+    {
+      "added_at": "2026-10-23 13:08:29",
+      "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 142902,
+      "name": "Flights",
+      "url": "https://open.spotify.com/track/53yAIijA7NnUvtKRGwaAAI"
     },
     {
       "added_at": "2026-10-19 20:59:58",
@@ -63,6 +187,22 @@
       "duration_ms": 192000,
       "name": "Molly",
       "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
+    },
+    {
+      "added_at": "2026-10-23 13:08:29",
+      "album": {
+        "name": "Billboard Baby",
+        "url": "https://open.spotify.com/album/5wUaSE2vFLwD8ByLHrgvr1"
+      },
+      "artists": [
+        {
+          "name": "Anica Russo",
+          "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
+        }
+      ],
+      "duration_ms": 174203,
+      "name": "Billboard Baby",
+      "url": "https://open.spotify.com/track/5rIW3b254x6tHfC8KeKMRn"
     },
     {
       "added_at": "2026-10-09 20:47:13",
@@ -719,138 +859,6 @@
       "duration_ms": 149869,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/3iecnkddipTVKwQdxz41FW"
-    },
-    {
-      "added_at": "2026-07-17 04:02:08",
-      "album": {
-        "name": "NINE-ONE-ONE",
-        "url": "https://open.spotify.com/album/50bkgKigPtMZSJNMxhBDO6"
-      },
-      "artists": [
-        {
-          "name": "insha",
-          "url": "https://open.spotify.com/artist/1JK3iEviLgJX7BeMmBnKD9"
-        }
-      ],
-      "duration_ms": 101172,
-      "name": "NINE-ONE-ONE",
-      "url": "https://open.spotify.com/track/3XFrdr0YKZ7J5PLfAO3xc7"
-    },
-    {
-      "added_at": "2026-07-01 18:49:47",
-      "album": {
-        "name": "My Girlfriend (feat. Ella Boh)",
-        "url": "https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        },
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "My Girlfriend (feat. Ella Boh)",
-      "url": "https://open.spotify.com/track/27xprsAJJYC2U02zKog81S"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "Miss Misfortunately",
-        "url": "https://open.spotify.com/album/4JNe6LQPMjKvWPAZW7yJlG"
-      },
-      "artists": [
-        {
-          "name": "gracie",
-          "url": "https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt"
-        }
-      ],
-      "duration_ms": 243037,
-      "name": "Miss Misfortunately",
-      "url": "https://open.spotify.com/track/5lB1flA93G6OiJFNBR1uE3"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "SHE IS herCULES",
-        "url": "https://open.spotify.com/album/7mznu4HTr6liGB7QMrAM6y"
-      },
-      "artists": [
-        {
-          "name": "herCULES",
-          "url": "https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S"
-        }
-      ],
-      "duration_ms": 140388,
-      "name": "GOD'S FAVORITE",
-      "url": "https://open.spotify.com/track/701Ti7VhAddNs8HtYEfAfU"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "heartcore",
-        "url": "https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN"
-      },
-      "artists": [
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 180177,
-      "name": "E-MOTION",
-      "url": "https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW"
-    },
-    {
-      "added_at": "2026-06-12 04:01:54",
-      "album": {
-        "name": "I WANNA FEEL IT ALL",
-        "url": "https://open.spotify.com/album/02LSdnnb9RS5TM4SCbTVz8"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 148208,
-      "name": "I WANNA FEEL IT ALL",
-      "url": "https://open.spotify.com/track/0QxKOd4IHUHG0UvPraaicT"
-    },
-    {
-      "added_at": "2026-06-12 04:01:54",
-      "album": {
-        "name": "WHERE\u2019S THE FUN?",
-        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "WHERE\u2019S THE FUN?",
-      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
-    },
-    {
-      "added_at": "2026-06-21 16:29:53",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24"
-      },
-      "artists": [
-        {
-          "name": "Jolina Louise",
-          "url": "https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP"
-        }
-      ],
-      "duration_ms": 139106,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ"
     }
   ],
   "unique_name": "SALT",

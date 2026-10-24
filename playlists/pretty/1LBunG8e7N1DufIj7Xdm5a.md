@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,972 songs - 11 day 5 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,985 songs - 11 day 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4980,5 +4980,18 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4970 | [Blackbird Jesus](https://open.spotify.com/track/6GCQeEusHe8tNtCxDeebp7) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [Blackbird Jesus](https://open.spotify.com/album/4rIYQnYsxOaKctx7cROblR) | 3:58 |
 | 4971 | [Neverending](https://open.spotify.com/track/5t32Xg2Aqwc4MKfMCcf244) | [Brother Venus](https://open.spotify.com/artist/45ZPkbeHuBIsgk4fzjmg3R) | [Neverending](https://open.spotify.com/album/0d8H1lT7wVzDmIIgRPbtdY) | 4:38 |
 | 4972 | [Brooklyn](https://open.spotify.com/track/2cLyhFnnOvK997LZsOjA9i) | [Reptile Room](https://open.spotify.com/artist/2GxPyV0YIHRNi0hAaqzgER) | [Brooklyn](https://open.spotify.com/album/4QvTWqLqLYgRYxydKpFGOh) | 3:32 |
+| 4973 | [I Can See You In The Stars](https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [I Can See You In The Stars](https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy) | 4:01 |
+| 4974 | [Quiet of the night](https://open.spotify.com/track/0Tp9wzYMCBrRY9KKzd6rtr) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Quiet of the night](https://open.spotify.com/album/5lqiZ2bde5gs6o7hTFer4g) | 3:58 |
+| 4975 | [Trick or Treat](https://open.spotify.com/track/6L3D1EbXY569OKFmq3s0Ql) | [Garbage Garden](https://open.spotify.com/artist/46Vwy9J73rIhOy0pHiW8Ix) | [Trick or Treat](https://open.spotify.com/album/4WlAjECmAxd9rf0dksUdb7) | 2:49 |
+| 4976 | [Ritmo Latino](https://open.spotify.com/track/1VYI8yJs9WJsWoQmxIP1OV) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Ritmo Latino](https://open.spotify.com/album/3StjamvQhsKPUSJYODixCp) | 3:33 |
+| 4977 | [Too Far Gone](https://open.spotify.com/track/45stlVPvNocActUNkqTvWr) | [The Skanks](https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB) | [Return Of My Heart](https://open.spotify.com/album/2AZpFnIVnxQo4ZXb6r7pn1) | 4:39 |
+| 4978 | [Waxing Gibbous Blue Moon](https://open.spotify.com/track/00qlRUQ9fPmg0ILOQGfHx8) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [Waxing Gibbous Blue Moon](https://open.spotify.com/album/4Ci2dG5I5NW7vSYEXL7xSb) | 3:10 |
+| 4979 | [TWILIGHT ZONE](https://open.spotify.com/track/1Vj41eiZYZdAJeNxzhW1cp) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [TWILIGHT ZONE](https://open.spotify.com/album/63XcP43PG5uBDUMbzEDzWr) | 5:02 |
+| 4980 | [High Time](https://open.spotify.com/track/5CDQuPuUpW4vdWyXj7wVZf) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [High Time](https://open.spotify.com/album/4INqeATSlaHPnMlJIYKblI) | 6:26 |
+| 4981 | [All the Good Things](https://open.spotify.com/track/6PgQ6Obkxw5AUjGAV5huiq) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [All the Good Things](https://open.spotify.com/album/4xUafya9oue09frjPUlHre) | 4:42 |
+| 4982 | [All the Good Things](https://open.spotify.com/track/6PgQ6Obkxw5AUjGAV5huiq) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [All the Good Things](https://open.spotify.com/album/4xUafya9oue09frjPUlHre) | 4:42 |
+| 4983 | [Cannario Bisco](https://open.spotify.com/track/1cYhtOc8hdFFx5AodhyA1x) | [Triste Malcriado](https://open.spotify.com/artist/4RxXaieb6PizszJex4m4qZ) | [Cannario Bisco](https://open.spotify.com/album/7Git9f4vwAdt21CVMDga9y) | 3:09 |
+| 4984 | [Versó Celestial](https://open.spotify.com/track/0BLTqvFGdV57cP17F41ozM) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Versó Celestial](https://open.spotify.com/album/6x1FGWS8AQnWeShzbW8Vua) | 4:09 |
+| 4985 | [I Don't Care](https://open.spotify.com/track/4CtGdAHpJ9WZTxfu6d2HT8) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [I Don't Care](https://open.spotify.com/album/5AG9FVn7kNhARQbqxICDBu) | 4:48 |
 
-Snapshot ID: `AAAKtB0GfDu6+0HY1S//4G39X6hbBsUV`
+Snapshot ID: `AAAKwVXzGPAqhr2/XrDxyUIlzDKgdZX4`

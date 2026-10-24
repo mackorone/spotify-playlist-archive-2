@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-311 songs - 17 hr 46 min
+313 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alkaline Drip](https://open.spotify.com/track/1ikM2ptwHZnLbIXQAqQ4CT) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Full Circle : Sonic Book 1](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 3:25 | 2023-05-25 | 2023-06-30 |
 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 | 2022-12-02 | 2024-11-02 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-10-03 |  |
+| [All Mine](https://open.spotify.com/track/6vf7Z9ISHE1gRKI9U4Ks0Y) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [V](https://open.spotify.com/album/3vTncJBJSFkalBlJE0ne2Y) | 2:35 | 2026-10-23 |  |
 | [all over u](https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:21 | 2026-02-14 |  |
 | [All Summer](https://open.spotify.com/track/1qZJ4afvHbsSg0d0ENqLHv) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [All Summer](https://open.spotify.com/album/7G80KfPQE0hX2Ifcxay7J4) | 1:49 | 2024-08-23 | 2024-09-07 |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2022-10-03 |  |
@@ -68,7 +69,7 @@
 | [Come To Me](https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2), [bleulilbaby](https://open.spotify.com/artist/3uSXaRlKy2i8pKt313wtZj) | [Ye Ali & Chill 3](https://open.spotify.com/album/0oGvQ5RhqcDjVLp4bvMOb9) | 2:32 | 2024-02-09 | 2024-03-02 |
 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 | 2023-02-12 |  |
 | [Coming Down](https://open.spotify.com/track/3mHO1J6kfiArjBo1zhLFGP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 4:55 | 2025-02-14 |  |
-| [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 | 2023-02-24 |  |
+| [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 | 2023-02-24 | 2026-10-24 |
 | [Copy & Paste Interlude](https://open.spotify.com/track/4Pq1hdbm1GrjBeh46BqFjO) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Copy & Paste Interlude](https://open.spotify.com/album/40WuuDpNMKy5GB2CUQO2Xx) | 2:49 | 2021-08-13 | 2022-07-29 |
 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 | 2022-10-03 |  |
 | [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 | 2022-10-03 | 2022-11-17 |
@@ -145,6 +146,7 @@
 | [I NEED IT \(feat\. Syd & Tank\)](https://open.spotify.com/track/1MVrFWZNkJ9DGdbyCS9yVZ) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [CAMPILATION](https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD) | 3:44 | 2026-02-01 | 2026-02-15 |
 | [I Need You](https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [I Need You](https://open.spotify.com/album/4YDxEOAH9hQjNMTPqWHcxk) | 3:02 | 2023-09-01 | 2023-09-19 |
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2023-02-02 | 2025-10-25 |
+| [I's Role](https://open.spotify.com/track/64AkRZkHPhMmOlwFA7AfRU) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [Eye 2 Eye](https://open.spotify.com/album/16DdNomTtlT1gkgRrABNwV) | 2:27 | 2026-10-23 |  |
 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 | 2025-07-13 |  |
 | [Invisible](https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG) | 3:48 | 2022-03-25 | 2022-10-01 |
 | [Invisible](https://open.spotify.com/track/2ialELOk7yrM8Nfo87sifD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/6d4uU5wOssH9hunnIOfbQZ) | 3:48 | 2021-08-13 | 2022-05-29 |
@@ -223,7 +225,7 @@
 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 | 2024-01-12 | 2026-03-03 |
 | [Ride With Me](https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Ride With Me](https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R) | 3:52 | 2022-03-11 | 2022-10-04 |
 | [Rm\. 143](https://open.spotify.com/track/1r6xn6CtRDNJsoXxsnNZNt) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [California](https://open.spotify.com/album/2YCVNs5oQgquuv8BfAtVvA) | 2:24 | 2022-10-03 | 2023-07-01 |
-| [Rocket](https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:31 | 2022-10-03 |  |
+| [Rocket](https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:31 | 2022-10-03 | 2026-10-24 |
 | [Résumé](https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Résumé](https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n) | 3:00 | 2021-08-13 | 2022-07-29 |
 | [Résumé](https://open.spotify.com/track/2K2kujL7erU8ItCd2Tv5lh) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 3:00 | 2022-03-25 | 2022-10-04 |
 | [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 | 2025-02-14 |  |

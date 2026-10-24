@@ -1,29 +1,13 @@
 {
-  "description": "New music from Quavo, A$AP Rocky and Gunna.",
-  "num_followers": 15511358,
+  "description": "New music from Yeat, Yung Miami and Anderson .Paak & Cordae.",
+  "num_followers": 15509780,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEvTLm3oBDlxHVT+Uth41i2lc5vH",
+  "snapshot_id": "AAAAADHFQEoT2PW/e3egSiKREvAn9Sog",
   "tracks": [
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
-        "name": "HABIBTI (FOMO)",
-        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 130329,
-      "name": "Quebec",
-      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
-    },
     {
       "added_at": "2026-10-16 04:02:15",
       "album": {
@@ -39,6 +23,26 @@
       "duration_ms": 138866,
       "name": "pop it",
       "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
+    },
+    {
+      "added_at": "2026-10-23 04:01:51",
+      "album": {
+        "name": "Luh Leakyz Vol. 1",
+        "url": "https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lyfestyle Corporation",
+          "url": "https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Lil Krazy",
+      "url": "https://open.spotify.com/track/3301sy6RP2XMn67qrjzY0y"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -119,26 +123,26 @@
     {
       "added_at": "2026-10-16 04:02:15",
       "album": {
-        "name": "Shroom Clouds (feat. reggie & Jeremih)",
-        "url": "https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813"
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 195210,
-      "name": "Shroom Clouds (feat. reggie & Jeremih)",
-      "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
+      "duration_ms": 234849,
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -155,6 +159,26 @@
       "duration_ms": 202840,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/4oBu4APIBsEeQwLTIsfUn8"
+    },
+    {
+      "added_at": "2026-10-23 04:01:51",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -177,20 +201,20 @@
       "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
     },
     {
-      "added_at": "2026-10-22 04:00:27",
+      "added_at": "2026-10-23 23:29:16",
       "album": {
-        "name": "Death Certificate",
-        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/6AgkhCQME5wqQ2xqFgeMYK"
       },
       "artists": [
         {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
         }
       ],
-      "duration_ms": 313546,
-      "name": "No Vaseline",
-      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
+      "duration_ms": 110142,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/5xqqwC86B6OHPdLMekNIm4"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -231,26 +255,6 @@
     {
       "added_at": "2026-10-16 04:02:15",
       "album": {
-        "name": "Every Night (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Every Night (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k"
-    },
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
         "name": "Wanna Be Free (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5IM3tOYcuK8pEiYpf2JuK7"
       },
@@ -271,6 +275,46 @@
     {
       "added_at": "2026-10-16 04:02:15",
       "album": {
+        "name": "Every Night (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/7xE4Kautja5zGPN1GOwKQT"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Every Night (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/3BDhcu7pO83YKd7W80498k"
+    },
+    {
+      "added_at": "2026-10-23 04:01:51",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
+      "added_at": "2026-10-16 04:02:15",
+      "album": {
         "name": "HABIBTI (FOMO)",
         "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
       },
@@ -278,19 +322,11 @@
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 234849,
-      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
-      "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
+      "duration_ms": 130329,
+      "name": "Quebec",
+      "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -317,20 +353,28 @@
       "url": "https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm"
     },
     {
-      "added_at": "2026-10-16 04:02:15",
+      "added_at": "2026-10-23 04:01:51",
       "album": {
-        "name": "Against All Odds",
-        "url": "https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9"
+        "name": "Live and Die",
+        "url": "https://open.spotify.com/album/07e5jzTwCwh1TvsDmLFxM6"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 163048,
-      "name": "Yall make me sick",
-      "url": "https://open.spotify.com/track/5KM54DJrVhVYvC1zZgnxik"
+      "duration_ms": 166561,
+      "name": "Live and Die",
+      "url": "https://open.spotify.com/track/6iwrQJKw5jXclaI9tEV6Sf"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -379,6 +423,30 @@
       "duration_ms": 153733,
       "name": "Konnichiwa",
       "url": "https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp"
+    },
+    {
+      "added_at": "2026-10-16 04:02:15",
+      "album": {
+        "name": "Shroom Clouds (feat. reggie & Jeremih)",
+        "url": "https://open.spotify.com/album/4bYKT4TR81oEeu5j8Je813"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Shroom Clouds (feat. reggie & Jeremih)",
+      "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -439,6 +507,22 @@
     {
       "added_at": "2026-10-16 04:02:15",
       "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 163048,
+      "name": "Yall make me sick",
+      "url": "https://open.spotify.com/track/5KM54DJrVhVYvC1zZgnxik"
+    },
+    {
+      "added_at": "2026-10-16 04:02:15",
+      "album": {
         "name": "Backwards (feat. T.I.)",
         "url": "https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg"
       },
@@ -491,22 +575,6 @@
       "duration_ms": 217653,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/02FWtiqTvM6eYZPd9NEmsM"
-    },
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
-        "name": "Last Laugh [archive tape]",
-        "url": "https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 125533,
-      "name": "60 mgs",
-      "url": "https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -659,6 +727,22 @@
     {
       "added_at": "2026-10-16 04:02:15",
       "album": {
+        "name": "Last Laugh [archive tape]",
+        "url": "https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 125533,
+      "name": "60 mgs",
+      "url": "https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l"
+    },
+    {
+      "added_at": "2026-10-16 04:02:15",
+      "album": {
         "name": "Rise Against My Broken Odds",
         "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
       },
@@ -671,22 +755,6 @@
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
-    },
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
-        "name": "F You",
-        "url": "https://open.spotify.com/album/4TPOzSWHrWZb8hhrr3z7n2"
-      },
-      "artists": [
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 128566,
-      "name": "F You",
-      "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -731,34 +799,6 @@
       "duration_ms": 150770,
       "name": "High Noon (feat. Gunna)",
       "url": "https://open.spotify.com/track/55N2MkhE8YjcrdKkWgLg4h"
-    },
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
-        "name": "QR\u00d6MELIFE",
-        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 227787,
-      "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
-      "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
     },
     {
       "added_at": "2026-10-16 04:02:15",
@@ -899,66 +939,6 @@
       "duration_ms": 191328,
       "name": "London - Bonus",
       "url": "https://open.spotify.com/track/3fq2iQjL6aun4zJ4R1cJjK"
-    },
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
-        "name": "The Team",
-        "url": "https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "The Team",
-      "url": "https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU"
-    },
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
-        "name": "DOWN FOR REAL",
-        "url": "https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE"
-      },
-      "artists": [
-        {
-          "name": "Victor Victor Presents",
-          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "DOWN FOR REAL",
-      "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
-    },
-    {
-      "added_at": "2026-10-16 04:02:15",
-      "album": {
-        "name": "Black Boy (Alternative)",
-        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "How To Pray",
-      "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
     }
   ],
   "unique_name": "RapCaviar",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43212,
+  "num_followers": 43210,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa5Hb+ph4QOQAKv0OILt/p3qBeJeoa",
+  "snapshot_id": "AAAa5qsgMY8X2grY/5FBm+wrqgGvdFga",
   "tracks": [
+    {
+      "added_at": "2026-10-23 05:00:43",
+      "album": {
+        "name": "CRITICAL MASS",
+        "url": "https://open.spotify.com/album/04PAQKuLgWiW0KLF5Vomdx"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Paytra",
+          "url": "https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "CRITICAL MASS",
+      "url": "https://open.spotify.com/track/5ZtbObvp6UlsnJoqFfuKHv"
+    },
     {
       "added_at": "2026-10-16 16:22:59",
       "album": {

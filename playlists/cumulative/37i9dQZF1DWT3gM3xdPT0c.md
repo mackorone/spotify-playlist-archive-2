@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-494 songs - 21 hr 10 min
+496 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Lavender Sun](https://open.spotify.com/track/5v0YFbxaEqKd1dMciTxaBR) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Lavender Sun](https://open.spotify.com/album/0WB9nrmow21f2lO1i3LAjf) | 2:09 | 2026-03-30 |  |
 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 | 2023-06-02 | 2025-06-12 |
 | [leaving the city](https://open.spotify.com/track/0QdlI30DozlVnyCk52uveP) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 2:53 | 2022-03-04 | 2022-04-06 |
+| [Let It Breathe](https://open.spotify.com/track/2XqEHwQFhWoPQ7rivdfqBL) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [Let It Breathe](https://open.spotify.com/album/6T466DCwfmsomWeGcvG49r) | 3:17 | 2026-10-23 |  |
 | [Light on the Horizon](https://open.spotify.com/track/0ZJ3l5D3mVtv7JPS63OITC) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Light on the Horizon](https://open.spotify.com/album/6UVIzwrAE25SibE8HWlrFP) | 2:29 | 2022-10-07 | 2024-04-06 |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-03-04 | 2022-09-17 |
 | [Like a butterfly](https://open.spotify.com/track/3dnY9kyGPEOkIfvnQYQ2NX) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Like a butterfly](https://open.spotify.com/album/6lQ4ZKraQkuDk8T9675GeA) | 2:42 | 2024-07-19 |  |
@@ -495,6 +496,7 @@
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 | 2024-07-19 |
 | [Wishing You a Safe Journey](https://open.spotify.com/track/0dlktcquQYp5OBm1voX3bu) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Wishing You a Safe Journey](https://open.spotify.com/album/6kqkgmAGIZPlzZdvvQXlDY) | 2:17 | 2025-03-05 | 2025-11-18 |
 | [With Flowers In Hand](https://open.spotify.com/track/3F9UIwHp1qWZo9en9lCfl6) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [With Flowers In Hand](https://open.spotify.com/album/4fSOoK6cKokRLePDXbj5ja) | 2:29 | 2025-04-29 | 2025-05-20 |
+| [Within Sound](https://open.spotify.com/track/4ld80b0LU2tKh4qbwLmh2K) | [William Canti](https://open.spotify.com/artist/1osICWXY83SgstzleOrG3m) | [Within Sound](https://open.spotify.com/album/6c8TTXMyBwkCokhwI48GpK) | 2:33 | 2026-10-23 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2025-03-12 |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 | 2023-12-15 |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-03-25 |

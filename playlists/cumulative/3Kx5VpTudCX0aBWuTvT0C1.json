@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Analog Soul",
+        "url": "https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK"
+      },
+      "artists": [
+        {
+          "name": "David Barker",
+          "url": "https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Analog Soul",
+      "url": "https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd"
+    },
+    {
+      "album": {
         "name": "Anne Halt Durch!",
         "url": "https://open.spotify.com/album/0ywlMcNDzmlScH3LAu6Eus"
       },

@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: LNGSHOT\)
 
-944 songs - 2 day 1 hr 43 min
+945 songs - 2 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Talk ! \(feat\. MRSHLL\)](https://open.spotify.com/track/2B36Y88mbiSB9UmErYxKsi) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [Messages](https://open.spotify.com/album/6uleeWCw6Alv5WcPaFYgPI) | 3:54 | 2022-04-19 | 2022-04-21 |
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-27 | 2022-11-23 |
 | [TALK2ME! \(feat\. pH\-1\)](https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:25 | 2022-07-27 | 2022-08-03 |
+| [TATA](https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINAMI](https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF) | [TATA](https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU) | 2:43 | 2026-10-21 |  |
 | [Taxi Blurr \(Feat\. NATTY of KISS OF LIFE\)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [Jay Park Season 2](https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR) | 3:50 | 2024-05-28 | 2025-01-13 |
 | [Tea time \(Feat\. 10CM\)](https://open.spotify.com/track/3JISGU3qHjPaBdWSh6ZJdq) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tea time](https://open.spotify.com/album/5idRelwCZTM8zSus1bPGRH) | 2:58 | 2022-04-19 | 2022-07-11 |
 | [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 | 2023-06-14 |
@@ -830,7 +831,7 @@
 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 | 2023-07-17 |  |
 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 | 2022-04-19 | 2022-07-28 |
 | [Thunders \(feat\. The Beach Voice\)](https://open.spotify.com/track/2QnqVvQfyuDtPjejTwKKt4) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6), [The Beach Voice](https://open.spotify.com/artist/21YPOJui47iYLDL7WyYuWh) | [Thunders](https://open.spotify.com/album/46X48Jx8fmhMKMVJHEnn9z) | 3:32 | 2022-04-21 | 2022-07-17 |
-| [Tic Tac Toe](https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Tic Tac Toe](https://open.spotify.com/album/70BDnaxdeYlPHph5HqASiz) | 2:37 | 2026-10-08 |  |
+| [Tic Tac Toe](https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Tic Tac Toe](https://open.spotify.com/album/70BDnaxdeYlPHph5HqASiz) | 2:37 | 2026-10-08 | 2026-10-24 |
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2022-05-11 | 2022-07-24 |
 | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/track/25DeCJkbJNacQt3dfPT9st) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Tight Rope \(feat\. WOOSUNG\)](https://open.spotify.com/album/24OBRgl45p0zr0CV7zCHIf) | 3:00 | 2025-07-04 | 2025-08-04 |
 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 | 2023-02-13 | 2023-02-25 |

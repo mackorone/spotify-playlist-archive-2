@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "AFTERMATH",
+        "url": "https://open.spotify.com/album/6iRDGqXlWz0gSGowndrnDU"
+      },
+      "artists": [
+        {
+          "name": "SAM WAITIN",
+          "url": "https://open.spotify.com/artist/4fUt1H64XAKDyYNRqUYzPG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182431,
+      "name": "AFTERMATH",
+      "url": "https://open.spotify.com/track/394PJx7LItPMIww6nXyi0o"
+    },
+    {
+      "album": {
         "name": "akina",
         "url": "https://open.spotify.com/album/22KmAzAlwdTa2td0bUKOtQ"
       },

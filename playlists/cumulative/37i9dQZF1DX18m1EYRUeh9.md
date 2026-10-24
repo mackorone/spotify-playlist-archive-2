@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: tickertape
 
-379 songs - 1 day 0 hr 34 min
+379 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 | 2025-05-16 |  |
 | [Friends](https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Friends](https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS) | 3:33 | 2024-09-06 | 2025-05-17 |
 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 | 2023-10-13 | 2026-10-23 |
+| [Frog Technique](https://open.spotify.com/track/1AvaZrD67C2LSvQyvlb5en) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Frogs In A Pond](https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E) | 4:03 | 2026-10-22 |  |
 | [FUGAZI](https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR) | [Boyboy](https://open.spotify.com/artist/3atKvJHxeZCllkWawVbmXc) | [FUGAZI](https://open.spotify.com/album/782lLDVj2EifDWu5JAgGgh) | 3:05 | 2023-08-24 | 2024-12-21 |
 | [Get It Over](https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Get It Over](https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8) | 3:16 | 2025-11-07 |  |
 | [Ghost of Your Life](https://open.spotify.com/track/5RUISLZ3c6OvdQlg0fDSMb) | [Niall Ashley](https://open.spotify.com/artist/09BUs5wE0LROuF8wuMceSu), [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [Subject Access](https://open.spotify.com/album/0RaBzSNt1dwovrTpTPjsoJ) | 3:15 | 2025-03-28 | 2026-10-23 |
@@ -358,7 +359,6 @@
 | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/track/4ptwKUD9Tsbi5Tz5MVehvy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/album/5ZGQes5uklrLNQvwUxVBhN) | 4:42 | 2023-08-10 | 2023-10-13 |
 | [Touchh](https://open.spotify.com/track/2WEeIp1jR1jAN4T8rq4Ppc) | [TOTEK](https://open.spotify.com/artist/1LptyTNbknv2Yvf1EmOopS) | [Touchh](https://open.spotify.com/album/1spqZVkQFwBxR7ERfayNco) | 3:56 | 2023-08-10 | 2023-09-01 |
 | [Touché](https://open.spotify.com/track/6KRYD0KvEaWwO8K94zqwFN) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [Touché](https://open.spotify.com/album/3s9zPe7qmCiNwVCIZAViIZ) | 3:16 | 2026-07-24 |  |
-| [Track 3](https://open.spotify.com/track/1AvaZrD67C2LSvQyvlb5en) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Frogs In A Pond](https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E) | 0:00 | 2026-10-22 |  |
 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 | 2026-01-22 |  |
 | [Transient](https://open.spotify.com/track/1yJGKN9vVPbsRL6Lj5bGd7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H) | [Transient](https://open.spotify.com/album/1tizhOQtiHBSDH8w24Pps4) | 3:45 | 2023-08-17 | 2023-09-24 |
 | [Transient](https://open.spotify.com/track/62N67E5TS88XcWY5CmUZpD) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Shadowlands](https://open.spotify.com/album/0kiImzjohOce2DmKzymLju) | 3:45 | 2023-09-21 | 2023-10-06 |

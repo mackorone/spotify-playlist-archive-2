@@ -560,10 +560,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 105088,
       "name": "Anne",
       "url": "https://open.spotify.com/track/5GMVfVehF38Nnvk9onA6zH"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2026 (Bizzey)",
+        "url": "https://open.spotify.com/album/4z7PgWXYp7tgkrNU6joOfn"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105088,
+      "name": "Anne",
+      "url": "https://open.spotify.com/track/7Cyw3ljDo5Dovndz1ObfwY"
     },
     {
       "album": {
@@ -942,7 +964,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 152166,
       "name": "Bare Minimum",
       "url": "https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd"
@@ -1176,7 +1198,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -2422,7 +2444,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -2932,6 +2954,28 @@
       "duration_ms": 221958,
       "name": "expectations",
       "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
+    },
+    {
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "album": {
@@ -4022,7 +4066,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 158666,
       "name": "Hoog",
       "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
@@ -4078,6 +4122,24 @@
       "duration_ms": 215568,
       "name": "Hoogtevrees",
       "url": "https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F"
+    },
+    {
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
       "album": {
@@ -4170,7 +4232,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 151266,
       "name": "HVB",
       "url": "https://open.spotify.com/track/3FxNuAmuRqep1aJk9shjho"
@@ -4320,6 +4382,28 @@
       "duration_ms": 129565,
       "name": "I Run (feat. Kaitlin Aragon)",
       "url": "https://open.spotify.com/track/1C9blfN8TSuM24qMLbd2HO"
+    },
+    {
+      "album": {
+        "name": "Ik Haat Je",
+        "url": "https://open.spotify.com/album/2KYisYmKm6X6vPqBWZzMMm"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134437,
+      "name": "Ik Haat Je",
+      "url": "https://open.spotify.com/track/6585feosjoM8XJYrKDMHAi"
     },
     {
       "album": {
@@ -6150,10 +6234,6 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
           "name": "Ultra Nat\u00e9",
           "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
@@ -6682,7 +6762,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-26",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -8274,7 +8354,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 177120,
       "name": "So Incredible",
       "url": "https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq"
@@ -8292,7 +8372,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 177760,
       "name": "So Incredible",
       "url": "https://open.spotify.com/track/1aYBIcbgnye5b0MjcYXoou"
@@ -8446,10 +8526,28 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
     },
     {
       "album": {
@@ -8880,7 +8978,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

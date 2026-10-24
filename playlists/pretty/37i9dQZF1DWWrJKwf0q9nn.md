@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: R3HAB & Korolova
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,482 likes - 104 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,495 likes - 104 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hi Hello](https://open.spotify.com/track/2Kaldx1TDzLaxn1dvIfaKX) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Hi Hello](https://open.spotify.com/album/4yh8ZQrICMi0HKnFaXPWCY) | 2:37 |
-| 2 | [Track 2](https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [REVELATIONS](https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo) | 0:00 |
+| 2 | [Dance Till I Die](https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [REVELATIONS](https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo) | 3:14 |
 | 3 | [No Promises](https://open.spotify.com/track/2FyxBkA9C2YaT75qvB3tha) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [No Promises](https://open.spotify.com/album/3MzoJBNJwKPcx4RBDYLMrt) | 2:01 |
 | 4 | [Staring At The Sun](https://open.spotify.com/track/0Av0Z4deoq4ct6JWdrmUM3) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Staring At The Sun](https://open.spotify.com/album/27sUfvUNHIqk81ANClzg7Q) | 3:21 |
 | 5 | [Sunny Days](https://open.spotify.com/track/2FEXFdvU7OolrivjBrfJKF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sunny Days](https://open.spotify.com/album/5DPlsIf9Fznj5lVcyHlZVL) | 3:34 |

@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-302 songs - 17 hr 10 min
+303 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 | 2021-12-06 | 2022-01-06 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2022-02-14 | 2026-07-21 |
 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2021-12-06 | 2022-10-21 |
-| [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 | 2022-01-05 |  |
+| [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 | 2022-01-05 | 2026-10-24 |
 | [KTMBK](https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:34 | 2021-12-06 | 2022-01-06 |
 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Tanmay Maheshwari](https://open.spotify.com/artist/5pEYLd9VildKNA7qUa6SEs) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 | 2025-04-15 | 2026-03-17 |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2021-12-06 | 2022-09-17 |
@@ -222,6 +222,7 @@
 | [Pehli Baarish \- Acoustic](https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish \(Acoustic\)](https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl) | 2:26 | 2023-06-30 | 2024-02-27 |
 | [People \- Hindi Reprise](https://open.spotify.com/track/0hWGN19owiVVfI2f3ePxij) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 | 2021-12-06 | 2022-08-11 |
 | [Phir Bekhabar](https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Phir Bekhabar](https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL) | 3:17 | 2022-12-22 | 2023-05-01 |
+| [Punchiri](https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ) | [Eechuu](https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx), [Suhas](https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO), [Chris Wayne](https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc) | [Punchiri](https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY) | 2:43 | 2026-10-23 |  |
 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 | 2023-08-21 | 2024-05-29 |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-01-24 | 2022-08-11 |
 | [Raatein Guzaari](https://open.spotify.com/track/0ZnBHVFiUAnVTF38LUVDpR) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raatein Guzaari](https://open.spotify.com/album/60trf9nIrCQdiU7CcoUyK6) | 2:57 | 2025-05-30 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "Your shortcut to the best new Hip Hop. Cover: Gucci Mane",
-  "num_followers": 499273,
+  "description": "Your shortcut to the best new Hip Hop. Cover: Utility",
+  "num_followers": 499248,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHfGBz95brlW5DbxErz89DJZKjUk",
+  "snapshot_id": "AAAAAJos5GrOYnFScgTXHMAQ3uM/xAyo",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:10",
@@ -45,6 +45,82 @@
       "url": "https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y"
     },
     {
+      "added_at": "2026-10-23 04:00:46",
+      "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/5bX6fQe78SeDHwYvbrWDrh"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/6zpeQpV1meY5BVLKYlmgwX"
+    },
+    {
+      "added_at": "2026-10-23 04:00:46",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
+      "added_at": "2026-09-29 06:53:42",
+      "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/4f8Y1PpbmWEvwSrgqOpvF0"
+      },
+      "artists": [
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "MATEK",
+          "url": "https://open.spotify.com/artist/6W1873QQeyM22YAo1dm8uY"
+        }
+      ],
+      "duration_ms": 133368,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/7ynnIE2JkTcPfpWaH1DxMy"
+    },
+    {
+      "added_at": "2026-10-01 14:00:06",
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 149159,
+      "name": "BA (feat. Future)",
+      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
+    },
+    {
       "added_at": "2026-10-16 04:01:54",
       "album": {
         "name": "Shroom Clouds (feat. reggie & Jeremih)",
@@ -71,46 +147,6 @@
     {
       "added_at": "2026-10-16 04:01:54",
       "album": {
-        "name": "Lambo pass by (feat. OJ da Juiceman)",
-        "url": "https://open.spotify.com/album/0sxD77LnEeh7Z7bqH69mN7"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "OJ Da Juiceman",
-          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
-        }
-      ],
-      "duration_ms": 173974,
-      "name": "Lambo pass by (feat. OJ da Juiceman)",
-      "url": "https://open.spotify.com/track/5Bl2UDbq6lOT2U2YXbJ7Dq"
-    },
-    {
-      "added_at": "2026-10-01 14:00:06",
-      "album": {
-        "name": "QR\u00d6MELIFE",
-        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 149159,
-      "name": "BA (feat. Future)",
-      "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
-    },
-    {
-      "added_at": "2026-10-16 04:01:54",
-      "album": {
         "name": "Effortless",
         "url": "https://open.spotify.com/album/5aetSrrhTetpi8jXtxpcaW"
       },
@@ -123,6 +159,38 @@
       "duration_ms": 245142,
       "name": "Effortless",
       "url": "https://open.spotify.com/track/5O3wwWyc6xJKJpCdyOge1R"
+    },
+    {
+      "added_at": "2026-10-23 04:00:46",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/6HwHgmchyR1p2BdwKxqTBY"
+    },
+    {
+      "added_at": "2026-10-23 04:00:46",
+      "album": {
+        "name": "Lethal",
+        "url": "https://open.spotify.com/album/4LOOguFjSm8KGd2ZC9zCyv"
+      },
+      "artists": [
+        {
+          "name": "Yung Milla",
+          "url": "https://open.spotify.com/artist/3tmKWcTtmvmyM4Erdv8lV5"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Lethal",
+      "url": "https://open.spotify.com/track/58rslsk1TrHpA7RnxDy9tf"
     },
     {
       "added_at": "2026-10-16 04:01:54",
@@ -149,24 +217,40 @@
       "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
     },
     {
-      "added_at": "2026-10-09 04:01:10",
+      "added_at": "2026-10-16 04:01:54",
       "album": {
-        "name": "Boogie Man (with 1900Rugrat)",
-        "url": "https://open.spotify.com/album/1tNxzApcX8ZXwEqCZJzgnX"
+        "name": "Lambo pass by (feat. OJ da Juiceman)",
+        "url": "https://open.spotify.com/album/0sxD77LnEeh7Z7bqH69mN7"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "1900Rugrat",
-          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+          "name": "OJ Da Juiceman",
+          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Boogie Man (with 1900Rugrat)",
-      "url": "https://open.spotify.com/track/0dxJI4SkkFHj13Yd2z3mlU"
+      "duration_ms": 173974,
+      "name": "Lambo pass by (feat. OJ da Juiceman)",
+      "url": "https://open.spotify.com/track/5Bl2UDbq6lOT2U2YXbJ7Dq"
+    },
+    {
+      "added_at": "2026-10-23 04:00:46",
+      "album": {
+        "name": "Last Laugh [archive tape]",
+        "url": "https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 125533,
+      "name": "60 mgs",
+      "url": "https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l"
     },
     {
       "added_at": "2026-09-29 06:53:42",
@@ -203,6 +287,26 @@
       "duration_ms": 146655,
       "name": "Chiltern Firehouse .",
       "url": "https://open.spotify.com/track/4qS0HFIVCwj0AS3zR7hdyi"
+    },
+    {
+      "added_at": "2026-10-09 04:01:10",
+      "album": {
+        "name": "Boogie Man (with 1900Rugrat)",
+        "url": "https://open.spotify.com/album/1tNxzApcX8ZXwEqCZJzgnX"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Boogie Man (with 1900Rugrat)",
+      "url": "https://open.spotify.com/track/0dxJI4SkkFHj13Yd2z3mlU"
     },
     {
       "added_at": "2026-09-29 06:53:42",
@@ -287,26 +391,6 @@
       "duration_ms": 138773,
       "name": "Yiccen",
       "url": "https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt"
-    },
-    {
-      "added_at": "2026-09-29 06:53:42",
-      "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/4f8Y1PpbmWEvwSrgqOpvF0"
-      },
-      "artists": [
-        {
-          "name": "UTILITY",
-          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
-        },
-        {
-          "name": "MATEK",
-          "url": "https://open.spotify.com/artist/6W1873QQeyM22YAo1dm8uY"
-        }
-      ],
-      "duration_ms": 133368,
-      "name": "Player",
-      "url": "https://open.spotify.com/track/7ynnIE2JkTcPfpWaH1DxMy"
     },
     {
       "added_at": "2026-09-18 04:23:24",

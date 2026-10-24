@@ -6615,6 +6615,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/6AgkhCQME5wqQ2xqFgeMYK"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110142,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/5xqqwC86B6OHPdLMekNIm4"
+    },
+    {
+      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF"
       },

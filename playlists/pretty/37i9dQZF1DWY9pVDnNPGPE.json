@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12212,
+  "num_followers": 12217,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "cassette",
-        "url": "https://open.spotify.com/album/70fVyVGMetHBwXFHnMp4zS"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 231043,
-      "name": "let's go picnic",
-      "url": "https://open.spotify.com/track/6nLK3EpVQLW1SC3lmlejoU"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 197795,
       "name": "TFW (That Feeling When)",
       "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "cassette",
+        "url": "https://open.spotify.com/album/70fVyVGMetHBwXFHnMp4zS"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 231043,
+      "name": "let's go picnic",
+      "url": "https://open.spotify.com/track/6nLK3EpVQLW1SC3lmlejoU"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
         "name": "HAAN X Chan : Synergy",
         "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "Once a Day",
-        "url": "https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 212055,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 188293,
       "name": "Flu",
       "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "Once a Day",
+        "url": "https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 212055,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
+        "name": "A flower bookmark, Pt. 2",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 224791,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
         "name": "Airman Morning Diaries",
         "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 201077,
       "name": "Blue Island (feat. 1Ho & Chan)",
       "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "A flower bookmark, Pt. 2",
-        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 224791,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "Our Beloved BoA #4 - SM STATION",
         "url": "https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW"
       },
@@ -779,6 +759,30 @@
       "duration_ms": 217533,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
+        "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        }
+      ],
+      "duration_ms": 182833,
+      "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
+      "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -819,30 +823,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
-        "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        },
-        {
-          "name": "Jayci yucca",
-          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
-        }
-      ],
-      "duration_ms": 182833,
-      "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
-      "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "Sunshine Coast",
         "url": "https://open.spotify.com/album/2jA6z1i2mNta9fB7NoRVf2"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 185687,
       "name": "Sunshine Coast",
       "url": "https://open.spotify.com/track/3F7aCMePBPszLTbvojA2U1"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-09-03 07:10:58",

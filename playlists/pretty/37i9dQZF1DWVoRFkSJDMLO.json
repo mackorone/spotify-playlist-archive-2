@@ -1,12 +1,12 @@
 {
   "description": "The latest in African & Caribbean music. From the continent, to the islands with Fireboy DML.",
-  "num_followers": 89299,
+  "num_followers": 89323,
   "original_name": "Crxss Current",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABzbJ2n6N4KXwMAXvRQTw3UdBYfE",
+  "snapshot_id": "AAAAAHWpXHM2mfeNvA0CI9eYCx0KJG+7",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:35",
@@ -27,6 +27,30 @@
       "duration_ms": 171436,
       "name": "GODDESS (feat. Lojay)",
       "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
+    },
+    {
+      "added_at": "2026-10-16 04:00:35",
+      "album": {
+        "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+      "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
     },
     {
       "added_at": "2026-10-16 04:00:35",
@@ -63,30 +87,6 @@
       "duration_ms": 162284,
       "name": "If You Like",
       "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
-    },
-    {
-      "added_at": "2026-10-16 04:00:35",
-      "album": {
-        "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-      "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
     },
     {
       "added_at": "2026-10-16 04:00:35",
@@ -141,6 +141,42 @@
       "url": "https://open.spotify.com/track/2ozfnyblKLTdmee4e11qZw"
     },
     {
+      "added_at": "2026-10-23 04:00:37",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 187187,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+    },
+    {
+      "added_at": "2026-10-16 04:00:35",
+      "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
       "added_at": "2026-10-16 04:00:35",
       "album": {
         "name": "City",
@@ -159,22 +195,6 @@
     {
       "added_at": "2026-10-16 04:00:35",
       "album": {
-        "name": "Cash Rules Everything Around Us",
-        "url": "https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 156314,
-      "name": "Cash Rules Everything Around Us",
-      "url": "https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT"
-    },
-    {
-      "added_at": "2026-10-16 04:00:35",
-      "album": {
         "name": "NOMADINHO: 4TH PRIME",
         "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
       },
@@ -189,20 +209,28 @@
       "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
     },
     {
-      "added_at": "2026-10-16 04:00:35",
+      "added_at": "2026-10-23 04:00:37",
       "album": {
-        "name": "Bilingual Baddie(BB)",
-        "url": "https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU"
+        "name": "POSITION",
+        "url": "https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu"
       },
       "artists": [
         {
-          "name": "T\u00d6ME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 118636,
-      "name": "Bilingual Baddie(BB)",
-      "url": "https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP"
+      "duration_ms": 171428,
+      "name": "POSITION",
+      "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
     },
     {
       "added_at": "2026-10-16 04:00:35",
@@ -227,6 +255,22 @@
     {
       "added_at": "2026-10-16 04:00:35",
       "album": {
+        "name": "Bilingual Baddie(BB)",
+        "url": "https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "duration_ms": 118636,
+      "name": "Bilingual Baddie(BB)",
+      "url": "https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP"
+    },
+    {
+      "added_at": "2026-10-16 04:00:35",
+      "album": {
         "name": "IKEBE 3000",
         "url": "https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL"
       },
@@ -243,6 +287,22 @@
       "duration_ms": 197288,
       "name": "IKEBE 3000",
       "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
+    },
+    {
+      "added_at": "2026-10-16 04:00:35",
+      "album": {
+        "name": "Cash Rules Everything Around Us",
+        "url": "https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 156314,
+      "name": "Cash Rules Everything Around Us",
+      "url": "https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT"
     },
     {
       "added_at": "2026-10-16 04:00:35",
@@ -299,26 +359,6 @@
       "duration_ms": 160101,
       "name": "Dat Bad",
       "url": "https://open.spotify.com/track/1fk5Jx5ytAcfc9o1tcrQ1d"
-    },
-    {
-      "added_at": "2026-10-16 04:00:35",
-      "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
     },
     {
       "added_at": "2026-10-16 04:00:35",
@@ -1531,22 +1571,6 @@
     {
       "added_at": "2026-10-16 04:00:35",
       "album": {
-        "name": "Kakalika",
-        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 181581,
-      "name": "Kakalika",
-      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
-    },
-    {
-      "added_at": "2026-10-16 04:00:35",
-      "album": {
         "name": "Allergies",
         "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
       },
@@ -1651,30 +1675,6 @@
       "duration_ms": 139377,
       "name": "Slip & Slide",
       "url": "https://open.spotify.com/track/5EJIznVELUzwHmEEAylB0M"
-    },
-    {
-      "added_at": "2026-10-16 04:00:35",
-      "album": {
-        "name": "RARRI",
-        "url": "https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "RARRI",
-      "url": "https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o"
     },
     {
       "added_at": "2026-10-16 04:00:35",

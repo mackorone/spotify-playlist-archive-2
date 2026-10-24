@@ -6,8 +6,56 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRyTWHf5oGu/4XL5AiZdyiZqM4t",
+  "snapshot_id": "AAAAALlm2rW4mwUjKNcX/48Kgek3Df25",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:27:28",
+      "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/1ichmKNyNabuHTTJp9onfr"
+      },
+      "artists": [
+        {
+          "name": "Roy Rutto",
+          "url": "https://open.spotify.com/artist/0qXdKNxrW6KNMGdDIIgRre"
+        }
+      ],
+      "duration_ms": 187559,
+      "name": "calluses",
+      "url": "https://open.spotify.com/track/4RWE0K8l8A52KO6uXa4nkU"
+    },
+    {
+      "added_at": "2026-10-23 04:27:28",
+      "album": {
+        "name": "Burning Everything",
+        "url": "https://open.spotify.com/album/4jIUefYolictFgKjPvDKxp"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Burning Everything",
+      "url": "https://open.spotify.com/track/3MTB2ChmFdKVzDNp9WOe73"
+    },
+    {
+      "added_at": "2026-10-23 04:27:28",
+      "album": {
+        "name": "MIND YER BIZNIZ",
+        "url": "https://open.spotify.com/album/5f1UtOFyx7q2WYUJsd2VZk"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "MIND YER BIZNIZ",
+      "url": "https://open.spotify.com/track/2yLwwjkbhUaYoqltO0u1m7"
+    },
     {
       "added_at": "2026-09-10 23:59:34",
       "album": {
@@ -55,22 +103,6 @@
     {
       "added_at": "2026-09-10 23:59:34",
       "album": {
-        "name": "Mpende Na Pesa",
-        "url": "https://open.spotify.com/album/6TAl9rwvV2VpLPnbVeRwp7"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mpende Na Pesa",
-      "url": "https://open.spotify.com/track/7JqKoZtcS1FBpyTrbHNRnh"
-    },
-    {
-      "added_at": "2026-09-10 23:59:34",
-      "album": {
         "name": "Cashmere",
         "url": "https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn"
       },
@@ -87,6 +119,26 @@
       "duration_ms": 187317,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb"
+    },
+    {
+      "added_at": "2026-09-10 23:59:34",
+      "album": {
+        "name": "Sometimes Love",
+        "url": "https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 307245,
+      "name": "Sometimes Love",
+      "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
     },
     {
       "added_at": "2026-09-10 23:59:34",
@@ -127,26 +179,6 @@
     {
       "added_at": "2026-09-10 23:59:34",
       "album": {
-        "name": "Sometimes Love",
-        "url": "https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 307245,
-      "name": "Sometimes Love",
-      "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
-    },
-    {
-      "added_at": "2026-09-10 23:59:34",
-      "album": {
         "name": "Pair That We Are",
         "url": "https://open.spotify.com/album/4wouLoPVgMjfn127KN9XNO"
       },
@@ -159,6 +191,22 @@
       "duration_ms": 186545,
       "name": "Pair That We Are",
       "url": "https://open.spotify.com/track/6yT5C31OkfPiATFgaOVmBl"
+    },
+    {
+      "added_at": "2026-09-10 23:59:34",
+      "album": {
+        "name": "Mpende Na Pesa",
+        "url": "https://open.spotify.com/album/6TAl9rwvV2VpLPnbVeRwp7"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Mpende Na Pesa",
+      "url": "https://open.spotify.com/track/7JqKoZtcS1FBpyTrbHNRnh"
     },
     {
       "added_at": "2026-09-10 23:59:34",
@@ -515,26 +563,6 @@
     {
       "added_at": "2026-09-10 23:59:34",
       "album": {
-        "name": "Free Rein",
-        "url": "https://open.spotify.com/album/5U3H0A6fCzyl0FIzxmWcme"
-      },
-      "artists": [
-        {
-          "name": "Sidi",
-          "url": "https://open.spotify.com/artist/1z1ghaqp3itYXYwBpCcXr1"
-        },
-        {
-          "name": "Clark Keeng",
-          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Free Rein",
-      "url": "https://open.spotify.com/track/0qUAJXjeX3Xjy3ZvlSRUaz"
-    },
-    {
-      "added_at": "2026-09-10 23:59:34",
-      "album": {
         "name": "Realign",
         "url": "https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu"
       },
@@ -747,22 +775,6 @@
     {
       "added_at": "2026-09-10 23:59:34",
       "album": {
-        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
-      },
-      "artists": [
-        {
-          "name": "KABEAUSH\u00c9",
-          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
-    },
-    {
-      "added_at": "2026-09-10 23:59:34",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/1rWaIByfwfLQm2GH8cV6Pg"
       },
@@ -779,22 +791,6 @@
       "duration_ms": 147878,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/50L8gSrd2oUjrcPVNP6mDI"
-    },
-    {
-      "added_at": "2026-09-10 23:59:34",
-      "album": {
-        "name": "Don't Blame Me",
-        "url": "https://open.spotify.com/album/2GuT8ltdbBWGx4UpS14L8M"
-      },
-      "artists": [
-        {
-          "name": "Chwezimadeit",
-          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
-        }
-      ],
-      "duration_ms": 75000,
-      "name": "Don't Blame Me",
-      "url": "https://open.spotify.com/track/7DNoFGocfaQKO54zkhIUXf"
     },
     {
       "added_at": "2026-09-10 23:59:34",

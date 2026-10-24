@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > ABEMA「RAPSTAR 2026」公式プレイリスト。審査員や番組内で活躍したアーティスト、昨年活躍したアーティストの楽曲を毎週水曜日に更新。 マイライブラリに保存して毎週チェックしよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,309 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,533 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

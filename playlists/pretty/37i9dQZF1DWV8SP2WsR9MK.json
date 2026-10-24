@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 133976,
+  "num_followers": 134030,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Djangology 49",
-        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Tequila (Expanded Edition)",
         "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 229173,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Djangology 49",
+        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -443,26 +443,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Angular Blues",
-        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
+        "name": "I Can See Your House From Here",
+        "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
       },
       "artists": [
         {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
         },
         {
-          "name": "Scott Colley",
-          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
         }
       ],
-      "duration_ms": 315493,
-      "name": "H\u00fcttengriffe",
-      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
+      "duration_ms": 259360,
+      "name": "The Red One",
+      "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -483,22 +479,26 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "I Can See Your House From Here",
-        "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
+        "name": "Angular Blues",
+        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
       "artists": [
         {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
         },
         {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
         }
       ],
-      "duration_ms": 259360,
-      "name": "The Red One",
-      "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
+      "duration_ms": 315493,
+      "name": "H\u00fcttengriffe",
+      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -599,22 +599,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0lsINQ5eGOr4GBVfZYDqyI"
+        "name": "East To Wes",
+        "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
       },
       "artists": [
         {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
         }
       ],
-      "duration_ms": 253173,
-      "name": "Sacred Place",
-      "url": "https://open.spotify.com/track/0od5R0qVfDsWJKa3SL2wa9"
+      "duration_ms": 490573,
+      "name": "Softly, As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -651,18 +647,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "East To Wes",
-        "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0lsINQ5eGOr4GBVfZYDqyI"
       },
       "artists": [
         {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
         }
       ],
-      "duration_ms": 490573,
-      "name": "Softly, As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH"
+      "duration_ms": 253173,
+      "name": "Sacred Place",
+      "url": "https://open.spotify.com/track/0od5R0qVfDsWJKa3SL2wa9"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Cream",
-        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 628186,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Firefly",
         "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 469360,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
+      },
+      "artists": [
+        {
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+        }
+      ],
+      "duration_ms": 628186,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Good Pickin's",
         "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 280333,
       "name": "Freedom Dance",
       "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1235,22 +1251,6 @@
       "duration_ms": 267800,
       "name": "Let's Say We Did",
       "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
-      },
-      "artists": [
-        {
-          "name": "Ben Street",
-          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        },
-        {
-          "name": "Lage Lund",
-          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
-        }
-      ],
-      "duration_ms": 448413,
-      "name": "Rumspringa",
-      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Beyond The Missouri Sky",
         "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
       },
@@ -1699,6 +1675,30 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
+      },
+      "artists": [
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        },
+        {
+          "name": "Lage Lund",
+          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
+        }
+      ],
+      "duration_ms": 448413,
+      "name": "Rumspringa",
+      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Lifestyle2 - Bar Jazz Vol 2 (International Version)",
         "url": "https://open.spotify.com/album/32JF2WnLL2FYQwxHVqGEKp"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 287826,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/2gRJ1I0QWkU8E9ECZ6iZM6"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Standards [And Other Songs]",
-        "url": "https://open.spotify.com/album/1DNCkNNowfEz9towiU2PDo"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1763,6 +1747,22 @@
       "duration_ms": 264893,
       "name": "Airegin",
       "url": "https://open.spotify.com/track/2UCUSLYC6EX0AGnI7DAC35"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Standards [And Other Songs]",
+        "url": "https://open.spotify.com/album/1DNCkNNowfEz9towiU2PDo"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE"
     },
     {
       "added_at": "2025-09-10 12:20:14",

@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Joya Marleen
 
-2,724 songs - 5 day 19 hr 8 min
+2,725 songs - 5 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 | 2026-07-09 | 2026-08-07 |
 | [Club Song](https://open.spotify.com/track/5XzS5QmnzhAyYkVndZro5Y) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Club Song](https://open.spotify.com/album/4w2Nx0U9Ujf83ZrcjIoaLg) | 2:27 | 2026-03-13 | 2026-04-10 |
 | [Cognitive Dissonance](https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Spellbook](https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K) | 2:29 | 2025-12-18 | 2026-01-23 |
-| [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ilsey Juber](https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 | 2026-10-22 |  |
+| [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 | 2026-10-22 |  |
 | [Cold In California \(2016 Demo\)](https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(10th Anniversary Edition\)](https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz) | 4:04 | 2026-09-24 | 2026-10-23 |
 | [Collide](https://open.spotify.com/track/59lrjocxqKQiPbTyHiD9Oo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Collide](https://open.spotify.com/album/3c8ps31q7g5MBu8RsWQ7FJ) | 3:28 | 2026-09-24 | 2026-10-23 |
 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 | 2026-04-23 | 2026-05-22 |
@@ -2338,6 +2338,7 @@
 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 | 2026-06-05 | 2026-07-03 |
 | [The Feeling Never Went Away](https://open.spotify.com/track/7MIHld5DMNTidKKHnS61M2) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [The Feeling Never Went Away](https://open.spotify.com/album/7xcvfwtJB3bBEG4F1ijrza) | 2:55 | 2025-07-31 | 2025-08-29 |
 | [The Final Straw](https://open.spotify.com/track/0V2G4OMFtXsUMzWZBvYJas) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [The Final Straw](https://open.spotify.com/album/24GDSBE6IJN4q3WXzQJc1A) | 3:11 | 2024-12-19 | 2025-01-24 |
+| [The Game](https://open.spotify.com/track/49Y59VzV0JqpGbLrDazOpL) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [The Game](https://open.spotify.com/album/74oE7jwtXnGk7eFE3M1cGz) | 2:46 | 2026-10-22 |  |
 | [The Girl in the Bubble](https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:40 | 2025-11-20 | 2025-12-19 |
 | [The Girl With The Secret Garden](https://open.spotify.com/track/2gYDYXNBqE62v1QVB9p0WL) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [The Girl With The Secret Garden](https://open.spotify.com/album/1cyL1EZE0e3omQTIw1bcit) | 3:17 | 2025-08-07 | 2025-09-05 |
 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-28 | 2024-07-12 |
@@ -2453,7 +2454,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-10 |
 | [Toy Gun](https://open.spotify.com/track/0OXVPuuyCU3Wih7xObJ4HO) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Toy Gun](https://open.spotify.com/album/6FlDkhHiDKhNeInRIdPng1) | 3:14 | 2026-09-10 | 2026-10-09 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-31 | 2025-11-28 |
-| [Track 1](https://open.spotify.com/track/49Y59VzV0JqpGbLrDazOpL) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [The Game](https://open.spotify.com/album/74oE7jwtXnGk7eFE3M1cGz) | 0:00 | 2026-10-22 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-08-07 |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-10-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-02-14 |
@@ -2687,6 +2687,7 @@
 | [Worst behavior](https://open.spotify.com/track/2pbspg7cCzZwPfIG4Ci4K0) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Worst behavior](https://open.spotify.com/album/3FOvQmvu8pPCOTPhfgrGBO) | 2:55 | 2026-08-20 | 2026-09-18 |
 | [Worth It](https://open.spotify.com/track/7MRoIVZ0QuVy3xDu9Z6Thu) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [RAGE](https://open.spotify.com/album/5oxMfD3pBDCVsRKjpgVXTb) | 3:23 | 2026-06-26 | 2026-07-24 |
 | [worth my salt](https://open.spotify.com/track/3n5EfwQCoctF4EiLNgrOJd) | [AYLA](https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa) | [APPETITE FOR CHAOS](https://open.spotify.com/album/7JueLJfExuOwtOL2go7jO5) | 2:36 | 2026-06-18 | 2026-07-17 |
+| [Wrapped in Gold](https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Wrapped in Gold](https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC) | 3:19 | 2026-10-23 |  |
 | [Wreck](https://open.spotify.com/track/5bpIkRGZXnayOaWEszMSK1) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Wreck](https://open.spotify.com/album/30sDoUge1EZ2O8jG3hdkli) | 2:39 | 2024-10-24 | 2024-11-22 |
 | [Wreck Of Me](https://open.spotify.com/track/4Ezd8z85fB3hmxrIEF6m2M) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Wreck Of Me](https://open.spotify.com/album/5QJmfQtmFNVRJlGB9iniwn) | 3:19 | 2026-10-22 |  |
 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-02-19 | 2026-03-20 |

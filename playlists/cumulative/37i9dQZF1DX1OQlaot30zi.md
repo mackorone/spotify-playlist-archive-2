@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di Chris Nolan, 333 Mob, BATTISTA, Frezza e tanti altri.
 
-7,949 songs - 14 day 13 hr 54 min
+7,949 songs - 14 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5125,6 +5125,7 @@
 | [Oh Mama](https://open.spotify.com/track/67MqI4NtV2GJn7dSrrDN4I) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY), [Julian Ross](https://open.spotify.com/artist/1zS6KfVgteM7pt8GvkNyKR) | [Oh Mama](https://open.spotify.com/album/1exRezhpYi7BrEKsyJQUsn) | 2:46 | 2022-09-15 | 2022-09-23 |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 | 2025-01-31 |
 | [OH MIO DIO](https://open.spotify.com/track/4oy0YfpS0jl68DD0QBNyzX) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [OH MIO DIO](https://open.spotify.com/album/5zFDxiDnv7dk7xmcwpfjVO) | 1:52 | 2023-08-31 | 2023-09-29 |
+| [OH MY GOD](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 2:11 | 2026-10-22 |  |
 | [Oh Mà](https://open.spotify.com/track/5x629g2VVGrBWUR2DSRVhg) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL) | [Oh Mà](https://open.spotify.com/album/0CS2ggLHqLMTbotnb1Hney) | 2:37 | 2023-02-16 | 2023-03-03 |
 | [OH NO](https://open.spotify.com/track/35AfEsAhX7U7IIlebUv3Z2) | [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [OH NO](https://open.spotify.com/album/3MewALvO7lt4rbO6msoQLv) | 2:32 | 2022-05-26 | 2022-06-03 |
 | [OH NOOO! \(feat\. Ele A, 18K\)](https://open.spotify.com/track/7lQrtVBb0bXC6pFwIHzPaZ) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [JUNKIE MUSIK](https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l) | 2:18 | 2026-10-08 |  |
@@ -7233,7 +7234,6 @@
 | [Tra mille persone](https://open.spotify.com/track/2Gantu0FQ1kyP5OHvYJkKc) | [Delli](https://open.spotify.com/artist/5vQaJMLa7BBGVaXifSZMOK) | [Tra mille persone](https://open.spotify.com/album/6G3fdSuABfdDBkNzTRgjBN) | 1:44 | 2024-03-28 | 2024-04-12 |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-28 | 2025-12-12 |
 | [TRACCIA COMMERCIALE](https://open.spotify.com/track/08eFX7mEvVLquXy65TyhR0) | [loui](https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA) | [TRACCIA COMMERCIALE](https://open.spotify.com/album/0K0W1s7p3YdSmiaWy7gDeO) | 2:41 | 2025-07-03 | 2025-07-25 |
-| [Track 9](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 0:00 | 2026-10-22 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-11-08 |
 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 | 2024-07-26 | 2024-09-06 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-22 | 2022-10-25 |

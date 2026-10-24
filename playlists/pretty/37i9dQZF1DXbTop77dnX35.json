@@ -1,12 +1,12 @@
 {
   "description": "New Music from Mavo, Olamide, King Promise,  Magixx, Shallipopi, Chella, TUFF KING and more ",
-  "num_followers": 224872,
+  "num_followers": 225599,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxAtc7vGq2kWa66J/5ZQoesVErB",
+  "snapshot_id": "AAAAAJLsWyLhsn506CcN/Ymox5YN0sd6",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:01",
@@ -169,6 +169,26 @@
       "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
     },
     {
+      "added_at": "2026-10-23 09:02:09",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
       "added_at": "2026-10-23 00:01:01",
       "album": {
         "name": "Ajei",
@@ -216,7 +236,7 @@
           "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
         }
       ],
-      "duration_ms": 160182,
+      "duration_ms": 160000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
     },
@@ -504,7 +524,7 @@
           "url": "https://open.spotify.com/artist/4u8Tr9dnmLtqXs0XC8BCyN"
         }
       ],
-      "duration_ms": 124861,
+      "duration_ms": 218947,
       "name": "Gbona",
       "url": "https://open.spotify.com/track/1FsIOOuJqTdQL22a6GGMvT"
     },
@@ -591,6 +611,22 @@
       "duration_ms": 140000,
       "name": "Let Me Be",
       "url": "https://open.spotify.com/track/2f4SeTf0LfY6JbyTPd52YW"
+    },
+    {
+      "added_at": "2026-10-23 00:01:01",
+      "album": {
+        "name": "Lava Boy",
+        "url": "https://open.spotify.com/album/533UJmRKFtFQPLb1ltMM2o"
+      },
+      "artists": [
+        {
+          "name": "Nasibi",
+          "url": "https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "with u",
+      "url": "https://open.spotify.com/track/12kiqxnYFXezJDrJzZmGRj"
     },
     {
       "added_at": "2026-10-23 00:01:01",
@@ -791,7 +827,7 @@
     {
       "added_at": "2026-10-23 00:01:01",
       "album": {
-        "name": "ABILITY (feat. Medikal & beatzvampire)",
+        "name": "ABILITY (with Medikal & beatzvampire)",
         "url": "https://open.spotify.com/album/2JFCHtwOJ6WkiUtV2i4AiP"
       },
       "artists": [
@@ -809,7 +845,7 @@
         }
       ],
       "duration_ms": 139601,
-      "name": "ABILITY (feat. Medikal & beatzvampire)",
+      "name": "ABILITY (with Medikal & beatzvampire)",
       "url": "https://open.spotify.com/track/5mrALmqbMOh64jH7AJCM7U"
     },
     {

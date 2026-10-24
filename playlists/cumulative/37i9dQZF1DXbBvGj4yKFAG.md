@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-281 songs - 14 hr 46 min
+282 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-19 | 2023-07-01 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Done Chasing](https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f), [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Done Chasing](https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl) | 2:52 | 2023-03-23 | 2026-03-14 |
-| [Donné ma peau](https://open.spotify.com/track/18ttEALJCQM64xw532B815) | [17sport](https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT) | [Blue Heaven White Horse](https://open.spotify.com/album/68ue2cjYdCpNWRTNU4NKgX) | 2:50 | 2026-03-13 |  |
+| [Donné ma peau](https://open.spotify.com/track/18ttEALJCQM64xw532B815) | [17sport](https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT) | [Blue Heaven White Horse](https://open.spotify.com/album/68ue2cjYdCpNWRTNU4NKgX) | 2:50 | 2026-03-13 | 2026-10-24 |
 | [Downtown](https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/3Wv4vQmOfMXetzbp8gPo3U) | 3:08 | 2023-04-11 | 2023-07-01 |
 | [drain](https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [drain](https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f) | 2:09 | 2024-08-16 | 2026-06-05 |
 | [Drain the Pool](https://open.spotify.com/track/02E6lFwMoNkUekkF7ofoNy) | [Dearly Somber](https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH) | [Hourglass](https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb) | 3:56 | 2023-04-11 | 2023-05-17 |
@@ -171,7 +171,7 @@
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 | 2026-08-08 |
 | [Mirrors](https://open.spotify.com/track/38PleSiXelEox4nUyO5apt) | [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [From the bathroom floor](https://open.spotify.com/album/4mrRaqeKbrKIgLGzFT8Ovy) | 3:39 | 2023-06-23 |  |
 | [miss](https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF) | [postcard nowhere](https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI) | [Juvenilia](https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk) | 2:05 | 2023-04-11 |  |
-| [Missing](https://open.spotify.com/track/6cjLzYXcciwqS0CtSuZNSh) | [Madrid Exit](https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO) | [Strangers](https://open.spotify.com/album/1kU0H9ztrvumgynaerkHOm) | 2:46 | 2026-10-16 |  |
+| [Missing](https://open.spotify.com/track/6cjLzYXcciwqS0CtSuZNSh) | [Madrid Exit](https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO) | [Strangers](https://open.spotify.com/album/1kU0H9ztrvumgynaerkHOm) | 2:46 | 2026-10-16 | 2026-10-24 |
 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 | 2023-11-14 |  |
 | [my baby blue](https://open.spotify.com/track/16IvMrfVI9h3YdxYIjB22F) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv), [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [strange things keep happening](https://open.spotify.com/album/4Xerx7CpUu30LBPMLOlQcD) | 2:15 | 2025-01-28 |  |
 | [mystery](https://open.spotify.com/track/76EXWE2u0yUfGGjyb17zbL) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [mystery](https://open.spotify.com/album/7fVqe0uJJjwInvZb78pBR0) | 1:57 | 2025-01-28 |  |
@@ -200,6 +200,7 @@
 | [Purple Candy Glow](https://open.spotify.com/track/5c2XZ5gPOVCDc6VIDmC0lQ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Purple Candy Glow](https://open.spotify.com/album/7BwPqSXaEQq6wYIzfY3u4Y) | 2:34 | 2023-07-14 |  |
 | [rainwater on the windowsill](https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [there is one place we're all going](https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq) | 3:08 | 2023-08-11 |  |
 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 | 2023-07-07 | 2023-11-10 |
+| [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 | 2026-10-23 |  |
 | [relapsing](https://open.spotify.com/track/28f8QHpqGfuqv7QzhCw1oo) | [ceiling light](https://open.spotify.com/artist/6wsGEqvxS3QM0F6mpEqxDS) | [endless cycle](https://open.spotify.com/album/1gcsjfsoXVqJcYSgrpeAG6) | 2:54 | 2026-06-19 |  |
 | [rest](https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:26 | 2023-04-11 | 2026-03-14 |
 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 | 2023-03-31 | 2026-03-14 |

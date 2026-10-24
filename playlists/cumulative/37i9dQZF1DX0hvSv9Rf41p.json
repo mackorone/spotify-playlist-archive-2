@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Arcando & IRAH",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Flux Pavilion",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 202285,
       "name": "Beat Goes Boom",
       "url": "https://open.spotify.com/track/77JRsNPS931vefQldOjsnT"
@@ -7015,6 +7015,28 @@
     },
     {
       "album": {
+        "name": "CULT CHROME II",
+        "url": "https://open.spotify.com/album/2fMzDNj8s4y3AgemvaKtsp"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "Basstrick",
+          "url": "https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "CHAINSAW",
+      "url": "https://open.spotify.com/track/1ydsW0MBvHFnYHZkPABatN"
+    },
+    {
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/7lf8Od07lp9Ix9lI7g7r0o"
       },
@@ -7906,7 +7928,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 182535,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
@@ -12091,6 +12113,32 @@
     },
     {
       "album": {
+        "name": "Energy (PEEKABOO Remix)",
+        "url": "https://open.spotify.com/album/3FZqwXVYlPDofx0Pj690Bj"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Energy - PEEKABOO Remix",
+      "url": "https://open.spotify.com/track/0D1uyYeKDR7sFgv9nulT3y"
+    },
+    {
+      "album": {
         "name": "Enter The World",
         "url": "https://open.spotify.com/album/6hJfFdvNYpKbWB1cdTHWtJ"
       },
@@ -14666,7 +14714,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 212571,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/0nLGprBGH6Znj5CzRHdBpX"
@@ -19388,7 +19436,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189937,
       "name": "I Need",
       "url": "https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc"
@@ -22371,6 +22419,28 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5gUkYiG1ccg96wVyWDGk74"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Fryar",
+          "url": "https://open.spotify.com/artist/1ABM3WSMTPteuFWFMQ3975"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1DxqE3NhghS5DoTVRddCQr"
+    },
+    {
+      "album": {
         "name": "Find My Way",
         "url": "https://open.spotify.com/album/1ldY76Rx5BjH8cCYHSX7cB"
       },
@@ -24300,6 +24370,24 @@
       "duration_ms": 183200,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
+    },
+    {
+      "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/0tliVmDagENBlop1qMCxaE"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/0P4LyH6wJAhs2ne7NLQDyG"
     },
     {
       "album": {
@@ -32082,6 +32170,28 @@
       "duration_ms": 195405,
       "name": "RiGHT TiME",
       "url": "https://open.spotify.com/track/5lIoRjBE65d8REmUD2h4aY"
+    },
+    {
+      "album": {
+        "name": "Fluxiverse Vol.3",
+        "url": "https://open.spotify.com/album/5ItWWaavtMgb08YacFWpAM"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229241,
+      "name": "Righteous Valkyrie",
+      "url": "https://open.spotify.com/track/70jHr7J04Phv1wmf4dajCr"
     },
     {
       "album": {
@@ -40184,7 +40294,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 226985,
       "name": "TTY",
       "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"

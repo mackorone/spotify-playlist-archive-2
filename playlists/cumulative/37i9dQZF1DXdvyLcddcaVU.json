@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "L'undertaker, Pt.2",
+        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168716,
+      "name": "12",
+      "url": "https://open.spotify.com/track/7C6qjGYDI7h28Nh4lQWYDo"
+    },
+    {
+      "album": {
         "name": "12.12.25 Remix Booska Charo",
         "url": "https://open.spotify.com/album/4M2H2fmMgoESCupAg7QWva"
       },
@@ -7780,7 +7798,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 156107,
       "name": "Ferry shop",
       "url": "https://open.spotify.com/track/5jeIA5wYxD8aQz4tf8LLeU"
@@ -9961,6 +9979,24 @@
     },
     {
       "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
+    },
+    {
+      "album": {
         "name": "Station Paradiso",
         "url": "https://open.spotify.com/album/3csSgqY0Ok9zvs0Qw9LvOq"
       },
@@ -9976,6 +10012,24 @@
       "duration_ms": 155312,
       "name": "J'attends au Carrefour Market",
       "url": "https://open.spotify.com/track/7gmwFiZtsPyBT8wI2u6mGN"
+    },
+    {
+      "album": {
+        "name": "J'rentre pas chez moi",
+        "url": "https://open.spotify.com/album/5MaykxZo8kzq0uYHgQXjqD"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163608,
+      "name": "J'rentre pas chez moi",
+      "url": "https://open.spotify.com/track/1kqrfPAEFaOx33YHlYqQLa"
     },
     {
       "album": {
@@ -11289,6 +11343,28 @@
     },
     {
       "album": {
+        "name": "La Faille",
+        "url": "https://open.spotify.com/album/2DGoXP4zxuPoktJzIE3zMT"
+      },
+      "artists": [
+        {
+          "name": "BatBat",
+          "url": "https://open.spotify.com/artist/04q4egoK1OOrukoyGCXy0k"
+        },
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163903,
+      "name": "La Faille",
+      "url": "https://open.spotify.com/track/2RBqWYVLRd8RMZNxzkbcPF"
+    },
+    {
+      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -12058,7 +12134,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178348,
       "name": "Le taf du loup",
       "url": "https://open.spotify.com/track/2kp4i1IJXmmPcanUa6ncU6"
@@ -13436,7 +13512,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
@@ -19058,7 +19134,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"

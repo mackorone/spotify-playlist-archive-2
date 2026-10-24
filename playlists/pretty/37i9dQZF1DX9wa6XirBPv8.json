@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1930382,
+  "num_followers": 1930519,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
+      "duration_ms": 192000,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
-      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 475093,
-      "name": "Transatlanticism",
-      "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Never Take Friendship Personal",
         "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 475093,
+      "name": "Transatlanticism",
+      "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
         "name": "Fast Times At Barrington High",
         "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 210333,
       "name": "About a Girl",
       "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Never Hungover Again",
+        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Catalina Fight Song",
+      "url": "https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Never Hungover Again",
-        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Catalina Fight Song",
-      "url": "https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Leaving Through The Window",
         "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 232200,
       "name": "Punk Rock Princess",
       "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Home, Like Noplace Is There",
-        "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
-      },
-      "artists": [
-        {
-          "name": "The Hotelier",
-          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Your Deep Rest",
-      "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Everything In Transit",
         "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 194440,
       "name": "The Mixed Tape - 2015 Remastered",
       "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Home, Like Noplace Is There",
+        "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
+      },
+      "artists": [
+        {
+          "name": "The Hotelier",
+          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Your Deep Rest",
+      "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Tell All Your Friends (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "You're So Last Summer",
-      "url": "https://open.spotify.com/track/22opp9Depbmn43q5gSERwH"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 229706,
       "name": "Lucky Denver Mint",
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Tell All Your Friends (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "You're So Last Summer",
+      "url": "https://open.spotify.com/track/22opp9Depbmn43q5gSERwH"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Highly Refined Pirates",
-        "url": "https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w"
-      },
-      "artists": [
-        {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Absinthe Party At The Fly Honey Warehouse",
-      "url": "https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "New Medicines",
         "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Highly Refined Pirates",
+        "url": "https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w"
+      },
+      "artists": [
+        {
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Absinthe Party At The Fly Honey Warehouse",
+      "url": "https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "The Room's Too Cold",
-        "url": "https://open.spotify.com/album/5Su20B0iK3QnfxJ0lUiSgn"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/4bZgxiO0f3Vk5YdJp0Kwys"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Your History Is Mine: 2002-2009",
         "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 159931,
       "name": "Match & Tinder",
       "url": "https://open.spotify.com/track/1M5F0iablulCzXqiFSyRHI"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "The Room's Too Cold",
+        "url": "https://open.spotify.com/album/5Su20B0iK3QnfxJ0lUiSgn"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4bZgxiO0f3Vk5YdJp0Kwys"
     }
   ],
   "unique_name": "Emo Forever",

@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25934,
+  "num_followers": 25937,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADUZW/1sRJ785TEehOY/Rz+",
+  "snapshot_id": "atgAgAAAAACGMPbFUxerUolk2+n0J82v",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Contagious Love",
+      "url": "https://open.spotify.com/track/1mmTplEfjFvEg1tmxiMxin"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Live For",
         "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 230207,
       "name": "My Jam",
       "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Contagious Love",
-      "url": "https://open.spotify.com/track/1mmTplEfjFvEg1tmxiMxin"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Beat Of My Drum",
+      "url": "https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: Made in Japan",
         "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 214973,
       "name": "The Same Heart",
       "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Beat Of My Drum",
-      "url": "https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU"
     },
     {
       "added_at": null,

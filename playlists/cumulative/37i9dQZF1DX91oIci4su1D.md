@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Giuseppe Ottaviani and Hypaton
 
-1,392 songs - 3 day 10 hr 57 min
+1,393 songs - 3 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [A Thousand Lies](https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [A Thousand Lies](https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3) | 4:44 | 2026-05-15 |  |
 | [A Trillion Suns](https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo) | [Daniel Skyver](https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y) | [A Trillion Suns](https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE) | 3:29 | 2024-02-16 | 2025-03-22 |
 | [About A Love](https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [About A Love](https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp) | 4:05 | 2024-09-27 | 2025-05-03 |
+| [Above The Pain](https://open.spotify.com/track/2QY50CrRlr83AySjsf3y0g) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Above The Pain](https://open.spotify.com/album/3dk4JBSRcGVreC7kZrpCKv) | 5:04 | 2026-10-15 |  |
 | [Activate Vortex](https://open.spotify.com/track/6OF9KyyKDuvZc0I3WwKaTK) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Activate Vortex](https://open.spotify.com/album/2F736W1JfaIff0mwbzfLbU) | 2:55 | 2026-06-18 | 2026-07-10 |
 | [Adagio For Strings](https://open.spotify.com/track/2Ju181y8kKeGQLTwnPNUoN) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [Adagio For Strings](https://open.spotify.com/album/35EeesCZ9SKPP3CGsza6AR) | 3:29 | 2023-02-10 | 2025-08-30 |
 | [Adeya](https://open.spotify.com/track/36fEaJH2IJYy6MkUSmjrJa) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Adeya](https://open.spotify.com/album/4lMPUKhnqpTAWErS5sVVPm) | 2:42 | 2023-06-09 | 2023-12-09 |
@@ -966,7 +967,7 @@
 | [Recover](https://open.spotify.com/track/1xfO2RuAESfLizI7EaN0O8) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Recover](https://open.spotify.com/album/5N7D1sAZ6XipCHLhKD6YWC) | 3:55 | 2021-12-17 | 2022-03-12 |
 | [Rectify](https://open.spotify.com/track/0EjQ11NHcGwEhYHStzB4li) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV) | [Rectify](https://open.spotify.com/album/2u0P3ZhgmtHmTAEJpdMt6Z) | 3:27 | 2021-12-17 | 2022-02-26 |
 | [Red Lights \- Gabriel & Dresden Remix](https://open.spotify.com/track/2hxPK1ADdvG45RFXmnvs6g) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV) | [Red Lights](https://open.spotify.com/album/5POqxIIEc8PqOhgRMuQnAc) | 3:57 | 2021-12-17 | 2022-02-26 |
-| [Redemption](https://open.spotify.com/track/1vurxnnjqLDaUMhCcm4TGO) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Redemption / Lights On](https://open.spotify.com/album/0NqrM4feSbn5iBvL13Iuzs) | 3:03 | 2026-03-20 |  |
+| [Redemption](https://open.spotify.com/track/1vurxnnjqLDaUMhCcm4TGO) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Redemption / Lights On](https://open.spotify.com/album/0NqrM4feSbn5iBvL13Iuzs) | 3:03 | 2026-03-20 | 2026-10-24 |
 | [Reflect](https://open.spotify.com/track/4pcjuvD75lFUMBG5sRyOcS) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [Reflect](https://open.spotify.com/album/6l87QQFgA8QSfRm2zHPAjS) | 3:45 | 2023-04-29 | 2024-02-17 |
 | [Reflected](https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Reflected](https://open.spotify.com/album/3AgYoG9ZcGPVhB3DC4952Y) | 3:20 | 2023-08-18 | 2024-08-14 |
 | [Reflection](https://open.spotify.com/track/0UF2B2YgRTzzJMOU4G5zye) | [Twin View](https://open.spotify.com/artist/522ttEolqLXI712uSO3B23) | [Reflection](https://open.spotify.com/album/1JUCd4rurF7aHrhcrsNBMb) | 4:31 | 2021-12-17 | 2022-02-26 |

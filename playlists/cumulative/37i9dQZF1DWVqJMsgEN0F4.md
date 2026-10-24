@@ -2,9 +2,9 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Remi Wolf along with the hottest alternative songs right now.
+> girl in red along with the hottest alternative songs right now.
 
-1,218 songs - 2 day 21 hr 49 min
+1,222 songs - 2 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [blindspot](https://open.spotify.com/track/1rju0XLSgmtqpjrrCJxsp4) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [blindspot](https://open.spotify.com/album/5LXixqIRcSzjsHRQkGDooc) | 3:27 | 2023-12-29 | 2024-01-13 |
 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 | 2022-06-03 | 2022-10-08 |
 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 | 2024-07-12 | 2024-11-02 |
-| [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 | 2026-10-09 |  |
+| [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 | 2026-10-09 | 2026-10-24 |
+| [blue](https://open.spotify.com/track/73dkWXiQVkSQxOWGawXvXb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 4:10 | 2026-10-23 |  |
 | [Boat Garage](https://open.spotify.com/track/4iMztkHIUoyrc5budQ1fOk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Boat Garage](https://open.spotify.com/album/0SUMGjHajl25ox0yApi0DK) | 2:59 | 2026-05-15 | 2026-08-28 |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-10-04 | 2025-03-15 |
 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 | 2023-05-19 | 2023-11-11 |
@@ -312,6 +313,7 @@
 | [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2026-02-27 | 2026-07-25 |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-08-15 | 2025-10-04 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-04-24 | 2026-08-28 |
+| [Earthquakes](https://open.spotify.com/track/2DrFa280vB8m54TYGzaEts) | [Niis](https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X) | [Earthquakes](https://open.spotify.com/album/3ScqhQjKIyFTlTQc952HHm) | 3:05 | 2026-10-23 |  |
 | [Earthshaker](https://open.spotify.com/track/3dcAXXsNJb2VgX7k1Okz2L) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Earthshaker](https://open.spotify.com/album/6zVMSQa3VzNxUiC6Z5q954) | 2:59 | 2025-10-03 | 2026-02-07 |
 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 | 2026-05-15 | 2026-08-22 |
 | [Easy Street](https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Easy Street](https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n) | 3:51 | 2026-07-24 |  |
@@ -420,7 +422,7 @@
 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 | 2024-09-20 | 2024-11-09 |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-04-29 | 2022-07-30 |
 | [Head Right](https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Head Right](https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA) | 3:17 | 2021-12-17 | 2022-06-04 |
-| [Headlights](https://open.spotify.com/track/7G2u32iWqPhkg2u1z4WCZP) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Headlights](https://open.spotify.com/album/4THWniSbWSlVrQbV37XhGQ) | 2:49 | 2026-02-27 |  |
+| [Headlights](https://open.spotify.com/track/7G2u32iWqPhkg2u1z4WCZP) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Headlights](https://open.spotify.com/album/4THWniSbWSlVrQbV37XhGQ) | 2:49 | 2026-02-27 | 2026-10-24 |
 | [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 | 2026-05-29 | 2026-06-27 |
 | [Heart Stop](https://open.spotify.com/track/1gCwxk2YZcWOdp9y0sw2Um) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Heart Stop](https://open.spotify.com/album/4oLlsasSxG2HvXll947rUf) | 4:19 | 2026-05-01 |  |
 | [HEARTBREAK](https://open.spotify.com/track/1i6c5ZnIUB19sBhhKEmUjq) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [HEARTBREAK](https://open.spotify.com/album/3MLBJ0dE7gNUtDvxPL0T91) | 3:32 | 2025-10-17 | 2026-01-31 |
@@ -438,6 +440,7 @@
 | [Here to Forever](https://open.spotify.com/track/7r0zjBiEGWcadWcKo1pafV) | [Death Cab For Cutie](https://open.spotify.com/artist/0SNafQcT019X4jqEOxz4SQ) | [Don't Let the Light Go Out \- Alt Now](https://open.spotify.com/album/7qeJanFMqIUMbSjae0s2qw) | 3:46 | 2022-11-04 | 2022-11-14 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-02-03 | 2023-05-13 |
 | [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [hey there \[i have a compulsive complex\]](https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA) | 2:53 | 2026-06-26 |  |
+| [High](https://open.spotify.com/track/6eK3Kzfo6RDlc1QcW2yLpd) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [High](https://open.spotify.com/album/6oHPrX9sAb0A915Gq0CS0l) | 2:34 | 2026-10-23 |  |
 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-12 |  |
 | [High In Low Places](https://open.spotify.com/track/1zKnyGMHUfR8zAzBJRpz5w) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:10 | 2024-10-25 | 2025-01-18 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-06-07 | 2024-10-26 |
@@ -877,6 +880,7 @@
 | [Showbiz](https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Showbiz](https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5) | 2:45 | 2024-12-20 | 2025-02-15 |
 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-03-08 | 2024-05-25 |
 | [Shut Off The Lights](https://open.spotify.com/track/6Dcz7Zg0I9Zu88QCQfQmmO) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 3:07 | 2022-02-18 | 2022-06-11 |
+| [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 | 2026-10-23 |  |
 | [Sick Little Star](https://open.spotify.com/track/1uWpK1MUeMEKA77lyZM4tG) | [Noelle Sucks](https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB) | [Sick Little Star](https://open.spotify.com/album/3umP8vNIgKsUniEkFb2At8) | 3:01 | 2025-08-15 | 2025-11-01 |
 | [Sick of Being Young](https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:59 | 2024-04-12 | 2024-07-06 |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-11-11 | 2023-02-25 |
@@ -925,7 +929,7 @@
 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 | 2023-09-22 | 2024-05-18 |
 | [Squid Ink](https://open.spotify.com/track/116WsIQtDILicQyMGqSSaV) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Squid Ink](https://open.spotify.com/album/3IU2wZ4ukwy6GZLDiAbglb) | 3:19 | 2025-02-21 | 2025-05-10 |
 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 | 2026-07-24 | 2026-08-22 |
-| [STAMPEDE](https://open.spotify.com/track/42kLuGRNGRl1bHqfCf6qpA) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:09 | 2026-06-19 |  |
+| [STAMPEDE](https://open.spotify.com/track/42kLuGRNGRl1bHqfCf6qpA) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:09 | 2026-06-19 | 2026-10-24 |
 | [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 | 2026-04-03 | 2026-06-20 |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-04-10 | 2026-05-02 |
 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2024-08-23 | 2025-02-15 |
@@ -1097,7 +1101,7 @@
 | [Triumph](https://open.spotify.com/track/7lSTs6DLjCP2oqib43vyGB) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Triumph](https://open.spotify.com/album/6gnZgEs6IZaBrJWO8I6HSb) | 2:38 | 2024-01-26 | 2024-04-19 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-02-03 | 2023-06-10 |
 | [Troubled Man](https://open.spotify.com/track/0GM071OWnLj7XbblrwSlo0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Troubled Man](https://open.spotify.com/album/0aMbtIWaYgBdtU77zOQN4N) | 2:35 | 2022-09-30 | 2023-01-21 |
-| [Trying Times](https://open.spotify.com/track/7xQwfkendSD4V2MISvEhwR) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 4:33 | 2026-04-24 |  |
+| [Trying Times](https://open.spotify.com/track/7xQwfkendSD4V2MISvEhwR) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 4:33 | 2026-04-24 | 2026-10-24 |
 | [Tunnel Vision](https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM) | 2:43 | 2025-02-14 | 2025-05-03 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-08-27 |
 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 | 2026-07-31 | 2026-10-17 |

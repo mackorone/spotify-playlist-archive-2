@@ -11353,6 +11353,28 @@
     },
     {
       "album": {
+        "name": "telusa (acoustic version)",
+        "url": "https://open.spotify.com/album/1pPS9LuIbMar5cKYXkoUin"
+      },
+      "artists": [
+        {
+          "name": "ananya",
+          "url": "https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc"
+        },
+        {
+          "name": "RKmadeIT",
+          "url": "https://open.spotify.com/artist/4K88AH4eczEQ0kUbkgmqIh"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "telusa - acoustic version",
+      "url": "https://open.spotify.com/track/2zw75iU7NoFwSbeGWUcMm5"
+    },
+    {
+      "album": {
         "name": "Telusa Nuvvevaro",
         "url": "https://open.spotify.com/album/5RBhYJpO14jspepP1yMAfh"
       },

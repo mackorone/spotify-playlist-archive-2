@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
@@ -1200,6 +1200,28 @@
       "duration_ms": 209280,
       "name": "Awake",
       "url": "https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05"
+    },
+    {
+      "album": {
+        "name": "Awake Dreaming",
+        "url": "https://open.spotify.com/album/1Nf8qzPx90WX9NyFK8L2aB"
+      },
+      "artists": [
+        {
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
+        },
+        {
+          "name": "Un:said",
+          "url": "https://open.spotify.com/artist/2aShYExOO6vuxM0cjeJm5Y"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247718,
+      "name": "Awake Dreaming",
+      "url": "https://open.spotify.com/track/5XfPZBftU0oS1ZVk8Y7brC"
     },
     {
       "album": {
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 312017,
       "name": "Behelit",
       "url": "https://open.spotify.com/track/1HWjiwvQ52hfK0Yhl6FlxW"
@@ -2138,6 +2160,24 @@
       "duration_ms": 377200,
       "name": "Breathe - Digitalism Remix",
       "url": "https://open.spotify.com/track/1ngkdVl6BEQ8xiEUu6UKP5"
+    },
+    {
+      "album": {
+        "name": "Bringing Me Joy",
+        "url": "https://open.spotify.com/album/7N0rScyTTYo3eBOQnfF2ud"
+      },
+      "artists": [
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358185,
+      "name": "Bringing Me Joy",
+      "url": "https://open.spotify.com/track/4IAnknt0FXrb8qwh1LEoqJ"
     },
     {
       "album": {
@@ -3520,7 +3560,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 258466,
       "name": "Desolate Lands",
       "url": "https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC"
@@ -4328,7 +4368,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198515,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6Z0TOOQXQWjkXWkIpBHdZR"
@@ -5280,7 +5320,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 312397,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/1yqvcYStf8sAPERxUIK3yC"
@@ -5560,7 +5600,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 168230,
       "name": "High Fly",
       "url": "https://open.spotify.com/track/0HYitTcI6GwzmuO4j07f4f"
@@ -6112,6 +6152,24 @@
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "album": {
+        "name": "I See U EP",
+        "url": "https://open.spotify.com/album/7Cge4AANzy4Gn0ewMPc9H2"
+      },
+      "artists": [
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207757,
+      "name": "I See U",
+      "url": "https://open.spotify.com/track/2MPt7xLRfjNeN3qqNuGnfS"
     },
     {
       "album": {
@@ -6902,7 +6960,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 231290,
       "name": "Le Vol",
       "url": "https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz"
@@ -7164,6 +7222,32 @@
       "duration_ms": 233203,
       "name": "Lift Me Up (feat. Kyozo)",
       "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
+    },
+    {
+      "album": {
+        "name": "Like Dat (Ape Drums Remix)",
+        "url": "https://open.spotify.com/album/3YJqSdB9sI55m2keWWNK41"
+      },
+      "artists": [
+        {
+          "name": "MAAURA",
+          "url": "https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN"
+        },
+        {
+          "name": "Danidane",
+          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255605,
+      "name": "Like Dat - Ape Drums Remix",
+      "url": "https://open.spotify.com/track/6pv5Ajnc2fp12ilnkD5Xrr"
     },
     {
       "album": {
@@ -7536,6 +7620,28 @@
       "duration_ms": 382245,
       "name": "Love Ain't Over - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/3KU7S29UbwE9TwN86cV1yg"
+    },
+    {
+      "album": {
+        "name": "Holdin' on EP",
+        "url": "https://open.spotify.com/album/0BauG227PB8D9uBuYmJRrh"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222806,
+      "name": "Love Every Day",
+      "url": "https://open.spotify.com/track/3KEqpV02GVVH1THDf2g3lT"
     },
     {
       "album": {
@@ -10091,6 +10197,24 @@
     },
     {
       "album": {
+        "name": "I Gotta",
+        "url": "https://open.spotify.com/album/2xHb7Q7VoowRiq3lNWZfO1"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose (NL)",
+          "url": "https://open.spotify.com/artist/77dO0yIWjKSJeC4gOEo3NU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Pom - Original Mix",
+      "url": "https://open.spotify.com/track/6GHZSpAJYNY3uvH7gwYp0j"
+    },
+    {
+      "album": {
         "name": "Pont de la Caille",
         "url": "https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M"
       },
@@ -12356,7 +12480,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 291450,
       "name": "Stay (feat. Njomza & Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/6ukLaivOPRHbA0xeOlme8W"
@@ -12846,6 +12970,28 @@
       "duration_ms": 440638,
       "name": "The Church",
       "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
+    },
+    {
+      "album": {
+        "name": "The City/All I Want",
+        "url": "https://open.spotify.com/album/2NMKjdT6Ky0qMmza1rhKpY"
+      },
+      "artists": [
+        {
+          "name": "KIMONOS",
+          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
+        },
+        {
+          "name": "Amour Propre",
+          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "The City",
+      "url": "https://open.spotify.com/track/6cRPrKsD1dgTEYhC7fc5VG"
     },
     {
       "album": {
@@ -13456,6 +13602,24 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6RCT4geaXTmDmtiwFLJv8j"
+    },
+    {
+      "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/46Ph8znLV77WvhXG8XBCZQ"
+      },
+      "artists": [
+        {
+          "name": "AIKON",
+          "url": "https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372355,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/36kbTSh2gZMe2zaD4its1x"
     },
     {
       "album": {
@@ -14334,7 +14498,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 370153,
       "name": "We Talk About Dreams",
       "url": "https://open.spotify.com/track/44FdC5CjJJwfecc7BYCE5Q"
@@ -14776,6 +14940,28 @@
       "duration_ms": 171162,
       "name": "You Know What I Got - Edit",
       "url": "https://open.spotify.com/track/0wIvuXIoTyPvByoztyGFaW"
+    },
+    {
+      "album": {
+        "name": "You Make Me Fall In Love",
+        "url": "https://open.spotify.com/album/0UCdxFzhhm0cllDqyMOg6F"
+      },
+      "artists": [
+        {
+          "name": "Ajna",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
+        {
+          "name": "abrahamblue",
+          "url": "https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210411,
+      "name": "You Make Me Fall In Love",
+      "url": "https://open.spotify.com/track/1AWJX2rUZ66BYv5m3vN9CG"
     },
     {
       "album": {

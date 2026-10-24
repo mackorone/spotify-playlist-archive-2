@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 
 > This is Fleetwood Mac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,766 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,927 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 40 | [Sunny Side of Heaven](https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Bare Trees](https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi) | 3:10 |
 | 41 | [I'm so Afraid](https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:22 |
 | 42 | [Think About Me \- 2015 Remaster](https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 2:44 |
-| 43 | [Emerald Eyes](https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mystery to Me](https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5) | 3:34 |
-| 44 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
+| 43 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
+| 44 | [Emerald Eyes](https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mystery to Me](https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5) | 3:34 |
 | 45 | [Over & Over \- 2015 Remaster](https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:34 |
 | 46 | [Intro \- Live 1977](https://open.spotify.com/track/7iPabscOgrBuDkjZAvOVRD) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 0:48 |
 | 47 | [Need Your Love So Bad](https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac's Greatest Hits](https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 49 | [Landslide \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 4:28 |
 | 50 | [I Loved Another Woman](https://open.spotify.com/track/1bElCb3PUzvfpxEPCA6fmY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 2:55 |
 
-Snapshot ID: `atavAAAAAAAeD6uMbyHJ/w9NCx89daU4`
+Snapshot ID: `atgAgAAAAADV19okEAbNi4x80l0Yjgpg`

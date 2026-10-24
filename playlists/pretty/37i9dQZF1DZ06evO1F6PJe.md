@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,116 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,125 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 49 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6CU4FZRWHhBo6RPdNU4Jf0) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Shade Of Blues](https://open.spotify.com/album/1XMRPP0uLwWVFOHgOFTSCu) | 4:34 |
 | 50 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 
-Snapshot ID: `atavAAAAAADcWyvR35sslwOmd5DsiLyx`
+Snapshot ID: `atgAgAAAAADzMPD9A+lw//oanGgZkmg/`

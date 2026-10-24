@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,273 songs - 3 day 5 hr 15 min
+1,274 songs - 3 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,7 @@
 | [Magpahinga](https://open.spotify.com/track/4LBCCdHfmHm9NwerX6hvrz) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Magpahinga](https://open.spotify.com/album/2tHtWKI4qJNpDReAigDKzn) | 3:58 | 2021-05-16 | 2021-05-17 |
 | [Mahal Magmahal](https://open.spotify.com/track/0D5huw4lFGtUfCkf91rGvQ) | [Esremborak](https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP) | [Mahal Magmahal](https://open.spotify.com/album/7FMzUetRt2XYjFEq1T5R0r) | 4:54 | 2026-08-16 | 2026-09-30 |
 | [Mahal Magmahal](https://open.spotify.com/track/2bUvJywMOR7c56E9xdioMm) | [Esremborak](https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP) | [Mahal Magmahal](https://open.spotify.com/album/5Bai2MfbjMYpeAbOaqXWQ3) | 4:56 | 2026-09-29 |  |
-| [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2023-12-16 |  |
+| [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2023-12-16 | 2026-10-24 |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-13 | 2023-12-17 |
 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 | 2023-03-18 | 2025-02-14 |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-01 | 2024-03-16 |
@@ -1081,6 +1081,7 @@
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2021-05-23 | 2021-05-26 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-05-21 |
 | [Tell Me Why \(Taylor’s Version\)](https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:20 | 2021-04-11 | 2021-04-16 |
+| [Tenchu](https://open.spotify.com/track/16E9xFP8csyjHwFhKmpGMj) | [Esremborak](https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP) | [Tenchu](https://open.spotify.com/album/3fkVoiyeZHUly0szR3MLRC) | 6:02 | 2026-10-23 |  |
 | [Tensionado](https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Soapdish Reloaded](https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ) | 3:16 | 2025-07-09 | 2026-09-10 |
 | [Tequila Rose](https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Tequila Rose](https://open.spotify.com/album/02tMWeYI98izui099O7QDb) | 3:30 | 2024-04-13 | 2024-07-12 |
 | [Terrified](https://open.spotify.com/track/573EXMFHsEKPRSy08G91Sr) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre), [Jason Reeves](https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS) | [Unbroken](https://open.spotify.com/album/1hrK4uDbw0YkGgL8bshsoH) | 3:56 | 2022-10-13 | 2022-10-20 |

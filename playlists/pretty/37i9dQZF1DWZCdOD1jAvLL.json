@@ -1,44 +1,76 @@
 {
   "description": "Stank face activated. Cover: Michael Sparks",
-  "num_followers": 270396,
+  "num_followers": 270382,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCgWo4lthGWUGJzuCaPsdDDMtzy",
+  "snapshot_id": "AAAAAOLuIIxRjh0binuQW5GWW+Mrwnwi",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:03:07",
+      "added_at": "2026-10-23 04:03:23",
       "album": {
-        "name": "Break The Body EP",
-        "url": "https://open.spotify.com/album/2KuiYPVlPlmizwgLBy2mVP"
+        "name": "Bangers Only",
+        "url": "https://open.spotify.com/album/4PFBs5EF1HUtU4oB6IJTw9"
       },
       "artists": [
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "K Dot",
+          "url": "https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb"
         }
       ],
-      "duration_ms": 172514,
-      "name": "Floor Burn",
-      "url": "https://open.spotify.com/track/2Q5qXnQ2Woguv1HMRPTewj"
+      "duration_ms": 156000,
+      "name": "Bangers Only",
+      "url": "https://open.spotify.com/track/6g7SqCFAF1E3WuYFbLB2QJ"
     },
     {
-      "added_at": "2026-10-16 04:03:07",
+      "added_at": "2026-10-23 04:03:23",
       "album": {
-        "name": "d e v i l",
-        "url": "https://open.spotify.com/album/6qWYP9ADGWwcx42gcobTBI"
+        "name": "Graft",
+        "url": "https://open.spotify.com/album/12ezK0Kz4zdTrRSDpgBcjD"
       },
       "artists": [
         {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+          "name": "Torcha",
+          "url": "https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl"
+        },
+        {
+          "name": "skxllflower",
+          "url": "https://open.spotify.com/artist/5LmixEls7YhrtkWQ61n9fj"
+        },
+        {
+          "name": "Limmz",
+          "url": "https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf"
         }
       ],
-      "duration_ms": 204308,
-      "name": "d e v i l",
-      "url": "https://open.spotify.com/track/2iI6ZrmVzpYgEJdlDht9wB"
+      "duration_ms": 156830,
+      "name": "Graft",
+      "url": "https://open.spotify.com/track/0609dtIPCRPAnCoi36YAot"
+    },
+    {
+      "added_at": "2026-10-23 04:03:23",
+      "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/5TA8wPrlCk5UunsDcIkumA"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 144768,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2Ud0U3EGKc2phvO5XTwusv"
     },
     {
       "added_at": "2026-10-16 04:03:07",
@@ -63,6 +95,94 @@
       "duration_ms": 133636,
       "name": "BROKE A$$ HOME",
       "url": "https://open.spotify.com/track/0UNET0aKD12ED6HHnx04Uv"
+    },
+    {
+      "added_at": "2026-10-23 04:03:23",
+      "album": {
+        "name": "CALL ME BABY (SAY MY NAME)",
+        "url": "https://open.spotify.com/album/1EDSqqCDWZafaumhltNONF"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 176509,
+      "name": "CALL ME BABY (SAY MY NAME)",
+      "url": "https://open.spotify.com/track/7dM16TjujJwlQVQr47gipU"
+    },
+    {
+      "added_at": "2026-10-23 04:03:23",
+      "album": {
+        "name": "CULT CHROME II",
+        "url": "https://open.spotify.com/album/2fMzDNj8s4y3AgemvaKtsp"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "Basstrick",
+          "url": "https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta"
+        }
+      ],
+      "duration_ms": 184551,
+      "name": "CHAINSAW",
+      "url": "https://open.spotify.com/track/1ydsW0MBvHFnYHZkPABatN"
+    },
+    {
+      "added_at": "2026-10-16 04:03:07",
+      "album": {
+        "name": "Break The Body EP",
+        "url": "https://open.spotify.com/album/2KuiYPVlPlmizwgLBy2mVP"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 172514,
+      "name": "Floor Burn",
+      "url": "https://open.spotify.com/track/2Q5qXnQ2Woguv1HMRPTewj"
+    },
+    {
+      "added_at": "2026-10-23 04:03:23",
+      "album": {
+        "name": "Elite",
+        "url": "https://open.spotify.com/album/44vD1DZPU2M6gOAl9946r6"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Elite",
+      "url": "https://open.spotify.com/track/6j6ykXKMWfuem61lHr6pMM"
+    },
+    {
+      "added_at": "2026-10-16 04:03:07",
+      "album": {
+        "name": "d e v i l",
+        "url": "https://open.spotify.com/album/6qWYP9ADGWwcx42gcobTBI"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 204308,
+      "name": "d e v i l",
+      "url": "https://open.spotify.com/track/2iI6ZrmVzpYgEJdlDht9wB"
     },
     {
       "added_at": "2026-10-16 04:03:07",
@@ -239,6 +359,22 @@
       "duration_ms": 138181,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/2OBxGsKYLjnRX3VpdAHlBI"
+    },
+    {
+      "added_at": "2026-10-23 04:03:23",
+      "album": {
+        "name": "Club Crush",
+        "url": "https://open.spotify.com/album/77VRvKA79sLjYuhncOECjr"
+      },
+      "artists": [
+        {
+          "name": "CYRUS",
+          "url": "https://open.spotify.com/artist/5Xs2GcYWkOIUYMF2l19ZNq"
+        }
+      ],
+      "duration_ms": 235454,
+      "name": "Club Crush",
+      "url": "https://open.spotify.com/track/0pc9tPTWawBgwHh1m7uLAh"
     },
     {
       "added_at": "2026-10-16 04:03:07",
@@ -1131,30 +1267,6 @@
     {
       "added_at": "2026-10-16 04:03:07",
       "album": {
-        "name": "Ends",
-        "url": "https://open.spotify.com/album/7BbxVCJijx3GOVbzIw0Z2a"
-      },
-      "artists": [
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "Seb C",
-          "url": "https://open.spotify.com/artist/6onez3fBM2qqeEOG7Ojqdk"
-        },
-        {
-          "name": "Indica",
-          "url": "https://open.spotify.com/artist/7M8Dr8WOuZFfFsFK7A5U1b"
-        }
-      ],
-      "duration_ms": 165165,
-      "name": "Ends",
-      "url": "https://open.spotify.com/track/4VwU1GJlhrlQBbBKFol10t"
-    },
-    {
-      "added_at": "2026-10-16 04:03:07",
-      "album": {
         "name": "All Day (Jackie Hollander Remix)",
         "url": "https://open.spotify.com/album/6c9grXvydLnMkbTBwGQSHx"
       },
@@ -1283,26 +1395,6 @@
     {
       "added_at": "2026-10-16 04:03:07",
       "album": {
-        "name": "What You Say (ft umru)",
-        "url": "https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        },
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        }
-      ],
-      "duration_ms": 219526,
-      "name": "What You Say - ft umru",
-      "url": "https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev"
-    },
-    {
-      "added_at": "2026-10-16 04:03:07",
-      "album": {
         "name": "Pop Off",
         "url": "https://open.spotify.com/album/0q9oRJGUbgTD2H9Bvz9zbk"
       },
@@ -1319,22 +1411,6 @@
       "duration_ms": 196056,
       "name": "Pop Off",
       "url": "https://open.spotify.com/track/4PolqZLqReEqc3yURJtzc4"
-    },
-    {
-      "added_at": "2026-10-16 04:03:07",
-      "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge"
     },
     {
       "added_at": "2026-10-16 04:03:07",
@@ -1695,22 +1771,6 @@
     {
       "added_at": "2026-10-16 04:03:07",
       "album": {
-        "name": "Can I",
-        "url": "https://open.spotify.com/album/35JD05BJsVNF0aRd71Qlwo"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 151254,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0r56mYppTGefJHM9sKMBOX"
-    },
-    {
-      "added_at": "2026-10-16 04:03:07",
-      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -1755,26 +1815,6 @@
     {
       "added_at": "2026-10-16 04:03:07",
       "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Ehiorobo",
-          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
-    },
-    {
-      "added_at": "2026-10-16 04:03:07",
-      "album": {
         "name": "LICK IT",
         "url": "https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA"
       },
@@ -1815,22 +1855,6 @@
       "duration_ms": 218069,
       "name": "Bass Dhol",
       "url": "https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p"
-    },
-    {
-      "added_at": "2026-10-16 04:03:07",
-      "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "added_at": "2026-10-16 04:03:07",

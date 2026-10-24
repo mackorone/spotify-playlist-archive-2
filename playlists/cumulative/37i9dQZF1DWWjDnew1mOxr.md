@@ -2,9 +2,9 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Music that means it\. Cover: Chloe Slater
+> Music that means it\. Cover: Jamie T
 
-506 songs - 1 day 4 hr 38 min
+508 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [I'm a Liar](https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shaking Hips and Crashing Cars](https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5) | 3:39 | 2023-07-11 |  |
 | [I'm Feeling it now](https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Jess Newby](https://open.spotify.com/artist/4nfz2i8X2cCmxBW6IuLh84) | [I'm Feeling It Now](https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px) | 3:03 | 2023-07-11 | 2023-10-16 |
 | [I've Never Felt So Hated](https://open.spotify.com/track/1uoF9slbLRJpK71X0BU39G) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [I've Never Felt So Hated](https://open.spotify.com/album/0ME1Bbej2WzlHNY5jx9acx) | 3:16 | 2026-08-28 |  |
-| [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 | 2026-08-06 |  |
+| [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 | 2026-08-06 | 2026-10-24 |
 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 | 2023-09-19 | 2024-10-21 |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 | 2023-02-03 | 2026-03-28 |
 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 | 2024-04-15 |  |
@@ -256,6 +256,7 @@
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-02-03 | 2023-03-11 |
 | [Jellyfish](https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o) | 3:32 | 2023-02-24 | 2023-04-19 |
 | [JIMSHARK](https://open.spotify.com/track/5shnA8KeSeNlHs3RS1NUBi) | [The Mercians](https://open.spotify.com/artist/0kz8fYoOzRWWWBVjyI98mE) | [JIMSHARK](https://open.spotify.com/album/1eJYAwwzu3vRKBL9HtsRg9) | 2:44 | 2024-07-12 | 2024-10-17 |
+| [Joy In Short Moments](https://open.spotify.com/track/2OC2OMmcivAKGzdQ8HiSHo) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Joy In Short Moments](https://open.spotify.com/album/78zovBsHD0mr5s9qp8KexO) | 3:11 | 2026-10-23 |  |
 | [Judgement Day](https://open.spotify.com/track/1A1QyDeRD4APE5Dzkp6CBr) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Judgement Day](https://open.spotify.com/album/1owOZN7l607ySn2o9zJ1Jb) | 3:29 | 2023-10-20 | 2024-08-29 |
 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 | 2024-01-09 | 2024-10-07 |
 | [Just Begun](https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Just Begun](https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9) | 3:37 | 2026-06-09 | 2026-10-01 |
@@ -280,6 +281,7 @@
 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 | 2023-02-24 | 2024-02-09 |
 | [Life Will Go On](https://open.spotify.com/track/6RROmIv49NQkzE3fuE5yrm) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [When Youth Fades Away](https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u) | 3:36 | 2025-06-06 | 2026-01-06 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2023-01-10 | 2026-06-19 |
+| [Lightweight Champion](https://open.spotify.com/track/2V2gSjlWbCUbyK8ldJEgTM) | [Danny Griffiths](https://open.spotify.com/artist/1D7ogs6m8zs5JAY950koox) | [Lightweight Champion](https://open.spotify.com/album/4DMBw5kau1j7SFgeYFFAz5) | 3:28 | 2026-10-23 |  |
 | [Like No Other](https://open.spotify.com/track/65wlzirUN6886hIFivbF4p) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Like No Other](https://open.spotify.com/album/4aGXRRp2KhnNG4esidkYrl) | 2:20 | 2024-10-06 | 2025-12-03 |
 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-06-23 | 2026-08-21 |
 | [Liquorice](https://open.spotify.com/track/60pygaEEzRQ9mh4VxqW2bf) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Liquorice](https://open.spotify.com/album/0RgikP1YRg3brEygNcfiQf) | 2:53 | 2025-02-07 | 2025-04-19 |
@@ -417,7 +419,7 @@
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-07 | 2026-07-19 |
 | [sucker punch !](https://open.spotify.com/track/0btEFu2NtMqxTdHwpp1svx) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [sucker punch !](https://open.spotify.com/album/2u2RAhN8yXLb5P4Glbskgo) | 2:04 | 2026-07-23 |  |
 | [Sugarcoated](https://open.spotify.com/track/3EdGkRv8PkxVAoqkFcJR9L) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Sugarcoated](https://open.spotify.com/album/4dv356EKWiXo9Z9HZ1BPGa) | 4:11 | 2024-07-12 | 2025-06-07 |
-| [Summer Rain](https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Summer Rain](https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5) | 3:21 | 2026-01-30 |  |
+| [Summer Rain](https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Summer Rain](https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5) | 3:21 | 2026-01-30 | 2026-10-24 |
 | [Superman](https://open.spotify.com/track/5s66mh6xdw2bQAupb6btYQ) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Superman](https://open.spotify.com/album/5WLrNAbEXd0XUHYNJq4Jbv) | 4:53 | 2025-02-07 | 2025-04-02 |
 | [Sweet Surrender \(feat\. Brooke Combe\)](https://open.spotify.com/track/5UiWUZm7xh9KXes34q1DDz) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Sweet Surrender \(feat\. Brooke Combe\)](https://open.spotify.com/album/2RkPZQvlWzaQYCGm7ZVSpz) | 3:34 | 2024-10-17 | 2024-12-20 |
 | [Take A Picture](https://open.spotify.com/track/2z9I0ZBcvYrM0XS4aoBR07) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [If Heaven Looks A Little Like This](https://open.spotify.com/album/7DvehTCKcluhPmB6wTmyyc) | 3:53 | 2025-02-07 | 2025-03-09 |

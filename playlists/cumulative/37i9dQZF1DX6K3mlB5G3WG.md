@@ -4,7 +4,7 @@
 
 > Mida in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,933 songs - 8 day 11 hr 24 min
+3,933 songs - 8 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-22 | 2025-06-20 |
 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-03 | 2026-09-18 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-19 | 2026-04-10 |
-| [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-22 |  |
+| [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-22 |  |
 | [Close My Eyes \(feat\. SACHA\)](https://open.spotify.com/track/4Kv3BQhoqR0YboA8xvTyWC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Close My Eyes \(feat\. SACHA\)](https://open.spotify.com/album/4HzK5mBjKIXKmOHFZDxgoA) | 2:43 | 2026-09-10 | 2026-10-02 |
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-20 | 2025-07-18 |
 | [Closer To The Sound](https://open.spotify.com/track/6raJZ0uUQ2OkwQ59nmKkRJ) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Closer To The Sound](https://open.spotify.com/album/6MYgxvoK0O110Rb0FMlA7q) | 4:23 | 2026-08-06 | 2026-09-04 |
@@ -2459,6 +2459,7 @@
 | [Ogni volta che non so volare](https://open.spotify.com/track/5COJWRcIcK8Wn2u5G18BA5) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [Ogni volta che non so volare](https://open.spotify.com/album/40I1qR34JcDpxsshanuV3K) | 3:00 | 2026-02-25 | 2026-03-20 |
 | [OH MA](https://open.spotify.com/track/1uymk7hJ8fAi75Jxh79h63) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [OH MA](https://open.spotify.com/album/1BjNwysLqaHy252RUVsLjA) | 2:49 | 2025-06-20 | 2025-07-18 |
 | [OH MA](https://open.spotify.com/track/4ioRUWVvdz03s3FjUCsQrH) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE) | 2:49 | 2025-06-20 | 2025-06-21 |
+| [OH MY GOD](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 2:11 | 2026-10-22 |  |
 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 | 2024-11-14 | 2024-12-13 |
 | [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 | 2026-09-10 | 2026-09-25 |
 | [Oh, Maria!](https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Oh, Maria!](https://open.spotify.com/album/0FVo6YC9EPxZLuhGyumnIg) | 3:11 | 2026-04-23 | 2026-05-15 |
@@ -3560,7 +3561,6 @@
 | [TRA LE LUNE E LE DUNE](https://open.spotify.com/track/1SjWttp0uxEZFDjfVpTdN0) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:06 | 2025-11-06 | 2025-11-28 |
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-12 | 2025-03-07 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2025-01-10 |
-| [Track 9](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 0:00 | 2026-10-22 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-15 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-04-03 |
 | [Traitor](https://open.spotify.com/track/6RJUH9V6OBskrZlKhudD7p) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [MegaHits 2025 \- Die Erste](https://open.spotify.com/album/5tuEP1oRBPT1A3hsrsSkdw) | 2:28 | 2025-01-16 | 2025-02-12 |

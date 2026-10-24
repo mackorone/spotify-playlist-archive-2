@@ -4,7 +4,7 @@
 
 > zu dieser sonnigen playlist kann man nur viben
 
-679 songs - 1 day 8 hr 57 min
+679 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Tested, Approved & Trusted](https://open.spotify.com/track/4Lk9PYDhAucTZMyccvt66Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:40 | 2024-04-11 | 2024-05-11 |
 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 | 2026-07-23 | 2026-09-18 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-20 | 2024-07-20 |
+| [The Game](https://open.spotify.com/track/49Y59VzV0JqpGbLrDazOpL) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [The Game](https://open.spotify.com/album/74oE7jwtXnGk7eFE3M1cGz) | 2:46 | 2026-10-22 |  |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-01-31 | 2024-02-29 |
 | [This Moment](https://open.spotify.com/track/3400n3bR2xZ4fKlhcJf4Fl) | [Dino Mileta](https://open.spotify.com/artist/2wxCWN0Nc1mCCC9PoKYAvB) | [This Moment](https://open.spotify.com/album/1NtHHDW45f096e99ujkEJZ) | 3:05 | 2026-05-07 | 2026-05-22 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-07-26 | 2024-08-31 |
@@ -610,7 +611,6 @@
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-30 | 2025-02-08 |
 | [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 | 2026-03-18 | 2026-05-08 |
 | [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2024-12-30 | 2025-02-08 |
-| [Track 1](https://open.spotify.com/track/49Y59VzV0JqpGbLrDazOpL) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [The Game](https://open.spotify.com/album/74oE7jwtXnGk7eFE3M1cGz) | 0:00 | 2026-10-22 |  |
 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 | 2026-03-20 | 2026-08-07 |
 | [Trap Queen](https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF) | 3:42 | 2025-04-02 | 2025-11-19 |
 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 | 2024-03-15 | 2024-10-04 |

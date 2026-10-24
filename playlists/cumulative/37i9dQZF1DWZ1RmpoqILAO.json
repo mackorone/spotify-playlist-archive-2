@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217865,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
+    },
+    {
+      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -2790,6 +2808,24 @@
       "duration_ms": 360454,
       "name": "Grandmother",
       "url": "https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI"
+    },
+    {
+      "album": {
+        "name": "Audition Tape",
+        "url": "https://open.spotify.com/album/01sOQtxvpv31cCyEcRNjQh"
+      },
+      "artists": [
+        {
+          "name": "A Country Western",
+          "url": "https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197452,
+      "name": "Halo Mode",
+      "url": "https://open.spotify.com/track/60IH1n6y6LHfRlB2PQovPE"
     },
     {
       "album": {
@@ -5080,6 +5116,24 @@
       "duration_ms": 232138,
       "name": "Ring Of Fire",
       "url": "https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT"
+    },
+    {
+      "album": {
+        "name": "Lick the Spoon, Let it Soften",
+        "url": "https://open.spotify.com/album/403SneXFVPq7mACnLz8rBQ"
+      },
+      "artists": [
+        {
+          "name": "Lamplight",
+          "url": "https://open.spotify.com/artist/6W7C7NhjSvrh9u1P7bjUx0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106760,
+      "name": "Ring Stains",
+      "url": "https://open.spotify.com/track/6pWpJSWr0SncxUJh282JnO"
     },
     {
       "album": {

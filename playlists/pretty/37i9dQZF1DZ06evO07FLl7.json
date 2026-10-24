@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACBaqcuO17teUl/lIM6mL7L",
+  "snapshot_id": "atgAgAAAAAAdN4yyml+MVwk6FRWxXdvP",
   "tracks": [
     {
       "added_at": null,
@@ -243,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l"
       },
       "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 213088,
-      "name": "Bem Longe do Fim",
-      "url": "https://open.spotify.com/track/28dQMrPIlNMFg5dyRqzO2x"
+      "duration_ms": 169111,
+      "name": "SUBMERSA",
+      "url": "https://open.spotify.com/track/0oevLkW1wWfUzHqPio7BdO"
     },
     {
       "added_at": null,
@@ -279,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l"
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
       },
       "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 169111,
-      "name": "SUBMERSA",
-      "url": "https://open.spotify.com/track/0oevLkW1wWfUzHqPio7BdO"
+      "duration_ms": 213088,
+      "name": "Bem Longe do Fim",
+      "url": "https://open.spotify.com/track/28dQMrPIlNMFg5dyRqzO2x"
     },
     {
       "added_at": null,

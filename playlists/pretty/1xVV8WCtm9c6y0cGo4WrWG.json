@@ -1,12 +1,12 @@
 {
   "description": "The newest and best Hip-Hop updated weekly! Cover: Quavo",
-  "num_followers": 22791,
+  "num_followers": 22790,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAlVQStzRKMKrsAWy2hoUJTR7UVFE+Z",
+  "snapshot_id": "AAAlV25zhWvMR+++1DJbgqjpTcJ2PR67",
   "tracks": [
     {
       "added_at": "2026-10-13 15:09:15",
@@ -139,6 +139,26 @@
       "duration_ms": 145754,
       "name": "Something I Need",
       "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
+    },
+    {
+      "added_at": "2026-10-23 22:29:24",
+      "album": {
+        "name": "Tripping His Cousin",
+        "url": "https://open.spotify.com/album/09jMrlK9HDrqPMEmLJbZz9"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Tripping His Cousin",
+      "url": "https://open.spotify.com/track/4SkvEkzhKUcQDDKQMNR1qv"
     },
     {
       "added_at": "2026-10-13 15:09:15",

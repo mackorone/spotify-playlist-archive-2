@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17HBNzEXtLM.md) - [plain]
 
 > A collection of music that inspired DIGGER, curated by Alejandro G\. Iñárritu\. Featuring songs from the film plus the original score.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,170 likes - 54 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,207 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17HBNzEXtLM.md) - [plain]
 | 26 | [Bantu Spear Dance](https://open.spotify.com/track/0YJvTNcBrPLw49VOJAdAqq) | [Tak Shindo](https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR) | [Oriental Jazz Impressions](https://open.spotify.com/album/16EX7x5JFFB9tDGha8siTT) | 1:47 |
 | 27 | [Moon Over Montana](https://open.spotify.com/track/4DmJQOy4E9QEKnfbh4HdYm) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [From Cowboy to Country](https://open.spotify.com/album/7l8QNFJTjrMGXTVTHvMmdD) | 2:57 |
 | 28 | [Daphnis Et Chloë, Suite No\. 2 \(Ravel\)](https://open.spotify.com/track/6wEnkOzYhTiizwp6iuF2hs) | [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Ravel: Bolero / Daphnis Et Chloë](https://open.spotify.com/album/4eGxY7valsJbD7bX0yUwPM) | 17:35 |
-| 29 | [Requiem, Op\. 48: II\. Kyrie](https://open.spotify.com/track/5BpV6801mM8JRlhvBQ7XT7) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Laurence Equilbey](https://open.spotify.com/artist/3UzPUByZ2mlcfGjh24HtUS), [Accentus](https://open.spotify.com/artist/38eCqknV7qzJIS2khX98Fw), [Orchestre National De France](https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M) | [Fauré: Requiem](https://open.spotify.com/album/7ggaK7iUUWBtIWAXNR2xfQ) | 5:00 |
+| 29 | [Requiem, Op\. 48: II\. Kyrie](https://open.spotify.com/track/5BpV6801mM8JRlhvBQ7XT7) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Laurence Equilbey](https://open.spotify.com/artist/3UzPUByZ2mlcfGjh24HtUS), [Accentus](https://open.spotify.com/artist/38eCqknV7qzJIS2khX98Fw), [Orchestre national de France](https://open.spotify.com/artist/5UFYrc7bnGpaojNag3Bv8M) | [Fauré: Requiem](https://open.spotify.com/album/7ggaK7iUUWBtIWAXNR2xfQ) | 5:00 |
 | 30 | [Morgen!, Op\. 27 No\. 4 \(Version with Orchestra\)](https://open.spotify.com/track/3IHb10iwx9xPRFrJ7FCnZe) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Jessye Norman](https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw), [Gewandhausorchester](https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa), [Kurt Masur](https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn) | [Richard Strauss: Four Last Songs; 6 Orchestral Songs](https://open.spotify.com/album/5TiXEfaoLSihh6JGP9VhiR) | 3:59 |
 | 31 | [Avian Elegy](https://open.spotify.com/track/2t0DOo6Tinx6rFWfUB0xUK) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Digger \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IuB2UZ4le2dBMroYF5L3U) | 3:08 |
 | 32 | [Dr\. Berg](https://open.spotify.com/track/0QLAYT2L4GEQD2AmjXGohm) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Digger \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IuB2UZ4le2dBMroYF5L3U) | 0:35 |

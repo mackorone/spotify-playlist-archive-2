@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Fabio Asher",
-  "num_followers": 168152,
+  "num_followers": 168158,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPIB1vMTCM4uTU22GJuD7OUk+0h",
+  "snapshot_id": "AAAAAGkLqPXLVluyFJG0eBudmPhAEOVS",
   "tracks": [
     {
       "added_at": "2026-10-22 17:25:47",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa"
     },
     {
+      "added_at": "2026-10-23 10:37:24",
+      "album": {
+        "name": "Hanyaku",
+        "url": "https://open.spotify.com/album/04e6IOermRoHpUvoi4IXKf"
+      },
+      "artists": [
+        {
+          "name": "Abdul & The Coffee Theory",
+          "url": "https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J"
+        }
+      ],
+      "duration_ms": 199043,
+      "name": "Hanyaku",
+      "url": "https://open.spotify.com/track/1FNkTjd0sYlujxy8N5GPtu"
+    },
+    {
       "added_at": "2026-10-09 01:13:20",
       "album": {
         "name": "Percuma",
@@ -343,6 +359,26 @@
       "duration_ms": 250767,
       "name": "Merayu Waktu",
       "url": "https://open.spotify.com/track/1DQcsrlh65gL1KdyLat6FB"
+    },
+    {
+      "added_at": "2026-10-23 10:37:24",
+      "album": {
+        "name": "Kukasih",
+        "url": "https://open.spotify.com/album/5MIFPgzwUKrHntkZnUZIai"
+      },
+      "artists": [
+        {
+          "name": "Ramy J",
+          "url": "https://open.spotify.com/artist/5CcoovxPxfXL6DfzUnWOvj"
+        },
+        {
+          "name": "Zara Leola",
+          "url": "https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Kukasih",
+      "url": "https://open.spotify.com/track/1b3p0hjLSDLUfWWgJAQZRP"
     },
     {
       "added_at": "2026-10-22 17:25:47",
@@ -857,22 +893,6 @@
       "url": "https://open.spotify.com/track/3GxVrNjPSjSW1vIm6plmyK"
     },
     {
-      "added_at": "2026-10-15 23:20:42",
-      "album": {
-        "name": "manja aja! ( gpp )",
-        "url": "https://open.spotify.com/album/41DIqN6g3jCS4dBavcbgNc"
-      },
-      "artists": [
-        {
-          "name": "DEABDIL",
-          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "manja aja! ( gpp )",
-      "url": "https://open.spotify.com/track/4nk3eIoIUOjEfMC0hmebqZ"
-    },
-    {
       "added_at": "2026-10-09 01:13:20",
       "album": {
         "name": "Cinta Diri Sendiri",
@@ -1007,22 +1027,6 @@
       "duration_ms": 160583,
       "name": "Dosa Terindah",
       "url": "https://open.spotify.com/track/5XZB4qDvqQkT0U5b7BaIMD"
-    },
-    {
-      "added_at": "2026-10-15 23:20:42",
-      "album": {
-        "name": "Tanpa Tepuk Tangan",
-        "url": "https://open.spotify.com/album/5Hyq3NXxzqbx54jBSH2lNl"
-      },
-      "artists": [
-        {
-          "name": "SANDHYA",
-          "url": "https://open.spotify.com/artist/0VsRsCo38OFeoEY9vlas0J"
-        }
-      ],
-      "duration_ms": 243829,
-      "name": "Tanpa Tepuk Tangan",
-      "url": "https://open.spotify.com/track/2jTSgloY3pNEZnrZ6duTAy"
     },
     {
       "added_at": "2026-10-09 01:13:20",

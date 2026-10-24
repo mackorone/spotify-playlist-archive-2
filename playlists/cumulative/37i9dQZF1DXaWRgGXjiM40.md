@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-144 songs - 7 hr 24 min
+145 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 | 2023-04-07 | 2024-12-30 |
 | [Se Eu Fosse Você \- Ao Vivo](https://open.spotify.com/track/245bLKhB09weh0K0XE0AHm) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:30 | 2023-02-10 | 2023-04-25 |
 | [Seja Louco](https://open.spotify.com/track/2xtzAzvXznNX03U9wk3s5S) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Seja Louco](https://open.spotify.com/album/5Gr3jsmL0Jb291VTdFiqsE) | 2:39 | 2023-12-22 | 2024-02-15 |
+| [Sensível Demais \- Ao Vivo](https://open.spotify.com/track/6agrXatmdga1PcztVqUJVq) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais \- Lado B \(Ao Vivo\)](https://open.spotify.com/album/7MZMUWbSinDtVuQO10QWhv) | 3:14 | 2026-10-23 |  |
 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 | 2023-04-07 |  |
 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 | 2023-02-10 | 2024-04-19 |
 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 | 2023-02-10 |  |
@@ -145,7 +146,7 @@
 | [Veneno E Gelo](https://open.spotify.com/track/1sdXiQ6JUOR7bSFlw8Jexe) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V) | [Thauane\-Acústico](https://open.spotify.com/album/5d4XW9zt2kNOwMxJ4xFLHU) | 2:25 | 2026-10-09 | 2026-10-23 |
 | [Vestido Curto \- Ao Vivo](https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vestido Curto \(Ao Vivo\)](https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC) | 2:31 | 2023-12-22 | 2025-05-30 |
 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 | 2024-01-05 |  |
-| [Vira Homem](https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vira Homem](https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z) | 3:16 | 2026-05-08 |  |
+| [Vira Homem](https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vira Homem](https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z) | 3:16 | 2026-05-08 | 2026-10-24 |
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 | 2023-04-07 | 2024-04-19 |
 | [Você Me Persegue](https://open.spotify.com/track/75fHRGn9iCZoNQom8lNIaJ) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Você Me Persegue](https://open.spotify.com/album/2g1tPFNz7sTfJdb6irY1aE) | 2:52 | 2025-08-23 | 2025-11-16 |
 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 | 2023-02-10 |  |

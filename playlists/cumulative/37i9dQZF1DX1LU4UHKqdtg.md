@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: LISA
 
-1,851 songs - 4 day 1 hr 10 min
+1,852 songs - 4 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Deja Vu \- Japanese Ver.](https://open.spotify.com/track/2Mv8lQxFrpmDxulzBU0PTu) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BEYOND : ZERO](https://open.spotify.com/album/4k7ECCNLLIukf1rwPaOxoY) | 3:17 | 2022-05-24 | 2022-07-19 |
 | [Delicious](https://open.spotify.com/track/53gU09JrGtZfXTPBFpukKr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/315iKfEODZns5S32HhcapU) | 3:17 | 2023-05-30 | 2023-07-26 |
 | [Delulu](https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:24 | 2026-03-31 | 2026-08-11 |
+| [DESERVE](https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/5N8EIJo0rBiTiDgGH49Cri) | 3:09 | 2026-10-22 |  |
 | [DESERVED](https://open.spotify.com/track/33iEkYyCgQBJNTRN2fkY4S) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [fallIn'](https://open.spotify.com/album/0UBt9qU96ZwijUeQHCrPN5) | 2:52 | 2024-10-17 | 2025-01-09 |
 | [Detox](https://open.spotify.com/track/6EZDQ49H1L6CAO29XQxpcE) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 4th Digital Single 'Detox'](https://open.spotify.com/album/4ITQshoBeH1uSN1DS6eqnV) | 2:56 | 2024-12-19 | 2025-03-07 |
 | [Devil](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Devil \- The 2nd Mini Album](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) | 3:33 | 2022-01-13 | 2022-02-15 |

@@ -4,7 +4,7 @@
 
 > ¿qué se siente ser feliz? :\(
 
-409 songs - 23 hr 13 min
+411 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 | 2022-09-07 | 2022-11-17 |
 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 | 2023-12-08 | 2024-04-27 |
 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 | 2025-07-18 |  |
+| [Almanautas](https://open.spotify.com/track/3FF7bOJ6b6zqMV4yYjm30G) | [Esperón](https://open.spotify.com/artist/4VD0eThiy8dR6NTT0ZulGI) | [Almanautas](https://open.spotify.com/album/2ioOYaqACPikyUrNZuq3Ce) | 4:26 | 2026-10-23 |  |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-12-05 | 2024-02-24 |
 | [Alégale Al Umpire](https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:28 | 2025-05-09 | 2025-07-19 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-12-06 | 2024-11-06 |
@@ -86,6 +87,7 @@
 | [contenta,](https://open.spotify.com/track/1YlXMOHqJVWzFaaQLeekPt) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 3:46 | 2022-09-07 |  |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-04-26 | 2024-08-03 |
 | [CORAZÓN PARTÍO](https://open.spotify.com/track/2qo9LSOvqq5yFxETD8XMaj) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [CORAZÓN PARTÍO](https://open.spotify.com/album/23pfvOHux3tUC85tiP4Phm) | 3:06 | 2025-07-18 |  |
+| [Corazón Vacío](https://open.spotify.com/track/5Mqdw5Vr0pxbK4zS2zb1is) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Corazón Vacío](https://open.spotify.com/album/5Rhbn86H35AnVyxdsoyYP0) | 3:28 | 2026-10-23 |  |
 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-02-23 | 2024-04-27 |
 | [Cuando Alguien Me Amaba](https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cuando Alguien Me Amaba](https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj) | 2:24 | 2023-09-22 | 2023-12-23 |
 | [Cuando Me Vaya](https://open.spotify.com/track/5prXXrmdkZ058EfDu7vWYm) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Cuando Me Vaya](https://open.spotify.com/album/1PbqKAwMUiyQ4rJjTo4Kb2) | 4:05 | 2022-10-03 | 2022-11-12 |

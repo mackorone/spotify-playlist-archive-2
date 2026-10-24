@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-339 songs - 15 hr 20 min
+342 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Placid Skies](https://open.spotify.com/track/6rqGbIXc1GcgOYrWw8MLY7) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Placid Skies](https://open.spotify.com/album/0NVfdJJRVoz71KstCax2d0) | 2:42 | 2020-10-20\* | 2023-09-09 |
 | [Prague](https://open.spotify.com/track/0nZBVfNvj54NQ0pxMw8My1) | [Marta Stivender](https://open.spotify.com/artist/5n2PYwVLxFzpVXptXhwEOU) | [Prague](https://open.spotify.com/album/0JGYMvCHdcEFySffamjjo7) | 1:47 | 2020-10-20\* | 2023-09-09 |
 | [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 | 2025-08-05 |  |
+| [Primula](https://open.spotify.com/track/0IT5gQ7PCAx4d8HseQ9OV5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Primula](https://open.spotify.com/album/2AKvHipRuUCklM3N6umjlS) | 2:07 | 2026-10-23 |  |
 | [Raining Stars](https://open.spotify.com/track/3KGGxiUIIsoiGLmSKCu0RS) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Raining Stars](https://open.spotify.com/album/365qk1heQP6e6IGmaZycSe) | 2:39 | 2024-07-29 |  |
 | [Reality](https://open.spotify.com/track/6610gii04R3zRuWpa38XzY) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:06 | 2020-10-20\* | 2023-09-09 |
 | [Reflections at Dusk](https://open.spotify.com/track/3kkPEjUVQM8yYZXWmDMW39) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Reflections at Dusk](https://open.spotify.com/album/3O2stAbVyokk8LP4oT8R4u) | 2:32 | 2025-11-05 |  |
@@ -292,6 +293,7 @@
 | [Thanksgiving](https://open.spotify.com/track/0Ra8bl33VpUwp0sodP5pL7) | [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [December](https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK) | 4:08 | 2024-08-14 | 2026-09-19 |
 | [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 | 2023-11-13 |  |
 | [The Day After Tomorrow](https://open.spotify.com/track/6utMGchGek24Jzaihq2GSP) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 2:47 | 2020-10-20\* | 2023-09-09 |
+| [The Days we Misplaced](https://open.spotify.com/track/01tAqDmHxQxfjtvHBAlMff) | [Arlan Cove](https://open.spotify.com/artist/1BbAF6cYrG29bYYuT0sokJ) | [The Days we Misplaced](https://open.spotify.com/album/1y0x9O9MN7V66SMJBXKguQ) | 2:26 | 2026-10-23 |  |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-09-26 | 2026-04-18 |
 | [The Essence](https://open.spotify.com/track/50Iw4pM6pLfisbWog0ysGF) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Pause To Think](https://open.spotify.com/album/00gHKH9fv0mUYsKqWBfK4x) | 3:19 | 2020-10-20\* | 2021-12-11 |
 | [The Flow](https://open.spotify.com/track/5utTNDqFPpLSC19SqHNIXx) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sleepwalking](https://open.spotify.com/album/7i4b354sCe4KyTPaelIKdn) | 2:45 | 2020-10-20\* | 2022-07-08 |
@@ -346,6 +348,7 @@
 | [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 | 2024-03-20 |  |
 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 | 2023-09-08 | 2026-05-23 |
 | [Your Life Is A Gift](https://open.spotify.com/track/1uqi6DUdiGg0cYseMqEpYL) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [Piano & Strings Lullabies](https://open.spotify.com/album/3jLuR1qxmo4vODeJJOVWH4) | 2:01 | 2020-10-20\* | 2023-09-09 |
+| [YUKON](https://open.spotify.com/track/6q18wjPHv9gtU1EUWPR9TU) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [YUKON](https://open.spotify.com/album/1NUbkqQ7SeFxQOr8uc7srg) | 2:30 | 2026-10-23 |  |
 | [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-17 |  |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

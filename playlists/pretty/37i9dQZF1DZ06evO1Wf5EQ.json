@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABeWXp4qs4CEykJ8knYoDEw",
+  "snapshot_id": "atgAgAAAAADzK7mVJSQkL3eOEPjMDWKr",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 130728,
-      "name": "Best Alone",
-      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 60983,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
+      "duration_ms": 130728,
+      "name": "Best Alone",
+      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

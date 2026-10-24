@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,774 songs - 6 day 17 hr 37 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,777 songs - 6 day 17 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1705,7 +1705,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1695 | [Tócame](https://open.spotify.com/track/2wqJij98B0rouH14batoif) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Tócame](https://open.spotify.com/album/4dWm6sgedDn3maMz8HjZ0P) | 2:32 |
 | 1696 | [Fate](https://open.spotify.com/track/6dbK2kIWkKi2KJIH7d8nsm) | [Gr!t](https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2) | [Fate](https://open.spotify.com/album/4RZfPgZAzjpXh722bIQhyw) | 3:06 |
 | 1697 | [Christmas Lights \(Dance Tonight\)](https://open.spotify.com/track/2tGj48yEbynyn0L1wa1I78) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Christmas Lights \(Dance Tonight\)](https://open.spotify.com/album/4l2lAICEgG8GGUSVzJkBst) | 3:31 |
-| 1698 | [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [la C LDV](https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 |
+| 1698 | [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 |
 | 1699 | [Inside Out](https://open.spotify.com/track/3psRfBXa4Ei4niCOrxbQmJ) | [J Kyu](https://open.spotify.com/artist/4vz1hMAJRwIjBBl6esGocL) | [Inside Out](https://open.spotify.com/album/7HsKkIuJ73eYSzAqVWkDC1) | 4:44 |
 | 1700 | [SANPO](https://open.spotify.com/track/0iF1OTM8gKRmN2IiFzWV8F) | [RAS TAMANO](https://open.spotify.com/artist/4yOfZvC32oEIseTaawz38b), [DAHBORS](https://open.spotify.com/artist/20aCe88nAWk6yealnABwKr) | [SANPO](https://open.spotify.com/album/2VSLs9f2MV45VPmlipsCJK) | 5:23 |
 | 1701 | [Шёлковые волосы](https://open.spotify.com/track/2WXaVPdq505D3bGJ3sTmxY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:49 |
@@ -2782,5 +2782,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2772 | [Stand It Dub](https://open.spotify.com/track/0QCNNZhVnsImhL4TLOJOFD) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:17 |
 | 2773 | [Where There's Dub](https://open.spotify.com/track/0ewPnGnnlrmhDj8EZm30Bt) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:04 |
 | 2774 | [Wasted Dub](https://open.spotify.com/track/5fQo5vL8mz1cwLxUQal59u) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:42 |
+| 2775 | [Wake up sunshine](https://open.spotify.com/track/0FfEQq0Z4iJDQV2Y2TPlQL) | [Lonely Days For](https://open.spotify.com/artist/4yTcl4GvLCu068IP0chIQw) | [Wake up sunshine](https://open.spotify.com/album/5sqpzDn7ZsqBVXfMoOd2z6) | 1:34 |
+| 2776 | [Ritmo Latino](https://open.spotify.com/track/1VYI8yJs9WJsWoQmxIP1OV) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Ritmo Latino](https://open.spotify.com/album/3StjamvQhsKPUSJYODixCp) | 3:33 |
+| 2777 | [Vida Cigana](https://open.spotify.com/track/7tJRonX2GXkrBTnyKXYRsh) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Vida Cigana](https://open.spotify.com/album/1D6ElPRfePxhxtyEnM3xB4) | 2:57 |
 
-Snapshot ID: `AAAL2nQtB6TATpku1KMDQnGup7Mj88ML`
+Snapshot ID: `AAAL3f7eXwxrqkEHSU2eg4LL/yeYmk/M`

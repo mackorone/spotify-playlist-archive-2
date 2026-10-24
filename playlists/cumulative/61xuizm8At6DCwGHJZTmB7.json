@@ -16725,6 +16725,32 @@
     },
     {
       "album": {
+        "name": "Who Is Like The Lord?",
+        "url": "https://open.spotify.com/album/5e1lml3wRVG9i25BWql9Op"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Sing!",
+          "url": "https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240740,
+      "name": "Who Is Like The Lord?",
+      "url": "https://open.spotify.com/track/3oozSx2ncBSkrXKsOpXwyk"
+    },
+    {
+      "album": {
         "name": "Who Is Like You",
         "url": "https://open.spotify.com/album/42HN6Vo3MNDXUvFbIzvy5d"
       },

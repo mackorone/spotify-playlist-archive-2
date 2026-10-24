@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: NECTA)",
+  "description": "New & best K-Electronic music is here. (Cover: Didi Han)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -1216,6 +1216,24 @@
       "duration_ms": 195177,
       "name": "Billyeoon Goyangi (Do the Dance) - Snail's House Remix",
       "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
+    },
+    {
+      "album": {
+        "name": "Bobblehead",
+        "url": "https://open.spotify.com/album/1LRZh4lHqOMMy08pf30KKK"
+      },
+      "artists": [
+        {
+          "name": "Didi Han",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Bobblehead",
+      "url": "https://open.spotify.com/track/05kLvFXcTKqNgQY9wtwqPQ"
     },
     {
       "album": {
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 128079,
       "name": "HIGH LIFE",
       "url": "https://open.spotify.com/track/0mfS31QxisGH3C4y3oc6Hy"
@@ -4184,6 +4202,24 @@
       "duration_ms": 136817,
       "name": "MOVEURBODY",
       "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
+    },
+    {
+      "album": {
+        "name": "Murda Dancing",
+        "url": "https://open.spotify.com/album/1tYtUUAkv1e4PCpMSsVRUl"
+      },
+      "artists": [
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286532,
+      "name": "Murda Dancing",
+      "url": "https://open.spotify.com/track/38Zm37YpCdZyZ9D3qBrQYl"
     },
     {
       "album": {
@@ -6112,7 +6148,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 413017,
       "name": "Tage",
       "url": "https://open.spotify.com/track/0l7CjPSu1pXGmuudm69DSp"

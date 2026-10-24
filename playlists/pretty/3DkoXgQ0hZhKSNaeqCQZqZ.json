@@ -1,13 +1,193 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1242,
+  "num_followers": 1243,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAF2XS4DiofbE5W7HoTnBalk6/0qvjN",
+  "snapshot_id": "AAAF2nWcseV2csRQ7FgU8LCXlrGbajaZ",
   "tracks": [
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 158723,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/7A12uimJ2555Z7ikx1GNVK"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "AIRPLANE DRAGONS",
+      "url": "https://open.spotify.com/track/6bQTECBn2ug7iyiyZFKDct"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "CHANCE",
+      "url": "https://open.spotify.com/track/69abQLFBWYxWAJoqjWqAUG"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "DOG SHOW",
+      "url": "https://open.spotify.com/track/1UXoz4ZN0RxWmsNnh3Wd46"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "HEADLESS LOUNGE",
+      "url": "https://open.spotify.com/track/0WMqApAYjM0rLxnV76YRbd"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "GOLDEN RETRIEVER",
+      "url": "https://open.spotify.com/track/1O8DBB0bV1su8yTsAI7aPk"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "UNLEASHED",
+      "url": "https://open.spotify.com/track/0Hoy5t0UA8GsnoMwhpu6sM"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        },
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "duration_ms": 136131,
+      "name": "WHAT DO I SAY?",
+      "url": "https://open.spotify.com/track/4g57617wONJloNGPR6EjV4"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "NEW PLACE",
+      "url": "https://open.spotify.com/track/4KonnZooJXQxBS13gjmFNg"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "FISHBOWL",
+      "url": "https://open.spotify.com/track/5r4lONfKgePstoweC9TBXI"
+    },
+    {
+      "added_at": "2026-10-23 22:45:40",
+      "album": {
+        "name": "PUPPYLUV!!!",
+        "url": "https://open.spotify.com/album/3DIJwrwD4Q05nEV6mWoxQT"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "DANCEWITHME!",
+      "url": "https://open.spotify.com/track/5xbQPTxEaEhqYMgCmf3aSl"
+    },
     {
       "added_at": "2026-10-11 04:36:26",
       "album": {

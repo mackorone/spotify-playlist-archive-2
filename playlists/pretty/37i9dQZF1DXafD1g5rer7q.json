@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 460117,
+  "num_followers": 460132,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 227137,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 227137,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -791,6 +791,46 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
+        "name": "Split (Only U)",
+        "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Split (Only U)",
+      "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Let Me Hold You (Turn Me On)",
+        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dante Klein",
+          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+        }
+      ],
+      "duration_ms": 162425,
+      "name": "Let Me Hold You (Turn Me On)",
+      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
         "name": "Let\u2019s Go (feat. Tom Enzy, Juany Bravo & Sami Brielle) [HUGEL Remix]",
         "url": "https://open.spotify.com/album/6qCYuLsIIPfjROPwX9QxGc"
       },
@@ -823,46 +863,6 @@
       "duration_ms": 148292,
       "name": "Let\u2019s Go (feat. Tom Enzy, Juany Bravo & Sami Brielle) [HUGEL Remix]",
       "url": "https://open.spotify.com/track/5jde2vTSXmrIAKaZYmhqSF"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
-        "name": "Let Me Hold You (Turn Me On)",
-        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Dante Klein",
-          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
-        }
-      ],
-      "duration_ms": 162425,
-      "name": "Let Me Hold You (Turn Me On)",
-      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
-        "name": "Split (Only U)",
-        "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Split (Only U)",
-      "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Soulmatic",
-        "url": "https://open.spotify.com/album/2xmmPaeB99mkJUTWDm30xi"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 256598,
-      "name": "Body Funk",
-      "url": "https://open.spotify.com/track/3XTWrhdYlqXlWgbnS7FfRi"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Hear Me Tonight",
         "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 188500,
       "name": "Hear Me Tonight",
       "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Soulmatic",
+        "url": "https://open.spotify.com/album/2xmmPaeB99mkJUTWDm30xi"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 256598,
+      "name": "Body Funk",
+      "url": "https://open.spotify.com/track/3XTWrhdYlqXlWgbnS7FfRi"
     },
     {
       "added_at": "2025-07-31 16:00:18",

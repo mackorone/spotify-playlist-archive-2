@@ -9821,6 +9821,24 @@
     },
     {
       "album": {
+        "name": "Bare Minimum",
+        "url": "https://open.spotify.com/album/5e1Djk4fiNE7QWbwDtgePt"
+      },
+      "artists": [
+        {
+          "name": "Ruby Alliyah",
+          "url": "https://open.spotify.com/artist/3Wz9FeWwUp3Kfzss7dWiib"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151319,
+      "name": "Trackstar Romantic",
+      "url": "https://open.spotify.com/track/2LwjjkCzFa0j3Er4ohvmRy"
+    },
+    {
+      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },

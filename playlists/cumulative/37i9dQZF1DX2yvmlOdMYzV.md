@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,059 songs - 2 day 9 hr 47 min
+1,060 songs - 2 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 | 2021-12-15 | 2023-03-25 |
 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 | 2025-03-21 |  |
 | [Love Frequency \- Stripped](https://open.spotify.com/track/0M1SoHpp1zyZdnVjUEjw3V) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Love Frequency \(Stripped\)](https://open.spotify.com/album/77rhrA74OSgHndy27dGO50) | 3:12 | 2023-06-02 | 2023-06-10 |
-| [Love is Gold](https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Love is Gold](https://open.spotify.com/album/23FtRtJtNUL9EVSiIyPGIr) | 4:10 | 2025-02-14 |  |
+| [Love is Gold](https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Love is Gold](https://open.spotify.com/album/23FtRtJtNUL9EVSiIyPGIr) | 4:10 | 2025-02-14 | 2026-10-24 |
 | [Love Like This](https://open.spotify.com/track/17dfAG2gJ7uUInYV2scPqx) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Love Like This](https://open.spotify.com/album/30CXSVzwIiMDBdVNewXMWo) | 3:22 | 2025-03-14 | 2025-03-30 |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 | 2023-12-08 |
 | [love me right](https://open.spotify.com/track/6lkmMyXRTDJv7Gbn0LNGUJ) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [love me right](https://open.spotify.com/album/0wt3flcNvffezUNipKm0Z6) | 2:37 | 2024-10-26 |  |
@@ -1001,6 +1001,7 @@
 | [Waiting Room](https://open.spotify.com/track/1ZZ9Z2bKmoGNsFUjvM7RDJ) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 2:49 | 2023-08-25 | 2023-10-07 |
 | [waiting!](https://open.spotify.com/track/36ccoNmi9e2noC3xnmKr0Y) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [waiting!](https://open.spotify.com/album/2HnRFazeo5FdaGm93IyONF) | 2:30 | 2024-03-29 |  |
 | [Walls](https://open.spotify.com/track/0Oqf4yHrrA1Dm4VkVDwGOJ) | [JAWAN.mp3](https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Walls](https://open.spotify.com/album/38GgJWvP3JvG3Pmx3kXZZT) | 3:07 | 2025-07-13 | 2025-10-12 |
+| [Wandering Barman](https://open.spotify.com/track/1CSGHdEYzc3Opn2dSkA9wG) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [Wandering Barman](https://open.spotify.com/album/2G8qHiUVaiWekHS5xqc0SP) | 3:26 | 2025-01-24 |  |
 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 | 2021-12-15 | 2022-09-17 |
 | [Want, U](https://open.spotify.com/track/2YWpQTMR8d9Ehlm6QTLDDy) | [Jeremy Pope](https://open.spotify.com/artist/524EFpZzvA7B9cdU27Fmm9) | [LAST NAME: POPE](https://open.spotify.com/album/6J51eeYBvF9cVtPsb7NppV) | 1:35 | 2024-06-21 | 2024-07-09 |
 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 | 2025-09-07 |  |

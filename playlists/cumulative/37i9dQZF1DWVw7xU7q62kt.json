@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Anoitecer",
+        "url": "https://open.spotify.com/album/1wDQVjU1Oa1BVoyXYnndTK"
+      },
+      "artists": [
+        {
+          "name": "Gabiga",
+          "url": "https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Anoitecer",
+      "url": "https://open.spotify.com/track/6oqOpyA88rqAsU9xrnj7Iz"
+    },
+    {
+      "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/4MSsiCaHWQL9tdwLszScGA"
       },
@@ -4359,6 +4377,32 @@
     },
     {
       "album": {
+        "name": "Equilibrium",
+        "url": "https://open.spotify.com/album/7e752zJMiSw3dGMohuAs7x"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139518,
+      "name": "Equilibrium",
+      "url": "https://open.spotify.com/track/50jOJPkKBNySe5CxmTyAGI"
+    },
+    {
+      "album": {
         "name": "At Home (An NPR Tiny Desk Concert)",
         "url": "https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77"
       },
@@ -6766,7 +6810,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 114285,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/7cRHttCOKV8JZPnA0PE2kd"
@@ -7704,7 +7748,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 104096,
       "name": "Kater",
       "url": "https://open.spotify.com/track/2ouSd5eDDawCVxFHXEPGUd"
@@ -8004,7 +8048,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 103333,
       "name": "Lakeside",
       "url": "https://open.spotify.com/track/4boESkiRPGx2bR2sLkn19N"
@@ -10440,7 +10484,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 109367,
       "name": "Morning Bliss",
       "url": "https://open.spotify.com/track/487RYD0KkWzrVhvsu8JLTx"
@@ -10766,6 +10810,32 @@
       "duration_ms": 125714,
       "name": "Nature & Me",
       "url": "https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN"
+    },
+    {
+      "album": {
+        "name": "Nautilus",
+        "url": "https://open.spotify.com/album/0NGO2EOJ79sARvsc4K9OJf"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        },
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        },
+        {
+          "name": "GaetDown",
+          "url": "https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110926,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/49peOZWh0RLg4VHiVRDH88"
     },
     {
       "album": {
@@ -13179,6 +13249,32 @@
     },
     {
       "album": {
+        "name": "Retro Colours",
+        "url": "https://open.spotify.com/album/0rT3fhS6cCF0SwikYOHoq1"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        },
+        {
+          "name": "Kristoffer Eikrem",
+          "url": "https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h"
+        },
+        {
+          "name": "Ian Ewing",
+          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166407,
+      "name": "Retro Colours",
+      "url": "https://open.spotify.com/track/7IfFCzAytePTgj8bRqITkF"
+    },
+    {
+      "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/4iqzHnAs6994w6KQ9hTDTT"
       },
@@ -13406,6 +13502,24 @@
       "duration_ms": 154840,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd"
+    },
+    {
+      "album": {
+        "name": "Romantic Date",
+        "url": "https://open.spotify.com/album/4VV9YOaXOyKerw34XFhNrk"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Romantic Date",
+      "url": "https://open.spotify.com/track/1CRKqoTAYEtMQOFO7oIwBq"
     },
     {
       "album": {
@@ -18284,7 +18398,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 123624,
       "name": "Waning Glow",
       "url": "https://open.spotify.com/track/1Mpe795FO9J9eYskmyYOnZ"
@@ -18350,7 +18464,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 111000,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR"
@@ -18482,6 +18596,28 @@
       "duration_ms": 140816,
       "name": "What If",
       "url": "https://open.spotify.com/track/4nF4pM4QjUdggBFVf2h67C"
+    },
+    {
+      "album": {
+        "name": "What is the Look of Love",
+        "url": "https://open.spotify.com/album/1xLK0uB2xcECmzz3Ee8NMP"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "What is the Look of Love",
+      "url": "https://open.spotify.com/track/2U00oZM9GYfu8S6Bg9IkMF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Thierry Larose",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Aswell",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 222093,
       "name": "F\u00eate des p\u00e8res",
       "url": "https://open.spotify.com/track/4l8Oaly5Q1UXdhmvIeWjJz"
@@ -3528,6 +3528,24 @@
       "duration_ms": 159946,
       "name": "gu\u00e9rilla des fleurs",
       "url": "https://open.spotify.com/track/0iqiKB14enYEjGSzDk1kym"
+    },
+    {
+      "album": {
+        "name": "Il est partout",
+        "url": "https://open.spotify.com/album/16yCjHaaw8ozp1dK9hcILe"
+      },
+      "artists": [
+        {
+          "name": "Myriam Arseneau",
+          "url": "https://open.spotify.com/artist/61KonBmFMFeGsMkrCDbao9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241781,
+      "name": "Gu\u00e9rir les murs",
+      "url": "https://open.spotify.com/track/2Ze68jGXk2L4MwY3up97cJ"
     },
     {
       "album": {
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 221245,
       "name": "Laughter - Bouquet Version",
       "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 146250,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/5bj7q3xvnZr8H7wQTdAXLa"
@@ -6376,7 +6394,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 203506,
       "name": "Les yeux couleur bois",
       "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
@@ -7276,6 +7294,24 @@
       "duration_ms": 229481,
       "name": "M\u00eames habitudes",
       "url": "https://open.spotify.com/track/3cFVT6MhGbiaK89AcVKquo"
+    },
+    {
+      "album": {
+        "name": "M\u2019enfuir de moi-m\u00eame",
+        "url": "https://open.spotify.com/album/0kbVP0oWCKHfi07ffs726W"
+      },
+      "artists": [
+        {
+          "name": "Ariane Simard",
+          "url": "https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224470,
+      "name": "M\u2019enfuir de moi-m\u00eame",
+      "url": "https://open.spotify.com/track/0a4nD2tsIK6hH0aMYROcaa"
     },
     {
       "album": {
@@ -9435,6 +9471,24 @@
     },
     {
       "album": {
+        "name": "Saisons",
+        "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "Saisons",
+      "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
+    },
+    {
+      "album": {
         "name": "Salut",
         "url": "https://open.spotify.com/album/5nmY2r9LR4oJIC1zjN8kA8"
       },
@@ -9886,7 +9940,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 254053,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
@@ -10629,6 +10683,24 @@
     },
     {
       "album": {
+        "name": "Tip of My Tongue",
+        "url": "https://open.spotify.com/album/1VOo0nzHIxtCc5vzFRjAf6"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188474,
+      "name": "Tip of My Tongue",
+      "url": "https://open.spotify.com/track/4ssOWRV4Gw113pkNQLbaUY"
+    },
+    {
+      "album": {
         "name": "To Her",
         "url": "https://open.spotify.com/album/1M9XLvmAovyW7kQsxZXjc1"
       },
@@ -11020,6 +11092,24 @@
       "duration_ms": 203935,
       "name": "Tshitatau",
       "url": "https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo"
+    },
+    {
+      "album": {
+        "name": "Tu choisis comment tu aimes",
+        "url": "https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247720,
+      "name": "Tu choisis comment tu aimes",
+      "url": "https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb"
     },
     {
       "album": {

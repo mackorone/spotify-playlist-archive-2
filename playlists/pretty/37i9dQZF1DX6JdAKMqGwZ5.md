@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Ben Yart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,198 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,212 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ninfita](https://open.spotify.com/track/02DNW1RyBquAXLwjHjQsKv) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [1001 Noches](https://open.spotify.com/album/1Wt15gwtqOvFMbwtXRkgpQ) | 3:23 |
+| 1 | [Ninfita](https://open.spotify.com/track/02DNW1RyBquAXLwjHjQsKv) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [1001 Noches](https://open.spotify.com/album/1Wt15gwtqOvFMbwtXRkgpQ) | 3:22 |
 | 2 | [La Verdad](https://open.spotify.com/track/2tBWyqvCOm2YZTc4hMbBS7) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [La Verdad](https://open.spotify.com/album/2JNRgxUweLKWL5R0oIwnyz) | 4:12 |
 | 3 | [El presidente de la compañía](https://open.spotify.com/track/6uzhRqGUJmpCD7h9DK1Xh8) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [El presidente de la compañía](https://open.spotify.com/album/6mohE0cCMBlU25D7khdlML) | 2:44 |
 | 4 | [Cabra](https://open.spotify.com/track/1lPTSgrzIOG1HZINgwr7Cf) | [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6), [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [Cabra](https://open.spotify.com/album/0GDmQb3qZDotlX0cUBZDYO) | 3:11 |

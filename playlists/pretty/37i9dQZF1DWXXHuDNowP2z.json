@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 293943,
+  "num_followers": 293986,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,18 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -159,18 +155,22 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
-    },
-    {
-      "added_at": "2026-09-25 06:00:24",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 210932,
       "name": "24/7",
       "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2026-09-25 06:00:24",
+      "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Fuera De Control",
-        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Cumbia Del Sol",
-      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
-    },
-    {
-      "added_at": "2026-09-25 06:00:24",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2026-09-25 06:00:24",
+      "album": {
+        "name": "Fuera De Control",
+        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Cumbia Del Sol",
+      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "El Sandwich",
+      "url": "https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr"
+    },
+    {
+      "added_at": "2026-09-25 06:00:24",
+      "album": {
         "name": "Camale\u00f3n",
         "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
       "artists": [
         {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 191320,
-      "name": "El Sandwich",
-      "url": "https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr"
+      "duration_ms": 174333,
+      "name": "Con Zapatos de Tac\u00f3n",
+      "url": "https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -815,22 +831,6 @@
       "duration_ms": 155908,
       "name": "Que la Dejen Ir al Baile Sola",
       "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
-    },
-    {
-      "added_at": "2026-09-25 06:00:24",
-      "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Con Zapatos de Tac\u00f3n",
-      "url": "https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:24",
-      "album": {
         "name": "Amor A La Ligera",
         "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 147373,
       "name": "Que La Dejen Ir Al Baile",
       "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+    },
+    {
+      "added_at": "2026-09-25 06:00:24",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "De Corazon Ranchero",
-        "url": "https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV"
-      },
-      "artists": [
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 267650,
-      "name": "Zapateado Encabronado #3",
-      "url": "https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv"
-    },
-    {
-      "added_at": "2026-09-25 06:00:24",
-      "album": {
         "name": "\"15 Melodias Del Recuerdo\"",
         "url": "https://open.spotify.com/album/2BfKRacdLOFMlEQnXUlLtq"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 166320,
       "name": "El Ahualulco",
       "url": "https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr"
+    },
+    {
+      "added_at": "2026-09-25 06:00:24",
+      "album": {
+        "name": "De Corazon Ranchero",
+        "url": "https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 267650,
+      "name": "Zapateado Encabronado #3",
+      "url": "https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
-      },
-      "artists": [
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "Zapateado Encabronado #2",
-      "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
-    },
-    {
-      "added_at": "2026-09-25 06:00:24",
-      "album": {
         "name": "Puros Popurris De Sones",
         "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 199307,
       "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
       "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
+    },
+    {
+      "added_at": "2026-09-25 06:00:24",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "Zapateado Encabronado #2",
+      "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
     },
     {
       "added_at": "2026-09-25 06:00:24",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-09-25 06:00:24",
       "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
-    },
-    {
-      "added_at": "2026-09-25 06:00:24",
-      "album": {
         "name": "Bandido De Amores",
         "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
+    },
+    {
+      "added_at": "2026-09-25 06:00:24",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
     },
     {
       "added_at": "2026-09-25 06:00:24",

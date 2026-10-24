@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/6AgkhCQME5wqQ2xqFgeMYK"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110142,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/5xqqwC86B6OHPdLMekNIm4"
+    },
+    {
+      "album": {
         "name": "Bandit (with YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
       },
@@ -7062,7 +7080,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 193591,
       "name": "Glock In My Lap",
       "url": "https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k"
@@ -9124,7 +9142,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
@@ -10308,6 +10326,28 @@
       "duration_ms": 224745,
       "name": "Little Homies",
       "url": "https://open.spotify.com/track/7B09ZewAliWo7Y3TdIA7g1"
+    },
+    {
+      "album": {
+        "name": "Luh Leakyz Vol. 1",
+        "url": "https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lyfestyle Corporation",
+          "url": "https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137035,
+      "name": "Liv Dis Lyfe",
+      "url": "https://open.spotify.com/track/0NDrCAVGZgsQbOvOCCYFEe"
     },
     {
       "album": {
@@ -11784,7 +11824,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 195680,
       "name": "Need It",
       "url": "https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ"
@@ -17588,6 +17628,32 @@
       "duration_ms": 136939,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/2bo0HCDcZj8BYjoht9zYgk"
+    },
+    {
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "TMTC (feat. Quavo & G Herbo)",
+      "url": "https://open.spotify.com/track/39063YmH7xiNsJ3HptPR91"
     },
     {
       "album": {

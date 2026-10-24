@@ -1,6 +1,6 @@
 {
   "description": "Hot songs for the hot summer.",
-  "num_followers": 502046,
+  "num_followers": 502024,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 192417,
       "name": "Fountains (with Tems)",
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -831,34 +831,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Jolie Fille",
-        "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Layefa",
-          "url": "https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8"
-        }
-      ],
-      "duration_ms": 194442,
-      "name": "Jolie Fille",
-      "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -895,6 +867,34 @@
       "duration_ms": 170013,
       "name": "Nights In The Sun (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Jolie Fille",
+        "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Layefa",
+          "url": "https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8"
+        }
+      ],
+      "duration_ms": 194442,
+      "name": "Jolie Fille",
+      "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 165139,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Exotisch (Sangria)",
         "url": "https://open.spotify.com/album/168cUsH1xYOtXelbsh7U00"
       },
@@ -1055,6 +1039,26 @@
       "duration_ms": 142439,
       "name": "Exotisch (Sangria)",
       "url": "https://open.spotify.com/track/0wETChJmZMcTIaFpi685x9"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Infinity (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Infinity (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
+      "duration_ms": 165139,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/3x11dxRSmvNxq46e5IhNCO"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 187873,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/3x11dxRSmvNxq46e5IhNCO"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "DJ",
-      "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Baddies",
         "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "ZAAZAA",
-        "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "ZAAZAA",
-      "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "We Caa Done (feat. Drake)",
         "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "ZAAZAA",
+        "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "ZAAZAA",
+      "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 186153,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Talibans II",
-        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Talibans II",
-      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "attention (with Justin Bieber)",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Talibans II",
+        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Talibans II",
+      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 162787,
+      "name": "Push (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
         "name": "Big Thug Boys (Dj Yo! Remix)",
         "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
       },
@@ -2075,26 +2095,6 @@
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 162787,
-      "name": "Push (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
     },
     {
       "added_at": "2026-10-12 12:57:14",

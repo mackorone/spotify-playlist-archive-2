@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 310 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 310 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 309 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
 | 310 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `AcfqGgAAAAA7WdeAmdVDSyJZHmJaEG5X`
+Snapshot ID: `AcfvnAAAAAAzCzFy4K/c6A/8LRBzvsma`

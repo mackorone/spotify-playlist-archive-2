@@ -1,12 +1,12 @@
 {
   "description": "100 % chill, 100 % Montr\u00e9al w/ Colin L\u00e9o",
-  "num_followers": 143977,
+  "num_followers": 143984,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI972gky47WZ3TvbfWwjLyjgRs0j",
+  "snapshot_id": "AAAAAAv3eADTx5inaFiLhd+wLImlq7/a",
   "tracks": [
     {
       "added_at": "2026-10-16 04:03:10",
@@ -27,6 +27,22 @@
       "duration_ms": 188564,
       "name": "S\u00e9rotonine",
       "url": "https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB"
+    },
+    {
+      "added_at": "2026-10-23 04:03:19",
+      "album": {
+        "name": "Melbourne",
+        "url": "https://open.spotify.com/album/7hrMaAvydHpxmwBXDeTwa1"
+      },
+      "artists": [
+        {
+          "name": "Burgundy",
+          "url": "https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Melbourne",
+      "url": "https://open.spotify.com/track/548eDc9ac21RjfoDK5pFYe"
     },
     {
       "added_at": "2026-10-16 04:03:10",
@@ -77,52 +93,24 @@
       "url": "https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ"
     },
     {
-      "added_at": "2026-10-16 04:03:10",
+      "added_at": "2026-10-23 04:03:19",
       "album": {
-        "name": "Fek l\u00e0?",
-        "url": "https://open.spotify.com/album/0heQVzMcGhF9LCWJooKCC7"
+        "name": "ESSENCE MUSIQUE 1",
+        "url": "https://open.spotify.com/album/3wo0SoFfpZCyHjFACCEjQe"
       },
       "artists": [
         {
-          "name": "Joseph Lorange",
-          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
-        }
-      ],
-      "duration_ms": 128333,
-      "name": "R\u00e9ponse",
-      "url": "https://open.spotify.com/track/0ST5Q5Iriex4aM9Xhi3HQm"
-    },
-    {
-      "added_at": "2026-10-16 04:03:10",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/54QQbJgusUWZuvG47NeWd6"
-      },
-      "artists": [
+          "name": "Berlam",
+          "url": "https://open.spotify.com/artist/6VX0JdAybG05A8AtuPYLwN"
+        },
         {
-          "name": "Bain Marie",
-          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+          "name": "prodbymennace",
+          "url": "https://open.spotify.com/artist/7t620iSwiICX2FuM6Ja7bW"
         }
       ],
-      "duration_ms": 178232,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0VKAG0FTqxl7GbSPTWUH6e"
-    },
-    {
-      "added_at": "2026-10-16 04:03:10",
-      "album": {
-        "name": "pauvre pomme",
-        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "pauvre pomme",
-      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
+      "duration_ms": 153039,
+      "name": "R\u00e9unir",
+      "url": "https://open.spotify.com/track/53ZWTMIpYchWU6WIw5qK6R"
     },
     {
       "added_at": "2026-10-16 04:03:10",
@@ -143,54 +131,90 @@
     {
       "added_at": "2026-10-16 04:03:10",
       "album": {
-        "name": "babysteps",
-        "url": "https://open.spotify.com/album/0OG2X6dxPxfZn1aLV7f4h3"
+        "name": "Fek l\u00e0?",
+        "url": "https://open.spotify.com/album/0heQVzMcGhF9LCWJooKCC7"
       },
       "artists": [
         {
-          "name": "em & I",
-          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+        }
+      ],
+      "duration_ms": 128333,
+      "name": "R\u00e9ponse",
+      "url": "https://open.spotify.com/track/0ST5Q5Iriex4aM9Xhi3HQm"
+    },
+    {
+      "added_at": "2026-10-23 04:03:19",
+      "album": {
+        "name": "Tu choisis comment tu aimes",
+        "url": "https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Tu choisis comment tu aimes",
+      "url": "https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb"
+    },
+    {
+      "added_at": "2026-10-23 04:03:19",
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2ZrHyLvL6g5IlbNNkmBcFt"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
         },
         {
-          "name": "KROY",
-          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
         }
       ],
-      "duration_ms": 160516,
-      "name": "step one",
-      "url": "https://open.spotify.com/track/6ixO5cBS6SnYqjAdurVyjr"
+      "duration_ms": 198857,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/43PhqJfzF52gTZlTWdnpkj"
     },
     {
-      "added_at": "2026-10-16 04:03:10",
+      "added_at": "2026-10-23 04:03:19",
       "album": {
-        "name": "Sous-bois",
-        "url": "https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC"
+        "name": "lowkey?",
+        "url": "https://open.spotify.com/album/1xinGYhMSeYSvyiCsPX22O"
       },
       "artists": [
         {
-          "name": "Nicolas G\u00e9mus",
-          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+          "name": "F\u00e9lix Collin",
+          "url": "https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s"
         }
       ],
-      "duration_ms": 242053,
-      "name": "Cendres",
-      "url": "https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1"
+      "duration_ms": 196706,
+      "name": "i can't pretend",
+      "url": "https://open.spotify.com/track/3VKbQDLsMBgPyJQvux29uX"
     },
     {
-      "added_at": "2026-10-16 04:03:10",
+      "added_at": "2026-10-23 04:03:19",
       "album": {
-        "name": "L'amour pis les steam\u00e9s",
-        "url": "https://open.spotify.com/album/0RxHj4n9KObqSIfoRyETpL"
+        "name": "Au bout de la peur",
+        "url": "https://open.spotify.com/album/2yxVs7b883e0O0CohISiRp"
       },
       "artists": [
         {
-          "name": "Ana\u00efs Constantin",
-          "url": "https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ"
+          "name": "Huriel",
+          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+        },
+        {
+          "name": "VALOIS",
+          "url": "https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk"
         }
       ],
-      "duration_ms": 229320,
-      "name": "L'amour pis les steam\u00e9s",
-      "url": "https://open.spotify.com/track/1gFkF0DgqF7lUi9StRfQ4E"
+      "duration_ms": 229367,
+      "name": "Au bout de la peur",
+      "url": "https://open.spotify.com/track/5cfY60saiGhksHU7tzdcsa"
     },
     {
       "added_at": "2026-10-16 04:03:10",
@@ -335,6 +359,90 @@
       "duration_ms": 158591,
       "name": "Recommence",
       "url": "https://open.spotify.com/track/5ofuy5G9F8PK0xJ63TtbPA"
+    },
+    {
+      "added_at": "2026-10-16 04:03:10",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/54QQbJgusUWZuvG47NeWd6"
+      },
+      "artists": [
+        {
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+        }
+      ],
+      "duration_ms": 178232,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0VKAG0FTqxl7GbSPTWUH6e"
+    },
+    {
+      "added_at": "2026-10-16 04:03:10",
+      "album": {
+        "name": "pauvre pomme",
+        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "pauvre pomme",
+      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
+    },
+    {
+      "added_at": "2026-10-16 04:03:10",
+      "album": {
+        "name": "babysteps",
+        "url": "https://open.spotify.com/album/0OG2X6dxPxfZn1aLV7f4h3"
+      },
+      "artists": [
+        {
+          "name": "em & I",
+          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
+        },
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        }
+      ],
+      "duration_ms": 160516,
+      "name": "step one",
+      "url": "https://open.spotify.com/track/6ixO5cBS6SnYqjAdurVyjr"
+    },
+    {
+      "added_at": "2026-10-16 04:03:10",
+      "album": {
+        "name": "Sous-bois",
+        "url": "https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC"
+      },
+      "artists": [
+        {
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "Cendres",
+      "url": "https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1"
+    },
+    {
+      "added_at": "2026-10-16 04:03:10",
+      "album": {
+        "name": "L'amour pis les steam\u00e9s",
+        "url": "https://open.spotify.com/album/0RxHj4n9KObqSIfoRyETpL"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Constantin",
+          "url": "https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "L'amour pis les steam\u00e9s",
+      "url": "https://open.spotify.com/track/1gFkF0DgqF7lUi9StRfQ4E"
     },
     {
       "added_at": "2026-10-16 04:03:10",

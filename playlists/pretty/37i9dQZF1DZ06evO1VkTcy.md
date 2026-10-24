@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,395 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,396 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 34 | [Na Areia](https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 4:49 |
 | 35 | [Atemporal](https://open.spotify.com/track/2pb4YtQrf4VbipwHZVGUIS) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Atemporal](https://open.spotify.com/album/79zurdk3n5ieLtyT749rzq) | 3:04 |
 | 36 | [Tava Tudo Tranquilin](https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Tava Tudo Tranquilin](https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin) | 2:36 |
-| 37 | [Quando Você Voltar](https://open.spotify.com/track/3DchA8j5XAzU6E6gGV2Njr) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Billboard Brasil](https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3) | [Lourena Acústico](https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx) | 4:04 |
+| 37 | [Amar Amor](https://open.spotify.com/track/4zy0dZrYh0umk6y6dkADMw) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Billboard Brasil](https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3) | [Lourena Acústico](https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx) | 3:38 |
 | 38 | [Posturadin](https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Artioli](https://open.spotify.com/artist/5F0vXJ4To4MUhFRSz5rIs6), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Posturadin](https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo) | 3:46 |
 | 39 | [Seu](https://open.spotify.com/track/5Tl7d7HlhRX0XsxdekoREO) | [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Rodrip](https://open.spotify.com/artist/5Kc4Xr401mA18jC4Wenc3x), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Atemporal](https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb) | 3:32 |
 | 40 | [Até o Mundo Acabar](https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Até o Mundo Acabar](https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Fake](https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Fake](https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd) | 2:36 |
 | 50 | [1910](https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [1910](https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g) | 8:37 |
 
-Snapshot ID: `atavAAAAAAAbO9FCJyb5Qsjfz0x6dEFp`
+Snapshot ID: `atgAgAAAAABHQm9+0lJV3nEFVvOjzN38`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 603 likes - 62 songs - 3 hr 57 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 603 likes - 63 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 60 | [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 |
 | 61 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
 | 62 | [Quiero irme de aca](https://open.spotify.com/track/76MovDHLzCfqKoPZRxLPWG) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Disco Chulengo](https://open.spotify.com/album/33rrbWOnJKy0pEDCQDbFDH) | 1:56 |
+| 63 | [Rhoads](https://open.spotify.com/track/7HoeaXhjgR8M9rd6B6vD9R) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 3:03 |
 
-Snapshot ID: `AAACVjSE0KxNmfz16y/wrgMscTwkphLz`
+Snapshot ID: `AAACVwjEFkKTjDZTBugR23VU42/JV11C`

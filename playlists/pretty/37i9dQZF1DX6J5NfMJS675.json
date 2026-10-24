@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the dark side of the club.",
-  "num_followers": 2696623,
+  "num_followers": 2696875,
   "original_name": "TECHNO BUNKER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABcyZVVy02tNnA/U7jAetHG0/ZTW",
+  "snapshot_id": "AAAAAPbkhMfMWqkN7X1UMEzT1uwQyqyt",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:03",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "The Resistance EP",
-        "url": "https://open.spotify.com/album/0XVdoQdXfMMkKs7HWPkl6l"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Theo Nasa",
-          "url": "https://open.spotify.com/artist/15UDMrAbXMNVlea2LLohdn"
-        }
-      ],
-      "duration_ms": 394896,
-      "name": "The Resistance (feat. Theo Nasa)",
-      "url": "https://open.spotify.com/track/4CoAqkFt9rCpZq92hFGmCF"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
         "name": "Fight Against The System EP",
         "url": "https://open.spotify.com/album/5WYyxjCG17Pg1KHuRQSV8r"
       },
@@ -477,6 +457,22 @@
       "url": "https://open.spotify.com/track/2AzAamWZi47Fv7nds8h7AM"
     },
     {
+      "added_at": "2026-10-23 06:57:30",
+      "album": {
+        "name": "All this softness",
+        "url": "https://open.spotify.com/album/4nDwOeswcRVUO7nNH11O8T"
+      },
+      "artists": [
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "All this softness",
+      "url": "https://open.spotify.com/track/33cwanZqoTSRn0k4tSYkrF"
+    },
+    {
       "added_at": "2026-10-15 22:01:03",
       "album": {
         "name": "AURA",
@@ -491,6 +487,42 @@
       "duration_ms": 257571,
       "name": "drift away",
       "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
+        "name": "The Resistance EP",
+        "url": "https://open.spotify.com/album/0XVdoQdXfMMkKs7HWPkl6l"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Theo Nasa",
+          "url": "https://open.spotify.com/artist/15UDMrAbXMNVlea2LLohdn"
+        }
+      ],
+      "duration_ms": 394896,
+      "name": "The Resistance (feat. Theo Nasa)",
+      "url": "https://open.spotify.com/track/4CoAqkFt9rCpZq92hFGmCF"
+    },
+    {
+      "added_at": "2026-10-23 06:57:30",
+      "album": {
+        "name": "Take Me to Ecstasy",
+        "url": "https://open.spotify.com/album/7lSgVKdX8c07TZVTaffiNb"
+      },
+      "artists": [
+        {
+          "name": "Alyne",
+          "url": "https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Take Me to Ecstasy",
+      "url": "https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -591,6 +623,26 @@
       "duration_ms": 238777,
       "name": "The Great Reset",
       "url": "https://open.spotify.com/track/6fcYdT42l45faXTlYWyU1q"
+    },
+    {
+      "added_at": "2026-10-23 06:57:30",
+      "album": {
+        "name": "Do Our Thing",
+        "url": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/5GXyDd4l7oO8qVrnOd5WSd"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1731,58 +1783,6 @@
       "duration_ms": 222608,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/6tNTkvxxlEi6ehYDjchLNM"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Primal Particel",
-        "url": "https://open.spotify.com/album/47qexsuQiB2cBeSrWGdubQ"
-      },
-      "artists": [
-        {
-          "name": "Raho",
-          "url": "https://open.spotify.com/artist/0cm6TNMImRKuuwosNtBHge"
-        }
-      ],
-      "duration_ms": 337576,
-      "name": "Primal Particel",
-      "url": "https://open.spotify.com/track/320HRgAAtaG7X28fmsQmNT"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Go Fast",
-        "url": "https://open.spotify.com/album/27joUywncv639Dym3PaVfn"
-      },
-      "artists": [
-        {
-          "name": "JAUF(FR)EY",
-          "url": "https://open.spotify.com/artist/6svXSlVQo5wYEXta3UTWFg"
-        },
-        {
-          "name": "Mike Mooie",
-          "url": "https://open.spotify.com/artist/6ErzNPZY4bD8FPs5wWh12J"
-        }
-      ],
-      "duration_ms": 222608,
-      "name": "Go Fast",
-      "url": "https://open.spotify.com/track/5QAmieDO5LokwAGZtFRr5g"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Non Fidarti",
-        "url": "https://open.spotify.com/album/1mfntUrTGdSbaB60GvcWu5"
-      },
-      "artists": [
-        {
-          "name": "Alfa Cornae",
-          "url": "https://open.spotify.com/artist/0iS9Zzud5hNvjx0wVfIVvd"
-        }
-      ],
-      "duration_ms": 277551,
-      "name": "Tool 1",
-      "url": "https://open.spotify.com/track/5SvA2nYqDdYkl0w7CYLzVW"
     },
     {
       "added_at": "2026-10-15 22:01:03",

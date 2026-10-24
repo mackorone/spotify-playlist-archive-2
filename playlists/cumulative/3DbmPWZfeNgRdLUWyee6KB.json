@@ -20631,6 +20631,32 @@
     },
     {
       "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/5sMuJOPlLPB1SFGa3irbyl"
+      },
+      "artists": [
+        {
+          "name": "Isa G",
+          "url": "https://open.spotify.com/artist/2dGQlNsgOf5n1hzyL3lPIv"
+        },
+        {
+          "name": "DJ Okay",
+          "url": "https://open.spotify.com/artist/3pmFBfQSNpyyWrNLI0907a"
+        },
+        {
+          "name": "DJ Speedy Macchiato",
+          "url": "https://open.spotify.com/artist/0DSdGntAi53SBkmEx9AT9z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/7ea21HK7BpF9cr2Y82QoZR"
+    },
+    {
+      "album": {
         "name": "Quienes hacen cuadros",
         "url": "https://open.spotify.com/album/2TSJGJ93cXAupQqCjeFjK3"
       },
@@ -20892,6 +20918,24 @@
       "duration_ms": 208080,
       "name": "Ready to fly",
       "url": "https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x"
+    },
+    {
+      "album": {
+        "name": "Ready to Risk",
+        "url": "https://open.spotify.com/album/5VeQqR8G9Glfl0C9wvrELB"
+      },
+      "artists": [
+        {
+          "name": "Harlem Night",
+          "url": "https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252325,
+      "name": "Ready to Risk",
+      "url": "https://open.spotify.com/track/7IXa7Cs6KUWWDyucCpDi1d"
     },
     {
       "album": {
@@ -29028,6 +29072,24 @@
       "duration_ms": 254000,
       "name": "We Know",
       "url": "https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/3vEEDi3eoXun3rU13XpAvb"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "We Might As Well",
+      "url": "https://open.spotify.com/track/3vgR3WEPLoe3BiDSEDejio"
     },
     {
       "album": {

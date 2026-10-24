@@ -27473,6 +27473,28 @@
     },
     {
       "album": {
+        "name": "Do Our Thing",
+        "url": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178295,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/5GXyDd4l7oO8qVrnOd5WSd"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/5Lm6ONdbKjUFkM4h4Stgu7"
       },
@@ -30148,7 +30170,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173547,
       "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
       "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"

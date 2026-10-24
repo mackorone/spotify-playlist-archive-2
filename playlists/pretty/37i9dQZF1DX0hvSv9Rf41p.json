@@ -1,32 +1,32 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Arcando & IRAH",
-  "num_followers": 995975,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Flux Pavilion",
+  "num_followers": 995954,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGcnCVPOjS+nuSUKY7lDdX2WhNYE",
+  "snapshot_id": "AAAAADjzMsj3JKYg71IElHLNP7dzcszt",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:01:59",
+      "added_at": "2026-10-23 04:01:22",
       "album": {
-        "name": "Killer Instinct",
-        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
+        "name": "Fluxiverse Vol.3",
+        "url": "https://open.spotify.com/album/5ItWWaavtMgb08YacFWpAM"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         },
         {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Killer Instinct",
-      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
+      "duration_ms": 229241,
+      "name": "Righteous Valkyrie",
+      "url": "https://open.spotify.com/track/70jHr7J04Phv1wmf4dajCr"
     },
     {
       "added_at": "2026-09-25 04:02:58",
@@ -47,6 +47,50 @@
       "duration_ms": 182068,
       "name": "Can't Stop Me Now",
       "url": "https://open.spotify.com/track/0ELmB2r0C0iusi6b0zJH7s"
+    },
+    {
+      "added_at": "2026-10-23 04:01:22",
+      "album": {
+        "name": "Energy (PEEKABOO Remix)",
+        "url": "https://open.spotify.com/album/3FZqwXVYlPDofx0Pj690Bj"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Energy - PEEKABOO Remix",
+      "url": "https://open.spotify.com/track/0D1uyYeKDR7sFgv9nulT3y"
+    },
+    {
+      "added_at": "2026-10-16 04:01:59",
+      "album": {
+        "name": "Slipping Away",
+        "url": "https://open.spotify.com/album/7EXVGfPuGsVuqkEjVIdZak"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 259459,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/2nbye27S8Nv1JSrmxl1Ycf"
     },
     {
       "added_at": "2026-10-02 04:02:51",
@@ -75,22 +119,22 @@
     {
       "added_at": "2026-10-16 04:01:59",
       "album": {
-        "name": "Slipping Away",
-        "url": "https://open.spotify.com/album/7EXVGfPuGsVuqkEjVIdZak"
+        "name": "Killer Instinct",
+        "url": "https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO"
       },
       "artists": [
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
         },
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
         }
       ],
-      "duration_ms": 259459,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/2nbye27S8Nv1JSrmxl1Ycf"
+      "duration_ms": 192000,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -111,6 +155,66 @@
       "duration_ms": 199448,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3t4No2YWNcNIxJO4mRPOti"
+    },
+    {
+      "added_at": "2026-10-23 04:01:22",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5gUkYiG1ccg96wVyWDGk74"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Fryar",
+          "url": "https://open.spotify.com/artist/1ABM3WSMTPteuFWFMQ3975"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1DxqE3NhghS5DoTVRddCQr"
+    },
+    {
+      "added_at": "2026-09-04 04:02:02",
+      "album": {
+        "name": "in my dreams",
+        "url": "https://open.spotify.com/album/0Mg01R2oTPFnSAYnFMXQFP"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "in my dreams",
+      "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
+    },
+    {
+      "added_at": "2026-10-16 04:01:59",
+      "album": {
+        "name": "RING THE ALARM",
+        "url": "https://open.spotify.com/album/7jQnXO7Yq5Bts3cFdcygjU"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "RING THE ALARM",
+      "url": "https://open.spotify.com/track/1sDiKEmSWm2qbRTCMZ44kX"
     },
     {
       "added_at": "2026-09-25 04:02:58",
@@ -149,24 +253,36 @@
       "url": "https://open.spotify.com/track/1lWMZNbY0ArYABv7ZkdqCK"
     },
     {
-      "added_at": "2026-09-04 04:02:02",
+      "added_at": "2026-10-23 04:01:22",
       "album": {
-        "name": "in my dreams",
-        "url": "https://open.spotify.com/album/0Mg01R2oTPFnSAYnFMXQFP"
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/0tliVmDagENBlop1qMCxaE"
       },
       "artists": [
         {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Abi Flynn",
-          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
         }
       ],
-      "duration_ms": 138666,
-      "name": "in my dreams",
-      "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
+      "duration_ms": 161000,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/0P4LyH6wJAhs2ne7NLQDyG"
+    },
+    {
+      "added_at": "2026-10-02 04:02:51",
+      "album": {
+        "name": "Ghosts in the Static",
+        "url": "https://open.spotify.com/album/2ohC4XrHClJHBY9ayNjLpW"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "No Fool",
+      "url": "https://open.spotify.com/track/39SiHwLHq2k3SxC1EnVnoL"
     },
     {
       "added_at": "2026-10-09 04:12:00",
@@ -189,20 +305,40 @@
       "url": "https://open.spotify.com/track/64zclJhMujuU4lzEUTelQo"
     },
     {
-      "added_at": "2026-10-02 04:02:51",
+      "added_at": "2026-10-16 04:01:59",
       "album": {
-        "name": "Ghosts in the Static",
-        "url": "https://open.spotify.com/album/2ohC4XrHClJHBY9ayNjLpW"
+        "name": "Wobble Chef",
+        "url": "https://open.spotify.com/album/6NJX8Ef8nr9dnnNsGjOlUG"
       },
       "artists": [
         {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
         }
       ],
-      "duration_ms": 142500,
-      "name": "No Fool",
-      "url": "https://open.spotify.com/track/39SiHwLHq2k3SxC1EnVnoL"
+      "duration_ms": 213750,
+      "name": "Wobble Chef",
+      "url": "https://open.spotify.com/track/2xrHfbYWP4oFYAdD5J30qh"
+    },
+    {
+      "added_at": "2026-10-23 04:01:22",
+      "album": {
+        "name": "CULT CHROME II",
+        "url": "https://open.spotify.com/album/2fMzDNj8s4y3AgemvaKtsp"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "Basstrick",
+          "url": "https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta"
+        }
+      ],
+      "duration_ms": 184551,
+      "name": "CHAINSAW",
+      "url": "https://open.spotify.com/track/1ydsW0MBvHFnYHZkPABatN"
     },
     {
       "added_at": "2026-10-16 04:01:59",
@@ -289,6 +425,26 @@
       "url": "https://open.spotify.com/track/2DNHy7NQNQO40EkGlrgtkY"
     },
     {
+      "added_at": "2026-10-16 04:01:59",
+      "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/7eXDwZjyn66HyVSsWpVENZ"
+      },
+      "artists": [
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Colleen D'agostino",
+          "url": "https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3BN8ZvwgmKKr6GWAzYmzxK"
+    },
+    {
       "added_at": "2026-10-09 04:02:04",
       "album": {
         "name": "Build Me Up",
@@ -303,26 +459,6 @@
       "duration_ms": 182068,
       "name": "Build Me Up",
       "url": "https://open.spotify.com/track/56YhQOAF0X8Ch4qT3blnZP"
-    },
-    {
-      "added_at": "2026-10-16 04:01:59",
-      "album": {
-        "name": "RING THE ALARM",
-        "url": "https://open.spotify.com/album/7jQnXO7Yq5Bts3cFdcygjU"
-      },
-      "artists": [
-        {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        },
-        {
-          "name": "Jiqui",
-          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "RING THE ALARM",
-      "url": "https://open.spotify.com/track/1sDiKEmSWm2qbRTCMZ44kX"
     },
     {
       "added_at": "2026-09-11 04:02:00",
@@ -415,22 +551,6 @@
       "duration_ms": 220444,
       "name": "sound di alarm",
       "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
-    },
-    {
-      "added_at": "2026-10-16 04:01:59",
-      "album": {
-        "name": "Wobble Chef",
-        "url": "https://open.spotify.com/album/6NJX8Ef8nr9dnnNsGjOlUG"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Wobble Chef",
-      "url": "https://open.spotify.com/track/2xrHfbYWP4oFYAdD5J30qh"
     },
     {
       "added_at": "2026-09-04 04:02:02",
@@ -585,26 +705,6 @@
       "url": "https://open.spotify.com/track/1AWhg4oDF4SIERk3KKoZCq"
     },
     {
-      "added_at": "2026-10-16 04:01:59",
-      "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/7eXDwZjyn66HyVSsWpVENZ"
-      },
-      "artists": [
-        {
-          "name": "Quackson",
-          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
-        },
-        {
-          "name": "Colleen D'agostino",
-          "url": "https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3BN8ZvwgmKKr6GWAzYmzxK"
-    },
-    {
       "added_at": "2026-10-02 04:02:51",
       "album": {
         "name": "DIS FUNCTION",
@@ -735,6 +835,22 @@
       "duration_ms": 257959,
       "name": "Plus One",
       "url": "https://open.spotify.com/track/3ObX6pmBdD6xfyX0ba7PD3"
+    },
+    {
+      "added_at": "2026-09-11 04:02:00",
+      "album": {
+        "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
+        "url": "https://open.spotify.com/album/18FCcZlQyBRvKEqyzEo7oq"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
+      "url": "https://open.spotify.com/track/7e2zNm90ULXbzAm1NXfbac"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -1025,26 +1141,6 @@
       "url": "https://open.spotify.com/track/3c3U56j8F1rb6yt3kKe40J"
     },
     {
-      "added_at": "2026-08-28 04:02:39",
-      "album": {
-        "name": "I Need",
-        "url": "https://open.spotify.com/album/1vljf6DgdCNGRX3GZz5Rul"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 189937,
-      "name": "I Need",
-      "url": "https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc"
-    },
-    {
       "added_at": "2026-09-25 04:02:58",
       "album": {
         "name": "When I Saw You Again",
@@ -1059,22 +1155,6 @@
       "duration_ms": 192000,
       "name": "When I Saw You Again",
       "url": "https://open.spotify.com/track/5DdmY05GZLzvkvbAHrUVYv"
-    },
-    {
-      "added_at": "2026-09-11 04:02:00",
-      "album": {
-        "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
-        "url": "https://open.spotify.com/album/18FCcZlQyBRvKEqyzEo7oq"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Scary Monsters & Nice Sprites (PhaseOne Remake)",
-      "url": "https://open.spotify.com/track/7e2zNm90ULXbzAm1NXfbac"
     },
     {
       "added_at": "2026-09-11 04:02:00",
@@ -1131,26 +1211,6 @@
       "duration_ms": 135828,
       "name": "WERK IT",
       "url": "https://open.spotify.com/track/2Wnk9lkIS376DsKsHvtsgQ"
-    },
-    {
-      "added_at": "2026-09-11 04:02:00",
-      "album": {
-        "name": "MAXED OUT",
-        "url": "https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2"
-      },
-      "artists": [
-        {
-          "name": "Jiqui",
-          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
-        },
-        {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
     },
     {
       "added_at": "2026-09-18 04:14:57",
@@ -1327,26 +1387,6 @@
       "duration_ms": 209828,
       "name": "Lately (feat. Jex)",
       "url": "https://open.spotify.com/track/3WSDoGL8yrK4xq0bBJQgbp"
-    },
-    {
-      "added_at": "2026-09-11 04:02:00",
-      "album": {
-        "name": "Beat Goes Boom",
-        "url": "https://open.spotify.com/album/4fHMOiOH0O4dhqlaDQ8F3A"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Beat Goes Boom",
-      "url": "https://open.spotify.com/track/77JRsNPS931vefQldOjsnT"
     },
     {
       "added_at": "2026-09-04 04:02:02",
@@ -1661,26 +1701,6 @@
       "url": "https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX"
     },
     {
-      "added_at": "2026-08-21 04:02:23",
-      "album": {
-        "name": "TTY",
-        "url": "https://open.spotify.com/album/5Gokr84dldnrggVaunCksN"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Cerdin",
-          "url": "https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB"
-        }
-      ],
-      "duration_ms": 226985,
-      "name": "TTY",
-      "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"
-    },
-    {
       "added_at": "2026-08-07 04:02:19",
       "album": {
         "name": "FROM DARKNESS, COMES LIGHT",
@@ -1839,22 +1859,6 @@
       "duration_ms": 243380,
       "name": "Eyes Cut Deeper - Crankdat Remix",
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
-    },
-    {
-      "added_at": "2026-07-03 04:16:11",
-      "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/4GwGVnX3g43iKuyjxd1s8o"
-      },
-      "artists": [
-        {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/0nLGprBGH6Znj5CzRHdBpX"
     },
     {
       "added_at": "2026-06-19 04:02:01",

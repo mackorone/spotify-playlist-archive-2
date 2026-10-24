@@ -1,13 +1,197 @@
 {
-  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: ALLDAY PROJECT) (Enjoy a playlist of songs that support music video features!) ",
-  "num_followers": 21039,
+  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: BABYMONSTER) (Enjoy a playlist of songs that support music video features!) ",
+  "num_followers": 21112,
   "original_name": "K-Pop Music Video Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+DigmSo/NmD3G9n9BCItm/LoZW",
+  "snapshot_id": "AAAAAE26mpAOZr2uuI7x+602iZoB+yBq",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
+      },
+      "artists": [
+        {
+          "name": "A2O LITE",
+          "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 181790,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "GO HARD",
+        "url": "https://open.spotify.com/album/1YN4zkwjw2YpdEwXnie8F8"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 187833,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/3VpPQbvLb354cZ3XK54zrs"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "Strange Muse",
+        "url": "https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\uae34 \uc18c\uc6d0 (Birthday Wish)",
+      "url": "https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "Mise en sc\u00e8ne",
+        "url": "https://open.spotify.com/album/2IcyuoBzNE2AaaRzbOORd4"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Mise en sc\u00e8ne",
+      "url": "https://open.spotify.com/track/0wIwrT28ZIAHdJsTgKhAt9"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
+    },
+    {
+      "added_at": "2026-10-23 04:59:08",
+      "album": {
+        "name": "I SPY - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "I SPY",
+      "url": "https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL"
+    },
     {
       "added_at": "2026-10-06 08:26:47",
       "album": {

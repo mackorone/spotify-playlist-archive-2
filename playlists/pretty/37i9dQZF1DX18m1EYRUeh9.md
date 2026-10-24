@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: tickertape
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,642 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,670 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 9 | [Terrarium](https://open.spotify.com/track/6Z7GmNPdIPkl5afh2e0EwS) | [Resavoir](https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV) | [Above the Clouds](https://open.spotify.com/album/6IT3XFem0qpEue9Q6kXOP3) | 1:25 |
 | 10 | [Lee’s Greenhouse \(feat\. Mei Semones\)](https://open.spotify.com/track/21tmsyOELNT4ZAjR4vAr3K) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Lee’s Greenhouse \(feat\. Mei Semones\)](https://open.spotify.com/album/5ggOmCNERfyCYg4k6iGoRi) | 3:55 |
 | 11 | [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 |
-| 12 | [Track 3](https://open.spotify.com/track/1AvaZrD67C2LSvQyvlb5en) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Frogs In A Pond](https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E) | 0:00 |
+| 12 | [Frog Technique](https://open.spotify.com/track/1AvaZrD67C2LSvQyvlb5en) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Frogs In A Pond](https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E) | 4:03 |
 | 13 | [Touché](https://open.spotify.com/track/6KRYD0KvEaWwO8K94zqwFN) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [Touché](https://open.spotify.com/album/3s9zPe7qmCiNwVCIZAViIZ) | 3:16 |
 | 14 | [Roses](https://open.spotify.com/track/3YFZBxVvgU7hMpxgEHXfdU) | [loopgarden](https://open.spotify.com/artist/4M9C2IXUroEUTQRiMKWM46), [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [LOOPS](https://open.spotify.com/album/04ADP4KpzsWSBLNDN7uKzj) | 2:54 |
 | 15 | [Axes](https://open.spotify.com/track/6T8BO4rFC9mRXASSioFFvc) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5), [Rachel Kitchlew](https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C) | [Axes](https://open.spotify.com/album/6YuJRP4GxVeiJfhaddETsl) | 2:49 |

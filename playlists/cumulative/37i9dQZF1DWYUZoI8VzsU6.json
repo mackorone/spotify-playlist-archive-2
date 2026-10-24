@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/02UgOQXlncifBfUMrb4PPQ"
+      },
+      "artists": [
+        {
+          "name": "Sterling Elza",
+          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184677,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/1WY3SAhzCJKccmpA5DmH3m"
+    },
+    {
+      "album": {
         "name": "Hate Waking Up",
         "url": "https://open.spotify.com/album/1rc4guQ07DCgHPdyWiusUy"
       },
@@ -1310,6 +1328,24 @@
       "duration_ms": 235253,
       "name": "Rattlesnake Preacher",
       "url": "https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7"
+    },
+    {
+      "album": {
+        "name": "Reason Is You",
+        "url": "https://open.spotify.com/album/0RY0VDAyTQt9YhM08ZvTxa"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150340,
+      "name": "Reason Is You",
+      "url": "https://open.spotify.com/track/1MTTqvstqjnsVw5jO4rt1q"
     },
     {
       "album": {

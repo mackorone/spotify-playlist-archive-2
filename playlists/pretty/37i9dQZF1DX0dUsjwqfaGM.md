@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,322 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,321 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 31 | [có nhau](https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 3:07 |
 | 32 | [FASHION RAPPER](https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO) | [Rockey](https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Adam, The Litder](https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT) | [FASHION RAPPER](https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW) | 3:25 |
 | 33 | [Hoàng Ku](https://open.spotify.com/track/2sCggTNr9EqiP7W97tnAIa) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Hoàng Ku](https://open.spotify.com/album/63sY910Q108Te3OjWqt1KH) | 3:03 |
-| 34 | [Gentle Bad](https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:56 |
+| 34 | [Gentle Bad \- Special Acoustic Version](https://open.spotify.com/track/7eH52MOG0HpwIQBbtlveuU) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad \(Special Acoustic Version\)](https://open.spotify.com/album/3VyRzYzL0tmMIiXYqo9UQI) | 3:36 |
 | 35 | [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 |
 | 36 | [úm ba la xì bùa](https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:33 |
 | 37 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 45 | [Do Em](https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 2:40 |
 | 46 | [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 |
 | 47 | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/track/1Si3UwZHOEUvayn45lcwqA) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/album/5mDCuDFwhlhKlmUBILSoRZ) | 3:07 |
-| 48 | [Da Key](https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 2:58 |
+| 48 | [Gentle Bad](https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:56 |
 | 49 | [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 |
 | 50 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
 

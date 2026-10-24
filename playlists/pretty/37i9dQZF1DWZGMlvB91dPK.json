@@ -619,18 +619,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Where We Dive",
-        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
+        "name": "Roots (Extended)",
+        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
       },
       "artists": [
         {
-          "name": "MEDICIS",
-          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
         }
       ],
-      "duration_ms": 240150,
-      "name": "Timecrash",
-      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
+      "duration_ms": 176899,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "Where We Dive",
+        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
+      },
+      "artists": [
+        {
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+        }
+      ],
+      "duration_ms": 240150,
+      "name": "Timecrash",
+      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 212618,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Roots (Extended)",
-        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
-        }
-      ],
-      "duration_ms": 176899,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
     },
     {
       "added_at": "2025-11-20 17:00:08",

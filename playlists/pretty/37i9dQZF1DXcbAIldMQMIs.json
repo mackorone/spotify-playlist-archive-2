@@ -1,6 +1,6 @@
 {
   "description": "crash out.",
-  "num_followers": 895769,
+  "num_followers": 895865,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-10-21 20:49:58",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
-    },
-    {
-      "added_at": "2026-10-21 20:49:58",
-      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2026-10-21 20:49:58",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     },
     {
       "added_at": "2026-10-21 20:49:58",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-10-21 20:49:58",
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 156642,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII"
+    },
+    {
+      "added_at": "2026-10-21 20:49:58",
+      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
-    },
-    {
-      "added_at": "2026-10-21 20:49:58",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 156642,
-      "name": "It's ok I'm ok",
-      "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII"
     },
     {
       "added_at": "2026-10-21 20:49:58",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-10-21 20:49:58",
       "album": {
+        "name": "FMA",
+        "url": "https://open.spotify.com/album/2AUhyBQANk5FKHD6WCbxja"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 201489,
+      "name": "You Don't Own Me (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/6KI1ZpZWYAJLvmVhCJz65G"
+    },
+    {
+      "added_at": "2026-10-21 20:49:58",
+      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
-    },
-    {
-      "added_at": "2026-10-21 20:49:58",
-      "album": {
-        "name": "FMA",
-        "url": "https://open.spotify.com/album/2AUhyBQANk5FKHD6WCbxja"
-      },
-      "artists": [
-        {
-          "name": "SAYGRACE",
-          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 201489,
-      "name": "You Don't Own Me (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/6KI1ZpZWYAJLvmVhCJz65G"
     },
     {
       "added_at": "2026-10-21 20:49:58",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-21 20:49:58",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 316066,
-      "name": "Throw Away",
-      "url": "https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv"
-    },
-    {
-      "added_at": "2026-10-21 20:49:58",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 248934,
       "name": "Norman fucking Rockwell",
       "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
+    },
+    {
+      "added_at": "2026-10-21 20:49:58",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 316066,
+      "name": "Throw Away",
+      "url": "https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv"
     },
     {
       "added_at": "2026-10-21 20:49:58",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-21 20:49:58",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261228,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ"
-    },
-    {
-      "added_at": "2026-10-21 20:49:58",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 210787,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
+    },
+    {
+      "added_at": "2026-10-21 20:49:58",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261228,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ"
     },
     {
       "added_at": "2026-10-21 20:49:58",

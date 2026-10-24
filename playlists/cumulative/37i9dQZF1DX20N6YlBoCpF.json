@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Tasch\u00e9, Andriette, Steve Hofmeyr, Pieter Strydom en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Tasch\u00e9, Andriette, Steve Hofmeyr, Ruhan Du Toit, Dewald Wasserfall en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -18554,7 +18554,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 213378,
       "name": "Hart Van 'N Leeu",
       "url": "https://open.spotify.com/track/7iB7dNr2JGg94kLCWOd4z2"
@@ -26409,6 +26409,24 @@
     },
     {
       "album": {
+        "name": "Kop En Hart",
+        "url": "https://open.spotify.com/album/6cYjGiP9sVhH3JtVWEy3Ux"
+      },
+      "artists": [
+        {
+          "name": "Dewald Wasserfall",
+          "url": "https://open.spotify.com/artist/4VoAGmLlqW8ow5WC6mNwtU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166507,
+      "name": "Kop En Hart",
+      "url": "https://open.spotify.com/track/6Af67yNj3jZRogvlkgS2JR"
+    },
+    {
+      "album": {
         "name": "Kop In Die Bos",
         "url": "https://open.spotify.com/album/6CoFpe9op1r6Jp9NfXVpkl"
       },
@@ -29534,7 +29552,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201120,
       "name": "Lof",
       "url": "https://open.spotify.com/track/7iZjgjjgGzvtLneThjDLto"
@@ -37325,6 +37343,24 @@
     },
     {
       "album": {
+        "name": "Pa Vir Kersfees",
+        "url": "https://open.spotify.com/album/7pktZGVKUElzcsB6aC2zqH"
+      },
+      "artists": [
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207156,
+      "name": "Pa Vir Kersfees",
+      "url": "https://open.spotify.com/track/2gi96FQoH0G25uMLEwmTRB"
+    },
+    {
+      "album": {
         "name": "Paaie",
         "url": "https://open.spotify.com/album/1Lk6SxcM5PQeALdtTd01Ai"
       },
@@ -38416,6 +38452,24 @@
       "duration_ms": 209670,
       "name": "PLOFSTOF",
       "url": "https://open.spotify.com/track/1wfxz99hrx15z5TVKpgoNE"
+    },
+    {
+      "album": {
+        "name": "Poenkoenoenks",
+        "url": "https://open.spotify.com/album/7DQpZkhGUXFF9aqMkO1pG3"
+      },
+      "artists": [
+        {
+          "name": "Keith Juluka",
+          "url": "https://open.spotify.com/artist/4J85fWly3JV4ePeIAWQ5zj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205486,
+      "name": "Poenkoenoenks",
+      "url": "https://open.spotify.com/track/14P3yLEiGiQRmwX0130QAW"
     },
     {
       "album": {

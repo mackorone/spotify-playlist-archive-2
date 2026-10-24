@@ -4,7 +4,7 @@
 
 > back roads up loud with Dexter and The Moonrocks and Avery Anna
 
-98 songs - 5 hr 28 min
+100 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 | 2025-09-05 |  |
 | [Halfway To Hell](https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 2:58 | 2025-09-05 | 2026-09-19 |
 | [Hate Me](https://open.spotify.com/track/64pCTjqndsCi5gVnChODLo) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Hate Me](https://open.spotify.com/album/1cBZ5P37RqLx5OmypUHfPD) | 3:25 | 2026-10-09 |  |
+| [Hate Myself](https://open.spotify.com/track/1WY3SAhzCJKccmpA5DmH3m) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Hate Myself](https://open.spotify.com/album/02UgOQXlncifBfUMrb4PPQ) | 3:04 | 2026-10-23 |  |
 | [Hate Waking Up](https://open.spotify.com/track/4FIEIw7iVqP5YnpqKhZOMB) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hate Waking Up](https://open.spotify.com/album/1rc4guQ07DCgHPdyWiusUy) | 3:28 | 2025-10-24 |  |
 | [Heavy Metal](https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Heavy Metal](https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy) | 2:34 | 2025-09-05 |  |
 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 | 2025-09-05 |  |
@@ -78,6 +79,7 @@
 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 | 2025-09-05 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3uvbS1Zckk8ZnHEfYcnDPx) | [Will Slater](https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD) | [Rabbit Hole](https://open.spotify.com/album/0lj6XoHKchGVYWKH6NabCJ) | 4:04 | 2026-05-29 | 2026-09-19 |
 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 | 2025-09-05 |  |
+| [Reason Is You](https://open.spotify.com/track/1MTTqvstqjnsVw5jO4rt1q) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Reason Is You](https://open.spotify.com/album/0RY0VDAyTQt9YhM08ZvTxa) | 2:30 | 2026-10-23 |  |
 | [Relapse](https://open.spotify.com/track/78DcrUOhBhVod09vFiXn7P) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 2:38 | 2025-09-05 |  |
 | [Ride](https://open.spotify.com/track/53VPFVW3aLdNlb4gNetXwS) | [Fox N' Vead](https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm) | [Ride](https://open.spotify.com/album/7G36cofedpDe1Y5JvuAvnw) | 3:18 | 2026-05-29 | 2026-09-19 |
 | [Right Now](https://open.spotify.com/track/1C28jPzvhdWeyfNrkPaa2Z) | [Telander](https://open.spotify.com/artist/6Pe957QMENAWMZF7ityC81), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Right Now](https://open.spotify.com/album/026tatxGuuqA3HS6qrIZBG) | 2:52 | 2026-08-28 | 2026-09-19 |

@@ -4,14 +4,14 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-549 songs - 1 day 10 hr 47 min
+550 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Me](https://open.spotify.com/track/0W8xLPtCErwDQvi35pUlQj) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [messy bag](https://open.spotify.com/album/7DqgqX97YgOFzw2MT0XAjO) | 2:44 | 2023-10-24 | 2023-11-02 |
 | [10 seconds of falling in love](https://open.spotify.com/track/1nXwAPZDw872vqYdL71HKs) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [10 seconds of falling in love](https://open.spotify.com/album/1UqpNBBcnN8jUt8eFQmgrE) | 3:44 | 2023-02-09 | 2023-04-04 |
 | [100](https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [100](https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q) | 3:07 | 2024-11-19 | 2025-01-29 |
-| [100万回の「I love you」](https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF) | [Rake](https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH) | [First Sight](https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR) | 3:58 | 2026-05-26 |  |
+| [100万回の「I love you」](https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF) | [Rake](https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH) | [First Sight](https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR) | 3:58 | 2026-05-26 | 2026-10-24 |
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2023-02-09 |  |
 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 | 2025-11-05 |  |
 | [1991](https://open.spotify.com/track/33ilcTkjNwGmeXZqwM2qdy) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [1991](https://open.spotify.com/album/4QJ7NdBhEfuB8jmziEObfn) | 3:58 | 2025-06-10 | 2025-06-18 |
@@ -218,6 +218,7 @@
 | [TOKIDOKI](https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [TOKIDOKI](https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe) | 3:20 | 2023-06-27 | 2023-08-05 |
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-10 | 2025-12-03 |
 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 | 2025-08-19 |  |
+| [Touch](https://open.spotify.com/track/27zRRREQi2sYd5VsDUcFhF) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Touch](https://open.spotify.com/album/7fuPzEGiLwEjGAzd7JzUze) | 3:25 | 2026-10-20 |  |
 | [True Love](https://open.spotify.com/track/5EqNFRYvdvHo6kfKTB3qgF) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE WINTER MAGIC](https://open.spotify.com/album/7EPhcoQIaHON3W29MMFDpF) | 2:40 | 2025-12-23 | 2025-12-25 |
 | [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 | 2025-10-21 | 2026-02-04 |
 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 | 2023-08-04 |  |

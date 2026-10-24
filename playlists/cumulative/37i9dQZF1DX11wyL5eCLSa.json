@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Almanautas",
+        "url": "https://open.spotify.com/album/2ioOYaqACPikyUrNZuq3Ce"
+      },
+      "artists": [
+        {
+          "name": "Esper\u00f3n",
+          "url": "https://open.spotify.com/artist/4VD0eThiy8dR6NTT0ZulGI"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266603,
+      "name": "Almanautas",
+      "url": "https://open.spotify.com/track/3FF7bOJ6b6zqMV4yYjm30G"
+    },
+    {
+      "album": {
         "name": "Almas Rotas",
         "url": "https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 264749,
       "name": "Amanecidos",
       "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184680,
       "name": "Cantar y amar",
       "url": "https://open.spotify.com/track/2s0rlgH5aEemPbIRwLeRnm"
@@ -5117,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/08vSgyoH5tOsVHolqqcOmx"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172590,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/4cWw0TPimL3a3OATw639lg"
+    },
+    {
+      "album": {
         "name": "Miren para all\u00e1!",
         "url": "https://open.spotify.com/album/7qabCQoyfTHRLKBnSDNdz6"
       },
@@ -6114,7 +6150,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 242230,
       "name": "Fiesta en la Ciudad",
       "url": "https://open.spotify.com/track/6NAoDrD7PUfz0S1k8HqByh"
@@ -6906,6 +6942,24 @@
       "duration_ms": 212222,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/625WlVAJOwUYXt4A6pgQke"
+    },
+    {
+      "album": {
+        "name": "HP HOP",
+        "url": "https://open.spotify.com/album/40EDo17B0uJQziHtoqz1GA"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "HP HOP",
+      "url": "https://open.spotify.com/track/3baMOlktV95cOV1c4ZDBjR"
     },
     {
       "album": {

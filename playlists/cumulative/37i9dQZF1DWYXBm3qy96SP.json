@@ -9034,7 +9034,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 263972,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
@@ -9552,7 +9552,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 212272,
       "name": "dark heaven",
       "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
@@ -23984,7 +23984,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Lucky, Forever",
       "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
@@ -31552,6 +31552,24 @@
       "duration_ms": 223931,
       "name": "RE\uff1a\u4eba\u662f",
       "url": "https://open.spotify.com/track/5WuKGARwktpTcoGhbBiaqh"
+    },
+    {
+      "album": {
+        "name": "Ribbon Factory",
+        "url": "https://open.spotify.com/album/19xC9OCK7OdpU7e81iNsvL"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254459,
+      "name": "Ribbon Factory",
+      "url": "https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P"
     },
     {
       "album": {

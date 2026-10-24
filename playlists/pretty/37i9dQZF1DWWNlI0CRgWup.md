@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,841 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,847 likes - 76 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 70 | [Nous on a vraiment bossé beaucoup](https://open.spotify.com/track/6vxx7W2zwPCqW1OyROxev5) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Nous on a vraiment bossé beaucoup](https://open.spotify.com/album/0NIwMQ0x4AawbwMhba3DLZ) | 2:33 |
 | 71 | [La vie en rose](https://open.spotify.com/track/7i2G8c2N7iJ8kDoZYsGXw0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [La vie en rose](https://open.spotify.com/album/5PNp46dxzHWeLqo5BoCGU9) | 3:24 |
 | 72 | [Y'a un monde](https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Y'a un monde](https://open.spotify.com/album/5LZOhA2ItAo67jrYJ5dPmV) | 4:28 |
-| 73 | [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
+| 73 | [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
 | 74 | [Sémaphore](https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Sémaphore](https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY) | 2:44 |
 | 75 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 76 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 |

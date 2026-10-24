@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/2sefeLtydNUSk4OhEsYJLC"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236874,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/5tcI4HlRw4Z1fOtTOsf2qp"
+    },
+    {
+      "album": {
         "name": "Algo M\u00e1s / Az\u00facar Amargo",
         "url": "https://open.spotify.com/album/0O2WIytgYKQdMmIfi0cQFm"
       },
@@ -692,7 +714,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 271516,
       "name": "Amor de Papel / Enamorado de Ti / En Libertad",
       "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
@@ -3416,7 +3438,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 191177,
       "name": "El Trato",
       "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
@@ -5236,7 +5258,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
@@ -5842,7 +5864,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 238576,
       "name": "Los Gatos No Ladran",
       "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
@@ -12888,6 +12910,28 @@
       "duration_ms": 245845,
       "name": "Yo Quer\u00eda (Estadio V\u00e9lez)",
       "url": "https://open.spotify.com/track/1THCr8ykaAhoXoX1WpQWUb"
+    },
+    {
+      "album": {
+        "name": "Yo, tu amor infiel / Camina y ven",
+        "url": "https://open.spotify.com/album/2tir3kWkttLk9urAjrTlUJ"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250497,
+      "name": "Yo, tu amor infiel / Camina y ven",
+      "url": "https://open.spotify.com/track/559AodsFM1pHFFLazAUFYU"
     },
     {
       "album": {

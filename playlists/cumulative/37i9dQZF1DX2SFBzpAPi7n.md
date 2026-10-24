@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KACHISAN\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,228 songs - 3 day 2 hr 41 min
+1,230 songs - 3 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Another Day](https://open.spotify.com/track/6dKQ8gHWUIHOkKPhPYyEk1) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB), [노바소닉](https://open.spotify.com/artist/2zIq92ejtjxbwJ01a6VKkE) | [Another Day](https://open.spotify.com/album/1OGcVFDHhXEKwktaBaHofl) | 4:11 | 2022-04-22 | 2022-07-29 |
 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 | 2022-09-05 | 2022-10-01 |
 | [Anthems of Defiance](https://open.spotify.com/track/1IxFHdxSdC5vK1mvxCE0BM) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 5:06 | 2024-10-24 | 2024-12-19 |
-| [Antifreeze](https://open.spotify.com/track/745W6tNeXVKjskHoCsMJvV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [201 \(Special Edition\)](https://open.spotify.com/album/2mQh6ylsGMRgZhLMrxK01X) | 4:03 | 2025-03-17 | 2025-04-12 |
+| [Antifreeze](https://open.spotify.com/track/745W6tNeXVKjskHoCsMJvV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [201 \(Special Edition\)](https://open.spotify.com/album/2mQh6ylsGMRgZhLMrxK01X) | 4:03 | 2025-03-17 |  |
 | [Antihero](https://open.spotify.com/track/57Y7HtA5vzRnuX30V9DA6v) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [her](https://open.spotify.com/album/1tIaKSfXa0tAFU5KYv45qP) | 4:16 | 2022-04-22 | 2022-07-26 |
 | [APEX](https://open.spotify.com/track/5Fo2XhCLFLa1u4yK08VWbi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 5:30 | 2023-12-21 | 2024-05-10 |
 | [Around You](https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 3:42 | 2022-06-03 | 2022-06-14 |
@@ -157,7 +157,7 @@
 | [Camelia](https://open.spotify.com/track/7osu6K184SiV1Hve4Lp0KK) | [OmO](https://open.spotify.com/artist/0qd4ZITXi1pNRIuhUst0h7) | [Camelia](https://open.spotify.com/album/6m1RjLrIM0P3z7SToNL32D) | 4:00 | 2024-12-18 | 2025-02-19 |
 | [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-07-07 | 2025-07-25 |
 | [CAN'T KEEP SMILING!](https://open.spotify.com/track/6ZPIZDuCF5qcVZIcKgifRN) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CAN'T KEEP SMILING!](https://open.spotify.com/album/1kkbJxIuCkl14Pd43HCKUQ) | 3:14 | 2025-03-31 | 2025-04-23 |
-| [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 | 2026-05-26 |  |
+| [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 | 2026-05-26 | 2026-10-24 |
 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2022-12-13 |
 | [cares](https://open.spotify.com/track/0JSRc0gSUIsXzo4xHe9BUo) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [cares](https://open.spotify.com/album/49jzDG0UlTvh46TVAYZ3cJ) | 4:34 | 2025-03-17 | 2025-04-12 |
 | [Cat](https://open.spotify.com/track/7LGxie1fkXm3vHQvjijoBw) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Cat](https://open.spotify.com/album/2KSOEIBLOuuhW31M9TWpjQ) | 3:22 | 2025-04-23 | 2025-05-08 |
@@ -238,7 +238,7 @@
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
 | [Diary](https://open.spotify.com/track/3vQsUy6jyZpmc0N4EVQ040) | [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [Diary](https://open.spotify.com/album/284VUSuILmOtajZTNXjpeq) | 2:53 | 2024-04-09 | 2024-05-10 |
 | [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 | 2026-01-22 |
-| [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 |  |
+| [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 | 2026-10-24 |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
 | [Dive!](https://open.spotify.com/track/0Z39zxpbzamKeWNLKd3tRE) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dive!](https://open.spotify.com/album/1LULxDQtvUx6miaSB3nTaY) | 3:11 | 2025-10-10 | 2025-11-07 |
@@ -295,6 +295,7 @@
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 |  |
 | [EVER](https://open.spotify.com/track/7kZDgpf6ebA3dlgt0vdRv2) | [Hebi](https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv) | [EVER](https://open.spotify.com/album/6Hd2ZOJ8Lt8ePovI7ZFpTw) | 3:21 | 2025-03-31 | 2025-04-12 |
 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 | 2025-05-28 | 2025-06-23 |
+| [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 | 2026-10-23 |  |
 | [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 | 2025-08-12 | 2025-09-04 |
 | [exchange \- student](https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [exchange \- student](https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt) | 3:09 | 2025-07-03 | 2025-07-15 |
 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2023-10-12 |
@@ -721,6 +722,7 @@
 | [Not Out](https://open.spotify.com/track/3vpxOqE2uaaH3lf09soVnA) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [Not Out](https://open.spotify.com/album/0yK6IfmwKH9FuuZoFTkHtN) | 3:13 | 2025-03-19 | 2025-04-12 |
 | [Nothin' Without You](https://open.spotify.com/track/2hV74m69tD0OavP0g6TEn6) | [Hangsung](https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh) | [Nothin' Without You](https://open.spotify.com/album/59KZBxgwyG3TaNQ8LjmIbO) | 2:42 | 2024-06-05 | 2024-11-07 |
 | [nothing but](https://open.spotify.com/track/4tVxP9VLIgzD9oRLmzioQT) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:21 | 2023-09-04 | 2023-11-10 |
+| [November Rain](https://open.spotify.com/track/14Np50ZA2kLzYwtJezBFqJ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [November Rain](https://open.spotify.com/album/2538KLlnCjm3paWVwn5MjX) | 4:18 | 2026-10-23 |  |
 | [Now \(Feat\. THAMA\)](https://open.spotify.com/track/3VAD6IG91tzUaSlPeei63M) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:55 | 2022-04-22 | 2022-07-27 |
 | [Now or Never](https://open.spotify.com/track/1mYOaI1QRsxA1c0ZHEx4jD) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:45 | 2024-11-06 | 2024-12-19 |
 | [Now, love](https://open.spotify.com/track/6TuabkccWNyU5aFBYB9kPT) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [﻿Cinderella at 2AM OST Part 7](https://open.spotify.com/album/5h0ANL1dEmueSADLxmbGPJ) | 3:35 | 2024-11-06 | 2024-12-03 |
@@ -753,7 +755,7 @@
 | [OVERMAN](https://open.spotify.com/track/4F9HBpY1IL5uNSjJGPT905) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 1](https://open.spotify.com/album/1AMxCmk7KLonC7oO33Ii7S) | 3:44 | 2025-01-30 | 2025-03-18 |
 | [Painful truth](https://open.spotify.com/track/1CexlpmbXbUZuaxoNpbFqf) | [OVerdrive Philosophy](https://open.spotify.com/artist/55kBNayNJ3XUBKnp7hsNQa) | [OVerdrive Philosophy](https://open.spotify.com/album/0sCN9t3HHPdhaZNkKtbKs1) | 6:15 | 2022-05-11 | 2022-07-22 |
 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 | 2025-03-31 |  |
-| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
+| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 | 2026-10-24 |
 | [Paper Chase](https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Paper Chase](https://open.spotify.com/album/15DhkRELmap2H04SghgrDR) | 2:47 | 2026-04-21 | 2026-04-28 |
 | [Paradise](https://open.spotify.com/track/5L9aX5078Wk0qMFvrdI40j) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:56 | 2022-04-22 | 2022-07-27 |
 | [Paragliding](https://open.spotify.com/track/57XdCKf3Pv6n8qUuYe8W6p) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Paragliding](https://open.spotify.com/album/6YFoJLOuWOrdPqpeOehcX3) | 4:01 | 2023-11-10 | 2024-05-10 |

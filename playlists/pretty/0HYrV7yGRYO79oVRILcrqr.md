@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,916 likes - 174 songs - 11 hr 5 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,918 likes - 176 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 153 | [Send Your Best](https://open.spotify.com/track/559fbHuOhwUqVq3pkJcY2e) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [Send Your Best](https://open.spotify.com/album/6zSAbp740eRa8IU5oMxC80) | 3:51 |
 | 154 | [Healed by grace](https://open.spotify.com/track/4lACGHtRSMAdxITk9vkxKb) | [Faby Heavenly Rock](https://open.spotify.com/artist/6yYt5hgzgGJoHX0zzte2GW) | [Healed by grace](https://open.spotify.com/album/0ZeYzdDh2rfiuBCS0N0OVK) | 4:58 |
 | 155 | [Foot Down On The Freeway](https://open.spotify.com/track/3J6ClwxSl6tbB1MbuIoJzx) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Foot Down On The Freeway](https://open.spotify.com/album/7i5c0fXsKlpQbUmMUK3Iqy) | 3:11 |
-| 156 | [Kommst Du Mit](https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2) | [Con:ter](https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb) | [Con:ter](https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN) | 3:31 |
+| 156 | [Kommst Du Mit](https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2) | [Con:ter](https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb) | [Con:ter](https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN) | 3:33 |
 | 157 | [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 |
 | 158 | [Adam and Eve \- Eden Mix](https://open.spotify.com/track/3IvdG736Iecgv3kcMgT6R6) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Adam and Eve \(Eden Mix\)](https://open.spotify.com/album/6CDVznzZkibrHhoX94mKm1) | 3:46 |
 | 159 | [Love Song](https://open.spotify.com/track/2pBWAh4CFdlt0cVvkxY4eo) | [Vickwon](https://open.spotify.com/artist/3kzbCHuLMhl5RCsAPRkGhi) | [Love Song](https://open.spotify.com/album/4O1OL52TZkdGed1DgWvjiz) | 2:12 |
@@ -182,5 +182,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 172 | [Don't Count On Me](https://open.spotify.com/track/3kVdhVxmzNjX0JGoklTyLJ) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Don't Count On Me](https://open.spotify.com/album/5sGpj8Y0eFEdR3uKIsaN0t) | 2:50 |
 | 173 | [Love & Thunder](https://open.spotify.com/track/7JwU1ozmYIVZZiC0wkHlgu) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Love & Thunder](https://open.spotify.com/album/0CDKCOhgkwqMwx0Ku1Y7Sg) | 3:48 |
 | 174 | [Piensalo dos veces](https://open.spotify.com/track/6c1YfviezL0YtuQGNslWZi) | [Rokdëbil](https://open.spotify.com/artist/6XwejHVkpCvWg3DTD249Lf) | [Piensalo dos veces](https://open.spotify.com/album/74DWhau5rAHpE1XerTaVxW) | 4:55 |
+| 175 | [Restless Alibi](https://open.spotify.com/track/5SGbLM7YQ1GdXJ2B3K4FVG) | [Echoviolet](https://open.spotify.com/artist/5Jrx7jtjiSPI8FAsjfqy3l) | [Restless Alibi](https://open.spotify.com/album/4yesKLWzqTfQ2yFPQOm1WA) | 3:20 |
+| 176 | [Miedo](https://open.spotify.com/track/4yzqWVHQIiwdHruw2ZCZm7) | [Alejandro Palma](https://open.spotify.com/artist/3tcRwr3qKkvcHambpIo4rU) | [Miedo](https://open.spotify.com/album/4Yn6Yko2J8v9JlVOWoEX7E) | 4:31 |
 
-Snapshot ID: `AAAM26TZY6ZDqqKkQeHBgnQQVGB0cT+r`
+Snapshot ID: `AAAM3R37uin/aK7idx/GCF+rvsJVrkyZ`

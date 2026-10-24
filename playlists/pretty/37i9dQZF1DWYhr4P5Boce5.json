@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210372,
+  "num_followers": 210381,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "More Like Jesus",
-        "url": "https://open.spotify.com/album/5WDh2LvUaeJJueZknrvADZ"
-      },
-      "artists": [
-        {
-          "name": "Micah Fletcher",
-          "url": "https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth"
-        }
-      ],
-      "duration_ms": 182028,
-      "name": "More Like Jesus",
-      "url": "https://open.spotify.com/track/2aZ1i4ngczUSujMpuTLKnn"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Over And Underneath",
         "url": "https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 241826,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "More Like Jesus",
+        "url": "https://open.spotify.com/album/5WDh2LvUaeJJueZknrvADZ"
+      },
+      "artists": [
+        {
+          "name": "Micah Fletcher",
+          "url": "https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth"
+        }
+      ],
+      "duration_ms": 182028,
+      "name": "More Like Jesus",
+      "url": "https://open.spotify.com/track/2aZ1i4ngczUSujMpuTLKnn"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "DANCING ON YOUR OWN (Wedding Version)",
+        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "DANCING ON YOUR OWN - Wedding Version",
+      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "DANCING ON YOUR OWN (Wedding Version)",
-        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "DANCING ON YOUR OWN - Wedding Version",
-      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Pray With",
+        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        }
+      ],
+      "duration_ms": 159166,
+      "name": "Pray With",
+      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Pray With",
-        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
       },
       "artists": [
         {
-          "name": "Justin Radford",
-          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
         }
       ],
-      "duration_ms": 159166,
-      "name": "Pray With",
-      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
+      "duration_ms": 221183,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -823,22 +839,6 @@
       "duration_ms": 151016,
       "name": "i do",
       "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1007,26 +1007,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Kingdom Business: Season 1",
-        "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
       },
       "artists": [
         {
-          "name": "Serayah",
-          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
-        },
-        {
-          "name": "AHJAH",
-          "url": "https://open.spotify.com/artist/4GAAdeyX5h9aUxbZ7m0OCF"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 248926,
-      "name": "Crazy Kinda Love",
-      "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1055,18 +1047,26 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+        "name": "Kingdom Business: Season 1",
+        "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        },
+        {
+          "name": "AHJAH",
+          "url": "https://open.spotify.com/artist/4GAAdeyX5h9aUxbZ7m0OCF"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+      "duration_ms": 248926,
+      "name": "Crazy Kinda Love",
+      "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
-      },
-      "artists": [
-        {
-          "name": "Drakeford",
-          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
-        }
-      ],
-      "duration_ms": 158260,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/4f13Etjf3KTeNZBFhj6MVy"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 216285,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/2AD7KwyYNkymVEHubojdMc"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
+      },
+      "artists": [
+        {
+          "name": "Drakeford",
+          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 134124,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "nine things & true love",
         "url": "https://open.spotify.com/album/0fsCenVJIamz57SgY5b17z"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 179285,
       "name": "true love",
       "url": "https://open.spotify.com/track/53NBKYQU6gkojWBCYmJcfT"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 134124,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Forever the Love of My Life",
-        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Forever the Love of My Life",
-      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "PASSIONATE",
         "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 152842,
       "name": "PASSIONATE",
       "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Forever the Love of My Life",
+        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Forever the Love of My Life",
+      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "DANCE (WITH YOUR SOUL)",
         "url": "https://open.spotify.com/album/6VtVntYFN7Nj6OBUvCgltN"
       },
@@ -1411,38 +1395,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
         }
       ],
-      "duration_ms": 287662,
-      "name": "What Matters (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1463,6 +1427,42 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 287662,
+      "name": "What Matters (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Lions and Liars",
-        "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
-      },
-      "artists": [
-        {
-          "name": "Sho Baraka",
-          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
-        },
-        {
-          "name": "J.R.",
-          "url": "https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "We Can Be More",
-      "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St"
       },
@@ -1679,22 +1659,38 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Tuff Luv",
-        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
+        "name": "Lions and Liars",
+        "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
       },
       "artists": [
         {
-          "name": "Chris Caro",
-          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
         },
         {
-          "name": "Cristine Toca",
-          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
+          "name": "J.R.",
+          "url": "https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK"
         }
       ],
-      "duration_ms": 161020,
-      "name": "Tuff Luv",
-      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
+      "duration_ms": 192893,
+      "name": "We Can Be More",
+      "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "If I Were an R&B Singer",
+        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Free Fallin",
+      "url": "https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1715,18 +1711,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "If I Were an R&B Singer",
-        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
+        "name": "Tuff Luv",
+        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
       },
       "artists": [
         {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+          "name": "Chris Caro",
+          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+        },
+        {
+          "name": "Cristine Toca",
+          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
         }
       ],
-      "duration_ms": 199125,
-      "name": "Free Fallin",
-      "url": "https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c"
+      "duration_ms": 161020,
+      "name": "Tuff Luv",
+      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
     }
   ],
   "unique_name": "Higher Love",

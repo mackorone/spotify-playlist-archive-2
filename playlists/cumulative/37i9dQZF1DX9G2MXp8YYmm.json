@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190333,
       "name": "Balkon",
       "url": "https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek"
@@ -13304,6 +13304,24 @@
       "duration_ms": 170224,
       "name": "yaz\u0131k ettin",
       "url": "https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada"
+    },
+    {
+      "album": {
+        "name": "Ya\u011fs\u0131n",
+        "url": "https://open.spotify.com/album/6e9FLf85yb8DyWFGl6yN1z"
+      },
+      "artists": [
+        {
+          "name": "Tekir",
+          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219016,
+      "name": "Ya\u011fs\u0131n",
+      "url": "https://open.spotify.com/track/1JifEOO71jJqh8ZGwYvOSW"
     },
     {
       "album": {

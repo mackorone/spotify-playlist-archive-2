@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-701 songs - 1 day 11 hr 37 min
+705 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Both Sides Now](https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Both Sides Now](https://open.spotify.com/album/6em41apjqOtmJadQCcmysZ) | 3:48 | 2022-08-01 | 2023-06-09 |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1iqyhHBZd215NabeMpAP32) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0QS4oIUE36xE3CxYAacPRB) | 2:47 | 2024-02-09 |  |
 | [Boy With Luv](https://open.spotify.com/track/264jgmazhgUbdNT596RR2m) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [Boy With Luv](https://open.spotify.com/album/4mgFqVlyDALdVxPcbawqRn) | 3:38 | 2023-01-20 | 2023-09-08 |
+| [Boys Don’t Cry](https://open.spotify.com/track/28ClGvKVQPrH0L7b78OyWg) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Boys Don’t Cry](https://open.spotify.com/album/6QiKGOfYSqmP5tC5vA3aYI) | 2:38 | 2026-10-23 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/2hf6gQjGCxvwVmNsQ8c8Yo) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Bridge Over Troubled Water](https://open.spotify.com/album/1XGXCsHk3k6YH3ktr1ylA9) | 2:29 | 2024-02-09 |  |
 | [Bridge Over Troubled Water \- Piano Version](https://open.spotify.com/track/6Bhp4KBC5US8YbnIDX29kX) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:49 | 2022-12-02 | 2023-09-01 |
 | [Bright Eyes](https://open.spotify.com/track/4H0fcFytpj3k8uxbV4LDyD) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [Bright Eyes](https://open.spotify.com/album/4VAiaO1FM576WoLNT2cmIz) | 3:37 | 2023-01-06 | 2025-10-25 |
@@ -178,6 +179,7 @@
 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-04-14 | 2026-03-05 |
 | [Espresso](https://open.spotify.com/track/6IrXpR6VybCIatiUBfD8Jd) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Espresso](https://open.spotify.com/album/7tcFWmY3xY7yXX2BUTgl7Z) | 3:45 | 2024-09-06 | 2026-03-05 |
 | [Eternal Flame](https://open.spotify.com/track/4zXb3bG1AiIrXEL1UtqcsB) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Eternal Flame](https://open.spotify.com/album/5O2ViaBo8ZNNkYx3GnxxXY) | 3:10 | 2022-09-30 | 2026-03-05 |
+| [Eternal Flame](https://open.spotify.com/track/0NE3Q40a3jY025iNrZtkhs) | [Lea Jacobs](https://open.spotify.com/artist/47hAjQhncGCM96kZomTPrn) | [Eternal Flame](https://open.spotify.com/album/2OndPM5px1lyKIXgW0dOM3) | 2:42 | 2026-10-23 |  |
 | [Everglow](https://open.spotify.com/track/0vu0tbVqCICerh2HG2LKJG) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Everglow](https://open.spotify.com/album/7hA5tFUhR00OnXN5OU7YM9) | 3:13 | 2022-01-21 | 2025-10-25 |
 | [Everglow](https://open.spotify.com/track/1q1boAVz5fOwzkWYV8IzUA) | [Valentina Canta](https://open.spotify.com/artist/3W9CjATjROYf2TXKRV7Ddk) | [Everglow](https://open.spotify.com/album/0VCxQ1inAd7BZlpXwj1x5W) | 2:38 | 2023-01-20 | 2023-04-14 |
 | [Every Breath You Take](https://open.spotify.com/track/1RjNPuM8U0SWtPTnUzIXhG) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Every Breath You Take](https://open.spotify.com/album/5tpnMfk0ZIYsjnwwsmzntv) | 2:45 | 2022-12-02 | 2026-03-05 |
@@ -542,6 +544,7 @@
 | [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-10-28 | 2023-09-08 |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 | 2025-10-25 |
 | [Streets Of London](https://open.spotify.com/track/7vT3wxlUc5EJ2jkz6yszVq) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Streets Of London](https://open.spotify.com/album/0EbzcBOviEHI4OCNlP9VgP) | 3:41 | 2024-04-15 | 2026-03-05 |
+| [stupid song](https://open.spotify.com/track/7G4Nd3xIm2kM8O8zPgyuz9) | [Jimmy Jenner](https://open.spotify.com/artist/7AnP0BSXZK97TjN7OjiKD5) | [stupid song](https://open.spotify.com/album/0rdVDQATmnFeG7VhBjA3jU) | 2:47 | 2026-10-23 |  |
 | [Summer Of '69 \- Piano Version](https://open.spotify.com/track/4qQaGERlp7y1Uhe8B6rQIk) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:33 | 2022-12-02 | 2023-06-03 |
 | [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2024-03-22 |  |
 | [Sunroof](https://open.spotify.com/track/5jU1SM9KBUETJrb4QdTR5l) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [INDUSTRY BABY](https://open.spotify.com/album/4aUWDI0XA6M75Yfu3LD7tr) | 2:25 | 2022-12-02 | 2023-06-03 |
@@ -564,6 +567,7 @@
 | [Take On Me](https://open.spotify.com/track/5i0jjw58HjdIfIsOpgF68e) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Take On Me](https://open.spotify.com/album/6I7mD09NQFKaS5PgrrW4YG) | 4:10 | 2023-04-14 | 2023-06-16 |
 | [Talking To The Moon](https://open.spotify.com/track/7wtsP54umUm3MvvdRWBOrU) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Talking To The Moon](https://open.spotify.com/album/36kCoY0H6FV0aKKIMefH7r) | 3:09 | 2023-03-17 |  |
 | [Taste](https://open.spotify.com/track/0EjzkhduQCwaFxCo8qR0Fc) | [Oak & Honey](https://open.spotify.com/artist/1uTw6urRN1eni0YP1wEGBb) | [Taste](https://open.spotify.com/album/02YbvTvLhRTErrwwpeVGrX) | 2:25 | 2025-10-24 |  |
+| [Tattoo](https://open.spotify.com/track/29mSFX7Wo4ZP9gOFjNB7ri) | [Anders Sonne](https://open.spotify.com/artist/7gUW671qZb60E9i7K8soRX) | [Tattoo](https://open.spotify.com/album/0HDD8C1ysK2gQABskDeaDg) | 3:16 | 2026-10-23 |  |
 | [Tattoo](https://open.spotify.com/track/1c5cSzqSCGLf2YfbBsoUUY) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Tattoo](https://open.spotify.com/album/6gTf9Fn2UixItSmFgWdfua) | 3:29 | 2023-04-14 | 2023-06-03 |
 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 | 2022-05-02 | 2024-07-13 |
 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-01-06 | 2024-08-10 |

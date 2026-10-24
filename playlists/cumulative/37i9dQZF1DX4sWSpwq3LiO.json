@@ -29061,6 +29061,24 @@
     },
     {
       "album": {
+        "name": "The Northern Fields",
+        "url": "https://open.spotify.com/album/4B95zmZkzbJ3EFPRiWzW9y"
+      },
+      "artists": [
+        {
+          "name": "SG Hilltwig",
+          "url": "https://open.spotify.com/artist/756zvVCs2NGZiI0HVWfrKS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153263,
+      "name": "The Northern Fields",
+      "url": "https://open.spotify.com/track/3rqNtzfekrqoZcaK2CfGwP"
+    },
+    {
+      "album": {
         "name": "Fields",
         "url": "https://open.spotify.com/album/0bqMUUD910BVxrs4ENCuTC"
       },

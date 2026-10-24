@@ -1,12 +1,12 @@
 {
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=69a76f97f16b49b4\"> Octopizzo</a> ",
-  "num_followers": 25197,
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=362aa1793e964c3a\"> BURUKLYN BOYZ</a> ",
+  "num_followers": 25231,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADosVRLydg0vaRwgwOnQStI2ssEv",
+  "snapshot_id": "AAAAAKG3oAaMqAlC8jvdy5vhuWtvnT/1",
   "tracks": [
     {
       "added_at": "2026-09-24 23:59:19",
@@ -33,6 +33,58 @@
       "url": "https://open.spotify.com/track/09Thn76WVYcOK2nkfMzHsj"
     },
     {
+      "added_at": "2026-10-16 06:58:24",
+      "album": {
+        "name": "Shing",
+        "url": "https://open.spotify.com/album/0nPhdloFYXIqGUlNZWB67k"
+      },
+      "artists": [
+        {
+          "name": "Kapitani",
+          "url": "https://open.spotify.com/artist/0zEKVcCCknQwijBu3JIfSy"
+        },
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Shing",
+      "url": "https://open.spotify.com/track/2Da57Pxp1HKV4xybweTrL8"
+    },
+    {
+      "added_at": "2026-10-23 04:04:50",
+      "album": {
+        "name": "Welcome to Kanairo",
+        "url": "https://open.spotify.com/album/0Nf9aTwU6dpqhzVs0Sa3yp"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "duration_ms": 236320,
+      "name": "Welcome to Kanairo",
+      "url": "https://open.spotify.com/track/5JZzQIx71SDZ4YtWXVCru5"
+    },
+    {
+      "added_at": "2026-09-24 23:59:19",
+      "album": {
+        "name": "LAST DANCE",
+        "url": "https://open.spotify.com/album/6bewDYyU8AYegfvIARuaLr"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "LAST DANCE",
+      "url": "https://open.spotify.com/track/3D7wEIwqXryatRi2xeFM3j"
+    },
+    {
       "added_at": "2026-09-24 23:59:19",
       "album": {
         "name": "Ni Noma",
@@ -53,40 +105,20 @@
       "url": "https://open.spotify.com/track/3gGy6hd7JqIJAYR1F8sAmR"
     },
     {
-      "added_at": "2026-09-24 23:59:19",
+      "added_at": "2026-10-23 04:04:50",
       "album": {
-        "name": "LAST DANCE",
-        "url": "https://open.spotify.com/album/6bewDYyU8AYegfvIARuaLr"
+        "name": "Same Pedi",
+        "url": "https://open.spotify.com/album/7Ft9KGLQrICiAM9SmROYuY"
       },
       "artists": [
         {
-          "name": "Wakadinali",
-          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+          "name": "Kahu$h",
+          "url": "https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr"
         }
       ],
-      "duration_ms": 200000,
-      "name": "LAST DANCE",
-      "url": "https://open.spotify.com/track/3D7wEIwqXryatRi2xeFM3j"
-    },
-    {
-      "added_at": "2026-10-16 06:58:24",
-      "album": {
-        "name": "Shing",
-        "url": "https://open.spotify.com/album/0nPhdloFYXIqGUlNZWB67k"
-      },
-      "artists": [
-        {
-          "name": "Kapitani",
-          "url": "https://open.spotify.com/artist/0zEKVcCCknQwijBu3JIfSy"
-        },
-        {
-          "name": "Toxic Lyrikali",
-          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Shing",
-      "url": "https://open.spotify.com/track/2Da57Pxp1HKV4xybweTrL8"
+      "duration_ms": 146816,
+      "name": "Same Pedi",
+      "url": "https://open.spotify.com/track/6A7C5ZMfR5z9HDKMkY8kOC"
     },
     {
       "added_at": "2026-09-24 23:59:19",
@@ -975,26 +1007,6 @@
     {
       "added_at": "2026-09-24 23:59:19",
       "album": {
-        "name": "Running Late",
-        "url": "https://open.spotify.com/album/54hU3DYQbPEOHiiuhSFI1Z"
-      },
-      "artists": [
-        {
-          "name": "BoiBlacc",
-          "url": "https://open.spotify.com/artist/4tXuaGk0P2Z0K0urKXI7vy"
-        },
-        {
-          "name": "Clark Keeng",
-          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Running Late",
-      "url": "https://open.spotify.com/track/77OEOwuTMCp4rLmgGiGF8k"
-    },
-    {
-      "added_at": "2026-09-24 23:59:19",
-      "album": {
         "name": "Stick",
         "url": "https://open.spotify.com/album/6PGhi1qr9j4NQ225Ml79l2"
       },
@@ -1075,22 +1087,6 @@
       "duration_ms": 169411,
       "name": "Trap Harakati",
       "url": "https://open.spotify.com/track/5zqzBnWP6dLTNLp7zT0jXx"
-    },
-    {
-      "added_at": "2026-09-24 23:59:19",
-      "album": {
-        "name": "Headbad",
-        "url": "https://open.spotify.com/album/2ShL63845HXSH4JdMs84Wy"
-      },
-      "artists": [
-        {
-          "name": "MAD G",
-          "url": "https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E"
-        }
-      ],
-      "duration_ms": 194682,
-      "name": "Headbad",
-      "url": "https://open.spotify.com/track/7C36WScRDN9B2h87LNPtEL"
     },
     {
       "added_at": "2026-09-24 23:59:19",

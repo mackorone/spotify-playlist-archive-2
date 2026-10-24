@@ -2,9 +2,9 @@
 
 ### [ny rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap øverst 👀  Artigeardit på cover!!
+> kun det nyeste danske rap øverst 👀  Belly på cover!!
 
-655 songs - 1 day 4 hr 1 min
+657 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [TASK](https://open.spotify.com/track/3NE7NZrgtasZVKkzuoysba) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [TASK](https://open.spotify.com/album/5WKXDOzrwoaj4iKkIAcSG4) | 3:22 | 2026-10-01 |  |
 | [Te Ske](https://open.spotify.com/track/2u9QFWXxN36yBcU3rinyi0) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [AEL](https://open.spotify.com/artist/7LE7kZZSYj0k0zvd6DUhCN) | [Te Ske](https://open.spotify.com/album/56vgHHU4fEkCLga06s6NdX) | 2:32 | 2026-10-15 |  |
 | [Terminator](https://open.spotify.com/track/0KMxeO43v7H3jlQgUDwnBh) | [Viktor Borges](https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW) | [Terminator](https://open.spotify.com/album/5jmcDbXtJoOnwfFe76i4pp) | 2:17 | 2026-10-08 |  |
+| [Tiden var ik' med os](https://open.spotify.com/track/7ticct158HlKUVSfiZdveG) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Tiden var ik' med os](https://open.spotify.com/album/6qVA1OJOFrdhKNu8msxaRI) | 2:40 | 2026-10-23 |  |
 | [Til Stede](https://open.spotify.com/track/2VKs1Cvg89HfMHTfGtXbc4) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 3:52 | 2025-04-24 | 2026-04-10 |
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-09-21 | 2023-11-11 |
 | [Tilfælles](https://open.spotify.com/track/42uS7UHHRU52QvuDLh4UGZ) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Tilfælles](https://open.spotify.com/album/4b3mLfJM6e0sfFAWdeE5d8) | 2:48 | 2026-09-17 |  |
@@ -611,6 +612,7 @@
 | [Ups](https://open.spotify.com/track/7aLi7SODrTLkxBnENkYGps) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Ups](https://open.spotify.com/album/0lkWgl4t6t5qWoEr9Ew289) | 2:27 | 2024-02-15 | 2024-02-23 |
 | [USKARPT](https://open.spotify.com/track/4VyU3KBCCJUjGCqCdzTHeb) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4), [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [USKARPT](https://open.spotify.com/album/49TmWBCTdfEHCohhKdqFNy) | 2:53 | 2025-10-30 | 2025-11-21 |
 | [USTOPPELIG](https://open.spotify.com/track/0R4tUBZQFD5PEcw2QMr2iy) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [USTOPPELIG](https://open.spotify.com/album/3WN3SEL9e7tf32zbNQWnaG) | 2:18 | 2024-01-04 | 2024-01-19 |
+| [Utaknemmelig](https://open.spotify.com/track/48Mi8ghTU0cJUexL9Vrpsp) | [Altid.Marcus](https://open.spotify.com/artist/5LjjyYZXu49pFYb8uib12B) | [Utaknemmelig](https://open.spotify.com/album/7yYV30IEDq2RGwfgtBpws4) | 2:30 | 2026-10-23 |  |
 | [UTOPIA](https://open.spotify.com/track/1eNmBAqYzMUeLLsSDnnJKX) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS) | [UTOPIA](https://open.spotify.com/album/2OzmJbLISAMEcBMf7n2ABT) | 2:50 | 2026-09-03 | 2026-09-18 |
 | [Uwawe](https://open.spotify.com/track/3BzCCqPqIsheyW4DyLM1ut) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Uwawe](https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy) | 2:19 | 2023-12-08 | 2024-05-14 |
 | [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 | 2025-02-28 |

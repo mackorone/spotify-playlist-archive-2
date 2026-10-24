@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 88959,
+  "num_followers": 88972,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -567,42 +567,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Ghetto Anthem",
-        "url": "https://open.spotify.com/album/2XLbU7Xxo4w6ZGPVzWS1yA"
-      },
-      "artists": [
-        {
-          "name": "Epixode",
-          "url": "https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3"
-        },
-        {
-          "name": "StarBwoy",
-          "url": "https://open.spotify.com/artist/32LGQXXDuv98pUiVtPeeUp"
-        }
-      ],
-      "duration_ms": 179043,
-      "name": "Ghetto Anthem",
-      "url": "https://open.spotify.com/track/13BpYH0eMgXkxHPfn6fN9U"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
@@ -627,6 +591,42 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Ghetto Anthem",
+        "url": "https://open.spotify.com/album/2XLbU7Xxo4w6ZGPVzWS1yA"
+      },
+      "artists": [
+        {
+          "name": "Epixode",
+          "url": "https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3"
+        },
+        {
+          "name": "StarBwoy",
+          "url": "https://open.spotify.com/artist/32LGQXXDuv98pUiVtPeeUp"
+        }
+      ],
+      "duration_ms": 179043,
+      "name": "Ghetto Anthem",
+      "url": "https://open.spotify.com/track/13BpYH0eMgXkxHPfn6fN9U"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Girl On Fya",
         "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 124354,
       "name": "Girl on Fya",
       "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1059,30 +1059,6 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-        "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180530,
-      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1139,6 +1115,30 @@
       "duration_ms": 366573,
       "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
       "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180530,
+      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
     },
     {
       "added_at": "2026-03-13 00:01:25",

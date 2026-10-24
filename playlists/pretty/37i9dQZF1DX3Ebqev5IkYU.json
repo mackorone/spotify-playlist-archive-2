@@ -1,6 +1,6 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1877694,
+  "num_followers": 1877562,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
         "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
+        "name": "TRALALA",
+        "url": "https://open.spotify.com/album/4pfxDNLAqfyDk5xVjddGIr"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 195869,
+      "name": "TRALALA",
+      "url": "https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "TRALALA",
-        "url": "https://open.spotify.com/album/4pfxDNLAqfyDk5xVjddGIr"
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
       "artists": [
         {
-          "name": "manifest",
-          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 195869,
-      "name": "TRALALA",
-      "url": "https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -411,22 +427,6 @@
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 165831,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
       },
       "artists": [
         {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 165831,
-      "name": "What If?",
-      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -935,22 +951,6 @@
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "Zoo (From \"Zootopia 2\")",
-        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo - From \"Zootopia 2\"",
-      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
         "name": "Born In The Echoes",
         "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
+        "name": "Zoo (From \"Zootopia 2\")",
+        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootopia 2\"",
+      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "KITSCHKRIEG ZWEI",
-        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
-      },
-      "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        },
-        {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Gut Genug (mit Blumengarten & Shirin David)",
-      "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 238427,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
+        "name": "KITSCHKRIEG ZWEI",
+        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Gut Genug (mit Blumengarten & Shirin David)",
+      "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5"
-      },
-      "artists": [
-        {
-          "name": "Yearboox",
-          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
-    },
-    {
-      "added_at": "2026-10-22 22:00:21",
-      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 175708,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2026-10-22 22:00:21",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5"
+      },
+      "artists": [
+        {
+          "name": "Yearboox",
+          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
     },
     {
       "added_at": "2026-10-22 22:00:21",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-10-22 22:00:21",
       "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 161831,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     }
   ],
   "unique_name": "Good Mood",

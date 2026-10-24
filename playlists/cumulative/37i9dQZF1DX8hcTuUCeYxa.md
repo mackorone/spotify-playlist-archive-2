@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Roosevelt
 
-3,496 songs - 8 day 9 hr 25 min
+3,496 songs - 8 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3160,7 +3160,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-26 |
-| [Track 4](https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Ciao](https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC) | 0:00 | 2026-10-22 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |
@@ -3432,6 +3431,7 @@
 | [Won't You Ever Need Me](https://open.spotify.com/track/0gO6fILDlRAjpjidGPPT8s) | [Tommy Barlow](https://open.spotify.com/artist/5pwO7OfGJSYXlLDODBRz8K) | [Won't You Ever Need Me](https://open.spotify.com/album/1kxILFM47rGHBPgdyU06sb) | 4:21 | 2026-07-02 | 2026-07-24 |
 | [WONDERFUL](https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY](https://open.spotify.com/album/1XCxwBhOgN3o8E6YSkWZk2) | 3:22 | 2025-11-06 | 2025-11-28 |
 | [Wonderful Life](https://open.spotify.com/track/4LSuNgtNyuNwdlyKdBLULJ) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [Wonderful Life](https://open.spotify.com/album/2ijJcQnJLxEIXSaQKCWVFA) | 4:04 | 2026-07-16 | 2026-08-14 |
+| [wonderland](https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Ciao](https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC) | 3:24 | 2026-10-22 |  |
 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-05 | 2025-10-03 |
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-28 | 2024-07-05 |
 | [Work In Progress](https://open.spotify.com/track/1rYNIgs1zqdXiT2TK0KbVG) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [The Entertainment](https://open.spotify.com/album/6Fl128YG48k6a9XT2FKfnb) | 3:59 | 2026-03-26 | 2026-04-24 |

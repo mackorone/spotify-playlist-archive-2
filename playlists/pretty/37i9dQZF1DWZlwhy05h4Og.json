@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: no na",
-  "num_followers": 77771,
+  "description": "The sweetest bops. Cover: TUIDE",
+  "num_followers": 77779,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIJY9EXgfT8f1zAVw52I3tc5+UBW",
+  "snapshot_id": "AAAAAPT4fxNfYOmadAstH2CXRJyPYBER",
   "tracks": [
+    {
+      "added_at": "2026-08-28 04:01:04",
+      "album": {
+        "name": "TUNE & PLAY",
+        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
+      },
+      "artists": [
+        {
+          "name": "TUIDE",
+          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "SUN KISS",
+      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
+    },
     {
       "added_at": "2026-09-18 04:03:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 208000,
       "name": "NEON",
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
-    },
-    {
-      "added_at": "2026-08-28 04:01:04",
-      "album": {
-        "name": "TUNE & PLAY",
-        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
-      },
-      "artists": [
-        {
-          "name": "TUIDE",
-          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "SUN KISS",
-      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
     },
     {
       "added_at": "2026-09-18 04:03:00",

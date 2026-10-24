@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari LISA, MALIQ & D'Essentials, Fabio Asher dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 252277,
+  "num_followers": 252680,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANURzwx8OQgWV00CIlDn+SCEo+2M",
+  "snapshot_id": "AAAAAP76KGLVte6wPR/TPPFuTZZFXlhP",
   "tracks": [
     {
       "added_at": "2026-10-22 17:05:04",
@@ -125,6 +125,58 @@
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
     },
     {
+      "added_at": "2026-10-23 04:02:00",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 181790,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
+    },
+    {
+      "added_at": "2026-10-23 04:02:00",
+      "album": {
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
+    },
+    {
+      "added_at": "2026-10-23 04:02:00",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
+    },
+    {
       "added_at": "2026-10-22 17:05:04",
       "album": {
         "name": "Night at the Opera: Intermission",
@@ -166,10 +218,6 @@
         {
           "name": "Miley Cyrus",
           "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Ilsey Juber",
-          "url": "https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9"
         }
       ],
       "duration_ms": 195608,
@@ -825,6 +873,42 @@
       "url": "https://open.spotify.com/track/4CKWUf6UfYvMsR3m0RRhHO"
     },
     {
+      "added_at": "2026-10-23 04:02:00",
+      "album": {
+        "name": "3RD WRLD VOL. 2",
+        "url": "https://open.spotify.com/album/4Z24eshqIBWXOR8lLtSMAe"
+      },
+      "artists": [
+        {
+          "name": "EZ MIL",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Luke Holland",
+          "url": "https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb"
+        }
+      ],
+      "duration_ms": 217962,
+      "name": "LET EM (feat. Luke Holland)",
+      "url": "https://open.spotify.com/track/2K2wEAfkdToUyJgYj2E2Ck"
+    },
+    {
+      "added_at": "2026-10-23 04:02:00",
+      "album": {
+        "name": "suite 02: velvet",
+        "url": "https://open.spotify.com/album/7CaEcIwNdPJfH5w92nfCsN"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "suite 02: velvet",
+      "url": "https://open.spotify.com/track/3bSPpMFhhtPCKuliR9d1sd"
+    },
+    {
       "added_at": "2026-10-22 17:05:04",
       "album": {
         "name": "basi.",
@@ -1335,6 +1419,22 @@
       "duration_ms": 205930,
       "name": "Cinta Ini Sadis",
       "url": "https://open.spotify.com/track/2iBb04x1ARDuD6kIZW6NmH"
+    },
+    {
+      "added_at": "2026-10-23 04:02:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/71sxiXSEavIlQMcL72s9md"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0FinAexVNMbfeYvlmWmo41"
     },
     {
       "added_at": "2026-10-22 17:05:04",

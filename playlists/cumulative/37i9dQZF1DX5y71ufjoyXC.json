@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 167428,
       "name": "After",
       "url": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb"
@@ -2000,6 +2000,28 @@
       "duration_ms": 212976,
       "name": "Bye",
       "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
+        "name": "Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176504,
+      "name": "Cabez\u00f3n",
+      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
     },
     {
       "album": {
@@ -4794,7 +4816,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 181277,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
@@ -8407,6 +8429,36 @@
     },
     {
       "album": {
+        "name": "NI TAN SANTX",
+        "url": "https://open.spotify.com/album/2B53ZI8IljOo0wycM0Ai4i"
+      },
+      "artists": [
+        {
+          "name": "EON",
+          "url": "https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "L Prince",
+          "url": "https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "NI TAN SANTX",
+      "url": "https://open.spotify.com/track/2TCy4SdgjE8SEdP0UQfPGs"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -9239,6 +9291,24 @@
     },
     {
       "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156646,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/0kSfVpAjQDL7wNQCdejOB5"
+    },
+    {
+      "album": {
         "name": "Pacto (feat. Luar La L)",
         "url": "https://open.spotify.com/album/74YXkj0wtAt2vIslobYqjt"
       },
@@ -9954,7 +10024,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 176146,
       "name": "Por Esos Ojitos",
       "url": "https://open.spotify.com/track/3Sk29mMFgPa6lrsSM5QqIy"

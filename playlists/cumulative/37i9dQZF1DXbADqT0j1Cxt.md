@@ -4,7 +4,7 @@
 
 > Gentle lullabies to ease little ones into sleep.
 
-864 songs - 1 day 3 hr 7 min
+867 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,8 @@
 | [Our Little Sandman](https://open.spotify.com/track/2503WM2PCCscHWQcr0xBjg) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Our Little Sandman](https://open.spotify.com/album/6oQZqafqOJCYPaXDcYMgJP) | 1:06 | 2023-12-08 | 2025-03-05 |
 | [Over The Rainbow](https://open.spotify.com/track/2p8hNIBdcnsQZqFMCYYV07) | [Charles Karmen](https://open.spotify.com/artist/7ircMSExoOtbznTOVHpIen) | [Over The Rainbow](https://open.spotify.com/album/7hU8GYJS8bqlZX49zYGJ9Z) | 2:17 | 2026-06-12 | 2026-07-16 |
 | [Over The River And Through The Woods](https://open.spotify.com/track/7sVzX9PWTOJEX6QDWPm6U2) | [Penelope Lang](https://open.spotify.com/artist/384BZ30OneQUlMKtjHTVIf) | [Zip\-A\-Dee\-Doo\-Dah](https://open.spotify.com/album/40DkJu7Ucdoj25THYEybUl) | 2:15 | 2021-10-07 | 2022-10-29 |
+| [Pa\-Pa\-Pa\-Papagena! \- Excerpt, Arr\. for piano by Daniel Paterok](https://open.spotify.com/track/7DtYsWml6SNq0j20oCI3lE) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF), [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) | [Little Mozart, Vol\. 2](https://open.spotify.com/album/6D5VJWWXMikNU7usWf8gBa) | 1:54 | 2026-10-23 |  |
+| [Pachelbel's Canon](https://open.spotify.com/track/1nLTRTZxV892MKlYOIusTY) | [Lullaby Time](https://open.spotify.com/artist/5AUPJRWkYNsxRWihENePtH) | [Baby Sleep Music](https://open.spotify.com/album/3uPRIr3zWC1RuizWLgTMuC) | 2:26 | 2026-10-23 |  |
 | [Pancake Friends](https://open.spotify.com/track/5rlXkgZJPZdeKHJhIC7OdR) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Pancake Friends](https://open.spotify.com/album/2euhvwQSPiInKRdgOiZMU3) | 1:56 | 2025-04-25 |  |
 | [Paper Wings](https://open.spotify.com/track/3EqLHQwdwK1G0FSjTWAlc7) | [Elin Noa](https://open.spotify.com/artist/2oJJ2qHf2tPQhmp5befhzq) | [Paper Wings](https://open.spotify.com/album/6aD86ZRrEfGthKtNcsp6Sk) | 1:52 | 2026-06-18 | 2026-07-16 |
 | [Pat That Little Tummy](https://open.spotify.com/track/7kRjbBrr078BJ1kbCHQOQJ) | [Graham Lullington](https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK) | [Pat That Little Tummy](https://open.spotify.com/album/1OhzR4YfoRto3mCWq3QD2R) | 1:33 | 2024-01-19 |  |
@@ -676,6 +678,7 @@
 | [Somewhere over the rainbow](https://open.spotify.com/track/5NoSvkAWZakc4pWrd3sJHC) | [Michael Andersen](https://open.spotify.com/artist/5gmOxTV1V68gGvOXDTopig) | [Lullaby](https://open.spotify.com/album/4b3Jt78QPsMfN2caOxo1i8) | 2:16 | 2021-10-07 | 2024-05-04 |
 | [Sommardröm](https://open.spotify.com/track/51OmKI5UtlEgtMKlj1Llgk) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Sommardröm](https://open.spotify.com/album/34L4TAv0B9jvIRGCVSGTab) | 2:25 | 2022-12-09 | 2023-03-18 |
 | [Sommeil de bébé](https://open.spotify.com/track/0iCLUNgMsi5Nc52xB6kvtv) | [Patrice Bijon](https://open.spotify.com/artist/3hmpAsI5NAjUWg42KjSXJS) | [Sommeil de bébé](https://open.spotify.com/album/3r6xu5uMB5xrbvknBuLjlv) | 1:31 | 2021-10-07 | 2023-05-12 |
+| [Sonata No\. 16](https://open.spotify.com/track/0wPdrsT7vdyUQ2HtNR8Gep) | [Lullaby Time](https://open.spotify.com/artist/5AUPJRWkYNsxRWihENePtH) | [Baby Sleep Music](https://open.spotify.com/album/3uPRIr3zWC1RuizWLgTMuC) | 2:14 | 2026-10-23 |  |
 | [Song Of The Small Bear](https://open.spotify.com/track/3WpJQDeJBbDEoArODpX1aC) | [Roly Lucian](https://open.spotify.com/artist/6lEfvybWRACgFS0gXlZbUM) | [Song Of The Small Bear](https://open.spotify.com/album/0wxJtbDu0Hl4hWIIcZHQz1) | 1:44 | 2021-10-07 | 2024-03-29 |
 | [Soon You'll Be Sleeping](https://open.spotify.com/track/0i4sCtWsaH7j58bF7TzqXI) | [Mio Santos](https://open.spotify.com/artist/0KqbhLJxdv6cMJjAKzmZUs) | [Sleep My Little Baby](https://open.spotify.com/album/26N14Eo9l80J9L0SJKrVCX) | 1:05 | 2023-06-15 |  |
 | [Sov du lilla videung](https://open.spotify.com/track/5VlwYfYylw2SmfCwYREh7C) | [Astrid Helmersson](https://open.spotify.com/artist/6ihMgJ0IMPhnvTknTlUkI3) | [Mina barndomsfavoriter](https://open.spotify.com/album/44Pk9Ztwui4F4DDtqY7mgC) | 1:50 | 2021-10-07 | 2023-04-09 |
@@ -782,7 +785,7 @@
 | [Tickled Pink](https://open.spotify.com/track/5A5pxPH7uPfEP5p1PPHY5p) | [Jesse Holderman](https://open.spotify.com/artist/7oquH151NkXtAdQmXJZuez) | [Tickled Pink](https://open.spotify.com/album/3cHhdshyNOq2RYPzuUKhwJ) | 1:46 | 2021-10-07 | 2024-03-29 |
 | [Time for bed](https://open.spotify.com/track/6LRZFl99CLpefnYgmXQZoj) | [Eleonora Hart](https://open.spotify.com/artist/2NtgCvZABqYJDTpdR3Ruzt) | [Time for bed](https://open.spotify.com/album/7x5gJTjUMRz71L5X2Zq7sZ) | 2:10 | 2021-10-07 | 2022-12-24 |
 | [Time to say good night](https://open.spotify.com/track/2qYL484kH1dSW80lw0IfqC) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Time to say good night](https://open.spotify.com/album/0W7CtKDGmjiOCUi4xlqWBj) | 2:21 | 2021-10-07 | 2025-03-05 |
-| [Tingly Town](https://open.spotify.com/track/0VNxwQtC2mI3oAdpx1bohD) | [Elio Rowan](https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm) | [Tingly Town](https://open.spotify.com/album/69SY765WSIJCUOJWOH0F4P) | 2:22 | 2025-07-18 |  |
+| [Tingly Town](https://open.spotify.com/track/0VNxwQtC2mI3oAdpx1bohD) | [Elio Rowan](https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm) | [Tingly Town](https://open.spotify.com/album/69SY765WSIJCUOJWOH0F4P) | 2:22 | 2025-07-18 | 2026-10-24 |
 | [Tiny Feet](https://open.spotify.com/track/284u6hvI0b4b9cmMQINdR2) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [Tiny Feet](https://open.spotify.com/album/0nK4zaHs2ueUMvIO3LaxkZ) | 2:11 | 2024-04-19 |  |
 | [Tiny Hands](https://open.spotify.com/track/4FuyZdIPufeMMwRlXugiSn) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Tiny Hands](https://open.spotify.com/album/0AExtvXunsJ5fHeSV2Gqif) | 1:37 | 2022-10-28 | 2023-08-19 |
 | [Tiny Little Star](https://open.spotify.com/track/3K1vOzFKeUXl82v2e0lSvw) | [Nina Lui](https://open.spotify.com/artist/0cZ208KiStu5C0RDGsQqfI) | [Tiny Little Star](https://open.spotify.com/album/7BZ2NP1QM7hNORRHJfenEI) | 1:54 | 2026-04-10 |  |

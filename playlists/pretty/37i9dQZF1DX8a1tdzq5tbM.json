@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1814921,
+  "num_followers": 1815064,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+      },
+      "artists": [
+        {
+          "name": "Kim Leoni",
+          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -759,26 +775,6 @@
       "duration_ms": 224842,
       "name": "Underlying Feeling - Adam K & Soha Radio Edit",
       "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Girlfriend (2008 Remix)",
-        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
-        }
-      ],
-      "duration_ms": 435986,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -823,18 +819,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+        "name": "Girlfriend (2008 Remix)",
+        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
       },
       "artists": [
         {
-          "name": "Kim Leoni",
-          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
         }
       ],
-      "duration_ms": 169893,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
+      "duration_ms": 435986,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1379,30 +1379,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Show Me Love (feat. Robin S)",
-        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 185613,
-      "name": "Show Me Love (feat. Robin S) - Radio Edit",
-      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -1435,6 +1411,30 @@
       "duration_ms": 171360,
       "name": "Call On Me - Radio Edit",
       "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "Show Me Love (feat. Robin S) - Radio Edit",
+      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1735,22 +1735,6 @@
       "duration_ms": 211853,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
       },
@@ -1787,6 +1787,42 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Best of Alter Ego",
+        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/2AnEHhSLWVJJMSQECOcyyx"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Deep Inside (2009 Mixes)",
         "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
       },
@@ -1799,22 +1835,6 @@
       "duration_ms": 392668,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 404320,
-      "name": "Nyana",
-      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1851,34 +1871,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Best of Alter Ego",
-        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
       },
       "artists": [
         {
-          "name": "Alter Ego",
-          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
         }
       ],
-      "duration_ms": 288053,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
+      "duration_ms": 219706,
+      "name": "What Hurts the Most - Radio Mix U.S.",
+      "url": "https://open.spotify.com/track/3OW3uDpM7mgLe3xU6EYX5q"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1903,6 +1907,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
       },
@@ -1923,18 +1943,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
       },
       "artists": [
         {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
         }
       ],
-      "duration_ms": 219706,
-      "name": "What Hurts the Most - Radio Mix U.S.",
-      "url": "https://open.spotify.com/track/3OW3uDpM7mgLe3xU6EYX5q"
+      "duration_ms": 216573,
+      "name": "Another Place - Radio Edit",
+      "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1955,38 +1979,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Hot (Remixes)",
-        "url": "https://open.spotify.com/album/5swvYY29TJ4Nrl2QU7Ns1v"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 152533,
-      "name": "Hot - UK Radio Edit",
-      "url": "https://open.spotify.com/track/0aAGggDsfvfc8PQPkqZvH7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
         }
       ],
-      "duration_ms": 276093,
-      "name": "In The Dark (feat. Christian Burns)",
-      "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
+      "duration_ms": 404320,
+      "name": "Nyana",
+      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2003,6 +2007,22 @@
       "duration_ms": 217000,
       "name": "Go",
       "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Hot (Remixes)",
+        "url": "https://open.spotify.com/album/5swvYY29TJ4Nrl2QU7Ns1v"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Hot - UK Radio Edit",
+      "url": "https://open.spotify.com/track/0aAGggDsfvfc8PQPkqZvH7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2159,22 +2179,6 @@
       "duration_ms": 203212,
       "name": "Crush - Radio Dance Edit",
       "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3m4Mp1KfiPawsOjlRlbxN3"
     }
   ],
   "unique_name": "Dance Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,645 likes - 181 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,650 likes - 181 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 169 | [Zero Relation \(feat\. SLM\)](https://open.spotify.com/track/3atPd4InX86qaTCNaM4VRC) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG), [SLM](https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T) | [Zero Relation](https://open.spotify.com/album/2CmJ1STx5aR6IZFyGnVhqD) | 3:48 |
 | 170 | [Timecode \- Maxi Version](https://open.spotify.com/track/32GPUKQlr5HY2Njd2uHEAI) | [Justus Köhncke](https://open.spotify.com/artist/7M9FwnKOKR4zl9iYCfy3bv) | [Bass ist Musik](https://open.spotify.com/album/4OL47KWpR5j9M0ZwCqhB0C) | 7:46 |
 | 171 | [Transient](https://open.spotify.com/track/4OdyI2KYWKbaS0WBOX6beN) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [50/50 EP](https://open.spotify.com/album/3uPc1FgISLBUrBpX1Eny39) | 9:07 |
-| 172 | [Flash](https://open.spotify.com/track/4GZceM3KACEnZUq7tuuxWe) | [Juliann](https://open.spotify.com/artist/4bG9d26SI12e3d3gQkUwJg), [Assayag](https://open.spotify.com/artist/4QzEBswkEOjPlHiVmaF2Nm) | [Superfly](https://open.spotify.com/album/6DgEB69JwzTGa2ldFJbKot) | 5:37 |
+| 172 | [Flash](https://open.spotify.com/track/4GZceM3KACEnZUq7tuuxWe) | [Julian Daumas](https://open.spotify.com/artist/4bG9d26SI12e3d3gQkUwJg), [Assayag](https://open.spotify.com/artist/4QzEBswkEOjPlHiVmaF2Nm) | [Superfly](https://open.spotify.com/album/6DgEB69JwzTGa2ldFJbKot) | 5:37 |
 | 173 | [The Party](https://open.spotify.com/track/1UrPRJX1N1ctrymVo63ioR) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [The Party](https://open.spotify.com/album/3hDlk7SpLNBQwO1xGZZNBu) | 3:24 |
 | 174 | [Shadow Of Love \- Echonomist Remix](https://open.spotify.com/track/2Ns8HVuOxZ4JB4aPIsj8bs) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1), [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3) | [Shadow Of Love \(Echonomist Remix\)](https://open.spotify.com/album/7quAunztsZVMK1PAmjrahO) | 5:11 |
 | 175 | [Drifting \- Original Mix](https://open.spotify.com/track/25XRDnlfHl4ZSNW3QUqJLg) | [Mojolators](https://open.spotify.com/artist/055zznvA58mhaCEuGdzy2t) | [Drifting / To The Music](https://open.spotify.com/album/1sWxjkOH3xVfzfgaaKCO6w) | 9:13 |

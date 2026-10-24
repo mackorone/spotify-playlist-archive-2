@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/5TA8wPrlCk5UunsDcIkumA"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144768,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2Ud0U3EGKc2phvO5XTwusv"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7uaQkWRwia9E6c6XBXO802"
       },
@@ -2005,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "Bangers Only",
+        "url": "https://open.spotify.com/album/4PFBs5EF1HUtU4oB6IJTw9"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "K Dot",
+          "url": "https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Bangers Only",
+      "url": "https://open.spotify.com/track/6g7SqCFAF1E3WuYFbLB2QJ"
+    },
+    {
+      "album": {
         "name": "Bass",
         "url": "https://open.spotify.com/album/43e1DojkQdaa1s3mr4pVal"
       },
@@ -2866,7 +2910,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173142,
       "name": "Break It",
       "url": "https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge"
@@ -3407,6 +3451,28 @@
     },
     {
       "album": {
+        "name": "CALL ME BABY (SAY MY NAME)",
+        "url": "https://open.spotify.com/album/1EDSqqCDWZafaumhltNONF"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176509,
+      "name": "CALL ME BABY (SAY MY NAME)",
+      "url": "https://open.spotify.com/track/7dM16TjujJwlQVQr47gipU"
+    },
+    {
+      "album": {
         "name": "CALYPSO",
         "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
       },
@@ -3458,7 +3524,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 151254,
       "name": "Can I",
       "url": "https://open.spotify.com/track/0r56mYppTGefJHM9sKMBOX"
@@ -3594,6 +3660,28 @@
       "duration_ms": 149110,
       "name": "Caught A Body (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
+    },
+    {
+      "album": {
+        "name": "CULT CHROME II",
+        "url": "https://open.spotify.com/album/2fMzDNj8s4y3AgemvaKtsp"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "Basstrick",
+          "url": "https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "CHAINSAW",
+      "url": "https://open.spotify.com/track/1ydsW0MBvHFnYHZkPABatN"
     },
     {
       "album": {
@@ -3850,6 +3938,24 @@
       "duration_ms": 138011,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
+    },
+    {
+      "album": {
+        "name": "Club Crush",
+        "url": "https://open.spotify.com/album/77VRvKA79sLjYuhncOECjr"
+      },
+      "artists": [
+        {
+          "name": "CYRUS",
+          "url": "https://open.spotify.com/artist/5Xs2GcYWkOIUYMF2l19ZNq"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235454,
+      "name": "Club Crush",
+      "url": "https://open.spotify.com/track/0pc9tPTWawBgwHh1m7uLAh"
     },
     {
       "album": {
@@ -6017,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Elite",
+        "url": "https://open.spotify.com/album/44vD1DZPU2M6gOAl9946r6"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Elite",
+      "url": "https://open.spotify.com/track/6j6ykXKMWfuem61lHr6pMM"
+    },
+    {
+      "album": {
         "name": "Elvis",
         "url": "https://open.spotify.com/album/5wiSQgZwS0BqLWK8Ly43Yy"
       },
@@ -6190,7 +6314,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 165165,
       "name": "Ends",
       "url": "https://open.spotify.com/track/4VwU1GJlhrlQBbBKFol10t"
@@ -8454,6 +8578,32 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+    },
+    {
+      "album": {
+        "name": "Graft",
+        "url": "https://open.spotify.com/album/12ezK0Kz4zdTrRSDpgBcjD"
+      },
+      "artists": [
+        {
+          "name": "Torcha",
+          "url": "https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl"
+        },
+        {
+          "name": "skxllflower",
+          "url": "https://open.spotify.com/artist/5LmixEls7YhrtkWQ61n9fj"
+        },
+        {
+          "name": "Limmz",
+          "url": "https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156830,
+      "name": "Graft",
+      "url": "https://open.spotify.com/track/0609dtIPCRPAnCoi36YAot"
     },
     {
       "album": {
@@ -13442,7 +13592,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 144000,
       "name": "move! (that body)",
       "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
@@ -19214,7 +19364,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 148943,
       "name": "stranger",
       "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
@@ -22282,7 +22432,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219526,
       "name": "What You Say - ft umru",
       "url": "https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev"

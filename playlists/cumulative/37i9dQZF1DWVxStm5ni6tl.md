@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Trudy, Artwork: Isu Kim
 
-3,209 songs - 6 day 20 hr 55 min
+3,211 songs - 6 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [BOY FEELINGS](https://open.spotify.com/track/3R5moFhz0qhnYsXBoqX9RL) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [BOY FEELINGS](https://open.spotify.com/album/5VZHnMvdghMtvGvynEehCn) | 3:28 | 2023-11-29 | 2024-01-11 |
 | [boyfriend](https://open.spotify.com/track/4R1RdO4HjBCBYyS4UIlSSP) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [boyfriend](https://open.spotify.com/album/7icGZ6yLhJnxqgLFRASpV2) | 2:18 | 2026-07-01 | 2026-08-06 |
 | [Boyfriend](https://open.spotify.com/track/2pCUsphV4bFzpyt1zvzTPD) | [T\. Thomason](https://open.spotify.com/artist/4qW3B9lAaefCiA5m5fUAZg) | [Boyfriend](https://open.spotify.com/album/5QxIPDXX56fHgGWeERwozc) | 2:35 | 2024-10-09 | 2024-10-24 |
+| [Boys of Summer](https://open.spotify.com/track/7b2elsMysU2yarzzancwmU) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Boys of Summer](https://open.spotify.com/album/4FT2mP1Ca1FbfTRhSz6sCE) | 3:22 | 2026-10-23 |  |
 | [Boys Will Be Boys](https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Contre\-sens](https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX) | 3:53 | 2024-06-19 | 2025-01-16 |
 | [BPM](https://open.spotify.com/track/6MylOVUwvc62SMlvJEJ6CX) | [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [BPM](https://open.spotify.com/album/1Zu2yHizxzJxTHMvodRx0T) | 2:01 | 2025-09-25 | 2025-11-06 |
 | [Braided](https://open.spotify.com/track/2rNsuXFNpwELkIZXW222om) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Braided](https://open.spotify.com/album/6nwScJBjauuaP5MtwG4ybi) | 2:35 | 2024-04-10 | 2024-04-24 |
@@ -852,7 +853,7 @@
 | [Eyes Don't Lie](https://open.spotify.com/track/0uuSettxwXbGQYDIwbKXvN) | [Harman](https://open.spotify.com/artist/7E2SCkykx5uOljc7dpISHI) | [Eyes Don't Lie](https://open.spotify.com/album/4tSAvbhTFkccZxOfwxAr8j) | 3:36 | 2024-09-26 | 2024-10-10 |
 | [F.O.G](https://open.spotify.com/track/5vFwH4HZmAooc04O38pe1Q) | [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Aura](https://open.spotify.com/album/2HQrV0WAn8zqrqM030mGda) | 3:19 | 2025-01-15 | 2025-01-23 |
 | [F.O.M.O.](https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [F.O.M.O.](https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6) | 3:00 | 2026-05-06 | 2026-06-04 |
-| [F4U](https://open.spotify.com/track/2XSbOYJbCDeZPQt5ryAwKT) | [$anteria](https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7) | [F4U](https://open.spotify.com/album/3JcvaCceY0eQFU68NPYWfV) | 3:01 | 2026-10-07 |  |
+| [F4U](https://open.spotify.com/track/2XSbOYJbCDeZPQt5ryAwKT) | [$anteria](https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7) | [F4U](https://open.spotify.com/album/3JcvaCceY0eQFU68NPYWfV) | 3:01 | 2026-10-07 | 2026-10-24 |
 | [FA FA](https://open.spotify.com/track/0XJEYlJroXmc0iaX3haqDe) | [KHEM](https://open.spotify.com/artist/5oR5JjCXsdwdho4arNfO4C) | [FA FA](https://open.spotify.com/album/1u0h0SwEyxebdQtOTqO57r) | 2:28 | 2025-07-16 | 2025-07-31 |
 | [Fabrics](https://open.spotify.com/track/3KsDwXekJyZFds3u6IyyGE) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Fabrics](https://open.spotify.com/album/2lemypYT4ph9G1wOe7wAxn) | 3:24 | 2024-04-24 | 2024-06-13 |
 | [faceplant](https://open.spotify.com/track/5JRIvYoh850e9mcrVR69JE) | [jules](https://open.spotify.com/artist/5JH91xxIdtDNx2hPvTunZH) | [faceplant](https://open.spotify.com/album/7G6zHYaDbyyEGAlFY8k1T9) | 3:24 | 2024-06-19 | 2024-07-04 |
@@ -998,7 +999,7 @@
 | [GEAR](https://open.spotify.com/track/34V32D276vNbF2WUtDWluJ) | [Bluefold](https://open.spotify.com/artist/7Ev5EGcO8uOOyJ7OrOuDy7) | [GEAR](https://open.spotify.com/album/1V9dhGe30LAZxCDgSEtOMW) | 1:52 | 2026-05-06 | 2026-06-04 |
 | [Gemini](https://open.spotify.com/track/4lgGGjS1NP8ia69rGyanqf) | [Harlette](https://open.spotify.com/artist/3wPEWqr4WfEiaf28D96LIO) | [Gemini](https://open.spotify.com/album/3cMNTX5gnPqdrURlLpV7sh) | 2:40 | 2023-09-06 | 2023-09-21 |
 | [Gemini Freestyle](https://open.spotify.com/track/4Cpi1pdNMuManZALYBezzp) | [Slim Dinero](https://open.spotify.com/artist/5M6PQwimbEZ46FXjsIcZxd) | [Gemini Freestyle](https://open.spotify.com/album/45FqSH9sBLPOC8EQVL6C03) | 2:07 | 2024-11-20 | 2024-12-05 |
-| [Genesis 3:12](https://open.spotify.com/track/4nAiTmZGaV87iDcNWZ3Wed) | [Jon Rivera](https://open.spotify.com/artist/34y32pDipyh4aj4SeUKz2d) | [Genesis 3:12](https://open.spotify.com/album/5dGPX4KrYKKYDCZ5I7TtrZ) | 2:36 | 2026-10-07 |  |
+| [Genesis 3:12](https://open.spotify.com/track/4nAiTmZGaV87iDcNWZ3Wed) | [Jon Rivera](https://open.spotify.com/artist/34y32pDipyh4aj4SeUKz2d) | [Genesis 3:12](https://open.spotify.com/album/5dGPX4KrYKKYDCZ5I7TtrZ) | 2:36 | 2026-10-07 | 2026-10-24 |
 | [Georgia](https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H) | [Olivia Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Georgia](https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx) | 2:09 | 2026-08-05 | 2026-09-03 |
 | [Get Down](https://open.spotify.com/track/2UcBRbsaLtVJQnnkm23He9) | [Dominic Pierce](https://open.spotify.com/artist/5wTDSzqp1zaULJlPK2Zv83) | [Get Down](https://open.spotify.com/album/0P100RmKALDQSdKaLoDbNw) | 4:58 | 2024-11-13 | 2024-12-05 |
 | [Get It Right](https://open.spotify.com/track/1FAIURGh0109oJkdNdxi9v) | [Coolin'](https://open.spotify.com/artist/7rHTB0vouJ0cOlQcn5Y74U), [Lotta](https://open.spotify.com/artist/42SiTs8gDY31oW1gS52LuX) | [Get It Right](https://open.spotify.com/album/3hL20uaGeKJsJUFniuolir) | 2:11 | 2025-06-18 | 2025-06-26 |
@@ -1152,6 +1153,7 @@
 | [hey cinderella](https://open.spotify.com/track/58VbwpkRwzTyK43hIYkrZP) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [hey cinderella](https://open.spotify.com/album/54faiWodB3OiRvKjH5zQzE) | 2:02 | 2024-11-27 | 2024-12-05 |
 | [HEY RENAY!](https://open.spotify.com/track/34Kzx6FEoDkWhx8f4vQIbk) | [RENAY](https://open.spotify.com/artist/4Ya5JwMNfD1dSV1vcxr2gf) | [HEY RENAY!](https://open.spotify.com/album/0tJruUUD9FRw3V7PZ0437S) | 1:08 | 2025-09-25 | 2025-10-23 |
 | [Hi Skool](https://open.spotify.com/track/3aS68l2gw3hsFvaUMqbEB1) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Hi Skool](https://open.spotify.com/album/1zCz9AvEiX7LwtKHRQT5ue) | 2:33 | 2023-08-30 | 2023-09-07 |
+| [Hi, hello](https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Hi, hello](https://open.spotify.com/album/2YVagahVXK1W7Jk4Cfjvje) | 2:36 | 2026-10-23 |  |
 | [Hiccup](https://open.spotify.com/track/2R3lSZ2AHGA7EPFgmsdFdy) | [Miina](https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Hiccup](https://open.spotify.com/album/6Yq3XszbeToe8S0ymYeaMx) | 3:16 | 2023-08-16 | 2024-01-11 |
 | [Hidden Jewel](https://open.spotify.com/track/5TZKZDIXEbE4zNXPttVstA) | [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Hidden Jewel](https://open.spotify.com/album/5A1bIUXYcCgiqv5ld4WSGk) | 1:54 | 2024-07-31 | 2024-08-22 |
 | [Hide](https://open.spotify.com/track/7rp5aEA1mcNxqRGJB8cl49) | [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Hide](https://open.spotify.com/album/2hCjKrpKYnQOFwds56SJQx) | 4:09 | 2024-05-15 | 2024-06-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 38 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 38 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 20 | [Nøkken](https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:33 |
 | 21 | [Hypnogogia](https://open.spotify.com/track/7Iwx5gAyLH7OHfnvFqqTCu) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Dolphin Midwives](https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 5:05 |
 | 22 | [Loph](https://open.spotify.com/track/0amgnDpCcLGBIlEvewxQnz) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 4:32 |
-| 23 | [Eleven d](https://open.spotify.com/track/1oaf9vUGUqXsrVH9S6BmMT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 0:59 |
+| 23 | [Wanwu](https://open.spotify.com/track/0srfa8G4qZZ6F4ghHmtGYK) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Janoya](https://open.spotify.com/artist/6eYWOx0R31IJGY5rqHRuB9) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 2:06 |
 | 24 | [Stars on the ground](https://open.spotify.com/track/1HOlpttdxR7fmgEeJrcDt8) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 5:15 |
 | 25 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 |
 | 26 | [Jeg Kan Så Godt Li Blomster](https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM) | [Phine & Ormen](https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Goddag](https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6) | 2:40 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 37 | [Endowment](https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:58 |
 | 38 | [Portal Of](https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 1:42 |
 
-Snapshot ID: `atavAAAAAAAwthMGQg5gD8Ml2djM0IF7`
+Snapshot ID: `atgAgAAAAAABKZFu8Aq/UHaujYxfa1ii`

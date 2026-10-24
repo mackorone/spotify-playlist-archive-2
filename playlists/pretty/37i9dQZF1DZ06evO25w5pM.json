@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19961,
+  "num_followers": 19962,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADE2FmjIXOZyFTgbeIEcU8R",
+  "snapshot_id": "atgAgAAAAAB+DRQNbDTOYqI5IhE74xJZ",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 513866,
+      "name": "East of the Full Moon",
+      "url": "https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 500333,
+      "name": "Escape from Gravity",
+      "url": "https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -207,38 +239,6 @@
       "duration_ms": 488866,
       "name": "Kiss of a Rose",
       "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 513866,
-      "name": "East of the Full Moon",
-      "url": "https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 500333,
-      "name": "Escape from Gravity",
-      "url": "https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia"
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery of Light",
-        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 305226,
-      "name": "Celestial Meadows",
-      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
+      "duration_ms": 727933,
+      "name": "Healing Circle",
+      "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 727933,
-      "name": "Healing Circle",
-      "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
+      "duration_ms": 305226,
+      "name": "Celestial Meadows",
+      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
     },
     {
       "added_at": null,

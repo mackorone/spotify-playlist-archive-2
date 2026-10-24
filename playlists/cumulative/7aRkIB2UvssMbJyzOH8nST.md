@@ -4,7 +4,7 @@
 
 > Ease into your  morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-358 songs - 20 hr 32 min
+363 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 | 2025-07-18 | 2026-09-01 |
 | [Choir](https://open.spotify.com/track/640jkbfHDZM8SVBqMnHJg6) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [T\. R\. U\. T\. H.](https://open.spotify.com/album/42w25uAncdyETcTJyOV16K) | 2:53 | 2025-07-18 | 2026-03-28 |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2025-07-18 | 2026-02-05 |
+| [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-23 |  |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2025-07-18 |  |
 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-09-18 |  |
 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2025-07-18 | 2026-08-08 |
@@ -85,6 +86,7 @@
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2026-01-27 | 2026-02-05 |
 | [Diamond](https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:30 | 2025-08-15 | 2026-02-07 |
 | [Difficult Love](https://open.spotify.com/track/4Egqw4G2svWMRtc3MlYLb7) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2) | 2:33 | 2026-06-05 |  |
+| [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 | 2026-10-23 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 | 2026-07-08 |  |
 | [Don't Leave Me](https://open.spotify.com/track/2ffnJc4c1n5qeOCh8DFYyz) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y) | [Don't Leave Me](https://open.spotify.com/album/2gr4bV7obIqVAFkpwfE2ma) | 3:14 | 2026-09-11 | 2026-10-10 |
 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 | 2025-07-18 |  |
@@ -110,6 +112,7 @@
 | [FU & UF](https://open.spotify.com/track/6EmVYBTauOBjejUU5n9GyF) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/6KwW5AwZbyHJD3KyZuuyM1) | 2:39 | 2025-10-24 | 2026-01-31 |
 | [Georgia](https://open.spotify.com/track/5sfvzgf96i6nLyLELnrLZ6) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:50 | 2026-01-27 | 2026-08-01 |
 | [Give You The World](https://open.spotify.com/track/14jzHnfgLUZDLNcI0EciWb) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You The World](https://open.spotify.com/album/5Sp7sBzrqrOVcIZ4xY0iU4) | 3:39 | 2025-07-18 | 2026-01-31 |
+| [God Forbid a Girl Gets Used To This](https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX) | [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [God Forbid a Girl Gets Used To This](https://open.spotify.com/album/0i44xpup3y135PLPN32jSL) | 4:04 | 2026-10-23 |  |
 | [Gold](https://open.spotify.com/track/4Qy7yWT1UI6FK2CWrqkGwR) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [This Marauder's Midnight](https://open.spotify.com/album/6Nahal5iYJfGxEXeGSL3b3) | 4:11 | 2025-07-18 |  |
 | [Gone In The Morning \- Radio Edit](https://open.spotify.com/track/3QPiJjSyHB5ZUxtxQQiOuH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Gone In The Morning \(Radio Edit\)](https://open.spotify.com/album/2GYGS0eufr8rjplsfGUPGg) | 2:47 | 2025-11-28 | 2026-01-27 |
 | [good old days](https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [good old days](https://open.spotify.com/album/3qPnAsGYDEi6kboQkQS0cT) | 2:36 | 2025-07-18 | 2025-09-13 |
@@ -215,6 +218,7 @@
 | [Mirrors \- Radio Edit](https://open.spotify.com/track/6ToFxXRBtl5TJFEyIoYK3f) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Mirrors \(Radio Edit\)](https://open.spotify.com/album/28GWVLkctSuSWQ1EUIxZ8m) | 4:37 | 2025-07-18 | 2026-09-19 |
 | [MISS U](https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [MISS U](https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24) | 2:31 | 2026-05-19 | 2026-06-10 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2025-07-18 | 2026-02-05 |
+| [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 | 2026-10-23 |  |
 | [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-03 | 2026-01-27 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-07-18 | 2026-01-31 |
 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-07-08 |  |
@@ -315,6 +319,7 @@
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2026-02-04 |  |
 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-18 | 2025-08-12 |
 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 | 2026-01-27 | 2026-02-05 |
+| [there's no easy way to put this...](https://open.spotify.com/track/6OCCNtYX4xH5CHe3ey2jsB) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [there's no easy way to put this...](https://open.spotify.com/album/6rlGBIOV37DbGtL3Ijvx5J) | 3:46 | 2026-10-23 |  |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2026-01-27 |  |
 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 | 2025-08-15 | 2026-09-19 |
 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 | 2026-05-20 | 2026-07-11 |

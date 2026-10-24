@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 479185,
+  "num_followers": 479210,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADlfV3rXh4CJqqLRNNqNEyk",
+  "snapshot_id": "atgAgAAAAABAusz9COCU93bG4iGFXucY",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tal Como Eres",
         "url": "https://open.spotify.com/album/01FH4gwom3VRLqiv5mjztb"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 230802,
       "name": "Tal Como Eres",
       "url": "https://open.spotify.com/track/5B0TN45dJn3j4j92VluShj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "El Primer Ministro",
-      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Primer Ministro (Version Deluxe)",
         "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 159133,
       "name": "Soy De Durango",
       "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "El Primer Ministro",
+      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
     },
     {
       "added_at": null,

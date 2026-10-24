@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Lucky Daye\n",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Jessie Reyez\n",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -2337,6 +2337,28 @@
     },
     {
       "album": {
+        "name": "BEEN HERE BEFORE",
+        "url": "https://open.spotify.com/album/3ynfbKWAnghUZitU9jP6Fd"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200151,
+      "name": "BEEN HERE BEFORE",
+      "url": "https://open.spotify.com/track/5sD01JnvvAOWCgrr5UzMBW"
+    },
+    {
+      "album": {
         "name": "Been So Long",
         "url": "https://open.spotify.com/album/6Qg0fXUJBLbzE2OBcTIXfd"
       },
@@ -2490,7 +2512,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 176000,
       "name": "Besitos",
       "url": "https://open.spotify.com/track/3D1zuCEEuruT48Y51VsHZq"
@@ -2902,7 +2924,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194285,
       "name": "Black Flower",
       "url": "https://open.spotify.com/track/5j7yfmvOnLEvwGAgK9z3aL"
@@ -3156,6 +3178,28 @@
       "duration_ms": 141242,
       "name": "Blue Violets (Twitch Tapes)",
       "url": "https://open.spotify.com/track/4BaAQ13n408GvLpRrDY0kA"
+    },
+    {
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228563,
+      "name": "Bodies On The Floor (feat. Clipse)",
+      "url": "https://open.spotify.com/track/58MoSwpvzOxZAgk7dMb3ci"
     },
     {
       "album": {
@@ -3786,7 +3830,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 188181,
       "name": "Bury It",
       "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
@@ -5377,6 +5421,28 @@
     },
     {
       "album": {
+        "name": "Cry On You",
+        "url": "https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120521,
+      "name": "Cry On You",
+      "url": "https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr"
+    },
+    {
+      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -6724,7 +6790,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 181736,
       "name": "Dreamer's Song",
       "url": "https://open.spotify.com/track/5VbmUEAhSFWVzOnH0rmwsl"
@@ -6776,7 +6842,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 229846,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/1MW9Gu70xmm5LTu4iVeLsX"
@@ -7394,7 +7460,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 226626,
       "name": "fallin",
       "url": "https://open.spotify.com/track/4OvxlceUGGeS6iMfyjESpf"
@@ -9328,6 +9394,28 @@
       "duration_ms": 183034,
       "name": "God Went Crazy",
       "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+    },
+    {
+      "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171436,
+      "name": "GODDESS (feat. Lojay)",
+      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
       "album": {
@@ -14891,6 +14979,28 @@
     },
     {
       "album": {
+        "name": "love?... or something like it (Deluxe)",
+        "url": "https://open.spotify.com/album/0VI7CsEX0FZvHu1D7q9xFI"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "love or something like it (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
+    },
+    {
+      "album": {
         "name": "Love We Share",
         "url": "https://open.spotify.com/album/4CEsVeJTk1ko68df1jJKqc"
       },
@@ -15270,7 +15380,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 165495,
       "name": "MADE 4 THIS",
       "url": "https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp"
@@ -16282,6 +16392,24 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "album": {
+        "name": "Misunderstood Angel",
+        "url": "https://open.spotify.com/album/1L3ePl6gKJsQvoRTtPwVQq"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Misunderstood Angel",
+      "url": "https://open.spotify.com/track/42VOAQC4YOksWxK4mXUd4A"
     },
     {
       "album": {
@@ -18202,7 +18330,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 195285,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
@@ -18530,7 +18658,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 137755,
       "name": "One Last Night",
       "url": "https://open.spotify.com/track/3JF6axsz0mPiqOb3xOArqE"
@@ -19166,7 +19294,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 207082,
       "name": "Overthink (feat. Elmiene)",
       "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
@@ -20708,6 +20836,24 @@
       "duration_ms": 160446,
       "name": "Reality",
       "url": "https://open.spotify.com/track/7Lhf8RzXJhsHP7qJgD1p01"
+    },
+    {
+      "album": {
+        "name": "Therapy Wasn't Enough: Off The Record",
+        "url": "https://open.spotify.com/album/3JnwiLvVIdbUoYdKYXmo3X"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130647,
+      "name": "Reality Show - Bonus Track",
+      "url": "https://open.spotify.com/track/5umw9VsZu5K6AWPXoS0BWK"
     },
     {
       "album": {
@@ -22317,6 +22463,28 @@
     },
     {
       "album": {
+        "name": "She Decides (feat. Jeremih)",
+        "url": "https://open.spotify.com/album/2wWH2IzZkfofhy7W19ByTg"
+      },
+      "artists": [
+        {
+          "name": "Tallia Storm",
+          "url": "https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152166,
+      "name": "She Decides (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/1PsFgpJ0dtbhl7H2Gsmw8e"
+    },
+    {
+      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -22762,7 +22930,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 206357,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/2GKQ8pL7VJiQl5hQd0mqsv"
@@ -23622,6 +23790,24 @@
       "duration_ms": 231213,
       "name": "Souls x Mates",
       "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
+    },
+    {
+      "album": {
+        "name": "SOVEREIGN LAND",
+        "url": "https://open.spotify.com/album/6nedzUexHeu5kEYuRmD4PU"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/3akNcl19u2UUXBtXmRWLxe"
     },
     {
       "album": {
@@ -25724,6 +25910,24 @@
       "duration_ms": 251038,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "album": {

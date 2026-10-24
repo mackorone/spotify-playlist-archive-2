@@ -10990,7 +10990,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201863,
       "name": "Det Modsatte",
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
@@ -42854,6 +42854,28 @@
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
+        "name": "Sofie, Jeg Elsker Dig",
+        "url": "https://open.spotify.com/album/0rGVuzaCE7EZdrMlJPL2Uk"
+      },
+      "artists": [
+        {
+          "name": "Sondergaard",
+          "url": "https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz"
+        },
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155887,
+      "name": "Sofie, Jeg Elsker Dig",
+      "url": "https://open.spotify.com/track/6IPoBxgqN4QHuoqmzbVscZ"
     },
     {
       "album": {

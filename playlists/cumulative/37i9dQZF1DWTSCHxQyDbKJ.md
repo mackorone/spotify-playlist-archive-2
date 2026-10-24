@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Joesef
 
-295 songs - 16 hr 13 min
+296 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,13 +135,14 @@
 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 | 2025-02-14 | 2026-10-05 |
 | [Humanity](https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [STARFACE](https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL) | 3:20 | 2024-12-04 | 2025-01-14 |
 | [Humanity](https://open.spotify.com/track/7IjLwKOvFCNxy59yZ5sVRb) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Humanity](https://open.spotify.com/album/46K0JxHJHa6jRwd0tZGwCo) | 3:20 | 2024-06-10 | 2024-08-20 |
+| [Hystérique](https://open.spotify.com/track/4CKWUf6UfYvMsR3m0RRhHO) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Hystérique](https://open.spotify.com/album/5AkgK92mW3dC9RH5cXwThx) | 3:49 | 2026-10-22 |  |
 | [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2024-06-10 | 2026-02-11 |
 | [I Don't Miss You \(I Just Miss Your Mum\)](https://open.spotify.com/track/1y4PXL5npR2o7mC6XzMW5Y) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Don't Miss You \(I Just Miss Your Mum\)](https://open.spotify.com/album/7hANRh9kW0YFQ3GWTI0ER5) | 2:55 | 2024-07-08 | 2024-08-13 |
 | [I Feel It](https://open.spotify.com/track/5J5TFaezewttgaKDsI9MLd) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [I Feel It](https://open.spotify.com/album/4wmKWqt9VDleEkn68D2ret) | 2:50 | 2026-07-13 |  |
 | [I Know It Happened But I Can't Explain](https://open.spotify.com/track/1PRY3whxLdyRwOWROuakG8) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [I Know It Happened But I Can't Explain](https://open.spotify.com/album/0Qxnmt9laQJu48svYZQ6Xt) | 3:08 | 2024-06-10 | 2025-01-18 |
 | [I Wanna Be Loved By You](https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [I Got Too Sad For My Friends](https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk) | 3:03 | 2025-05-29 |  |
 | [I Want What I Don't Need](https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 3:35 | 2024-12-04 | 2025-01-14 |
-| [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 | 2025-07-07 |  |
+| [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 | 2025-07-07 | 2026-10-24 |
 | [I Would Die 4 U](https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz) | [I Would Die 4 U](https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO) | 3:21 | 2024-09-09 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/3K1XfGFwe8lGdlr0TRze5N) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:21 | 2024-12-04 | 2025-01-14 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2024-06-10 | 2025-07-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 205327,
+  "num_followers": 205350,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAuSKkCjI1cNa9lODT+W63v",
+  "snapshot_id": "atgAgAAAAACdqu7g9fOOWlk8bq0iBI8F",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Wild Wild Life",
-      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 343426,
       "name": "Girlfriend Is Better - 2005 Remaster",
       "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Wild Wild Life",
+      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
     },
     {
       "added_at": null,

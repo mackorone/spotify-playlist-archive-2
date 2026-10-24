@@ -1,12 +1,12 @@
 {
   "description": "Sleepy, cosy piano music for snoozing, power naps and relaxation. ",
-  "num_followers": 21868,
+  "num_followers": 21876,
   "original_name": "Nap Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEyEwLrDVpeiD1sGMShMwMkg4fCT",
+  "snapshot_id": "AAAAAL55L8HRqK4Mec/ly8l2jsbwxAnw",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:13",
@@ -151,6 +151,22 @@
       "duration_ms": 164869,
       "name": "The Quiet We Found",
       "url": "https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL"
+    },
+    {
+      "added_at": "2026-10-23 04:01:43",
+      "album": {
+        "name": "Without a Word",
+        "url": "https://open.spotify.com/album/1MrA7zIefy4ibNZeUdl3sI"
+      },
+      "artists": [
+        {
+          "name": "Asger Rykker",
+          "url": "https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Without a Word",
+      "url": "https://open.spotify.com/track/45dVmnPoz3qOcHwXi3aQpY"
     },
     {
       "added_at": "2026-10-09 04:01:13",

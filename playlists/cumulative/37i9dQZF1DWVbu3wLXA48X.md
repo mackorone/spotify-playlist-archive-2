@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: girl in red
 
-2,822 songs - 7 day 1 hr 34 min
+2,823 songs - 7 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-22 | 2023-10-14 |
 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-22 | 2023-09-25 |
 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 | 2023-02-25 |
+| [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 | 2026-10-22 |  |
 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 | 2023-06-30 | 2023-08-19 |
 | [Gaslight](https://open.spotify.com/track/1CKHCNHKs6NT4Of7H8RZ0N) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Gaslight](https://open.spotify.com/album/1Dp1BGSJPV8iIJJMyOFb5J) | 3:21 | 2024-10-11 | 2025-01-25 |
 | [Gasoline \- triple j Like A Version](https://open.spotify.com/track/1AtAj9ArYUprSRwdLjItvl) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gasoline \(triple j Like A Version\)](https://open.spotify.com/album/6nCPvy37Ift4HZgMOnhC9i) | 3:22 | 2025-07-17 | 2025-10-04 |

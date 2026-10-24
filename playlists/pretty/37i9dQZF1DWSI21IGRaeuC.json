@@ -1,13 +1,37 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 92998,
+  "num_followers": 93081,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADjt0LHe9SYvBraQCS9ryrD699yc",
+  "snapshot_id": "AAAAAKe76kn88UAKr04LKnjWRF9Xf18k",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "PEOPLE IN THE PLACE",
+        "url": "https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ"
+      },
+      "artists": [
+        {
+          "name": "A.B.C.",
+          "url": "https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 203105,
+      "name": "PEOPLE IN THE PLACE",
+      "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
+    },
     {
       "added_at": "2026-10-09 04:01:48",
       "album": {
@@ -23,26 +47,6 @@
       "duration_ms": 190534,
       "name": "Let's Get This",
       "url": "https://open.spotify.com/track/5FCtVeCG1dsTqfDHkyALR2"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Hey Everybody (L.P. Rhythm Remix)",
-        "url": "https://open.spotify.com/album/4HKBEdJCnCiPw18llmrqP2"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        },
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 198181,
-      "name": "Hey Everybody - L.P. Rhythm Remix",
-      "url": "https://open.spotify.com/track/1Yx7mkfQ1etpKWcxovRRci"
     },
     {
       "added_at": "2026-10-09 04:01:48",
@@ -63,6 +67,22 @@
       "duration_ms": 225459,
       "name": "What Would I Do",
       "url": "https://open.spotify.com/track/0C9gQPONf0dK64fRDP2x95"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Zoolander",
+        "url": "https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 178238,
+      "name": "Zoolander",
+      "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
     },
     {
       "added_at": "2026-08-28 04:01:45",
@@ -87,90 +107,38 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Because of You",
-        "url": "https://open.spotify.com/album/3Jp3UkwEmgEwTOkfz5GloF"
+        "name": "Hey Everybody (L.P. Rhythm Remix)",
+        "url": "https://open.spotify.com/album/4HKBEdJCnCiPw18llmrqP2"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
         },
         {
-          "name": "Tom Did It",
-          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
         }
       ],
-      "duration_ms": 227368,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/556v7tfoew5CLbq8vIm3S7"
+      "duration_ms": 198181,
+      "name": "Hey Everybody - L.P. Rhythm Remix",
+      "url": "https://open.spotify.com/track/1Yx7mkfQ1etpKWcxovRRci"
     },
     {
-      "added_at": "2026-10-02 04:01:31",
+      "added_at": "2026-10-23 04:03:24",
       "album": {
-        "name": "Marido Dansa EP",
-        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
         }
       ],
-      "duration_ms": 154153,
-      "name": "Marido Dansa",
-      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
-    },
-    {
-      "added_at": "2026-10-02 04:01:31",
-      "album": {
-        "name": "Speechless",
-        "url": "https://open.spotify.com/album/3uRoVXvf3GfjmtlKkBUnNh"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 202123,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/7cRKNHHv3WvKBYzrzMvEoG"
-    },
-    {
-      "added_at": "2026-10-09 04:01:48",
-      "album": {
-        "name": "Be With Me",
-        "url": "https://open.spotify.com/album/3Bg6vIcIN4l36wx5OGvR4A"
-      },
-      "artists": [
-        {
-          "name": "Jordan Peak",
-          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
-        }
-      ],
-      "duration_ms": 177227,
-      "name": "Be With Me",
-      "url": "https://open.spotify.com/track/16MyWttTIIE8JvbyvQVMeZ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Pumping Jumping EP",
-        "url": "https://open.spotify.com/album/6yFn4ZyTB00Y3w6SOteu8f"
-      },
-      "artists": [
-        {
-          "name": "Luke Andrews",
-          "url": "https://open.spotify.com/artist/4HXTQukv28KsVXxf1uXQoA"
-        },
-        {
-          "name": "Owen Andrews",
-          "url": "https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s"
-        }
-      ],
-      "duration_ms": 150343,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/3Jyy6rdv5KGlqXrXREnUbj"
+      "duration_ms": 181374,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
     },
     {
       "added_at": "2026-10-09 04:01:48",
@@ -189,36 +157,104 @@
       "url": "https://open.spotify.com/track/3J5dFmwhCWcHUWN4mgYbGc"
     },
     {
-      "added_at": "2026-08-28 04:01:45",
+      "added_at": "2026-10-02 04:01:31",
       "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+        "name": "Marido Dansa EP",
+        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
       },
       "artists": [
         {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
         }
       ],
-      "duration_ms": 160000,
-      "name": "1997 - Radio Edit",
-      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+      "duration_ms": 154153,
+      "name": "Marido Dansa",
+      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "The Sound Of House",
+        "url": "https://open.spotify.com/album/6PTh17gWSQd8PA9wGh5t1H"
+      },
+      "artists": [
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        }
+      ],
+      "duration_ms": 178191,
+      "name": "The Sound Of House",
+      "url": "https://open.spotify.com/track/3npZu2cvQSzSN31ouiNOyJ"
+    },
+    {
+      "added_at": "2026-10-02 04:01:31",
+      "album": {
+        "name": "Speechless",
+        "url": "https://open.spotify.com/album/3uRoVXvf3GfjmtlKkBUnNh"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 202123,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/7cRKNHHv3WvKBYzrzMvEoG"
     },
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Take You Deeper",
-        "url": "https://open.spotify.com/album/7b2U3SGZhxkwH1qWaCE5i9"
+        "name": "Because of You",
+        "url": "https://open.spotify.com/album/3Jp3UkwEmgEwTOkfz5GloF"
       },
       "artists": [
         {
-          "name": "Ford Scott",
-          "url": "https://open.spotify.com/artist/36oTGwf1nycnUTEzONpUMD"
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
         }
       ],
-      "duration_ms": 171940,
-      "name": "Take You Deeper",
-      "url": "https://open.spotify.com/track/0IydeyNqfmTB0rgXpbrzxE"
+      "duration_ms": 227368,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/556v7tfoew5CLbq8vIm3S7"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Freakiness",
+        "url": "https://open.spotify.com/album/27NK8WVKUNA3LbDW02reN6"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        }
+      ],
+      "duration_ms": 211127,
+      "name": "Freakiness",
+      "url": "https://open.spotify.com/track/3Q9AFy7RhFlp5QWmBhLdEq"
+    },
+    {
+      "added_at": "2026-10-09 04:01:48",
+      "album": {
+        "name": "Be With Me",
+        "url": "https://open.spotify.com/album/3Bg6vIcIN4l36wx5OGvR4A"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "duration_ms": 177227,
+      "name": "Be With Me",
+      "url": "https://open.spotify.com/track/16MyWttTIIE8JvbyvQVMeZ"
     },
     {
       "added_at": "2026-09-21 15:14:56",
@@ -235,6 +271,70 @@
       "duration_ms": 198945,
       "name": "Bass Drop",
       "url": "https://open.spotify.com/track/5LOkqfRL9Wl6r7exO6Xm6P"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Want Ya I Need Ya",
+        "url": "https://open.spotify.com/album/6F5xFEu06eciUir1TBmoaB"
+      },
+      "artists": [
+        {
+          "name": "jWave",
+          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Want Ya I Need Ya",
+      "url": "https://open.spotify.com/track/1nKSOCTVg4u2uKfU2YsaMg"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "1997 - Radio Edit",
+      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6qhkVu8Dyss8mG1z6OUM7R"
+      },
+      "artists": [
+        {
+          "name": "ODF",
+          "url": "https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu"
+        }
+      ],
+      "duration_ms": 192628,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/2uA0MTSRp0SInU3DLSKrSy"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Take You Deeper",
+        "url": "https://open.spotify.com/album/7b2U3SGZhxkwH1qWaCE5i9"
+      },
+      "artists": [
+        {
+          "name": "Ford Scott",
+          "url": "https://open.spotify.com/artist/36oTGwf1nycnUTEzONpUMD"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Take You Deeper",
+      "url": "https://open.spotify.com/track/0IydeyNqfmTB0rgXpbrzxE"
     },
     {
       "added_at": "2026-10-02 04:01:31",
@@ -273,6 +373,22 @@
       "url": "https://open.spotify.com/track/7wOyANRdnt02Yd6x8iFiRw"
     },
     {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Ecstasy EP",
+        "url": "https://open.spotify.com/album/4bvWMPQNVTXPuZVNdiTB3e"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "duration_ms": 157734,
+      "name": "Ecstasy - Radio Edit",
+      "url": "https://open.spotify.com/track/4ya5V39vRqpudxsTA7yCcZ"
+    },
+    {
       "added_at": "2026-10-09 04:01:48",
       "album": {
         "name": "Haha",
@@ -303,6 +419,26 @@
       "duration_ms": 235346,
       "name": "Desires Ignite - Radio Edit",
       "url": "https://open.spotify.com/track/4rBjGRCFuHxcXvE5Nw9x9T"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Pumping Jumping EP",
+        "url": "https://open.spotify.com/album/6yFn4ZyTB00Y3w6SOteu8f"
+      },
+      "artists": [
+        {
+          "name": "Luke Andrews",
+          "url": "https://open.spotify.com/artist/4HXTQukv28KsVXxf1uXQoA"
+        },
+        {
+          "name": "Owen Andrews",
+          "url": "https://open.spotify.com/artist/6Y2knsfOnEts3QifhoUV1s"
+        }
+      ],
+      "duration_ms": 150343,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/3Jyy6rdv5KGlqXrXREnUbj"
     },
     {
       "added_at": "2026-09-18 04:02:15",
@@ -1029,26 +1165,6 @@
       "url": "https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq"
     },
     {
-      "added_at": "2026-09-04 04:01:18",
-      "album": {
-        "name": "Precious Diamond",
-        "url": "https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        },
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 198764,
-      "name": "Precious Diamond",
-      "url": "https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr"
-    },
-    {
       "added_at": "2026-09-11 04:01:32",
       "album": {
         "name": "Disco Jungle",
@@ -1333,22 +1449,6 @@
       "url": "https://open.spotify.com/track/5yPZbV61vFlV8WqPps3Q2p"
     },
     {
-      "added_at": "2026-08-21 04:01:27",
-      "album": {
-        "name": "Apollo EP",
-        "url": "https://open.spotify.com/album/613vduHdqJtYfEcQJrMa6V"
-      },
-      "artists": [
-        {
-          "name": "Hidde van Wee",
-          "url": "https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4GdwW9L7J17YMgZ9nJjNVu"
-    },
-    {
       "added_at": "2026-07-17 04:01:06",
       "album": {
         "name": "The Bridge",
@@ -1549,22 +1649,6 @@
       "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
     },
     {
-      "added_at": "2026-07-31 04:01:09",
-      "album": {
-        "name": "Pushin' On",
-        "url": "https://open.spotify.com/album/1weHSnCa3BVh3BK8A8akyy"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Pushin' On - Radio Edit",
-      "url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5"
-    },
-    {
       "added_at": "2026-07-10 04:02:04",
       "album": {
         "name": "What's Going On",
@@ -1645,42 +1729,6 @@
       "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
     },
     {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 176969,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
-    },
-    {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "Golden Eyes EP",
-        "url": "https://open.spotify.com/album/0lxbtm8G29O60hUlH66i3V"
-      },
-      "artists": [
-        {
-          "name": "Di Chiara Brothers",
-          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
-        },
-        {
-          "name": "Romita Raiz",
-          "url": "https://open.spotify.com/artist/4XhmPkmzA8y2n3QfncDtK6"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Golden Eyes",
-      "url": "https://open.spotify.com/track/1d8w8ahMR2HwECpQ5ksjZB"
-    },
-    {
       "added_at": "2026-06-19 04:01:17",
       "album": {
         "name": "Feel",
@@ -1733,22 +1781,6 @@
       "url": "https://open.spotify.com/track/1Q24Vs2ynPhDpg4XCuxdR4"
     },
     {
-      "added_at": "2026-07-01 03:14:17",
-      "album": {
-        "name": "Other Side of the Phone",
-        "url": "https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 285354,
-      "name": "Other Side of the Phone",
-      "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
-    },
-    {
       "added_at": "2026-06-05 04:01:30",
       "album": {
         "name": "Choose or Lose",
@@ -1785,22 +1817,6 @@
       "url": "https://open.spotify.com/track/3v99wqFqqedYXeKmyUCKP8"
     },
     {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Mesmerize",
-        "url": "https://open.spotify.com/album/5KfSWHvDUW05seZMLbirnL"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Mesmerize",
-      "url": "https://open.spotify.com/track/0oDbO6K2eYSobaJmDM1cNw"
-    },
-    {
       "added_at": "2026-07-10 04:02:04",
       "album": {
         "name": "Big Beat EP",
@@ -1815,22 +1831,6 @@
       "duration_ms": 153344,
       "name": "Big Beat",
       "url": "https://open.spotify.com/track/2DhhhosrtccQXQXW9Cjxf6"
-    },
-    {
-      "added_at": "2026-07-01 03:14:17",
-      "album": {
-        "name": "Something 2 Dance 2",
-        "url": "https://open.spotify.com/album/2qYmim1O8vwP43jzusfIKJ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Peak",
-          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
-        }
-      ],
-      "duration_ms": 207289,
-      "name": "Something 2 Dance 2",
-      "url": "https://open.spotify.com/track/5eABSV4aDk5irs5DVz9VIG"
     },
     {
       "added_at": "2026-03-20 04:00:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,228,517 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,228,544 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 30 | [Mr\. Loverman \(feat\. Chevelle Franklin\)](https://open.spotify.com/track/2rbhnnqBoizShumb5Ul8oR) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Chevelle Franklin](https://open.spotify.com/artist/1owFk9HCCiomrmEt6k9cqC) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:38 |
 | 31 | [Te Ves Buena](https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:02 |
 | 32 | [Babylon Too Rough](https://open.spotify.com/track/2CFxgaypHjxdYWgfGFoDs0) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:53 |
-| 33 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
-| 34 | [Stop That Train](https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:14 |
+| 33 | [Stop That Train](https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:14 |
+| 34 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
 | 35 | [Simmerdown](https://open.spotify.com/track/7lbl1Ki2GqaXenJlM4zvGh) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [The Sleepwalking Society](https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4) | 3:27 |
 | 36 | [Strong Me Strong](https://open.spotify.com/track/4xJqi0uHh629XvW7WlKRxZ) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:48 |
 | 37 | [Last War](https://open.spotify.com/track/3CATV9Xarrz4sK5Audiq6r) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:00 |

@@ -359,6 +359,32 @@
     },
     {
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
+    },
+    {
+      "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
       },
@@ -1680,10 +1706,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189375,
       "name": "Jalebi Baby",
       "url": "https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv"
+    },
+    {
+      "album": {
+        "name": "Jalebi Baby (Tesher x Jason Derulo)",
+        "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169154,
+      "name": "Jalebi Baby (Tesher x Jason Derulo)",
+      "url": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
     },
     {
       "album": {
@@ -1898,7 +1946,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 187710,
       "name": "Kar Gayi Chull",
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3"
@@ -2394,7 +2442,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "Naagin",
       "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
@@ -4006,7 +4054,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 211869,
       "name": "Yimmy Yimmy",
       "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"

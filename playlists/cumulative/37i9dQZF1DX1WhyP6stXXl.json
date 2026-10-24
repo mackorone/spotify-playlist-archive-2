@@ -8364,10 +8364,6 @@
         {
           "name": "Miley Cyrus",
           "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Ilsey Juber",
-          "url": "https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9"
         }
       ],
       "date_added": "2026-10-22",
@@ -43545,6 +43541,24 @@
     },
     {
       "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/74oE7jwtXnGk7eFE3M1cGz"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166507,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/49Y59VzV0JqpGbLrDazOpL"
+    },
+    {
+      "album": {
         "name": "Wicked: For Good \u2013 The Soundtrack",
         "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
       },
@@ -45692,24 +45706,6 @@
       "duration_ms": 200722,
       "name": "Traces",
       "url": "https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4"
-    },
-    {
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/74oE7jwtXnGk7eFE3M1cGz"
-      },
-      "artists": [
-        {
-          "name": "Ronis Goliath",
-          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
-        }
-      ],
-      "date_added": "2026-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/49Y59VzV0JqpGbLrDazOpL"
     },
     {
       "album": {
@@ -50032,6 +50028,24 @@
       "duration_ms": 156545,
       "name": "worth my salt",
       "url": "https://open.spotify.com/track/3n5EfwQCoctF4EiLNgrOJd"
+    },
+    {
+      "album": {
+        "name": "Wrapped in Gold",
+        "url": "https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199363,
+      "name": "Wrapped in Gold",
+      "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
     },
     {
       "album": {

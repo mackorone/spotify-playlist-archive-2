@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/6KiJHWnUx7PC0luCoNhIMN"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/4CbORVOeuig8BjedYybW4g"
+    },
+    {
+      "album": {
         "name": "Clay",
         "url": "https://open.spotify.com/album/0CmOmXMgJWIDgxAwi9zmUd"
       },
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 205162,
       "name": "Draw a Line",
       "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
@@ -8849,24 +8867,6 @@
     },
     {
       "album": {
-        "name": "Chosen One",
-        "url": "https://open.spotify.com/album/6KiJHWnUx7PC0luCoNhIMN"
-      },
-      "artists": [
-        {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
-        }
-      ],
-      "date_added": "2026-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4CbORVOeuig8BjedYybW4g"
-    },
-    {
-      "album": {
         "name": "Treasure (feat. Shayan)",
         "url": "https://open.spotify.com/album/0HYCqwuloY3sN3U2HLiuIJ"
       },
@@ -9356,7 +9356,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 138218,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5coJwd09YfDIbyQdr99dyN"

@@ -14297,6 +14297,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3RM71KRGA9eoa90zZtHolX"
+      },
+      "artists": [
+        {
+          "name": "Yax Keyon",
+          "url": "https://open.spotify.com/artist/04m8qKALJROziTgfvAI2RY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164594,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2OmiatvHLBxMtsavSMikPK"
+    },
+    {
+      "album": {
         "name": "Bittersweet Memories",
         "url": "https://open.spotify.com/album/3Sy32uYspLRkdbQwlA3D0q"
       },
@@ -27020,6 +27038,24 @@
       "duration_ms": 118518,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7gUnSShgDIlRQjsPsRKXad"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/07WCO7mDXS8ZWcNXrwM4CK"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5UdRPuUEF2PqqZo60Zra3j"
     },
     {
       "album": {
@@ -82748,7 +82784,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 145423,
       "name": "Midnight Dreams and Lights",
       "url": "https://open.spotify.com/track/6JFLZSRd7EXNWPFWbf7fMX"
@@ -90288,7 +90324,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 130588,
       "name": "New Light",
       "url": "https://open.spotify.com/track/2tdQyprStjZEbzPO9gSAHm"
@@ -107230,7 +107266,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 147692,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/7gEZsQNuTYbLiMmr8LmXhQ"
@@ -107412,6 +107448,28 @@
       "duration_ms": 130688,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/56b029TFjoeQ8WMX8ob5Pg"
+    },
+    {
+      "album": {
+        "name": "Red Maple",
+        "url": "https://open.spotify.com/album/6L3Pj0w2j39BLwELkp2I7x"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Red Maple",
+      "url": "https://open.spotify.com/track/06abehrlDCUMJ2k8qstWW4"
     },
     {
       "album": {

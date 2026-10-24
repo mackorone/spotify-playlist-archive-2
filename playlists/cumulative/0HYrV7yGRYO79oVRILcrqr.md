@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-831 songs - 2 day 3 hr 47 min
+833 songs - 2 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
 | [Kneel Before the Light \(Humilitas\)](https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Soulwave](https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb) | 4:52 | 2026-07-26 | 2026-08-15 |
 | [Knottamun](https://open.spotify.com/track/4cj2mmO3p7ai4wqntGHkLL) | [DriftKin](https://open.spotify.com/artist/2ckHeRf1toBEDN7mos54nm) | [Knottamun](https://open.spotify.com/album/7gEP4C4P6qQ4TWXc1JPk5G) | 3:04 | 2026-08-29 |  |
-| [Kommst Du Mit](https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2) | [Con:ter](https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb) | [Con:ter](https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN) | 3:31 | 2026-10-15 |  |
+| [Kommst Du Mit](https://open.spotify.com/track/4bGRSHvvaOTJMKbZzcuVQ2) | [Con:ter](https://open.spotify.com/artist/75kXMoQQuoz9MJhZl5R1xb) | [Con:ter](https://open.spotify.com/album/1Rb2iyuaKcGQN1Crq3ddcN) | 3:33 | 2026-10-15 |  |
 | [Kryptonite](https://open.spotify.com/track/51FvtQMsWXSDS7bmnOqDcD) | [Mama Said](https://open.spotify.com/artist/3222eI74JYYnvhm4zhTu3V) | [Kryptonite](https://open.spotify.com/album/2Ttr0fh2gvZQuurlb5Nav6) | 3:07 | 2026-09-18 |  |
 | [L'ora della verità](https://open.spotify.com/track/3aDQeYFC5nETqDr6c3dIC1) | [Loryheart](https://open.spotify.com/artist/7nEVWdmA3rTNUtKI4abDsa) | [Inquietudini](https://open.spotify.com/album/1Xsfu4dN4W5IGGB6TPxKiY) | 3:47 | 2026-08-13 |  |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |
@@ -452,6 +452,7 @@
 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 | 2026-03-18 |
 | [Midnight Patrol](https://open.spotify.com/track/7ifVeohjksbPzebDHd6lZs) | [Sage Ironheart](https://open.spotify.com/artist/6i2Btj5JPkCHG2JfXjjsae) | [Midnight Patrol](https://open.spotify.com/album/5CmPSQVLr5AROqpNzLu6cJ) | 5:04 | 2026-08-31 | 2026-09-20 |
 | [MIDNIGHT WHEELS](https://open.spotify.com/track/3OWpxlReVR8TdHPhAQyxY9) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [MIDNIGHT WHEELS](https://open.spotify.com/album/221cfYszp8e0WF8ltJp5Ns) | 4:38 | 2026-05-24 | 2026-07-20 |
+| [Miedo](https://open.spotify.com/track/4yzqWVHQIiwdHruw2ZCZm7) | [Alejandro Palma](https://open.spotify.com/artist/3tcRwr3qKkvcHambpIo4rU) | [Miedo](https://open.spotify.com/album/4Yn6Yko2J8v9JlVOWoEX7E) | 4:31 | 2026-10-23 |  |
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
 | [MIRROR MAZE](https://open.spotify.com/track/7osshrygoODrSdnKQWn60r) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [MIRROR MAZE](https://open.spotify.com/album/6dH2T4qLjozTTG6OKceUo1) | 4:25 | 2026-06-28 | 2026-07-20 |
 | [Miss Reaper](https://open.spotify.com/track/6ukgL9GrdN3UjlarTh8siP) | [Lota](https://open.spotify.com/artist/2v9VcYjEiEp8VweMp3LV5W) | [Miss Reaper](https://open.spotify.com/album/1Y8qZkQo1yJk6f28WINpTr) | 3:29 | 2026-05-02 | 2026-07-12 |
@@ -587,6 +588,7 @@
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
 | [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
 | [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 | 2026-04-21 |
+| [Restless Alibi](https://open.spotify.com/track/5SGbLM7YQ1GdXJ2B3K4FVG) | [Echoviolet](https://open.spotify.com/artist/5Jrx7jtjiSPI8FAsjfqy3l) | [Restless Alibi](https://open.spotify.com/album/4yesKLWzqTfQ2yFPQOm1WA) | 3:20 | 2026-10-23 |  |
 | [Retro Blonde](https://open.spotify.com/track/2jDTCQurwYsjoaUSeWApOf) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Retro Blonde](https://open.spotify.com/album/0DvHilEkBl7OCZ87Hsxeam) | 3:33 | 2026-03-23 | 2026-04-21 |
 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-02-16 | 2026-03-18 |
 | [REWRITE](https://open.spotify.com/track/3WgVwBwxuuto5tvvZzDQrX) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [REWRITE](https://open.spotify.com/album/2dvdOLo8CMFtu7bbiAJemI) | 5:44 | 2025-12-16 | 2026-04-21 |

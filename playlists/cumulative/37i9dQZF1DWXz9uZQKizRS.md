@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: EWA KOC, Błażej Król, Dawid Tyszkowski
 
-2,000 songs - 4 day 16 hr 57 min
+2,000 songs - 4 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1645,7 +1645,6 @@
 | [Touching](https://open.spotify.com/track/2oDRWPfp5tJkfYySjRoQV3) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Fragile \(Original Soundtrack\)](https://open.spotify.com/album/0ngt33D8YMRJUN3WbVd8tx) | 2:44 | 2026-01-08 | 2026-01-30 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-07-03 |
 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 | 2026-07-16 | 2026-08-21 |
-| [Track 2](https://open.spotify.com/track/5mYhGNsUcQF8cv0vH8yFkQ) | [Kasia Klich](https://open.spotify.com/artist/5uBOKfCCQlO6qrNLauUSOH) | [Cytrynowy stół](https://open.spotify.com/album/3X0sVJt4rgUpjeVnI5Etdn) | 0:00 | 2026-10-22 |  |
 | [Tracę czas](https://open.spotify.com/track/1J9O8tV3uVJldubfAGqp8i) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Tracę czas](https://open.spotify.com/album/3C9lJPKKVG6zaVYAqa6TKz) | 3:10 | 2026-05-21 | 2026-07-03 |
 | [Tracę zimną krew](https://open.spotify.com/track/1wGQr1EVshjLGhcruZ64nt) | [Sara](https://open.spotify.com/artist/7A2cSsMN0zdjRoyNtf9S5s), [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n), [Mac Kay](https://open.spotify.com/artist/2KgHaeIdNreTeUWwhfcmlE), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Tracę zimną krew](https://open.spotify.com/album/7MHVXbnOe3xlxwB79B0PWE) | 3:48 | 2026-08-20 | 2026-09-11 |
 | [Treehouse](https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Treehouse](https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W) | 3:44 | 2026-02-19 | 2026-03-27 |
@@ -1717,6 +1716,7 @@
 | [urywki](https://open.spotify.com/track/2IvqPWjG59ay9UAl0G9oVE) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [urywki](https://open.spotify.com/album/4aE6ZaFWZNhSpg2fDgWORu) | 3:26 | 2024-09-12 | 2024-12-06 |
 | [UV](https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [UV](https://open.spotify.com/album/78O2rmEK9RDPfiaYMiNHrH) | 2:59 | 2025-06-26 | 2025-09-19 |
 | [Uwaga \(Idę do ciebie\) \- feat\. DOROTA](https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga), [Dorota](https://open.spotify.com/artist/5MvwaSu7vwwce7vxHlH0PR) | [Uwaga \(Idę do ciebie\) \[feat\. DOROTA\]](https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO) | 3:07 | 2025-06-16 | 2025-08-29 |
+| [Uwierasz](https://open.spotify.com/track/5mYhGNsUcQF8cv0vH8yFkQ) | [Kasia Klich](https://open.spotify.com/artist/5uBOKfCCQlO6qrNLauUSOH) | [Cytrynowy stół](https://open.spotify.com/album/3X0sVJt4rgUpjeVnI5Etdn) | 3:22 | 2026-10-22 |  |
 | [Uwolnić siebie](https://open.spotify.com/track/1rBkAf5abYwYNEuYfjtpmT) | [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0), [Jarecki](https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh) | [Uwolnić siebie](https://open.spotify.com/album/3xu3EVJ2JUwBCxrjSIRKly) | 3:19 | 2025-05-01 | 2025-05-23 |
 | [Uśmiech](https://open.spotify.com/track/1I3ThJPPeWSavQB0dI4YIJ) | [Hoszpital](https://open.spotify.com/artist/6uHQjvQb17rofUQgk2GxB0) | [Uśmiech](https://open.spotify.com/album/19bZ4FYnsP5IIjTdam9bDk) | 2:54 | 2026-09-17 | 2026-09-25 |
 | [Uśmiech](https://open.spotify.com/track/0GOkeEdBTJ40M6HuK40TAM) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Uśmiech](https://open.spotify.com/album/0HAYosaz1fcDgWN9C2wXwh) | 3:22 | 2026-04-09 | 2026-05-29 |

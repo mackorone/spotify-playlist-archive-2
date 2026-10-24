@@ -146,10 +146,28 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 167030,
       "name": "4 Life",
       "url": "https://open.spotify.com/track/3T2dGGsL9eEZofkoih3YpP"
+    },
+    {
+      "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167030,
+      "name": "4 Life",
+      "url": "https://open.spotify.com/track/68see4bhyZShDiF4D1ShID"
     },
     {
       "album": {
@@ -1038,6 +1056,36 @@
       "duration_ms": 160792,
       "name": "BABY FACHA",
       "url": "https://open.spotify.com/track/3JQxqYDoKdIYuFxe9Yz3Of"
+    },
+    {
+      "album": {
+        "name": "Bachateo",
+        "url": "https://open.spotify.com/album/7oHTX0RGfij4fEsicMKSSE"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138976,
+      "name": "Bachateo",
+      "url": "https://open.spotify.com/track/2uxr0pjA4XuAhprkOqPyNe"
     },
     {
       "album": {
@@ -3302,7 +3350,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
@@ -3446,7 +3494,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -3934,7 +3982,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -3956,7 +4004,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -4014,7 +4062,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 214909,
       "name": "ELLA",
       "url": "https://open.spotify.com/track/2ICW3dFsmiZ3DVBXoVYPNw"
@@ -4080,7 +4128,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 255905,
       "name": "En Las Noches Frias",
       "url": "https://open.spotify.com/track/0a0JiZejbYYem1W31fldde"
@@ -5385,6 +5433,36 @@
     },
     {
       "album": {
+        "name": "Hagalo",
+        "url": "https://open.spotify.com/album/3EcFwfuRvl0ukKYwkaFRxc"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156330,
+      "name": "Hagalo",
+      "url": "https://open.spotify.com/track/2uSSMgA8oCq7LkvvJWczSV"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -5566,6 +5644,28 @@
       "duration_ms": 198606,
       "name": "HOLA QU\u00c9 TAL",
       "url": "https://open.spotify.com/track/0CnS66Yw2oYO2ldpQ4ND4M"
+    },
+    {
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Hooka",
+      "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
     },
     {
       "album": {
@@ -8754,7 +8854,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "Ojitos Chiquitos",
       "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
@@ -8956,6 +9056,24 @@
       "duration_ms": 244713,
       "name": "Ozono",
       "url": "https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC"
+    },
+    {
+      "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "PA QUE HP",
+      "url": "https://open.spotify.com/track/39JbhlIyz4GzOIkjDpz0uU"
     },
     {
       "album": {
@@ -9525,6 +9643,28 @@
     },
     {
       "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "PLATO TIPICO",
+      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
+    },
+    {
+      "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
@@ -9540,6 +9680,28 @@
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
+    },
+    {
+      "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213061,
+      "name": "PODERES",
+      "url": "https://open.spotify.com/track/1rXEeC08o0ZLfV5md9RHhN"
     },
     {
       "album": {
@@ -9714,7 +9876,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 264946,
       "name": "POR SI MA\u00d1ANA NO ESTOY",
       "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
@@ -10455,6 +10617,24 @@
     },
     {
       "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161428,
+      "name": "RIKO",
+      "url": "https://open.spotify.com/track/1foTAQHxjSXKJRQxVtUcYV"
+    },
+    {
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
       },
@@ -11148,7 +11328,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 322466,
       "name": "Siempre Sere",
       "url": "https://open.spotify.com/track/4ZGk5h0sIfeunWEKzXEoHr"
@@ -12184,7 +12364,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
@@ -12882,7 +13062,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 240000,
       "name": "VAMO A VEL",
       "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
@@ -13452,7 +13632,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 158074,
       "name": "Ya Borracho",
       "url": "https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh"
@@ -13566,7 +13746,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 362908,
       "name": "YO QUIERO - REMIX",
       "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"

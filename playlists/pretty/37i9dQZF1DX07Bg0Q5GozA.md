@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Zimmer90
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,005 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,973 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dance It Out](https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Endless Summer](https://open.spotify.com/album/6YDXIYzh182auw0avklzbq) | 3:14 |
 | 2 | [Bliss](https://open.spotify.com/track/2JsZeQX8GqPm2NLN2ODY1e) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Bliss](https://open.spotify.com/album/7igmoEKKdDe992KTjeFvZv) | 3:19 |
-| 3 | [Track 2](https://open.spotify.com/track/5egIdSg0Kf5wSnUxjlcUzp) | [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [Oversharing](https://open.spotify.com/album/0NU8hFKWb1J6EJ8EyN9Qjf) | 0:00 |
+| 3 | [Until we die](https://open.spotify.com/track/5egIdSg0Kf5wSnUxjlcUzp) | [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Oversharing](https://open.spotify.com/album/0NU8hFKWb1J6EJ8EyN9Qjf) | 2:58 |
 | 4 | [Looking For You](https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tri/xon](https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Looking For You](https://open.spotify.com/album/0wY4yjXzBpL5wXSNjVMSD7) | 3:55 |
 | 5 | [Random Violence](https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Random Violence](https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK) | 5:15 |
 | 6 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |

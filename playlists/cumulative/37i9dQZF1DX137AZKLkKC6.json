@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
+    },
+    {
+      "album": {
         "name": "Amor Borrachito",
         "url": "https://open.spotify.com/album/3lwSfz7ZkKFyVFiuJ5IVhT"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178800,
       "name": "con Querer Queriendo",
       "url": "https://open.spotify.com/track/4dv59QYOFht2OSxET6zT2s"
@@ -1235,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241648,
+      "name": "COQUETA",
+      "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Maleante",
         "url": "https://open.spotify.com/album/6f0gQlCUlMQqPOdlWfOwqS"
       },
@@ -1294,6 +1334,28 @@
       "duration_ms": 147000,
       "name": "Cuanto Hay Que Invertir",
       "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
+    },
+    {
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/39lco9qqscXeogniQu2Hsu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159073,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1f0qGRxYOXlNR3vXxiqGKd"
     },
     {
       "album": {
@@ -1758,7 +1820,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 127500,
       "name": "El Amor De Mi Herida",
       "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
@@ -2308,7 +2370,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 154125,
       "name": "El Rompecorazones",
       "url": "https://open.spotify.com/track/2z9COavLfZH1VboZOXFm6j"
@@ -2646,7 +2708,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 163456,
       "name": "GAN\u00d3 LA MONOTON\u00cdA",
       "url": "https://open.spotify.com/track/6XonJNBNphvKVg6zFjqrAB"
@@ -3704,7 +3766,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 221082,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
@@ -4064,7 +4126,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 183733,
       "name": "Mi Momento M\u00e1s Humilde",
       "url": "https://open.spotify.com/track/6a0d5fkzeAYu57P8tZyW2R"
@@ -4564,7 +4626,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 197586,
       "name": "No Creo En Tus Caricias",
       "url": "https://open.spotify.com/track/3AAr7wzPs0yakVQoxYKw6g"
@@ -6129,6 +6191,24 @@
     },
     {
       "album": {
+        "name": "Suerte con eso",
+        "url": "https://open.spotify.com/album/6P6BP0KmopiImNaHxwDMYj"
+      },
+      "artists": [
+        {
+          "name": "IREGUI",
+          "url": "https://open.spotify.com/artist/2aBqrQgnQGT9Puu0IiSoaW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128083,
+      "name": "Suerte con eso",
+      "url": "https://open.spotify.com/track/2abdz8JCMpJXLaMsboScVv"
+    },
+    {
+      "album": {
         "name": "TATTOO",
         "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
       },
@@ -6369,6 +6449,28 @@
     },
     {
       "album": {
+        "name": "Todo Lo Que Est\u00e1 Bien",
+        "url": "https://open.spotify.com/album/4L4bhnKrMLJK7TkZ2svKcL"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140671,
+      "name": "Todo Lo Que Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/1QeQTKLHLcn5ttGtuxWUdi"
+    },
+    {
+      "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
       },
@@ -6438,6 +6540,28 @@
       "duration_ms": 210024,
       "name": "Tu amor o tu enemigo",
       "url": "https://open.spotify.com/track/0OKEHehzLHS5YX4N2KrTqk"
+    },
+    {
+      "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Tu Boda",
+      "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"
     },
     {
       "album": {
@@ -7084,6 +7208,28 @@
       "duration_ms": 164054,
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
+    },
+    {
+      "album": {
+        "name": "Aquellos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/1ZIsIXlYo39PuLWmLm5gCu"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Franko",
+          "url": "https://open.spotify.com/artist/69bk5U1iIqM7jbcvLoyZvb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224405,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/3uBv7yJ0Ha4u2rTZqttCP1"
     },
     {
       "album": {

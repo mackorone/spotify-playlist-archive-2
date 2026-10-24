@@ -1,36 +1,48 @@
 {
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Skip Waiters",
-  "num_followers": 206960,
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Smiley & Casper TNG",
+  "num_followers": 206978,
   "original_name": "Northern Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFm8EH6ntdie2A2WXME2C1l3cv62",
+  "snapshot_id": "AAAAAJbHisAZLpPhAx9Ax+NiWeaMib5I",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:00:22",
+      "added_at": "2026-10-23 04:00:29",
       "album": {
-        "name": "Piks.",
-        "url": "https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa"
+        "name": "Tripping His Cousin",
+        "url": "https://open.spotify.com/album/580E7EctgR4faaMZvgC67p"
       },
       "artists": [
         {
-          "name": "Skip Waiters",
-          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
         },
         {
-          "name": "Shann Aberdeen",
-          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
-        },
-        {
-          "name": "Serious Klein",
-          "url": "https://open.spotify.com/artist/118HlFjDgUCku033j3YD81"
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
         }
       ],
-      "duration_ms": 195918,
-      "name": "black entertaiNMENT (feat. Serious Klein)",
-      "url": "https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6"
+      "duration_ms": 141290,
+      "name": "Tripping His Cousin",
+      "url": "https://open.spotify.com/track/6z59m64HUpW5vnsJJCzODa"
+    },
+    {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "Cloudy",
+        "url": "https://open.spotify.com/album/6IkfRZz4WAmyWu28NvEtMN"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        }
+      ],
+      "duration_ms": 142978,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/0V9P1WUSa9micxwaWueiOS"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -69,6 +81,82 @@
       "url": "https://open.spotify.com/track/0mwS7Dy7G305ZRL4vh2tE7"
     },
     {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "Drum & Bass",
+        "url": "https://open.spotify.com/album/3ul3f3MdhgWuV5SmAQ3Hyk"
+      },
+      "artists": [
+        {
+          "name": "TVGUCCI",
+          "url": "https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 147993,
+      "name": "Drum & Bass",
+      "url": "https://open.spotify.com/track/5Pdist4jM4qjGy8YCLIZlM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "What a Life! (Director's Cut)",
+        "url": "https://open.spotify.com/album/5bc379Auj0rCOwlDyJ0Zg5"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Keep Heaven Waiting",
+      "url": "https://open.spotify.com/track/6mKIMPEJAdAx1jfY7QY0uL"
+    },
+    {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "On My Worst Day",
+        "url": "https://open.spotify.com/album/1x8ivq83drPuDYbCJRY5dW"
+      },
+      "artists": [
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "On My Worst Day",
+      "url": "https://open.spotify.com/track/2abVA5BzsPcmDVp96NSzPt"
+    },
+    {
+      "added_at": "2026-10-16 04:00:22",
+      "album": {
+        "name": "Piks.",
+        "url": "https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "Serious Klein",
+          "url": "https://open.spotify.com/artist/118HlFjDgUCku033j3YD81"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "black entertaiNMENT (feat. Serious Klein)",
+      "url": "https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6"
+    },
+    {
       "added_at": "2026-10-16 04:00:22",
       "album": {
         "name": "Firestarter Vol 2: Everyday, Sometimes\u2026",
@@ -93,6 +181,22 @@
       "url": "https://open.spotify.com/track/3TBJ9VqPThPCzJzLfhz4ou"
     },
     {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "Looksmaxxing",
+        "url": "https://open.spotify.com/album/6fEQCzfHjR5vHXhPUz6cuq"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        }
+      ],
+      "duration_ms": 123829,
+      "name": "Looksmaxxing",
+      "url": "https://open.spotify.com/track/0FYhW36OvGUZ7y3MwjLheJ"
+    },
+    {
       "added_at": "2026-10-16 04:00:22",
       "album": {
         "name": "(+44)",
@@ -115,6 +219,46 @@
       "duration_ms": 210810,
       "name": "(+44)",
       "url": "https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh"
+    },
+    {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "Conditions of Love",
+        "url": "https://open.spotify.com/album/6bYTMkzwMYb1Kniq3fhfv7"
+      },
+      "artists": [
+        {
+          "name": "TARiiiQ",
+          "url": "https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g"
+        }
+      ],
+      "duration_ms": 161637,
+      "name": "NY Bagel Cafe",
+      "url": "https://open.spotify.com/track/00NG7m82m5oMZ9y7G3YBDM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "Friend Or Foe",
+        "url": "https://open.spotify.com/album/7sOPa76LVWjGtwRomDyZ88"
+      },
+      "artists": [
+        {
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+        },
+        {
+          "name": "Malik Yusef",
+          "url": "https://open.spotify.com/artist/2hikCywT7dcTj6gt3jmsbD"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Friend Or Foe",
+      "url": "https://open.spotify.com/track/0pRK3hzaiBaXKHz6VP0F5U"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -297,6 +441,50 @@
       "url": "https://open.spotify.com/track/7sE1AZgTtwPjRzAFVxeZPP"
     },
     {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/7tu4YcSuuKv3IbH6OugNDR"
+      },
+      "artists": [
+        {
+          "name": "Just Ideas",
+          "url": "https://open.spotify.com/artist/0DcI0zKWPbHyodxYLS8VT4"
+        },
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "BEBEBOY",
+          "url": "https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk"
+        }
+      ],
+      "duration_ms": 129565,
+      "name": "4L",
+      "url": "https://open.spotify.com/track/42XxgDtLKpr5n4hS6Q7XWd"
+    },
+    {
+      "added_at": "2026-10-23 04:00:29",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5lu4dQuEd7ui9TvSbRaGKz"
+      },
+      "artists": [
+        {
+          "name": "twentythree",
+          "url": "https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/1s5P9UA3dokSsHaEH8rYn1"
+    },
+    {
       "added_at": "2026-10-16 04:00:22",
       "album": {
         "name": "Just Us In The Room",
@@ -407,22 +595,6 @@
       "duration_ms": 175136,
       "name": "Guns&Roses",
       "url": "https://open.spotify.com/track/2bCFw3pYqmB4lsGyyWaLmU"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "Crack",
-        "url": "https://open.spotify.com/album/75bRG27zwspi35nl8wJRtp"
-      },
-      "artists": [
-        {
-          "name": "twentythree",
-          "url": "https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11"
-        }
-      ],
-      "duration_ms": 96969,
-      "name": "Crack",
-      "url": "https://open.spotify.com/track/3hYtuM4mgr3sfEJUvZkYOu"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -791,22 +963,6 @@
     {
       "added_at": "2026-10-16 04:00:22",
       "album": {
-        "name": "Kevlar Plated",
-        "url": "https://open.spotify.com/album/2ESk433PV6bGS9IQzIKquf"
-      },
-      "artists": [
-        {
-          "name": "Kyle Wildfern",
-          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
-        }
-      ],
-      "duration_ms": 136015,
-      "name": "Kevlar Plated",
-      "url": "https://open.spotify.com/track/6d8NZHNXXu3yOXOlkY7FXF"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
         "name": "i was gone",
         "url": "https://open.spotify.com/album/5Rrmr45Yfy9dqttbh5k1ia"
       },
@@ -963,26 +1119,6 @@
     {
       "added_at": "2026-10-16 04:00:22",
       "album": {
-        "name": "Here Goes Nothing",
-        "url": "https://open.spotify.com/album/0SxfRe1Fuv0P3s7DoWBsA8"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        },
-        {
-          "name": "Pertinence",
-          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Simple Man (feat. Pertinence)",
-      "url": "https://open.spotify.com/track/0IKkgsrvHfJmnmfY16Mp52"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
         "name": "Draft Day",
         "url": "https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP"
       },
@@ -1135,22 +1271,6 @@
       "duration_ms": 151855,
       "name": "Harley Quinn",
       "url": "https://open.spotify.com/track/4GafbArl4iLP6YnSWbf4t3"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "10 Raccoons",
-        "url": "https://open.spotify.com/album/7cnBJ2e7qxKTjbCtOSeoXf"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "10 Raccoons",
-      "url": "https://open.spotify.com/track/5mY7vr3RaRbH3CJQd1sbJe"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -1483,6 +1603,22 @@
     {
       "added_at": "2026-10-16 04:00:22",
       "album": {
+        "name": "Press Machine II",
+        "url": "https://open.spotify.com/album/4mj1vxNK3hdh1AnSKZ2GvX"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "duration_ms": 110526,
+      "name": "5k for the Draco",
+      "url": "https://open.spotify.com/track/2ynkjghe47nb0fQvAgEvBI"
+    },
+    {
+      "added_at": "2026-10-16 04:00:22",
+      "album": {
         "name": "That's the Least",
         "url": "https://open.spotify.com/album/0FBqflCqIYnUGBipPGEm6f"
       },
@@ -1499,18 +1635,22 @@
     {
       "added_at": "2026-10-16 04:00:22",
       "album": {
-        "name": "4 For 4",
-        "url": "https://open.spotify.com/album/2GyehUATJb02GBfdtN0RoR"
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
       "artists": [
         {
-          "name": "JD Era",
-          "url": "https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 184139,
-      "name": "Be A Boss",
-      "url": "https://open.spotify.com/track/5lk1nMLPJpge6oIMS2OXHV"
+      "duration_ms": 165789,
+      "name": "MR RECOUP",
+      "url": "https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -1567,22 +1707,6 @@
     {
       "added_at": "2026-10-16 04:00:22",
       "album": {
-        "name": "Night End to Night End",
-        "url": "https://open.spotify.com/album/4Pt0EDQIQReMaxJQaTrdkU"
-      },
-      "artists": [
-        {
-          "name": "Burna Bandz",
-          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Night End to Night End",
-      "url": "https://open.spotify.com/track/40F3KAyti484tCAVudJL3i"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
         "name": "Private Landing",
         "url": "https://open.spotify.com/album/3UAQCk6qG9bQg9PjgnoiyM"
       },
@@ -1595,38 +1719,6 @@
       "duration_ms": 125800,
       "name": "Private Landing",
       "url": "https://open.spotify.com/track/6QAYf1Dj9XwKkK3FB66cEI"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "Main Highway",
-        "url": "https://open.spotify.com/album/4cX5sTusmdwL66hm8cN7Ip"
-      },
-      "artists": [
-        {
-          "name": "100 OTD",
-          "url": "https://open.spotify.com/artist/5VBRo4Do6f7TDyC3MNmOLC"
-        }
-      ],
-      "duration_ms": 136336,
-      "name": "Main Highway",
-      "url": "https://open.spotify.com/track/3Qu8NVVpoJJeBSMlPznfKU"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "FOE Timez",
-        "url": "https://open.spotify.com/album/2Tooica7LHMnHPisS7SM7T"
-      },
-      "artists": [
-        {
-          "name": "Savv4x",
-          "url": "https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r"
-        }
-      ],
-      "duration_ms": 151698,
-      "name": "Murda This",
-      "url": "https://open.spotify.com/track/6b1TXGr5ccGeT4Ef10CXfm"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -1651,26 +1743,6 @@
       "duration_ms": 179286,
       "name": "Ricky",
       "url": "https://open.spotify.com/track/5J37sfapbsuaLMQShJXTc1"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "WHAT HAPPENED TO THE STREETS?",
-        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "MR RECOUP",
-      "url": "https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -1707,22 +1779,6 @@
       "duration_ms": 124508,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/2wZGmq3vcBixu4gnehL6D2"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "WSP!",
-        "url": "https://open.spotify.com/album/6wnmRuAGJWJEXijEHxp08z"
-      },
-      "artists": [
-        {
-          "name": "Shareef",
-          "url": "https://open.spotify.com/artist/1JH0doF0KQYyUyRmiykBqi"
-        }
-      ],
-      "duration_ms": 129924,
-      "name": "WSP!",
-      "url": "https://open.spotify.com/track/7oQSUXl1KGKR7WI6fJn89U"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -1767,22 +1823,6 @@
       "duration_ms": 188106,
       "name": "Fall 2012 Couture",
       "url": "https://open.spotify.com/track/5vwX3GQiBGeGbaTlncsLZj"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "Press Machine II",
-        "url": "https://open.spotify.com/album/4mj1vxNK3hdh1AnSKZ2GvX"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "5k for the Draco",
-      "url": "https://open.spotify.com/track/2ynkjghe47nb0fQvAgEvBI"
     },
     {
       "added_at": "2026-10-16 04:00:22",
@@ -1847,30 +1887,6 @@
       "duration_ms": 125543,
       "name": "BUNCH",
       "url": "https://open.spotify.com/track/6D4rLpNNJzFz8dJGoOfT3J"
-    },
-    {
-      "added_at": "2026-10-16 04:00:22",
-      "album": {
-        "name": "The Kaible",
-        "url": "https://open.spotify.com/album/3NM31JGVfzlBBbfZYww3Ah"
-      },
-      "artists": [
-        {
-          "name": "Kai Banks",
-          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
-        },
-        {
-          "name": "La Reezy",
-          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
-        },
-        {
-          "name": "Mileena",
-          "url": "https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu"
-        }
-      ],
-      "duration_ms": 181379,
-      "name": "Too Deep For The Outro",
-      "url": "https://open.spotify.com/track/2Etr2lwZnCK491mU5dHIDD"
     }
   ],
   "unique_name": "Northern Bars",

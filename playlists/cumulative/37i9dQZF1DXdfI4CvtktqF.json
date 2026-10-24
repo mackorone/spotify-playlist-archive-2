@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: atom chanakan, D Gerrard",
+  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GOODMOOD",
   "name": "\u0e09\u0e31\u0e19\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169411,
       "name": "Your Candy",
       "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e49\u0e32\u0e07\u0e46\u0e01\u0e31\u0e19 (I'm yours)",
+        "url": "https://open.spotify.com/album/3wBCFN2gQexfJ1FjLBBtKg"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "3RD",
+          "url": "https://open.spotify.com/artist/5qJLw5CkzwZqtr3fP0IrLU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222028,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e46\u0e01\u0e31\u0e19 (I'm yours)",
+      "url": "https://open.spotify.com/track/52y8d1DKe4VunBDTyN4P9O"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e07\u0e14\u0e35\u0e16\u0e49\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e02\u0e32 (Desire)",
         "url": "https://open.spotify.com/album/7kEqSQ8Xuz09OAbKPWTgcz"
       },
@@ -538,7 +560,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 263253,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e32\u0e14\u0e2b\u0e27\u0e31\u0e07 (feat. \u0e15\u0e39\u0e19 BODYSLAM, \u0e1b\u0e31\u0e4a\u0e1a Potato)",
       "url": "https://open.spotify.com/track/3Vkzgf11Ubecqccu8Wxu8w"
@@ -780,7 +802,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 326413,
       "name": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
       "url": "https://open.spotify.com/track/2paY7mj6P33pglb6KnkCcN"
@@ -834,7 +856,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 264960,
       "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ"
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 200673,
       "name": "\u0e2a\u0e31\u0e1a\u0e2a\u0e19\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (Outside)",
       "url": "https://open.spotify.com/track/4OiVtlt4R0lxyvOUYk4FEs"
@@ -1149,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "IN MY ROOM SESSION",
+        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
+      "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e32\u0e23\u0e21\u0e13\u0e4c\u0e2a\u0e35\u0e40\u0e17\u0e32",
         "url": "https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs"
       },
@@ -1222,6 +1266,24 @@
       "duration_ms": 239770,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
       "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm"
     },
     {
       "album": {
@@ -1305,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
+        "url": "https://open.spotify.com/album/7gbhdy8uyq1zThUAKVTYM8"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        },
+        {
+          "name": "Girly Berry",
+          "url": "https://open.spotify.com/artist/01HDNDrV3oXyU78MNW4qrZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171262,
+      "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
+      "url": "https://open.spotify.com/track/3NoLOb2z1kWZCNNQDO9eE3"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e2a\u0e19\u0e27\u0e34\u0e40\u0e28\u0e29 (Gifted) (feat. BLVCKHEART)",
         "url": "https://open.spotify.com/album/3b6QBlJNSCAf3MR5jEX9Wj"
       },
@@ -1324,6 +1408,24 @@
       "duration_ms": 226411,
       "name": "\u0e41\u0e2a\u0e19\u0e27\u0e34\u0e40\u0e28\u0e29 (Gifted) (feat. BLVCKHEART)",
       "url": "https://open.spotify.com/track/3Xm4DmLWJ2M8btMdcW1mIJ"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e1b\u0e23\u0e14\u0e23\u0e31\u0e1a\u0e2a\u0e32\u0e22 (More Kiss)",
+        "url": "https://open.spotify.com/album/47nyxjKz5XHvRvupAVQ5Yf"
+      },
+      "artists": [
+        {
+          "name": "GOODMOOD",
+          "url": "https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273210,
+      "name": "\u0e42\u0e1b\u0e23\u0e14\u0e23\u0e31\u0e1a\u0e2a\u0e32\u0e22 (More Kiss)",
+      "url": "https://open.spotify.com/track/1jOReOmNY5yKw85ZTEKDZ2"
     },
     {
       "album": {

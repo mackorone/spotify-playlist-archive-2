@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,372 likes - 55 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,383 likes - 55 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 4 | [I Got Rhythm \(Version for Piano\)](https://open.spotify.com/track/4brutqN1UpwSO8lA79njLQ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Elizabeth Hayes](https://open.spotify.com/artist/5kWEXWc3Iii4nIdW65q2ql) | [New York Connections](https://open.spotify.com/album/5FHB95OiCsGf2GOZ23eXBY) | 1:19 |
 | 5 | [Gershwin: Gershwin Songbook: No\. 8, The Man I Love](https://open.spotify.com/track/5U22NoYI0mmrk7NIHySQWt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Rhapsody](https://open.spotify.com/album/7jxvnqfcGBH9yrlUyksTPM) | 2:49 |
 | 6 | [Girl Crazy: Embraceable You](https://open.spotify.com/track/3tTlKK7mL7EUxpbU0c1yuw) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [Gershwin \- Set: Bernstein/Ozawa/Previn/Levine \(2 CDs\)](https://open.spotify.com/album/5ae3bXTR1QMF4aHqhMtCXT) | 4:57 |
-| 7 | [Piano Concerto: III\. Allegro agitato](https://open.spotify.com/track/5IKxXMr6ajnYqMXAYKDwIK) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [My American Story: North](https://open.spotify.com/album/3FZi8RccOUV0Y7oIH1a6Wm) | 6:46 |
+| 7 | [Piano Concerto: III\. Allegro agitato](https://open.spotify.com/track/5IKxXMr6ajnYqMXAYKDwIK) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [The Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [My American Story: North](https://open.spotify.com/album/3FZi8RccOUV0Y7oIH1a6Wm) | 6:46 |
 | 8 | [But Not For Me \- Vocal Version](https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:04 |
 | 9 | [Someone To Watch Over Me \- Demo](https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 4:28 |
 | 10 | [Summertime](https://open.spotify.com/track/62Xj6x2LSWv47PtRAXrg5Z) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:53 |

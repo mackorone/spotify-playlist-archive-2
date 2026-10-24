@@ -513,6 +513,28 @@
     },
     {
       "album": {
+        "name": "Boca",
+        "url": "https://open.spotify.com/album/5IPTzGq5i1JgzTlIkeP0sS"
+      },
+      "artists": [
+        {
+          "name": "chelo hop",
+          "url": "https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC"
+        },
+        {
+          "name": "Astrallbass",
+          "url": "https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Boca",
+      "url": "https://open.spotify.com/track/4b4DeGeXh98ucO0HzR4qsa"
+    },
+    {
+      "album": {
         "name": "Bogot\u00e1",
         "url": "https://open.spotify.com/album/3eSvHe6Q008l85ZJ8s6lEH"
       },
@@ -1540,6 +1562,32 @@
       "duration_ms": 280673,
       "name": "Falsedades",
       "url": "https://open.spotify.com/track/0iIjgyZqFQdBeQUe8FRGDo"
+    },
+    {
+      "album": {
+        "name": "Solo para entendidos",
+        "url": "https://open.spotify.com/album/7LxnCL5EHjTSXLjXnIk5GA"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/6F96Id5jfazR47isaGh1OK"
     },
     {
       "album": {
@@ -2768,7 +2816,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 314000,
       "name": "Medallo Finest - Cypher",
       "url": "https://open.spotify.com/track/0GgKbQrvXc5ejyHCcsEkHf"
@@ -5372,7 +5420,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184651,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"

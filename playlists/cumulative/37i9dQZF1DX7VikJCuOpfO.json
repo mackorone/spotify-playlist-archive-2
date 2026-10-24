@@ -3976,7 +3976,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198431,
       "name": "Golpe Inesperado",
       "url": "https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V"
@@ -5703,6 +5703,24 @@
     },
     {
       "album": {
+        "name": "Voz De Mi Sangre",
+        "url": "https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212615,
+      "name": "Me Declaro Culpable",
+      "url": "https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G"
+    },
+    {
+      "album": {
         "name": "Me Enloqueces",
         "url": "https://open.spotify.com/album/1Vf2WGDh6Igd14bK28zBGd"
       },
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 125491,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
@@ -7738,7 +7756,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 222080,
       "name": "Pintando sue\u00f1os",
       "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
@@ -8114,7 +8132,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 182424,
       "name": "Porque la vida fue tan injusta",
       "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"

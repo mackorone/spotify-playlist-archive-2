@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,907 likes - 131 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,960 likes - 131 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 124 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 |
 | 125 | [Collapse Into Light](https://open.spotify.com/track/3jP962JoLAn9p4wCDdx4My) | [Evin Iris](https://open.spotify.com/artist/0H11IrXWhpptE27M8Xll9w) | [Collapse Into Light](https://open.spotify.com/album/0rUgWKzUwGMo0XAHN6R2eY) | 2:59 |
 | 126 | [two](https://open.spotify.com/track/39xRHgkRG13GJYOw8sOaQJ) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [alternative universe](https://open.spotify.com/album/5fC4bXk6Eo7PNikqtqU53T) | 3:08 |
-| 127 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 |
+| 127 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Caedral](https://open.spotify.com/artist/43UqnLu3Djjo74SsjnQLBE) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 |
 | 128 | [Anagram](https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Anagram](https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp) | 2:28 |
 | 129 | [deep wild](https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [deep wild](https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh) | 2:32 |
 | 130 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 |

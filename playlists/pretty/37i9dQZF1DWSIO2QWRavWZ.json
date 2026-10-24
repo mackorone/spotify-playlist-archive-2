@@ -1,13 +1,49 @@
 {
-  "description": "New music from your favorite women.  Cover: LAYA",
-  "num_followers": 233526,
+  "description": "New music from your favorite women.  Cover: Halle",
+  "num_followers": 233537,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNfYNpJMPjnvt13ppD1zTaD1CnE",
+  "snapshot_id": "AAAAAEEuL1cG/cjT8hSwnhZRsv1vngYh",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "love?... or something like it (Deluxe)",
+        "url": "https://open.spotify.com/album/0VI7CsEX0FZvHu1D7q9xFI"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "love or something like it (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+    },
     {
       "added_at": "2026-09-18 07:05:18",
       "album": {
@@ -25,6 +61,22 @@
       "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
     },
     {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
       "added_at": "2026-10-16 05:51:05",
       "album": {
         "name": "right/left",
@@ -39,6 +91,22 @@
       "duration_ms": 129925,
       "name": "right/left",
       "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 224690,
+      "name": "SO MUCH, SO MUCH",
+      "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
     },
     {
       "added_at": "2026-10-16 05:51:05",
@@ -133,6 +201,42 @@
       "url": "https://open.spotify.com/track/5sDYIz1pOavfbjfMVIMOzW"
     },
     {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "SOVEREIGN LAND",
+        "url": "https://open.spotify.com/album/6nedzUexHeu5kEYuRmD4PU"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/3akNcl19u2UUXBtXmRWLxe"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "THE PHENOMENON",
+        "url": "https://open.spotify.com/album/5SgA10pJ2eWb47Q4eu0SNH"
+      },
+      "artists": [
+        {
+          "name": "Terrell Grice",
+          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "REFUND",
+      "url": "https://open.spotify.com/track/5wR16dwaFLd3Oi6RDA87CP"
+    },
+    {
       "added_at": "2026-10-02 06:54:37",
       "album": {
         "name": "options",
@@ -147,22 +251,6 @@
       "duration_ms": 212131,
       "name": "options",
       "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
-    },
-    {
-      "added_at": "2026-10-16 05:51:05",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
     },
     {
       "added_at": "2026-10-09 07:24:45",
@@ -211,22 +299,6 @@
       "duration_ms": 155153,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
-    },
-    {
-      "added_at": "2026-10-09 07:24:45",
-      "album": {
-        "name": "We'll Never Be This Young Again",
-        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 141622,
-      "name": "We'll Never Be This Young Again",
-      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
     },
     {
       "added_at": "2026-09-18 07:05:18",
@@ -301,6 +373,38 @@
       "url": "https://open.spotify.com/track/5Zdmo29jB3S04ysRnWDvKu"
     },
     {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "RSVP",
+        "url": "https://open.spotify.com/album/5eOJiOL31cpDL5Aus9gTt5"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/2H4xJkvbZqSMzKDW5nhB3b"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "Therapy Wasn't Enough: Off The Record",
+        "url": "https://open.spotify.com/album/3JnwiLvVIdbUoYdKYXmo3X"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 130647,
+      "name": "Reality Show - Bonus Track",
+      "url": "https://open.spotify.com/track/5umw9VsZu5K6AWPXoS0BWK"
+    },
+    {
       "added_at": "2026-09-25 07:44:15",
       "album": {
         "name": "Westside (Stripped)",
@@ -315,6 +419,22 @@
       "duration_ms": 198352,
       "name": "Westside - Stripped",
       "url": "https://open.spotify.com/track/72AbuBAmAw25LzCJvBbFbi"
+    },
+    {
+      "added_at": "2026-10-16 05:51:05",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
     },
     {
       "added_at": "2026-10-09 07:24:45",
@@ -367,6 +487,30 @@
       "duration_ms": 152468,
       "name": "What Lovers Do",
       "url": "https://open.spotify.com/track/4ON7li6HIFhaTXn7hIq0g7"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "PINK GUN",
+        "url": "https://open.spotify.com/album/73PimzGuDsBLoxokOc4gAu"
+      },
+      "artists": [
+        {
+          "name": "MIRIAH",
+          "url": "https://open.spotify.com/artist/2Znyc6i6KrQLwJ5xGxoFxB"
+        },
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        },
+        {
+          "name": "theMIND",
+          "url": "https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "SUPERPOWERS",
+      "url": "https://open.spotify.com/track/6iMgYWMNFWpsiVisrjRCiO"
     },
     {
       "added_at": "2026-10-09 07:24:45",
@@ -849,22 +993,6 @@
       "url": "https://open.spotify.com/track/3ifjAoYtVndT6A2py4Voc5"
     },
     {
-      "added_at": "2026-09-18 07:05:18",
-      "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/3erBzXu5IaPWcNM9eNYsgU"
-      },
-      "artists": [
-        {
-          "name": "SSTEDI",
-          "url": "https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Superman, Superwoman",
-      "url": "https://open.spotify.com/track/4DZOSRiZIZVaFyCljvuJUI"
-    },
-    {
       "added_at": "2026-09-04 04:00:06",
       "album": {
         "name": "Kelela - Spotify Live Room",
@@ -1229,22 +1357,6 @@
       "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
     },
     {
-      "added_at": "2026-07-24 05:11:08",
-      "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
-    },
-    {
       "added_at": "2026-08-14 05:27:37",
       "album": {
         "name": "THERAPY AT THE CLUB",
@@ -1293,24 +1405,20 @@
       "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
-      "added_at": "2026-07-10 06:24:32",
+      "added_at": "2026-05-08 06:30:18",
       "album": {
-        "name": "the bridge",
-        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
       },
       "artists": [
         {
           "name": "Kelela",
           "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 233533,
-      "name": "the bridge",
-      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
       "added_at": "2026-08-21 05:11:39",
@@ -1627,22 +1735,6 @@
     {
       "added_at": "2026-08-14 05:27:37",
       "album": {
-        "name": "Sun and Moon",
-        "url": "https://open.spotify.com/album/6ITj3yKsmfFQXCk3Z1p3Wb"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 151967,
-      "name": "Sun and Moon",
-      "url": "https://open.spotify.com/track/2fFRrdy3GqiHtQZTratRhe"
-    },
-    {
-      "added_at": "2026-08-14 05:27:37",
-      "album": {
         "name": "me rn",
         "url": "https://open.spotify.com/album/0gs0m3DJnymKwGp2X7IgOb"
       },
@@ -1687,22 +1779,6 @@
       "duration_ms": 178466,
       "name": "CRIME",
       "url": "https://open.spotify.com/track/1iDRvIFE9ZWoQUibaVj4Vd"
-    },
-    {
-      "added_at": "2026-07-17 04:59:03",
-      "album": {
-        "name": "Crash Out",
-        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 190894,
-      "name": "Crash Out",
-      "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
     },
     {
       "added_at": "2026-07-17 04:59:03",
@@ -2675,38 +2751,6 @@
       "duration_ms": 182750,
       "name": "Without U",
       "url": "https://open.spotify.com/track/6iuThyBRFa7jNctNj9DL8b"
-    },
-    {
-      "added_at": "2026-05-08 06:30:18",
-      "album": {
-        "name": "linknb",
-        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 115160,
-      "name": "linknb",
-      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
-    },
-    {
-      "added_at": "2026-06-05 04:04:03",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy"
-      },
-      "artists": [
-        {
-          "name": "Zenesoul",
-          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
-        }
-      ],
-      "duration_ms": 195851,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq"
     },
     {
       "added_at": "2026-05-22 04:01:55",

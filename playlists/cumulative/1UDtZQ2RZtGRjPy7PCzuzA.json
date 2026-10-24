@@ -7267,7 +7267,7 @@
     },
     {
       "album": {
-        "name": "Close My Eyes",
+        "name": "Close my eyes",
         "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
       },
       "artists": [
@@ -7284,7 +7284,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227000,
-      "name": "Close My Eyes",
+      "name": "Close my eyes",
       "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
     },
     {
@@ -25051,6 +25051,24 @@
     },
     {
       "album": {
+        "name": "Unbreakable Hearts",
+        "url": "https://open.spotify.com/album/7dz9GljicF6Z8r7cjbUpKo"
+      },
+      "artists": [
+        {
+          "name": "Fearless Vampire Killers",
+          "url": "https://open.spotify.com/artist/1T0jkjcPB2OUmOb3pNr9wU"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Neon in the Dance Halls",
+      "url": "https://open.spotify.com/track/6gpkiucXSuUPFMlolp0iWa"
+    },
+    {
+      "album": {
         "name": "Willoughby Tucker, I'll Always Love You",
         "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
       },
@@ -25924,8 +25942,8 @@
           "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         },
         {
-          "name": "David Longstreth",
-          "url": "https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t"
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
         }
       ],
       "date_added": "2026-09-30",
@@ -31292,6 +31310,24 @@
       "duration_ms": 242017,
       "name": "Say No to This",
       "url": "https://open.spotify.com/track/3s9itRgJYcKhem01P17865"
+    },
+    {
+      "album": {
+        "name": "Unbreakable Hearts",
+        "url": "https://open.spotify.com/album/7dz9GljicF6Z8r7cjbUpKo"
+      },
+      "artists": [
+        {
+          "name": "Fearless Vampire Killers",
+          "url": "https://open.spotify.com/artist/1T0jkjcPB2OUmOb3pNr9wU"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271351,
+      "name": "Say What You Want from Me (The Ghost You Left Behind)",
+      "url": "https://open.spotify.com/track/0N2oSwyHTeMsT8o7rT418H"
     },
     {
       "album": {

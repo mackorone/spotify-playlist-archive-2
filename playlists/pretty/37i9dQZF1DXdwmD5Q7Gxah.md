@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > brat star <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,188 likes - 141 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,226 likes - 141 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

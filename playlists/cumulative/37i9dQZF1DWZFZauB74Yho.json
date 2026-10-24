@@ -988,7 +988,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 200400,
       "name": "Blind",
       "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
@@ -5336,7 +5336,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210546,
       "name": "Just Country",
       "url": "https://open.spotify.com/track/2PrLDprizo0qbhOcaFp0Mg"
@@ -5880,6 +5880,24 @@
       "duration_ms": 175313,
       "name": "Little Delilah",
       "url": "https://open.spotify.com/track/1VBQ9R8fU6bFtO28JHisq8"
+    },
+    {
+      "album": {
+        "name": "Little Man",
+        "url": "https://open.spotify.com/album/6k5P9cgBCYi1SKODBB1QDs"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279378,
+      "name": "Little Man",
+      "url": "https://open.spotify.com/track/6Jl5JH9uK72WhohyRD1u8d"
     },
     {
       "album": {
@@ -7020,7 +7038,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 244253,
       "name": "Odd One Out",
       "url": "https://open.spotify.com/track/1On6wsX9gJStbRaOPxOWgV"
@@ -7400,6 +7418,28 @@
       "duration_ms": 271973,
       "name": "Outrun The Rain",
       "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
+    },
+    {
+      "album": {
+        "name": "Overkill",
+        "url": "https://open.spotify.com/album/4pwcUQgAjDICEo7NURvVTD"
+      },
+      "artists": [
+        {
+          "name": "Rosine",
+          "url": "https://open.spotify.com/artist/3dp9Te6PeND7Oeow0SyK1p"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227875,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/57neP0s2DpVimaVvbsaIAn"
     },
     {
       "album": {
@@ -7884,6 +7924,28 @@
       "duration_ms": 170067,
       "name": "Rag Mama Rag",
       "url": "https://open.spotify.com/track/6jIXbMura1pfTnTsyCfDFS"
+    },
+    {
+      "album": {
+        "name": "Railroad River Junction",
+        "url": "https://open.spotify.com/album/57DuWRKgpiiYfzkAjN8Nam"
+      },
+      "artists": [
+        {
+          "name": "Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168290,
+      "name": "Railroad River Junction",
+      "url": "https://open.spotify.com/track/2OEkVlvIZbsTMcHFsIqq05"
     },
     {
       "album": {
@@ -10011,6 +10073,32 @@
     },
     {
       "album": {
+        "name": "When The Kettle Sings",
+        "url": "https://open.spotify.com/album/21KsncRaZVOK8keL15Y0Sy"
+      },
+      "artists": [
+        {
+          "name": "The Fretliners",
+          "url": "https://open.spotify.com/artist/4iMEdosOM4PPgZrreSoWJn"
+        },
+        {
+          "name": "Ketch Secor",
+          "url": "https://open.spotify.com/artist/2aqTRwwChQlJmPzvR0C227"
+        },
+        {
+          "name": "Riders In The Sky",
+          "url": "https://open.spotify.com/artist/0TvDQyGFRlrLVUPaViJcEi"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229724,
+      "name": "The Stone (feat. Ketch Secor & Riders In The Sky)",
+      "url": "https://open.spotify.com/track/5IZIobGFMhEnOHbk8nFESM"
+    },
+    {
+      "album": {
         "name": "The Truth Fits",
         "url": "https://open.spotify.com/album/34f4vmOZ8Yx1A7WpsfCcot"
       },
@@ -10040,7 +10128,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190226,
       "name": "The Voyageur",
       "url": "https://open.spotify.com/track/2MeClhSUHLlMY9e6esGz7A"
@@ -11062,7 +11150,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 245360,
       "name": "What a Life",
       "url": "https://open.spotify.com/track/0AruH4r6Rs9DlXGy6o1SQ7"
@@ -11138,6 +11226,32 @@
       "duration_ms": 234287,
       "name": "What's the Matter with the Mill",
       "url": "https://open.spotify.com/track/62IHyAVDKvjnqBHxvMchkM"
+    },
+    {
+      "album": {
+        "name": "When Being Who You Are Is Not Enough",
+        "url": "https://open.spotify.com/album/0pHE4P0KkyFQ0Yl6sfgiAw"
+      },
+      "artists": [
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto"
+        },
+        {
+          "name": "Woody Platt",
+          "url": "https://open.spotify.com/artist/7fWVcDi14a93bylRRHvUp3"
+        },
+        {
+          "name": "Shannon Whitworth",
+          "url": "https://open.spotify.com/artist/6ATzHM6JJqIzLvOoxdalmF"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "When Being Who You Are Is Not Enough",
+      "url": "https://open.spotify.com/track/78v1BJyTdMWNJehUkQATi6"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: nomi.",
-  "num_followers": 60451,
+  "description": "R&B of the moment by the artists of the future. Cover: Khal!l",
+  "num_followers": 60459,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL7QdXFAZEEwYJnevv0WKcer9S0p",
+  "snapshot_id": "AAAAALNecyA2F73wO7yS0hvNaLhCAuRL",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:01:59",
+      "album": {
+        "name": "Oh, The Doubt Among Us",
+        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "IF ONLY",
+      "url": "https://open.spotify.com/track/6OqosV4EUfxY0mOF8aKk9W"
+    },
+    {
+      "added_at": "2026-10-23 04:01:59",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 224690,
+      "name": "SO MUCH, SO MUCH",
+      "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
+    },
     {
       "added_at": "2026-10-16 05:41:06",
       "album": {
@@ -77,22 +109,6 @@
       "url": "https://open.spotify.com/track/4ON7li6HIFhaTXn7hIq0g7"
     },
     {
-      "added_at": "2026-10-09 06:44:31",
-      "album": {
-        "name": "We'll Never Be This Young Again",
-        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 141622,
-      "name": "We'll Never Be This Young Again",
-      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
-    },
-    {
       "added_at": "2026-09-18 06:45:47",
       "album": {
         "name": "HYDRAULIC: FUELED UP",
@@ -111,6 +127,26 @@
       "duration_ms": 208780,
       "name": "HOUSTON (feat. TEEZO TOUCHDOWN)",
       "url": "https://open.spotify.com/track/1gdWMROp3Jb8mK71KqWdYK"
+    },
+    {
+      "added_at": "2026-10-23 04:01:59",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i"
+      },
+      "artists": [
+        {
+          "name": "Icee Red",
+          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50"
     },
     {
       "added_at": "2026-10-09 06:44:31",
@@ -181,6 +217,22 @@
       "url": "https://open.spotify.com/track/6mn8Kyg7aCnhWIIugF7dr9"
     },
     {
+      "added_at": "2026-10-23 04:01:59",
+      "album": {
+        "name": "Eye 2 Eye",
+        "url": "https://open.spotify.com/album/16DdNomTtlT1gkgRrABNwV"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 207727,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6VxJy36RrYPeaauj3Su58b"
+    },
+    {
       "added_at": "2026-10-09 06:44:31",
       "album": {
         "name": "LK99+ DELUXE",
@@ -247,6 +299,22 @@
       "duration_ms": 184737,
       "name": "Red Eye",
       "url": "https://open.spotify.com/track/3tv3nu2BNrKEbD6JaDDECz"
+    },
+    {
+      "added_at": "2026-10-23 04:01:59",
+      "album": {
+        "name": "Another Trophy",
+        "url": "https://open.spotify.com/album/436DeqqvK0dCIir6j2cagr"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Another Trophy",
+      "url": "https://open.spotify.com/track/3hPClvutL6VOcG8pp2nWQr"
     },
     {
       "added_at": "2026-10-09 06:44:31",
@@ -2079,22 +2147,6 @@
     {
       "added_at": "2026-06-26 05:40:08",
       "album": {
-        "name": "Another Heartbreak",
-        "url": "https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        }
-      ],
-      "duration_ms": 217951,
-      "name": "Another Heartbreak",
-      "url": "https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7"
-    },
-    {
-      "added_at": "2026-06-26 05:40:08",
-      "album": {
         "name": "Payback Is A Dog",
         "url": "https://open.spotify.com/album/0wcQqcmAoYqsp835JHZ6rV"
       },
@@ -2409,22 +2461,6 @@
       "url": "https://open.spotify.com/track/6CD8YpwCjh8Ma2L3rjAjEh"
     },
     {
-      "added_at": "2026-06-12 05:12:18",
-      "album": {
-        "name": "MY FEET",
-        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "MY FEET",
-      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
-    },
-    {
       "added_at": "2026-05-29 04:02:53",
       "album": {
         "name": "Crashing Out!",
@@ -2623,22 +2659,6 @@
       "duration_ms": 198186,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/2iUmp2L3Va1syZMi7CA5iL"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "NEW HEADSTONE need MIX",
-        "url": "https://open.spotify.com/album/5N19wjg3aSVDoKKr4niCPz"
-      },
-      "artists": [
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
-        }
-      ],
-      "duration_ms": 148058,
-      "name": "NEW HEADSTONE need MIX",
-      "url": "https://open.spotify.com/track/63GhJimM2V6SKAa8NLTU6p"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3063,22 +3083,6 @@
       "duration_ms": 194705,
       "name": "Before We Get In Here!",
       "url": "https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Love or a Lesson",
-        "url": "https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Too Much?",
-      "url": "https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE"
     },
     {
       "added_at": "2026-05-29 04:02:53",

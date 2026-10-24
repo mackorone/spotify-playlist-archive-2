@@ -11204,7 +11204,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 188253,
       "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
@@ -14872,7 +14872,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194592,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
@@ -15818,7 +15818,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
@@ -25959,6 +25959,24 @@
     },
     {
       "album": {
+        "name": "Lucy, When You Wake Up",
+        "url": "https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "date_added": "2026-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214806,
+      "name": "Lucy, When You Wake Up",
+      "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc"
       },
@@ -27683,6 +27701,24 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "album": {
         "name": "Miyazaki",
         "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
       },
@@ -28148,7 +28184,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 177567,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/3MA12tbX1avdc0ljdqLOdI"
@@ -29376,7 +29412,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198120,
       "name": "nicotine",
       "url": "https://open.spotify.com/track/2DDqh8VKrNHo1xtzdydLfA"
@@ -31470,6 +31506,24 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
+    },
+    {
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145099,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
       "album": {
@@ -37989,6 +38043,24 @@
     },
     {
       "album": {
+        "name": "Sometimes I Get Emotional",
+        "url": "https://open.spotify.com/album/5kNMRxLIn7Z3Sr2cGTaL9W"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Sometimes I Get Emotional",
+      "url": "https://open.spotify.com/track/7uAD2mlombVXT7JsZ3yexr"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/4YsgPaYNAP0DjgFAXGHmeb"
       },
@@ -43422,7 +43494,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 212373,
       "name": "Tough Luck (When You Don\u2019t Call)",
       "url": "https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE"
@@ -45299,6 +45371,24 @@
     },
     {
       "album": {
+        "name": "What we want and need from love",
+        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253590,
+      "name": "What we want and need from love",
+      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+    },
+    {
+      "album": {
         "name": "WHAT WOULD YOU DO? (feat. Pink Sweat$)",
         "url": "https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw"
       },
@@ -46122,7 +46212,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 206247,
       "name": "Wine",
       "url": "https://open.spotify.com/track/6Ht6IgAvwRHNUDFlwdYdMt"

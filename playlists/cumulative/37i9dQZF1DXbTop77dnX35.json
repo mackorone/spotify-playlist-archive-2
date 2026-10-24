@@ -2713,7 +2713,7 @@
     },
     {
       "album": {
-        "name": "ABILITY (feat. Medikal & beatzvampire)",
+        "name": "ABILITY (with Medikal & beatzvampire)",
         "url": "https://open.spotify.com/album/2JFCHtwOJ6WkiUtV2i4AiP"
       },
       "artists": [
@@ -2734,7 +2734,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139601,
-      "name": "ABILITY (feat. Medikal & beatzvampire)",
+      "name": "ABILITY (with Medikal & beatzvampire)",
       "url": "https://open.spotify.com/track/5mrALmqbMOh64jH7AJCM7U"
     },
     {
@@ -4842,6 +4842,28 @@
       "duration_ms": 144876,
       "name": "Ain\u2019t Right (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/3GhWAtlK5X3Nu7B9XJ3bDx"
+    },
+    {
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
       "album": {
@@ -48827,7 +48849,7 @@
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 124861,
+      "duration_ms": 218947,
       "name": "Gbona",
       "url": "https://open.spotify.com/track/1FsIOOuJqTdQL22a6GGMvT"
     },
@@ -145357,7 +145379,7 @@
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160182,
+      "duration_ms": 160000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
     },
@@ -145702,6 +145724,24 @@
       "duration_ms": 180000,
       "name": "With Open Arms",
       "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
+    },
+    {
+      "album": {
+        "name": "Lava Boy",
+        "url": "https://open.spotify.com/album/533UJmRKFtFQPLb1ltMM2o"
+      },
+      "artists": [
+        {
+          "name": "Nasibi",
+          "url": "https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "with u",
+      "url": "https://open.spotify.com/track/12kiqxnYFXezJDrJzZmGRj"
     },
     {
       "album": {

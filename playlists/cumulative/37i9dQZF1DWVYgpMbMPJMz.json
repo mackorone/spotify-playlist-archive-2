@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 413708,
       "name": "Breathe (feat. Titus Tucker & Rahkii)",
       "url": "https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD"
@@ -9403,6 +9403,28 @@
     },
     {
       "album": {
+        "name": "I Surrender All",
+        "url": "https://open.spotify.com/album/3Q3aeXYtd7OUKAxe9pfKlr"
+      },
+      "artists": [
+        {
+          "name": "Mission Worship",
+          "url": "https://open.spotify.com/artist/7GoguaRlMdJQXwhCaektit"
+        },
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374008,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/1NXQ7OJ3WrIwDRpalvRlbM"
+    },
+    {
+      "album": {
         "name": "I Thank God",
         "url": "https://open.spotify.com/album/2PwhFb40eeJMRsGlRlOe5u"
       },
@@ -11796,7 +11818,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 320000,
-      "name": "Let Me Say - Live",
+      "name": "Let Me Say",
       "url": "https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5"
     },
     {
@@ -11922,6 +11944,24 @@
       "duration_ms": 280850,
       "name": "Let There Be - Live",
       "url": "https://open.spotify.com/track/2tJZUC678Z4Lpi5G97tjj3"
+    },
+    {
+      "album": {
+        "name": "MATT CROCKER - in lieu of me (Vol. 2)",
+        "url": "https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379146,
+      "name": "Let There Be Light - in lieu of me",
+      "url": "https://open.spotify.com/track/5X3vJE1gKlTDRIcgHkOAGP"
     },
     {
       "album": {
@@ -12810,7 +12850,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 305000,
       "name": "Mercy Mercy - in lieu of me",
       "url": "https://open.spotify.com/track/3Medwggjkn8BSlShaNMnYa"
@@ -14922,7 +14962,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 299292,
       "name": "Only Jesus - Acoustic",
       "url": "https://open.spotify.com/track/6lkWNDfvu3jvnDzG1k7d2W"
@@ -15706,6 +15746,24 @@
       "duration_ms": 325791,
       "name": "Praise The Lord Forever",
       "url": "https://open.spotify.com/track/7uCnLOu70IDBrrHUyspQzX"
+    },
+    {
+      "album": {
+        "name": "Holy Is The Name",
+        "url": "https://open.spotify.com/album/7EA64dd9j45VLFXFER2NYH"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316791,
+      "name": "Praise The Lord Hallelujah Amen",
+      "url": "https://open.spotify.com/track/4KPKY8GQGR9G8hbY5SAqTF"
     },
     {
       "album": {
@@ -18410,6 +18468,24 @@
       "duration_ms": 272883,
       "name": "Take It To Jesus",
       "url": "https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF"
+    },
+    {
+      "album": {
+        "name": "Take It To The Throne",
+        "url": "https://open.spotify.com/album/5932JNQ1Qei0mFe1eMq28j"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248592,
+      "name": "Take It To The Throne",
+      "url": "https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw"
     },
     {
       "album": {
@@ -23662,7 +23738,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 320908,
       "name": "You Prepare the Fire",
       "url": "https://open.spotify.com/track/726NUsPYYDXOG4TmkTpRpl"

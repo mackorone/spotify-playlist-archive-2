@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹 Francamente in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,957 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,964 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 15 | [Quando ti ho visto arrivare](https://open.spotify.com/track/2m8oXzw1GcSLZxoJYaIKU5) | [L'AMORE](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Quando ti ho visto arrivare](https://open.spotify.com/album/2ZYfD4SYVmJxjrByNQenUU) | 2:38 |
 | 16 | [Non Mi Piace Più](https://open.spotify.com/track/4mCkL2Yh1YSZNTEF5WvKDD) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Non Mi Piace Più](https://open.spotify.com/album/2FVkPLGXkQlfnfNCuHgBCV) | 2:56 |
 | 17 | [I don't smoke, but I'll follow you outside](https://open.spotify.com/track/7nXDuUCfQJsMSG8Bet9C2E) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [I don't smoke, but I'll follow you outside](https://open.spotify.com/album/3LpYcIYzOg41sIMoX6oOxp) | 2:58 |
-| 18 | [Track 8](https://open.spotify.com/track/4cmO0uVIYLxLZbbrBjg4aZ) | [Aldolà Chivalà](https://open.spotify.com/artist/6y2QGZK67fYnvUeDPR3ofx) | [Aldo Livello](https://open.spotify.com/album/0YXky43houRscNeUR9IQBj) | 0:00 |
+| 18 | [Parallelismi](https://open.spotify.com/track/4cmO0uVIYLxLZbbrBjg4aZ) | [Aldolà Chivalà](https://open.spotify.com/artist/6y2QGZK67fYnvUeDPR3ofx), [Golden Rain](https://open.spotify.com/artist/2JD4quzgZcSRB0CGCLfS6h) | [Aldo Livello](https://open.spotify.com/album/0YXky43houRscNeUR9IQBj) | 4:43 |
 | 19 | [La fine sei tu](https://open.spotify.com/track/53GwFaNdePRbszno6Oxwn3) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Da Tutta La Vita \(Original Motion Picture Score\)](https://open.spotify.com/album/2dv4ir7Bq28L4SqxX21zbw) | 2:23 |
 | 20 | [Tuo:a](https://open.spotify.com/track/5KMCUjx56r2Mdx5Sb79CuW) | [Amore Audio](https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT) | [Tuo:a](https://open.spotify.com/album/1vc5AQtfUqkS7kFblFQJEC) | 2:52 |
 | 21 | [PROIETTILE](https://open.spotify.com/track/04ZJkAMQuZQ8MQZ94RFrqq) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [PROIETTILE](https://open.spotify.com/album/6NsSqAOO7t0aC0tGed53uM) | 2:27 |

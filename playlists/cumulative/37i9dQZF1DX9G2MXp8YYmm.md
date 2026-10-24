@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Emre Fel
 
-771 songs - 1 day 15 hr 15 min
+772 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Bal](https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bal](https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D) | 4:25 | 2024-06-27 | 2024-10-29 |
 | [Bal Böceği](https://open.spotify.com/track/4P1xU6Qiz34UknVAV1kdin) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [Bal Böceği](https://open.spotify.com/album/4Sw0ElAaK2JH9e9ROh2tlf) | 2:18 | 2025-09-25 | 2026-05-29 |
 | [Balerin](https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Balerin](https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr) | 2:56 | 2024-07-11 | 2024-09-06 |
-| [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 |  |
+| [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 | 2026-10-24 |
 | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/track/1X8w2fVhbwyRZhSrB6MuLn) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/album/71udzttNWk2BuW5TJabr6M) | 3:18 | 2026-06-12 | 2026-07-17 |
 | [bana ne.](https://open.spotify.com/track/2aEyzvp6ViXIqfSlLi0ym5) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [bana ne.](https://open.spotify.com/album/1erJv0weFEuBlhydLcTlco) | 2:38 | 2025-09-25 | 2025-10-10 |
 | [Bana Sorma](https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bana Sorma](https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh) | 4:14 | 2024-06-27 | 2026-01-23 |
@@ -699,6 +699,7 @@
 | [Yaz Yağmuru](https://open.spotify.com/track/6wz7pqHK2buDMeVIWbOGi6) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Yaz Yağmuru](https://open.spotify.com/album/6Y5c3tlCjqmuD6AEYbHCYz) | 2:55 | 2026-08-13 | 2026-08-28 |
 | [Yazık](https://open.spotify.com/track/1GjtJVlRPkOReKbEGv8yqM) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Yazık](https://open.spotify.com/album/1188ZVfe2Bte1RZWKzZChy) | 3:37 | 2024-06-27 | 2024-07-27 |
 | [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 | 2024-09-12 | 2024-09-27 |
+| [Yağsın](https://open.spotify.com/track/1JifEOO71jJqh8ZGwYvOSW) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Yağsın](https://open.spotify.com/album/6e9FLf85yb8DyWFGl6yN1z) | 3:39 | 2026-10-20 |  |
 | [Yaşama Sebebimsin](https://open.spotify.com/track/0yJswoE9y1lPYnGMfSIfo8) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [Yaşama Sebebimsin](https://open.spotify.com/album/4CkCrAWHf1cpH3URE6JOo2) | 2:31 | 2026-07-02 | 2026-08-14 |
 | [Yedek Anahtarım](https://open.spotify.com/track/3nB1gam8gNpXkZLWkHlXa3) | [Sena Gül](https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Yedek Anahtarım](https://open.spotify.com/album/1mlD3phxv7BuANLnsvZ74y) | 3:17 | 2026-01-15 | 2026-03-27 |
 | [Yediveren](https://open.spotify.com/track/2OEalqENC2jUcS227aYabQ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Yediveren](https://open.spotify.com/album/34r2E12DeCByExQ7vWFPKn) | 3:53 | 2026-09-15 |  |

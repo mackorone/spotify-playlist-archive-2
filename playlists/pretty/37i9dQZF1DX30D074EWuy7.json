@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35201,
+  "num_followers": 35204,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "M\u00e9lodies en noir & blanc",
-        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Romano",
-          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
-        }
-      ],
-      "duration_ms": 265526,
-      "name": "Song for Ellis",
-      "url": "https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Tindouf",
         "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 230173,
       "name": "Kontiki Blues",
       "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Other Directions (Remastered and Unreleased Tracks)",
+        "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
+      },
+      "artists": [
+        {
+          "name": "Nicola Conte",
+          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Sea and Sand",
+      "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Other Directions (Remastered and Unreleased Tracks)",
-        "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
+        "name": "M\u00e9lodies en noir & blanc",
+        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
       },
       "artists": [
         {
-          "name": "Nicola Conte",
-          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+          "name": "Aldo Romano",
+          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Sea and Sand",
-      "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
+      "duration_ms": 265526,
+      "name": "Song for Ellis",
+      "url": "https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -539,18 +539,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+        "name": "Shades of Chet",
+        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
         }
       ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+      "duration_ms": 457360,
+      "name": "You can't go home again",
+      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -571,22 +575,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Shades of Chet",
-        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
       },
       "artists": [
         {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
         }
       ],
-      "duration_ms": 457360,
-      "name": "You can't go home again",
-      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
-      },
-      "artists": [
-        {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
-        }
-      ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Funambola",
         "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vacation and Probation",
-        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
         }
       ],
-      "duration_ms": 154480,
-      "name": "Vacation and Probation",
-      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -975,6 +959,22 @@
       "duration_ms": 235506,
       "name": "Io Cammino Di Notte Da Sola",
       "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
+      },
+      "artists": [
+        {
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+        },
+        {
+          "name": "Paolo Di Sabatino Trio",
+          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
+        }
+      ],
+      "duration_ms": 434413,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 151000,
       "name": "notte brava",
       "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
-      },
-      "artists": [
-        {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
-        },
-        {
-          "name": "Paolo Di Sabatino Trio",
-          "url": "https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV"
-        }
-      ],
-      "duration_ms": 434413,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Taish\u014dgoto",
         "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 304173,
       "name": "Taish\u014dgoto",
       "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
@@ -1623,6 +1607,38 @@
       "duration_ms": 175458,
       "name": "Porta Pia",
       "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1671,22 +1687,6 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-10-02 08:14:11",

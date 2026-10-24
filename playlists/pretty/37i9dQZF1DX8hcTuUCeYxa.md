@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,108 likes - 93 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,137 likes - 93 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 19 | [EVERYBODY PRESiDENT](https://open.spotify.com/track/1rvAZodWwN685TazWKarVI) | [Bonaparte](https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy) | [PARADISE IF YOU CAN STAND IT](https://open.spotify.com/album/3IiYEIVLw2hyJ7jXsysCuf) | 2:30 |
 | 20 | [It's Pixie](https://open.spotify.com/track/0Ceb0mslfOdIu7Fciv4L8h) | [Pixie McCann](https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu) | [It's Pixie](https://open.spotify.com/album/4UAIfWOKxJ2Y29qlB5U2TI) | 3:50 |
 | 21 | [California](https://open.spotify.com/track/3meidwPTWoJ5SwszG5jm6S) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [FUDGE](https://open.spotify.com/album/4Qy4QeE6QL941JsIyEVqF2) | 5:28 |
-| 22 | [Track 4](https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Ciao](https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC) | 0:00 |
+| 22 | [wonderland](https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Ciao](https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC) | 3:24 |
 | 23 | [The Basement](https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [The Basement / Spilt](https://open.spotify.com/album/6LQR9ywQxcxq992e9h2mU5) | 3:33 |
 | 24 | [Where Is Gone?](https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Where Is Gone?](https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi) | 5:16 |
 | 25 | [Blood On The Dashboard](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 3:24 |

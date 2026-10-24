@@ -1,12 +1,12 @@
 {
   "description": "the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond \ud83c\udf1e featuring B\u00e5rd Berg",
-  "num_followers": 42385,
+  "num_followers": 42428,
   "original_name": "Jazz House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPyiz4pKJziCkTkqzp7ULhaSoZf",
+  "snapshot_id": "AAAAACR5rY4ilLNX9y7mnHikc7zUkHjW",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:03",
@@ -39,6 +39,26 @@
       "duration_ms": 343728,
       "name": "People",
       "url": "https://open.spotify.com/track/1XI25aYhu4UpskUYYgQYzg"
+    },
+    {
+      "added_at": "2026-10-23 04:01:07",
+      "album": {
+        "name": "Ebb & Flow",
+        "url": "https://open.spotify.com/album/59P358B5VqTgVRaSaaOOFp"
+      },
+      "artists": [
+        {
+          "name": "DAWSON",
+          "url": "https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02"
+        },
+        {
+          "name": "Lewis McCallum",
+          "url": "https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn"
+        }
+      ],
+      "duration_ms": 218809,
+      "name": "Ebb & Flow",
+      "url": "https://open.spotify.com/track/1Nh4nAdiWYUqXkhgxyTTR8"
     },
     {
       "added_at": "2026-10-16 04:01:03",
@@ -151,6 +171,22 @@
       "duration_ms": 151260,
       "name": "Tell Me More And More And Then Some - dublon Remix",
       "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
+    },
+    {
+      "added_at": "2026-10-23 04:01:07",
+      "album": {
+        "name": "Keep on Keeping On",
+        "url": "https://open.spotify.com/album/4Cg2RkIr9ctAMdTpBg41Um"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 298386,
+      "name": "Keep On Keeping On",
+      "url": "https://open.spotify.com/track/2WSIyYpNWEOFOa1wfxekm6"
     },
     {
       "added_at": "2026-10-16 04:01:03",
@@ -383,6 +419,26 @@
       "duration_ms": 130000,
       "name": "Haven",
       "url": "https://open.spotify.com/track/38AS0inhBchF5Xbj8adK6n"
+    },
+    {
+      "added_at": "2026-10-23 04:01:07",
+      "album": {
+        "name": "Data Garden",
+        "url": "https://open.spotify.com/album/3CN6klGj1lG6ChkR7Qc9TT"
+      },
+      "artists": [
+        {
+          "name": "Milan93",
+          "url": "https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg"
+        },
+        {
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
+        }
+      ],
+      "duration_ms": 197175,
+      "name": "Data Garden",
+      "url": "https://open.spotify.com/track/5A1T1fsXswhkESkBFvrHIY"
     },
     {
       "added_at": "2026-10-16 04:01:03",
@@ -955,22 +1011,6 @@
     {
       "added_at": "2026-10-16 04:01:03",
       "album": {
-        "name": "Acropolis",
-        "url": "https://open.spotify.com/album/33UdAsiRpjwn3UdauMrT0n"
-      },
-      "artists": [
-        {
-          "name": "gabriel",
-          "url": "https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Acropolis",
-      "url": "https://open.spotify.com/track/2hpVQBayFqLoNKO6XKnDGn"
-    },
-    {
-      "added_at": "2026-10-16 04:01:03",
-      "album": {
         "name": "Dazzlin'",
         "url": "https://open.spotify.com/album/1EJvVZPX2Q4E9kUj5X6ZnH"
       },
@@ -1103,22 +1143,6 @@
       "duration_ms": 131596,
       "name": "Sof\u00eda y yo",
       "url": "https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp"
-    },
-    {
-      "added_at": "2026-10-16 04:01:03",
-      "album": {
-        "name": "Lum",
-        "url": "https://open.spotify.com/album/1RezJlQz40JMBqkTnvFayF"
-      },
-      "artists": [
-        {
-          "name": "Juando",
-          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
-        }
-      ],
-      "duration_ms": 338356,
-      "name": "Lum",
-      "url": "https://open.spotify.com/track/0z7kmmyQJwKjYpB3h0JBUk"
     },
     {
       "added_at": "2026-10-16 04:01:03",
@@ -1427,6 +1451,26 @@
     {
       "added_at": "2026-10-16 04:01:03",
       "album": {
+        "name": "A Deeper Life",
+        "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 278379,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2x9lYHqC6bIPVGofPEj54j"
+    },
+    {
+      "added_at": "2026-10-16 04:01:03",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5rQSSNUg4uPr9vQaD7kcKu"
       },
@@ -1483,26 +1527,6 @@
       "duration_ms": 116166,
       "name": "waxed & sealed",
       "url": "https://open.spotify.com/track/5cYSLRDc9jRWaPfxcR5LjJ"
-    },
-    {
-      "added_at": "2026-10-16 04:01:03",
-      "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/01Gi66AgxBlxs47qLBKOJg"
-      },
-      "artists": [
-        {
-          "name": "DAWSON",
-          "url": "https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02"
-        },
-        {
-          "name": "Lewis McCallum",
-          "url": "https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn"
-        }
-      ],
-      "duration_ms": 172677,
-      "name": "Parallel",
-      "url": "https://open.spotify.com/track/19FzgTmZaepdeXBqHm87VD"
     },
     {
       "added_at": "2026-10-16 04:01:03",
@@ -1615,26 +1639,6 @@
       "duration_ms": 288000,
       "name": "Loire & Pinot Gris",
       "url": "https://open.spotify.com/track/0saHEfGDqdEBdgjZIwQVzE"
-    },
-    {
-      "added_at": "2026-10-16 04:01:03",
-      "album": {
-        "name": "A Deeper Life",
-        "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 278379,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/2x9lYHqC6bIPVGofPEj54j"
     },
     {
       "added_at": "2026-10-16 04:01:03",

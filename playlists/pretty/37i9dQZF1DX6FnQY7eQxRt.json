@@ -1,12 +1,12 @@
 {
   "description": "Your favourite Christmas carols, performed and re-imagined by the world's greatest choirs.",
-  "num_followers": 86000,
+  "num_followers": 85995,
   "original_name": "Christmas Choir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3RnDyQ8YYBqz4Nd5p8DM/HNG0o",
+  "snapshot_id": "AAAAAARiJh4hEkPPvJ854HMcb+Yqhb3x",
   "tracks": [
     {
       "added_at": "2025-12-19 17:43:58",
@@ -103,6 +103,54 @@
       "duration_ms": 85266,
       "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "added_at": "2026-10-23 04:00:59",
+      "album": {
+        "name": "Was I the lamb?",
+        "url": "https://open.spotify.com/album/4x3BNPaqQfbEsbfhyQzTv2"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Was I the lamb?",
+      "url": "https://open.spotify.com/track/6BGNdiehW0CgnJfRyQubvI"
+    },
+    {
+      "added_at": "2026-10-23 04:00:59",
+      "album": {
+        "name": "Seeing the Star: Music for Christmas by Ben Ponniah",
+        "url": "https://open.spotify.com/album/1qtRjzFkEEI6RniQsplKe7"
+      },
+      "artists": [
+        {
+          "name": "Ben Ponniah",
+          "url": "https://open.spotify.com/artist/33wLV9BIpFpqat4MPMjVER"
+        },
+        {
+          "name": "The Choir of Royal Holloway",
+          "url": "https://open.spotify.com/artist/1vasMRKeTuE5wtYduxAETj"
+        },
+        {
+          "name": "Rupert Gough",
+          "url": "https://open.spotify.com/artist/5hzVruo6hza65D4Xz1iJsG"
+        },
+        {
+          "name": "The Chamber Orchestra Of London",
+          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Seeing the Star",
+      "url": "https://open.spotify.com/track/5LUWJrqui1N6Bk5Mgp630v"
     },
     {
       "added_at": "2025-12-19 17:43:58",
@@ -441,6 +489,22 @@
       "url": "https://open.spotify.com/track/6M3OFxe8Za62DTNWG79pGc"
     },
     {
+      "added_at": "2026-10-23 04:00:59",
+      "album": {
+        "name": "Away in a Manger (Arr. Clements for Vocal Ensemble)",
+        "url": "https://open.spotify.com/album/43ATdrcvfXVh9RPTMRCAm5"
+      },
+      "artists": [
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Away in a Manger (Arr. Clements for Vocal Ensemble)",
+      "url": "https://open.spotify.com/track/6IZLEXPVBrDo1zEH6OOAZn"
+    },
+    {
       "added_at": "2025-12-19 17:43:58",
       "album": {
         "name": "Christmas Carols",
@@ -701,6 +765,34 @@
       "url": "https://open.spotify.com/track/3BAafxCgfLbKkp0ryqlmNp"
     },
     {
+      "added_at": "2026-10-23 04:00:59",
+      "album": {
+        "name": "Britten: A Ceremony of Carols, Op. 28: III. There Is No Rose",
+        "url": "https://open.spotify.com/album/1M0Oz7ircKgQMRL5rO7I56"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "RIAS Kammerchor",
+          "url": "https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx"
+        },
+        {
+          "name": "Anna Viechtl",
+          "url": "https://open.spotify.com/artist/3rU4elik6uBGxq21ePDMiw"
+        },
+        {
+          "name": "Justin Doyle",
+          "url": "https://open.spotify.com/artist/4VPMDJE3CTPpPDAvCtriKE"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "A Ceremony of Carols, Op. 28: III. There Is No Rose",
+      "url": "https://open.spotify.com/track/5pfLBIJTbaxIYevhslLiRf"
+    },
+    {
       "added_at": "2025-12-19 17:43:58",
       "album": {
         "name": "\u00c5, jul med din glede (arr. for choir by Arne Dagsvik)",
@@ -879,6 +971,22 @@
       "duration_ms": 169248,
       "name": "Shepherd\u2019s Pipe Carol - 2025 Remaster",
       "url": "https://open.spotify.com/track/720C8JwGeVh2sehAFduYHR"
+    },
+    {
+      "added_at": "2026-10-23 04:00:59",
+      "album": {
+        "name": "Silent Night (Arr. Burton for Vocal Ensemble)",
+        "url": "https://open.spotify.com/album/7BnDLCGrPHzmdlKlCWi9rS"
+      },
+      "artists": [
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Silent Night (Arr. Burton for Vocal Ensemble)",
+      "url": "https://open.spotify.com/track/1rmv4H8ON9oaSi92MXOJ7j"
     },
     {
       "added_at": "2025-12-19 17:43:58",
@@ -1415,6 +1523,34 @@
       "duration_ms": 63973,
       "name": "Somewhere in My Memory (From \"Home Alone\" Soundtrack) - Chorus & Orchestra Version",
       "url": "https://open.spotify.com/track/1WA5av9UlqPNOKcaUdWbGM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:59",
+      "album": {
+        "name": "The holly and the ivy",
+        "url": "https://open.spotify.com/album/3KGw6Ex8Id6FA3z2gNFj2g"
+      },
+      "artists": [
+        {
+          "name": "Matthew Owens",
+          "url": "https://open.spotify.com/artist/1XNpgJkal5vW63XlqYmmGA"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "The holly and the ivy",
+      "url": "https://open.spotify.com/track/2PcROa71O5e8h2M1fuF8nQ"
     },
     {
       "added_at": "2025-12-19 17:43:58",

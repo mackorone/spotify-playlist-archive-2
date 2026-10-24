@@ -1,13 +1,29 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Jess Williamson",
-  "num_followers": 1679987,
+  "description": "The best in folk & acoustic today featuring music from Rayland Baxter",
+  "num_followers": 1679865,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAuy91LpxT946LzgVp+Lip0hL7Go",
+  "snapshot_id": "AAAAAAyKA1hJtiMhhJiLNZCqYvOQyoft",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "True Violet",
+        "url": "https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 229025,
+      "name": "Up and Down a Mountain",
+      "url": "https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K"
+    },
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/42leQt2fs7BBNkpntuMkAM"
     },
     {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "Scarlett",
+        "url": "https://open.spotify.com/album/7hUGKO4CfgGFAmw3qc0UQb"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/0VkA3rug1fdlSPGw1rMnos"
+    },
+    {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "Sleeping Lion",
+        "url": "https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 202086,
+      "name": "Smartest Person in the Room",
+      "url": "https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Tell Me I'm Beautiful",
@@ -55,6 +103,38 @@
       "duration_ms": 215246,
       "name": "Tell Me I'm Beautiful",
       "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
+    },
+    {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Human Angel",
+      "url": "https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO"
+    },
+    {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "We'll All Be Okay",
+        "url": "https://open.spotify.com/album/2S0fxVLF8R9clrS9QQ4ikE"
+      },
+      "artists": [
+        {
+          "name": "Marfa",
+          "url": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+        }
+      ],
+      "duration_ms": 169637,
+      "name": "Waco",
+      "url": "https://open.spotify.com/track/1UwCpT8W2wBfh3VbndlG9P"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -109,6 +189,38 @@
       "url": "https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp"
     },
     {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "Popfly",
+        "url": "https://open.spotify.com/album/6sPw0fCOeY8csFwYzAdyu6"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 250414,
+      "name": "Lost Station Hideaway",
+      "url": "https://open.spotify.com/track/6donzNp5vvXcbfqQoBEh5T"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/2Ef6j9urevxzRVU6n7Cr0r"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Looking For Love",
@@ -123,6 +235,22 @@
       "duration_ms": 240600,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/554YpKFKPvWERNpy1Fn5iz"
+    },
+    {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -155,6 +283,22 @@
       "duration_ms": 161816,
       "name": "If I Had The Hand Of God",
       "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "added_at": "2026-10-23 04:01:14",
+      "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/437GHQl79iiIXVggs2zHXz"
+      },
+      "artists": [
+        {
+          "name": "Dead Gowns",
+          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Hardcore or Wellness",
+      "url": "https://open.spotify.com/track/6fgsI2J6ynD5uonTbuZSoY"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -255,22 +399,6 @@
       "duration_ms": 197013,
       "name": "I Will Eat My Heart in the Morning Light",
       "url": "https://open.spotify.com/track/7ia5upp9rLB4rQEyhAWknc"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/2Ef6j9urevxzRVU6n7Cr0r"
-      },
-      "artists": [
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw"
     },
     {
       "added_at": "2026-10-09 04:02:47",

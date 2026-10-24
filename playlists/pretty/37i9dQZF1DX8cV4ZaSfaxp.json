@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 65546,
+  "num_followers": 65549,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "In Yeonhui-dong",
+        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 221153,
+      "name": "In Yeonhui-dong",
+      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 168817,
       "name": "In the Rain",
       "url": "https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
-        "name": "In Yeonhui-dong",
-        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "In Yeonhui-dong",
-      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Soul Tricycle",
-        "url": "https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 283306,
-      "name": "Moments Like This",
-      "url": "https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Playlist #You Are You",
         "url": "https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 209013,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/5PUXJEyoun8vgcfS0wrWzW"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Soul Tricycle",
+        "url": "https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 283306,
+      "name": "Moments Like This",
+      "url": "https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "The 3rd Mini Album 'VarioUS'",
-        "url": "https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/3SxUFfigBD28FSTPyiMEUm"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 193000,
       "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "The 3rd Mini Album 'VarioUS'",
+        "url": "https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3SxUFfigBD28FSTPyiMEUm"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 194373,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
-        "name": "Blue City",
-        "url": "https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 231409,
-      "name": "Blue City",
-      "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+        "name": "Blue City",
+        "url": "https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E"
       },
       "artists": [
         {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
+      "duration_ms": 231409,
+      "name": "Blue City",
+      "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "Love visible",
         "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 234000,
       "name": "It's Beautiful",
       "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Cocktail love",
-        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
-      },
-      "artists": [
-        {
-          "name": "YEWON",
-          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Cocktail love",
-      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
         "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 250000,
       "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
       "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Cocktail love",
+        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Cocktail love",
+      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 234856,
       "name": "Line",
       "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Law and The City, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I want to know",
-      "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "Law and The City, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "I want to know",
+      "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "Time-Lapse",
         "url": "https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT"
       },
@@ -1455,6 +1455,30 @@
       "duration_ms": 208240,
       "name": "I want to be closer to you",
       "url": "https://open.spotify.com/track/1WfxhZEtlQ9J0B4325cBsF"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Do Worry Be Happy",
+        "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Anda",
+          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
+        },
+        {
+          "name": "colde",
+          "url": "https://open.spotify.com/artist/1QIQMfnfyVmZsE6lGOaiMN"
+        }
+      ],
+      "duration_ms": 268847,
+      "name": "The open boat",
+      "url": "https://open.spotify.com/track/4RGt40uIy9faZvgLFb9XDa"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1495,30 +1519,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Do Worry Be Happy",
-        "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Anda",
-          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
-        },
-        {
-          "name": "colde",
-          "url": "https://open.spotify.com/artist/1QIQMfnfyVmZsE6lGOaiMN"
-        }
-      ],
-      "duration_ms": 268847,
-      "name": "The open boat",
-      "url": "https://open.spotify.com/track/4RGt40uIy9faZvgLFb9XDa"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Get up",
-      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "The Line",
         "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
       },
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 299500,
-      "name": "Aqua (feat. Muzie)",
-      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
+      "duration_ms": 237500,
+      "name": "Get up",
+      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1619,6 +1599,26 @@
       "duration_ms": 183920,
       "name": "1,2,3,4 (Feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        }
+      ],
+      "duration_ms": 299500,
+      "name": "Aqua (feat. Muzie)",
+      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
+        "name": "Pink Funky",
+        "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
       },
       "artists": [
         {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 201223,
-      "name": "\uadf8\ub300 Hello",
-      "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
+      "duration_ms": 197240,
+      "name": "Self Camera",
+      "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-324 songs - 18 hr 15 min
+330 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Excuus](https://open.spotify.com/track/00UqHsIy3NrRd48ZCTjt4x) | [Amélie Esmée](https://open.spotify.com/artist/4F6j4Zt7hozI7BtYPCUMgI) | [Excuus](https://open.spotify.com/album/0JIaJCM5A7zY0OEatjvLf7) | 3:10 | 2025-12-12 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2025-07-18 | 2025-09-20 |
 | [Favorite Person](https://open.spotify.com/track/2aSLm1nQp9MmNwEqHyPerf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Favorite Person](https://open.spotify.com/album/4Z6g0egtF1nHzHAGrfizXh) | 2:39 | 2026-02-20 |  |
+| [Film Noir](https://open.spotify.com/track/7DjfpeQoZzZv2DUe0kHaLT) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Film Noir](https://open.spotify.com/album/1Kffzv98M9zDC9TlIBZFPw) | 3:48 | 2026-10-23 |  |
 | [Flowers \(Carry Me Home\)](https://open.spotify.com/track/70VTz7ZH2rCXUbk6PEo4Ap) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Flowers \(Carry Me Home\)](https://open.spotify.com/album/2vMtuoEPWr7zbQnjCoLoVa) | 3:42 | 2025-07-18 |  |
 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 | 2025-07-18 |  |
 | [Follow Me](https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Follow Me](https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R) | 2:51 | 2026-10-09 |  |
@@ -212,6 +213,7 @@
 | [Out Tonight](https://open.spotify.com/track/0WJ8Or1MIGFsX4rzwMuPxd) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Out Tonight](https://open.spotify.com/album/4xNJnLAgqlk7z0I0iktw1m) | 4:13 | 2025-07-18 |  |
 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 | 2026-09-18 |  |
 | [Over You](https://open.spotify.com/track/3slbgFPGIqBPcQH1gDynB5) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Over You](https://open.spotify.com/album/4QZRQsznUdzpTFeKXb4x95) | 3:28 | 2025-07-18 | 2025-09-13 |
+| [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 | 2026-10-23 |  |
 | [peace of mind \(feat\. blackwave.\)](https://open.spotify.com/track/5hZ4Ta8RoPjlRIOp1viGM5) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [333](https://open.spotify.com/album/3qZqLv9ASu1fawBdLD11JZ) | 3:24 | 2025-07-18 | 2025-08-23 |
 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 | 2026-09-18 |  |
 | [Pinocchio](https://open.spotify.com/track/4PlauR1yKbWWgUoZhDT1kh) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Pinocchio](https://open.spotify.com/album/7FW3kBFDP5PIY8dVV2LQSP) | 3:10 | 2025-07-18 | 2025-10-11 |
@@ -229,8 +231,10 @@
 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-05-27 |  |
 | [Rule My World](https://open.spotify.com/track/2fN6zJClsuH8SXqBbAVC3S) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Declaration Of Dependence](https://open.spotify.com/album/6HdLcKjSVbImVaqAduttER) | 3:31 | 2025-07-18 | 2025-11-22 |
 | [Run](https://open.spotify.com/track/0lByIWM29eiqLHCfOdkl6F) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Run](https://open.spotify.com/album/5L4FbyBKRVyNZYFgbOMbj7) | 2:59 | 2026-01-09 | 2026-05-28 |
+| [Run Into You](https://open.spotify.com/track/78tDhQjEM02Tq5Z0DsKkCp) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Run Into You](https://open.spotify.com/album/5V0hxrYkf7rw3EN4AtXC76) | 3:02 | 2026-10-23 |  |
 | [Same Heart](https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Same Heart](https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8) | 3:39 | 2026-02-06 |  |
 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2025-11-21 |  |
+| [Say When \- from Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/0WOITRgSeNeY0ZGxn1vkJc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Say When \(from Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/1sAOV9vKM60TBvhDbcGjvP) | 3:47 | 2026-10-23 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2025-07-18 |  |
 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 | 2025-09-12 | 2025-12-13 |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2026-08-25 |  |
@@ -295,6 +299,7 @@
 | [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 | 2025-07-18 | 2025-09-27 |
 | [Thousand Nights](https://open.spotify.com/track/7bNfbHChtz9j65zMLvPoGV) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Thousand Nights](https://open.spotify.com/album/21woPwk6trw5H7sshSK7j2) | 2:59 | 2025-09-26 | 2026-02-14 |
 | [TickTickBoom](https://open.spotify.com/track/2fifcgrC2McRDrABuG743H) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [TickTickBoom](https://open.spotify.com/album/71Gg0zWr0x4I5VB3gAKumw) | 2:25 | 2025-09-12 | 2026-02-07 |
+| [Too Late To Live](https://open.spotify.com/track/1f3JwG8DyCF5eVL264nIz2) | [Sarah Isabel](https://open.spotify.com/artist/3gwHizAzygKIdC2t9XRxfn) | [Too Late To Live](https://open.spotify.com/album/5wb3jR1J30UzJ9Hp09Hn0O) | 2:47 | 2026-10-23 |  |
 | [Touchdown](https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [The Fear That This Is Real](https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4) | 3:52 | 2026-10-09 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-08-26 |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 | 2026-10-03 |
@@ -312,6 +317,7 @@
 | [Watch You Dance](https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Watch You Dance](https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1) | 2:27 | 2026-09-25 |  |
 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 | 2026-02-06 |  |
 | [wecouldsithereforever](https://open.spotify.com/track/1KGGGr7EkmdsNJVNyU0Kb3) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [In the Works](https://open.spotify.com/album/6G5sFEjLo515bziYyusTAh) | 3:21 | 2025-12-06 | 2026-08-26 |
+| [Weekend In Texas](https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weekend In Texas](https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf) | 2:53 | 2026-10-23 |  |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-12 |  |
 | [what are friends for?](https://open.spotify.com/track/2w2XDOLq812JhcXe4nL2lI) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what are friends for?](https://open.spotify.com/album/1lleZ7nqFgCsP6ySrObaMn) | 2:57 | 2025-07-18 | 2025-08-16 |
 | [What’s on your mind?!](https://open.spotify.com/track/7zetTt73XEyvXy3xdq5gDs) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [What’s on your mind?!](https://open.spotify.com/album/400zMpudSCsm7wltCmspf3) | 3:38 | 2025-07-18 | 2026-02-07 |

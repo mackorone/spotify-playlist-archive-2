@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 9712,
+  "num_followers": 9711,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADdWchSfLvKNuInOyqie+7G",
+  "snapshot_id": "atgAgAAAAAA3B9IrRVhRnYay3S1kS7Wt",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 108373,
-      "name": "This Is Not a Test",
-      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
+      "duration_ms": 208053,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
+      "duration_ms": 108373,
+      "name": "This Is Not a Test",
+      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: EWA KOC, Błażej Król, Dawid Tyszkowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,503 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,513 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 29 | [Trochę za Tobą](https://open.spotify.com/track/4JM0dK80Ztbp57qFU9GfFs) | [Martyna Wrochna](https://open.spotify.com/artist/6bDtZgCcEV7naaRe0ynqQ0) | [Myśli pisane](https://open.spotify.com/album/1y8mCf46yAM1kl4vw6ShJC) | 2:36 |
 | 30 | [Fajnie, że byłeś](https://open.spotify.com/track/6lkIz9kroDafn1HUMZI3wH) | [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC), [Młody Budda](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c), [Młody SMF](https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC) | [Fajnie, że byłeś](https://open.spotify.com/album/6y519ujN2kYfZvco4dfYxF) | 3:50 |
 | 31 | [Wiesz, znasz](https://open.spotify.com/track/73ixjXtDZnNlLC7F046LFh) | [Szwed Swd](https://open.spotify.com/artist/6DFpXEOsxD5MHDnglPQlk9), [Kyöku](https://open.spotify.com/artist/5NfNtIDD7hUBI7FFt6G96U), [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [Wiesz, znasz](https://open.spotify.com/album/6hOowvXJCXAFxzpacAKFkt) | 2:46 |
-| 32 | [Track 2](https://open.spotify.com/track/5mYhGNsUcQF8cv0vH8yFkQ) | [Kasia Klich](https://open.spotify.com/artist/5uBOKfCCQlO6qrNLauUSOH) | [Cytrynowy stół](https://open.spotify.com/album/3X0sVJt4rgUpjeVnI5Etdn) | 0:00 |
+| 32 | [Uwierasz](https://open.spotify.com/track/5mYhGNsUcQF8cv0vH8yFkQ) | [Kasia Klich](https://open.spotify.com/artist/5uBOKfCCQlO6qrNLauUSOH) | [Cytrynowy stół](https://open.spotify.com/album/3X0sVJt4rgUpjeVnI5Etdn) | 3:22 |
 | 33 | [Po przypływie został ślad](https://open.spotify.com/track/3idfW5iu8hoEcW3Zmuu9oT) | [Oliwia Patoka](https://open.spotify.com/artist/3V0dJVugQgQMYkv4mj6Jsd), [Expo 2000](https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu) | [Po przypływie został ślad](https://open.spotify.com/album/6HGC93wof7I1urqG0CgAiU) | 2:30 |
 | 34 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
 | 35 | [Zew nie zen](https://open.spotify.com/track/3xV1s16lXwDJMIndzq2iuT) | [Michał Kisielewski](https://open.spotify.com/artist/0fi8unZHAE9dNVsLhFIttc) | [Zew nie zen!](https://open.spotify.com/album/1a1EN3ZfAnsNgLA6egUvVw) | 3:06 |

@@ -2,9 +2,9 @@
 
 ### [Pop Focus \| Pop Music for ADHD, Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
+> 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Miley, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes
 
-430 songs - 23 hr 40 min
+432 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:32 | 2025-09-26 |  |
 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 | 2021-12-09 | 2023-08-16 |
 | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/0AQK1WPoRCTtgW5dHpKKdn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/6hFKaZKTX3xGT62fnj3Ikn) | 6:04 | 2021-12-06 | 2023-08-16 |
+| [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 | 2026-10-23 |  |
 | [Coldest Century](https://open.spotify.com/track/4tE6WPgDKliTWybODgsuxl) | [New Translations](https://open.spotify.com/artist/1qVQwF3vK1r0TkCZwP9Xbo) | [Coldest Century](https://open.spotify.com/album/6d7204FVeZNf0qZlNLwDd1) | 3:04 | 2025-01-11 | 2026-07-11 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-08-28 | 2024-02-17 |
 | [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 | 2023-11-18 | 2024-01-11 |
@@ -89,6 +90,7 @@
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-12-06 | 2023-08-16 |
 | [Defense of Love](https://open.spotify.com/track/66O4XqsqRzp6l1hweNpcmQ) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love](https://open.spotify.com/album/7bMja76Ql0NpyYGmS0MPUB) | 2:25 | 2024-08-16 | 2024-09-07 |
 | [Defense of Love \- Acoustic](https://open.spotify.com/track/1NxJKfnHThLdKBEEyI6Z6k) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love \- Acoustic](https://open.spotify.com/album/3a6yUJgGmALj2mjt7dvRzh) | 2:26 | 2024-09-06 | 2024-10-19 |
+| [Delancey \- A COLORS SHOW](https://open.spotify.com/track/5v6RnBRbxVxdn9DTRX06Gk) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Delancey \- A COLORS SHOW](https://open.spotify.com/album/4pouK9bZUD1LIXM93pwt5k) | 3:34 | 2026-10-23 |  |
 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 | 2025-02-28 |  |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-08-28 | 2024-12-14 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-08-15 | 2024-10-19 |

@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 154160,
       "name": "A\u0219a \u0219i a\u0219a",
       "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
@@ -12328,6 +12328,28 @@
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
+    },
+    {
+      "album": {
+        "name": "Art\u0103, sunet, poezie",
+        "url": "https://open.spotify.com/album/5WiXpyblGndfroy4UAkqeT"
+      },
+      "artists": [
+        {
+          "name": "Vlad Musta",
+          "url": "https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "De dor",
+      "url": "https://open.spotify.com/track/4EGRn08pP3tFFUV3NClsM7"
     },
     {
       "album": {
@@ -35312,7 +35334,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 211013,
       "name": "paradyse",
       "url": "https://open.spotify.com/track/2os0uiO7qZQoLYqjJQ2J6v"
@@ -36028,7 +36050,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 127187,
       "name": "PETER PARKER",
       "url": "https://open.spotify.com/track/6wkXctZWq1e1L9p9nXYq1P"

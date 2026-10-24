@@ -1,13 +1,45 @@
 {
-  "description": "it's finally folk weather \ud83c\udf42",
-  "num_followers": 153044,
+  "description": "grumpy on the cover :)",
+  "num_followers": 153060,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYzjNe9lOg6MEfJKZYNHNuC75eD",
+  "snapshot_id": "AAAAAKGIQ44nOw5k0GSlWZIEKQDZYhLS",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:02:10",
+      "album": {
+        "name": "What we want and need from love",
+        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "duration_ms": 253590,
+      "name": "What we want and need from love",
+      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+    },
+    {
+      "added_at": "2026-10-23 04:02:10",
+      "album": {
+        "name": "Unfindable Ring",
+        "url": "https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 271391,
+      "name": "George Clanton",
+      "url": "https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L"
+    },
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 151146,
       "name": "Knife",
       "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
+    },
+    {
+      "added_at": "2026-10-23 04:02:10",
+      "album": {
+        "name": "Sleeping Lion",
+        "url": "https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 202086,
+      "name": "Smartest Person in the Room",
+      "url": "https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX"
     },
     {
       "added_at": "2026-10-09 04:02:34",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/1aHyyc7V0M3CdkVeaWSAkP"
     },
     {
+      "added_at": "2026-10-23 04:02:10",
+      "album": {
+        "name": "Get Me on the Way Out",
+        "url": "https://open.spotify.com/album/494Rzl9dB7mazA48OXdYt9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "duration_ms": 286241,
+      "name": "Get Me on the Way Out",
+      "url": "https://open.spotify.com/track/4Jo80L9w3fXa8LUkwzCe7o"
+    },
+    {
       "added_at": "2026-10-16 04:01:41",
       "album": {
         "name": "Autosmile",
@@ -71,6 +135,38 @@
       "duration_ms": 212613,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/1oRSvQ98Uake6pL6BfcpgU"
+    },
+    {
+      "added_at": "2026-10-23 04:02:10",
+      "album": {
+        "name": "Jazz dreams",
+        "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "If you wanna come down",
+      "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
+    },
+    {
+      "added_at": "2026-10-23 04:02:10",
+      "album": {
+        "name": "Let the Bad Times Roll",
+        "url": "https://open.spotify.com/album/4y8JP2HanZCu6EZgiFZQG5"
+      },
+      "artists": [
+        {
+          "name": "Dan English",
+          "url": "https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Let the Bad Times Roll",
+      "url": "https://open.spotify.com/track/0YQ6QyPdJEhn9lyyGpdPAx"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -263,6 +359,22 @@
       "duration_ms": 247364,
       "name": "San Francisco, 2005",
       "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
+    },
+    {
+      "added_at": "2026-10-23 04:02:10",
+      "album": {
+        "name": "Bear, Hello",
+        "url": "https://open.spotify.com/album/6CzxR0MywxwPSY7P3M1fKj"
+      },
+      "artists": [
+        {
+          "name": "Jonny's Day Out",
+          "url": "https://open.spotify.com/artist/0xY8XemCP3i1SaSciB5YbK"
+        }
+      ],
+      "duration_ms": 342134,
+      "name": "Lover Lover",
+      "url": "https://open.spotify.com/track/4IB6CL4eGMozMZSNnrVtrE"
     },
     {
       "added_at": "2026-10-16 04:01:41",

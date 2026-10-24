@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35459,
+  "num_followers": 35466,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAlitYzbXaLrqsfm3qdx0/n",
+  "snapshot_id": "atgAgAAAAADeuFo8U+7QVmxs5do6pe9w",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enche Minha Bunda De Tapa",
+        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
+      },
+      "artists": [
+        {
+          "name": "DJ Guina",
+          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 180922,
+      "name": "Enche Minha Bunda De Tapa",
+      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Respeita o Monstro",
         "url": "https://open.spotify.com/album/65pul435mJSXzxyj0i3DgZ"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 134582,
       "name": "Parece Que Nem Fala Parece Que Da Ideia",
       "url": "https://open.spotify.com/track/7LPKqmYq56iu6OHWcsEBuC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enche Minha Bunda De Tapa",
-        "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
-      },
-      "artists": [
-        {
-          "name": "DJ Guina",
-          "url": "https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "Enche Minha Bunda De Tapa",
-      "url": "https://open.spotify.com/track/0l59w1d930KgWcRx2rRTVQ"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CARO Vapor II - qual a forma de pagamento ?",
+        "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 183147,
+      "name": "melhor Vida",
+      "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
         "url": "https://open.spotify.com/album/6SYKU2YKvPcBslCHjnFtKU"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 240118,
       "name": "Empurra Empurra",
       "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CARO Vapor II - qual a forma de pagamento ?",
-        "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 183147,
-      "name": "melhor Vida",
-      "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jetta Preto",
+        "url": "https://open.spotify.com/album/20RSmavBmlUIx9yB9NNWD7"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Aleeh Marley",
+          "url": "https://open.spotify.com/artist/2V6qQAXPdopmmQFREzbG9n"
+        }
+      ],
+      "duration_ms": 155271,
+      "name": "Jetta Preto",
+      "url": "https://open.spotify.com/track/1ZCh7vpZWgkPN96jC1kt2b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mtg Que Chega Me Machucou",
         "url": "https://open.spotify.com/album/64VU2rCPsKnCrW4oyQRS97"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 155145,
       "name": "De 38 Carregado",
       "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jetta Preto",
-        "url": "https://open.spotify.com/album/20RSmavBmlUIx9yB9NNWD7"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Aleeh Marley",
-          "url": "https://open.spotify.com/artist/2V6qQAXPdopmmQFREzbG9n"
-        }
-      ],
-      "duration_ms": 155271,
-      "name": "Jetta Preto",
-      "url": "https://open.spotify.com/track/1ZCh7vpZWgkPN96jC1kt2b"
     },
     {
       "added_at": null,

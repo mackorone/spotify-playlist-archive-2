@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Hank
 
-3,778 songs - 7 day 7 hr 29 min
+3,778 songs - 7 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1335,6 +1335,7 @@
 | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9) | 2:28 | 2026-08-13 | 2026-10-09 |
 | [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/track/71zVyAO3nkykYTFBfiw1DM) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6) | 2:53 | 2026-07-30 | 2026-08-14 |
 | [Gut und schlecht](https://open.spotify.com/track/27h7Ta6iqSYa7MK7DGRA17) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Gut und schlecht](https://open.spotify.com/album/0ikRawhpYNf1P0DFmEoxH9) | 2:44 | 2023-08-24 | 2023-09-01 |
+| [Gutmensch](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 2:24 | 2026-10-22 |  |
 | [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-01-23 | 2023-04-07 |
 | [gänsehaut](https://open.spotify.com/track/4cXkvmhF7pQ94KoULMbU0o) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [gänsehaut](https://open.spotify.com/album/0LFWDPpELN2EwKkcHpGkcb) | 2:24 | 2026-04-09 | 2026-05-08 |
 | [Gänsehaut](https://open.spotify.com/track/4Mg3E0QEPAWqbgcDmweYDE) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tagebuch](https://open.spotify.com/album/2W2W5TRADkqW39u9eppWtE) | 2:27 | 2025-11-06 | 2025-11-14 |
@@ -3264,7 +3265,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 8](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 0:00 | 2026-10-22 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [Trance \(Walk It Down\)](https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40) | 2:41 | 2026-08-20 |  |

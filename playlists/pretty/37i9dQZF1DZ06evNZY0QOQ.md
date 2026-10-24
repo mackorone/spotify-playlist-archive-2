@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,856 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,864 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [Good Boy \(feat\. BOJ and Ckay\)](https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [BOJ](https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Bad Boy Blaq Re\-Up](https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V) | 4:11 |
 | 50 | [Cocoro](https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 |
 
-Snapshot ID: `atavAAAAAADUNgM0ZsYnkXdS0Dllf6kg`
+Snapshot ID: `atgAgAAAAADVACGXBV/EM0sar5q0V2Xs`

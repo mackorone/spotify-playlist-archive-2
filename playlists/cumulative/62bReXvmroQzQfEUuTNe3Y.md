@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-606 songs - 1 day 9 hr 2 min
+608 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1OFtfwhXqUYO08yD0QfTQE) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4lw2gLtWy9vadSTniV99mc) | 3:09 | 2021-09-11 |  |
 | [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-07-30 |  |
 | [animal](https://open.spotify.com/track/4BeeT5TUEjM0fIwYgW0BYd) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [moving on](https://open.spotify.com/album/5GWQUzurAtSwpYwsdXJAYJ) | 3:07 | 2026-08-14 |  |
+| [another lifetime](https://open.spotify.com/track/0ZmWaFfrQUDVYpAE7iHujh) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [another lifetime](https://open.spotify.com/album/2K0Iz1pbpMNlFwd9Y0wwlu) | 3:35 | 2026-10-23 |  |
 | [Another You](https://open.spotify.com/track/7xBtsvU7AWX4pYP02SXEtF) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Another You](https://open.spotify.com/album/5kriWdQNPawclQs1j2jfcZ) | 2:49 | 2022-08-05 | 2022-09-17 |
 | [Anyway Friday](https://open.spotify.com/track/7uyzEFBeQNkoHsl35NFMAv) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Voices](https://open.spotify.com/album/3ZHBMDCb4NrguIr1EaDwZK) | 3:33 | 2020-09-13\* | 2021-04-17 |
 | [Anywhere \(Road Trippin'\)](https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Anywhere \(Road Trippin'\)](https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA) | 4:34 | 2023-06-16 | 2025-07-31 |
@@ -157,6 +158,7 @@
 | [Feelings](https://open.spotify.com/track/1ZSuGfwnaWCLfIIVS5Qxp7) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Feelings](https://open.spotify.com/album/5syLJL7AyN1ZDfA1mvr2Nw) | 3:40 | 2020-09-13\* | 2021-07-24 |
 | [Feels so Good](https://open.spotify.com/track/4VLfNAwn0eo218nImtwvpN) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Feels so Good](https://open.spotify.com/album/2aCKYrT06QIhh7t1xy4Dnh) | 2:27 | 2022-12-02 | 2023-02-04 |
 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 | 2021-03-11 | 2026-08-22 |
+| [find you once](https://open.spotify.com/track/5JOjyKtEe5MOpyxXJgXGQ4) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [another lifetime](https://open.spotify.com/album/2K0Iz1pbpMNlFwd9Y0wwlu) | 3:40 | 2026-10-23 |  |
 | [Fine by Me](https://open.spotify.com/track/536ZOMd9Wevj5MnLuaYVKr) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Mara](https://open.spotify.com/album/7w0AHYLQo2xI7fPZ0JX9x4) | 2:10 | 2026-07-17 |  |
 | [Fire](https://open.spotify.com/track/3wuVn9TJsfWYZnaTSicrx1) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Fire](https://open.spotify.com/album/3916RvUXnF5pTl3awG2yGM) | 1:53 | 2021-06-26 | 2021-10-23 |
 | [FIRE FLIES](https://open.spotify.com/track/4HMybIZRiXCIWqcnnPvTyq) | [ASK YOUR FRIENDS](https://open.spotify.com/artist/4NnFcjLPmbYq2OTAFPVDC0) | [NOT ENOUGH](https://open.spotify.com/album/6UBf3sJ31WAnWp4lckqpyN) | 3:37 | 2026-08-28 |  |

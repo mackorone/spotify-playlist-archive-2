@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,049 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,052 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 2 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
-| 3 | [To Let Myself Go](https://open.spotify.com/track/62d0YCTAtRcVQ8s44H9HbM) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 4:14 |
-| 4 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
+| 3 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
+| 4 | [To Let Myself Go](https://open.spotify.com/track/62d0YCTAtRcVQ8s44H9HbM) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 4:14 |
 | 5 | [Whisper](https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [Mischief](https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX) | [Whisper](https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM) | 3:21 |
-| 6 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
-| 7 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita Butternut](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
+| 6 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita Butternut](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
+| 7 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 8 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 9 | [french kids](https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [THANK GOD IT'S ALMOST MONDAY](https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM) | 3:34 |
 | 10 | [The Sun](https://open.spotify.com/track/4IY8Lz6j0sc2DuUva1KLNo) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [The Sun](https://open.spotify.com/album/4hI5JJDxanXbakx4MkFToA) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Your Lovin'](https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Your Lovin'](https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be) | 3:27 |
 | 60 | [Heartbeat](https://open.spotify.com/track/0LF31JzVi4GSthMthWoHIE) | [Plaisance](https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu), [Quiet Blue](https://open.spotify.com/artist/2Wid46wTM2efkNxWhmVqpf) | [Fallin'](https://open.spotify.com/album/2ckOSr74FyVnYd6a4nsXyY) | 4:00 |
 
-Snapshot ID: `AAAAAJPacxesO59eWZGykvX0lxSHLObl`
+Snapshot ID: `AAAAAKdpNJpiLxDUrySadSKLiTW+4O12`

@@ -2,9 +2,9 @@
 
 ### [Top Christian Hits 2026](https://open.spotify.com/playlist/1KRZH6WH8qYgaVnagjjOFV)
 
-> Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
+> Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=qRGgP9VyQ5K94cbE8yXDNw">Josiah Queen</a> Halloween fall music  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-241 songs - 15 hr 40 min
+243 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 | 2026-02-06 |  |
 | [He Can](https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [He Can](https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar) | 3:09 | 2026-02-13 |  |
 | [Heaven Closes Doors](https://open.spotify.com/track/7yTYVKL2PQyihocreC32hJ) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/1CyZZmMFR02U96aEGgK0z6) | 3:56 | 2025-01-31 | 2026-03-17 |
+| [Heaven Here I Come](https://open.spotify.com/track/41ZH0iMu6Ix0d5t9bf6Qzm) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Soon The Streets Of Gold](https://open.spotify.com/album/7ufnY8WFPIPW9Jra85UMZa) | 3:19 | 2026-10-23 |  |
 | [Heaven On Earth](https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Heaven On Earth](https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5) | 3:19 | 2024-05-24 | 2025-09-20 |
 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 | 2025-04-04 |  |
 | [Hero In The Room](https://open.spotify.com/track/0vt0GwYOmhSFxsOA7zcYGB) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Hero In The Room](https://open.spotify.com/album/1eQxNUI0ZmqrWz9WKJgSyy) | 3:02 | 2025-03-31 |  |
@@ -166,6 +167,7 @@
 | [Oh My Soul](https://open.spotify.com/track/7whei6MbtL7CvpwU0Ig8LC) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [Oh My Soul](https://open.spotify.com/album/2flrdF7GTjjLqXrkJhdCG2) | 3:17 | 2026-03-13 |  |
 | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW) | 3:44 | 2025-05-30 | 2026-06-18 |
 | [One And Only](https://open.spotify.com/track/38eG7CWY62HKPQkjiSSWoD) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [One And Only](https://open.spotify.com/album/7psjjAFyfKCI3ZJDMxI4Yw) | 5:07 | 2025-02-07 | 2025-09-20 |
+| [out of breath](https://open.spotify.com/track/54REGEH2eXUz959sUIEmwb) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Damascus Road](https://open.spotify.com/album/4X7OVZ40bdXlArLiO2PYUY) | 2:44 | 2026-10-23 |  |
 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2025-01-31 | 2026-03-17 |
 | [Party In The Heavens](https://open.spotify.com/track/1EyepB7ICIhTcpClRqfiwE) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [All We Like Sheep](https://open.spotify.com/album/0uai0ffJo9dW1cjw4h9Gw6) | 3:14 | 2025-06-06 | 2026-03-06 |
 | [Passenger Seat](https://open.spotify.com/track/67GgkBHYX6x3qzXkNqS5oJ) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Passenger Seat](https://open.spotify.com/album/3mBqgeRuQBZkt4Vi5ZJZ6Z) | 2:56 | 2024-09-06 |  |

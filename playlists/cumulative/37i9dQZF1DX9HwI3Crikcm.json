@@ -2440,14 +2440,6 @@
       },
       "artists": [
         {
-          "name": "Dermot Byrne",
-          "url": "https://open.spotify.com/artist/7zYOs83aBa0MGKTXjcqeIc"
-        },
-        {
-          "name": "Kevin Crawford",
-          "url": "https://open.spotify.com/artist/1PZVs9CIUJezVIKNaQ6BzF"
-        },
-        {
           "name": "\u00c9il\u00eds Crean",
           "url": "https://open.spotify.com/artist/1G3RmMchcUMHeWlQcXBSTh"
         },
@@ -2458,6 +2450,14 @@
         {
           "name": "Kenny Malone",
           "url": "https://open.spotify.com/artist/6NcMdkaqsWM6Y1e529IPQ6"
+        },
+        {
+          "name": "Dermot Byrne",
+          "url": "https://open.spotify.com/artist/7zYOs83aBa0MGKTXjcqeIc"
+        },
+        {
+          "name": "Kevin Crawford",
+          "url": "https://open.spotify.com/artist/1PZVs9CIUJezVIKNaQ6BzF"
         }
       ],
       "date_added": "2020-11-11",

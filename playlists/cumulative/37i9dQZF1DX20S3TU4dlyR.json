@@ -413,6 +413,32 @@
     },
     {
       "album": {
+        "name": "Arena Version",
+        "url": "https://open.spotify.com/album/20VWXhoif9kqcM5LCsBSSq"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Sgt. Remo",
+          "url": "https://open.spotify.com/artist/4MF8t25abZJEK1tR7bpcTY"
+        },
+        {
+          "name": "Kutral Dub",
+          "url": "https://open.spotify.com/artist/2NmjwECFpNiGCmUDtc0z5v"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "Arena Version",
+      "url": "https://open.spotify.com/track/3oAUVfFzZ7snjsyb0CqDOU"
+    },
+    {
+      "album": {
         "name": "Aroma de Caf\u00e9",
         "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
       },
@@ -536,7 +562,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 207300,
       "name": "Bebamos de las Copas Lindas",
       "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
@@ -2444,7 +2470,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 283400,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs"
@@ -3610,7 +3636,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 223405,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"

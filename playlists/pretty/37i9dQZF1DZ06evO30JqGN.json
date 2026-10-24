@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 139511,
+  "num_followers": 139526,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABnSsYnP9uzvjSlZMPpQ6KK",
+  "snapshot_id": "atgAgAAAAAAhFnS2XrnMwRq/wHf5Bxb/",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 88186,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 88186,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "FMT",
-      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
         "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 173294,
       "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer",
       "url": "https://open.spotify.com/track/01tJdgc6dDerW6IhWiVghO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "FMT",
+      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "You're Stuck",
-      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 167156,
       "name": "Number One (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/45Dbuxv3884YEuIaZ4F6iN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "You're Stuck",
+      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
     },
     {
       "added_at": null,

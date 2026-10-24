@@ -1,12 +1,12 @@
 {
   "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Josh Baldwin",
-  "num_followers": 1623501,
+  "num_followers": 1623504,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSQRSN/69VZIEExAcJNyINHf2b4",
+  "snapshot_id": "AAAAAHaWw9R1sOxarbU2suXnsDFKfdv8",
   "tracks": [
     {
       "added_at": "2026-10-16 04:42:44",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/3KVZ7yG3p6NdXzDBE19mHm"
     },
     {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "MATT CROCKER - in lieu of me (Vol. 2)",
+        "url": "https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 379146,
+      "name": "Let There Be Light - in lieu of me",
+      "url": "https://open.spotify.com/track/5X3vJE1gKlTDRIcgHkOAGP"
+    },
+    {
       "added_at": "2026-10-09 04:08:34",
       "album": {
         "name": "GREATNESS",
@@ -193,7 +209,7 @@
         }
       ],
       "duration_ms": 320000,
-      "name": "Let Me Say - Live",
+      "name": "Let Me Say",
       "url": "https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5"
     },
     {
@@ -215,6 +231,22 @@
       "duration_ms": 451653,
       "name": "All The Glory - Live",
       "url": "https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Take It To The Throne",
+        "url": "https://open.spotify.com/album/5932JNQ1Qei0mFe1eMq28j"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 248592,
+      "name": "Take It To The Throne",
+      "url": "https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -427,22 +459,6 @@
     {
       "added_at": "2026-10-09 04:08:34",
       "album": {
-        "name": "Mercy Mercy (in lieu of me)",
-        "url": "https://open.spotify.com/album/1E3mbNmZS9gvyc1JWvTeGs"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Mercy Mercy - in lieu of me",
-      "url": "https://open.spotify.com/track/3Medwggjkn8BSlShaNMnYa"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
         "name": "Gracefully Broken / Who The Son Sets Free",
         "url": "https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm"
       },
@@ -475,6 +491,22 @@
       "duration_ms": 232986,
       "name": "All Authority",
       "url": "https://open.spotify.com/track/3jj38E2krZgQWNmnP587Ux"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Holy Is The Name",
+        "url": "https://open.spotify.com/album/7EA64dd9j45VLFXFER2NYH"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 316791,
+      "name": "Praise The Lord Hallelujah Amen",
+      "url": "https://open.spotify.com/track/4KPKY8GQGR9G8hbY5SAqTF"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -615,6 +647,26 @@
       "duration_ms": 283615,
       "name": "Give Me Joy",
       "url": "https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "I Surrender All",
+        "url": "https://open.spotify.com/album/3Q3aeXYtd7OUKAxe9pfKlr"
+      },
+      "artists": [
+        {
+          "name": "Mission Worship",
+          "url": "https://open.spotify.com/artist/7GoguaRlMdJQXwhCaektit"
+        },
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        }
+      ],
+      "duration_ms": 374008,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/1NXQ7OJ3WrIwDRpalvRlbM"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -1207,22 +1259,6 @@
     {
       "added_at": "2026-10-09 04:08:34",
       "album": {
-        "name": "Great I AM (Acoustic)",
-        "url": "https://open.spotify.com/album/1QqV8sc01mQdIQuj829KlA"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 299292,
-      "name": "Only Jesus - Acoustic",
-      "url": "https://open.spotify.com/track/6lkWNDfvu3jvnDzG1k7d2W"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
         "name": "The Blue Tent (Live)",
         "url": "https://open.spotify.com/album/2TgqsUTFDNEjAhjOZsb5XD"
       },
@@ -1311,22 +1347,6 @@
       "duration_ms": 337520,
       "name": "Blood of Jesus (I Surrender All)",
       "url": "https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
-        "name": "You Prepare the Fire",
-        "url": "https://open.spotify.com/album/2QIQ0XXpJnwbfJ8OvlPABZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Webb",
-          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
-        }
-      ],
-      "duration_ms": 320908,
-      "name": "You Prepare the Fire",
-      "url": "https://open.spotify.com/track/726NUsPYYDXOG4TmkTpRpl"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -1495,34 +1515,6 @@
       "duration_ms": 398558,
       "name": "Stories - Break Open",
       "url": "https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
-        "name": "Here Comes the Wind",
-        "url": "https://open.spotify.com/album/1z3z3EuiyWz5pVcQvqMZZp"
-      },
-      "artists": [
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Rahkii",
-          "url": "https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG"
-        },
-        {
-          "name": "Titus Tucker",
-          "url": "https://open.spotify.com/artist/4idr0xVXTUerf9RyhOlCV2"
-        }
-      ],
-      "duration_ms": 413708,
-      "name": "Breathe (feat. Titus Tucker & Rahkii)",
-      "url": "https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD"
     }
   ],
   "unique_name": "WorshipNow",

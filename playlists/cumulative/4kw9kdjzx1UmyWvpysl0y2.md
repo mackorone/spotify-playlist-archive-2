@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,325 songs - 3 day 1 hr 22 min
+1,326 songs - 3 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Infortunii](https://open.spotify.com/track/5WesZOkeAlWuxNRvS64SOr) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Infortunii](https://open.spotify.com/album/6IoL8qCD3mZodqlyEMYkqO) | 3:42 | 2023-10-10 | 2024-01-23 |
 | [INNER FYRE](https://open.spotify.com/track/2vjlkBX5B8Lv1wskNiFrcg) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Plsma](https://open.spotify.com/artist/5d1nm4nMdbbwYMg3NHvJkc) | [Bleach](https://open.spotify.com/album/3VXSmuGlhlCYmhA9mouesP) | 2:34 | 2023-06-15 | 2023-09-26 |
 | [Insanity](https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Insanity](https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii) | 3:42 | 2026-10-05 |  |
+| [Inside Out](https://open.spotify.com/track/1dPcEm6TROs3PEJxOUXnzX) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Inside Out](https://open.spotify.com/album/4ndVC5wCSQ92I67YLGU5CC) | 2:23 | 2026-10-23 |  |
 | [Integration Sequence](https://open.spotify.com/track/0daZirXuEz8FVBlZFu9MsE) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:58 | 2022-11-15 | 2022-11-22 |
 | [Interconnected](https://open.spotify.com/track/4SEvIt5BvRlfSSRUQWvXw7) | [Simulcats](https://open.spotify.com/artist/4eM1PMvj5NTpvtTfkQWRYr) | [Interconnected](https://open.spotify.com/album/0VViNSTKBZQBzMOeGXJK0x) | 3:41 | 2026-09-09 |  |
 | [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 | 2022-10-13 | 2022-12-13 |

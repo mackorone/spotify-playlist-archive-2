@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,276 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,282 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 23 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 |
 | 24 | [That Way \(feat\. Jeremih & Rick Ross\)](https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 4:29 |
 | 25 | [Belly](https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:08 |
-| 26 | [Change](https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Change](https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq) | 4:37 |
-| 27 | [How It Feels](https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 2:36 |
+| 26 | [How It Feels](https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 2:36 |
+| 27 | [Change](https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Change](https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq) | 4:37 |
 | 28 | [Dearly Beloved \(feat\. Jamie Foxx\)](https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Folarin II](https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9) | 1:49 |
 | 29 | [Where To Start](https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:33 |
 | 30 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [Chillin](https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 3:24 |
 | 50 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
 
-Snapshot ID: `atavAAAAAACAB2vNKfsJnSvJ+y+IiRJw`
+Snapshot ID: `atgAgAAAAAAcyorX5IArHEJ3Pz1LaQh1`

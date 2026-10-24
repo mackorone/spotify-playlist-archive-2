@@ -1,12 +1,12 @@
 {
   "description": "Tu t\u00e1ta tu tat\u00e1... el beat del funk de Brasil para el mundo. Cover: Pedro Sampaio, Kenia Os",
-  "num_followers": 97125,
+  "num_followers": 97129,
   "original_name": "es funk y el cuerpo lo sabe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOf7HK0S7MAQnMdHzzqeaF0qIkJj",
+  "snapshot_id": "AAAAAA4zHvO8LjHAwhprPecIReS/rknR",
   "tracks": [
     {
       "added_at": "2026-10-16 03:00:25",
@@ -27,6 +27,22 @@
       "duration_ms": 123750,
       "name": "KINKY",
       "url": "https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b"
+    },
+    {
+      "added_at": "2026-10-23 15:00:36",
+      "album": {
+        "name": "TAPA LA CARA",
+        "url": "https://open.spotify.com/album/3ALiOmVFZ2TZbngtuaTk3A"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "duration_ms": 160620,
+      "name": "TAPA LA CARA",
+      "url": "https://open.spotify.com/track/5RFLmBGJbcD5nFHFYA3FXo"
     },
     {
       "added_at": "2026-10-16 03:00:25",

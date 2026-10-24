@@ -2,7 +2,7 @@
 
 ### [SUGAR](https://open.spotify.com/playlist/37i9dQZF1DWZlwhy05h4Og)
 
-> The sweetest bops\. Cover: no na
+> The sweetest bops\. Cover: TUIDE
 
 307 songs - 14 hr 59 min
 

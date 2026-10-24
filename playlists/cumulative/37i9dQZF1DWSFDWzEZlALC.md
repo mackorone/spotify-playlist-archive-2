@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JAS
 
-2,025 songs - 3 day 23 hr 14 min
+2,025 songs - 3 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Das Glück gehört Versagern](https://open.spotify.com/track/1z2GenlspZ6QIU3kl1XyLl) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Das Glück gehört Versagern](https://open.spotify.com/album/5NiqrjXmfY2OwAhdNJ9fV5) | 3:28 | 2025-07-31 | 2025-09-13 |
 | [das größte was es gibt](https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [auch wenn's uns morgen nicht mehr gibt](https://open.spotify.com/album/140fs0vsMhtqbdIdO04VA8) | 3:02 | 2026-03-26 | 2026-06-26 |
 | [Das hätte ich nie gedacht](https://open.spotify.com/track/3UYaW1kYpOtxecpMVkBVFv) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Das hätte ich nie gedacht](https://open.spotify.com/album/1KMN8O9FzZAvRDxyalmh3Z) | 2:28 | 2025-03-13 | 2025-04-11 |
+| [Das Jahr War Schon Lang](https://open.spotify.com/track/6f76RjbZpibIhpUv0oWXMH) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV), [Audio88](https://open.spotify.com/artist/4YlBDllKcEFrLtby1mqaEK) | [Aus Der Kalten](https://open.spotify.com/album/2AAQVlkzEAKwpv3Zj43kkM) | 3:15 | 2026-10-22 |  |
 | [das Leben](https://open.spotify.com/track/5OahTR5HHCKcHuDETHQJSa) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [das Leben](https://open.spotify.com/album/4l9z5h14lvne5epV0P1Ybc) | 2:57 | 2024-11-21 | 2024-12-06 |
 | [Das Leben](https://open.spotify.com/track/4uCExAnSFZqLYiKTdcr83M) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Das Leben](https://open.spotify.com/album/16ltJ4OtzrxT7BX2yoA7Uz) | 2:19 | 2026-03-05 | 2026-03-27 |
 | [Das Leben ist schon ernst genug](https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Das Leben ist schon ernst genug](https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk) | 2:21 | 2025-10-16 | 2026-01-23 |
@@ -742,6 +743,7 @@
 | [gute geister](https://open.spotify.com/track/1qEEhLq83vQKPlcRgbtU7k) | [selene](https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9) | [gute geister](https://open.spotify.com/album/5QioEAqRojamvD83Kw1w8D) | 2:06 | 2026-06-18 | 2026-07-10 |
 | [Gute Laune](https://open.spotify.com/track/2U7pU29GBhIGMzifxGcOvV) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Maschinenmensch EP](https://open.spotify.com/album/0aB1rZ0lKJU3dIea7UkFrf) | 2:52 | 2023-11-24 | 2024-01-19 |
 | [Gute Wut](https://open.spotify.com/track/3wytFAqSZ2VzzyEYT1rsVW) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Gute Wut](https://open.spotify.com/album/2aYNsnZu9hEyStnICEvLl7) | 3:25 | 2023-02-02 | 2023-03-10 |
+| [Gutmensch](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 2:24 | 2026-10-22 |  |
 | [gästeliste](https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [gästeliste](https://open.spotify.com/album/6DagEYiLogzejjAebrffI8) | 2:41 | 2024-07-11 | 2024-09-13 |
 | [G€LD](https://open.spotify.com/track/6ZuBdYeF4hDOv81YbtH14J) | [Yunus](https://open.spotify.com/artist/3SrCAswHaxL87fCepyuN0U), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [G€LD](https://open.spotify.com/album/3sUwpjJOfyQ6GIRep8CLJw) | 2:11 | 2025-11-27 | 2025-12-12 |
 | [habt euch lieb](https://open.spotify.com/track/0kcCoOpxg0uS341DdK4PDp) | [jaydee](https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [habt euch lieb](https://open.spotify.com/album/7dv0hrWJd3nmAT76zshkgE) | 2:31 | 2026-06-18 | 2026-09-04 |
@@ -1715,8 +1717,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 6](https://open.spotify.com/track/6f76RjbZpibIhpUv0oWXMH) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Aus Der Kalten](https://open.spotify.com/album/2AAQVlkzEAKwpv3Zj43kkM) | 0:00 | 2026-10-22 |  |
-| [Track 8](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 0:00 | 2026-10-22 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [traum](https://open.spotify.com/track/4rJ7Mu1pTf7XGyvX08VBmM) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [traum](https://open.spotify.com/album/510TUxmx6oG5bd3MUwN4an) | 2:10 | 2026-09-24 |  |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |

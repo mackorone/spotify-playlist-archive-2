@@ -950,7 +950,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 232615,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/4GdwW9L7J17YMgZ9nJjNVu"
@@ -1536,6 +1536,24 @@
       "duration_ms": 381821,
       "name": "Bad City",
       "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
+    },
+    {
+      "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181374,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
     },
     {
       "album": {
@@ -5831,6 +5849,24 @@
     },
     {
       "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6qhkVu8Dyss8mG1z6OUM7R"
+      },
+      "artists": [
+        {
+          "name": "ODF",
+          "url": "https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192628,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/2uA0MTSRp0SInU3DLSKrSy"
+    },
+    {
+      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX"
       },
@@ -6482,6 +6518,24 @@
       "duration_ms": 178990,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/7DvMAbmkSZsT5EytU35iVv"
+    },
+    {
+      "album": {
+        "name": "Ecstasy EP",
+        "url": "https://open.spotify.com/album/4bvWMPQNVTXPuZVNdiTB3e"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157734,
+      "name": "Ecstasy - Radio Edit",
+      "url": "https://open.spotify.com/track/4ya5V39vRqpudxsTA7yCcZ"
     },
     {
       "album": {
@@ -7702,6 +7756,24 @@
       "duration_ms": 173023,
       "name": "Freak Out",
       "url": "https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3"
+    },
+    {
+      "album": {
+        "name": "Freakiness",
+        "url": "https://open.spotify.com/album/27NK8WVKUNA3LbDW02reN6"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211127,
+      "name": "Freakiness",
+      "url": "https://open.spotify.com/track/3Q9AFy7RhFlp5QWmBhLdEq"
     },
     {
       "album": {
@@ -8944,7 +9016,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189090,
       "name": "Golden Eyes",
       "url": "https://open.spotify.com/track/1d8w8ahMR2HwECpQ5ksjZB"
@@ -13032,7 +13104,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 176969,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
@@ -13822,7 +13894,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198805,
       "name": "Mesmerize",
       "url": "https://open.spotify.com/track/0oDbO6K2eYSobaJmDM1cNw"
@@ -16136,7 +16208,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 285354,
       "name": "Other Side of the Phone",
       "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
@@ -16532,6 +16604,32 @@
       "duration_ms": 192114,
       "name": "Peaky & Distorted",
       "url": "https://open.spotify.com/track/6YPXz7BFlkL9QxEmZVgPvh"
+    },
+    {
+      "album": {
+        "name": "PEOPLE IN THE PLACE",
+        "url": "https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ"
+      },
+      "artists": [
+        {
+          "name": "A.B.C.",
+          "url": "https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203105,
+      "name": "PEOPLE IN THE PLACE",
+      "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
     },
     {
       "album": {
@@ -17004,7 +17102,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198764,
       "name": "Precious Diamond",
       "url": "https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr"
@@ -17416,7 +17514,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 203636,
       "name": "Pushin' On - Radio Edit",
       "url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5"
@@ -20100,7 +20198,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 207289,
       "name": "Something 2 Dance 2",
       "url": "https://open.spotify.com/track/5eABSV4aDk5irs5DVz9VIG"
@@ -22267,6 +22365,24 @@
     },
     {
       "album": {
+        "name": "The Sound Of House",
+        "url": "https://open.spotify.com/album/6PTh17gWSQd8PA9wGh5t1H"
+      },
+      "artists": [
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178191,
+      "name": "The Sound Of House",
+      "url": "https://open.spotify.com/track/3npZu2cvQSzSN31ouiNOyJ"
+    },
+    {
+      "album": {
         "name": "The Source",
         "url": "https://open.spotify.com/album/4770p58faNGmjvEwsafhXX"
       },
@@ -24007,6 +24123,24 @@
     },
     {
       "album": {
+        "name": "Want Ya I Need Ya",
+        "url": "https://open.spotify.com/album/6F5xFEu06eciUir1TBmoaB"
+      },
+      "artists": [
+        {
+          "name": "jWave",
+          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Want Ya I Need Ya",
+      "url": "https://open.spotify.com/track/1nKSOCTVg4u2uKfU2YsaMg"
+    },
+    {
+      "album": {
         "name": "Want You EP",
         "url": "https://open.spotify.com/album/4T0AtHkpum0TmZBD5nqaNh"
       },
@@ -25526,6 +25660,24 @@
       "duration_ms": 203487,
       "name": "Zigazigahhhh",
       "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
+    },
+    {
+      "album": {
+        "name": "Zoolander",
+        "url": "https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178238,
+      "name": "Zoolander",
+      "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSI21IGRaeuC"

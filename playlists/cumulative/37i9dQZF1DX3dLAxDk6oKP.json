@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "EL GATITO NEGRO",
+        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Erick Rios",
+          "url": "https://open.spotify.com/artist/3t1JdFdPuRV36NhKJAaMoZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171984,
+      "name": "100 TROCAS POLVEADAS",
+      "url": "https://open.spotify.com/track/3jD4G3ffPoINcQDj7lVCwy"
+    },
+    {
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Edici\u00f3n Mexico",
         "url": "https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv"
       },
@@ -258,6 +280,28 @@
       "duration_ms": 183374,
       "name": "7",
       "url": "https://open.spotify.com/track/6dKDwvZWjxrAzOA57Phiik"
+    },
+    {
+      "album": {
+        "name": "Mi Legado",
+        "url": "https://open.spotify.com/album/1ouTQFck9RBEKl6FViSLQ3"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200607,
+      "name": "7 Pecados",
+      "url": "https://open.spotify.com/track/2gQLsrjC79nh1ungYRz8AA"
     },
     {
       "album": {
@@ -1970,6 +2014,24 @@
       "duration_ms": 225152,
       "name": "Como Jordan",
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+    },
+    {
+      "album": {
+        "name": "CON QU\u00c9",
+        "url": "https://open.spotify.com/album/5PRpSCsPhUuwISVH6HyzQb"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147398,
+      "name": "CON QU\u00c9",
+      "url": "https://open.spotify.com/track/2D6FCDqh7BTdYjVS0knHNT"
     },
     {
       "album": {
@@ -4222,7 +4284,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 244219,
       "name": "Empat\u00eda",
       "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
@@ -7796,7 +7858,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 154592,
       "name": "Pink",
       "url": "https://open.spotify.com/track/6mJrhqJTnq78z3yprBxjw1"
@@ -8674,7 +8736,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
@@ -10046,7 +10108,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 157397,
       "name": "V2",
       "url": "https://open.spotify.com/track/5aR2nStSG3vJ80cnrDi5m3"
@@ -10108,6 +10170,24 @@
       "duration_ms": 188117,
       "name": "Vengo De La Tia",
       "url": "https://open.spotify.com/track/0BUWUqaqyopQd6Rj79xNdc"
+    },
+    {
+      "album": {
+        "name": "Reconectarme",
+        "url": "https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136915,
+      "name": "Vida de Rockstar",
+      "url": "https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS"
     },
     {
       "album": {

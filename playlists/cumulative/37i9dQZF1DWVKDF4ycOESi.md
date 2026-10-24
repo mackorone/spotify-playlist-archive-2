@@ -4,7 +4,7 @@
 
 > Nuovi brani di Cesare Cremonini, Chris Nolan, Dominik Fike, LISA, 3D e nayt, e tanti altri.
 
-10,873 songs - 22 day 23 hr 32 min
+10,873 songs - 22 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1973,7 +1973,7 @@
 | [Cliché](https://open.spotify.com/track/0O47OpDhVaa041KA9WzD87) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Isola](https://open.spotify.com/album/22DqsM3rSU738Ffok1wCjD) | 3:11 | 2026-09-24 | 2026-10-02 |
 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-04 | 2026-09-11 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-20 | 2026-03-27 |
-| [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-22 |  |
+| [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-22 |  |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-06 | 2024-06-14 |
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-19 | 2025-06-27 |
 | [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 | 2024-09-05 | 2024-09-13 |
@@ -6848,6 +6848,7 @@
 | [Oh Mamma](https://open.spotify.com/track/6wGMU40AmbuF4DUglPE1GT) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Oh Mamma](https://open.spotify.com/album/3baO38Pt2mdKaYk8MFuyl3) | 2:02 | 2026-07-30 | 2026-08-07 |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 | 2025-01-17 |
 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 | 2026-07-23 | 2026-07-31 |
+| [OH MY GOD](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 2:11 | 2026-10-22 |  |
 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 | 2024-11-15 | 2024-11-22 |
 | [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 | 2026-09-10 | 2026-09-18 |
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-25 | 2024-08-02 |
@@ -7117,6 +7118,7 @@
 | [Parafulmini](https://open.spotify.com/track/739KZDKD5BuEmHYodFZOpb) | [KIMONO](https://open.spotify.com/artist/5uIBCnjr8sCPeOOhQFY3Xm) | [Parafulmini](https://open.spotify.com/album/2YVmbSA4UvrVzXVL3xRRcQ) | 2:56 | 2024-07-11 | 2024-07-19 |
 | [Paraiso](https://open.spotify.com/track/4AdM5EcWPehGPXivufXQj7) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Paraiso](https://open.spotify.com/album/5VdRN37AB08PPnwgGQYXRf) | 2:27 | 2026-09-03 | 2026-09-11 |
 | [PARALLELI](https://open.spotify.com/track/1MggYBAyB288ml3qrfVJnW) | [Jenny Matai](https://open.spotify.com/artist/1i1Xyj0U5Ktd3sKjDwAV0j) | [PARALLELI](https://open.spotify.com/album/25PPMLHjvNVElXS9v1IxhG) | 2:45 | 2025-04-03 | 2025-04-11 |
+| [Parallelismi](https://open.spotify.com/track/4cmO0uVIYLxLZbbrBjg4aZ) | [Aldolà Chivalà](https://open.spotify.com/artist/6y2QGZK67fYnvUeDPR3ofx), [Golden Rain](https://open.spotify.com/artist/2JD4quzgZcSRB0CGCLfS6h) | [Aldo Livello](https://open.spotify.com/album/0YXky43houRscNeUR9IQBj) | 4:43 | 2026-10-22 |  |
 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-23 | 2024-06-01 |
 | [Paramia](https://open.spotify.com/track/1RwFjtqHnZAlVbZmupmSkK) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 3:28 | 2025-10-16 | 2025-10-24 |
 | [paranoia](https://open.spotify.com/track/3nv7Ogt3nEzlgasWc0r0cr) | [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [paranoia](https://open.spotify.com/album/4C9MCcWFc2K5dagUw7Hkhl) | 2:46 | 2025-05-01 | 2025-05-09 |
@@ -9841,8 +9843,6 @@
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
 | [Track 3](https://open.spotify.com/track/2u7oaYuzOEAnkgoiWlVjoW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 0:00 | 2026-03-05 | 2026-03-07 |
 | [Track 5](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 | 2025-10-25 |
-| [Track 8](https://open.spotify.com/track/4cmO0uVIYLxLZbbrBjg4aZ) | [Aldolà Chivalà](https://open.spotify.com/artist/6y2QGZK67fYnvUeDPR3ofx) | [Aldo Livello](https://open.spotify.com/album/0YXky43houRscNeUR9IQBj) | 0:00 | 2026-10-22 |  |
-| [Track 9](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 0:00 | 2026-10-22 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-10-25 |

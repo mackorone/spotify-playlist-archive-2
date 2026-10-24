@@ -4,7 +4,7 @@
 
 > The new & hottest K\-Pop is here! \(Cover: LISA\)
 
-949 songs - 2 day 0 hr 49 min
+951 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-08 | 2023-02-07 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-13 | 2024-02-24 |
 | [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-28 | 2026-10-15 |
-| [ChecK](https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [OriginaLyn](https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60) | 2:38 | 2026-07-25 |  |
+| [ChecK](https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [OriginaLyn](https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60) | 2:38 | 2026-07-25 | 2026-10-24 |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-01 | 2024-08-31 |
 | [Cheese](https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cheese](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) | 3:06 | 2024-05-21 | 2024-05-23 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-21 | 2025-05-14 |
@@ -217,6 +217,7 @@
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-13 | 2022-02-04 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-01 | 2024-08-27 |
 | [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 | 2026-01-28 | 2026-06-01 |
+| [DESERVE](https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0) | 3:09 | 2026-10-23 |  |
 | [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 | 2026-04-05 | 2026-04-19 |
 | [Devil](https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Devil \- The 2nd Mini Album](https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR) | 3:33 | 2022-01-14 | 2022-02-12 |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-23 | 2023-06-07 |
@@ -243,6 +244,7 @@
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2023-11-10 | 2024-04-08 |
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-24 | 2023-03-25 |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-24 | 2022-06-09 |
+| [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 | 2026-10-23 |  |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-06 | 2025-06-14 |
 | [Drive5](https://open.spotify.com/track/4qXvvgq3tvoh5cFYGZLr3W) | [HWI YOUNG](https://open.spotify.com/artist/33AKNSK4a6ue4IWvjojOCP) | [Drive5](https://open.spotify.com/album/6lNe7vyn25Vz77ClCgC2Dl) | 3:18 | 2023-08-23 | 2023-10-07 |
 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 | 2025-05-12 | 2025-07-22 |
@@ -651,7 +653,7 @@
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-24 | 2022-07-29 |
 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-04-15 | 2025-07-05 |
 | [PO￦ER](https://open.spotify.com/track/1HEPfv1KllCYnVC1VmcpgD) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [PO￦ER](https://open.spotify.com/album/6CfIObHVEN5OBcx7mqVnem) | 2:23 | 2024-10-31 | 2025-05-17 |
-| [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-08 |  |
+| [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-08 | 2026-10-24 |
 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-09-26 | 2026-01-20 |
 | [Promise](https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/3PRKzsCRtiJqRZJJpq0Acu) | 3:32 | 2025-12-13 | 2026-01-15 |
 | [PSYCHO](https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:15 | 2025-11-22 | 2026-06-10 |

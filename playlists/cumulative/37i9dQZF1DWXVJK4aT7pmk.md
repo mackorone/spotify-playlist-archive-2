@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: Karan Aujla
+> Catch the hottest Punjabi tracks\. Cover: Arjan Dhillon
 
-235 songs - 11 hr 57 min
+236 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dilawara](https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Dilawara](https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh) | 3:42 | 2024-01-04 | 2024-11-15 |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2024-01-04 | 2025-02-01 |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2024-04-12 | 2025-03-01 |
-| [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 | 2026-02-20 |  |
+| [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 | 2026-02-20 | 2026-10-24 |
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-02-02 | 2025-07-26 |
 | [DXB](https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 3:26 | 2025-10-24 | 2026-02-28 |
 | [Enigma](https://open.spotify.com/track/6EXYmo6wuxDey1qBV4WbJW) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:01 | 2026-06-05 | 2026-10-09 |
@@ -186,6 +186,7 @@
 | [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2024-01-04 | 2024-10-26 |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2024-01-04 | 2024-11-15 |
 | [Sadi Sun](https://open.spotify.com/track/2OISeKFXjDKqNm4BlWaC0w) | [Harsh Nussi](https://open.spotify.com/artist/3i0OAds0OcYLQl3uuJsaKy) | [Sadi Sun](https://open.spotify.com/album/6ZENcGCDaHcZKVL9mX4nrf) | 2:51 | 2026-06-12 |  |
+| [Said & Done](https://open.spotify.com/track/6bKTS7loIO28oRns4mnfEf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Qarn Mallhi](https://open.spotify.com/artist/1yAFQk48cg77eplJI5XyX7) | [Said & Done](https://open.spotify.com/album/4dYcU9n0NJPFpvs7n101KD) | 3:08 | 2026-10-23 |  |
 | [Salute](https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Salute](https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM) | 3:23 | 2024-01-04 | 2024-02-20 |
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2024-01-04 | 2024-11-15 |
 | [Setting](https://open.spotify.com/track/3HJRVmgJQ8Bg1guFckZKh9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Setting](https://open.spotify.com/album/1JFhr0vyVxFixL5DBM2fQr) | 2:40 | 2024-01-04 | 2024-02-03 |

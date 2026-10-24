@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,703 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,719 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 22 | [Laurita Garza](https://open.spotify.com/track/1WMqXkIY78VBdOW0DlWEy3) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:06 |
 | 23 | [Que Se Te Olvidó](https://open.spotify.com/track/0TBBrqwC87pusube1JOiw9) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:27 |
 | 24 | [Si por Casualidad](https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:39 |
-| 25 | [Mayor de Edad](https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mayor de Edad](https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic) | 3:59 |
-| 26 | [Sin Permiso Para Amarte](https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [De Aquí Pa'l Real](https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D) | 4:06 |
+| 25 | [Sin Permiso Para Amarte](https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [De Aquí Pa'l Real](https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D) | 4:06 |
+| 26 | [Mayor de Edad](https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mayor de Edad](https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic) | 3:59 |
 | 27 | [El Sinaloense](https://open.spotify.com/track/3oVS5y1oJz5MxBxN5xCUks) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 3:11 |
 | 28 | [El Destino](https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 4:38 |
 | 29 | [La Original](https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense](https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F) | 3:46 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 32 | [Dos Gotas de Agua](https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:53 |
 | 33 | [Pa'que Me Sirve la Vida](https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 3:05 |
 | 34 | [Las Dos Plebes](https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:35 |
-| 35 | [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 |
+| 35 | [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 |
 | 36 | [Leña de Pirul](https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 3:12 |
-| 37 | [Entre Perico y Perico](https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 3:02 |
+| 37 | [Vida Prestada](https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestra Colección de Oro](https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je) | 2:54 |
 | 38 | [El 24 de Junio](https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 2:50 |
 | 39 | [Pedas Destructivas](https://open.spotify.com/track/1UB06zKAR5TmdwPR0eR5ZD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Pedas Destructivas](https://open.spotify.com/album/01hVQHSglZYdt1j0b1J66u) | 2:38 |
 | 40 | [Me Caíste del Cielo](https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Qué Se Te Olvidó](https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hVM8E.md) - [plain]
 | 49 | [El León de la Sierra](https://open.spotify.com/track/3Fkxdlxm9VJ2gA4tiZOYn5) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:33 |
 | 50 | [Qué Voy Hacer para Olvidarte](https://open.spotify.com/track/76MEP7F83IjuWJLi1L7keD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [35 Aniversario](https://open.spotify.com/album/5qvNbTZEJ48abjhoGHikA9) | 3:04 |
 
-Snapshot ID: `atavAAAAAABKgZtDIVH3SYSj09SQMD2S`
+Snapshot ID: `atgAgAAAAAD3JVYu1XURV5Etav095Dh8`

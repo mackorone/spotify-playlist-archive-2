@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Maluma, Andr\u00e9s Cepeda",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Nanpa B\u00e1sico, Kapo",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -1441,6 +1441,32 @@
     },
     {
       "album": {
+        "name": "C\u00f3brame t\u00fa",
+        "url": "https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "C\u00f3brame t\u00fa",
+      "url": "https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Duele",
         "url": "https://open.spotify.com/album/0h9cZ9loIaVs12uOnxKH8G"
       },
@@ -1496,6 +1522,24 @@
       "duration_ms": 187889,
       "name": "C\u00f3mo Los De Antes",
       "url": "https://open.spotify.com/track/1V3l4a88uzbaebvD1m7xC9"
+    },
+    {
+      "album": {
+        "name": "Dame Dos",
+        "url": "https://open.spotify.com/album/3oZWVxJaaREbVx6QU5MUGX"
+      },
+      "artists": [
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "Dame Dos",
+      "url": "https://open.spotify.com/track/5qkrw8JxAZquZG2BDAp60z"
     },
     {
       "album": {
@@ -2716,7 +2760,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 155453,
       "name": "GOATSTAR",
       "url": "https://open.spotify.com/track/4i9QkVLqzN6c3fNSaNJPNo"
@@ -4348,7 +4392,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 197680,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/6wos8Ds5FKMe33GjBHRake"
@@ -4966,7 +5010,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 170298,
       "name": "Pick Me",
       "url": "https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE"
@@ -6339,6 +6383,24 @@
     },
     {
       "album": {
+        "name": "mala marea",
+        "url": "https://open.spotify.com/album/6322XHElbmPhXRCtTJvFof"
+      },
+      "artists": [
+        {
+          "name": "Catalina",
+          "url": "https://open.spotify.com/artist/5e89WNYIDZlwyI4opb2kCK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174085,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/5CeaWEKhYh4V6fOsi13X6d"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -6728,7 +6790,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 157317,
       "name": "Tu Boca Y La Luna",
       "url": "https://open.spotify.com/track/3PvFp8J1cylf64wSk6vSZQ"
@@ -7176,6 +7238,24 @@
       "duration_ms": 188125,
       "name": "Vida",
       "url": "https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z"
+    },
+    {
+      "album": {
+        "name": "Vino del D1",
+        "url": "https://open.spotify.com/album/7oCrNFZy9vcGXALrlhlaZI"
+      },
+      "artists": [
+        {
+          "name": "Lady Arias",
+          "url": "https://open.spotify.com/artist/07rWcDaGp6UoyzJLMu4y90"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Vino del D1",
+      "url": "https://open.spotify.com/track/584JzoseZ1FmgleFWKTUYH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 13749,
+  "num_followers": 13759,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAWelMVh+7RmNrW9F4bL/be",
+  "snapshot_id": "atgAgAAAAABdUlnsXDsiYDa09zBybrgv",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 166336,
-      "name": "White Elephant",
-      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
+      "duration_ms": 123589,
+      "name": "Skip Town",
+      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 123589,
-      "name": "Skip Town",
-      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
+      "duration_ms": 166336,
+      "name": "White Elephant",
+      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
     },
     {
       "added_at": null,

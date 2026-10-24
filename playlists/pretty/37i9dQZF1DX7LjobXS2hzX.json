@@ -1,13 +1,29 @@
 {
   "description": "Voici les hits du moment avec Charlotte Cardin",
-  "num_followers": 142289,
+  "num_followers": 142293,
   "original_name": "La Hit Liste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4T6zOMIjOfWiqDhYSOeMR6lIpe",
+  "snapshot_id": "AAAAADaZbUag8g2Nb2V9h8Znmmfausi9",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:03:30",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
     {
       "added_at": "2026-10-16 04:03:22",
       "album": {
@@ -93,6 +109,26 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
+      "added_at": "2026-10-23 04:03:30",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
       "added_at": "2026-10-16 04:03:22",
       "album": {
         "name": "Deep Water",
@@ -139,6 +175,26 @@
       "duration_ms": 130329,
       "name": "Quebec",
       "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "added_at": "2026-10-23 04:03:30",
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-10-16 04:03:22",
@@ -507,22 +563,6 @@
     {
       "added_at": "2026-10-16 04:03:22",
       "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 189588,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
       },
@@ -619,22 +659,6 @@
     {
       "added_at": "2026-10-16 04:03:22",
       "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
         "name": "Destin\u00e9e Supremacy",
         "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
       },
@@ -683,22 +707,6 @@
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/2qfAnCOsLPFs8zOQc2pNKI"
-    },
-    {
-      "added_at": "2026-10-16 04:03:22",
-      "album": {
-        "name": "M\u00e9lo D\u00e9cal\u00e9",
-        "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 156066,
-      "name": "M\u00e9lo D\u00e9cal\u00e9",
-      "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     },
     {
       "added_at": "2026-10-16 04:03:22",

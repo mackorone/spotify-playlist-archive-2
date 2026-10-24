@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Jamie Miller",
+  "description": "Recent hits and new songs from your fave artists. Cover: John Mayer",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -4858,7 +4858,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 291433,
       "name": "Big Girls Don't Cry (Fergie Cover) [Spotify Live Room]",
       "url": "https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6"
@@ -5541,6 +5541,28 @@
     },
     {
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228563,
+      "name": "Bodies On The Floor (feat. Clipse)",
+      "url": "https://open.spotify.com/track/58MoSwpvzOxZAgk7dMb3ci"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
       },
@@ -5842,7 +5864,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 213425,
       "name": "BRB (from Forgotten Island)",
       "url": "https://open.spotify.com/track/4kEsawEclfu5Onka6KKcm7"
@@ -6776,7 +6798,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 231678,
       "name": "Can't Imagine Why You'd Stay",
       "url": "https://open.spotify.com/track/2WMxQRwfuNviXlX0HgMnh4"
@@ -8488,7 +8510,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 202625,
       "name": "Comets",
       "url": "https://open.spotify.com/track/6YAZ4sSUI3MrKduG40Wr2e"
@@ -11370,7 +11392,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192520,
       "name": "Don\u2019t Leave Me on the Dance Floor",
       "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
@@ -12384,7 +12406,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 156856,
       "name": "EMERALD EYES",
       "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
@@ -14390,7 +14412,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 233944,
       "name": "For Your Entertainment",
       "url": "https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um"
@@ -14922,7 +14944,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 193086,
       "name": "Fun",
       "url": "https://open.spotify.com/track/33QVqfl5dHDNqNCLcJWp0M"
@@ -16366,7 +16388,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 139484,
       "name": "Goodbye To A Lover Again",
       "url": "https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi"
@@ -17556,7 +17578,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201133,
       "name": "He Belongs",
       "url": "https://open.spotify.com/track/6jScFgIYIeBtgORD6sJ1CD"
@@ -21289,6 +21311,24 @@
     },
     {
       "album": {
+        "name": "I Walk Away",
+        "url": "https://open.spotify.com/album/1I5uCt2LYrBkr9xApdw7Bf"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "I Walk Away",
+      "url": "https://open.spotify.com/track/5pcFJnIZ10tNhGX22NZEeX"
+    },
+    {
+      "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
       },
@@ -23502,7 +23542,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186666,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
@@ -26936,7 +26976,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 262057,
       "name": "Love I You",
       "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
@@ -29262,7 +29302,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 228291,
       "name": "misunderstood",
       "url": "https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0"
@@ -31725,6 +31765,24 @@
     },
     {
       "album": {
+        "name": "Nothing Good is Easy",
+        "url": "https://open.spotify.com/album/7Lu6YydPC7ZKeah9k5ANeQ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244424,
+      "name": "Nothing Good is Easy",
+      "url": "https://open.spotify.com/track/0Q5spcR38mMOuWUIEofauq"
+    },
+    {
+      "album": {
         "name": "Loveland",
         "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
@@ -32826,7 +32884,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
@@ -34510,7 +34568,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219924,
       "name": "Pure",
       "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
@@ -35132,7 +35190,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192991,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/1eSlBcOg9ZnuEjGLGz9KOV"
@@ -37396,6 +37454,24 @@
       "duration_ms": 167095,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ"
+    },
+    {
+      "album": {
+        "name": "Shipwrecked",
+        "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Shipwrecked",
+      "url": "https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa"
     },
     {
       "album": {
@@ -40434,7 +40510,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 220600,
       "name": "Still",
       "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
@@ -45177,6 +45253,24 @@
     },
     {
       "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
+    },
+    {
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
@@ -46619,6 +46713,24 @@
     },
     {
       "album": {
+        "name": "True Violet",
+        "url": "https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229025,
+      "name": "Up and Down a Mountain",
+      "url": "https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K"
+    },
+    {
+      "album": {
         "name": "up to me / dna [demo]",
         "url": "https://open.spotify.com/album/0GrGh2x8KprTal72UkxnBP"
       },
@@ -47168,6 +47280,24 @@
       "duration_ms": 269047,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
+    },
+    {
+      "album": {
+        "name": "Waiting for love",
+        "url": "https://open.spotify.com/album/5uXan79uluUOJ3PmTfnuqr"
+      },
+      "artists": [
+        {
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Waiting for love",
+      "url": "https://open.spotify.com/track/7Bd9L0NkPH6nJwhnNvq07X"
     },
     {
       "album": {
@@ -49428,7 +49558,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 297262,
       "name": "Willing and Able",
       "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
@@ -50278,6 +50408,24 @@
       "duration_ms": 178196,
       "name": "Wranglers",
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
+    },
+    {
+      "album": {
+        "name": "Wrapped in Gold",
+        "url": "https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199363,
+      "name": "Wrapped in Gold",
+      "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
     },
     {
       "album": {

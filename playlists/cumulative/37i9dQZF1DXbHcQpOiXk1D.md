@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-826 songs - 2 day 9 hr 25 min
+827 songs - 2 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [24\-7](https://open.spotify.com/track/7F10hYiETMaHll3frl1lJG) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [24\-7](https://open.spotify.com/album/4Y8UvKWlmb5gfvic5WzENa) | 3:36 | 2021-12-17 | 2022-06-11 |
 | [31\. Bleep \(01\)](https://open.spotify.com/track/2YB0vJrpjfXt5cQGicZdCU) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [31\. Bleep \(01\)](https://open.spotify.com/album/66STSyoTvEX0Vz3N7AxrjR) | 4:56 | 2025-03-28 | 2026-03-20 |
 | [5k](https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [edbl & friends \- JPRK](https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G) | 2:41 | 2023-04-06 | 2024-01-02 |
-| [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 | 2025-06-05 |  |
+| [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 | 2025-06-05 | 2026-10-24 |
 | [A Future Untold](https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [A Future Untold / Marwa The Mountain](https://open.spotify.com/album/7shmmsOvUVpzmxPiipmxAv) | 3:22 | 2026-01-16 |  |
 | [Abasi Isang](https://open.spotify.com/track/5n8Ojo7PxZtMyFAx8BgPaE) | [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH) | [Ibio\-Ibio](https://open.spotify.com/album/0qIUtII533DzbMMVXmvGuC) | 4:49 | 2023-03-08 | 2024-07-22 |
 | [Abasi Isang](https://open.spotify.com/track/7g8gTedcLu4oOfqoLYNq41) | [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH) | [Abasi Isang](https://open.spotify.com/album/42tfs8qARoqq2GHauYILwp) | 4:49 | 2022-07-14 | 2022-07-29 |
@@ -59,6 +59,7 @@
 | [Apho](https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 2:58 | 2023-05-05 | 2024-06-15 |
 | [April](https://open.spotify.com/track/1AxJfkOxW6oDk2DFVMbhb5) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [April](https://open.spotify.com/album/2MYdt37z3P8BLAhl5OZtoR) | 4:18 | 2021-12-17 | 2022-12-24 |
 | [Are You Gonna Find It](https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Are You Gonna Find It](https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR) | 4:46 | 2024-08-22 | 2024-09-27 |
+| [Artfullee](https://open.spotify.com/track/1G8avRirERm9OTZxxZRCCU) | [Giacomo Smith](https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex), [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N) | [Artfullee](https://open.spotify.com/album/3EFxNRNLq63nFtBhUvak9c) | 6:47 | 2026-10-16 |  |
 | [As You Are](https://open.spotify.com/track/4rCM8A21DZdVKhAYZHGTI8) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/6oS2nHFKjnGoctJBziOa9r) | 2:03 | 2021-12-17 | 2022-05-20 |
 | [Ascent](https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Ascent](https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0) | 4:40 | 2022-02-25 | 2023-09-22 |
 | [At Least a Double Fold](https://open.spotify.com/track/5MXEtN3vIrRzZHjnR9FAkM) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [At Least a Double Fold](https://open.spotify.com/album/7KvPRMY4Ds9Q4M0sl4vlZR) | 3:27 | 2022-02-11 | 2022-07-18 |

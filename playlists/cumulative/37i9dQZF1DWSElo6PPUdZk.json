@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 159307,
       "name": "Gulabi Paani",
       "url": "https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ"
@@ -2784,6 +2784,28 @@
       "duration_ms": 233936,
       "name": "Kaali Activa - Pind De Gerhe",
       "url": "https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0"
+    },
+    {
+      "album": {
+        "name": "Kaali LC",
+        "url": "https://open.spotify.com/album/1zFDpiNznfVrBalcW4p8e5"
+      },
+      "artists": [
+        {
+          "name": "Diksha B",
+          "url": "https://open.spotify.com/artist/332aOLGOOexxuMhIR8nUZq"
+        },
+        {
+          "name": "BxckBencher",
+          "url": "https://open.spotify.com/artist/1Sy2RufSEABGPPWSQyQn6i"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Kaali LC",
+      "url": "https://open.spotify.com/track/22MNy4MsC9ciVnHXsq1E2x"
     },
     {
       "album": {

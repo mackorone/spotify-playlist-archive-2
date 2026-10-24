@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover:  Kid Milli, TRADE L\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Verbal Jint\)
 
 1,968 songs - 4 day 8 hr 58 min
 

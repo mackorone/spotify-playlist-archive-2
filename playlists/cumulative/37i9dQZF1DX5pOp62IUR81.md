@@ -4,7 +4,7 @@
 
 > Earth's mightiest themes assemble on the Marvel Music Playlist\. Stream Marvel’s The Avengers on Disney+.
 
-259 songs - 11 hr 28 min
+260 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cap's Promise](https://open.spotify.com/track/29oY8ptMAWdMjPVjYK0wVj) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: Civil War \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RjfqRZ2wDniTD5ahkbOgo) | 3:45 | 2026-04-14 |  |
 | [Captain America](https://open.spotify.com/track/4V2s08BMEqJWIfa3PcNOpR) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Captain America: The First Avenger](https://open.spotify.com/album/0La1Tskamjd6akysepE8r5) | 1:06 | 2024-01-05 |  |
 | [Captain America](https://open.spotify.com/track/6aqfUu0x0kzqGUiZDnX695) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [The Falcon and the Winter Soldier: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/73smgzwYZ4L70UFP21Hpu0) | 3:27 | 2024-01-05 | 2026-04-15 |
-| [Captain America](https://open.spotify.com/track/2ZQ4lypCihgYLjIdvLRqyW) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: The Winter Soldier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl) | 9:41 | 2024-01-05 |  |
+| [Captain America](https://open.spotify.com/track/2ZQ4lypCihgYLjIdvLRqyW) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: The Winter Soldier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl) | 9:41 | 2024-01-05 | 2026-10-24 |
 | [Captain America \- 2024 Stereo Remaster](https://open.spotify.com/track/3nUb9i0OJ0Lh9JqbRBvFg2) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Captain America \(1966 Theme\) \[2024 Stereo Remaster\]](https://open.spotify.com/album/6pivPJM6FWa6nb0UwznLHv) | 0:56 | 2024-08-09 | 2025-01-31 |
 | [Captain America Main Titles](https://open.spotify.com/track/6y8BWRP7CmQ1Zjy7D1f6BN) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Captain America: The First Avenger](https://open.spotify.com/album/0La1Tskamjd6akysepE8r5) | 0:54 | 2024-01-05 |  |
 | [Captain America: Brave New World Main Title](https://open.spotify.com/track/4OjupcAoeFegWCGtFVywdn) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Captain America: Brave New World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2q4CVD8i0EiIk0bwaZEgmn) | 3:44 | 2026-04-14 |  |
@@ -242,6 +242,7 @@
 | [TVA \- From "Loki"/Score](https://open.spotify.com/track/6YnoM7vjNoilLxWRslJ1d4) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [TVA \(From "Loki"\)](https://open.spotify.com/album/685u0IYysvl0qWJumxvCnj) | 2:28 | 2024-01-05 | 2025-10-21 |
 | [United Nations / End Titles](https://open.spotify.com/track/1vIXp4rlWChyPTSA3ZgsXa) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 7:32 | 2024-01-05 | 2026-04-15 |
 | [Villains \(Parker's Theme\)](https://open.spotify.com/track/28OBgyWJ61jAVnimykSE97) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Marvel's Ironheart: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/24inU2LD2pRjCVJ6J9hdJM) | 1:57 | 2025-07-07 | 2026-04-15 |
+| [VisionQuest Main on Ends](https://open.spotify.com/track/7pbCqbLqPi2zMXpcEV0Gr2) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [VisionQuest \- Vol\. 1 \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/5jzkR32BnSSskRPBUtNC0R) | 2:14 | 2026-10-23 |  |
 | [W\-V 2000 \- Instrumental](https://open.spotify.com/track/1Vm5FUNmEFwIEtrAak5RkS) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB), [The Math Club](https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN) | [WandaVision: Episode 7 \(Original Soundtrack\)](https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza) | 0:34 | 2024-01-05 | 2026-06-13 |
 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 | 2024-01-05 |  |
 | [Wakanda \- DJ Dahi Remix](https://open.spotify.com/track/1u6PWhxFTHs0OuTfh5Mh79) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Black Panther: Wakanda Remixed](https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX) | 2:48 | 2024-01-05 | 2026-04-15 |

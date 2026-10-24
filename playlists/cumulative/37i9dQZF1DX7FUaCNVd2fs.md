@@ -4,7 +4,7 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-244 songs - 10 hr 37 min
+245 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Winter Hideaway](https://open.spotify.com/track/7xP42oGDgsbySKzKH2750d) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Winter Hideaway](https://open.spotify.com/album/0KygdGPgmuaOMhBRX5BAdE) | 2:10 | 2023-10-27 | 2026-05-23 |
 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 | 2023-10-27 |  |
 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2023-10-27 | 2025-04-10 |
+| [Without a Word](https://open.spotify.com/track/45dVmnPoz3qOcHwXi3aQpY) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Without a Word](https://open.spotify.com/album/1MrA7zIefy4ibNZeUdl3sI) | 3:02 | 2026-10-23 |  |
 | [Written in Stone](https://open.spotify.com/track/17My9MgcVSH9ABRiXtiZSv) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Written in Stone](https://open.spotify.com/album/3SKH2KhCNa0HP3S28xPWbL) | 2:36 | 2023-10-27 |  |
 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 | 2023-10-27 | 2026-05-09 |
 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 | 2023-10-27 | 2024-04-19 |

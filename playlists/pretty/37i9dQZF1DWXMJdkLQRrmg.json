@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 370799,
+  "num_followers": 370835,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Mary (b-sides)",
-        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 219696,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 200066,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Mary (b-sides)",
+        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 219696,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "How Did You Love - Acoustic",
-      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Against The Wall (Acoustic Version)",
         "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 206824,
       "name": "Against The Wall - Acoustic Version",
       "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "How Did You Love - Acoustic",
+      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Something Loud (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 200519,
-      "name": "Something Loud (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Soul Revolution: ACOUSTIC VIBES",
         "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 249274,
       "name": "Be Free - Acoustic",
       "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Something Loud (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 200519,
+      "name": "Something Loud (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC"
     },
     {
       "added_at": "2024-07-05 19:40:49",

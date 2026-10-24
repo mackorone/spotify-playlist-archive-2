@@ -1,12 +1,12 @@
 {
   "description": "Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.",
-  "num_followers": 301171,
+  "num_followers": 301170,
   "original_name": "Classical Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEyo/euRD8V64BPhClQ9u92Xi1ns",
+  "snapshot_id": "AAAAAIltIXqTiujb4ngLTq1VjnRCSmTk",
   "tracks": [
     {
       "added_at": "2025-12-19 17:42:27",
@@ -219,6 +219,38 @@
       "duration_ms": 166666,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/4F6gTHJpmsPPdoh7FTxJ1p"
+    },
+    {
+      "added_at": "2026-10-23 04:01:02",
+      "album": {
+        "name": "Song for Snow (Arr. for Cello, Piano & Orchestra by Jan-Peter Kl\u00f6pfel)",
+        "url": "https://open.spotify.com/album/6jn05ViZDuBCHqIklTZ7ik"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Gordon Hamilton",
+          "url": "https://open.spotify.com/artist/5AW6V3aR82UfioCptMQ9p9"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Song for Snow (Arr. for Cello, Piano & Orchestra by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/7BcMfk0YatbVQXhK0q4ivM"
     },
     {
       "added_at": "2025-12-19 17:42:27",
@@ -467,6 +499,34 @@
       "duration_ms": 197493,
       "name": "The Colours of Christmas",
       "url": "https://open.spotify.com/track/7yn58hh3IHyliGlwfraht9"
+    },
+    {
+      "added_at": "2026-10-23 04:01:02",
+      "album": {
+        "name": "Christmas Lullaby (Arr. for Cello & Orchestra by Max Knoth)",
+        "url": "https://open.spotify.com/album/3Uuwva7TlLEVSPmjjGDb6V"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Gordon Hamilton",
+          "url": "https://open.spotify.com/artist/5AW6V3aR82UfioCptMQ9p9"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "Christmas Lullaby (Arr. for Cello & Orchestra by Max Knoth)",
+      "url": "https://open.spotify.com/track/5YQoMckj3xH8WCW2oVdngg"
     },
     {
       "added_at": "2025-12-19 17:42:27",
@@ -961,6 +1021,30 @@
       "url": "https://open.spotify.com/track/3RIKbBmniz8KhnsPZrQEFn"
     },
     {
+      "added_at": "2026-10-23 04:01:02",
+      "album": {
+        "name": "The Snow Maiden, Op. 12: XIII. Dance of the Tumblers (Live, Hannover, 2026)",
+        "url": "https://open.spotify.com/album/7eudR3XxclfuqGINlLLw7x"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "NDR Radiophilharmonie",
+          "url": "https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR"
+        },
+        {
+          "name": "Stanislav Kochanovsky",
+          "url": "https://open.spotify.com/artist/5LrRQPjHQSI8zW7CltrexY"
+        }
+      ],
+      "duration_ms": 260287,
+      "name": "The Snow Maiden, Op. 12: XIII. Dance of the Tumblers - 2026",
+      "url": "https://open.spotify.com/track/0wV2vTKuFP5FiBGyu5mL9w"
+    },
+    {
       "added_at": "2025-12-19 17:42:27",
       "album": {
         "name": "Cozy Winter",
@@ -1411,6 +1495,26 @@
       "duration_ms": 267230,
       "name": "O Holy Night (Arr. Lawson for Guitar & Cello)",
       "url": "https://open.spotify.com/track/3KKqkkafvvknSHkQWckXe5"
+    },
+    {
+      "added_at": "2026-10-23 04:01:02",
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/58iFYgSXR3kxLaKba3FDGa"
+      },
+      "artists": [
+        {
+          "name": "Jakub J\u00f3zef Orli\u0144ski",
+          "url": "https://open.spotify.com/artist/5YLKYYoMNiA0VoOsSeA0Yy"
+        },
+        {
+          "name": "Aleksander D\u0119bicz",
+          "url": "https://open.spotify.com/artist/0HZYW7kTNPn8JRCmHv6fad"
+        }
+      ],
+      "duration_ms": 166208,
+      "name": "Traditional: Deck the Halls",
+      "url": "https://open.spotify.com/track/4x4Ghwf9HhhWGSw5nZaqwD"
     },
     {
       "added_at": "2025-12-19 17:42:27",

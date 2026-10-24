@@ -1,6 +1,6 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3420564,
+  "num_followers": 3420749,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
+    },
+    {
       "added_at": "2022-04-14 15:08:02",
       "album": {
         "name": "Still Crazy After All These Years",
@@ -391,22 +407,6 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Band On The Run",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "At Home",
-        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
-      },
-      "artists": [
-        {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 288266,
       "name": "I Don't Want to Talk About It - 2008 Remaster",
       "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
+      },
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "The Rubberband Man / Now That We're Together",
         "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
       },
@@ -767,18 +751,34 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+      "duration_ms": 226213,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Smoker You Drink, The Player You Get",
+        "url": "https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 315400,
+      "name": "Rocky Mountain Way",
+      "url": "https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Smoker You Drink, The Player You Get",
-        "url": "https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK"
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
       "artists": [
         {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
         }
       ],
-      "duration_ms": 315400,
-      "name": "Rocky Mountain Way",
-      "url": "https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5"
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -943,18 +943,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Chicago II",
-        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 289800,
-      "name": "25 or 6 to 4 - 2002 Remaster",
-      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
+      "duration_ms": 363286,
+      "name": "New York State of Mind",
+      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+        "name": "Chicago II",
+        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 363286,
-      "name": "New York State of Mind",
-      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+      "duration_ms": 289800,
+      "name": "25 or 6 to 4 - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191882,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "The Grand Illusion",
         "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 367000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191882,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
     },
     {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Station to Station (2016 Remaster)",
-        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 243280,
-      "name": "Golden Years - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
-    },
-    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Lake Shore Drive",
@@ -1179,6 +1163,22 @@
       "duration_ms": 235173,
       "name": "Lake Shore Drive",
       "url": "https://open.spotify.com/track/46MX86XQqYCZRvwPpeq4Gi"
+    },
+    {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Station to Station (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Golden Years - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 243280,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Kiss: Ace Frehley",
         "url": "https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 226066,
       "name": "Never Been To Spain - Single Version",
       "url": "https://open.spotify.com/track/61OQuSzsom6geFCA18JwO6"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
     },
     {
       "added_at": "2021-02-10 18:00:33",

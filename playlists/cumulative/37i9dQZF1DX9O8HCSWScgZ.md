@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-131 songs - 5 hr 0 min
+133 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 | 2024-10-18 | 2025-10-23 |
 | [Hotaru](https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Muscot](https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI) | 2:37 | 2024-10-18 |  |
 | [hummingbird](https://open.spotify.com/track/2RmlNxCvN4gO3O8aerL48i) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [hummingbird](https://open.spotify.com/album/3yvz93RfZtIQFh62YL69PY) | 2:05 | 2026-10-05 |  |
+| [In Solitude](https://open.spotify.com/track/3UhdC3ObYG7quEvAlmsJWw) | [mindfulsky.](https://open.spotify.com/artist/1d5zeALWXczL36spR9JTUs) | [In Solitude](https://open.spotify.com/album/3dx8XMLKbco2SHGmt6mpbF) | 2:07 | 2026-10-23 |  |
 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 | 2024-10-18 | 2025-11-08 |
 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 | 2024-10-18 |  |
 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 | 2024-10-18 |  |
@@ -132,6 +133,7 @@
 | [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 | 2024-10-24 |  |
 | [thyme moves slow](https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [thyme moves slow](https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5) | 2:27 | 2024-10-18 |  |
 | [triple sun](https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [triple sun](https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV) | 1:53 | 2024-10-18 | 2025-09-06 |
+| [umbra](https://open.spotify.com/track/3XxnISuB4jvFYZMQni1spK) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [umbra](https://open.spotify.com/album/02PLQTOPKGVKNj0wSJvLAc) | 2:23 | 2026-10-23 |  |
 | [Undertone](https://open.spotify.com/track/50VLwwvzjpemTbpK4hdSCr) | [hiking trip](https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts) | [Undertone](https://open.spotify.com/album/7u04oReVWqQQcabJa7vgAL) | 2:20 | 2025-09-25 |  |
 | [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 | 2024-11-22 | 2026-10-09 |
 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 | 2024-12-11 |  |

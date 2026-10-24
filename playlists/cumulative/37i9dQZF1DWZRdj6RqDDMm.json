@@ -12443,6 +12443,24 @@
     },
     {
       "album": {
+        "name": "Surrounded By Giants",
+        "url": "https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm"
+    },
+    {
+      "album": {
         "name": "Sweet (Remix)",
         "url": "https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n"
       },
@@ -13484,24 +13502,6 @@
       "duration_ms": 160000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ"
-    },
-    {
-      "album": {
-        "name": "Surrounded By Giants",
-        "url": "https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        }
-      ],
-      "date_added": "2026-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm"
     },
     {
       "album": {

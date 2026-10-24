@@ -1,28 +1,44 @@
 {
-  "description": "Alternative indie music etc. Cover: Mackeeper",
-  "num_followers": 732350,
+  "description": "Alternative indie music etc. Cover: Hockitay",
+  "num_followers": 732402,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIMRIWKvn/s5wK0e6t9l2dXnq2R",
+  "snapshot_id": "AAAAAH/nUqbQxMUn5yVbvtHTE9NIQX44",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:03:17",
+      "added_at": "2026-10-23 04:03:25",
       "album": {
-        "name": "Pull Me Under",
-        "url": "https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w"
+        "name": "Jazz dreams",
+        "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
         }
       ],
-      "duration_ms": 292125,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O"
+      "duration_ms": 218000,
+      "name": "If you wanna come down",
+      "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "added_at": "2026-10-16 04:03:17",
@@ -39,6 +55,86 @@
       "duration_ms": 156133,
       "name": "prada",
       "url": "https://open.spotify.com/track/6jMgG7UWL3rVZDdc4BVdpC"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 185952,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "Numbskull",
+        "url": "https://open.spotify.com/album/4FwRkmPT4WoxrBAerMhIPy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 124894,
+      "name": "One Step",
+      "url": "https://open.spotify.com/track/6zf9GCkTZYLA1qjdlu0ulY"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "MIND YER BIZNIZ",
+        "url": "https://open.spotify.com/album/5f1UtOFyx7q2WYUJsd2VZk"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "MIND YER BIZNIZ",
+      "url": "https://open.spotify.com/track/2yLwwjkbhUaYoqltO0u1m7"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "marroW",
+        "url": "https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "wishing well",
+      "url": "https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "Unfindable Ring",
+        "url": "https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 271391,
+      "name": "George Clanton",
+      "url": "https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L"
     },
     {
       "added_at": "2026-10-16 04:03:17",
@@ -59,6 +155,58 @@
       "duration_ms": 316003,
       "name": "Where Is Gone?",
       "url": "https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i"
+    },
+    {
+      "added_at": "2026-10-16 04:03:17",
+      "album": {
+        "name": "Pull Me Under",
+        "url": "https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 292125,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O"
+    },
+    {
+      "added_at": "2026-10-16 04:03:17",
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
+    },
+    {
+      "added_at": "2026-10-16 04:03:17",
+      "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb"
     },
     {
       "added_at": "2026-10-16 04:03:17",
@@ -111,22 +259,6 @@
     {
       "added_at": "2026-10-16 04:03:17",
       "album": {
-        "name": "the greatest album of all time",
-        "url": "https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 233708,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb"
-    },
-    {
-      "added_at": "2026-10-16 04:03:17",
-      "album": {
         "name": "vintage vuitton",
         "url": "https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem"
       },
@@ -175,26 +307,6 @@
       "duration_ms": 107402,
       "name": "Moving at Light Speed",
       "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
-    },
-    {
-      "added_at": "2026-10-16 04:03:17",
-      "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "added_at": "2026-10-16 04:03:17",
@@ -1015,22 +1127,6 @@
     {
       "added_at": "2026-10-16 04:03:17",
       "album": {
-        "name": "Bite the bullet",
-        "url": "https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc"
-      },
-      "artists": [
-        {
-          "name": "Natek",
-          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Bite the bullet",
-      "url": "https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk"
-    },
-    {
-      "added_at": "2026-10-16 04:03:17",
-      "album": {
         "name": "Kid",
         "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
       },
@@ -1187,22 +1283,6 @@
       "duration_ms": 152401,
       "name": "playing field",
       "url": "https://open.spotify.com/track/3ZiLgOMfnct7PvKOE8LBbZ"
-    },
-    {
-      "added_at": "2026-10-16 04:03:17",
-      "album": {
-        "name": "Two Roads",
-        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 203519,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3pgXNASOzt7C0QRby6FSbR"
     },
     {
       "added_at": "2026-10-16 04:03:17",

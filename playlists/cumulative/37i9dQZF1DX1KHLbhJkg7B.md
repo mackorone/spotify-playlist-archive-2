@@ -2,9 +2,9 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique covers by your favorite country artists\. Cover: Keith Urban
+> Unique covers by your favorite country artists\. Cover: Morgan Evans
 
-474 songs - 1 day 5 hr 37 min
+475 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ain't Going Down \(Til the Sun Comes up\)](https://open.spotify.com/track/3klE9CXDio6dDgY9yU1wKU) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Ain't Goin' Down \(Til the Sun Comes up\)](https://open.spotify.com/album/7DuXhaPbr8SI066tDEwubh) | 3:05 | 2022-03-18 | 2022-08-16 |
 | [Ain't No Sunshine](https://open.spotify.com/track/3em0PT5T4WjJWZl8aTtVzZ) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [After Dark](https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S) | 3:45 | 2022-03-25 | 2022-04-20 |
 | [Ain't Nothing 'Bout You \(with Megan Moroney\)](https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:31 | 2024-11-15 |  |
+| [Ain’t Going Down \(‘Til the Sun Comes Up\)](https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Steel Town \(Deluxe\)](https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy) | 4:16 | 2026-10-23 |  |
 | [Ain’t Going Down Til the Sun Comes Up / She’s in Love with the Boy](https://open.spotify.com/track/2v8Qn6epgAuQQoSFnb4P5s) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [Ain’t Going Down Til the Sun Comes Up / She’s in Love with the Boy](https://open.spotify.com/album/2s1AlAjSDi0KpYFubsw6r3) | 2:16 | 2022-02-11 | 2022-07-25 |
 | [All I Do Is Drive](https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2021-12-10 | 2022-07-17 |
 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:33 | 2021-12-10 |  |
@@ -205,7 +206,7 @@
 | [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 | 2022-01-07 | 2023-08-26 |
 | [If I Were A Boy](https://open.spotify.com/track/31ULoPWd5SMnGsLEL9YQgh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 4:04 | 2022-05-06 | 2022-07-06 |
 | [If It Makes You Happy](https://open.spotify.com/track/30gZwjtb11DhFSnMYYeoZc) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [If It Makes You Happy](https://open.spotify.com/album/7ldbJFeq7hcpCJjQxYhZFd) | 4:59 | 2022-11-18 | 2023-11-18 |
-| [If The World Was Ending](https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [If The World Was Ending](https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4) | 3:28 | 2026-04-10 |  |
+| [If The World Was Ending](https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [If The World Was Ending](https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4) | 3:28 | 2026-04-10 | 2026-10-24 |
 | [If We Were Vampires](https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM) | [Motel Drive](https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD), [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [If We Were Vampires](https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK) | 4:13 | 2022-09-16 | 2023-02-18 |
 | [If You Don't Know Me By Now](https://open.spotify.com/track/2XG6hHbJu8339ARntHGMUh) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:31 | 2021-12-10 | 2022-07-22 |
 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 | 2022-07-08 |  |

@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-391 songs - 1 day 1 hr 16 min
+392 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [It's No Good](https://open.spotify.com/track/0GNdzYqpy7sHQcdCuHjJZX) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Down, Wicked & No Good](https://open.spotify.com/album/0JsXyjXeZp0uELbFKVgvor) | 4:55 | 2020-12-16 | 2022-07-29 |
 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF) | 2:58 | 2020-12-16 | 2025-01-18 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-10 |  |
+| [Jolene \(With Dolly Parton\)](https://open.spotify.com/track/0PzF4Hjq28F5mvGfYoLgY8) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(With Dolly Parton\)](https://open.spotify.com/album/5FEJavT3zql5xlYSLHPRxQ) | 2:39 | 2026-10-23 |  |
 | [Jump Into The Fire](https://open.spotify.com/track/1x3dbEtnQsQaF7XVqIbCYE) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:35 | 2020-12-16 | 2022-11-13 |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-24 |  |
 | [Just Like Heaven](https://open.spotify.com/track/2taiFEr466TWMGPZN719m5) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/7LpjAJON4CNX6PmY9SICs3) | 2:53 | 2022-03-25 | 2022-07-24 |
@@ -369,7 +370,7 @@
 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 | 2020-12-16 | 2024-02-03 |
 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 | 2025-09-26 |  |
 | [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 | 2020-12-16 |  |
-| [We Are The Champions/We Will Rock You](https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [We Are The Champions/We Will Rock You](https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX) | 3:51 | 2023-07-26 |  |
+| [We Are The Champions/We Will Rock You](https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [We Are The Champions/We Will Rock You](https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX) | 3:51 | 2023-07-26 | 2026-10-24 |
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-06-30 |  |
 | [We Gotta Get Out of This Place \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/track/6c63q3NW81iIRgwkbdW5Xl) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [We Gotta Get Out of This Place \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/album/1G081hZCVqnRgSubKT6949) | 3:15 | 2025-08-22 | 2025-09-30 |
 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 | 2022-06-17 | 2023-11-04 |

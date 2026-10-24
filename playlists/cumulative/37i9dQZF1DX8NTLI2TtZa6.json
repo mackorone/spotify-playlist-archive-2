@@ -2677,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Endless Morning",
+        "url": "https://open.spotify.com/album/1pX9PRY2b83mZuTDksaJd7"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6ve",
+          "url": "https://open.spotify.com/artist/7MGZxfJkKBLp1oAnFkNTEz"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143207,
+      "name": "Endless Morning",
+      "url": "https://open.spotify.com/track/4FPOhKVwkruPE9JsSu7bSj"
+    },
+    {
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY"
       },
@@ -5398,6 +5416,24 @@
       "duration_ms": 139924,
       "name": "Lost Frequencies",
       "url": "https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA"
+    },
+    {
+      "album": {
+        "name": "Lost In A Memory",
+        "url": "https://open.spotify.com/album/0MfXre9ceYOb4puJvPVUV4"
+      },
+      "artists": [
+        {
+          "name": "Michael Rokser",
+          "url": "https://open.spotify.com/artist/0UswV6RNzgYWmoc8oUGWiH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Lost In A Memory",
+      "url": "https://open.spotify.com/track/1QmwKHNpJH7VWY65RDLvHE"
     },
     {
       "album": {

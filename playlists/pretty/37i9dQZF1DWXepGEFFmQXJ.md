@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Miranda Lambert, Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,854 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,887 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 16 | [One Sip Away](https://open.spotify.com/track/0IG9x3OUk3eg8pz5lnDxwI) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Call It A Day](https://open.spotify.com/album/7h8CpghOdYi5WK6aqv3PAr) | 2:38 |
 | 17 | [Us Again](https://open.spotify.com/track/2AcF4plsR1Fz1JUMygpVPM) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [The Day I Hang It Up](https://open.spotify.com/album/73CYSEv0ceeSLgJ8vyqKHi) | 3:54 |
 | 18 | [High Stakes](https://open.spotify.com/track/2K3dXnxInwW8Y3rJo1OWZo) | [Claudia Tripp](https://open.spotify.com/artist/5I0T6nRUCHMYv7zytK5zPB) | [High Stakes](https://open.spotify.com/album/6IMQ7rCM5mXO7UfIZnaKxr) | 3:10 |
-| 19 | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/track/2JleoQmL4KwbnZJEQtb9hY) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/album/7e8CCKsONdG5WD0zTmKFEn) | 3:30 |
+| 19 | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/track/2JleoQmL4KwbnZJEQtb9hY) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/album/7e8CCKsONdG5WD0zTmKFEn) | 3:31 |
 | 20 | [Dyin' On The Vine](https://open.spotify.com/track/7oGPYK4R5FW5B83ID2DHeX) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Dyin' On The Vine](https://open.spotify.com/album/2JUgJQJsy6M4qfMuH3vV4Z) | 3:12 |
 | 21 | [82 Chevy](https://open.spotify.com/track/0GBIruvIhleCfVPB1RhIg4) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [82 Chevy](https://open.spotify.com/album/7lpvYU3X8W9Ts0i1eVU4U1) | 2:51 |
 | 22 | [Heartstrings](https://open.spotify.com/track/5yzRGVeirNYC24dYkT3Yjq) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Work of Heart \- Heartstrings](https://open.spotify.com/album/75nqbogQG36rnoSRlVKtmP) | 4:01 |

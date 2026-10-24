@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,515 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,532 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 49 | [PARTY FAVORS \(feat\. Big Sean\)](https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:51 |
 | 50 | [Remarkable Hussle](https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 3:46 |
 
-Snapshot ID: `atavAAAAAADqDCAkszm7hutoAY3gqErI`
+Snapshot ID: `atgAgAAAAAAJze5UEnRTq5b17GmyDzYG`

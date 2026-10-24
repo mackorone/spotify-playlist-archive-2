@@ -1579,6 +1579,32 @@
     },
     {
       "album": {
+        "name": "Andamos Readys",
+        "url": "https://open.spotify.com/album/0iK8FhOUCiIi9E4HmLXdXi"
+      },
+      "artists": [
+        {
+          "name": "Jony Beltran",
+          "url": "https://open.spotify.com/artist/7nN4ORhj5Mi3tgU9IwQrFv"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "Andamos Readys",
+      "url": "https://open.spotify.com/track/07Rm8ru4tiFdfNhKbzXD6y"
+    },
+    {
+      "album": {
         "name": "Ando",
         "url": "https://open.spotify.com/album/2iJwstn5oaq4JMfFnJa9jT"
       },
@@ -3726,7 +3752,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 126100,
       "name": "Cap\u00edtulo 1",
       "url": "https://open.spotify.com/track/4ZvteJxNizR2XuoxjQ6KjP"
@@ -6382,7 +6408,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 205200,
       "name": "Dolor y Fe",
       "url": "https://open.spotify.com/track/4dEjMrg0ezloau9nJ6rYhr"
@@ -7356,7 +7382,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198733,
       "name": "Empareje Remix",
       "url": "https://open.spotify.com/track/2AJ8ltGJsScmIlc0aiM3pK"
@@ -8816,6 +8842,36 @@
       "duration_ms": 208000,
       "name": "Gains",
       "url": "https://open.spotify.com/track/4M6SLpfTIJk4A0610tRgRa"
+    },
+    {
+      "album": {
+        "name": "\u00c1nimo",
+        "url": "https://open.spotify.com/album/4QOuPQORFktkv8eZ3GCkfn"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Tren Lokote",
+          "url": "https://open.spotify.com/artist/0noKY9XbtS9j5z4GOAShmT"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246410,
+      "name": "Gallos de Pelea (feat. Teeam Revolver)",
+      "url": "https://open.spotify.com/track/0uacZRzRqcimPyBaSy1npS"
     },
     {
       "album": {
@@ -10316,7 +10372,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 221413,
       "name": "Kodigos",
       "url": "https://open.spotify.com/track/5RulQfm46yYABSyDMFvWSU"
@@ -11614,6 +11670,24 @@
       "duration_ms": 128470,
       "name": "LINCOLN",
       "url": "https://open.spotify.com/track/0Q5BX2L0zGHB7AhfoO8CAu"
+    },
+    {
+      "album": {
+        "name": "No Hay \u00c1ngeles Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169341,
+      "name": "Lindsay Lohan",
+      "url": "https://open.spotify.com/track/73YfZrBGZE0CWGccQkb9cW"
     },
     {
       "album": {
@@ -13759,6 +13833,28 @@
     },
     {
       "album": {
+        "name": "Pecado de Oro",
+        "url": "https://open.spotify.com/album/5jnkSg9j4OA9GiPhf04kWp"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236923,
+      "name": "Modo Wild",
+      "url": "https://open.spotify.com/track/4WKPWSj6h5ueNetLLNFBN7"
+    },
+    {
+      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/2XO0fKhCS2svk87EliCNtd"
       },
@@ -14310,7 +14406,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 159157,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/1TfiitVto7je9TG2YfVqSv"
@@ -15428,7 +15524,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 182823,
       "name": "Pa' Que Mueva los Pies",
       "url": "https://open.spotify.com/track/7Fkx9p3pfgDlekaeUarir4"
@@ -15622,6 +15718,32 @@
       "duration_ms": 162795,
       "name": "Paris Hilton",
       "url": "https://open.spotify.com/track/7ed8tIVWqNumP9WtpT2c44"
+    },
+    {
+      "album": {
+        "name": "Pasos al cielo",
+        "url": "https://open.spotify.com/album/7AVDfSvGJiPnZ245I7TBsW"
+      },
+      "artists": [
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "name": "ALPHA Z",
+          "url": "https://open.spotify.com/artist/47y38fx3kk8FsevtTvSMdb"
+        },
+        {
+          "name": "David bukowski",
+          "url": "https://open.spotify.com/artist/4bITAmagheKMaosETXK80X"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215064,
+      "name": "Pasos al cielo",
+      "url": "https://open.spotify.com/track/6CXGn4CeXV0CVWUrqhAK4x"
     },
     {
       "album": {
@@ -17492,6 +17614,28 @@
       "duration_ms": 289649,
       "name": "Rap da Rap quita",
       "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
+    },
+    {
+      "album": {
+        "name": "Rap Malandr\u00f3n",
+        "url": "https://open.spotify.com/album/5d7DYB1Oz11c4e3VpGpLuw"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Micky Ric\u00f3n",
+          "url": "https://open.spotify.com/artist/58mvd9iktPkPZrbbYX9Fmr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161791,
+      "name": "Rap Malandr\u00f3n",
+      "url": "https://open.spotify.com/track/0fKTcoOfDWziJlmdWR0Zme"
     },
     {
       "album": {
@@ -20013,6 +20157,32 @@
     },
     {
       "album": {
+        "name": "Tendo",
+        "url": "https://open.spotify.com/album/4TokeHzzRXReN9yZ4ZTpXn"
+      },
+      "artists": [
+        {
+          "name": "Yorking HB",
+          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
+        },
+        {
+          "name": "Hione",
+          "url": "https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg"
+        },
+        {
+          "name": "Dj Kay Fear",
+          "url": "https://open.spotify.com/artist/54nmJ9XTJMCad8cxQwsrE6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157710,
+      "name": "Tendo",
+      "url": "https://open.spotify.com/track/3iF0eiKr5vVC4QoxT93FAB"
+    },
+    {
+      "album": {
         "name": "Tensi\u00f3n",
         "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
       },
@@ -21720,7 +21890,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 167500,
       "name": "Viejo Gacho",
       "url": "https://open.spotify.com/track/4R8y4zZppFouGhJ824I6Rf"

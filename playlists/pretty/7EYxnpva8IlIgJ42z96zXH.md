@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,039 likes - 101 songs - 5 hr 19 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,039 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,6 +108,5 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 98 | [Want My Love](https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [WOLTERS](https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl) | [Want My Love](https://open.spotify.com/album/65K88KCZBgjznXdSfCUxeE) | 3:18 |
 | 99 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/album/0moJ5HyyeYr64SH8o17Hvf) | 2:39 |
 | 100 | [Only Human \- MPH Remix](https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Only Human \(MPH Remix\)](https://open.spotify.com/album/3NxHT2iJHRMYenPLvmjYRA) | 4:21 |
-| 101 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
 
-Snapshot ID: `AAARtUMywnZ+ogCSnXviMPP7cQtYiiX0`
+Snapshot ID: `AAARthxUGwB2iEH/pNK8ibOpHHYcvtbF`

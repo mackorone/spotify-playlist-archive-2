@@ -1,13 +1,29 @@
 {
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: LOS MENOR3S",
-  "num_followers": 294183,
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Irepelusa",
+  "num_followers": 294248,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOeM3Yqh6Bl2pbd3avfLT+M3x0mf",
+  "snapshot_id": "AAAAAETGnkEKuRqUojIN85gFaX0SHDcC",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
+    },
     {
       "added_at": "2026-10-16 04:01:13",
       "album": {
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
     },
     {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "ROTO",
+        "url": "https://open.spotify.com/album/2w8nOWgRTKp6aBc2alK97j"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 128709,
+      "name": "ROTO",
+      "url": "https://open.spotify.com/track/4WZ1aRk3eQ8hSTLo7gvK3m"
+    },
+    {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "cosas malas de m\u00ed",
+        "url": "https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 179834,
+      "name": "cosas malas de m\u00ed",
+      "url": "https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT"
+    },
+    {
       "added_at": "2026-10-16 04:01:13",
       "album": {
         "name": "PECADO",
@@ -59,6 +107,22 @@
       "duration_ms": 185760,
       "name": "PECADO",
       "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
+    },
+    {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-10-16 04:01:13",
@@ -93,6 +157,26 @@
       "url": "https://open.spotify.com/track/38b8PihKC0PTTZ7ix2NmVi"
     },
     {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "se van las luces",
+        "url": "https://open.spotify.com/album/5uXqLKJC1a3LKF1Zjg9mvu"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        },
+        {
+          "name": "Sotomonte",
+          "url": "https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa"
+        }
+      ],
+      "duration_ms": 171892,
+      "name": "se van las luces",
+      "url": "https://open.spotify.com/track/0MTINDkhOLAFf9YF0E34kq"
+    },
+    {
       "added_at": "2026-10-16 04:01:13",
       "album": {
         "name": "IDK YET",
@@ -107,6 +191,22 @@
       "duration_ms": 193125,
       "name": "IDK YET",
       "url": "https://open.spotify.com/track/5QRj0GXILKffklmHANmKmh"
+    },
+    {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "TA TE TI",
+        "url": "https://open.spotify.com/album/4TFCAMAtiNAFdynRGvl9v8"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "TA TE TI",
+      "url": "https://open.spotify.com/track/4QHSNccFDmGBseFy2mFeDw"
     },
     {
       "added_at": "2026-10-16 04:01:13",
@@ -175,6 +275,26 @@
       "duration_ms": 177215,
       "name": "CARI\u00d1O",
       "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "TRAINING DAYS (Pro League)",
+        "url": "https://open.spotify.com/album/03jiAwsegq5NwZGRPqAsiL"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "TRAINING DAYS - Pro League",
+      "url": "https://open.spotify.com/track/7zoqjqNdYGYB2dwxlo2Y6R"
     },
     {
       "added_at": "2026-10-16 04:01:13",
@@ -261,6 +381,26 @@
       "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
     },
     {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "WAU",
+        "url": "https://open.spotify.com/album/4hMePO0x4OX6qPCKyaq1SY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Jhoni",
+          "url": "https://open.spotify.com/artist/38dLFB2qWMHGgmRUlZAe47"
+        }
+      ],
+      "duration_ms": 136640,
+      "name": "WAU",
+      "url": "https://open.spotify.com/track/7ylwaRu3FobcYFxnvaLV94"
+    },
+    {
       "added_at": "2026-10-16 04:01:13",
       "album": {
         "name": "LEJOS",
@@ -295,6 +435,22 @@
       "duration_ms": 122706,
       "name": "Loco x mi",
       "url": "https://open.spotify.com/track/4LAzLKDW8xSiJc5ovROg0b"
+    },
+    {
+      "added_at": "2026-10-23 04:00:45",
+      "album": {
+        "name": "\u00bfC\u00f3mo huir?",
+        "url": "https://open.spotify.com/album/4vKZbcMkK6ZksUfFRJxM7p"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "\u00bfC\u00f3mo huir?",
+      "url": "https://open.spotify.com/track/1qutwPbEKgHAciZFStAPHS"
     },
     {
       "added_at": "2026-10-16 04:01:13",
@@ -735,154 +891,6 @@
       "duration_ms": 163809,
       "name": "De Sue\u00f1o en Sue\u00f1o",
       "url": "https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "modo avi\u00f3n",
-        "url": "https://open.spotify.com/album/2Cznt4TJygEYcD3kZ4DujA"
-      },
-      "artists": [
-        {
-          "name": "Clara Luna",
-          "url": "https://open.spotify.com/artist/6J50g2avhNLHeZcMcYSKJi"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "modo avi\u00f3n",
-      "url": "https://open.spotify.com/track/69pSiwDPhES4RkVIloawsj"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "Finjo y estoy bien (Divisi\u00f3n A)",
-        "url": "https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx"
-      },
-      "artists": [
-        {
-          "name": "Lara Project",
-          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 235748,
-      "name": "SI NO EST\u00c1S T\u00da",
-      "url": "https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "(no) te quiero perder [BY BERSHKA MUSIC]",
-        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 141663,
-      "name": "(no) te quiero perder - BY BERSHKA MUSIC",
-      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "si escribo, no contestes",
-        "url": "https://open.spotify.com/album/1NHW9hoXLNAhWyfte9Z6Qu"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 210111,
-      "name": "todo va a estar bien",
-      "url": "https://open.spotify.com/track/6iTviu0qySOiZRD1lfqkMT"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "Como Te Pienso Yo",
-        "url": "https://open.spotify.com/album/3RKgq0fu5tIC1yWNx2IDSL"
-      },
-      "artists": [
-        {
-          "name": "Mari Segura",
-          "url": "https://open.spotify.com/artist/2ih7yN0J7tvnUaX3h7xQjT"
-        }
-      ],
-      "duration_ms": 190310,
-      "name": "Como Te Pienso Yo",
-      "url": "https://open.spotify.com/track/0CPZduaSTKevb1AnrwYTjs"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "ciclos",
-        "url": "https://open.spotify.com/album/6t2HxVOXaO4TFEVZtqM2jG"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "desamarte",
-      "url": "https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "Plenitud",
-        "url": "https://open.spotify.com/album/3QnBLbjt18xyFyTklqhdy1"
-      },
-      "artists": [
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Plenitud",
-      "url": "https://open.spotify.com/track/7C038Cwnrrnsss04hPgRCw"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "24 HORAS (TRAGADO)",
-        "url": "https://open.spotify.com/album/2OMMetk93WUI0VmXA54h9f"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 160768,
-      "name": "24 HORAS (TRAGADO)",
-      "url": "https://open.spotify.com/track/0ojUyEhzan2BZ0daOV05jV"
-    },
-    {
-      "added_at": "2026-10-16 04:01:13",
-      "album": {
-        "name": "Nigiri",
-        "url": "https://open.spotify.com/album/3rHsVXrOvDag4cS34yKusl"
-      },
-      "artists": [
-        {
-          "name": "ZUCO OMG",
-          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
-        }
-      ],
-      "duration_ms": 142894,
-      "name": "Nigiri",
-      "url": "https://open.spotify.com/track/4jWBjBcoLx4HVo5VDvcTWY"
     }
   ],
   "unique_name": "el nuevo pop",

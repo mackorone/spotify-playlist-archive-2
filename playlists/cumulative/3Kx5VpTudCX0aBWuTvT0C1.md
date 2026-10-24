@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-206 songs - 12 hr 1 min
+207 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Almost](https://open.spotify.com/track/2or6CHW3WWgqVF661h1FsO) | [Claire Hack](https://open.spotify.com/artist/7pqmpRMNXCv6dEKPHWdPMT) | [Almost](https://open.spotify.com/album/3f29YZftbtG4RrmTe7fVLn) | 3:33 | 2026-07-27 |  |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-29 | 2025-12-09 |
 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-05-29 |  |
+| [Analog Soul](https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Analog Soul](https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK) | 3:13 | 2026-10-23 |  |
 | [Anne Halt Durch!](https://open.spotify.com/track/7JFZ2FDCG2NOKPy8OmU9jt) | [DerBen](https://open.spotify.com/artist/2ROKHEeIFHnxoXlHcngvp3) | [Anne Halt Durch!](https://open.spotify.com/album/0ywlMcNDzmlScH3LAu6Eus) | 4:46 | 2025-10-29 | 2025-12-09 |
 | [Another Night](https://open.spotify.com/track/1CL9DB1WhmwOMACDJcOWDw) | [P\-Math](https://open.spotify.com/artist/1xsU39HOHqNFkYbvOHifQY) | [Another Night](https://open.spotify.com/album/5v14wEjTIH1DoRoGleXapd) | 2:52 | 2025-11-02 | 2025-12-09 |
 | [Aquella noche de Octubre](https://open.spotify.com/track/6sGco2VaRvibMnWPYKLxJM) | [Zian Ka'an](https://open.spotify.com/artist/3CAsPodiK0nPyiIYhkceeW) | [Aquella noche de Octubre](https://open.spotify.com/album/1BZrrJGChOtoUQb2h0jbJm) | 2:54 | 2025-10-29 | 2025-12-09 |

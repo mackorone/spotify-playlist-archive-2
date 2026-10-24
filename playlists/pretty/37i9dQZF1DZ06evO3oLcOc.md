@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,328 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,324 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 15 | [Come My Way](https://open.spotify.com/track/7326q9PcJDcKuAFcrSkN0t) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Come My Way](https://open.spotify.com/album/36ocXZA5Xnny4cdKULKoFF) | 3:12 |
 | 16 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:31 |
 | 17 | [Ayy Macarena](https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ayy Macarena](https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh) | 2:11 |
-| 18 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
-| 19 | [Ice Cream Man](https://open.spotify.com/track/6ZA3Q8Dj5BrnmOsT300DCh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuk Wat They Talkin Bout](https://open.spotify.com/album/6p6Wab5m1yqyp4NzRevTft) | 3:06 |
+| 18 | [Ice Cream Man](https://open.spotify.com/track/6ZA3Q8Dj5BrnmOsT300DCh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuk Wat They Talkin Bout](https://open.spotify.com/album/6p6Wab5m1yqyp4NzRevTft) | 3:06 |
+| 19 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
 | 20 | [Just the Bro \(feat\. Tyga & Ty Dolla $ign\)](https://open.spotify.com/track/0Q54gKsmxMlXzY23r1qbAj) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:24 |
 | 21 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 |
 | 22 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 47 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 |
 | 48 | [February Love \(feat\. Chris Brown\)](https://open.spotify.com/track/6pAaeIH6FuqdiweIogafXT) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:37 |
 | 49 | [Still Got It](https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:44 |
-| 50 | [Dat Bad](https://open.spotify.com/track/1fk5Jx5ytAcfc9o1tcrQ1d) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Dat Bad](https://open.spotify.com/album/3aQtWdtWWtPo9JQD16zimR) | 2:40 |
+| 50 | [Low Key \(feat\. Tyga\)](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Low Key \(feat\. Tyga\)](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) | 3:21 |
 
-Snapshot ID: `atavAAAAAAAizgK5pBW9LTZC2aFn9VBH`
+Snapshot ID: `atgAgAAAAAC1/nPYut3nAjIvtqsiP1eR`

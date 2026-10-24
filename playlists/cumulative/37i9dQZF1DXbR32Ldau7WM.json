@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "23\u300124",
+        "url": "https://open.spotify.com/album/0OknEujBcguIUFvfj3m5HZ"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238284,
+      "name": "23\u300124",
+      "url": "https://open.spotify.com/track/16ZpTIJDsmgSPShV7Wbjjv"
+    },
+    {
+      "album": {
         "name": "24030\u756a\u5730\u306b\u56de\u89a7\u677f\u3092\u56de\u305b",
         "url": "https://open.spotify.com/album/6PsYIDULBBHLQ7naBNQsaF"
       },
@@ -15020,7 +15038,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 235659,
       "name": "Sleep Walking Orchestra",
       "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
@@ -23154,7 +23172,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 226386,
       "name": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
       "url": "https://open.spotify.com/track/3xwcoxhjy2vg1O1bb4IQ1m"
@@ -28574,7 +28592,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 250000,
       "name": "\u6708\u306e\u6900",
       "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"

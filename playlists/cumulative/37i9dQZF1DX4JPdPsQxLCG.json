@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 261097,
       "name": "Coming Up",
       "url": "https://open.spotify.com/track/0Uw43tfMv0fGcaoEcFgHVy"
@@ -4186,7 +4186,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 172596,
       "name": "In My Gut",
       "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
@@ -6094,6 +6094,24 @@
       "duration_ms": 196106,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
+    },
+    {
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145099,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
       "album": {
@@ -9542,6 +9560,24 @@
       "duration_ms": 220093,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/5khBbADRwG8TD1z3GiW6vs"
+    },
+    {
+      "album": {
+        "name": "What If I Call",
+        "url": "https://open.spotify.com/album/4yazxGFraz7lO9omZNEues"
+      },
+      "artists": [
+        {
+          "name": "Alex Crichton",
+          "url": "https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "What If I Call",
+      "url": "https://open.spotify.com/track/3zBdVzYsuqVPyMk1YFiPcg"
     },
     {
       "album": {

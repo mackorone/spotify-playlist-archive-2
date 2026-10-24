@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 350240,
+  "num_followers": 350291,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACiu5BiOm1L91RfawsDboKn",
+  "snapshot_id": "atgAgAAAAADRKxVLXPCzYJiugR5RrCYz",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
       },
       "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 159250,
-      "name": "Loved By You (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
+      "duration_ms": 169785,
+      "name": "Born Winner",
+      "url": "https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J"
     },
     {
       "added_at": null,
@@ -287,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 169785,
-      "name": "Born Winner",
-      "url": "https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J"
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-379 songs - 21 hr 6 min
+380 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2024-03-05 | 2025-11-21 |
 | [Es Ilegal](https://open.spotify.com/track/5qw1YRbS8qjPHrPlo5vSgJ) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Es Ilegal](https://open.spotify.com/album/1yG3iQzIuAYKu9i9DRIcpY) | 3:02 | 2023-10-13 | 2023-10-21 |
 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 | 2023-05-26 |  |
-| [Esa Guacha](https://open.spotify.com/track/0sl11kbj8nhAUCvKJqzJWX) | [La Ihuana Mary](https://open.spotify.com/artist/5EVrykuinQxxYmRvttSMT5) | [Cumbia Sabrosa](https://open.spotify.com/album/6Kh5EYSIB783vwt90QZ1ZO) | 3:18 | 2026-06-23 |  |
+| [Esa Guacha](https://open.spotify.com/track/0sl11kbj8nhAUCvKJqzJWX) | [La Ihuana Mary](https://open.spotify.com/artist/5EVrykuinQxxYmRvttSMT5) | [Cumbia Sabrosa](https://open.spotify.com/album/6Kh5EYSIB783vwt90QZ1ZO) | 3:18 | 2026-06-23 | 2026-10-24 |
 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 | 2023-05-26 |  |
 | [Estoy de Nuevo](https://open.spotify.com/track/3GcdJ5OfdILjl9qBuOMapT) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 3:17 | 2026-02-13 |  |
 | [EXCUSAS](https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF) | [EXCUSAS](https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0) | 3:41 | 2023-11-17 |  |
@@ -169,6 +169,7 @@
 | [LA COLORADA](https://open.spotify.com/track/7MGOmc1KMZvV0o8iuT8CgE) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [LA COLORADA](https://open.spotify.com/album/6AcR4JanfYZfbneCfpNYG9) | 3:13 | 2024-02-02 | 2024-02-10 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 | 2024-05-18 | 2025-11-21 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2023-05-26 | 2024-04-19 |
+| [La danza del tablón](https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL) | [Guachín](https://open.spotify.com/artist/79yjQ1ZSsudCW4bfGRcoGM) | [La danza del tablón](https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv) | 4:16 | 2026-06-23 |  |
 | [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 | 2023-05-26 |  |
 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-06-23 | 2024-03-06 |
 | [La Jarra](https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [La Jarra](https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT) | 2:17 | 2023-12-15 | 2024-07-08 |

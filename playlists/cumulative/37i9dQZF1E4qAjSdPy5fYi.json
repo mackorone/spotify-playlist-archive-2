@@ -618,6 +618,24 @@
     {
       "album": {
         "name": "FANSERVICE",
+        "url": "https://open.spotify.com/album/4uJhykhA9pXhXUC1aQ20El"
+      },
+      "artists": [
+        {
+          "name": "MAILPUP",
+          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "ASS UP!",
+      "url": "https://open.spotify.com/track/0hDQWnn8DjagrS2NatbURe"
+    },
+    {
+      "album": {
+        "name": "FANSERVICE",
         "url": "https://open.spotify.com/album/1iRaZxijTjfQ0qZiU6BoZK"
       },
       "artists": [
@@ -882,7 +900,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 135335,
       "name": "Birds Be Like",
       "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 117931,
       "name": "BOARD GAME",
       "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 160959,
       "name": "BREAK YOUR BRAIN",
       "url": "https://open.spotify.com/track/3AKnWc4TGOYrYyu2slnMCT"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 165180,
       "name": "Crawling Thru Me (Breathing)",
       "url": "https://open.spotify.com/track/02Dx4qkCBWdhLePwAIU2mh"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 101210,
       "name": "DRAIN PUPPY MAIL ME IMMEDIATELY",
       "url": "https://open.spotify.com/track/7eD7HWP4KdhTczwpw29YWJ"
@@ -3162,7 +3180,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 132173,
       "name": "I REALLY REALLY REALLY HATE THE WORLD BUT THAT'S OK AT LEAST I'VE GOT MY GABBER DRUM",
       "url": "https://open.spotify.com/track/0dBffLuyZ97YHFTbTWby2D"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 164746,
       "name": "KILL YOURSELF",
       "url": "https://open.spotify.com/track/13rSC7PiWGDR15lZxgrxtw"
@@ -3862,6 +3880,24 @@
       "duration_ms": 162522,
       "name": "kinky murder machine",
       "url": "https://open.spotify.com/track/2nCCr0d2xX2eBhlgnKa2t8"
+    },
+    {
+      "album": {
+        "name": "real estate dog",
+        "url": "https://open.spotify.com/album/07BKg4NfnmCNoN7WdDVQd4"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162522,
+      "name": "kinky murder machine",
+      "url": "https://open.spotify.com/track/5f60P0qQuFW6UfNHDhhsEw"
     },
     {
       "album": {
@@ -4698,7 +4734,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 135714,
       "name": "N0WICH3 - Nightcore",
       "url": "https://open.spotify.com/track/77OEEZ3k98kf8czd6EoRM8"
@@ -4742,7 +4778,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 170806,
       "name": "Naked (Take It Off)",
       "url": "https://open.spotify.com/track/7JK1S7nir9iTilzLYnJMun"
@@ -4872,7 +4908,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 111494,
       "name": "no inbetween",
       "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
@@ -5244,7 +5280,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 101668,
       "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
       "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
@@ -5654,7 +5690,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Quit While You're Ahead",
       "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"
@@ -5744,7 +5780,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 202000,
       "name": "re:ARRANGEMENT",
       "url": "https://open.spotify.com/track/13F6tG0As0WV4fSx6WX9NP"
@@ -5878,7 +5914,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/4esmQcHd8M6w7s5SWMMHpM"
@@ -5954,7 +5990,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 114661,
       "name": "see into forever",
       "url": "https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d"
@@ -6562,7 +6598,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 193103,
       "name": "Tell me!!",
       "url": "https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI"

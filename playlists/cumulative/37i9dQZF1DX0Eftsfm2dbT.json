@@ -54539,6 +54539,28 @@
     },
     {
       "album": {
+        "name": "Sagittarius Mixtape",
+        "url": "https://open.spotify.com/album/7IU6R0f4Pqc1ZlDC0ebRDr"
+      },
+      "artists": [
+        {
+          "name": "Lisa lil vinci",
+          "url": "https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH"
+        },
+        {
+          "name": "$ATSUK1 boi",
+          "url": "https://open.spotify.com/artist/2oisa1VxBQp8kFeOfuJWM1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "Umbrella (feat. $ATSUK1 boi)",
+      "url": "https://open.spotify.com/track/2zGzXWRr97ujKkT0TDh2Vh"
+    },
+    {
+      "album": {
         "name": "UMINOMUKOU (feat. XF MENEW & Vanity.K)",
         "url": "https://open.spotify.com/album/1T4tMOGHDozKZ2J8dXJpQw"
       },
@@ -57008,6 +57030,28 @@
       "duration_ms": 137146,
       "name": "We Ready",
       "url": "https://open.spotify.com/track/2rQeXmnhdvT6SxsWYQIenb"
+    },
+    {
+      "album": {
+        "name": "We Rollin'",
+        "url": "https://open.spotify.com/album/0GpAqQx7NVrzlvPRXfEokb"
+      },
+      "artists": [
+        {
+          "name": "Fred Ebb",
+          "url": "https://open.spotify.com/artist/4N7zDn1NflAS95XQJdgiA3"
+        },
+        {
+          "name": "flammable",
+          "url": "https://open.spotify.com/artist/6bt10kBzAUnW3MdycZjHgY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371997,
+      "name": "We Rollin'",
+      "url": "https://open.spotify.com/track/4F4gQUXpPO4CFmtcU3rTtH"
     },
     {
       "album": {

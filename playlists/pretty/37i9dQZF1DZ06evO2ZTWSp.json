@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 474290,
+  "num_followers": 474266,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAtTMPFuaiwsYwUkZMctWBR",
+  "snapshot_id": "atgAgAAAAACCIpjUFh1d36Vvj/dXMBbu",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd Ward Bounce",
-        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
       "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185890,
-      "name": "Karaoke (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+      "duration_ms": 174156,
+      "name": "Happy 2 Be",
+      "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+        "name": "3rd Ward Bounce",
+        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
       "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 174156,
-      "name": "Happy 2 Be",
-      "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
+      "duration_ms": 185890,
+      "name": "Karaoke (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
     },
     {
       "added_at": null,

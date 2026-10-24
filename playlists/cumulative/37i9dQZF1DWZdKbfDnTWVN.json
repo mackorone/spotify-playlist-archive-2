@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=69a76f97f16b49b4\"> Octopizzo</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=362aa1793e964c3a\"> BURUKLYN BOYZ</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194682,
       "name": "Headbad",
       "url": "https://open.spotify.com/track/7C36WScRDN9B2h87LNPtEL"
@@ -8348,7 +8348,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192000,
       "name": "Running Late",
       "url": "https://open.spotify.com/track/77OEOwuTMCp4rLmgGiGF8k"
@@ -8426,6 +8426,24 @@
       "duration_ms": 146312,
       "name": "Same Block",
       "url": "https://open.spotify.com/track/60zaV6JzpG8FXST29MDFMh"
+    },
+    {
+      "album": {
+        "name": "Same Pedi",
+        "url": "https://open.spotify.com/album/7Ft9KGLQrICiAM9SmROYuY"
+      },
+      "artists": [
+        {
+          "name": "Kahu$h",
+          "url": "https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146816,
+      "name": "Same Pedi",
+      "url": "https://open.spotify.com/track/6A7C5ZMfR5z9HDKMkY8kOC"
     },
     {
       "album": {
@@ -11084,6 +11102,24 @@
       "duration_ms": 198400,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/5yJZO7Hrkpw0dYmmfwKJUm"
+    },
+    {
+      "album": {
+        "name": "Welcome to Kanairo",
+        "url": "https://open.spotify.com/album/0Nf9aTwU6dpqhzVs0Sa3yp"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "Welcome to Kanairo",
+      "url": "https://open.spotify.com/track/5JZzQIx71SDZ4YtWXVCru5"
     },
     {
       "album": {

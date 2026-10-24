@@ -8285,6 +8285,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heavens",
+          "url": "https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183296,
+      "name": "Rhoads",
+      "url": "https://open.spotify.com/track/7HoeaXhjgR8M9rd6B6vD9R"
+    },
+    {
+      "album": {
         "name": "Brighter Than Red Water",
         "url": "https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq"
       },

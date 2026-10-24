@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 616961,
+  "num_followers": 617084,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Lavender Fields",
-        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "Lavender Fields",
-      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Liszt: Liebestraum",
         "url": "https://open.spotify.com/album/4YTRRG8LEJs7jYIFK8RC3e"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 272120,
       "name": "Liszt: Liebestr\u00e4ume, S. 541: No. 3 in A-Flat Major, Oh Lieb, so lang du lieben kannst",
       "url": "https://open.spotify.com/track/1lsoLwWEBShib552HKgr2y"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Lavender Fields",
+        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Lavender Fields",
+      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "180\u00b0",
-        "url": "https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs"
-      },
-      "artists": [
-        {
-          "name": "Tony Ann",
-          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
-        }
-      ],
-      "duration_ms": 223793,
-      "name": "VIRGO \u201cThe Perfectionist\u201d",
-      "url": "https://open.spotify.com/track/0AnQvSyfdR5D9XdDQgDWCG"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 259573,
       "name": "Consolation No. 3 in D-Flat Major, S. 172",
       "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "180\u00b0",
+        "url": "https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "duration_ms": 223793,
+      "name": "VIRGO \u201cThe Perfectionist\u201d",
+      "url": "https://open.spotify.com/track/0AnQvSyfdR5D9XdDQgDWCG"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Movement 5 - Pt. 2",
         "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 252920,
       "name": "Movement 5 - Pt. 2 - Instrumental",
       "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 150415,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Make-believe",
-        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Make-believe",
-      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Lacrimosa (Arr. Piano)",
+        "url": "https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "Lacrimosa (Arr. Piano)",
+      "url": "https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Schumann: Myrthen, Op.25 - Version For Cello And Piano, 24. Du bist wie eine Blume",
         "url": "https://open.spotify.com/album/0nNceg0mOYKmxH1p8NhNSK"
       },
@@ -799,42 +819,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Lacrimosa (Arr. Piano)",
-        "url": "https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        },
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "Lacrimosa (Arr. Piano)",
-      "url": "https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
-        }
-      ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
         "url": "https://open.spotify.com/album/2YOdUQDZ9JzCyoxumriUTh"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 78333,
       "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
       "url": "https://open.spotify.com/track/3EjmTzp2JgA1mGLCrjK4JS"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Meditation - Relaxing Classics",
         "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
@@ -1475,26 +1451,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Mishka Rushdie Momen",
-          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "W.f. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1515,6 +1471,50 @@
       "duration_ms": 153800,
       "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
       "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Mishka Rushdie Momen",
+          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2026-09-25 04:01:32",

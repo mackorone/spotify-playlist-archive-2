@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,380 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,386 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 16 | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg) | 2:42 |
 | 17 | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/track/1iteo50Gfd0ppGjlAPlNRH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/album/0LmnQpQW64JbYG6VESRi43) | 1:57 |
 | 18 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |
-| 19 | [Panjaa Titles Theme](https://open.spotify.com/track/0znGOM7mIuYsGgckd99sLh) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Panjaa OST](https://open.spotify.com/album/49Yh0sldV33hnIote5vH5e) | 1:51 |
-| 20 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 |
+| 19 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 |
+| 20 | [Panjaa Titles Theme](https://open.spotify.com/track/0znGOM7mIuYsGgckd99sLh) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Panjaa OST](https://open.spotify.com/album/49Yh0sldV33hnIote5vH5e) | 1:51 |
 | 21 | [Train Station Scene](https://open.spotify.com/track/5HhXKkr32mR7zWqSDlajGy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:52 |
 | 22 | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/640ga7jK6YDPomC5rzmmwx) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/3PPd4ij0aGjshDKmm3MIWd) | 3:10 |
 | 23 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 |

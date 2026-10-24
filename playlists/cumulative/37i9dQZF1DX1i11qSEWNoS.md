@@ -4,7 +4,7 @@
 
 > und macht laune
 
-408 songs - 18 hr 40 min
+409 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Lay All Your Love On Me](https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV) | [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Lay All Your Love On Me](https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz) | 2:29 | 2024-01-05 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-07-21 | 2024-02-02 |
 | [LEBENSLANG \- HBz Remix](https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [LEBENSLANG \(HBz Remix\)](https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq) | 2:50 | 2023-07-21 | 2024-04-19 |
+| [LEBKUCHENHERZ](https://open.spotify.com/track/0QhRLYQ2N3KhkgOu2VfURs) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [LEBKUCHENHERZ](https://open.spotify.com/album/6d8qFx0U6qDU2EvvXTF9MH) | 2:36 | 2026-10-23 |  |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-12-19 |  |
 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 | 2025-04-10 |  |
 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:08 | 2023-10-20 | 2024-04-19 |
@@ -413,7 +414,7 @@
 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-07-21 | 2023-09-04 |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-09-08 |  |
 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 | 2025-04-10 |  |
-| [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-07-21 |  |
+| [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-07-21 | 2026-10-24 |
 | [ZOOM CALL](https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h) | [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [ZOOM CALL](https://open.spotify.com/album/3YghzNFQ9wo5Cc0q5FGdFI) | 1:56 | 2024-12-09 | 2024-12-12 |
 | [Zukunft](https://open.spotify.com/track/0g1joZDeT7BuxCf9bwl1v0) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Zukunft](https://open.spotify.com/album/7Hoyl4pndl16yi099Yecqi) | 2:08 | 2026-03-19 | 2026-06-12 |
 

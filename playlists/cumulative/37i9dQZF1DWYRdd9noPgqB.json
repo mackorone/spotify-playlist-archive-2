@@ -2812,7 +2812,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 197706,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj"
@@ -3768,6 +3768,24 @@
       "duration_ms": 156190,
       "name": "I Love Life (feat. RANI)",
       "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
     },
     {
       "album": {

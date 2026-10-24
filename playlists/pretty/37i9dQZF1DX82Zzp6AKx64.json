@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1243479,
+  "num_followers": 1243538,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
+        "name": "Lap Of Luxury",
+        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 340471,
+      "name": "The Flame",
+      "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Lap Of Luxury",
-        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 340471,
-      "name": "The Flame",
-      "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "url": "https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Take My Breath Away",
         "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 264213,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "url": "https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 308906,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 347760,
-      "name": "Silent Lucidity - Remastered 2003",
-      "url": "https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Harem Scarem",
         "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 242293,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 347760,
+      "name": "Silent Lucidity - Remastered 2003",
+      "url": "https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
         }
       ],
-      "duration_ms": 354636,
-      "name": "Hysteria - Remastered 2017",
-      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
+      "duration_ms": 261000,
+      "name": "If You Needed Somebody",
+      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria - Remastered 2017",
+      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
         "name": "Psychotic Supper",
         "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 435226,
       "name": "What You Give",
       "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "If You Needed Somebody",
-      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Wings Of Tomorrow",
-        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Dirty Rotten Filthy Stinking Rich",
         "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
+        "name": "Wings Of Tomorrow",
+        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 235893,
       "name": "Sleeping (In The Fire)",
       "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 388426,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1099,22 +1115,6 @@
       "duration_ms": 247466,
       "name": "Can't Stop Lovin' You",
       "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 388426,
-      "name": "What It Takes",
-      "url": "https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "XYZ",
-        "url": "https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65"
-      },
-      "artists": [
-        {
-          "name": "XYZ",
-          "url": "https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk"
-        }
-      ],
-      "duration_ms": 282772,
-      "name": "What Keeps Me Loving You",
-      "url": "https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Sin-Decade",
         "url": "https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 298360,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65"
+      },
+      "artists": [
+        {
+          "name": "XYZ",
+          "url": "https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk"
+        }
+      ],
+      "duration_ms": 282772,
+      "name": "What Keeps Me Loving You",
+      "url": "https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Here for You",
-      "url": "https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Cherry Pie (Expanded Edition)",
         "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Black Rain (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 277400,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h"
+        "name": "The Headless Children",
+        "url": "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
         }
       ],
-      "duration_ms": 225173,
-      "name": "When the Smoke Is Going Down - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4H8pOSgzSBkoZmjgZ0fOlf"
+      "duration_ms": 308593,
+      "name": "Forever Free",
+      "url": "https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1"
     }
   ],
   "unique_name": "Rock Power Ballads",

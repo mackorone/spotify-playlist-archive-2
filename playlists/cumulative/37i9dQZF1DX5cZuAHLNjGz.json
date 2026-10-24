@@ -2293,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "Known Unknowns",
+        "url": "https://open.spotify.com/album/0MMY5flz23tDZV1kRs1PgM"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155425,
+      "name": "BREEZY",
+      "url": "https://open.spotify.com/track/7653nDajUiDbQjYorXirUY"
+    },
+    {
+      "album": {
         "name": "Brown Munde",
         "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
       },
@@ -8458,7 +8480,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169591,
       "name": "New Day",
       "url": "https://open.spotify.com/track/4GVP7re4mfKXWzfWxx5n9O"

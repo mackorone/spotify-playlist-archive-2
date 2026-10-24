@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-456 songs - 1 day 2 hr 56 min
+457 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [His Hands](https://open.spotify.com/track/7LdV3FGsMhxBOsbS4lf4ma) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 4:15 | 2024-02-27 |  |
 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 | 2024-02-27 |  |
 | [hole in the bottle](https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:35 | 2024-02-27 |  |
+| [Honeysuckle](https://open.spotify.com/track/2s5JI1spg0ZBP9kWgi6YgV) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:18 | 2026-10-23 |  |
 | [Hot Concrete](https://open.spotify.com/track/7IouEbgLhlP7tWw3eED4UT) | [Drunken Immortals](https://open.spotify.com/artist/2sQNxKrfy0k3fjHLJLJLbH) | [Hot Concrete](https://open.spotify.com/album/26vKfIBehbY1N3s57ouyRD) | 4:14 | 2024-02-27 |  |
 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/0XceOz98G0knax82kA2BTw) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 2:55 | 2024-07-10 |  |
 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/4RAOUBiN5RDNcCkpKnuilW) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 2:55 | 2024-02-27 | 2024-07-11 |

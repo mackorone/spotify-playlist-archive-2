@@ -1,13 +1,65 @@
 {
   "description": "The latest, greatest cinematic soundtracks from the big and small screen.",
-  "num_followers": 333621,
+  "num_followers": 333822,
   "original_name": "New Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/cQ4h7AzVND3Lf324IicuFm/IY",
+  "snapshot_id": "AAAAAOcA7YBcTrmUH0/CKVW1LMqui9Sx",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:01:03",
+      "album": {
+        "name": "Lupin: Part 4 (Bande originale de la s\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/3Y47fYBf3Z5NGDVfxvXdU1"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Lamboley",
+          "url": "https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45"
+        }
+      ],
+      "duration_ms": 120024,
+      "name": "Lupin Is Back",
+      "url": "https://open.spotify.com/track/1C2ZBpQXYa8Y1SGI0Ctw4K"
+    },
+    {
+      "added_at": "2026-10-23 04:01:03",
+      "album": {
+        "name": "Wildwood: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        }
+      ],
+      "duration_ms": 149810,
+      "name": "Time To Go Back",
+      "url": "https://open.spotify.com/track/1M8ERYugvHiBSAm79GnzMI"
+    },
+    {
+      "added_at": "2026-10-23 04:01:03",
+      "album": {
+        "name": "Ayashure's Theme (from \"Rock Bottom\")",
+        "url": "https://open.spotify.com/album/6VsWDgcvPmzE4Pauah1UBz"
+      },
+      "artists": [
+        {
+          "name": "Diego Navarro",
+          "url": "https://open.spotify.com/artist/0p9XfFX7kgFKZ7rDC9OSKy"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "duration_ms": 212568,
+      "name": "Ayashure's Theme (from \"Rock Bottom\")",
+      "url": "https://open.spotify.com/track/4BwCZBss80Hpi6WrOYWeyi"
+    },
     {
       "added_at": "2026-10-16 04:00:09",
       "album": {

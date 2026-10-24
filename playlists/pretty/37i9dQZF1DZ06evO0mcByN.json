@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 7071,
+  "num_followers": 7072,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAD3QqlOmjF5kf/MJnlJYq5d",
+  "snapshot_id": "atgAgAAAAADLYCLAwD6OShJpezwLxv0s",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
+        "name": "Ele Continua Sendo Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
       },
       "artists": [
         {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        },
+        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
+      "duration_ms": 454867,
+      "name": "Ele Continua Sendo Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
     },
     {
       "added_at": null,
@@ -511,26 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Continua Sendo Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
       },
       "artists": [
         {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        },
-        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 454867,
-      "name": "Ele Continua Sendo Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
     },
     {
       "added_at": null,
@@ -651,26 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 393986,
-      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
+      "duration_ms": 309636,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
     },
     {
       "added_at": null,
@@ -716,45 +708,53 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 293026,
-      "name": "Fogo e Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
+      "duration_ms": 230386,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vazio",
-        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
+        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 309636,
-      "name": "Vazio",
-      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+      "duration_ms": 393986,
+      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Grito Aflito",
-        "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
       },
       "artists": [
         {
-          "name": "Rayssa Peres",
-          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         },
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 280117,
-      "name": "Grito Aflito",
-      "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
+      "duration_ms": 280615,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
     },
     {
       "added_at": null,
@@ -784,9 +784,29 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
+      "duration_ms": 293026,
+      "name": "Fogo e Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grito Aflito",
+        "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
+      },
+      "artists": [
+        {
+          "name": "Rayssa Peres",
+          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 280117,
+      "name": "Grito Aflito",
+      "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
       "duration_ms": 241874,
       "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
       "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 280615,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
     },
     {
       "added_at": null,

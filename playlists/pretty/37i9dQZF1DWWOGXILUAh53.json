@@ -1,13 +1,149 @@
 {
-  "description": "The hottest new pop with all the drops. Please uplift Tinashe.\n",
-  "num_followers": 458485,
+  "description": "The hottest new pop with all the drops. Cover: Jazzy\n",
+  "num_followers": 459216,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKN0FdYa1OtQ8hVoapvf94EWoJWJ",
+  "snapshot_id": "AAAAACwSFNXJba1E4n0DaVC7mx0ucwJD",
   "tracks": [
+    {
+      "added_at": "2026-10-23 19:56:26",
+      "album": {
+        "name": "Peace & Patience",
+        "url": "https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 209723,
+      "name": "Peace & Patience",
+      "url": "https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"
+    },
+    {
+      "added_at": "2026-10-23 19:56:26",
+      "album": {
+        "name": "Levi Did It",
+        "url": "https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 192704,
+      "name": "Back To The Start",
+      "url": "https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh"
+    },
+    {
+      "added_at": "2026-10-23 19:56:26",
+      "album": {
+        "name": "REVELATIONS",
+        "url": "https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 194014,
+      "name": "Dance Till I Die",
+      "url": "https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH"
+    },
+    {
+      "added_at": "2026-10-23 19:56:26",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/2d0ZL2C2YAUWejedK1dgBU"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2"
+    },
+    {
+      "added_at": "2026-10-23 19:56:26",
+      "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/25JdKC9G8UodEfjLFZUdlP"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "T\u00c4RA",
+          "url": "https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q"
+        }
+      ],
+      "duration_ms": 192404,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/3OfzppfFlwPuHvFjsTe6d1"
+    },
+    {
+      "added_at": "2026-10-23 19:56:26",
+      "album": {
+        "name": "4 Dear Life",
+        "url": "https://open.spotify.com/album/3dQ53LVCduqD4PZHMju80i"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "duration_ms": 236628,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/5qOFirGHlFXnfLc7r6pCSV"
+    },
+    {
+      "added_at": "2026-10-23 19:56:26",
+      "album": {
+        "name": "Here & Now",
+        "url": "https://open.spotify.com/album/6yKgh9BzC2EKFkBPOS5qy7"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Maria Hazell",
+          "url": "https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ"
+        }
+      ],
+      "duration_ms": 211900,
+      "name": "Here & Now",
+      "url": "https://open.spotify.com/track/5r51JWgvnz3E3MT06adcCw"
+    },
     {
       "added_at": "2026-10-09 04:02:23",
       "album": {
@@ -1723,142 +1859,6 @@
       "duration_ms": 146739,
       "name": "FIANCHI",
       "url": "https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Know U",
-        "url": "https://open.spotify.com/album/7lSUo43H1gOjD28zjGVPjX"
-      },
-      "artists": [
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 202388,
-      "name": "Know U",
-      "url": "https://open.spotify.com/track/0WVONyugDaPNyVfPQLILW0"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7igfzfElmtfpUYUeNVngSr"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
-          "name": "Dony",
-          "url": "https://open.spotify.com/artist/2vwh0HUGUXwQAha9E4NiI0"
-        }
-      ],
-      "duration_ms": 133840,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/7MKIb9fIg1P7iPBqN0Qqdd"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Bulletproof (This Time Baby) [feat. La Roux]",
-        "url": "https://open.spotify.com/album/6BlDeDwHOmkE6PerQJE1yV"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 158207,
-      "name": "Bulletproof (This Time Baby) [feat. La Roux]",
-      "url": "https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Say Yea (feat. Amira Eldine)",
-        "url": "https://open.spotify.com/album/3c0uU6xEkAC44eIgSRbJFG"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Amira Eldine",
-          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "Say Yea (feat. Amira Eldine)",
-      "url": "https://open.spotify.com/track/5AQDvtN8uwUIpEKS2znReK"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/5po8JSgrfUUMcc6r9lLawl"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "River",
-      "url": "https://open.spotify.com/track/7A9QFSxkFvs2rznGBwhM6M"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "SAWA",
-        "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
-      },
-      "artists": [
-        {
-          "name": "AYA",
-          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 220527,
-      "name": "SAWA",
-      "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263767,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
     }
   ],
   "unique_name": "New Dance Pop",

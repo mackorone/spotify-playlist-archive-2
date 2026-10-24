@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,387 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,386 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 31 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:39 |
 | 32 | [SMOKE HOUR ★ WILLIE NELSON](https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 0:50 |
 | 33 | [Me and Paul](https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Yesterday's Wine](https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf) | 3:49 |
-| 34 | [Crazy](https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:03 |
-| 35 | [Eu Só Penso em Você \(Always On My Mind\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Zezé Di Camargo & Luciano 1993](https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3) | 3:49 |
+| 34 | [Eu Só Penso em Você \(Always On My Mind\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Zezé Di Camargo & Luciano 1993](https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3) | 3:49 |
+| 35 | [Crazy](https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:03 |
 | 36 | [Cruel World](https://open.spotify.com/track/166Dyvfibu4SOygA4vub85) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:28 |
 | 37 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
 | 38 | [Juanita \(feat\. Willie Nelson\)](https://open.spotify.com/track/2FA1Xr6ta3X1KkLOaQoDAq) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/1DQToqPJhrQTpCeZV8o2ru) | 3:40 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 46 | [Stay All Night \(Stay a Little Longer\)](https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:34 |
 | 47 | [Homegrown](https://open.spotify.com/track/53fmxQxjwpPvmPHVtZjSJI) | [Mishka](https://open.spotify.com/artist/69NJDQCAGapYsKD2JuqQk5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Talk About](https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT) | 3:31 |
 | 48 | [Mind Your Own Business](https://open.spotify.com/track/4raGevWiW8i1gactXulebp) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [A Country Boy Can Survive \(Box Set\)](https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm) | 2:28 |
-| 49 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:27 |
-| 50 | [Nothing I Can Do About It Now](https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Horse Called Music](https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf) | 3:19 |
+| 49 | [Nothing I Can Do About It Now](https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Horse Called Music](https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf) | 3:19 |
+| 50 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:27 |
 
-Snapshot ID: `atavAAAAAACU5VhK2Fk4+NaST0OuEvMy`
+Snapshot ID: `atgAgAAAAACZC6YgoLFjQZBXnjf0E5jK`

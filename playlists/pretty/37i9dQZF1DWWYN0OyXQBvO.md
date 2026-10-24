@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,932 likes - 114 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,979 likes - 114 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 | 59 | [Henry](https://open.spotify.com/track/4KGzQ3ouumNsdVs0O1w9vc) | [The Jet Tones](https://open.spotify.com/artist/5gmc34qpOFtZug3iMqTLdV) | [Rural Rockin Hicks](https://open.spotify.com/album/2uRrTls5t9sbwmYbX3UPqF) | 2:06 |
 | 60 | [I Can Dream, Can't I? \- 1949 Single Version](https://open.spotify.com/track/4oP8eYnsSKJPC4VNfPB7dZ) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Gordon Jenkins & His Orchestra](https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU) | [50th Anniversary Collection \(Vol\. 1\)](https://open.spotify.com/album/2qM7vNGo3fHaMzRRagKHTK) | 2:40 |
 | 61 | [We'll Meet Again](https://open.spotify.com/track/5EQfcSb929cWIeLJPIZoby) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:11 |
-| 62 | [Battle Hymn of the Republic](https://open.spotify.com/track/4ulHm2QEjdr4EkuFQ2rP9h) | [William Steffe](https://open.spotify.com/artist/4aYSN4eVF8vwPTpuWF4Jjs), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [The Mormon Tabernacle Choir's Greatest Hits \- 22 Best\-Loved Favorites](https://open.spotify.com/album/7nkLoEl8c6s8Jd6I4WK5kz) | 4:44 |
+| 62 | [Battle Hymn of the Republic](https://open.spotify.com/track/4ulHm2QEjdr4EkuFQ2rP9h) | [William Steffe](https://open.spotify.com/artist/4aYSN4eVF8vwPTpuWF4Jjs), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [The Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [The Mormon Tabernacle Choir's Greatest Hits \- 22 Best\-Loved Favorites](https://open.spotify.com/album/7nkLoEl8c6s8Jd6I4WK5kz) | 4:44 |
 | 63 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
 | 64 | [What a Difference a Day Makes](https://open.spotify.com/track/4GUvOaJiYlvFTKXDEg3QR6) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington \- The Great American Songbook](https://open.spotify.com/album/3zoDLuBtILNMGV555HHSu1) | 2:32 |
 | 65 | [It's Just A Matter Of Time](https://open.spotify.com/track/1v31Ib9Yzpc9buzF5wNvfE) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Super Hits](https://open.spotify.com/album/0CEcJlidQ3WY4sjVhDBxnh) | 2:28 |

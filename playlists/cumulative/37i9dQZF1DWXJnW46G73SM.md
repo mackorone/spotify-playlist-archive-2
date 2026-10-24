@@ -4,7 +4,7 @@
 
 > شجّع المنتَج المحلي\. الغلاف: عمر
 
-1,837 songs - 4 day 5 hr 37 min
+1,838 songs - 4 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,6 +788,7 @@
 | [Mawkef Da’af](https://open.spotify.com/track/1IYbo7etxraFnbLaBNufRb) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Mawkef Da’af](https://open.spotify.com/album/4dLSVm96Uzw4veUMnvNzUr) | 3:50 | 2022-08-08 | 2022-10-27 |
 | [Maystahelsh](https://open.spotify.com/track/3io0IKZUAuHS11n9iAKSMx) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Maystahelsh](https://open.spotify.com/album/50A9VCNn74bi8oyj8SOTic) | 3:36 | 2023-09-22 | 2023-12-30 |
 | [Mazagangy](https://open.spotify.com/track/0DaI5tYfY8JacqHGU13jeO) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Mazagangy](https://open.spotify.com/album/5HaxcIPl2gGqQn4Okt1IsS) | 2:53 | 2022-09-29 | 2022-12-27 |
+| [MB2OLSH KHALES ANA](https://open.spotify.com/track/5Jeh16byZJy789deUgWdAy) | [BO5A The Investment](https://open.spotify.com/artist/1e6aRgj776jbM38Wl0CtX6), [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX), [El Ameer](https://open.spotify.com/artist/6PMDaq9FhsP82GK9FujCYh) | [MB2OLSH KHALES ANA](https://open.spotify.com/album/2iXZTGXhCaPpdzRgMbhmQn) | 2:11 | 2026-10-22 |  |
 | [Meen Et3allem Bebalash](https://open.spotify.com/track/6RwlInFRtVO7eFjaBytGz7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:07 | 2022-01-27 | 2022-04-23 |
 | [Meen Fina](https://open.spotify.com/track/6FqEHIYX1qr4jnuWM2RPfQ) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Meen Fina](https://open.spotify.com/album/5H6AlUF2pitgzZZxK7ip7e) | 3:24 | 2026-01-15 | 2026-05-07 |
 | [Meen Kan Sabab](https://open.spotify.com/track/5v9jwJsiS768F1YgNtUg1W) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Meen Kan Sabab](https://open.spotify.com/album/5GfHGQ6L6QN4PEL3pwtAPK) | 4:28 | 2022-06-05 | 2022-09-02 |

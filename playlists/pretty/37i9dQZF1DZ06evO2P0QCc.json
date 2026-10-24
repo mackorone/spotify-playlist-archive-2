@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 127035,
+  "num_followers": 127065,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABPo4Dmo1WuytN0oeOITmdV",
+  "snapshot_id": "atgAgAAAAACNgFJetsujdEm2QDheUYEb",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 255373,
-      "name": "Por \u00daltima Vez",
-      "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
+      "duration_ms": 226760,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
+      "duration_ms": 255373,
+      "name": "Por \u00daltima Vez",
+      "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Serpientes Y Escaleras",
+      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A la Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/5jk2mKBw1wNaDuCHy0lwvz"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 186613,
       "name": "Tengo un Amor",
       "url": "https://open.spotify.com/track/7F0iPNyf2Zmxmu7r220B5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Serpientes Y Escaleras",
-      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 230207,
-      "name": "Deja Ya de Mentir",
-      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 224666,
       "name": "Grita",
       "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 230207,
+      "name": "Deja Ya de Mentir",
+      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
     },
     {
       "added_at": null,

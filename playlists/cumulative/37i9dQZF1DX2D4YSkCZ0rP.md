@@ -4,7 +4,7 @@
 
 > La playlist des artistes LGBTQIA+\. Photo : Piche
 
-143 songs - 7 hr 26 min
+143 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 | 2026-07-13 |  |
 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 | 2026-06-07 |  |
 | [Je t'accuse](https://open.spotify.com/track/4QPBfQaSKEw56Vvo0i2XsL) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Je t'accuse](https://open.spotify.com/album/5AV57sv3V86WhdZhUTrdEh) | 2:49 | 2025-05-26 | 2026-06-08 |
+| [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 | 2026-10-22 |  |
 | [LA FÊTE](https://open.spotify.com/track/18xjZqxbgxxhQTqhUTAlYT) | [Barbara Butch](https://open.spotify.com/artist/2XCkEQ4EJWc27RHEr6pONs) | [LA FÊTE](https://open.spotify.com/album/5ZAtFP3eAW3s1UKZlcSS2Y) | 3:03 | 2026-06-07 | 2026-06-22 |
 | [La question](https://open.spotify.com/track/2aCsRORqGZawWKz6wop7uX) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [La question](https://open.spotify.com/album/6Tbm0pq7D5wJn0fAtSouZv) | 2:48 | 2025-05-26 | 2026-06-08 |
 | [Le temps fera les choses](https://open.spotify.com/track/3VnkGuyau3qb04MVxSNjnl) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64) | 2:58 | 2024-06-04 | 2025-05-27 |
@@ -141,7 +142,6 @@
 | [To the Wilder](https://open.spotify.com/track/5xjkxF6sKG9ANZuicTXWVm) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [WOODKID FOR DEATH STRANDING 2: ON THE BEACH](https://open.spotify.com/album/11Bzc0HtyaDwu6bT07poOx) | 4:39 | 2026-06-07 |  |
 | [tomboy](https://open.spotify.com/track/3pPsdOe3092wtNpjnJcuDN) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [tomboy](https://open.spotify.com/album/4BTQn9tntmR8ZubxMsUWow) | 3:14 | 2026-09-13 | 2026-10-23 |
 | [Too Much](https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 3:03 | 2024-06-04 | 2025-05-27 |
-| [Track 5](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 0:00 | 2026-10-22 |  |
 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 | 2024-10-18 | 2025-05-27 |
 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 | 2026-08-30 | 2026-10-03 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2024-06-04 | 2026-06-08 |

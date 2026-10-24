@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 100598,
+  "num_followers": 100608,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 163275,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 163275,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 199703,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 239133,
       "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 199703,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Save a Prayer - Single Version",
+      "url": "https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
         "name": "Tuneweaving",
         "url": "https://open.spotify.com/album/3mrqSIFeycc3CccoaHR0Tq"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Save a Prayer - Single Version",
-      "url": "https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -823,6 +807,22 @@
       "duration_ms": 233240,
       "name": "Up Where We Belong",
       "url": "https://open.spotify.com/track/5NoUgO4Kr93QymQGQlBC7b"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 356560,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "The Stars We Are",
         "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 280488,
       "name": "Something's Gotten Hold of My Heart",
       "url": "https://open.spotify.com/track/68O1r5xQADu0JjvBibg9zN"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 356560,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
     },
     {
       "added_at": "2024-03-26 13:49:34",

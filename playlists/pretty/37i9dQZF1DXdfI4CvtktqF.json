@@ -1,13 +1,157 @@
 {
-  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: atom chanakan, D Gerrard",
-  "num_followers": 7769,
+  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GOODMOOD",
+  "num_followers": 7780,
   "original_name": "\u0e09\u0e31\u0e19\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e17\u0e22",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0WOzNshZxeib2h4bGGvHuuT8W4",
+  "snapshot_id": "AAAAAOqtj1PTrVSpifxQ02hJyN2DKV96",
   "tracks": [
+    {
+      "added_at": "2026-09-25 12:20:20",
+      "album": {
+        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "duration_ms": 261785,
+      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+      "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
+    },
+    {
+      "added_at": "2026-10-23 13:21:21",
+      "album": {
+        "name": "IN MY ROOM SESSION",
+        "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e01\u0e47\u0e1e\u0e2d (Jealous)",
+      "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
+    },
+    {
+      "added_at": "2026-09-25 12:20:20",
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
+        "url": "https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "duration_ms": 239770,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
+      "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
+    },
+    {
+      "added_at": "2026-10-23 13:21:21",
+      "album": {
+        "name": "\u0e42\u0e1b\u0e23\u0e14\u0e23\u0e31\u0e1a\u0e2a\u0e32\u0e22 (More Kiss)",
+        "url": "https://open.spotify.com/album/47nyxjKz5XHvRvupAVQ5Yf"
+      },
+      "artists": [
+        {
+          "name": "GOODMOOD",
+          "url": "https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ"
+        }
+      ],
+      "duration_ms": 273210,
+      "name": "\u0e42\u0e1b\u0e23\u0e14\u0e23\u0e31\u0e1a\u0e2a\u0e32\u0e22 (More Kiss)",
+      "url": "https://open.spotify.com/track/1jOReOmNY5yKw85ZTEKDZ2"
+    },
+    {
+      "added_at": "2026-09-25 12:20:20",
+      "album": {
+        "name": "Yours Ever",
+        "url": "https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        },
+        {
+          "name": "Q Flure",
+          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
+        }
+      ],
+      "duration_ms": 259380,
+      "name": "Yours Ever (feat. Q Flure)",
+      "url": "https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj"
+    },
+    {
+      "added_at": "2026-10-23 13:21:21",
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm"
+    },
+    {
+      "added_at": "2026-09-25 12:20:20",
+      "album": {
+        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
+    },
+    {
+      "added_at": "2026-10-23 13:21:21",
+      "album": {
+        "name": "\u0e02\u0e49\u0e32\u0e07\u0e46\u0e01\u0e31\u0e19 (I'm yours)",
+        "url": "https://open.spotify.com/album/3wBCFN2gQexfJ1FjLBBtKg"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "3RD",
+          "url": "https://open.spotify.com/artist/5qJLw5CkzwZqtr3fP0IrLU"
+        }
+      ],
+      "duration_ms": 222028,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e46\u0e01\u0e31\u0e19 (I'm yours)",
+      "url": "https://open.spotify.com/track/52y8d1DKe4VunBDTyN4P9O"
+    },
     {
       "added_at": "2026-09-25 12:20:20",
       "album": {
@@ -25,20 +169,40 @@
       "url": "https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs"
     },
     {
-      "added_at": "2026-09-25 12:20:20",
+      "added_at": "2026-10-23 13:21:21",
       "album": {
-        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+        "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
+        "url": "https://open.spotify.com/album/7gbhdy8uyq1zThUAKVTYM8"
       },
       "artists": [
         {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        },
+        {
+          "name": "Girly Berry",
+          "url": "https://open.spotify.com/artist/01HDNDrV3oXyU78MNW4qrZ"
         }
       ],
-      "duration_ms": 255466,
-      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
+      "duration_ms": 171262,
+      "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
+      "url": "https://open.spotify.com/track/3NoLOb2z1kWZCNNQDO9eE3"
+    },
+    {
+      "added_at": "2026-09-25 12:20:20",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
+        "url": "https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
+      "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
     },
     {
       "added_at": "2026-09-25 12:20:20",
@@ -63,26 +227,6 @@
     {
       "added_at": "2026-09-25 12:20:20",
       "album": {
-        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
-        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        },
-        {
-          "name": "BLVCKHEART",
-          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
-        }
-      ],
-      "duration_ms": 261785,
-      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
-      "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
         "name": "\u0e15\u0e38\u0e4b\u0e22\u0e14\u0e38\u0e4b\u0e22 (LOSER)",
         "url": "https://open.spotify.com/album/4NSmWN0cxOSViq5ZejIADA"
       },
@@ -95,22 +239,6 @@
       "duration_ms": 252000,
       "name": "\u0e15\u0e38\u0e4b\u0e22\u0e14\u0e38\u0e4b\u0e22 (LOSER)",
       "url": "https://open.spotify.com/track/7yjcs9C5m0nRVfc6D2xAJG"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
-        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
-        "url": "https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm"
-      },
-      "artists": [
-        {
-          "name": "FREEHAND",
-          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
-        }
-      ],
-      "duration_ms": 239770,
-      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
-      "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
     },
     {
       "added_at": "2026-09-25 12:20:20",
@@ -131,22 +259,6 @@
     {
       "added_at": "2026-09-25 12:20:20",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
-        "url": "https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
-      "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e19\u0e25\u0e33\u0e1e\u0e31\u0e07",
         "url": "https://open.spotify.com/album/0myDA3wNrNcUX12Q9AtMql"
       },
@@ -163,46 +275,6 @@
     {
       "added_at": "2026-09-25 12:20:20",
       "album": {
-        "name": "Yours Ever",
-        "url": "https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        },
-        {
-          "name": "Q Flure",
-          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
-        }
-      ],
-      "duration_ms": 259380,
-      "name": "Yours Ever (feat. Q Flure)",
-      "url": "https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
-        "name": "\u0e2a\u0e31\u0e1a\u0e2a\u0e19\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (Outside)",
-        "url": "https://open.spotify.com/album/7fMeFr2iSTbzsvd4IgleRe"
-      },
-      "artists": [
-        {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
-        },
-        {
-          "name": "SCRUBB",
-          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
-        }
-      ],
-      "duration_ms": 200673,
-      "name": "\u0e2a\u0e31\u0e1a\u0e2a\u0e19\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (Outside)",
-      "url": "https://open.spotify.com/track/4OiVtlt4R0lxyvOUYk4FEs"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
         "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e42\u0e14\u0e22\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c",
         "url": "https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB"
       },
@@ -215,22 +287,6 @@
       "duration_ms": 206416,
       "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e42\u0e14\u0e22\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c",
       "url": "https://open.spotify.com/track/6SAcZT7H44417uxybshTEy"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
-        "name": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/3R3jLpnRRFQVmAm6hTwJ3N"
-      },
-      "artists": [
-        {
-          "name": "SOK",
-          "url": "https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa"
-        }
-      ],
-      "duration_ms": 326413,
-      "name": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/2paY7mj6P33pglb6KnkCcN"
     },
     {
       "added_at": "2026-09-25 12:20:20",
@@ -351,22 +407,6 @@
       "duration_ms": 271500,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
-        "name": "Your Candy",
-        "url": "https://open.spotify.com/album/2dnW7kR5DcFm6rjJmGmbBg"
-      },
-      "artists": [
-        {
-          "name": "PP KRIT",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Your Candy",
-      "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
     },
     {
       "added_at": "2026-09-25 12:20:20",
@@ -575,30 +615,6 @@
       "duration_ms": 196187,
       "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
       "url": "https://open.spotify.com/track/1x0rPOZKfNKkfWETw4nB6K"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
-        "name": "Yours Ever",
-        "url": "https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        },
-        {
-          "name": "\u0e15\u0e39\u0e19 BODYSLAM",
-          "url": "https://open.spotify.com/artist/4fJPoRaV3IZGDVFIMQ3EWw"
-        },
-        {
-          "name": "\u0e1b\u0e31\u0e4a\u0e1a Potato",
-          "url": "https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e32\u0e14\u0e2b\u0e27\u0e31\u0e07 (feat. \u0e15\u0e39\u0e19 BODYSLAM, \u0e1b\u0e31\u0e4a\u0e1a Potato)",
-      "url": "https://open.spotify.com/track/3Vkzgf11Ubecqccu8Wxu8w"
     },
     {
       "added_at": "2026-09-25 12:20:20",
@@ -819,22 +835,6 @@
       "duration_ms": 255000,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3wpyleeYFfRIiYByecGeUW"
-    },
-    {
-      "added_at": "2026-09-25 12:20:20",
-      "album": {
-        "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K"
-      },
-      "artists": [
-        {
-          "name": "Z9",
-          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "\u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ"
     },
     {
       "added_at": "2026-09-25 12:20:20",

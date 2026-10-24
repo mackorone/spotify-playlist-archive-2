@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "\ud83c\udfa7 Focus Pop Study Grooves \ud83e\udde0. Unlock peak focus &amp; mental clarity with Chill Pop. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration. Feat. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop. Updated weekly. Follow for a steady stream of focus-boosting tunes!",
+  "description": "\ud83c\udfa7 Focus Pop Study Grooves \ud83e\udde0. Unlock peak focus &amp; mental clarity with Chill Pop. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration. Feat. Miley, Olivia Rodrigo, beabadoobee &amp; rising indie pop. Updated weekly. Follow for a steady stream of focus-boosting tunes",
   "name": "Pop Focus | Pop Music for ADHD, Studying, Stress, and Anxiety",
   "tracks": [
     {
@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Cold Blooded (Demo) [from the Netflix Series \"Nobody Wants This\" Season 3]",
+        "url": "https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "Cold Blooded (Demo) - from the Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv"
+    },
+    {
+      "album": {
         "name": "Coldest Century",
         "url": "https://open.spotify.com/album/6d7204FVeZNf0qZlNLwDd1"
       },
@@ -1508,6 +1526,28 @@
       "duration_ms": 146368,
       "name": "Defense of Love - Acoustic",
       "url": "https://open.spotify.com/track/1NxJKfnHThLdKBEEyI6Z6k"
+    },
+    {
+      "album": {
+        "name": "Delancey - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4pouK9bZUD1LIXM93pwt5k"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214314,
+      "name": "Delancey - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5v6RnBRbxVxdn9DTRX06Gk"
     },
     {
       "album": {

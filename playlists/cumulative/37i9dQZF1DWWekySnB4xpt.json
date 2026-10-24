@@ -169,6 +169,36 @@
     },
     {
       "album": {
+        "name": "ALGO BONITO",
+        "url": "https://open.spotify.com/album/78HHvnXbImnvQsX7I85NpI"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "eudis",
+          "url": "https://open.spotify.com/artist/3LtTqYfIFVNqhnUOaP4ZAT"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "ALGO BONITO",
+      "url": "https://open.spotify.com/track/7HAef7prVzrDU0DQGwPbgW"
+    },
+    {
+      "album": {
         "name": "Plomo Revienta",
         "url": "https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc"
       },
@@ -548,6 +578,24 @@
       "duration_ms": 187428,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL"
+    },
+    {
+      "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
     },
     {
       "album": {
@@ -1822,7 +1870,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 215439,
       "name": "Espero Que Seas Feliz",
       "url": "https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p"
@@ -1996,7 +2044,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 144423,
       "name": "Himno Nacional",
       "url": "https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd"
@@ -3758,7 +3806,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 160645,
       "name": "T O M A !",
       "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
@@ -4114,6 +4162,24 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1"
+    },
+    {
+      "album": {
+        "name": "Un 20",
+        "url": "https://open.spotify.com/album/2SN3HjYZTIy7z9lGl6jXh3"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145142,
+      "name": "Un 20",
+      "url": "https://open.spotify.com/track/1QD1FpnOJRwXud3jJuSjcZ"
     },
     {
       "album": {

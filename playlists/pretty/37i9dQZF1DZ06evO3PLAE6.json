@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 12018,
+  "num_followers": 12020,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADmwg2sPQWtCCfO147AjngS",
+  "snapshot_id": "atgAgAAAAAAOrdV3VpwIRz2wIy+riEB4",
   "tracks": [
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
-        "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
-      },
-      "artists": [
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 142688,
-      "name": "When We\u2019re Both Old & Mad",
-      "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 178200,
       "name": "The Divorce Song",
       "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
+        "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 142688,
+      "name": "When We\u2019re Both Old & Mad",
+      "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 864678,
+  "num_followers": 864722,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADmNd093Oo6dSSPAeIdnh2U",
+  "snapshot_id": "atgAgAAAAAB7m+bRWDcVdoCitYQWbZsc",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 266426,
-      "name": "Yo Nac\u00ed para Amarte",
-      "url": "https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piel De Ni\u00f1a",
         "url": "https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 125200,
       "name": "Cascos Ligeros",
       "url": "https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "Yo Nac\u00ed para Amarte",
+      "url": "https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ"
     },
     {
       "added_at": null,

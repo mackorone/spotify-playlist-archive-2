@@ -2727,6 +2727,28 @@
     },
     {
       "album": {
+        "name": "Daddy Daddy",
+        "url": "https://open.spotify.com/album/0kS3UiWkW6JLRdsrm3FoAm"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "Sound Of Salem",
+          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180036,
+      "name": "Daddy Daddy",
+      "url": "https://open.spotify.com/track/4DPK7ei1j8yglj2trKZKRt"
+    },
+    {
+      "album": {
         "name": "Daily",
         "url": "https://open.spotify.com/album/7k0hyp9g3BTqxhtr5QMr9u"
       },
@@ -10862,7 +10884,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
@@ -11438,7 +11460,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 193658,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
@@ -12344,6 +12366,28 @@
       "duration_ms": 267873,
       "name": "Thank you Jesus - Refix",
       "url": "https://open.spotify.com/track/1aZpLeU19W5QrBZ9CxpN9l"
+    },
+    {
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
+      },
+      "artists": [
+        {
+          "name": "Eno Michael",
+          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291235,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
       "album": {

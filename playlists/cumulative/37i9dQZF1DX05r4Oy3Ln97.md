@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-537 songs - 1 day 4 hr 34 min
+538 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-07-09 | 2026-05-16 |
 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 | 2022-08-05 | 2024-06-13 |
 | [One More Night](https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [One More Night](https://open.spotify.com/album/437pHGBe6cnnxyEdZrbMvo) | 2:37 | 2021-10-29 | 2022-03-22 |
-| [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 | 2026-05-15 |  |
+| [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 | 2026-05-15 | 2026-10-24 |
 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 | 2025-05-30 | 2026-01-15 |
 | [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-03-05 | 2025-05-29 |
 | [Opened Up My Soul](https://open.spotify.com/track/5ECDg47YFFUqFbyhoQdLtV) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Opened Up My Soul](https://open.spotify.com/album/3HlS6pRxpCD6PoLvTsJ2Lu) | 2:20 | 2024-06-07 | 2025-02-15 |
@@ -428,6 +428,7 @@
 | [Starz \- Original Mix](https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Déepalma Ibiza 2023 \- 10th Anniversary](https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs) | 6:17 | 2023-06-30 | 2023-07-14 |
 | [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR) | 2:45 | 2025-04-04 | 2026-07-04 |
 | [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-05-05 | 2023-05-13 |
+| [Stay Cool](https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Smiling Through The Pain 3](https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6) | 2:39 | 2026-10-16 |  |
 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 | 2024-03-15 | 2025-02-15 |
 | [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 | 2025-03-21 | 2025-05-31 |
 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES) | 2:25 | 2025-06-02 |  |

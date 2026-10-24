@@ -4,7 +4,7 @@
 
 > It's all about the song 🎧 cover: Méav
 
-1,075 songs - 2 day 12 hr 25 min
+1,075 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Forever Right Now](https://open.spotify.com/track/0pjTGFaKhQ7X5JEp1YbN28) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Forever Right Now](https://open.spotify.com/album/5ALkxykxvvDD3oB2OUQvYp) | 2:32 | 2026-07-03 | 2026-09-18 |
 | [Forget About Dying](https://open.spotify.com/track/1lvYKAbExBkmc79NQtzTHh) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Forget About Dying](https://open.spotify.com/album/3AAoNXTUzdYYLJxUYNwu0z) | 4:06 | 2026-06-11 | 2026-08-14 |
 | [Forgive Me](https://open.spotify.com/track/6IKCMumLb0Cnx7hGv3YEHV) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Forgive Me](https://open.spotify.com/album/2UuKqZGjqAE7ZkGaeeYm6y) | 3:06 | 2025-04-24 | 2025-06-13 |
+| [Fortuna](https://open.spotify.com/track/0WdTgNaOkg6ECF2C8id4ug) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Wishbone](https://open.spotify.com/album/74G6slUrSojF3P2S9WTHjW) | 3:44 | 2026-10-23 |  |
 | [Fragments](https://open.spotify.com/track/5U6sbkexYOvmOkhIYaprrP) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Fragments](https://open.spotify.com/album/02LoGnwNdQjewONsLrM0YN) | 3:31 | 2026-02-13 | 2026-04-17 |
 | [Freddy](https://open.spotify.com/track/01cwWBHBXy5OJQMZW3wtKy) | [Joely June](https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j) | [My Love Has No End](https://open.spotify.com/album/59p9slhimXhMV7xNlK5sU8) | 3:26 | 2026-02-06 | 2026-04-10 |
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-25 | 2025-03-14 |
@@ -961,7 +962,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 | 2026-04-17 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
-| [Track 1](https://open.spotify.com/track/0WdTgNaOkg6ECF2C8id4ug) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Wishbone](https://open.spotify.com/album/74G6slUrSojF3P2S9WTHjW) | 0:00 | 2026-10-23 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2025-11-07 | 2026-02-13 |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |

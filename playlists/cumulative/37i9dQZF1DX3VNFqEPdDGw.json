@@ -542,7 +542,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 173400,
       "name": "Akh Mastani",
       "url": "https://open.spotify.com/track/4IupSjrVogMJCM37NgmStF"
@@ -4811,6 +4811,32 @@
     },
     {
       "album": {
+        "name": "KABOOTRI",
+        "url": "https://open.spotify.com/album/5kNkYSJAd50R4Lgdi3ylOQ"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157637,
+      "name": "KABOOTRI",
+      "url": "https://open.spotify.com/track/6cSnAhU5whOzd6ZoOW2fVN"
+    },
+    {
+      "album": {
         "name": "Mankirt Aulakh - Best Hits",
         "url": "https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L"
       },
@@ -5686,6 +5712,28 @@
       "duration_ms": 180789,
       "name": "Loktath",
       "url": "https://open.spotify.com/track/6y21aiaOaPjdTIaKT6ohvc"
+    },
+    {
+      "album": {
+        "name": "MAD MOVES",
+        "url": "https://open.spotify.com/album/4f8pHz2xlN8ZuVAo7I67gW"
+      },
+      "artists": [
+        {
+          "name": "GKhan",
+          "url": "https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149349,
+      "name": "MAD MOVES",
+      "url": "https://open.spotify.com/track/4w5MdzyREs3tB8eDGjk0wS"
     },
     {
       "album": {
@@ -6890,7 +6938,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194818,
       "name": "Patili Chaa Di",
       "url": "https://open.spotify.com/track/3McpImTq4C6gA3UFAuZ9Hh"

@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 314683,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b"
@@ -1788,6 +1788,24 @@
       "duration_ms": 214939,
       "name": "Shade",
       "url": "https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB"
+    },
+    {
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/5xQrvHK0YbNaFslrvJYMNR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224755,
+      "name": "Short and Sweet",
+      "url": "https://open.spotify.com/track/6KrbOJbHawWQmJwFRpYklJ"
     },
     {
       "album": {

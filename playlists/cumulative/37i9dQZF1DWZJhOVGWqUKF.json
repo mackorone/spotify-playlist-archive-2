@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: ITCHY",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Story Untold",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 238939,
       "name": "About You - Bonus Version",
       "url": "https://open.spotify.com/track/07f2UG1AH6Z1zv4LeGgUSA"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 195818,
       "name": "Chains",
       "url": "https://open.spotify.com/track/5jnXvYY1Ppwf8uAXClMvsp"
@@ -5857,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Egosystem",
+        "url": "https://open.spotify.com/album/1WUQvJMTzdN3MmELwmMJFL"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235114,
+      "name": "Egosystem",
+      "url": "https://open.spotify.com/track/0RvIPxiz0G1yhhwPR55nSV"
+    },
+    {
+      "album": {
         "name": "Eight Legs of Thunder",
         "url": "https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p"
       },
@@ -5966,7 +5984,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 205454,
       "name": "Escalation",
       "url": "https://open.spotify.com/track/3oVFSEzzjK8VC1hFMp7Mkr"
@@ -7743,6 +7761,28 @@
     },
     {
       "album": {
+        "name": "Good Times. Bad Decisions.",
+        "url": "https://open.spotify.com/album/5cZTelm2GCRZw5oR397253"
+      },
+      "artists": [
+        {
+          "name": "Indecent Behavior",
+          "url": "https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU"
+        },
+        {
+          "name": "Friends Don\u00b4t Lie",
+          "url": "https://open.spotify.com/artist/3CXuzdDs02RUDfHSQ9gfya"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254307,
+      "name": "Good Times. Bad Decisions.",
+      "url": "https://open.spotify.com/track/2E9XItVYXSCiZyEz4lrQEk"
+    },
+    {
+      "album": {
         "name": "Pretty Devastating",
         "url": "https://open.spotify.com/album/34BBzzfIIKqd99hAHf9A3S"
       },
@@ -7820,6 +7860,24 @@
       "duration_ms": 156239,
       "name": "Gotta Be Me",
       "url": "https://open.spotify.com/track/7zErvCllqbXenWnpNB2sJn"
+    },
+    {
+      "album": {
+        "name": "Gotta Run",
+        "url": "https://open.spotify.com/album/5XENy5Tn7T3ZO5WAOkHEj3"
+      },
+      "artists": [
+        {
+          "name": "SMILE",
+          "url": "https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207755,
+      "name": "Gotta Run",
+      "url": "https://open.spotify.com/track/7sqXiIwXi9rXOo0RFQBV5i"
     },
     {
       "album": {
@@ -8754,7 +8812,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 206608,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0OwO15Nbw1PmnK7ZSrWChb"
@@ -10519,6 +10577,24 @@
     },
     {
       "album": {
+        "name": "Kill Switch",
+        "url": "https://open.spotify.com/album/5qpw6WpKFyr26MUWVPHoEY"
+      },
+      "artists": [
+        {
+          "name": "Seven Blood",
+          "url": "https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Kill Switch",
+      "url": "https://open.spotify.com/track/1dxvz6corm5zygXZE5jeuP"
+    },
+    {
+      "album": {
         "name": "Kill The Party",
         "url": "https://open.spotify.com/album/0uHzpl1UaMpzTKMGlZwL8k"
       },
@@ -11986,7 +12062,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210816,
       "name": "Make It a Lie",
       "url": "https://open.spotify.com/track/6OOxkOOUvNyeLi6JzQUD5H"
@@ -12496,7 +12572,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 163293,
       "name": "Mom Raised a Quitter",
       "url": "https://open.spotify.com/track/1G12FKANAmpZlYgxP0dy28"
@@ -14670,7 +14746,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 191531,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
@@ -19716,7 +19792,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
@@ -20157,6 +20233,24 @@
     },
     {
       "album": {
+        "name": "Wanna Play?",
+        "url": "https://open.spotify.com/album/2awuZ6cPl7QKuN9qSqEc7v"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Wanna Play?",
+      "url": "https://open.spotify.com/track/3HfDocNNFTs9D6gDjyPsRb"
+    },
+    {
+      "album": {
         "name": "Warning Signs",
         "url": "https://open.spotify.com/album/28mVerBpwjb8Mt18DyvO5j"
       },
@@ -20498,7 +20592,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184064,
       "name": "WHAAT",
       "url": "https://open.spotify.com/track/01b5R3pLGj6n3tI54zEx9u"
@@ -21003,6 +21097,24 @@
     },
     {
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/5Xe5xftckiT63kQitJSGL9"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195499,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/30WqbMFs4uwwVpaWU11Uq9"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
@@ -21116,7 +21228,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 187779,
       "name": "WRONG",
       "url": "https://open.spotify.com/track/3lvaXjWVqhB9N0VbkizJmK"

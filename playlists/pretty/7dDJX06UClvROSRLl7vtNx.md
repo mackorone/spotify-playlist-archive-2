@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 139,092 likes - 235 songs - 10 hr 8 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 139,128 likes - 236 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 233 | [Who You Are](https://open.spotify.com/track/0ShEGvZwPUT9PMat6bnWuc) | [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC), [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe) | [Who You Are](https://open.spotify.com/album/2yl5LeFFWBA1jEg4L6abhi) | 2:14 |
 | 234 | [Chills](https://open.spotify.com/track/7mCz5ly2yn5HEzc34IgUQG) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Chills](https://open.spotify.com/album/5lckTaYHovHJdMHPKLp766) | 2:51 |
 | 235 | [Don't Forget \(About Me\)](https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Don't Forget \(About Me\)](https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc) | 2:51 |
+| 236 | [So Tenderly](https://open.spotify.com/track/01E3n7iQD6nY8Mw3YqEnVc) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [So Tenderly](https://open.spotify.com/album/5UoUmI1byGm7blukPU9OMQ) | 2:58 |
 
-Snapshot ID: `AABWx8M+C9pUmjz47ozkoSj8U7ic9roG`
+Snapshot ID: `AABWyMJhuMEbgS+lUV0FE9OAXmYNk4va`

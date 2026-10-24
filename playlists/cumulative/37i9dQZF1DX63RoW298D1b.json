@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Dark Harbor",
+        "url": "https://open.spotify.com/album/2kdhwZ4lhdGPPME85KA7m3"
+      },
+      "artists": [
+        {
+          "name": "Petr Nagy",
+          "url": "https://open.spotify.com/artist/0AEwSyrdaYbRycpzm7vN6j"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138567,
+      "name": "Dark Harbor",
+      "url": "https://open.spotify.com/track/4Wr7o2wJIbu6MT4Nfb3Yx7"
+    },
+    {
+      "album": {
         "name": "Deferment",
         "url": "https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6"
       },

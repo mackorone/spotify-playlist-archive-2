@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Fontaines D.C.
 
-2,265 songs - 5 day 8 hr 24 min
+2,270 songs - 5 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Admit It](https://open.spotify.com/track/4FBiHrmYBHVF2vyaWDdQnr) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Admit It](https://open.spotify.com/album/43OhHhlU78MqAIazwabQCS) | 3:38 | 2023-04-21 | 2023-05-20 |
 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 | 2023-07-21 | 2023-11-11 |
 | [adrenaline](https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 2:23 | 2022-11-18 | 2022-12-08 |
+| [Adrenaline](https://open.spotify.com/track/3W2VOvLDPks8RE02dRr63O) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis \(Deluxe\)](https://open.spotify.com/album/34iEW5XY1mGgjhzvKsMo0h) | 3:21 | 2026-10-23 |  |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 | 2023-03-29 |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-17 | 2023-07-29 |
@@ -800,6 +801,7 @@
 | [Gasoline](https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Gasoline](https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen) | 3:23 | 2026-01-09 | 2026-10-17 |
 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 | 2024-03-15 | 2024-06-15 |
 | [Gelato](https://open.spotify.com/track/58n2RzBcdATtC4dHuX21G1) | [Moxie](https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF) | [Gelato](https://open.spotify.com/album/4bSFWzSi1Nsdcs0kvL6lz2) | 2:29 | 2022-06-10 | 2022-08-06 |
+| [George Clanton](https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Unfindable Ring](https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu) | 4:31 | 2026-10-23 |  |
 | [Get A Good Look](https://open.spotify.com/track/0n74qdRV4WcfN2q0Z6HQrq) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Get A Good Look](https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD) | 4:12 | 2022-02-11 | 2022-04-10 |
 | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-19 |  |
 | [Get back to me](https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Get back to me](https://open.spotify.com/album/6U8hWwjGntHu3thhtm0jGB) | 3:10 | 2025-04-18 | 2025-06-07 |
@@ -890,6 +892,7 @@
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-07-19 | 2022-05-26 |
 | [HEAVEN](https://open.spotify.com/track/4oYnD8T0DQKbwXzsXbGC0Z) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [HEAVEN](https://open.spotify.com/album/5Ktg5akKwCg1uP0XJ9nthC) | 4:18 | 2024-07-12 | 2024-10-05 |
 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 | 2025-11-14 | 2026-10-17 |
+| [Heaven Can Wait](https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Heaven Can Wait](https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A) | 3:55 | 2026-10-23 |  |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-23 | 2025-01-11 |
 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 | 2022-11-11 | 2022-12-18 |
 | [Hell Of A Ride](https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/41DyNXpwpfDghWXGM6TMC3) | 2:59 | 2023-07-07 | 2023-11-18 |
@@ -1321,6 +1324,7 @@
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-09 | 2023-08-12 |
 | [million times](https://open.spotify.com/track/14ecReKKTaW1TTTwm2wq00) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [million times](https://open.spotify.com/album/6qbhyEtynN54ogfCjJBEtf) | 3:02 | 2025-03-28 | 2025-07-12 |
 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 | 2024-01-19 | 2024-03-30 |
+| [Mimesis](https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:51 | 2026-10-23 |  |
 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 | 2021-06-07 | 2022-05-24 |
 | [Mirror](https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y) | 4:56 | 2025-01-17 | 2025-03-22 |
 | [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:21 | 2025-08-01 | 2025-10-04 |
@@ -1979,6 +1983,7 @@
 | [The Other Way](https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [The Other Way](https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE) | 3:10 | 2022-08-26 | 2022-11-19 |
 | [The Payoff](https://open.spotify.com/track/3jPynNG4zK7VbbWrnbQYib) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Payoff](https://open.spotify.com/album/5w0KujrYWAir96O9ZhCW1Q) | 5:51 | 2026-05-08 |  |
 | [The Power](https://open.spotify.com/track/6XW1Ti8owM40lIAOdBLKdB) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [The Power](https://open.spotify.com/album/0D4XIOjppjGfxAbO9gNdZ4) | 2:32 | 2023-06-02 | 2023-07-15 |
+| [The Precariat](https://open.spotify.com/track/1iJ0Y7bd78Scr7yty6nbHp) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Precariat](https://open.spotify.com/album/1636VkvPdWfRTHGLCHvM9a) | 5:22 | 2026-10-23 |  |
 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 | 2025-06-20 | 2025-08-23 |
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-05 | 2026-05-02 |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-04-01 | 2022-11-17 |

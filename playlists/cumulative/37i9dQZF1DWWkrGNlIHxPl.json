@@ -840,7 +840,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 150264,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 206680,
       "name": "NASKAR",
       "url": "https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM"
@@ -6103,6 +6103,24 @@
     },
     {
       "album": {
+        "name": "Life Is Beautiful Again",
+        "url": "https://open.spotify.com/album/6vCylkAwKmS3TP7GIa3Yy1"
+      },
+      "artists": [
+        {
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183124,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/2R8SGPRq50S0yCVAFWpTam"
+    },
+    {
+      "album": {
         "name": "Attention - R&B Favourites",
         "url": "https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P"
       },
@@ -6502,6 +6520,32 @@
       "duration_ms": 193388,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG"
+    },
+    {
+      "album": {
+        "name": "THE CITY",
+        "url": "https://open.spotify.com/album/67CeKxJTxpPb34IJvO9HtV"
+      },
+      "artists": [
+        {
+          "name": "Sweam",
+          "url": "https://open.spotify.com/artist/6mIE5oT6Pvp2CogkQlsoVJ"
+        },
+        {
+          "name": "Odee",
+          "url": "https://open.spotify.com/artist/68FUB4xrCKRC8DTf8vZdSq"
+        },
+        {
+          "name": "JN.",
+          "url": "https://open.spotify.com/artist/7taafRKECih3B2ebKLTSHU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "THE CITY",
+      "url": "https://open.spotify.com/track/1Gay4tMVxE6SUQIiXFoEL3"
     },
     {
       "album": {

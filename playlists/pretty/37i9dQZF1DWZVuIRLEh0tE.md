@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Amenazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,003 likes - 90 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,027 likes - 90 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LE DIMOS BALA](https://open.spotify.com/track/30Q6Vdd650AFinJSUt5jl5) | [KIRY CURU](https://open.spotify.com/artist/6QKj8cxDpBCKMlTq6lkdXu) | [LE DIMOS BALA](https://open.spotify.com/album/7s57qof2sw0LU9Fa3CGXD6) | 2:45 |
+| 1 | [LE DIMOS BALA](https://open.spotify.com/track/30Q6Vdd650AFinJSUt5jl5) | [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [el moyeto produciendo](https://open.spotify.com/artist/7dA6Ni4DYCRyaUZQFWlY3L) | [LE DIMOS BALA](https://open.spotify.com/album/7s57qof2sw0LU9Fa3CGXD6) | 2:45 |
 | 2 | [PERRA](https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [PERRA](https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr) | 2:13 |
 | 3 | [Alma Rota](https://open.spotify.com/track/1PcFWaVib2MUwJRTFByJeT) | [Dalvin La Melodia](https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ), [El Blachy](https://open.spotify.com/artist/7eUSP77ZhnXleSue48JWiT) | [La Bachata Volvió](https://open.spotify.com/album/7oqAsaPN3b6jhC7Bi9sWKX) | 4:05 |
 | 4 | [No Silence](https://open.spotify.com/track/4YReOpPbhvvIrQAOvfe38B) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [No Silence](https://open.spotify.com/album/3jr4SV8Hl15UoN9WNchy85) | 3:31 |

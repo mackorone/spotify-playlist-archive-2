@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Cho Mingyu\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Maria Kim\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-287 songs - 19 hr 55 min
+288 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,13 +76,13 @@
 | [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 | 2024-09-04 | 2025-05-10 |
 | [dudndudndudn](https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [dudndudndudn](https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD) | 3:36 | 2024-10-04 | 2025-11-21 |
 | [DUO](https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [DUO](https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi) | 3:10 | 2024-06-07 | 2025-04-04 |
-| [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 | 2024-11-29 |  |
+| [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 | 2024-11-29 | 2026-10-24 |
 | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/track/3P4vnvUu03m0kjoLWNWvTa) | [Youjin KO](https://open.spotify.com/artist/4DwpWXyj4LSXRDaB2zmfcj), [Nicola Sergio](https://open.spotify.com/artist/2bxce9EIkMF99r0baqX9Sy) | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr) | 5:59 | 2023-03-31 | 2024-11-07 |
 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 | 2023-07-19 | 2024-08-11 |
 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 | 2022-05-18 | 2024-09-20 |
 | [Escape](https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD) | [Ellie Lee](https://open.spotify.com/artist/4tjf3R0z1fqvExRMTz5ZnC) | [Escape](https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb) | 5:52 | 2024-06-07 | 2025-03-14 |
 | [Escape from the city](https://open.spotify.com/track/1FGtv4md7PpOofoNF8V6pl) | [DOPEY](https://open.spotify.com/artist/1CXyr1fzlKCTjAVfvNGJgM) | [Escape from the city](https://open.spotify.com/album/6SfNyrW3v25cRcdDm7GLks) | 3:57 | 2022-11-11 | 2024-09-20 |
-| [Espresso Rush](https://open.spotify.com/track/2x6idBqv6fVq4bPNO8l9QZ) | [Relax Ann](https://open.spotify.com/artist/2esrpoyixMx83vSV2UzV65) | [Espresso Rush](https://open.spotify.com/album/3zG5QTErCjGc5Tcr5SQAtx) | 2:13 | 2025-05-07 |  |
+| [Espresso Rush](https://open.spotify.com/track/2x6idBqv6fVq4bPNO8l9QZ) | [Relax Ann](https://open.spotify.com/artist/2esrpoyixMx83vSV2UzV65) | [Espresso Rush](https://open.spotify.com/album/3zG5QTErCjGc5Tcr5SQAtx) | 2:13 | 2025-05-07 | 2026-10-24 |
 | [Estate \(feat\. Koh Sangji\)](https://open.spotify.com/track/1c2UAjB8uv6oAYYwjcoFcG) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD), [Koh Sangji](https://open.spotify.com/artist/6aLJ3PPQ6P81K2eh5RIvIB) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 5:45 | 2025-02-18 |  |
 | [Eutopia](https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe) | [Mia](https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v), [Yeore](https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv) | [Eutopia](https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3) | 6:49 | 2023-12-12 | 2024-11-07 |
 | [Every Little Step](https://open.spotify.com/track/61wwBgK2Ff5yao4QKhuPUX) | [Seon Dabin](https://open.spotify.com/artist/0JSuzK5w5DEDuxzs7ghqXL) | [Every Little Step](https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl) | 6:38 | 2023-02-07 | 2024-11-07 |
@@ -208,8 +208,9 @@
 | [Silent Night \(feat\. Eric Legnini\)](https://open.spotify.com/track/62behM9myudBxLIMSS6CR7) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Silent Night \(feat\. Eric Legnini\)](https://open.spotify.com/album/5r7Oqf8S9Yd1TCRTGwtGNu) | 4:40 | 2025-04-03 |  |
 | [Skylark](https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:51 | 2023-10-11 | 2024-12-18 |
 | [Sleepy \(Feat\. paulkyte\)](https://open.spotify.com/track/5d57dsBRU85OiDkJnPktgw) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:19 | 2025-09-11 |  |
-| [Soft Serenade](https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf) | [Green Pulse](https://open.spotify.com/artist/4GdPbBDa4FCCyWWVxeoO0P) | [Soft Serenade](https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG) | 3:11 | 2025-05-07 |  |
+| [Soft Serenade](https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf) | [Green Pulse](https://open.spotify.com/artist/4GdPbBDa4FCCyWWVxeoO0P) | [Soft Serenade](https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG) | 3:11 | 2025-05-07 | 2026-10-24 |
 | [SoftSwing](https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Soft Swing Jazz Piano](https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S) | 2:34 | 2024-10-27 | 2026-01-27 |
+| [Something's Gotta Give](https://open.spotify.com/track/31S6JHlGUipCsZb4xnNQQ2) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Something's Gotta Give](https://open.spotify.com/album/6M3hHjOpBKyDAPO5j4DVYZ) | 4:06 | 2026-10-23 |  |
 | [Sonny](https://open.spotify.com/track/3Y8iNszws9u6tTSvCrTPae) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Sonny](https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY) | 3:24 | 2022-05-03 | 2022-05-19 |
 | [Sorcery Soup](https://open.spotify.com/track/1ddVTVxABHqds436IzH004) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:37 | 2022-11-23 | 2024-09-20 |
 | [Soul To Soul](https://open.spotify.com/track/5WaPMIlMr934RgQ9dv40tT) | [KIM JU\-HWAN](https://open.spotify.com/artist/6spyeEyZ3axemAvGhzWoVI) | [Soul To Soul](https://open.spotify.com/album/47dRkJiLd9DSa9ekATRGfv) | 4:49 | 2026-03-24 |  |

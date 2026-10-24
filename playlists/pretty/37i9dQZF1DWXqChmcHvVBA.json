@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udcf8 LA JOAQUI",
-  "num_followers": 949672,
+  "num_followers": 949699,
   "original_name": "RKT  & Turreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAisFlISeuBk7TKRvIacrKlmLPiW",
+  "snapshot_id": "AAAAAOnzxSdHzENETC6aU74AgjmSqucX",
   "tracks": [
     {
       "added_at": "2026-09-25 03:00:50",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/2gHIg1ZcVEmDG4NogyNa2r"
     },
     {
+      "added_at": "2026-10-23 13:40:44",
+      "album": {
+        "name": "AUTOMOVIL",
+        "url": "https://open.spotify.com/album/1MIeD2YR6SwNL4nxlgQvqR"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 168367,
+      "name": "AUTOMOVIL",
+      "url": "https://open.spotify.com/track/1zevLuf24oKHPlrGycvrzT"
+    },
+    {
       "added_at": "2026-09-25 03:00:50",
       "album": {
         "name": "JAM\u00d3N",
@@ -155,6 +171,30 @@
       "duration_ms": 143400,
       "name": "JAM\u00d3N",
       "url": "https://open.spotify.com/track/3TgyJSUjN3deqvxm3Vf1OG"
+    },
+    {
+      "added_at": "2026-10-23 13:40:44",
+      "album": {
+        "name": "GITANA RKT",
+        "url": "https://open.spotify.com/album/41sFMcWotlV8vglgSBbxZR"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Turreo Mistico Records",
+          "url": "https://open.spotify.com/artist/0JJBaeZOGlaN73ZPpskTxl"
+        },
+        {
+          "name": "WHTEGOLD",
+          "url": "https://open.spotify.com/artist/2jqN3kjKQ51QM1cDcKNQYb"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "GITANA RKT",
+      "url": "https://open.spotify.com/track/405G5xPsMYf9AXvhZTIw1p"
     },
     {
       "added_at": "2026-09-25 03:00:50",
@@ -1599,30 +1639,6 @@
     {
       "added_at": "2026-09-25 03:00:50",
       "album": {
-        "name": "Me Escap\u00e9",
-        "url": "https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU"
-      },
-      "artists": [
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        },
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        }
-      ],
-      "duration_ms": 176181,
-      "name": "Me Escap\u00e9",
-      "url": "https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v"
-    },
-    {
-      "added_at": "2026-09-25 03:00:50",
-      "album": {
         "name": "Si Las Gatas Se Amotinan",
         "url": "https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 182493,
       "name": "MAS LENTITO RKT",
       "url": "https://open.spotify.com/track/2K1VdnrPKRQCzLT5EjLwJ9"
-    },
-    {
-      "added_at": "2026-09-25 03:00:50",
-      "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 141954,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
     },
     {
       "added_at": "2026-09-25 03:00:50",

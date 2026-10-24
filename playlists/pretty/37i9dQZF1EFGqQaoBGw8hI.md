@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 632 songs - 1 day 20 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,947 likes - 632 songs - 1 day 20 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -641,4 +641,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 631 | [Love Is A Cannibal](https://open.spotify.com/track/1ViDH1Gy9YzHqao1BmjGuR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ghostbusters II](https://open.spotify.com/album/7hb7PW4pEcddvEPyU8WORa) | 3:53 |
 | 632 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 
-Snapshot ID: `AcfqBgAAAABJbka+LiCYdWM/Xzm5qYyw`
+Snapshot ID: `AcfvpgAAAACSn7afYex1aPgA/SASKxxf`

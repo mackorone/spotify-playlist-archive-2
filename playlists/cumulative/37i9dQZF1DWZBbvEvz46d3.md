@@ -4,7 +4,7 @@
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-113 songs - 7 hr 3 min
+114 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,11 +114,12 @@
 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 | 2023-02-03 |  |
 | [Zamienię cię](https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [NATinterpretacje](https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV) | 3:04 | 2025-10-16 |  |
 | [Zanim pójdę](https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA) | [Happysad](https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6) | [Wszystko jedno](https://open.spotify.com/album/6TOdt5yYuI7ympn1TmYiZr) | 4:13 | 2023-02-03 |  |
-| [Zapomnij Mi](https://open.spotify.com/track/5Dk03tfXBF8zYlJOUSaKe9) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zapomnij Mi](https://open.spotify.com/album/3II6EqtqCnYV5IPW0axuOn) | 3:37 | 2024-08-04 |  |
+| [Zapomnij Mi](https://open.spotify.com/track/5Dk03tfXBF8zYlJOUSaKe9) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zapomnij Mi](https://open.spotify.com/album/3II6EqtqCnYV5IPW0axuOn) | 3:37 | 2024-08-04 | 2026-10-24 |
 | [Zawsze tam gdzie Ty](https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [Zawsze tam gdzie Ty](https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu) | 4:18 | 2023-02-03 | 2024-04-19 |
 | [Zawsze Z Toba Chcialbym Byc..\. \(Przez Miesiac :\) \)](https://open.spotify.com/track/1ruDMWJJSz1sceqdY6zsIX) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [Ad.4](https://open.spotify.com/album/1OgrUM009v8ZgKtO9Jjwoh) | 3:42 | 2023-02-03 |  |
 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 | 2023-02-03 |  |
 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 | 2023-02-03 |  |
+| [Śniadanie do łóżka](https://open.spotify.com/track/2giMKGE3VSImkIMeUJc7MH) | [Andrzej Piaseczny](https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH) | [Śniadanie do łóżka](https://open.spotify.com/album/1t1PBLlAXpA44up4T9MbDe) | 2:59 | 2025-10-16 |  |
 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 | 2023-04-03 |  |
 | [Świat się pomylił](https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH) | [Patrycja Markowska](https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf) | [Świat się pomylił](https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf) | 3:30 | 2024-08-04 |  |
 

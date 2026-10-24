@@ -1504,10 +1504,32 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 181942,
       "name": "DON'T LOVE ME",
       "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+    },
+    {
+      "album": {
+        "name": "Something To Die For",
+        "url": "https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        },
+        {
+          "name": "Shiloh Yodell\u00e9",
+          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177300,
+      "name": "Don't Say Bye",
+      "url": "https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S"
     },
     {
       "album": {

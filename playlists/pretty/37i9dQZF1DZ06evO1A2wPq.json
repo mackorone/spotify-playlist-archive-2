@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 23455,
+  "num_followers": 23471,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAD1f7VFgBU3npGi9aQf8i80",
+  "snapshot_id": "atgAgAAAAACV3foBrKqK2k2i84tlMFnJ",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "no cinderella",
-        "url": "https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D"
+        "name": "lord i've tried",
+        "url": "https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 143804,
-      "name": "no cinderella",
-      "url": "https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF"
+      "duration_ms": 106632,
+      "name": "lord i've tried",
+      "url": "https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "lord i've tried",
-        "url": "https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa"
+        "name": "no cinderella",
+        "url": "https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 106632,
-      "name": "lord i've tried",
-      "url": "https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq"
+      "duration_ms": 143804,
+      "name": "no cinderella",
+      "url": "https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF"
     },
     {
       "added_at": null,

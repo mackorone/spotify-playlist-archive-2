@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem  Raphaela Santos, Tz da Coronel com Matu\u00ea, Jorge & Mateus, John Mayer, Alok e muito mais!",
-  "num_followers": 2315697,
+  "num_followers": 2318086,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIos1brnTmfJQ807pdjfaI31REaR",
+  "snapshot_id": "AAAAAA9wNWsrQvY41DaYv4LesOe0/7M3",
   "tracks": [
     {
       "added_at": "2026-10-23 03:01:26",
@@ -59,6 +59,22 @@
       "duration_ms": 187153,
       "name": "N\u00e1rnia - Ao Vivo",
       "url": "https://open.spotify.com/track/40OYPA2hNTttrCZwaYWeV7"
+    },
+    {
+      "added_at": "2026-10-23 03:01:26",
+      "album": {
+        "name": "Trevo de Quatro Folhas",
+        "url": "https://open.spotify.com/album/5goaH4sYRaKnvEixv93u9j"
+      },
+      "artists": [
+        {
+          "name": "Vitinho Imperador",
+          "url": "https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Trevo de Quatro Folhas",
+      "url": "https://open.spotify.com/track/7KzeI91Ef16CGqumqUvfSA"
     },
     {
       "added_at": "2026-10-23 03:01:26",
@@ -253,6 +269,22 @@
       "url": "https://open.spotify.com/track/0v46rg2x4Fg47decrKcLkQ"
     },
     {
+      "added_at": "2026-10-23 15:33:55",
+      "album": {
+        "name": "Dez Vidas",
+        "url": "https://open.spotify.com/album/6d4sMgo6fDkPxnDPuj2fX5"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "N\u00e3o Importa",
+      "url": "https://open.spotify.com/track/24wejC7yyV0EjHoeJeGtZw"
+    },
+    {
       "added_at": "2026-10-23 03:01:26",
       "album": {
         "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
@@ -292,8 +324,8 @@
           "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 135214,
+      "name": "Solid\u00e3o \u00e9 Mato",
       "url": "https://open.spotify.com/track/5BYQWDGvWARnESnmElj68e"
     },
     {
@@ -592,16 +624,16 @@
           "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
         },
         {
-          "name": "MC Fr da Norte",
-          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
-        },
-        {
           "name": "DJ PEPI",
           "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
         },
         {
           "name": "Mc Pelourinho",
           "url": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
         }
       ],
       "duration_ms": 251428,
@@ -1176,8 +1208,8 @@
           "url": "https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 159932,
+      "name": "Reca\u00edda",
       "url": "https://open.spotify.com/track/2ixzLuvVsFy8RTsMBsMvd9"
     },
     {
@@ -1212,8 +1244,8 @@
           "url": "https://open.spotify.com/artist/2jWII1qzdRsT1JSPA2qHO5"
         },
         {
-          "name": "Mc Lind\u00e3o",
-          "url": "https://open.spotify.com/artist/2ZzciqhjQU3qClhFu3efuU"
+          "name": "Lind\u00e3o",
+          "url": "https://open.spotify.com/artist/1ZlEiKjgbQVsuyyocxFdyc"
         }
       ],
       "duration_ms": 192224,
@@ -1258,10 +1290,18 @@
         {
           "name": "Baby T",
           "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        },
+        {
+          "name": "oggvieira",
+          "url": "https://open.spotify.com/artist/3KMLswOYWqvibGsHW2wFfO"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 126942,
+      "name": "NOSSA QUE BONITA",
       "url": "https://open.spotify.com/track/4lfafXpS9jeSwCdpfGxVx3"
     },
     {

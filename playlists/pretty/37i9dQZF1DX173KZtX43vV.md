@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Jeshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,528 likes - 45 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,539 likes - 45 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 15 | [RED 99](https://open.spotify.com/track/6K6d3VuKoSWfV9CSdbYUHV) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [Róisín](https://open.spotify.com/album/62vi9DCEeLUe128est6dDQ) | 3:14 |
 | 16 | [Jiggy One](https://open.spotify.com/track/1iIbukB0vybiOD3e3Admwf) | [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Jiggy One](https://open.spotify.com/album/2Kua0hrXGd4lMbtQZzkx9t) | 2:00 |
 | 17 | [HISTORY](https://open.spotify.com/track/5o09MJgtHJDtSUhzyK60VO) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [HISTORY](https://open.spotify.com/album/1SZ4doIn46fr5DRdvCYsdX) | 3:01 |
-| 18 | [PASSENGER PRINCESS](https://open.spotify.com/track/6h9M79FfL7dCOyYly4gJwB) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [PASSENGER PRINCESS](https://open.spotify.com/album/2txrQGMM52McgLwSYm4YHR) | 3:01 |
+| 18 | [PASSENGER PRINCESS \(feat\. Not3s & Deno\)](https://open.spotify.com/track/6h9M79FfL7dCOyYly4gJwB) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [PASSENGER PRINCESS \(feat\. Not3s & Deno\)](https://open.spotify.com/album/2txrQGMM52McgLwSYm4YHR) | 3:01 |
 | 19 | [Scar](https://open.spotify.com/track/1RQScGAfAQPdK325RpvEtE) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Scar](https://open.spotify.com/album/43jTSgr4zbnLq92sp76mlc) | 3:41 |
 | 20 | [old or new one?](https://open.spotify.com/track/3Mj3WIoGvNphxKeCGPrAL7) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [old or new one?](https://open.spotify.com/album/7aMIwNW5dNP7cBcq5mzjJj) | 3:16 |
 | 21 | [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 |

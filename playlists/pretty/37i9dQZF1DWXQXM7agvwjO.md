@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: mpq \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,177 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,186 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 17 | [Galaxy](https://open.spotify.com/track/4pJ8E9B46Gv5jttNofT9JP) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [CLOCKWORK \(Deluxe\)](https://open.spotify.com/album/30pOCN3tt0G10HxlagzwV7) | 4:46 |
 | 18 | [Apollo](https://open.spotify.com/track/4x2iQNSS8uG0UaWK9S159K) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Project Apollo](https://open.spotify.com/album/1EuhwgHLu2WxD62atFR9qF) | 4:21 |
 | 19 | [Post\-man](https://open.spotify.com/track/4Xxsc2pcYCULmsJUUIVm1q) | [KyoYoko](https://open.spotify.com/artist/7CgWtTJr3z1XVtSevOHMqT) | [Mirror Chamber](https://open.spotify.com/album/36jZhVxqmxcLGvYliXEmuX) | 5:02 |
-| 20 | [財富](https://open.spotify.com/track/371wnydrO4YGQQn6Xoez05) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [財富](https://open.spotify.com/album/4Fn2GsF5C20d6jLuasdnJf) | 3:53 |
+| 20 | [財富 \(Good Luck.\)](https://open.spotify.com/track/371wnydrO4YGQQn6Xoez05) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [財富 \(Good Luck.\)](https://open.spotify.com/album/4Fn2GsF5C20d6jLuasdnJf) | 3:53 |
 | 21 | [Sushi](https://open.spotify.com/track/4Z5ADtGdqxb24xdnEa0UjV) | [wait a sec!](https://open.spotify.com/artist/2UI3oXDymO1zPHhrUvLxDI) | [Seconds](https://open.spotify.com/album/59ppyzILJbt2MsS3IjCdAf) | 4:21 |
 | 22 | [loser](https://open.spotify.com/track/0Jlu1QY7Q3X84dHAzjYt2Y) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [loser](https://open.spotify.com/album/0TEipdEWfi3EOhxY6WtASj) | 3:11 |
 | 23 | [Belati](https://open.spotify.com/track/5BbXhV5i1TWOGPEiObqdNZ) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [SAYANG](https://open.spotify.com/album/1g1Yn17OV41ulJOeiemUT4) | 3:03 |

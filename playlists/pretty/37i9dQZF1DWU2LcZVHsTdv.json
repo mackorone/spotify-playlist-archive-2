@@ -1,12 +1,12 @@
 {
   "description": "The country way of testifying.",
-  "num_followers": 313206,
+  "num_followers": 313228,
   "original_name": "Country by the Grace of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMy8oGad/5XjVPOHLL96MgAdwuF",
+  "snapshot_id": "AAAAAEyL3IsLP8JCD2eZX523v+2jhDpN",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:09",
@@ -171,6 +171,22 @@
       "duration_ms": 251481,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0nOqC7HE2ahBAfM18OZvhj"
+    },
+    {
+      "added_at": "2026-10-23 04:02:15",
+      "album": {
+        "name": "Man on the Middle Tree",
+        "url": "https://open.spotify.com/album/28fjRupwoRacIHsX0ZmHQ8"
+      },
+      "artists": [
+        {
+          "name": "Madalyn Rae",
+          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
+        }
+      ],
+      "duration_ms": 183018,
+      "name": "Man on the Middle Tree",
+      "url": "https://open.spotify.com/track/1A17Kfq0Y8rQa98XseKqGo"
     },
     {
       "added_at": "2026-08-21 04:02:09",

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Fabio Asher
 
-1,187 songs - 3 day 4 hr 53 min
+1,189 songs - 3 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Hanya Sementara](https://open.spotify.com/track/2Vw6bJNZJ4tlfqtGHDa6Ip) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Hanya Sementara](https://open.spotify.com/album/2VIIKPBAprILtqXYD99RaA) | 5:04 | 2025-03-13 | 2025-04-25 |
 | [Hanya Tentang Waktu](https://open.spotify.com/track/3vYZUoXqJ5R30PgZrKPauo) | [Tyok Satrio](https://open.spotify.com/artist/2WsJBNKG1rFTCNCRUAAmVp) | [Hanya Tentang Waktu](https://open.spotify.com/album/1nljNLEJ5ddsAivlnwOISw) | 5:06 | 2024-06-27 | 2024-08-02 |
 | [Hanya Untukmu](https://open.spotify.com/track/6cXyQ6ogT9uOTNpsu6a11T) | [Prilly Latuconsina](https://open.spotify.com/artist/2ZMfLZnfHC3oXgvA3kKFwi) | [Hanya Untukmu](https://open.spotify.com/album/2LVTP1QTCAQa4DJy01M797) | 3:20 | 2025-11-27 | 2026-02-13 |
+| [Hanyaku](https://open.spotify.com/track/1FNkTjd0sYlujxy8N5GPtu) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J) | [Hanyaku](https://open.spotify.com/album/04e6IOermRoHpUvoi4IXKf) | 3:19 | 2026-10-23 |  |
 | [Happy Anniversary!](https://open.spotify.com/track/6FldVExrpdTXQUphV3eS3w) | [MAKO.](https://open.spotify.com/artist/0gGCPbJs9MmaHJHGebWAOH) | [Happy Anniversary!](https://open.spotify.com/album/2aLGKWGbtc4ztMBKep58JI) | 3:10 | 2026-07-09 | 2026-07-25 |
 | [Hari Paling Spe\(sial\)](https://open.spotify.com/track/3BFw9sEMPNS7sF6TNoneR2) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Hari Paling Spe\(sial\)](https://open.spotify.com/album/0S5FhC43M9RkSVEkco5yny) | 4:43 | 2025-11-27 | 2026-02-13 |
 | [Hari\-Hariku Tanpamu](https://open.spotify.com/track/6HOu5cnuLQ7ZldabhELXZ3) | [Gadis Sahetapy](https://open.spotify.com/artist/1T7vcvBjM8glffdQLuYuCg) | [Hari\-Hariku Tanpamu](https://open.spotify.com/album/60dRmGqQx0lSjdR8MSe0W5) | 4:00 | 2025-05-01 | 2025-05-30 |
@@ -552,6 +553,7 @@
 | [Kuharap Kembali](https://open.spotify.com/track/7iFY1I87MCXWaVJRERGDP1) | [Rian Napit](https://open.spotify.com/artist/2GOrq246vnrku4sP6GgAh4) | [Kuharap Kembali](https://open.spotify.com/album/6msqK9aV8NKdXvZA0t8RYW) | 4:01 | 2025-07-10 | 2025-08-22 |
 | [Kuingin Kamu](https://open.spotify.com/track/2dnSLcOZSrq3rxavs28Zcj) | [Pasha Chrisye](https://open.spotify.com/artist/51SzlFM7kjMnTxkfuj6tpF) | [Kuingin Kamu](https://open.spotify.com/album/1xM0SBjQbqMANufGGO0muZ) | 4:15 | 2024-08-15 | 2024-10-18 |
 | [Kuingin Kau Tau](https://open.spotify.com/track/5BWHwIlnNoH4HYVe7Ysi7C) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l), [Adrian Martadinata](https://open.spotify.com/artist/26FVAGgMv8HO5ixEMhtwds) | [Kuingin Kau Tau](https://open.spotify.com/album/2pf0Ldf3n66NzpF1S4Gnt2) | 4:49 | 2026-09-24 |  |
+| [Kukasih](https://open.spotify.com/track/1b3p0hjLSDLUfWWgJAQZRP) | [Ramy J](https://open.spotify.com/artist/5CcoovxPxfXL6DfzUnWOvj), [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8) | [Kukasih](https://open.spotify.com/album/5MIFPgzwUKrHntkZnUZIai) | 3:09 | 2026-10-23 |  |
 | [Kumenangis Kumemohon](https://open.spotify.com/track/5sqjyJdjbMvXDy0qn6ePiG) | [Vagetoz](https://open.spotify.com/artist/2W9qDNyAyKujPYk6TrQmXc) | [Kumenangis Kumemohon](https://open.spotify.com/album/7v0Zo5EGqm7LstXSgq3ErB) | 4:30 | 2026-02-05 | 2026-06-19 |
 | [Kusedang Sayang\-Sayangnya](https://open.spotify.com/track/2fKFVspszUehimxaizGrmt) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Kusedang Sayang\-Sayangnya](https://open.spotify.com/album/5mYwvmYJU6zTID73i9S2D8) | 3:28 | 2025-11-20 | 2026-02-13 |
 | [LAB \(Lanjut Atau Berhenti\)](https://open.spotify.com/track/3hzEVI3DvRiiwGaVVJUguN) | [DNDY](https://open.spotify.com/artist/1CcuT7tBgWnAwqdWqUGQez) | [ORBIT](https://open.spotify.com/album/7tWr2b9BugAQDkh2IqcaCo) | 3:51 | 2024-06-28 | 2024-08-16 |
@@ -612,7 +614,7 @@
 | [Malam Tolong Sampaikan](https://open.spotify.com/track/6SgC81ohpNeR4Mxne8B3Oh) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Malam Tolong Sampaikan](https://open.spotify.com/album/5roabvYPq1EIjBRoBXlPu8) | 3:33 | 2024-06-27 | 2024-09-13 |
 | [Malu](https://open.spotify.com/track/0XT1eIQ04pRmwt87w03TFi) | [Obbie Messakh](https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6) | [Malu](https://open.spotify.com/album/0M3fIUJhwsiG6yn8FIaUs2) | 4:35 | 2026-05-01 | 2026-05-29 |
 | [Mampu Tanpamu](https://open.spotify.com/track/1z49jujlAN8qOAa1edC2Qx) | [Ongky Muntazar](https://open.spotify.com/artist/3kaNdtI2vRruVrlUxtJPnc) | [Mampu Tanpamu](https://open.spotify.com/album/6h7LAAl1qoL3gO94ewlEHP) | 4:17 | 2024-09-19 | 2024-12-13 |
-| [manja aja! \( gpp \)](https://open.spotify.com/track/4nk3eIoIUOjEfMC0hmebqZ) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [manja aja! \( gpp \)](https://open.spotify.com/album/41DIqN6g3jCS4dBavcbgNc) | 3:42 | 2026-10-15 |  |
+| [manja aja! \( gpp \)](https://open.spotify.com/track/4nk3eIoIUOjEfMC0hmebqZ) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [manja aja! \( gpp \)](https://open.spotify.com/album/41DIqN6g3jCS4dBavcbgNc) | 3:42 | 2026-10-15 | 2026-10-24 |
 | [MANTRA \- English Version](https://open.spotify.com/track/2r2KDhFf8vcEAgo9zVWMxK) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [MANTRA \(English Version\)](https://open.spotify.com/album/1d6hyXGs01JfHrP4rnxfDW) | 3:51 | 2026-05-14 | 2026-06-26 |
 | [Mantra Uang](https://open.spotify.com/track/0uw354IeZNXlCQXHYc5pPU) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Mantra Uang](https://open.spotify.com/album/2h2XuTJMCi7Ss2DKyZD9bR) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [Manusia Indonesia](https://open.spotify.com/track/5Vy4awdE0BqvwY0g4pX31v) | [Irang Arkad](https://open.spotify.com/artist/7h5HvKaKgPmsuJKwTVc8FL), [Ranie Klees](https://open.spotify.com/artist/5iYM2YntZ8J92IBu9Rzw3W) | [Manusia Indonesia](https://open.spotify.com/album/6Xk3wZ29qTQ455jeFrrlMA) | 3:26 | 2026-05-21 | 2026-06-26 |
@@ -1087,7 +1089,7 @@
 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 | 2024-07-25 | 2025-01-10 |
 | [Tanpa Bicara \- Acoustic Version](https://open.spotify.com/track/3rZakDmhQjz0UbUjl6eROP) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara \(Acoustic Version\)](https://open.spotify.com/album/6k86SYxKHyaPsnB0gRv8ll) | 3:11 | 2024-10-03 | 2025-01-10 |
 | [Tanpa Dicintai](https://open.spotify.com/track/1T3rkw0Sx6YghqfWWCe2e4) | [Reygi](https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY) | [Tanpa Dicintai](https://open.spotify.com/album/34N9ZpXdU0lQMp0JWWtlkk) | 4:26 | 2024-11-07 | 2024-12-13 |
-| [Tanpa Tepuk Tangan](https://open.spotify.com/track/2jTSgloY3pNEZnrZ6duTAy) | [SANDHYA](https://open.spotify.com/artist/0VsRsCo38OFeoEY9vlas0J) | [Tanpa Tepuk Tangan](https://open.spotify.com/album/5Hyq3NXxzqbx54jBSH2lNl) | 4:03 | 2026-10-15 |  |
+| [Tanpa Tepuk Tangan](https://open.spotify.com/track/2jTSgloY3pNEZnrZ6duTAy) | [SANDHYA](https://open.spotify.com/artist/0VsRsCo38OFeoEY9vlas0J) | [Tanpa Tepuk Tangan](https://open.spotify.com/album/5Hyq3NXxzqbx54jBSH2lNl) | 4:03 | 2026-10-15 | 2026-10-24 |
 | [Tanya Alasanmu](https://open.spotify.com/track/4HYo8gpZYQjffSiVy0Bwo3) | [Manusia Aksara](https://open.spotify.com/artist/4KhMbVClEsKsmlfT5yO8St) | [Tanya Alasanmu](https://open.spotify.com/album/7vk9DGsSOinJfCLMzXF5Vf) | 4:22 | 2025-05-29 | 2025-07-11 |
 | [Tarik Ulur](https://open.spotify.com/track/5Z8iOu5EMr3ejypU2E13We) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Tarik Ulur](https://open.spotify.com/album/4mj3PaRGg1PRxATzZqmXyR) | 3:12 | 2026-05-21 | 2026-07-03 |
 | [Tarik Ulur](https://open.spotify.com/track/4geXWfWtm5WCaiXeIP28oT) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Tarik Ulur](https://open.spotify.com/album/25WHSHiaxGwQEHgmzAmZRs) | 4:01 | 2024-11-14 | 2025-05-16 |

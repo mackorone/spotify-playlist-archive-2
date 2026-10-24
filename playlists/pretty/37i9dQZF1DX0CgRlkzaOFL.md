@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,536 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,565 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 38 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4FddKCeFq1J6ALw9ZZ2P8U) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Goldberg Variations \- The Goldberg Variations, BWV 988](https://open.spotify.com/album/2qLOFrKy9CJjjQHfaDgw1R) | 4:24 |
 | 39 | [風は飛んだ](https://open.spotify.com/track/4tR8zDf56C8S4Mp8tTVTIj) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [バケモノの子 オリジナル・サウンドトラック](https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q) | 2:53 |
 | 40 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 |
-| 41 | [Ravel: Daphnis et Chloé, M\. 57, Pt\. 3: Lever du jour](https://open.spotify.com/track/0bHetlK2xHzhOEGPEdp1SI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Philippe Jordan](https://open.spotify.com/artist/7oRn2Jv3j0f23EjcSSCR9W), [Chœur de l'Opéra national de Paris](https://open.spotify.com/artist/3W5bZSe3YPADczxMX4qMsb), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Ravel : Daphnis & Chloé, La Valse](https://open.spotify.com/album/2HU1cvBMOFZNqofsWY9bQC) | 5:01 |
+| 41 | [Ravel: Daphnis et Chloé, M\. 57, Pt\. 3: Lever du jour](https://open.spotify.com/track/0bHetlK2xHzhOEGPEdp1SI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Philippe Jordan](https://open.spotify.com/artist/7oRn2Jv3j0f23EjcSSCR9W), [Chœur de l'Opéra national de Paris](https://open.spotify.com/artist/3W5bZSe3YPADczxMX4qMsb), [Orchestre de l'Opéra national de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Ravel : Daphnis & Chloé, La Valse](https://open.spotify.com/album/2HU1cvBMOFZNqofsWY9bQC) | 5:01 |
 | 42 | [緋色の瞳の哀歌](https://open.spotify.com/track/1irWWLOWtVG3c4GkB0lO4Q) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:29 |
 | 43 | [Memory 第四章 愛しみの旋律の彼方](https://open.spotify.com/track/7vitKfxtaSngoUbReATDAL) | [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [交響組曲 機動戦士ガンダムSEED](https://open.spotify.com/album/7LFAMQXx94kCFdROyCB3Kr) | 3:35 |
 | 44 | [piece by ten](https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX　be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 2:45 |

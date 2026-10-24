@@ -2,7 +2,7 @@
 
 ### [Vivo de Rock](https://open.spotify.com/playlist/37i9dQZF1DWW6E2JpQb9U9)
 
-> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Cuarteto de Nos
+> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. Foto: Charly García
 
 381 songs - 1 day 4 hr 42 min
 
@@ -264,7 +264,7 @@
 | [Pantalla Del Mundo Nuevo](https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M) | [Riff](https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG) | [Pantalla Del Mundo Nuevo \(En Vivo En B.A.Rock\)](https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56) | 6:50 | 2023-11-23 | 2024-08-16 |
 | [Par Mil \- En Vivo](https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Tilcara: El Recital](https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR) | 4:12 | 2022-09-09 | 2023-07-09 |
 | [Para las Almas Sensibles \- En Vivo](https://open.spotify.com/track/53rOvzrY1XciuQh0mPQLMU) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Una Noche en el Ópera \(En Vivo\)](https://open.spotify.com/album/3UABaqEy05y9oRktWZNoB7) | 4:05 | 2022-04-01 | 2022-07-17 |
-| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 |  |
+| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 | 2026-10-24 |
 | [Paraíso en Retro \- En Vivo](https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 3:28 | 2022-04-01 | 2026-10-17 |
 | [Pasajero en Extinción \- Remasterizado 2020](https://open.spotify.com/track/0uSEEENxLs5IJw6ysujZUJ) | [Cabezones](https://open.spotify.com/artist/7FGAi3mSjLMsq6p8SErsTA) | [20 Años](https://open.spotify.com/album/1kPk2P5D6QHM4pTRAyzk13) | 4:09 | 2022-04-01 | 2022-07-29 |
 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 | 2022-04-01 |  |
@@ -309,7 +309,7 @@
 | [Savia \- Vivo en Luna Park](https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Los Lunáticos Planes de una Mariposa Incandescente \(Vivo en Luna Park\)](https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E) | 4:54 | 2023-08-25 | 2025-12-24 |
 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 | 2022-04-01 |  |
 | [Selva](https://open.spotify.com/track/303pHynPWt6fzRQFQwI8SL) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [La Portuaria En Vivo](https://open.spotify.com/album/3Pzh6hE7RZofmrIrFyfiDd) | 4:39 | 2022-04-01 | 2023-03-25 |
-| [Sheriff \- En Vivo en Baradero Diciembre 2024](https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Sheriff \(En Vivo en Baradero Diciembre 2024\)](https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0) | 5:47 | 2025-03-07 | 2026-10-23 |
+| [Sheriff \- En Vivo en Baradero Diciembre 2024](https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Sheriff \(En Vivo en Baradero Diciembre 2024\)](https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0) | 5:47 | 2025-03-07 |  |
 | [Si Me Das Tu Amor \- En Vivo](https://open.spotify.com/track/3AGjOR54dS5YQBOqNZVEm4) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran \(En Vivo\)](https://open.spotify.com/album/305jNhp1fDXD4Gga5rYUPZ) | 3:39 | 2022-04-01 | 2022-07-25 |
 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 | 2022-04-01 |  |
 | [Silencio \(Ft\. Fito Páez\) \- En Vivo Teatro Ópera](https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Silencio \(Ft\. Fito Páez\) \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg) | 5:01 | 2022-04-01 |  |

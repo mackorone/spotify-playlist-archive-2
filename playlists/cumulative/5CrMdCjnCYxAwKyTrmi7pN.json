@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/1mEoulfEor7JTmthXbQiQN"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250015,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/0mG4lEdqrxRj1B0KmpEffX"
+    },
+    {
+      "album": {
         "name": "Wuthering Heights",
         "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
@@ -4625,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
+    },
+    {
+      "album": {
         "name": "miss sunshine",
         "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
       },
@@ -7904,6 +7940,24 @@
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+    },
+    {
+      "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
     },
     {
       "album": {

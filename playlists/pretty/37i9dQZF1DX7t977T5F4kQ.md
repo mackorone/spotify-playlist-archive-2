@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,627 likes - 86 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,654 likes - 86 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 15 | [Darkest Style](https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W) | [D Global](https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Darkest Style](https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3) | 2:18 |
 | 16 | [Forever \(feat\. AratheJay\)](https://open.spotify.com/track/3tc3pVVcG9S3B30Jte0EJd) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 3:16 |
 | 17 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
-| 18 | [ABILITY \(feat\. Medikal & beatzvampire\)](https://open.spotify.com/track/5mrALmqbMOh64jH7AJCM7U) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [beatzvampire](https://open.spotify.com/artist/3UR0BfuOeel0tp2yKDCShl) | [ABILITY \(feat\. Medikal & beatzvampire\)](https://open.spotify.com/album/2JFCHtwOJ6WkiUtV2i4AiP) | 2:19 |
+| 18 | [ABILITY \(with Medikal & beatzvampire\)](https://open.spotify.com/track/5mrALmqbMOh64jH7AJCM7U) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [beatzvampire](https://open.spotify.com/artist/3UR0BfuOeel0tp2yKDCShl) | [ABILITY \(with Medikal & beatzvampire\)](https://open.spotify.com/album/2JFCHtwOJ6WkiUtV2i4AiP) | 2:19 |
 | 19 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 |
 | 20 | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/album/0YLqst6MXpMNNyVtZKJPQb) | 2:28 |
 | 21 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 |

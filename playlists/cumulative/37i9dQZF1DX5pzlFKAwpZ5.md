@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-433 songs - 1 day 6 hr 59 min
+434 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 | 2025-04-17 |
 | [Moon Dance in Tokyo](https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Moon Dance in Tokyo](https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr) | 2:34 | 2026-01-23 | 2026-06-14 |
 | [morning dew](https://open.spotify.com/track/7ESmIsEJMeZryYQEG4JUky) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [morning dew](https://open.spotify.com/album/2pCZEibDB6sYdHPbAmvHzl) | 2:08 | 2026-01-23 | 2026-04-03 |
+| [Morning Mist](https://open.spotify.com/track/6cZv571156wWIK7aipPFR3) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Morning Mist](https://open.spotify.com/album/6DSREoxamd9J97NEA1Gnsz) | 2:26 | 2026-10-20 |  |
 | [Motionless Wings](https://open.spotify.com/track/6l7YuElJh8Ru2yWNnr5iHd) | [Stephen Vitiello](https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 4](https://open.spotify.com/album/1P84OiiCx9pqvAN0RSNX0o) | 6:33 | 2024-11-30 | 2024-12-15 |
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 | 2026-01-06 |
@@ -318,7 +319,7 @@
 | [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 | 2022-01-07 |  |
 | [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-15 |  |
 | [Silhouette](https://open.spotify.com/track/5mmSEWXyuJ007o2qrEFBPx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Silhouette](https://open.spotify.com/album/4TfcaVrckQEVRfLi8yOtXn) | 3:16 | 2024-06-07 | 2025-01-25 |
-| [Silky Lake](https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:44 | 2025-12-02 |  |
+| [Silky Lake](https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:44 | 2025-12-02 | 2026-10-24 |
 | [Simple](https://open.spotify.com/track/3NycsY2xkMtw46D7rlUs3v) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 3:12 | 2022-03-25 |  |
 | [Sink](https://open.spotify.com/track/2sIqJEaOkljoxWkK6xeCXz) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Escapism](https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE) | 6:24 | 2022-01-07 |  |
 | [Sketch\#1](https://open.spotify.com/track/13jMKwAdRtkLfjz6a0Pml1) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Afterimage](https://open.spotify.com/album/7I3QjuOUAde7BUD5nrXbwX) | 7:25 | 2024-12-14 | 2026-04-09 |

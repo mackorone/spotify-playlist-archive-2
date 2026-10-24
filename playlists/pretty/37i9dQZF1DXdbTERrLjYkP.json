@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Isabel Dumaa",
-  "num_followers": 219475,
+  "num_followers": 219486,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO45JZHsWafz/NKG3gRfFMQlsGCH",
+  "snapshot_id": "AAAAAB8lyBzwIcoaeurz2rrFnKmbZCZ9",
   "tracks": [
     {
       "added_at": "2026-10-23 04:02:28",
@@ -151,6 +151,22 @@
       "duration_ms": 238466,
       "name": "The Cost Of Loving",
       "url": "https://open.spotify.com/track/7h3jvBrNLSEXvPpqFWXvi9"
+    },
+    {
+      "added_at": "2026-10-23 14:46:26",
+      "album": {
+        "name": "Bad at Goodbyes",
+        "url": "https://open.spotify.com/album/1ETwFcDJbYKBWExO85GYTJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 174554,
+      "name": "Bad at Goodbyes",
+      "url": "https://open.spotify.com/track/3SHM2RkG2IzMiU57KHuMQC"
     },
     {
       "added_at": "2026-10-23 04:02:28",

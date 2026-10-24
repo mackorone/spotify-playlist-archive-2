@@ -2,9 +2,9 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Shad Mziki
+> Chill, take a long walk and clear your mind\. Cover: Matt Ngesa
 
-165 songs - 9 hr 20 min
+166 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 | 2026-04-03 |
 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 | 2022-11-11 | 2025-01-10 |
 | [Athena, am I beautiful?](https://open.spotify.com/track/2brYh8EuopGb0C1NsJtOZt) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Speak to me](https://open.spotify.com/album/0dzjosZvWYTFaUAcv3d9nL) | 4:39 | 2025-07-25 | 2026-07-24 |
+| [August](https://open.spotify.com/track/3VLWuFaZ8GtVzFUsC9QLoc) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [For The Road](https://open.spotify.com/album/1hXDSyh8pQ7ZXcerC76vSV) | 5:19 | 2026-10-23 |  |
 | [Back to You](https://open.spotify.com/track/4AnxZhiNBczBXQnlOe3cyo) | [Sabbiti](https://open.spotify.com/artist/4esD9sCv1aUQkiITM5MAPr), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Heart on My Sleeve](https://open.spotify.com/album/238xJcBdmV2A4gn1hEqRMf) | 2:57 | 2026-09-07 |  |
 | [Bad Decision](https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Bad Decision](https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A) | 3:31 | 2026-05-29 |  |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-16 | 2026-04-24 |
@@ -133,7 +134,7 @@
 | [Show Me](https://open.spotify.com/track/5rXWTxgm7w41aQx1w3xN7R) | [Hadaya Eliana](https://open.spotify.com/artist/1FbR4POuJEavlbVoYnXrz1), [Genes1s](https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e) | [Show Me](https://open.spotify.com/album/0GdglHmlytSouH0ZXfRRzV) | 2:48 | 2026-08-13 |  |
 | [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 | 2025-05-02 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-11-11 | 2024-01-12 |
-| [Silence](https://open.spotify.com/track/22G4l622bTQvI2cXCWukEh) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Silence](https://open.spotify.com/album/281QRwB2V26Emhe54lVsYg) | 3:07 | 2026-08-06 |  |
+| [Silence](https://open.spotify.com/track/22G4l622bTQvI2cXCWukEh) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Silence](https://open.spotify.com/album/281QRwB2V26Emhe54lVsYg) | 3:07 | 2026-08-06 | 2026-10-24 |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2022-11-11 | 2023-12-03 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-04-28 | 2025-02-15 |
 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 | 2023-12-02 |  |

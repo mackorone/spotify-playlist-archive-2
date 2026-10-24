@@ -4,7 +4,7 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-126 songs - 8 hr 37 min
+127 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 | 2023-04-23 | 2026-08-27 |
 | [Living In A Ghost Town](https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Living In A Ghost Town](https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR) | 4:07 | 2022-01-09 | 2026-08-27 |
 | [Love Is Strong \- Remastered 2009](https://open.spotify.com/track/3Is1ugfPG3hdFWTq15nNBV) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Voodoo Lounge \(Remastered 2009\)](https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV) | 3:48 | 2022-01-27 |  |
-| [Loving Cup](https://open.spotify.com/track/34OzAaQeAWlFnZBSyUAtRh) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 4:24 | 2022-01-11 |  |
+| [Loving Cup](https://open.spotify.com/track/34OzAaQeAWlFnZBSyUAtRh) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 4:24 | 2022-01-11 | 2026-10-24 |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-11-10 | 2026-09-09 |
 | [Midnight Rambler](https://open.spotify.com/track/3tIvHt7VaIenprWXrYzgwb) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 6:52 | 2022-01-09 | 2026-08-27 |
 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 | 2022-01-09 |  |
@@ -127,6 +127,7 @@
 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 | 2022-01-09 |  |
 | [Ventilator Blues](https://open.spotify.com/track/74mpiRPDd2rFeBR1Yl60I3) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:24 | 2023-03-26 | 2023-11-11 |
 | [Waiting On A Friend \- Remastered 2009](https://open.spotify.com/track/4Wd9pEtEnZNDjgiswGOpJb) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 4:34 | 2022-01-09 |  |
+| [Who You Callin' Crazy](https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Who You Callin' Crazy](https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ) | 4:09 | 2026-10-24 |  |
 | [Whole Wide World](https://open.spotify.com/track/4yOAYf9yYNT5Pq3iuuJcUa) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:58 | 2023-11-10 | 2026-08-27 |
 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 | 2022-01-09 |  |
 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 | 2022-01-09 |  |

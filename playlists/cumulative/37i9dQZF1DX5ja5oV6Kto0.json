@@ -7292,7 +7292,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184299,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf"
@@ -8655,6 +8655,32 @@
     },
     {
       "album": {
+        "name": "go too far",
+        "url": "https://open.spotify.com/album/6Y8QBgXPiPq1LU0iIfeWco"
+      },
+      "artists": [
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        },
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129374,
+      "name": "go too far",
+      "url": "https://open.spotify.com/track/12uP0gIJGu3zDvJGLmbB1s"
+    },
+    {
+      "album": {
         "name": "Gold Coast",
         "url": "https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x"
       },
@@ -9482,6 +9508,24 @@
       "duration_ms": 136954,
       "name": "Heya",
       "url": "https://open.spotify.com/track/1cK4YKVjfBdk6xR4U7cRSx"
+    },
+    {
+      "album": {
+        "name": "HIGH AS HEAVEN",
+        "url": "https://open.spotify.com/album/0xu1eSPv6VjK6wAY8br6vu"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198505,
+      "name": "HIGH AS HEAVEN",
+      "url": "https://open.spotify.com/track/69vAH1CuRcrLCZGrslEMEr"
     },
     {
       "album": {
@@ -11986,7 +12030,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 141250,
       "name": "Lasgidi",
       "url": "https://open.spotify.com/track/37O3iBiT1tgRuQWCfM7s9G"

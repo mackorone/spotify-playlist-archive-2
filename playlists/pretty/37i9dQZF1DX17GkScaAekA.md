@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,282 likes - 134 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,125 likes - 134 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 25 | [Nocturne No\. 8 in D\-Flat Major, Op\. 27 No\. 2](https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Lunaris](https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA) | 6:24 |
 | 26 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 |
 | 27 | [Kol Nidrei, Op\. 47](https://open.spotify.com/track/6VzDnCR45eYPY6qW5waFYh) | [Max Bruch](https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5), [Astrig Siranossian](https://open.spotify.com/artist/4UgW7knecWcaJivnQJFkmu), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp) | [Sir!](https://open.spotify.com/album/4u6sUgcwEx0g6yQatZXLaU) | 10:11 |
-| 28 | [Andrei](https://open.spotify.com/track/3FuIwtiMNisauMhKOdmPjO) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [War & Peace \(Original Soundtrack by Martin Phipps\)](https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl) | 3:19 |
+| 28 | [Andrei](https://open.spotify.com/track/3FuIwtiMNisauMhKOdmPjO) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [BBC National Orchestra of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [War & Peace \(Original Soundtrack by Martin Phipps\)](https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl) | 3:19 |
 | 29 | [Chopin: Nocturne No\. 21 in C Minor, Op\. Posth.](https://open.spotify.com/track/0OZftmWNkDJDdxjCvSSbGa) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Evening Piano \- Chopin: Nocturne No\. 21 in C Minor, Op\. Posth.](https://open.spotify.com/album/64d96qQJ3hBHx6vvAr7ksJ) | 3:13 |
 | 30 | [Processional](https://open.spotify.com/track/2i8skmXAsVCfQwjnpoBEVP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Black Mozart](https://open.spotify.com/album/4pw6vv5tS2sbpgKjwVS7l5) | 2:52 |
 | 31 | [Goiza Larrunen](https://open.spotify.com/track/5W51XW27tDmVhWWxCp0Vvp) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Dessner: Goiza Larrunen](https://open.spotify.com/album/4Ju1T7qpYADFPO8weAcHhP) | 3:18 |

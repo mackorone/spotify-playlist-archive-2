@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Silvana Estrada & M. Ward",
+  "description": "Fresh Latin indie you should know. Cover: YOSHI",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -5061,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Selva Oscura",
+        "url": "https://open.spotify.com/album/1gppQNLvgPH1wfrA9yLw9X"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "cuando no puedes ver nada",
+      "url": "https://open.spotify.com/track/6Xtd6zuzNPEkYtfVBhlogp"
+    },
+    {
+      "album": {
         "name": "Cuatro Paredes",
         "url": "https://open.spotify.com/album/4H09USw50ogQNzcpEu5cck"
       },
@@ -8287,6 +8305,24 @@
     },
     {
       "album": {
+        "name": "LINCE",
+        "url": "https://open.spotify.com/album/2BF7Xtbnca7t786zWs5ZGO"
+      },
+      "artists": [
+        {
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204895,
+      "name": "ESTO MATA A CUALQUIERA",
+      "url": "https://open.spotify.com/track/3U859ANOpSfcAFumbQ5HpY"
+    },
+    {
+      "album": {
         "name": "Estos D\u00edas",
         "url": "https://open.spotify.com/album/4qk7bAsrMLOgiyaPwWoMx0"
       },
@@ -8722,6 +8758,24 @@
       "duration_ms": 195080,
       "name": "Flecha",
       "url": "https://open.spotify.com/track/3pKqURqogvWFugRGpWy0pG"
+    },
+    {
+      "album": {
+        "name": "Flor de canela",
+        "url": "https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229280,
+      "name": "Flor de canela",
+      "url": "https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG"
     },
     {
       "album": {
@@ -9474,7 +9528,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 182055,
       "name": "Hablando de ti",
       "url": "https://open.spotify.com/track/0I8XOFggphpa3CRwpfUKbz"
@@ -9698,7 +9752,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 158400,
       "name": "Hay Que Volver",
       "url": "https://open.spotify.com/track/28mufThIo9s1UELlx8Todx"
@@ -11366,7 +11420,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 244197,
       "name": "La Nieve - Original song from the film La Bola Negra",
       "url": "https://open.spotify.com/track/6W4fSGsqNmyPTYo29rJ50z"
@@ -12202,7 +12256,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194490,
       "name": "LINCE",
       "url": "https://open.spotify.com/track/3ul4tQoFMJwwEjq9mAXtib"
@@ -13266,7 +13320,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 139578,
       "name": "mala palabra",
       "url": "https://open.spotify.com/track/0VcFkoWA1yLKHxGVLQybF6"
@@ -13480,6 +13534,28 @@
       "duration_ms": 175167,
       "name": "mas bonita",
       "url": "https://open.spotify.com/track/5dFmky8tjOVwcwZRtQXZuH"
+    },
+    {
+      "album": {
+        "name": "mate banana",
+        "url": "https://open.spotify.com/album/1VPvmJvhma3ZxcrBfxjm72"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "emmi",
+          "url": "https://open.spotify.com/artist/4uKazpOzJICJZ1MU1wwLfC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187605,
+      "name": "mate banana",
+      "url": "https://open.spotify.com/track/18JtneUeikfVpiWyOpHMYb"
     },
     {
       "album": {
@@ -19704,7 +19780,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 245324,
       "name": "Reflejos",
       "url": "https://open.spotify.com/track/0v66OJoib02OFu6FVIGJD1"
@@ -20616,6 +20692,24 @@
       "duration_ms": 243356,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
+    },
+    {
+      "album": {
+        "name": "se\u00f1al",
+        "url": "https://open.spotify.com/album/0OmACCTrmEXV3JB3CYWrSc"
+      },
+      "artists": [
+        {
+          "name": "Sofia Lafuente",
+          "url": "https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "se\u00f1al",
+      "url": "https://open.spotify.com/track/3nTTwsN9xC1LM3nsO8CXcT"
     },
     {
       "album": {
@@ -23272,7 +23366,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 149661,
       "name": "Todo Es Por Ti",
       "url": "https://open.spotify.com/track/3JUAvF2Gpql8HPHvwEa4Uu"
@@ -23718,6 +23812,28 @@
       "duration_ms": 180286,
       "name": "TR\u00caS",
       "url": "https://open.spotify.com/track/2xjwVhT91obFavd67VOo80"
+    },
+    {
+      "album": {
+        "name": "D\u00f3nde Salir a Buscar",
+        "url": "https://open.spotify.com/album/0IcseSLWImK3Ere6V9tRGH"
+      },
+      "artists": [
+        {
+          "name": "Mia Zeta",
+          "url": "https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174487,
+      "name": "Tu Culpa",
+      "url": "https://open.spotify.com/track/45x7XMSuwSHPzByFbntDZO"
     },
     {
       "album": {
@@ -24504,6 +24620,24 @@
       "duration_ms": 276398,
       "name": "Un Rayo De Luz",
       "url": "https://open.spotify.com/track/4O4FTLt4aYzTBqpjf8TFdZ"
+    },
+    {
+      "album": {
+        "name": "un rinc\u00f3n en el olvido",
+        "url": "https://open.spotify.com/album/3gV3jUCAwwa8nK63lQRnR5"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176603,
+      "name": "un rinc\u00f3n en el olvido",
+      "url": "https://open.spotify.com/track/2k5qkYhJeadIDpD90mtgod"
     },
     {
       "album": {

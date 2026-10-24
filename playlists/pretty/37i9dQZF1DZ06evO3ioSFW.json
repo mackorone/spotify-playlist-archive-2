@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 542966,
+  "num_followers": 543088,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADKJy3eHx+JvLhrf2krZ/Vj",
+  "snapshot_id": "atgAgAAAAAClyEmxZUiDG3GzrNioOJvB",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Acompa\u00f1ado",
-        "url": "https://open.spotify.com/album/0rU8BvCez2ostHJ1KY8gVX"
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
-        {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Armando \u00c1vila",
-          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
         }
       ],
-      "duration_ms": 232906,
-      "name": "\u00bfQu\u00e9 Nos Pas\u00f3? (with Yuridia)",
-      "url": "https://open.spotify.com/track/4eE8rU7ymogVA74C8j2b2f"
+      "duration_ms": 203346,
+      "name": "La Duda (Primera fila) - En Vivo",
+      "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
     },
     {
       "added_at": null,
@@ -355,18 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+        "name": "Bien Acompa\u00f1ado",
+        "url": "https://open.spotify.com/album/0rU8BvCez2ostHJ1KY8gVX"
       },
       "artists": [
         {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Armando \u00c1vila",
+          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
         }
       ],
-      "duration_ms": 203346,
-      "name": "La Duda (Primera fila) - En Vivo",
-      "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
+      "duration_ms": 232906,
+      "name": "\u00bfQu\u00e9 Nos Pas\u00f3? (with Yuridia)",
+      "url": "https://open.spotify.com/track/4eE8rU7ymogVA74C8j2b2f"
     },
     {
       "added_at": null,

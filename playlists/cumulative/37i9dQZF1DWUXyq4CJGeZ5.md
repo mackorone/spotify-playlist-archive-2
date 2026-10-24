@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-568 songs - 1 day 0 hr 39 min
+570 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Tenth Chance](https://open.spotify.com/track/1kDheV1EiJeNlzFSRbaNfU) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [A Tenth Chance](https://open.spotify.com/album/6UiaWyEdS1Nuep4B80LAGs) | 2:06 | 2025-09-24 |  |
 | [A Walk by the River](https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [A Walk by the River](https://open.spotify.com/album/5Peob5RmIHgQaQ0QvXoYPG) | 2:16 | 2024-10-01 |  |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2023-03-10 | 2024-10-22 |
+| [Absence](https://open.spotify.com/track/12Nrb9ghhJpD74pO8rj2jz) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Absence](https://open.spotify.com/album/08rFgc0sVCvnbvgA9T5WoF) | 2:52 | 2026-10-23 |  |
 | [Ad Libitum](https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Ad Libitum](https://open.spotify.com/album/2psCwjqmdWAShLWbXzCkNY) | 3:02 | 2023-03-10 | 2024-10-22 |
 | [Adagio No 2 C\-Minor](https://open.spotify.com/track/6L0JsNlvd8CgtJkhRxZd5f) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Adagio No 2 C\-Minor](https://open.spotify.com/album/5bx5oBzjzCLliHbkwDOjnF) | 3:48 | 2023-03-10 | 2024-11-13 |
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2023-03-10 | 2025-11-06 |
@@ -48,6 +49,7 @@
 | [Auric](https://open.spotify.com/track/6mJKi4iA4F95S2fw4py4Tj) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Auric](https://open.spotify.com/album/6NHUYkQzuPcxp3BkHo4sgd) | 2:25 | 2026-09-25 |  |
 | [automne](https://open.spotify.com/track/148TgfnMm3rIu632bSYUk9) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [automne](https://open.spotify.com/album/64kqrsnhnRaQ4bGSBpXnh5) | 2:28 | 2024-10-15 |  |
 | [Automne](https://open.spotify.com/track/4q0kdtrDe5YiYEQCHsfDlZ) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Automne](https://open.spotify.com/album/6KWLiS8BWwwXZMtzO6Kfwv) | 2:26 | 2024-11-12 |  |
+| [Autumn Song](https://open.spotify.com/track/3mnjKgDoy992Im3V7ZY6Ua) | [Emile Valadon](https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS) | [Autumn Song](https://open.spotify.com/album/0PeA2VpJHT7VwBQaoAwmUw) | 2:21 | 2026-10-23 |  |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-08 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2023-03-10 | 2024-04-04 |
 | [Baignade Joyeuse](https://open.spotify.com/track/1VndoWfgli0Vez1TL7MARp) | [Manuela Tigre](https://open.spotify.com/artist/2Ijh8zXrJXuH5k4u7UmSbw) | [Baignade Joyeuse](https://open.spotify.com/album/2kOsZnfnCYMhZaWz6s7ctN) | 2:37 | 2023-10-10 | 2024-04-04 |

@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-270 songs - 11 hr 23 min
+271 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Cozy Book](https://open.spotify.com/track/10ZghCbHdFoeu0kRIvQWFR) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Cozy Book](https://open.spotify.com/album/4quDqRYc7WnLpAiTHMeM2R) | 2:34 | 2026-07-24 |  |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2023-05-09 | 2025-02-27 |
 | [Dahlia](https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Dahlia](https://open.spotify.com/album/78wynCL5BJIJe0utApFZko) | 2:55 | 2023-12-12 |  |
+| [Dark Harbor](https://open.spotify.com/track/4Wr7o2wJIbu6MT4Nfb3Yx7) | [Petr Nagy](https://open.spotify.com/artist/0AEwSyrdaYbRycpzm7vN6j) | [Dark Harbor](https://open.spotify.com/album/2kdhwZ4lhdGPPME85KA7m3) | 2:18 | 2026-10-23 |  |
 | [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 | 2025-09-19 |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [deux amants](https://open.spotify.com/track/5OkRIoF2qGpLy44bmu8yCR) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [deux amants](https://open.spotify.com/album/0CtPECqSOoqmSpNvnFPeiC) | 2:29 | 2025-11-05 |  |

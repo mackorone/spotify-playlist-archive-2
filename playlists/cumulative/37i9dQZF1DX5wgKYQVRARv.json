@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Genotype",
+        "url": "https://open.spotify.com/album/6Rtb6kGCLxFJiknApNXuxZ"
+      },
+      "artists": [
+        {
+          "name": "Textures",
+          "url": "https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO"
+        },
+        {
+          "name": "Charlotte Wessels",
+          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402473,
+      "name": "At The Edge Of Winter",
+      "url": "https://open.spotify.com/track/3iv0fr8pMGnjU9JB64Gn32"
+    },
+    {
+      "album": {
         "name": "At The Edge Of Winter",
         "url": "https://open.spotify.com/album/0wrUCXTDj3AesrDJkbVAej"
       },
@@ -1138,7 +1160,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 402473,
       "name": "At The Edge Of Winter",
       "url": "https://open.spotify.com/track/70wdYizX9TISjAcjw7DjzL"

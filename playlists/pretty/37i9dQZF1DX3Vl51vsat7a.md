@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,288 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,296 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 0:00 |
+| 1 | [Gutmensch](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 2:24 |
 | 2 | [Dance It Out](https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Endless Summer](https://open.spotify.com/album/6YDXIYzh182auw0avklzbq) | 3:14 |
 | 3 | [Staub](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 3:25 |
 | 4 | [little black dress](https://open.spotify.com/track/05UGMVbH06OGSgq3tExW9C) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [little black dress](https://open.spotify.com/album/0g7eewUCAkmkOeMjBCBmrN) | 2:33 |

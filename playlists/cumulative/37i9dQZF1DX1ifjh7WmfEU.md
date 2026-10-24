@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-331 songs - 14 hr 32 min
+332 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Sincerely](https://open.spotify.com/track/37118DI0c687jeVzVJ7PpU) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/514tfPgBudvUqz3bM5AgYt) | 2:09 | 2022-07-27 | 2024-04-19 |
 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 | 2022-05-27 | 2025-05-22 |
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2022-05-27 | 2024-04-10 |
+| [Softest Shadow](https://open.spotify.com/track/50uBcG3yLNN4ZtMfUjnS6K) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Softest Shadow](https://open.spotify.com/album/4fz5Y0m8JUXEhx7omjTgNJ) | 2:14 | 2026-10-23 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-05-27 | 2024-04-04 |
 | [Sophisticated](https://open.spotify.com/track/2PgpHY9g9k6ER1qEbwwFSJ) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Sophisticated](https://open.spotify.com/album/2ybmczckxP8uMWeZVaC9rK) | 2:05 | 2024-05-01 | 2025-05-22 |
 | [Spots](https://open.spotify.com/track/1DzIfBEPXivn7orD1D7eiO) | [Mila Duran](https://open.spotify.com/artist/4V0PWkhjqKmj5gDW50Vryl) | [Spots](https://open.spotify.com/album/6YjQbkMUI8xOjyKIFacfBk) | 3:04 | 2022-05-27 | 2022-07-28 |

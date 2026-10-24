@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,076 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,139 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 7 | [Sensima](https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Sensima](https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI) | 3:07 |
 | 8 | [Lagos to Kampala](https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto University](https://open.spotify.com/album/45rFRMLtbRbX96BNxYvdSa) | 3:34 |
 | 9 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
-| 10 | [Do Like That](https://open.spotify.com/track/0z0qRN3HNUCOG9y1R7umuD) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Do like That](https://open.spotify.com/album/6eQAVozNuLJiJHvcaJDfGW) | 3:33 |
-| 11 | [Pain Killer](https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:30 |
+| 10 | [Pain Killer](https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:30 |
+| 11 | [Do Like That](https://open.spotify.com/track/0z0qRN3HNUCOG9y1R7umuD) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Do like That](https://open.spotify.com/album/6eQAVozNuLJiJHvcaJDfGW) | 3:33 |
 | 12 | [Said](https://open.spotify.com/track/0AWnrLw8H8wE6edp5Z2ibI) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said](https://open.spotify.com/album/36pdRov9L2FbIGtJaqEeNt) | 3:38 |
 | 13 | [Energy](https://open.spotify.com/track/10FJRxGgHlM7cHQwbFNdX4) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Energy](https://open.spotify.com/album/55lvpnoqp8aNqtoesV22vB) | 3:17 |
 | 14 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 36 | [Coolest Kid in Africa \(feat\. Nasty C\)](https://open.spotify.com/track/6A7oGoKJDwL0l0FBwREQJP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Son of Mercy \- EP](https://open.spotify.com/album/33te65RWNpXJCwL2cFDRTP) | 3:48 |
 | 37 | [Money](https://open.spotify.com/track/6kiPKAH8bHNiHAkIsxYcnZ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 3:05 |
 | 38 | [Totori](https://open.spotify.com/track/1yTWPSRe64KqojEYHRjxnc) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR) | [Totori](https://open.spotify.com/album/36VLr78k31cN2mq0bFBrFP) | 3:24 |
-| 39 | [Sample You](https://open.spotify.com/track/5QADSCCiRaRlDFyJc53Ay8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Sample You](https://open.spotify.com/album/2Ex8kmPlBCTu8HelDgIsfe) | 3:33 |
+| 39 | [Otedola](https://open.spotify.com/track/1hQyklmtL6RqaxAN19UkFL) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Money Symphony](https://open.spotify.com/album/6Y09q1ChXcorX4V97153QS) | 3:05 |
 | 40 | [Good Morning Riddim](https://open.spotify.com/track/3H2yJkmKQXfjOtIKlPm300) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:35 |
-| 41 | [Otedola](https://open.spotify.com/track/1hQyklmtL6RqaxAN19UkFL) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Money Symphony](https://open.spotify.com/album/6Y09q1ChXcorX4V97153QS) | 3:05 |
+| 41 | [Sample You](https://open.spotify.com/track/5QADSCCiRaRlDFyJc53Ay8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Sample You](https://open.spotify.com/album/2Ex8kmPlBCTu8HelDgIsfe) | 3:33 |
 | 42 | [Bend Down Pause](https://open.spotify.com/track/4GlmmPb6uYFxw92xDRzdvL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 3:17 |
 | 43 | [IYABO](https://open.spotify.com/track/4fNHV8GNXvxVL0GJrZDqZa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [IYABO](https://open.spotify.com/album/5ARHGcV1uY1RokdvrAj5UA) | 2:04 |
 | 44 | [Available](https://open.spotify.com/track/5m6aJAmW3ZJ50eK0Gg0HgL) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Available](https://open.spotify.com/album/52Av15Tg6Sx7Ye0Rn20ONE) | 3:34 |

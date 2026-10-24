@@ -1,69 +1,13 @@
 {
   "description": "The hottest tracks of today ft. Don Toliver, Lil Baby, Drake and more.",
-  "num_followers": 2349321,
+  "num_followers": 2349279,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFD1mUIkB/2K4/2JTXXV55wLEZPF",
+  "snapshot_id": "AAAAANZpK6NZ75GeUcGcuwGylsEWkKwS",
   "tracks": [
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Secondhand (feat. Rema)",
-      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
-    },
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
-    },
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
-        "name": "pop it",
-        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 138866,
-      "name": "pop it",
-      "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
-    },
     {
       "added_at": "2026-10-16 04:02:08",
       "album": {
@@ -99,6 +43,26 @@
     {
       "added_at": "2026-10-16 04:02:08",
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "added_at": "2026-10-16 04:02:08",
+      "album": {
         "name": "BE MORE GRATEFUL",
         "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
@@ -115,18 +79,62 @@
     {
       "added_at": "2026-10-16 04:02:08",
       "album": {
-        "name": "Dead Fresh",
-        "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136"
+        "name": "pop it",
+        "url": "https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 157020,
-      "name": "Dead Fresh",
-      "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
+      "duration_ms": 138866,
+      "name": "pop it",
+      "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
+    },
+    {
+      "added_at": "2026-10-16 04:02:08",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Secondhand (feat. Rema)",
+      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "added_at": "2026-10-23 04:08:32",
+      "album": {
+        "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+      "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
     },
     {
       "added_at": "2026-10-16 04:02:08",
@@ -167,6 +175,22 @@
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
+    },
+    {
+      "added_at": "2026-10-16 04:02:08",
+      "album": {
+        "name": "Dead Fresh",
+        "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 157020,
+      "name": "Dead Fresh",
+      "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
     },
     {
       "added_at": "2026-10-16 04:02:08",
@@ -245,6 +269,26 @@
       "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
     },
     {
+      "added_at": "2026-10-23 04:08:32",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+    },
+    {
       "added_at": "2026-10-16 04:02:08",
       "album": {
         "name": "Rebel",
@@ -313,36 +357,24 @@
       "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
-      "added_at": "2026-10-16 04:02:08",
+      "added_at": "2026-10-23 04:08:32",
       "album": {
-        "name": "#ZEDDY",
-        "url": "https://open.spotify.com/album/45iPFntKinxMxZIJmcsEc0"
+        "name": "BURN (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/6zNke11RgaMOoQDruAYELb"
       },
       "artists": [
         {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 138194,
-      "name": "Bow Bow Bow",
-      "url": "https://open.spotify.com/track/44IIYYzThCxUVsxQd4ec2L"
-    },
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
-        "name": "SLICK",
-        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
-      },
-      "artists": [
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 106909,
-      "name": "SLICK",
-      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
+      "duration_ms": 176800,
+      "name": "BURN (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/1alX84LuLflUU7n4ow0aSM"
     },
     {
       "added_at": "2026-10-16 04:02:08",
@@ -367,26 +399,6 @@
       "duration_ms": 234849,
       "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
       "url": "https://open.spotify.com/track/50GVx8sCc1TDKHXumgYqEO"
-    },
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
-        "name": "Don\u2019t Chart (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Don\u2019t Chart (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
     },
     {
       "added_at": "2026-10-16 04:02:08",
@@ -463,26 +475,6 @@
     {
       "added_at": "2026-10-16 04:02:08",
       "album": {
-        "name": "FREAKED OUT",
-        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
-      },
-      "artists": [
-        {
-          "name": "Fat Papi",
-          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
-        },
-        {
-          "name": "prodshushy",
-          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "FREAKED OUT",
-      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
-    },
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
         "name": "WTF GOIN (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb"
       },
@@ -515,6 +507,22 @@
       "duration_ms": 155753,
       "name": "Body",
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
+      "added_at": "2026-10-16 04:02:08",
+      "album": {
+        "name": "#ZEDDY",
+        "url": "https://open.spotify.com/album/45iPFntKinxMxZIJmcsEc0"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 138194,
+      "name": "Bow Bow Bow",
+      "url": "https://open.spotify.com/track/44IIYYzThCxUVsxQd4ec2L"
     },
     {
       "added_at": "2026-10-16 04:02:08",
@@ -583,6 +591,26 @@
       "duration_ms": 161470,
       "name": "Drop The Lo",
       "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
+    },
+    {
+      "added_at": "2026-10-16 04:02:08",
+      "album": {
+        "name": "MAID OF HONOUR",
+        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Cheetah Print (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
     },
     {
       "added_at": "2026-10-16 04:02:08",
@@ -775,22 +803,6 @@
     {
       "added_at": "2026-10-16 04:02:08",
       "album": {
-        "name": "AH HA",
-        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "AH HA",
-      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
-    },
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
         "name": "Trance (Walk It Down)",
         "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
       },
@@ -875,26 +887,6 @@
     {
       "added_at": "2026-10-16 04:02:08",
       "album": {
-        "name": "MAID OF HONOUR",
-        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Cheetah Print (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
-    },
-    {
-      "added_at": "2026-10-16 04:02:08",
-      "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
       },
@@ -935,6 +927,22 @@
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
+    },
+    {
+      "added_at": "2026-10-16 04:02:08",
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
     },
     {
       "added_at": "2026-10-16 04:02:08",

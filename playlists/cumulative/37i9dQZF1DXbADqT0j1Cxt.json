@@ -9697,6 +9697,46 @@
     },
     {
       "album": {
+        "name": "Little Mozart, Vol. 2",
+        "url": "https://open.spotify.com/album/6D5VJWWXMikNU7usWf8gBa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Paterok",
+          "url": "https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114729,
+      "name": "Pa-Pa-Pa-Papagena! - Excerpt, Arr. for piano by Daniel Paterok",
+      "url": "https://open.spotify.com/track/7DtYsWml6SNq0j20oCI3lE"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Music",
+        "url": "https://open.spotify.com/album/3uPRIr3zWC1RuizWLgTMuC"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Time",
+          "url": "https://open.spotify.com/artist/5AUPJRWkYNsxRWihENePtH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146312,
+      "name": "Pachelbel's Canon",
+      "url": "https://open.spotify.com/track/1nLTRTZxV892MKlYOIusTY"
+    },
+    {
+      "album": {
         "name": "Pancake Friends",
         "url": "https://open.spotify.com/album/2euhvwQSPiInKRdgOiZMU3"
       },
@@ -12037,6 +12077,24 @@
     },
     {
       "album": {
+        "name": "Baby Sleep Music",
+        "url": "https://open.spotify.com/album/3uPRIr3zWC1RuizWLgTMuC"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Time",
+          "url": "https://open.spotify.com/artist/5AUPJRWkYNsxRWihENePtH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134819,
+      "name": "Sonata No. 16",
+      "url": "https://open.spotify.com/track/0wPdrsT7vdyUQ2HtNR8Gep"
+    },
+    {
+      "album": {
         "name": "Song Of The Small Bear",
         "url": "https://open.spotify.com/album/0wxJtbDu0Hl4hWIIcZHQz1"
       },
@@ -13956,7 +14014,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 142235,
       "name": "Tingly Town",
       "url": "https://open.spotify.com/track/0VNxwQtC2mI3oAdpx1bohD"

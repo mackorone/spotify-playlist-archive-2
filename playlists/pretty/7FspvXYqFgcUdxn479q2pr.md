@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Lavern
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Timmy Trumpet
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,319 likes - 390 songs - 19 hr 59 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,316 likes - 390 songs - 19 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 389 | [Like A Drug](https://open.spotify.com/track/4OPpaJNuTo0j6XyvwDhrxF) | [Ben Wood](https://open.spotify.com/artist/2iDVKvq83UePPjZlTivOcR) | [Like A Drug](https://open.spotify.com/album/6D2mnM4kzrffNbSjNHPaRG) | 2:16 |
 | 390 | [Addicted To Our Chemistry](https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Addicted To Our Chemistry](https://open.spotify.com/album/2mwUICka1TnVDUyBwUELYg) | 2:44 |
 
-Snapshot ID: `AAAxQSUYiqflyN3uKqRS84G9ISPrso5/`
+Snapshot ID: `AAAxQssrz7HmtY4QKJRZOvMZWy+5PYmX`

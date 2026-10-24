@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-289 songs - 13 hr 58 min
+291 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [La La La](https://open.spotify.com/track/3DU0c6mgNlhZUVNOFJjdL8) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Digital Culture](https://open.spotify.com/artist/7JMIkI5oJTy7hNgNaIriN1) | [La La La](https://open.spotify.com/album/4gXAPY4A4HdiNcO9oXMN93) | 2:12 | 2026-09-24 |  |
 | [Legends](https://open.spotify.com/track/4C9uiUGtAuaqwOyDBlENWf) | [JaySic](https://open.spotify.com/artist/5OgXwDsd6Emt2JDOZgKhmY), [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG) | [Legends](https://open.spotify.com/album/72pqKQjm8gAJw22BWn2Rr0) | 3:10 | 2025-07-04 | 2026-10-02 |
 | [Lift Off](https://open.spotify.com/track/4LGn8oQ0bzByeJ5XxUueIx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Lift Off](https://open.spotify.com/album/3IslzywfEKTs1f2MyP3H6X) | 2:36 | 2025-07-04 | 2025-12-07 |
+| [Limitless](https://open.spotify.com/track/6Lft4kdIhPevBk5axhgN1u) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Limitless](https://open.spotify.com/album/7HExfsxp1gfUIQmzTOITkp) | 2:49 | 2026-10-23 |  |
 | [Little Closer](https://open.spotify.com/track/6P1dOqnOGP02Vr45SO8LSZ) | [Matt Fortress](https://open.spotify.com/artist/3XyDbGGjwgZLj7vl8uOisI), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Little Closer](https://open.spotify.com/album/2lGsrzCaNMhPhGeink2v2s) | 2:43 | 2025-07-04 | 2026-09-18 |
 | [Little Putz](https://open.spotify.com/track/0hKVb7ZHPQKT2UwTU10nhv) | [Kane Scott](https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu) | [Little Putz](https://open.spotify.com/album/031Wkq7AMRssBs4LKNyEEs) | 2:38 | 2025-07-04 |  |
 | [Lollipop \- Achilles Edit](https://open.spotify.com/track/38ZATth3dH2e16nbECIpl0) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Lollipop \(Remixes\)](https://open.spotify.com/album/53Icv1FzHUlgIExWeU0XWB) | 2:55 | 2025-07-04 |  |
@@ -157,6 +158,7 @@
 | [Lost in Space](https://open.spotify.com/track/28vHfMXcgseUNd90zEL5U3) | [PADWN](https://open.spotify.com/artist/0IkR20PF6ydE7dyLUZw3LK), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Lost In Space](https://open.spotify.com/album/0y9I02bUlJnVORYu1l9pAf) | 3:30 | 2025-07-04 |  |
 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 | 2025-07-04 | 2025-11-22 |
 | [Lost My Breath](https://open.spotify.com/track/1SKBIqTkG9Bvmcad0KPv7d) | [Semblance Smile](https://open.spotify.com/artist/13nmMVXihf9LHBGMm6NI6f), [Krevix](https://open.spotify.com/artist/0rl745DzfLM1szxoEUT8F4) | [Lost My Breath](https://open.spotify.com/album/4XOaNnSz4gl2sRhsA135mF) | 2:27 | 2025-07-04 |  |
+| [Lost My Mind](https://open.spotify.com/track/5VGi7FW94eNQSiM3Q6rYJz) | [Josh Le Tissier](https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9), [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV) | [Lost My Mind](https://open.spotify.com/album/0Yst6tDqUeqvHvu8jRe5XH) | 2:19 | 2026-10-23 |  |
 | [LS](https://open.spotify.com/track/7jgipOkxhYQwVCbt1vUwib) | [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [NYROK](https://open.spotify.com/artist/4mkWUMA2i9eUXRoYaDVU0K) | [LS](https://open.spotify.com/album/4IiJW7nhCgWNK9iL3AxTFL) | 2:14 | 2026-04-09 |  |
 | [Magalenha](https://open.spotify.com/track/4IPEchRbWdV3CFCgl3tXRA) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Magalenha](https://open.spotify.com/album/3NQrqWMpGH9PqZMEoSPBsZ) | 2:32 | 2025-07-04 |  |
 | [Make You Dance](https://open.spotify.com/track/5gHGLBWGSaBVvHT88VktRf) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Make You Dance](https://open.spotify.com/album/2OJL1a3IENdAKYHYfoCRNW) | 3:17 | 2025-07-31 |  |

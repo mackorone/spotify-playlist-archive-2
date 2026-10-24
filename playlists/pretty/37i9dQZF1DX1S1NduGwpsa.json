@@ -1,13 +1,45 @@
 {
-  "description": "The best jazz new releases. Cover: Ferdi",
-  "num_followers": 169295,
+  "description": "The best jazz new releases. Cover: Thomas Dutronc",
+  "num_followers": 169335,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4rfly9kvEgJhz0U/vIWEOqPs40",
+  "snapshot_id": "AAAAANrxM+TS+8lQKwssvfb4PgdpqsTv",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:00:58",
+      "album": {
+        "name": "The Jazz Nights",
+        "url": "https://open.spotify.com/album/2JJHzLyMW28YseVbjbg9ok"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        }
+      ],
+      "duration_ms": 281720,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/3pNWC41kALblPpJpLHR7ny"
+    },
+    {
+      "added_at": "2026-10-23 04:00:58",
+      "album": {
+        "name": "Not For Lack Of Trying (Deluxe)",
+        "url": "https://open.spotify.com/album/4BeNZ3Gr6Kt3IfQXJOHkXD"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 183035,
+      "name": "I Feel Bad For You, Dave",
+      "url": "https://open.spotify.com/track/4cZioYxDGFKgF45aiWs5B7"
+    },
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
@@ -29,6 +61,22 @@
       "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
     },
     {
+      "added_at": "2026-10-23 04:00:58",
+      "album": {
+        "name": "Live At The Blue Note L.A.",
+        "url": "https://open.spotify.com/album/6m7pxdtmBiIsV8VTYeYc7S"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 439999,
+      "name": "Yesterdays - Live At The Blue Note L.A.",
+      "url": "https://open.spotify.com/track/4p6xofTGJ0Hi8gpSc2DGEl"
+    },
+    {
       "added_at": "2026-10-16 04:00:11",
       "album": {
         "name": "But Not For Me",
@@ -45,20 +93,20 @@
       "url": "https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc"
     },
     {
-      "added_at": "2026-10-16 04:00:11",
+      "added_at": "2026-10-23 04:00:58",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
+        "name": "christmas dream",
+        "url": "https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN"
       },
       "artists": [
         {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
         }
       ],
-      "duration_ms": 235133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
+      "duration_ms": 160991,
+      "name": "christmas dream",
+      "url": "https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -101,24 +149,40 @@
       "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
-      "added_at": "2026-10-16 04:00:11",
+      "added_at": "2026-10-23 04:00:58",
       "album": {
-        "name": "Sax Track",
-        "url": "https://open.spotify.com/album/05OI5HSR5RtKe4N0s1vDXE"
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/6M3hHjOpBKyDAPO5j4DVYZ"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        },
-        {
-          "name": "Cyan Lu",
-          "url": "https://open.spotify.com/artist/7iEZxg7glVG3AzqMIkpEYg"
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
         }
       ],
-      "duration_ms": 314892,
-      "name": "Sax Track",
-      "url": "https://open.spotify.com/track/7qhVqs4kdA7CBHiurhd6Mk"
+      "duration_ms": 246839,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/31S6JHlGUipCsZb4xnNQQ2"
+    },
+    {
+      "added_at": "2026-10-23 04:00:58",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/4UetcX5W2bMBEpa3BNxK5e"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        },
+        {
+          "name": "Ke\u00efta Janota",
+          "url": "https://open.spotify.com/artist/33vhD7vKkYTZDvxmDx4mMh"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/45bJ2eLOOPNwoWOzkwvusG"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -135,6 +199,22 @@
       "duration_ms": 201842,
       "name": "Canton Strut",
       "url": "https://open.spotify.com/track/1NNN1R9ONTvkCCWtoTDT4d"
+    },
+    {
+      "added_at": "2026-10-23 04:00:58",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/09xy1Zk3SuaGaH5sRkggCT"
+      },
+      "artists": [
+        {
+          "name": "Rory Green",
+          "url": "https://open.spotify.com/artist/5L4dF56YgKfcpWBgiyvZoG"
+        }
+      ],
+      "duration_ms": 362476,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/4qJnaCEOhxBz6kiMHerXDE"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -171,22 +251,6 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "JAZZED",
-        "url": "https://open.spotify.com/album/5PRUWAFoMJiqQDcwlgG8Kr"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/2mc9swZTGYpPg1eJtKB5Zp"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
         "name": "God Bless The Child",
         "url": "https://open.spotify.com/album/5ifM5FKsR0JE9HdUUiTOnT"
       },
@@ -219,22 +283,18 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "La Sentencia - Duo",
-        "url": "https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
       },
       "artists": [
         {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        },
-        {
-          "name": "Gonzalo Rubalcaba",
-          "url": "https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F"
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
         }
       ],
-      "duration_ms": 294727,
-      "name": "La Sentencia - Duo",
-      "url": "https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj"
+      "duration_ms": 235133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -311,6 +371,46 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
+        "name": "La Sentencia - Duo",
+        "url": "https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        },
+        {
+          "name": "Gonzalo Rubalcaba",
+          "url": "https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F"
+        }
+      ],
+      "duration_ms": 294727,
+      "name": "La Sentencia - Duo",
+      "url": "https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Sax Track",
+        "url": "https://open.spotify.com/album/05OI5HSR5RtKe4N0s1vDXE"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "Cyan Lu",
+          "url": "https://open.spotify.com/artist/7iEZxg7glVG3AzqMIkpEYg"
+        }
+      ],
+      "duration_ms": 314892,
+      "name": "Sax Track",
+      "url": "https://open.spotify.com/track/7qhVqs4kdA7CBHiurhd6Mk"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
       },
@@ -355,6 +455,22 @@
       "duration_ms": 174493,
       "name": "the Sound of Art",
       "url": "https://open.spotify.com/track/05PmmkOhawXJ1MIbICQP5J"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "JAZZED",
+        "url": "https://open.spotify.com/album/5PRUWAFoMJiqQDcwlgG8Kr"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/2mc9swZTGYpPg1eJtKB5Zp"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -503,58 +619,6 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "eniola",
-          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
-        }
-      ],
-      "duration_ms": 247567,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
-        "name": "Sweetest Season",
-        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 170753,
-      "name": "Sweetest Season",
-      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
         "name": "I Guess That\u2019s What Love Can Do",
         "url": "https://open.spotify.com/album/5u4hdsG3MgD11Qw4XXVlfY"
       },
@@ -675,6 +739,22 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
+        "name": "Sweetest Season",
+        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 170753,
+      "name": "Sweetest Season",
+      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
         "name": "Dedicated To You",
         "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
       },
@@ -735,26 +815,6 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "low tide",
-        "url": "https://open.spotify.com/album/2b0h55zXL8PLxIOUyclFME"
-      },
-      "artists": [
-        {
-          "name": "Ferdi",
-          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
-        },
-        {
-          "name": "Prince Lao",
-          "url": "https://open.spotify.com/artist/5JzG8nk7bQwC59bs5zuBmP"
-        }
-      ],
-      "duration_ms": 178461,
-      "name": "low tide",
-      "url": "https://open.spotify.com/track/6OmMKDDtWtRQDqt6ZdjHZB"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
         "name": "Lawns",
         "url": "https://open.spotify.com/album/2m4grKXk7ezZMAPnFRtceJ"
       },
@@ -775,6 +835,22 @@
       "duration_ms": 387734,
       "name": "Lawns",
       "url": "https://open.spotify.com/track/5pbhLARny6tF7BEg7Nb4Gf"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -903,6 +979,26 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7pj3unbvdE8xgxKPBY5siV"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "duration_ms": 247567,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
+    },
+    {
+      "added_at": "2026-10-16 04:00:11",
+      "album": {
         "name": "Memory Bomb",
         "url": "https://open.spotify.com/album/617gOMW4LhxYZi5BE6s4B1"
       },
@@ -967,26 +1063,6 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "They Say It\u2019s Wonderful",
-        "url": "https://open.spotify.com/album/2iBKWX5liHaLZg39QeARBW"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        },
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 388556,
-      "name": "They Say It\u2019s Wonderful",
-      "url": "https://open.spotify.com/track/5u87O1gmKcbUUrbskpaC5K"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
         "name": "Art Is Simple",
         "url": "https://open.spotify.com/album/38WvHt6oMBvFBAJrD4PhB3"
       },
@@ -999,22 +1075,6 @@
       "duration_ms": 267586,
       "name": "Une ligne",
       "url": "https://open.spotify.com/track/4ltGjmraUL5LVtG17mvtvg"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
-        "name": "Singin' In The Rain",
-        "url": "https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Singin\u2019 In The Rain",
-      "url": "https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -1035,22 +1095,6 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "Lab Rats",
-        "url": "https://open.spotify.com/album/00VCTHhxGhARgKCNhVMJf8"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 148548,
-      "name": "Elevator Vibes",
-      "url": "https://open.spotify.com/track/08toLeqUTQsJAB2SFL6m43"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
         "name": "Miles '56 (Remastered 2026)",
         "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
       },
@@ -1063,26 +1107,6 @@
       "duration_ms": 274303,
       "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
       "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
-        "name": "Roll By (feat. Melissa Mary Ahern)",
-        "url": "https://open.spotify.com/album/1QffiYJtHnGwae8VmfDz0r"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        },
-        {
-          "name": "Melissa Mary Ahern",
-          "url": "https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Roll By (feat. Melissa Mary Ahern)",
-      "url": "https://open.spotify.com/track/0GUQivk5lu2bTpZz1zF9Is"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -1139,26 +1163,6 @@
       "duration_ms": 136217,
       "name": "azur",
       "url": "https://open.spotify.com/track/2px8SIGbY3eYlOY08DKVtz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
-        "name": "Smog Reworks",
-        "url": "https://open.spotify.com/album/0CzM7EAs9ni2qzq3ewkiC4"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        },
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 352131,
-      "name": "T.B.T. (Thinkin' Blues - Trumpet) - Rework",
-      "url": "https://open.spotify.com/track/4C0RwKEQdGLW2JVor1P9t5"
     }
   ],
   "unique_name": "Jazz Club",

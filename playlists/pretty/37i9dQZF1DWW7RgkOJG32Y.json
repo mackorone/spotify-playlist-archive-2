@@ -1,13 +1,61 @@
 {
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Lainey Wilson",
-  "num_followers": 678353,
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Brandon Lake",
+  "num_followers": 678454,
   "original_name": "Breakout Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEC6RdMMV5yOP1WKmX3CmDVLoejq",
+  "snapshot_id": "AAAAAG1YNJwF7jog6Nc4RsfeTVAKKS6+",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:01:06",
+      "album": {
+        "name": "Take Me Back (Leave Me There)",
+        "url": "https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Take Me Back (Leave Me There)",
+      "url": "https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch"
+    },
+    {
+      "added_at": "2026-10-16 04:01:06",
+      "album": {
+        "name": "Imagine That",
+        "url": "https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 219673,
+      "name": "Imagine That",
+      "url": "https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7"
+    },
+    {
+      "added_at": "2026-10-23 04:01:36",
+      "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/6cyVRxzCRWl1RJoEILIM7A"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4uqhnuKU2p6iFCXQwzNJox"
+    },
     {
       "added_at": "2026-10-16 04:01:06",
       "album": {
@@ -111,6 +159,22 @@
       "duration_ms": 222666,
       "name": "Ten Pairs Of Boots",
       "url": "https://open.spotify.com/track/072iLfHsfsEeGAgJY72Y8S"
+    },
+    {
+      "added_at": "2026-10-23 04:01:36",
+      "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 236715,
+      "name": "Lodi When",
+      "url": "https://open.spotify.com/track/1mzJsnHWXIthrJQKwe8Yci"
     },
     {
       "added_at": "2026-10-16 04:01:06",
@@ -279,22 +343,6 @@
       "duration_ms": 158973,
       "name": "Lean In, Kiss Me",
       "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
-        "name": "Take Me Back (Leave Me There)",
-        "url": "https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Take Me Back (Leave Me There)",
-      "url": "https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch"
     },
     {
       "added_at": "2026-10-16 04:01:06",
@@ -555,22 +603,6 @@
     {
       "added_at": "2026-10-16 04:01:06",
       "album": {
-        "name": "Imagine That",
-        "url": "https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 219673,
-      "name": "Imagine That",
-      "url": "https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
         "name": "First Born Daughter",
         "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
       },
@@ -599,22 +631,6 @@
       "duration_ms": 238811,
       "name": "dance around it",
       "url": "https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
     },
     {
       "added_at": "2026-10-16 04:01:06",
@@ -855,22 +871,6 @@
       "duration_ms": 197933,
       "name": "Rather Be Here (feat. Jason Aldean)",
       "url": "https://open.spotify.com/track/5A1Ksw7PzA6NhIYrebOFjo"
-    },
-    {
-      "added_at": "2026-10-16 04:01:06",
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 230635,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r"
     }
   ],
   "unique_name": "Breakout Country",

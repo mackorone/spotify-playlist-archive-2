@@ -1,13 +1,125 @@
 {
-  "description": "Featuring that new vintage. Cover: Paige Fish",
-  "num_followers": 448604,
+  "description": "Featuring that new vintage. Cover: Bebe Stockwell",
+  "num_followers": 448621,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6BZYKPm9sZE/htJJ9F7vVDohaJ",
+  "snapshot_id": "AAAAAHzl87DrwMdyAjUQTdfTadhSdFri",
   "tracks": [
+    {
+      "added_at": "2026-10-23 14:46:07",
+      "album": {
+        "name": "Bad at Goodbyes",
+        "url": "https://open.spotify.com/album/1ETwFcDJbYKBWExO85GYTJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 174554,
+      "name": "Bad at Goodbyes",
+      "url": "https://open.spotify.com/track/3SHM2RkG2IzMiU57KHuMQC"
+    },
+    {
+      "added_at": "2026-10-23 08:00:12",
+      "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/0DpUtDNX444dGMTAWa2eZE"
+    },
+    {
+      "added_at": "2026-10-23 08:00:12",
+      "album": {
+        "name": "Home Is A Face",
+        "url": "https://open.spotify.com/album/2QDWcORvVViWZQVYbq8clA"
+      },
+      "artists": [
+        {
+          "name": "Mel Raeburn",
+          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Home Is A Face",
+      "url": "https://open.spotify.com/track/6FCIe99r3f0ldJWn06yZau"
+    },
+    {
+      "added_at": "2026-10-23 08:00:12",
+      "album": {
+        "name": "Stephen Day",
+        "url": "https://open.spotify.com/album/6xMy6zMBVaItXgZiUly19y"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 208331,
+      "name": "You Wouldn't Know",
+      "url": "https://open.spotify.com/track/4vDInKGHOevHIAspvmMbTk"
+    },
+    {
+      "added_at": "2026-10-23 08:00:12",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 204312,
+      "name": "Love Bomb",
+      "url": "https://open.spotify.com/track/6sENjF4RRIwYQM2BAcwavk"
+    },
+    {
+      "added_at": "2026-10-23 08:00:12",
+      "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/472WDAsJN8M23VCTVwbgYr"
+    },
+    {
+      "added_at": "2026-10-23 08:00:12",
+      "album": {
+        "name": "Passing Faces",
+        "url": "https://open.spotify.com/album/3FqCsMKHYtr1aDmPVluVfk"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 174321,
+      "name": "Passing Faces",
+      "url": "https://open.spotify.com/track/1jnOqvJZGqEJ921YiqeDbu"
+    },
     {
       "added_at": "2026-10-02 04:02:16",
       "album": {
@@ -25,20 +137,20 @@
       "url": "https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk"
     },
     {
-      "added_at": "2026-10-16 04:01:36",
+      "added_at": "2026-10-23 08:00:12",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo"
+        "name": "Shipwrecked",
+        "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
       },
       "artists": [
         {
-          "name": "Mel Raeburn",
-          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
         }
       ],
-      "duration_ms": 202750,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
+      "duration_ms": 192200,
+      "name": "Shipwrecked",
+      "url": "https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa"
     },
     {
       "added_at": "2026-10-02 04:02:16",
@@ -109,22 +221,6 @@
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
-      "added_at": "2026-09-18 04:13:19",
-      "album": {
-        "name": "Ego Talking",
-        "url": "https://open.spotify.com/album/5sW4mHXlHqny4w0d7ylyUi"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Ego Talking",
-      "url": "https://open.spotify.com/track/3XGuVdPaYpIj48GOl711bK"
-    },
-    {
       "added_at": "2026-10-16 04:01:36",
       "album": {
         "name": "Songs From The Wedding Cake",
@@ -139,22 +235,6 @@
       "duration_ms": 245720,
       "name": "The Kardashians",
       "url": "https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j"
-    },
-    {
-      "added_at": "2026-09-25 04:21:58",
-      "album": {
-        "name": "Take Away My Problems",
-        "url": "https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 156864,
-      "name": "Jennifer",
-      "url": "https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv"
     },
     {
       "added_at": "2026-09-25 04:21:58",
@@ -175,6 +255,38 @@
       "duration_ms": 166841,
       "name": "She\u2019s Gonna Break My Heart",
       "url": "https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo"
+      },
+      "artists": [
+        {
+          "name": "Mel Raeburn",
+          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
+    },
+    {
+      "added_at": "2026-09-25 04:21:58",
+      "album": {
+        "name": "Take Away My Problems",
+        "url": "https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 156864,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv"
     },
     {
       "added_at": "2026-09-18 04:38:34",
@@ -413,22 +525,6 @@
       "url": "https://open.spotify.com/track/4md6IV2vLvYYJ27NH5z5Tg"
     },
     {
-      "added_at": "2026-08-07 17:46:39",
-      "album": {
-        "name": "Love Was Made of Stone",
-        "url": "https://open.spotify.com/album/3tog0SBGhLT15iGueL35qG"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 202897,
-      "name": "Love Was Made of Stone",
-      "url": "https://open.spotify.com/track/5HXoQhJCu7Axg0J1pBsCj2"
-    },
-    {
       "added_at": "2026-07-31 04:01:15",
       "album": {
         "name": "Puppet Show",
@@ -555,22 +651,6 @@
       "duration_ms": 277000,
       "name": "Alexandria",
       "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
-    },
-    {
-      "added_at": "2026-07-21 19:31:47",
-      "album": {
-        "name": "Shock!",
-        "url": "https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Shock!",
-      "url": "https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn"
     },
     {
       "added_at": "2026-06-26 04:00:29",
@@ -1025,22 +1105,6 @@
       "url": "https://open.spotify.com/track/03HzjjG5PNUCvp8Y9Vbbvd"
     },
     {
-      "added_at": "2026-05-01 23:18:50",
-      "album": {
-        "name": "Tears Won\u2019t Lie",
-        "url": "https://open.spotify.com/album/7kUNk9FALessjeV4Byk0tc"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 176448,
-      "name": "Tears Won\u2019t Lie",
-      "url": "https://open.spotify.com/track/07LUwalhQE7iHMxr1r3HIq"
-    },
-    {
       "added_at": "2025-11-21 05:00:33",
       "album": {
         "name": "The Art of Loving",
@@ -1119,22 +1183,6 @@
       "duration_ms": 228908,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
-    },
-    {
-      "added_at": "2026-03-20 04:00:32",
-      "album": {
-        "name": "6ft Under",
-        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
-      },
-      "artists": [
-        {
-          "name": "KELS",
-          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "6ft Under",
-      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
     },
     {
       "added_at": "2026-03-20 04:00:32",
@@ -1233,22 +1281,6 @@
       "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
-      "added_at": "2026-03-09 17:32:23",
-      "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx"
-      },
-      "artists": [
-        {
-          "name": "Olivia C. Dacal",
-          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
-        }
-      ],
-      "duration_ms": 193236,
-      "name": "I'll come back to you",
-      "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
-    },
-    {
       "added_at": "2026-02-27 05:00:42",
       "album": {
         "name": "The Romantic",
@@ -1311,22 +1343,6 @@
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
-      },
-      "artists": [
-        {
-          "name": "KELS",
-          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
     },
     {
       "added_at": "2026-02-27 05:00:42",
@@ -1523,22 +1539,6 @@
       "duration_ms": 160538,
       "name": "Broke Bitch Boogie",
       "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
-    },
-    {
-      "added_at": "2026-02-06 05:50:36",
-      "album": {
-        "name": "20 Weeks",
-        "url": "https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "20 Weeks",
-      "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
     },
     {
       "added_at": "2025-11-21 05:00:33",

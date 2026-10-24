@@ -1,6 +1,6 @@
 {
   "description": "\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0645\u0631",
-  "num_followers": 2237,
+  "num_followers": 2269,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,30 @@
       "duration_ms": 176830,
       "name": "Ahlam",
       "url": "https://open.spotify.com/track/72ctypDaZtlN0e8Mm0K7tM"
+    },
+    {
+      "added_at": "2026-10-22 16:50:01",
+      "album": {
+        "name": "MB2OLSH KHALES ANA",
+        "url": "https://open.spotify.com/album/2iXZTGXhCaPpdzRgMbhmQn"
+      },
+      "artists": [
+        {
+          "name": "BO5A The Investment",
+          "url": "https://open.spotify.com/artist/1e6aRgj776jbM38Wl0CtX6"
+        },
+        {
+          "name": "Vest",
+          "url": "https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX"
+        },
+        {
+          "name": "El Ameer",
+          "url": "https://open.spotify.com/artist/6PMDaq9FhsP82GK9FujCYh"
+        }
+      ],
+      "duration_ms": 131105,
+      "name": "MB2OLSH KHALES ANA",
+      "url": "https://open.spotify.com/track/5Jeh16byZJy789deUgWdAy"
     },
     {
       "added_at": "2026-10-09 13:28:09",

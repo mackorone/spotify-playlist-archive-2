@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,142 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,199 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 16 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
 | 17 | [Izinja](https://open.spotify.com/track/6qJpatMdBrN3yRFuLqLCA8) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Tsotsi](https://open.spotify.com/album/7efUI9NRE7rieqrHGD1409) | 4:13 |
 | 18 | [Sgelekeqe \- Mindlo Mix](https://open.spotify.com/track/4Xqec5nATHVa8bsHngCMKE) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Mandoza](https://open.spotify.com/album/5mt82F2mozkrikmeYeFU80) | 4:21 |
-| 19 | [Mnike](https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4) | [Arthur](https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU) | [Mnike](https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt) | 5:32 |
-| 20 | [Lost 'N Found](https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Lost 'N Found](https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys) | 5:03 |
-| 21 | [Nomalizo](https://open.spotify.com/track/2H20ibCx6qtLsI2rhs3bPb) | [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [Mthandazo Wabolova](https://open.spotify.com/album/3S7R9NSguORFWfJSUhDAV4) | 5:24 |
+| 19 | [Nomalizo](https://open.spotify.com/track/2H20ibCx6qtLsI2rhs3bPb) | [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [Mthandazo Wabolova](https://open.spotify.com/album/3S7R9NSguORFWfJSUhDAV4) | 5:24 |
+| 20 | [Mnike](https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4) | [Arthur](https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU) | [Mnike](https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt) | 5:32 |
+| 21 | [Lost 'N Found](https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Lost 'N Found](https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys) | 5:03 |
 | 22 | [Amakoporosh](https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY) | [Mzekezeke](https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e) | [S'guqa Ngamadolo](https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX) | 5:37 |
 | 23 | [Tlo Be Rele Daar](https://open.spotify.com/track/03RGHM6AtZxkZ3rU3iAwQa) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Yizo Yizo](https://open.spotify.com/album/0MI38qrVzFPVgRiHN4ocFU) | 4:40 |
 | 24 | [Tornado Part 1](https://open.spotify.com/track/21xIGXNksYlM9FBDFQC18y) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Tornado](https://open.spotify.com/album/4MLRGUuN0sDl7bjeYj3KVa) | 5:37 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 31 | [Fohloza](https://open.spotify.com/track/3DKfxpqCVoWmqObaLbkWLy) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Mapantsula](https://open.spotify.com/album/3sc7RKWeBiYxA1uRe7xghs) | 7:03 |
 | 32 | [Vat\-En\-Sit](https://open.spotify.com/track/4sBITIyxAyTtd9NuhSM11I) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [King Don Father 2002](https://open.spotify.com/album/3c5ue20ray1aFt7GvAzrv3) | 5:58 |
 | 33 | [Ghetto Scandalous](https://open.spotify.com/track/1wavXriWVmKWLtifITmxRW) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Umdlwembe](https://open.spotify.com/album/2dNSDmz3RuSlZyrub1plco) | 4:47 |
-| 34 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
+| 34 | [Ibuhlungu](https://open.spotify.com/track/0Kto1TI0CW1ARsxEWkezw2) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:54 |
 | 35 | [Groovers Prayer](https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4O8DBlsMzrukb209docL0j) | 5:41 |
 | 36 | [Bengim'ngaka](https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:15 |
 | 37 | [Ngeke Balunge](https://open.spotify.com/track/02WPVw3JASyYSmCLq1MHqh) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi), [Teargas](https://open.spotify.com/artist/6ffbZWFEp3uVx8w46WlNvD), [Bricks](https://open.spotify.com/artist/3hALQI03Ul63hBropSFt47), [Skhokho](https://open.spotify.com/artist/4ack50GWpOabzl8e2mH05Z), [Madluphuthu](https://open.spotify.com/artist/0RbbfEN7Q3ahYF9Kwkz4cd), [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [The King Don Father 2.5](https://open.spotify.com/album/0dFNca7VHL8KFTe6H8Ik6u) | 6:52 |
 | 38 | [Iphindlela](https://open.spotify.com/track/27CtgoA4uSgIYjf0ZS8zvX) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [The Concerto](https://open.spotify.com/album/7fRul2x0hzuFPkCG7EpWff) | 4:51 |
-| 39 | [Ibuhlungu](https://open.spotify.com/track/0Kto1TI0CW1ARsxEWkezw2) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:54 |
+| 39 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
 | 40 | [Traffic Cop](https://open.spotify.com/track/72YvRxXGDh8ceVyARTtdEJ) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Traffic Cop](https://open.spotify.com/album/5PfNqkm8DsTilYtAxmBRwk) | 5:21 |
 | 41 | [Magasman](https://open.spotify.com/track/4HxFndd2LoR2MBtYABjBlv) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:47 |
 | 42 | [Current](https://open.spotify.com/track/7jCN8HmG6EaUzQKq9uHEH2) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [Simply The Best](https://open.spotify.com/album/5xc7F1Xfkq1HXYafFBewRN) | 5:45 |

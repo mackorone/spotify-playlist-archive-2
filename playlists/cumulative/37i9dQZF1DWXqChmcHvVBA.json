@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "AUTOMOVIL",
+        "url": "https://open.spotify.com/album/1MIeD2YR6SwNL4nxlgQvqR"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168367,
+      "name": "AUTOMOVIL",
+      "url": "https://open.spotify.com/track/1zevLuf24oKHPlrGycvrzT"
+    },
+    {
+      "album": {
         "name": "Azote (Remix)",
         "url": "https://open.spotify.com/album/7uFvIYuaRywnVcpPKYNd5y"
       },
@@ -2509,6 +2527,32 @@
     },
     {
       "album": {
+        "name": "GITANA RKT",
+        "url": "https://open.spotify.com/album/41sFMcWotlV8vglgSBbxZR"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Turreo Mistico Records",
+          "url": "https://open.spotify.com/artist/0JJBaeZOGlaN73ZPpskTxl"
+        },
+        {
+          "name": "WHTEGOLD",
+          "url": "https://open.spotify.com/artist/2jqN3kjKQ51QM1cDcKNQYb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135261,
+      "name": "GITANA RKT",
+      "url": "https://open.spotify.com/track/405G5xPsMYf9AXvhZTIw1p"
+    },
+    {
+      "album": {
         "name": "Gitano",
         "url": "https://open.spotify.com/album/485XrYsxwzWGRYgBlEzOR5"
       },
@@ -3460,7 +3504,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 176181,
       "name": "Me Escap\u00e9",
       "url": "https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v"
@@ -5520,7 +5564,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 141954,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"

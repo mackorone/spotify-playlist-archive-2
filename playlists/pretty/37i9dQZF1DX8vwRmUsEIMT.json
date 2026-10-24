@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Tom Grennan",
-  "num_followers": 613599,
+  "num_followers": 613888,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBAW/q+PV/XOJ1ZWcOMv3j4DWEd",
+  "snapshot_id": "AAAAAKmzLcX4TSs3N6pUgUjITDCfE11r",
   "tracks": [
     {
       "added_at": "2026-10-22 23:00:35",
@@ -39,6 +39,22 @@
       "duration_ms": 236927,
       "name": "Repeaty",
       "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
+    },
+    {
+      "added_at": "2026-10-23 18:00:19",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/6AgkhCQME5wqQ2xqFgeMYK"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 110142,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/5xqqwC86B6OHPdLMekNIm4"
     },
     {
       "added_at": "2026-10-22 23:00:35",

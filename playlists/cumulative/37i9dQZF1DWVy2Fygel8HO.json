@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Familiar Place",
+        "url": "https://open.spotify.com/album/0A7J1hAuHEeeYhU4SdKMJB"
+      },
+      "artists": [
+        {
+          "name": "Lorin Peyo",
+          "url": "https://open.spotify.com/artist/1gvxDQsvlrjtrW7FotD6GA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134994,
+      "name": "A Familiar Place",
+      "url": "https://open.spotify.com/track/5M7uPpBbulzbomYP8iUbjU"
+    },
+    {
+      "album": {
         "name": "A love Diary",
         "url": "https://open.spotify.com/album/4iMXEYAl0NcvMEUtoK1qu2"
       },
@@ -3546,6 +3564,24 @@
       "duration_ms": 109768,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd"
+    },
+    {
+      "album": {
+        "name": "unbound",
+        "url": "https://open.spotify.com/album/78OwoTJU0hxCIjOVfL0SLZ"
+      },
+      "artists": [
+        {
+          "name": "rein\u00eb",
+          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154020,
+      "name": "unbound",
+      "url": "https://open.spotify.com/track/6sMp2Y3jicBN47dlnf5SUS"
     },
     {
       "album": {

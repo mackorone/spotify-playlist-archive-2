@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Mack Geiger, Dominic Fike, The Temper Trap, Kacey Musgraves + more",
-  "num_followers": 461665,
+  "num_followers": 461938,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQNDU3OClHlmOCc8PiDmVipwm1l",
+  "snapshot_id": "AAAAAJjLw4ClBskle50mV/MI4FtwF1WO",
   "tracks": [
     {
       "added_at": "2026-10-22 13:00:28",
@@ -118,15 +118,31 @@
         {
           "name": "Miley Cyrus",
           "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Ilsey Juber",
-          "url": "https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9"
         }
       ],
       "duration_ms": 195608,
       "name": "Cold Blooded (Demo) - from the Netflix Series \"Nobody Wants This\" Season 3",
       "url": "https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv"
+    },
+    {
+      "added_at": "2026-10-23 04:00:49",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
       "added_at": "2026-10-22 13:00:28",
@@ -369,6 +385,26 @@
       "url": "https://open.spotify.com/track/0ZvGajFnTQtEAyKNjqt982"
     },
     {
+      "added_at": "2026-10-23 04:00:49",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+    },
+    {
       "added_at": "2026-10-22 13:00:28",
       "album": {
         "name": "Cucuy",
@@ -529,6 +565,22 @@
       "url": "https://open.spotify.com/track/2rCTy5D432JQtZvkZVgkoL"
     },
     {
+      "added_at": "2026-10-22 13:00:28",
+      "album": {
+        "name": "The Calm",
+        "url": "https://open.spotify.com/album/0hIUOteR2XPKT11weRpjh3"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 155232,
+      "name": "The Calm",
+      "url": "https://open.spotify.com/track/2rlSN15GgsHZ1oT5EdQSfk"
+    },
+    {
       "added_at": "2026-10-22 21:28:50",
       "album": {
         "name": "Levi Did It",
@@ -576,8 +628,8 @@
           "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 243499,
+      "name": "Frog Technique",
       "url": "https://open.spotify.com/track/1AvaZrD67C2LSvQyvlb5en"
     },
     {
@@ -1113,6 +1165,22 @@
       "url": "https://open.spotify.com/track/0rVXbOfUdtgbnbp1MccwFH"
     },
     {
+      "added_at": "2026-10-23 04:00:49",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 224690,
+      "name": "SO MUCH, SO MUCH",
+      "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
+    },
+    {
       "added_at": "2026-10-22 13:00:28",
       "album": {
         "name": "No Sleep",
@@ -1260,8 +1328,8 @@
           "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 144660,
+      "name": "Munyun",
       "url": "https://open.spotify.com/track/76nPNtQqzXWeKUZuOLdtWJ"
     },
     {
@@ -1274,10 +1342,14 @@
         {
           "name": "Urthboy",
           "url": "https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ"
+        },
+        {
+          "name": "Emmy Mack",
+          "url": "https://open.spotify.com/artist/1SSw312Ww6IHELkKnbHFaP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 182271,
+      "name": "Alarm",
       "url": "https://open.spotify.com/track/2NVGfu0uZEd2yVUQGXnIGx"
     },
     {
@@ -1403,6 +1475,22 @@
     {
       "added_at": "2026-10-22 13:00:28",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/71sxiXSEavIlQMcL72s9md"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0FinAexVNMbfeYvlmWmo41"
+    },
+    {
+      "added_at": "2026-10-22 13:00:28",
+      "album": {
         "name": "Until The Morning",
         "url": "https://open.spotify.com/album/6XJJWvOtn3OPfYSkT8Ixhm"
       },
@@ -1428,8 +1516,8 @@
           "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 368000,
+      "name": "Chosen One",
       "url": "https://open.spotify.com/track/4CbORVOeuig8BjedYybW4g"
     },
     {

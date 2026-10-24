@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "33 Zips",
+        "url": "https://open.spotify.com/album/55hlF8SHNwFyJck3d498P1"
+      },
+      "artists": [
+        {
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        },
+        {
+          "name": "AgnsBill",
+          "url": "https://open.spotify.com/artist/4YexWSXhaciE6U79phTDjo"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "33 Zips",
+      "url": "https://open.spotify.com/track/1oQ15tREqnQNPCAw917eFc"
+    },
+    {
+      "album": {
         "name": "GRAPETOVEN",
         "url": "https://open.spotify.com/album/7A81A3IC9iZNnRfQ4YIqYM"
       },
@@ -6078,7 +6100,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 186461,
       "name": "Boogie Man (with 1900Rugrat)",
       "url": "https://open.spotify.com/track/0dxJI4SkkFHj13Yd2z3mlU"
@@ -6114,7 +6136,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
@@ -10799,6 +10821,32 @@
     },
     {
       "album": {
+        "name": "Disappointed (feat. Icewear Vezzo)",
+        "url": "https://open.spotify.com/album/0WmJIBlQhAJGtV48cbCJD1"
+      },
+      "artists": [
+        {
+          "name": "Young Chris",
+          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "name": "Freeway",
+          "url": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Disappointed (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/5lkBXeCs4OYK9LJXxsESqF"
+    },
+    {
+      "album": {
         "name": "Dissin the Dead",
         "url": "https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po"
       },
@@ -11996,7 +12044,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 183037,
       "name": "Earn Ya Rank - Remix",
       "url": "https://open.spotify.com/track/4zTnfYNLBdrazWNiPNzaLH"
@@ -13216,6 +13264,24 @@
       "duration_ms": 166887,
       "name": "Fill Up (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/5itRFdvUZBFVruujumEQcs"
+    },
+    {
+      "album": {
+        "name": "99 Overall",
+        "url": "https://open.spotify.com/album/5DIuuXSktARf0GBaJDx4es"
+      },
+      "artists": [
+        {
+          "name": "FullyChop",
+          "url": "https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133670,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/7EyjdjZ2FSoiYGj9MZw86b"
     },
     {
       "album": {
@@ -18322,7 +18388,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 123157,
       "name": "Highway",
       "url": "https://open.spotify.com/track/2Niq4PmEZyPKwI5vJ1DaUp"
@@ -21573,6 +21639,28 @@
     },
     {
       "album": {
+        "name": "Cucuy",
+        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168117,
+      "name": "Izm (feat. Rob49)",
+      "url": "https://open.spotify.com/track/2YQAtzGtoxJfnSr22r1qg0"
+    },
+    {
+      "album": {
         "name": "Murda Man",
         "url": "https://open.spotify.com/album/1wtzd2FP1y9AwbTklAJOA3"
       },
@@ -22468,6 +22556,24 @@
       "duration_ms": 158143,
       "name": "Keep on Gettin It",
       "url": "https://open.spotify.com/track/06TbA8MtNeWZ7HKZlToTqw"
+    },
+    {
+      "album": {
+        "name": "Keep On Pushing",
+        "url": "https://open.spotify.com/album/6cZscfvlDvHp67nayEPdbR"
+      },
+      "artists": [
+        {
+          "name": "Nechie",
+          "url": "https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205008,
+      "name": "Keep On Pushing",
+      "url": "https://open.spotify.com/track/6y6YcN2HCagNIfUlqU9EGy"
     },
     {
       "album": {
@@ -27542,7 +27648,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 139866,
       "name": "MR. WALK EM DOWN",
       "url": "https://open.spotify.com/track/5NFRymJRgNrbuSIUajZTeX"
@@ -29082,6 +29188,24 @@
       "duration_ms": 175384,
       "name": "No Love",
       "url": "https://open.spotify.com/track/6ZhQsccTqnGVAR61i0NF4X"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/68W7bDlxt5l2aTJRz1gnCh"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/4asLd3UbnpIdGAQ2p9Z7Yn"
     },
     {
       "album": {
@@ -33482,7 +33606,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 166278,
       "name": "Proud of You",
       "url": "https://open.spotify.com/track/4iqo8Brrv2eg8gs2d8l5qN"

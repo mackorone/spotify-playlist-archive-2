@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 44042,
+  "num_followers": 44044,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAA+Ryeogn9cezsqFBBqZAYV",
+  "snapshot_id": "atgAgAAAAABJfjDm6tbkCxTnNI0FgpHy",
   "tracks": [
     {
       "added_at": null,
@@ -667,17 +667,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una y Mil Veces",
-        "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
       },
       "artists": [
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
           "name": "Agus Bernasconi",
@@ -688,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Una y Mil Veces",
-      "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
+      "duration_ms": 182380,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
     },
     {
       "added_at": null,
@@ -719,13 +715,17 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIKINI",
-        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
+        "name": "Una y Mil Veces",
+        "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
       },
       "artists": [
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
           "name": "Agus Bernasconi",
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 182380,
-      "name": "BIKINI",
-      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
+      "duration_ms": 182608,
+      "name": "Una y Mil Veces",
+      "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
     },
     {
       "added_at": null,

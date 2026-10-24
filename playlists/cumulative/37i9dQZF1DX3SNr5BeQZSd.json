@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 162857,
       "name": "Andar",
       "url": "https://open.spotify.com/track/2ssxjVXBjsgOhUqsIC84Nt"
@@ -4457,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "cabin dreams",
+        "url": "https://open.spotify.com/album/3BB9ImUHnOdiYhmqGhOezm"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "cabin dreams",
+      "url": "https://open.spotify.com/track/7upcb2pTEdtqIDKhGQPE5T"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 Noir",
         "url": "https://open.spotify.com/album/6X0QYRVythnsX6x44I4iVJ"
       },
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 154838,
       "name": "Chasing Butterflies",
       "url": "https://open.spotify.com/track/5KLvTBvjn4lVvDIBJNQWtV"
@@ -5752,6 +5770,24 @@
       "duration_ms": 120000,
       "name": "Collection",
       "url": "https://open.spotify.com/track/55uToTOVZpOqRkGdFLk89T"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/07WCO7mDXS8ZWcNXrwM4CK"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5UdRPuUEF2PqqZo60Zra3j"
     },
     {
       "album": {
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 131282,
       "name": "early flight",
       "url": "https://open.spotify.com/track/73MGiSus3uDs8IrE0ZZT6r"
@@ -8982,7 +9018,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 136727,
       "name": "Evening Shadows",
       "url": "https://open.spotify.com/track/5ugBNeeUsrnY0RioLmCdlM"
@@ -9870,7 +9906,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 140487,
       "name": "First Leaf Falls",
       "url": "https://open.spotify.com/track/5UflqxH4pzzbj2Z8CBEvez"
@@ -9946,7 +9982,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 122926,
       "name": "flight of imagination",
       "url": "https://open.spotify.com/track/5EerUywGu5abDAsto83h7Q"
@@ -11143,6 +11179,28 @@
     },
     {
       "album": {
+        "name": "Skylight",
+        "url": "https://open.spotify.com/album/16F4by8o2DVCz2ZNvn1Ti3"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "twofiveone",
+          "url": "https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/7fijuJUUZMLdmfXDWmZdDi"
+    },
+    {
+      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/18cE8q8vvtr9ALzcfy7V7f"
       },
@@ -11394,6 +11452,24 @@
       "duration_ms": 114000,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
+    },
+    {
+      "album": {
+        "name": "Green Fields",
+        "url": "https://open.spotify.com/album/0r75cR0a2xNNbWgpFD7zmh"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Green Fields",
+      "url": "https://open.spotify.com/track/3Z1JbpcHbR3Si61h265pIG"
     },
     {
       "album": {
@@ -13428,7 +13504,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 155492,
       "name": "Icato",
       "url": "https://open.spotify.com/track/5TQuWa0NpIk6b6WzQ6s5VS"
@@ -13726,6 +13802,24 @@
       "duration_ms": 120000,
       "name": "In Season",
       "url": "https://open.spotify.com/track/1Jqv6XpKPXdKihOqMhKdzO"
+    },
+    {
+      "album": {
+        "name": "In Solitude",
+        "url": "https://open.spotify.com/album/3dx8XMLKbco2SHGmt6mpbF"
+      },
+      "artists": [
+        {
+          "name": "mindfulsky.",
+          "url": "https://open.spotify.com/artist/1d5zeALWXczL36spR9JTUs"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "In Solitude",
+      "url": "https://open.spotify.com/track/3UhdC3ObYG7quEvAlmsJWw"
     },
     {
       "album": {
@@ -14396,6 +14490,24 @@
       "duration_ms": 180705,
       "name": "It's Going to Be a Good Day",
       "url": "https://open.spotify.com/track/5MpcP6AmJwNVPsiW4qaWIz"
+    },
+    {
+      "album": {
+        "name": "it's okay to slow down",
+        "url": "https://open.spotify.com/album/3YDNCe6CQyuhNzguyjZjcg"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162612,
+      "name": "it's okay to slow down",
+      "url": "https://open.spotify.com/track/7zcJTjfubdT4m8Ld6qS8OI"
     },
     {
       "album": {
@@ -16146,7 +16258,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 154736,
       "name": "Lighthearted",
       "url": "https://open.spotify.com/track/2MdJv1LN5TMulr6qLDTjgh"
@@ -21961,6 +22073,28 @@
     },
     {
       "album": {
+        "name": "overlap",
+        "url": "https://open.spotify.com/album/6eXnjh6ghj1e09EDmydeXI"
+      },
+      "artists": [
+        {
+          "name": "Ben Jammin' Beats",
+          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
+        },
+        {
+          "name": "godzhiller",
+          "url": "https://open.spotify.com/artist/0v9NLgV7Qkf9AVPoUx4XST"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132625,
+      "name": "overlap",
+      "url": "https://open.spotify.com/track/2jLc1BoqnLBbslpbhRJCvG"
+    },
+    {
+      "album": {
         "name": "Mirror Image",
         "url": "https://open.spotify.com/album/77JbUkH2s1AZa3iF8O1K7n"
       },
@@ -23464,7 +23598,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 133718,
       "name": "Pure",
       "url": "https://open.spotify.com/track/6dIlXRB3txc1pvAnAvR3KN"
@@ -24106,6 +24240,28 @@
       "duration_ms": 160714,
       "name": "reconciliation",
       "url": "https://open.spotify.com/track/4Cbn0V5zUmMnob1tGWNokJ"
+    },
+    {
+      "album": {
+        "name": "Red Maple",
+        "url": "https://open.spotify.com/album/6L3Pj0w2j39BLwELkp2I7x"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Red Maple",
+      "url": "https://open.spotify.com/track/06abehrlDCUMJ2k8qstWW4"
     },
     {
       "album": {
@@ -25376,7 +25532,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 143283,
       "name": "sanpo",
       "url": "https://open.spotify.com/track/1qSJ7itIRRtthDiK5iZFby"
@@ -27737,6 +27893,24 @@
     },
     {
       "album": {
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/4l8DEvn4BqduCKm9V0YuGQ"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143513,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/6lp4FfEGLTfF2dgELF11Ai"
+    },
+    {
+      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/1zBVJJWulGCZYu2ZvujJUU"
       },
@@ -29142,7 +29316,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 109758,
       "name": "summer breeze",
       "url": "https://open.spotify.com/track/5NYcyxdws4mHi0J8oyuLPx"
@@ -30276,7 +30450,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 110769,
       "name": "Takeout Window",
       "url": "https://open.spotify.com/track/4C44OWZXsVK0RPo0cT1COq"
@@ -32207,6 +32381,24 @@
     },
     {
       "album": {
+        "name": "umbra",
+        "url": "https://open.spotify.com/album/02PLQTOPKGVKNj0wSJvLAc"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "umbra",
+      "url": "https://open.spotify.com/track/3XxnISuB4jvFYZMQni1spK"
+    },
+    {
+      "album": {
         "name": "Umbra",
         "url": "https://open.spotify.com/album/6AkADoWPnAQw8J2QYmggre"
       },
@@ -32396,7 +32588,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 153043,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/5pIXGwPQEnLS8DkpHEYto8"
@@ -34056,6 +34248,28 @@
       "duration_ms": 182400,
       "name": "What If?",
       "url": "https://open.spotify.com/track/3EL1YrRwKoTqykmzfW4fzH"
+    },
+    {
+      "album": {
+        "name": "What is the Look of Love",
+        "url": "https://open.spotify.com/album/1xLK0uB2xcECmzz3Ee8NMP"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "What is the Look of Love",
+      "url": "https://open.spotify.com/track/2U00oZM9GYfu8S6Bg9IkMF"
     },
     {
       "album": {

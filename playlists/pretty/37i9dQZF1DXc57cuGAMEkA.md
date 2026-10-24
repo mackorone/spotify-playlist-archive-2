@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。千葉雄喜, LISA, Miley Cyrus, Dominic Fike and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,883 likes - 93 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,158 likes - 93 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 2 | [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 |
 | 3 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 |
 | 4 | [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
-| 5 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Ilsey Juber](https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
+| 5 | [Cold Blooded \(Demo\) \- from the Netflix Series "Nobody Wants This" Season 3](https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Cold Blooded \(Demo\) \[from the Netflix Series "Nobody Wants This" Season 3\]](https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY) | 3:15 |
 | 6 | [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 |
 | 7 | [MISS ME](https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [MISS ME](https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb) | 3:13 |
 | 8 | [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 |
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 45 | [Catch You](https://open.spotify.com/track/7ecMOWiATcisROiWY2v41q) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Catch You](https://open.spotify.com/album/5T8rgKeAPSobvthYZ45Gz5) | 4:02 |
 | 46 | [Whispering](https://open.spotify.com/track/5GtSKPi1dbKeh4Q2ZTj7GT) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Whispering](https://open.spotify.com/album/6XwA2bCeeLIBnZff7TrDMC) | 3:35 |
 | 47 | [Give Me A Dream](https://open.spotify.com/track/4vFczXXy2uLeacy8eVkMir) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Give Me A Dream](https://open.spotify.com/album/78oc4UlSRdBMEFSnCzeG2W) | 3:57 |
-| 48 | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/track/2JleoQmL4KwbnZJEQtb9hY) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/album/7e8CCKsONdG5WD0zTmKFEn) | 3:30 |
+| 48 | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/track/2JleoQmL4KwbnZJEQtb9hY) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Not Falling Out \(with Carly Pearce\)](https://open.spotify.com/album/7e8CCKsONdG5WD0zTmKFEn) | 3:31 |
 | 49 | [Cry On You](https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Cry On You](https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99) | 2:00 |
 | 50 | [cosas malas de mí](https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [cosas malas de mí](https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW) | 2:59 |
 | 51 | [BRUJA](https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH) | 2:51 |
 | 52 | [Summer Lover](https://open.spotify.com/track/1Gilsz4XzppcaOFkIWIdL1) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Summer Lover](https://open.spotify.com/album/6M29vMu4zuBbftfHKhz1sE) | 2:50 |
-| 53 | [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
+| 53 | [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
 | 54 | [the 5 stages of heartbreak](https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [the 5 stages of heartbreak](https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K) | 3:01 |
 | 55 | [Last Kiss](https://open.spotify.com/track/6RiKZcEwUD2BGKyzpXmtlk) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Last Kiss](https://open.spotify.com/album/5P2LzB2ElbJj2XTkbuaLjN) | 3:20 |
 | 56 | [We Outside](https://open.spotify.com/track/4Wu94Jp6NmkFdMseB6kK49) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [We Outside](https://open.spotify.com/album/3MWuwh04mHXNGmH2fg7Wwf) | 1:38 |

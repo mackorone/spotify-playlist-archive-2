@@ -1,29 +1,13 @@
 {
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LANDOKMAI",
-  "num_followers": 142870,
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YEW",
+  "num_followers": 142868,
   "original_name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKrpAlAagug7lMHCMULDgCVuYoE",
+  "snapshot_id": "AAAAACkSJWAFO7VhQLrN11bp1awDsBmw",
   "tracks": [
-    {
-      "added_at": "2026-10-09 10:39:29",
-      "album": {
-        "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
-        "url": "https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ"
-      },
-      "artists": [
-        {
-          "name": "LANDOKMAI",
-          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
-        }
-      ],
-      "duration_ms": 239656,
-      "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
-      "url": "https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998"
-    },
     {
       "added_at": "2026-10-09 10:39:29",
       "album": {
@@ -43,6 +27,38 @@
     {
       "added_at": "2026-10-09 10:39:29",
       "album": {
+        "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+        "url": "https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "duration_ms": 239656,
+      "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+      "url": "https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998"
+    },
+    {
+      "added_at": "2026-10-23 12:58:15",
+      "album": {
+        "name": "\u0e14\u0e32\u0e27 (pluto)",
+        "url": "https://open.spotify.com/album/5fZfuqbJmOyuOKhmfWxfHO"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "\u0e14\u0e32\u0e27 (pluto)",
+      "url": "https://open.spotify.com/track/5HVsZLMvmUC4phal6rEwfW"
+    },
+    {
+      "added_at": "2026-10-09 10:39:29",
+      "album": {
         "name": "\u0e21\u0e19\u0e38\u0e29\u0e22\u0e4c\u0e15\u0e48\u0e32\u0e07\u0e14\u0e32\u0e27 (WHO R U ? )",
         "url": "https://open.spotify.com/album/0PdWNkrPQfsnCnidVY7YGf"
       },
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/2aOgahAZL1biEeqsSgIjJ2"
     },
     {
-      "added_at": "2026-10-09 10:39:29",
+      "added_at": "2026-10-23 12:58:15",
       "album": {
-        "name": "Yesterday's Town",
-        "url": "https://open.spotify.com/album/2M1M2ILdah6R0VsHA65ePI"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1wyke9pTPOO4l2KN8KhhgK"
       },
       "artists": [
         {
-          "name": "LANDOKMAI",
-          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
         }
       ],
-      "duration_ms": 247567,
-      "name": "\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48 (linger)",
-      "url": "https://open.spotify.com/track/5joUZVyzfFEnfDAOQCOt0X"
+      "duration_ms": 242000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/25ip7ASFEwNGVWW0UVOF4P"
     },
     {
       "added_at": "2026-10-09 10:39:29",
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA"
     },
     {
-      "added_at": "2026-10-09 10:39:29",
+      "added_at": "2026-10-23 12:58:15",
       "album": {
-        "name": "DRIVE-IN THEATER, Pt. 2",
-        "url": "https://open.spotify.com/album/2CXH90ZkZYFPp1zlX6FTDk"
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19 (Remained)",
+        "url": "https://open.spotify.com/album/7f3DLO02e6Pa5ueQsGl4vV"
       },
       "artists": [
         {
-          "name": "CORNBOI",
-          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+          "name": "Monomania",
+          "url": "https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z"
         }
       ],
-      "duration_ms": 290480,
-      "name": "\u0e40\u0e1a\u0e25\u0e2d\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e0a\u0e31\u0e14\u0e40\u0e08\u0e19",
-      "url": "https://open.spotify.com/track/1x6FUEXXdbGF8vnVlhFo85"
+      "duration_ms": 281000,
+      "name": "Remained",
+      "url": "https://open.spotify.com/track/6ZtGGldlHEWeRxB1MEt0RN"
     },
     {
       "added_at": "2026-10-09 10:39:29",
@@ -143,22 +159,6 @@
     {
       "added_at": "2026-10-09 10:39:29",
       "album": {
-        "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23",
-        "url": "https://open.spotify.com/album/749fRSjQx1SPmAAMlqO8vg"
-      },
-      "artists": [
-        {
-          "name": "Lower Mansion",
-          "url": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
-        }
-      ],
-      "duration_ms": 283299,
-      "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23",
-      "url": "https://open.spotify.com/track/7MijojlXflYBJW3gmNSC69"
-    },
-    {
-      "added_at": "2026-10-09 10:39:29",
-      "album": {
         "name": "Second Hand Store",
         "url": "https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1"
       },
@@ -171,6 +171,54 @@
       "duration_ms": 194000,
       "name": "\u0e42\u0e1b\u0e23\u0e14\u0e2d\u0e2d\u0e01\u0e44\u0e1b\u0e08\u0e32\u0e01\u0e1d\u0e31\u0e19 (sweet nightmare)",
       "url": "https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU"
+    },
+    {
+      "added_at": "2026-10-09 10:39:29",
+      "album": {
+        "name": "Yesterday's Town",
+        "url": "https://open.spotify.com/album/2M1M2ILdah6R0VsHA65ePI"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "duration_ms": 247567,
+      "name": "\u0e23\u0e31\u0e01\u0e2d\u0e22\u0e39\u0e48 (linger)",
+      "url": "https://open.spotify.com/track/5joUZVyzfFEnfDAOQCOt0X"
+    },
+    {
+      "added_at": "2026-10-09 10:39:29",
+      "album": {
+        "name": "DRIVE-IN THEATER, Pt. 2",
+        "url": "https://open.spotify.com/album/2CXH90ZkZYFPp1zlX6FTDk"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "duration_ms": 290480,
+      "name": "\u0e40\u0e1a\u0e25\u0e2d\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e0a\u0e31\u0e14\u0e40\u0e08\u0e19",
+      "url": "https://open.spotify.com/track/1x6FUEXXdbGF8vnVlhFo85"
+    },
+    {
+      "added_at": "2026-10-09 10:39:29",
+      "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23",
+        "url": "https://open.spotify.com/album/749fRSjQx1SPmAAMlqO8vg"
+      },
+      "artists": [
+        {
+          "name": "Lower Mansion",
+          "url": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
+        }
+      ],
+      "duration_ms": 283299,
+      "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/7MijojlXflYBJW3gmNSC69"
     },
     {
       "added_at": "2026-10-09 10:39:29",
@@ -219,22 +267,6 @@
       "duration_ms": 239770,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
       "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
-    },
-    {
-      "added_at": "2026-10-09 10:39:29",
-      "album": {
-        "name": "\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25",
-        "url": "https://open.spotify.com/album/5jNSURxN60xpowpm767jFw"
-      },
-      "artists": [
-        {
-          "name": "Greasy Cafe'",
-          "url": "https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25",
-      "url": "https://open.spotify.com/track/1ojMbMs85G4WFO7sBDu7X4"
     },
     {
       "added_at": "2026-10-09 10:39:29",
@@ -763,38 +795,6 @@
       "duration_ms": 278181,
       "name": "44\u00b0",
       "url": "https://open.spotify.com/track/0mD5TlcL7lW0RTKQZ96xQt"
-    },
-    {
-      "added_at": "2026-10-09 10:39:29",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e1d\u0e37\u0e19 (HANDYCAM)",
-        "url": "https://open.spotify.com/album/5z2DhOR4bnMHeXk36sdRLQ"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e1d\u0e37\u0e19 (HANDYCAM)",
-      "url": "https://open.spotify.com/track/2v0yW8jRRKzbLHiNUZjM41"
-    },
-    {
-      "added_at": "2026-10-09 10:39:29",
-      "album": {
-        "name": "sunflower",
-        "url": "https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l"
-      },
-      "artists": [
-        {
-          "name": "YEW",
-          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "sunflower",
-      "url": "https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP"
     },
     {
       "added_at": "2026-10-09 10:39:29",

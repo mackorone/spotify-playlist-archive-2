@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: NCT WISH\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: ATEEZ\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-890 songs - 1 day 23 hr 57 min
+891 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Down for you](https://open.spotify.com/track/7pbRGHGXEHNbs8JxXq7yZW) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [Down for you](https://open.spotify.com/album/4GQkIyzKxvXwJLtU91Vd2t) | 3:17 | 2024-12-24 | 2025-01-02 |
 | [Dr\. BeBe](https://open.spotify.com/track/2z0LVG9G2SpFaT5bHyWwjK) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Universe : The Black Hall](https://open.spotify.com/album/7KrRT3DMomHHFtRCdK6sPs) | 3:11 | 2022-01-27 | 2022-04-09 |
 | [Drink It](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Drink It](https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR) | 3:26 | 2022-03-22 | 2022-05-26 |
+| [Drip](https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT) | 3:01 | 2026-10-23 |  |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-12-08 |  |
 | [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 | 2025-05-09 | 2026-04-28 |
 | [dummy](https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [dummy](https://open.spotify.com/album/0FUVybD9tZfWhKdCkLEC0v) | 3:22 | 2024-07-29 | 2025-03-07 |
@@ -361,7 +362,7 @@
 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 | 2025-10-21 |  |
 | [Home](https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Home](https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv) | 3:04 | 2024-10-25 | 2024-11-06 |
 | [Home](https://open.spotify.com/track/5TyCTVsBsHeeutZcU2uP5s) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:23 | 2021-12-08 | 2022-07-29 |
-| [Home](https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Home \[The Seasons : Sung Si\-kyung's Ear Candy\]](https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1) | 3:39 | 2026-09-08 |  |
+| [Home](https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Home \[The Seasons : Sung Si\-kyung's Ear Candy\]](https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1) | 3:39 | 2026-09-08 | 2026-10-24 |
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-29 | 2026-09-24 |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [Horololo](https://open.spotify.com/track/6u2lCxHSfDki4rhl9pkI0C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [MAGIC](https://open.spotify.com/album/2NbpxzWVFJfUuNXbIVeWhd) | 3:12 | 2022-04-04 | 2022-04-14 |

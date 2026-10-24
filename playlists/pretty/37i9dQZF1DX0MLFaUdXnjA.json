@@ -1,13 +1,29 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: KATSEYE",
-  "num_followers": 1761190,
+  "description": "Sit back and relax to the chillest pop.  Cover: keshi",
+  "num_followers": 1760915,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL26p5+/yWgXPRSY7KJtE+0X38Pf",
+  "snapshot_id": "AAAAAEJGB0mjDqL/w2uvtkO8YOIGMXTk",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:02:23",
+      "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
+    },
     {
       "added_at": "2026-10-16 04:01:35",
       "album": {
@@ -41,24 +57,36 @@
       "url": "https://open.spotify.com/track/5160pPOgK5vibNMtePxA3R"
     },
     {
-      "added_at": "2026-10-16 04:01:35",
+      "added_at": "2026-10-23 04:02:23",
       "album": {
-        "name": "Another You (feat. Sadie Jean)",
-        "url": "https://open.spotify.com/album/2uccjUTwwCdlXgQBbh0HwV"
+        "name": "Passion Isn't Rare",
+        "url": "https://open.spotify.com/album/7Iehhp14cGzyFbsl9suqCv"
       },
       "artists": [
         {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        },
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Another You (feat. Sadie Jean)",
-      "url": "https://open.spotify.com/track/26bOxdCaS6ESsR2NR4xq41"
+      "duration_ms": 190828,
+      "name": "Passion Isn't Rare",
+      "url": "https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis"
+    },
+    {
+      "added_at": "2026-10-23 04:02:23",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "added_at": "2026-10-02 04:00:41",
@@ -79,6 +107,26 @@
     {
       "added_at": "2026-10-16 04:01:35",
       "album": {
+        "name": "Another You (feat. Sadie Jean)",
+        "url": "https://open.spotify.com/album/2uccjUTwwCdlXgQBbh0HwV"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        },
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Another You (feat. Sadie Jean)",
+      "url": "https://open.spotify.com/track/26bOxdCaS6ESsR2NR4xq41"
+    },
+    {
+      "added_at": "2026-10-16 04:01:35",
+      "album": {
         "name": "late night swim",
         "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
       },
@@ -91,6 +139,22 @@
       "duration_ms": 235852,
       "name": "all i want is you",
       "url": "https://open.spotify.com/track/0l3KugO5YCnelDQs44rfWO"
+    },
+    {
+      "added_at": "2026-10-23 04:02:23",
+      "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/0DpUtDNX444dGMTAWa2eZE"
     },
     {
       "added_at": "2026-10-09 04:00:52",
@@ -573,22 +637,6 @@
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
-      "added_at": "2026-09-25 04:03:19",
-      "album": {
-        "name": "Always The Same",
-        "url": "https://open.spotify.com/album/1sSAdNWQUwMEBxT1bI0tka"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Always The Same",
-      "url": "https://open.spotify.com/track/5TicxkAav2rqGjxeucVh9B"
-    },
-    {
       "added_at": "2026-09-18 04:25:37",
       "album": {
         "name": "Big Believer",
@@ -793,22 +841,6 @@
       "url": "https://open.spotify.com/track/1VkOwCb4bkYCwCFi4QyPAn"
     },
     {
-      "added_at": "2026-09-04 04:02:38",
-      "album": {
-        "name": "Placeholder",
-        "url": "https://open.spotify.com/album/4HPi2f6Tf6Jhq7j9IrIaWC"
-      },
-      "artists": [
-        {
-          "name": "Sarah Lola",
-          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
-        }
-      ],
-      "duration_ms": 167236,
-      "name": "Placeholder",
-      "url": "https://open.spotify.com/track/0W4eLntQDmc8yDJ7roRdK8"
-    },
-    {
       "added_at": "2026-08-28 04:02:54",
       "album": {
         "name": "Comets",
@@ -871,22 +903,6 @@
       "duration_ms": 250400,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/2LDLjL9TEy9HQqznnDaH3M"
-    },
-    {
-      "added_at": "2026-08-07 05:11:51",
-      "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
     },
     {
       "added_at": "2026-08-28 04:02:54",
@@ -1387,22 +1403,6 @@
       "duration_ms": 180128,
       "name": "Debbie Don't Cry",
       "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
-    },
-    {
-      "added_at": "2026-05-08 04:01:35",
-      "album": {
-        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 178016,
-      "name": "Material Lover",
-      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "added_at": "2026-05-22 04:01:51",

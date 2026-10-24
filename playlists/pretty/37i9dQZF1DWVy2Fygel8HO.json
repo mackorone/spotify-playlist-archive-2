@@ -1,12 +1,12 @@
 {
   "description": "Soft, soothing piano for you and your baby. ",
-  "num_followers": 62228,
+  "num_followers": 62245,
   "original_name": "Quiet Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5xoE/SzVdHiYu3Lp7ktZ0QWXS1",
+  "snapshot_id": "AAAAAPeaVMbwgZnXRKlEMo8MbuyYQepK",
   "tracks": [
     {
       "added_at": "2026-10-02 04:00:30",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs"
     },
     {
+      "added_at": "2026-10-23 04:01:47",
+      "album": {
+        "name": "A Familiar Place",
+        "url": "https://open.spotify.com/album/0A7J1hAuHEeeYhU4SdKMJB"
+      },
+      "artists": [
+        {
+          "name": "Lorin Peyo",
+          "url": "https://open.spotify.com/artist/1gvxDQsvlrjtrW7FotD6GA"
+        }
+      ],
+      "duration_ms": 134994,
+      "name": "A Familiar Place",
+      "url": "https://open.spotify.com/track/5M7uPpBbulzbomYP8iUbjU"
+    },
+    {
       "added_at": "2026-10-02 04:00:30",
       "album": {
         "name": "Golden Pollen",
@@ -295,6 +311,22 @@
       "duration_ms": 135867,
       "name": "A Quiet Path",
       "url": "https://open.spotify.com/track/4nioqnMP8Y69o4N9NkJBKR"
+    },
+    {
+      "added_at": "2026-10-23 04:01:47",
+      "album": {
+        "name": "unbound",
+        "url": "https://open.spotify.com/album/78OwoTJU0hxCIjOVfL0SLZ"
+      },
+      "artists": [
+        {
+          "name": "rein\u00eb",
+          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
+        }
+      ],
+      "duration_ms": 154020,
+      "name": "unbound",
+      "url": "https://open.spotify.com/track/6sMp2Y3jicBN47dlnf5SUS"
     },
     {
       "added_at": "2026-10-02 04:00:30",

@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-561 songs - 1 day 11 hr 12 min
+563 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [coloured concrete](https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [coloured concrete](https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT) | 3:10 | 2024-08-23 | 2025-03-01 |
 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 | 2024-04-19 | 2026-01-05 |
 | [Comin' Home](https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:05 | 2022-05-02 | 2023-05-19 |
-| [Coming Up](https://open.spotify.com/track/0Uw43tfMv0fGcaoEcFgHVy) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Coming Up](https://open.spotify.com/album/5HykMtjcH0Za1LcWIdZJsC) | 4:21 | 2026-07-30 |  |
+| [Coming Up](https://open.spotify.com/track/0Uw43tfMv0fGcaoEcFgHVy) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Coming Up](https://open.spotify.com/album/5HykMtjcH0Za1LcWIdZJsC) | 4:21 | 2026-07-30 | 2026-10-24 |
 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-04-12 | 2026-08-30 |
 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 | 2022-05-02 | 2024-04-19 |
 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 | 2022-05-02 | 2022-07-15 |
@@ -237,7 +237,7 @@
 | [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 | 2022-05-02 | 2023-05-19 |
 | [Imaan](https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX) | 3:34 | 2024-04-19 | 2024-06-05 |
 | [Imagine Barcelona](https://open.spotify.com/track/1nmyuESTg0SKI2Luh17XAs) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Between Us](https://open.spotify.com/album/2sFldGEUgwU1YpAIhgTdwn) | 3:56 | 2026-04-17 | 2026-07-12 |
-| [In My Gut](https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Gut](https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG) | 2:52 | 2026-08-14 |  |
+| [In My Gut](https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Gut](https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG) | 2:52 | 2026-08-14 | 2026-10-24 |
 | [In Too Deep](https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer No Filler](https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw) | 3:26 | 2022-05-02 | 2022-07-15 |
 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 | 2022-05-02 | 2023-05-19 |
 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 | 2024-04-19 |  |
@@ -342,6 +342,7 @@
 | [Overtime](https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:10 | 2024-04-19 |  |
 | [Paint It Black](https://open.spotify.com/track/0r40Vu3UvKvB4reQgW8lJZ) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [How Far Shallow Takes You](https://open.spotify.com/album/26rh9l2u5xPAe9XKCgAxJb) | 3:16 | 2022-05-02 | 2022-06-23 |
 | [Paint It Black](https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [How Far Shallow Takes You](https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW) | 3:16 | 2022-05-02 | 2023-05-19 |
+| [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 | 2026-10-23 |  |
 | [Patio Lanterns](https://open.spotify.com/track/4kVGbzriXY198lnNeh3nAv) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Shakin' Like A Human Being](https://open.spotify.com/album/2Gw4mynDQDMO0VBZgJZBjJ) | 3:28 | 2022-05-02 | 2022-07-29 |
 | [Patio Lanterns](https://open.spotify.com/track/1SJuRZDhTXWyPSpfLbP1rq) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Greatest Hits](https://open.spotify.com/album/389Mp072OWvLvv2nx7RWuw) | 3:58 | 2022-09-10 | 2022-09-15 |
 | [Peace of Mind \(Evening\)](https://open.spotify.com/track/6ypqW6kawv0iJFyW1k1UQr) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Peace of Mind \(Evening\)](https://open.spotify.com/album/2vpQDZltXoemtEN90itVg8) | 3:31 | 2024-09-06 | 2024-11-20 |
@@ -530,6 +531,7 @@
 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 | 2025-10-31 | 2026-04-12 |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2022-09-10 | 2022-09-15 |
 | [What I Wouldn't Do](https://open.spotify.com/track/5khBbADRwG8TD1z3GiW6vs) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony](https://open.spotify.com/album/1aoVW0UzWXSSYc24TWQuQV) | 3:40 | 2022-05-02 | 2022-07-25 |
+| [What If I Call](https://open.spotify.com/track/3zBdVzYsuqVPyMk1YFiPcg) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [What If I Call](https://open.spotify.com/album/4yazxGFraz7lO9omZNEues) | 2:40 | 2026-10-23 |  |
 | [Whatcha Do to My Body](https://open.spotify.com/track/4RLVEYuakmAD5cQljfLMpD) | [Lee Aaron](https://open.spotify.com/artist/6othYuSBXua4Mx2EW0S67p) | [Bodyrock](https://open.spotify.com/album/5pYDKnclLkz1rs8AE4DxyP) | 4:43 | 2022-05-02 | 2022-07-26 |
 | [What’s On Your Mind](https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [What's On Your Mind](https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6) | 3:32 | 2026-04-10 | 2026-05-31 |
 | [Wheat Kings](https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Fully Completely](https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO) | 4:19 | 2022-09-10 | 2022-09-15 |

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,877 songs - 3 day 11 hr 9 min
+1,878 songs - 3 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1614,6 +1614,7 @@
 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 | 2022-05-20 | 2023-09-23 |
 | [The Nightingale](https://open.spotify.com/track/1cXacQAGKrNEB6q32HzK6c) | [Frédéric Leissen](https://open.spotify.com/artist/5yLIjnvnDjovcXpZJa3NCj) | [The Nightingale](https://open.spotify.com/album/5q6Lo4sWsHz7S2JHooLt5i) | 1:58 | 2020-08-04 | 2021-04-14 |
 | [The Nomad](https://open.spotify.com/track/2CqYEUz87EmtXLpu5QhjrQ) | [Koral Banko](https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj) | [The Nomad](https://open.spotify.com/album/5ha7u3ly8G0bEDLxidwWRD) | 2:57 | 2019-05-26\* | 2019-10-30 |
+| [The Northern Fields](https://open.spotify.com/track/3rqNtzfekrqoZcaK2CfGwP) | [SG Hilltwig](https://open.spotify.com/artist/756zvVCs2NGZiI0HVWfrKS) | [The Northern Fields](https://open.spotify.com/album/4B95zmZkzbJ3EFPRiWzW9y) | 2:33 | 2026-10-23 |  |
 | [The oak](https://open.spotify.com/track/5JcvLTlhEtDl3lPFs95xRM) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Fields](https://open.spotify.com/album/0bqMUUD910BVxrs4ENCuTC) | 2:04 | 2022-04-28 | 2022-10-25 |
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-05 | 2025-02-26 |
 | [The Orchard \(I\)](https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [The Orchard \(I\)](https://open.spotify.com/album/7r3fBLzgZjxVXqRyUU2tPt) | 2:47 | 2021-03-17 | 2022-03-11 |

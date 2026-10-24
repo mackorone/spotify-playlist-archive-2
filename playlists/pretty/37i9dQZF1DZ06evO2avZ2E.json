@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3339,
+  "num_followers": 3340,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABqbTCLvvfkA5l9xCXhqgBG",
+  "snapshot_id": "atgAgAAAAAB8ELxqE61EcW4QXt7mhLo+",
   "tracks": [
     {
       "added_at": null,
@@ -515,42 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Muchacho De Los Ojos Tristes",
-        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 265017,
-      "name": "El Muchacho De Los Ojos Tristes",
-      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 158492,
-      "name": "SUBCONSCIENTE",
-      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Giants in The Sky (Le Tour Du Monde - Austin)",
         "url": "https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX"
       },
@@ -579,6 +543,42 @@
       "duration_ms": 182849,
       "name": "Like Giants in The Sky - Le Tour Du Monde - Austin",
       "url": "https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 158492,
+      "name": "SUBCONSCIENTE",
+      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Muchacho De Los Ojos Tristes",
+        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 265017,
+      "name": "El Muchacho De Los Ojos Tristes",
+      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mundo Puede Esperar",
         "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 161142,
       "name": "El Mundo Puede Esperar",
       "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
     },
     {
       "added_at": null,
@@ -807,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue Solo un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
+        "name": "Caminando en Fuego",
+        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
       },
       "artists": [
         {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Fue Solo un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
+      "duration_ms": 269601,
+      "name": "Fluir",
+      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
     },
     {
       "added_at": null,
@@ -843,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminando en Fuego",
-        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
+        "name": "Fue Solo un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
       },
       "artists": [
         {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 269601,
-      "name": "Fluir",
-      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
+      "duration_ms": 229000,
+      "name": "Fue Solo un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
     },
     {
       "added_at": null,

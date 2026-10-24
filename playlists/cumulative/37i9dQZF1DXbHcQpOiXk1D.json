@@ -260,7 +260,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 214320,
       "name": "9 Months",
       "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
@@ -1016,6 +1016,36 @@
       "duration_ms": 286589,
       "name": "Are You Gonna Find It",
       "url": "https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ"
+    },
+    {
+      "album": {
+        "name": "Artfullee",
+        "url": "https://open.spotify.com/album/3EFxNRNLq63nFtBhUvak9c"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Smith",
+          "url": "https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex"
+        },
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Joe Webb",
+          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
+        },
+        {
+          "name": "Anders Fjeldsted",
+          "url": "https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407253,
+      "name": "Artfullee",
+      "url": "https://open.spotify.com/track/1G8avRirERm9OTZxxZRCCU"
     },
     {
       "album": {

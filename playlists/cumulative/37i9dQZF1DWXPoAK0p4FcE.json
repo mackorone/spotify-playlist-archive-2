@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LANDOKMAI",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YEW",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -443,6 +443,42 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19 (Remained)",
+        "url": "https://open.spotify.com/album/7f3DLO02e6Pa5ueQsGl4vV"
+      },
+      "artists": [
+        {
+          "name": "Monomania",
+          "url": "https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Remained",
+      "url": "https://open.spotify.com/track/6ZtGGldlHEWeRxB1MEt0RN"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1wyke9pTPOO4l2KN8KhhgK"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/25ip7ASFEwNGVWW0UVOF4P"
+    },
+    {
+      "album": {
         "name": "Pauley & Jeen",
         "url": "https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA"
       },
@@ -476,7 +512,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 262254,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP"
@@ -1313,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e32\u0e27 (pluto)",
+        "url": "https://open.spotify.com/album/5fZfuqbJmOyuOKhmfWxfHO"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "\u0e14\u0e32\u0e27 (pluto)",
+      "url": "https://open.spotify.com/track/5HVsZLMvmUC4phal6rEwfW"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e32\u0e27\u0e19\u0e33\u0e17\u0e32\u0e07 (Quiet Night)",
         "url": "https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR"
       },
@@ -1432,7 +1486,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 224400,
       "name": "\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25",
       "url": "https://open.spotify.com/track/1ojMbMs85G4WFO7sBDu7X4"
@@ -3786,7 +3840,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 190714,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e1d\u0e37\u0e19 (HANDYCAM)",
       "url": "https://open.spotify.com/track/2v0yW8jRRKzbLHiNUZjM41"

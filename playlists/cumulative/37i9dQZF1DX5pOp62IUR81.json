@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 581853,
       "name": "Captain America",
       "url": "https://open.spotify.com/track/2ZQ4lypCihgYLjIdvLRqyW"
@@ -4646,6 +4646,24 @@
       "duration_ms": 117359,
       "name": "Villains (Parker's Theme)",
       "url": "https://open.spotify.com/track/28OBgyWJ61jAVnimykSE97"
+    },
+    {
+      "album": {
+        "name": "VisionQuest - Vol. 1 (Episodes 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5jzkR32BnSSskRPBUtNC0R"
+      },
+      "artists": [
+        {
+          "name": "Mick Giacchino",
+          "url": "https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134066,
+      "name": "VisionQuest Main on Ends",
+      "url": "https://open.spotify.com/track/7pbCqbLqPi2zMXpcEV0Gr2"
     },
     {
       "album": {

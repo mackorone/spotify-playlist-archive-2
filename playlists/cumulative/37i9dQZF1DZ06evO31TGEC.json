@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Concierto En Vivo Desde Guadalajara, Vol. 1",
+        "url": "https://open.spotify.com/album/5qDSxRNIV1hnTzbSJCHM0k"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "La Caspa Del Diablo",
+      "url": "https://open.spotify.com/track/4x6VTEHMK9AdiiAzDFf9Yz"
+    },
+    {
+      "album": {
         "name": "La Caspa Del Diablo-Corridos A Toda Ley",
         "url": "https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 191796,
       "name": "Le Dire Que Me Gusta",
       "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"

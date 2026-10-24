@@ -5679,6 +5679,24 @@
     },
     {
       "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/7GsIkB3rCIiR6fxfRUEZMA"
+      },
+      "artists": [
+        {
+          "name": "RAYZEN",
+          "url": "https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130550,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/3winKI0Fb4mSvxuu5nblcg"
+    },
+    {
+      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/2qHVjOzgH0lkQRZwRNwAkI"
       },

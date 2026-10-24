@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-587 songs - 1 day 3 hr 59 min
+588 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Country Roads](https://open.spotify.com/track/1ymdX49SbJzb9DH1YAH8W7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II) | [Country Roads](https://open.spotify.com/album/5sK3HgYCoqsTENWpG32hZV) | 3:10 | 2025-06-02 |  |
 | [Crazy Girl](https://open.spotify.com/track/0LjhJNwHmrNpiurbvy70jW) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Crazy Girl](https://open.spotify.com/album/5nCjCuxUIxaBUxSto8ayxF) | 2:36 | 2025-03-07 |  |
 | [CREW](https://open.spotify.com/track/4jP8t7NUr3ESUZ3b5Zmp6M) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [CREW](https://open.spotify.com/album/7251NIf38i495LPXBgj6UY) | 3:05 | 2022-10-17 | 2023-04-09 |
+| [CRITICAL MASS](https://open.spotify.com/track/5ZtbObvp6UlsnJoqFfuKHv) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Paytra](https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg) | [CRITICAL MASS](https://open.spotify.com/album/04PAQKuLgWiW0KLF5Vomdx) | 2:41 | 2026-10-23 |  |
 | [Cry Me A River](https://open.spotify.com/track/4jU7BzdI8lxvtuKu0dXKL1) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Cry Me A River](https://open.spotify.com/album/1iyL5MD15REXnRbw769U5W) | 2:29 | 2025-08-15 |  |
 | [Cut Me Open](https://open.spotify.com/track/7MQfC67xwZT2TYbq0HqygO) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Cut Me Open](https://open.spotify.com/album/5s1ZHACKonkFcsse4WZUj5) | 2:27 | 2026-09-25 |  |
 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 | 2023-04-07 | 2025-04-27 |

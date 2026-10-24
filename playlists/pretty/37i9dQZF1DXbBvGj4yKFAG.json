@@ -1,28 +1,28 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 114289,
+  "num_followers": 114293,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+y1B3M1JgZP9kGaHa0HmOcHcDd",
+  "snapshot_id": "AAAAAGnV+SnSFBHPQWF00KpCjGwZ34Y7",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:03:04",
+      "added_at": "2026-10-23 04:03:08",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/1kU0H9ztrvumgynaerkHOm"
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
       },
       "artists": [
         {
-          "name": "Madrid Exit",
-          "url": "https://open.spotify.com/artist/3WFmXJyXjp3MEf97eT0uzO"
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
         }
       ],
-      "duration_ms": 166426,
-      "name": "Missing",
-      "url": "https://open.spotify.com/track/6cjLzYXcciwqS0CtSuZNSh"
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "added_at": "2026-10-16 04:03:04",
@@ -55,6 +55,38 @@
       "duration_ms": 276500,
       "name": "Belemen",
       "url": "https://open.spotify.com/track/7bMpolsgVswAxMDEg6GvBW"
+    },
+    {
+      "added_at": "2026-10-16 04:03:04",
+      "album": {
+        "name": "Idea June",
+        "url": "https://open.spotify.com/album/17pHBGN0qKzdwOqmHXCBCC"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Idea June",
+      "url": "https://open.spotify.com/track/6Jfj1S7EgM22jkHOGigzrm"
+    },
+    {
+      "added_at": "2026-10-16 04:03:04",
+      "album": {
+        "name": "Sorry Horse (Demo)",
+        "url": "https://open.spotify.com/album/2z39SzEd8EahNxkKPWK1dU"
+      },
+      "artists": [
+        {
+          "name": "No Prospects",
+          "url": "https://open.spotify.com/artist/5a8xSiB71udGKpwOJKatKI"
+        }
+      ],
+      "duration_ms": 321406,
+      "name": "Sorry Horse - Demo",
+      "url": "https://open.spotify.com/track/6xXTzCRqE6pFiSfqXlscob"
     },
     {
       "added_at": "2026-10-16 04:03:04",
@@ -123,22 +155,6 @@
       "duration_ms": 213740,
       "name": "across the line",
       "url": "https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6"
-    },
-    {
-      "added_at": "2026-10-16 04:03:04",
-      "album": {
-        "name": "two crows",
-        "url": "https://open.spotify.com/album/1WMsTboGCN24oLXoyYIH2u"
-      },
-      "artists": [
-        {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "two crows",
-      "url": "https://open.spotify.com/track/0c9LZHh6EBmE8JZdy2nd1q"
     },
     {
       "added_at": "2026-10-16 04:03:04",
@@ -243,6 +259,22 @@
     {
       "added_at": "2026-10-16 04:03:04",
       "album": {
+        "name": "two crows",
+        "url": "https://open.spotify.com/album/1WMsTboGCN24oLXoyYIH2u"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "two crows",
+      "url": "https://open.spotify.com/track/0c9LZHh6EBmE8JZdy2nd1q"
+    },
+    {
+      "added_at": "2026-10-16 04:03:04",
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6PHIFBsrXsKPL6Z1hA4k9X"
       },
@@ -255,38 +287,6 @@
       "duration_ms": 193777,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/7yRZ9KTJXSnSWXh2hRPft9"
-    },
-    {
-      "added_at": "2026-10-16 04:03:04",
-      "album": {
-        "name": "Blue Heaven White Horse",
-        "url": "https://open.spotify.com/album/68ue2cjYdCpNWRTNU4NKgX"
-      },
-      "artists": [
-        {
-          "name": "17sport",
-          "url": "https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT"
-        }
-      ],
-      "duration_ms": 170810,
-      "name": "Donn\u00e9 ma peau",
-      "url": "https://open.spotify.com/track/18ttEALJCQM64xw532B815"
-    },
-    {
-      "added_at": "2026-10-16 04:03:04",
-      "album": {
-        "name": "Idea June",
-        "url": "https://open.spotify.com/album/17pHBGN0qKzdwOqmHXCBCC"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 90133,
-      "name": "Idea June",
-      "url": "https://open.spotify.com/track/6Jfj1S7EgM22jkHOGigzrm"
     },
     {
       "added_at": "2026-10-16 04:03:04",
@@ -323,22 +323,6 @@
       "duration_ms": 96616,
       "name": "i miss us",
       "url": "https://open.spotify.com/track/3dnWWeTji7jc8XO2UzgcvP"
-    },
-    {
-      "added_at": "2026-10-16 04:03:04",
-      "album": {
-        "name": "Sorry Horse (Demo)",
-        "url": "https://open.spotify.com/album/2z39SzEd8EahNxkKPWK1dU"
-      },
-      "artists": [
-        {
-          "name": "No Prospects",
-          "url": "https://open.spotify.com/artist/5a8xSiB71udGKpwOJKatKI"
-        }
-      ],
-      "duration_ms": 321406,
-      "name": "Sorry Horse - Demo",
-      "url": "https://open.spotify.com/track/6xXTzCRqE6pFiSfqXlscob"
     },
     {
       "added_at": "2026-10-16 04:03:04",

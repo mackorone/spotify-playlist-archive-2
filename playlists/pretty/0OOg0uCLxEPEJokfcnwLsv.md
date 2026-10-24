@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,412 likes - 57 songs - 3 hr 24 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,413 likes - 58 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 55 | [Jeckyll&Hyde](https://open.spotify.com/track/0PFaJMLO16M6mvaXmCqL7c) | [Ginny Ranger](https://open.spotify.com/artist/1d7M7OfoBCzXOyS8JlDHfo), [The Re\-A\-Rangers](https://open.spotify.com/artist/2PF7IsaFN7iPAA3FI0QLGn) | [Jeckyll&Hyde](https://open.spotify.com/album/0TOuh8yFNSjYmtNsSdkY6v) | 3:33 |
 | 56 | [Floating](https://open.spotify.com/track/18xRCY2rI66SvQZSLxHBlL) | [English Budgies](https://open.spotify.com/artist/3iokGJkvqXeARdkndKZbuR) | [Floating](https://open.spotify.com/album/64HM2fKH4wtLimUq6bz4kI) | 2:29 |
 | 57 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 |
+| 58 | [Rhoads](https://open.spotify.com/track/7HoeaXhjgR8M9rd6B6vD9R) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 3:03 |
 
-Snapshot ID: `AAAHQyFPSBlgFe7zS4+9bv6skV+sxMD8`
+Snapshot ID: `AAAHRFKq+UZ+RSKVj7n7L1AA15sy52y6`

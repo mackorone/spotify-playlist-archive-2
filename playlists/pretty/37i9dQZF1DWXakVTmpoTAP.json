@@ -1,6 +1,6 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 23221,
+  "num_followers": 23222,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
-        "name": "The Essential Paul Simon",
-        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 250609,
-      "name": "Father and Daughter",
-      "url": "https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
         "name": "Little Earthquakes",
         "url": "https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
-        "name": "Things Dads Do",
-        "url": "https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX"
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 249820,
-      "name": "Things Dads Do",
-      "url": "https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ"
+      "duration_ms": 250609,
+      "name": "Father and Daughter",
+      "url": "https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d"
     },
     {
       "added_at": "2024-06-16 15:20:38",
@@ -543,6 +527,22 @@
       "duration_ms": 189880,
       "name": "Build Me A Daddy",
       "url": "https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
+        "name": "Things Dads Do",
+        "url": "https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 249820,
+      "name": "Things Dads Do",
+      "url": "https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ"
     },
     {
       "added_at": "2024-06-16 15:20:38",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 221653,
-      "name": "My Old Man",
-      "url": "https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS"
+      "duration_ms": 225146,
+      "name": "Daddy Could Swear, I Declare",
+      "url": "https://open.spotify.com/track/2EljJKZd4yCPBhWczgQjoo"
     }
   ],
   "unique_name": "Father's Day",

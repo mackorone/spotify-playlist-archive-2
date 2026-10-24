@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,782 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,791 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 34 | [Koyon So \- Game](https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Koyon So](https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy) | 6:15 |
 | 35 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |
 | 36 | [Onyame Ehu Wo](https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI) | [K\. K\. Kabobo](https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq) | [My Sweetheart](https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ) | 5:22 |
-| 37 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |
-| 38 | [Highlife Time](https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 6:15 |
+| 37 | [Highlife Time](https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 6:15 |
+| 38 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |
 | 39 | [Duke](https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h) | [Kantata](https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 5:34 |
 | 40 | [Veranda](https://open.spotify.com/track/661VXHANy2wLEQftFosxuH) | [Samuel Owusu](https://open.spotify.com/artist/722O5pQlnI9WNQEx3iO8am) | [Veranda](https://open.spotify.com/album/5NlpTtYLQea0k9Sk4j6vg5) | 6:00 |
 | 41 | [Juliana](https://open.spotify.com/track/2MvreSWPJVvtwk2ijWolDZ) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [Sweet Talks](https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu) | 5:52 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 48 | [Fa Odo Bodum](https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO) | [Tommy Wiredu & Frank Mensa](https://open.spotify.com/artist/6sq9gJEKndPlGG3uHdDdy7) | [Fa Idi Bidim](https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW) | 5:30 |
 | 49 | [Mene Wo Begoro](https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [The Best of Charles Amoah Vol.1](https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O) | 5:59 |
 | 50 | [Femo Dil](https://open.spotify.com/track/4i46wJCnmgYjfk7m95P2pH) | [Adane Best](https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn) | [Ghana Awake, Vol\. 1](https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO) | 5:02 |
-| 51 | [Asiwa](https://open.spotify.com/track/4jOv7ddkv3hg11w4V2389q) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 5:07 |
+| 51 | [Twa Me Ke Ke](https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:35 |
 | 52 | [Menkoaa](https://open.spotify.com/track/7CPWYXyEHbELJCsa2rLp8n) | [2LOCK](https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn) | [The Best of Nana Fynn \(2LOCK\) Volume One](https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv) | 5:33 |
-| 53 | [Twa Me Ke Ke](https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:35 |
+| 53 | [Asiwa](https://open.spotify.com/track/4jOv7ddkv3hg11w4V2389q) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 5:07 |
 | 54 | [Fre Me \(Call Me\)](https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980\-93](https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv) | 6:21 |
 | 55 | [Maafio](https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w) | [Katamanto Highlife Orchestra](https://open.spotify.com/artist/3TbJGuRE8RDXBZs9HmOdrP) | [Katamanto Highlife Orchestra](https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs) | 4:32 |
 | 56 | [Obaa Ben Ni](https://open.spotify.com/track/0UQVenafuFH54pymeINgMT) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:07 |

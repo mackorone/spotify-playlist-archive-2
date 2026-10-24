@@ -4933,6 +4933,24 @@
     },
     {
       "album": {
+        "name": "TAPA LA CARA",
+        "url": "https://open.spotify.com/album/3ALiOmVFZ2TZbngtuaTk3A"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160620,
+      "name": "TAPA LA CARA",
+      "url": "https://open.spotify.com/track/5RFLmBGJbcD5nFHFYA3FXo"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/4SFfX2D70N1iRXBMI8oszS"
       },

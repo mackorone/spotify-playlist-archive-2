@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 15495,
+  "num_followers": 15497,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAJ9zkyUINOCKK4E+zvpxoJ",
+  "snapshot_id": "atgAgAAAAACAz+u2ErBJbtdjPxwYKK2O",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mala\u00efka (feat. Florent Pagny)",
+        "url": "https://open.spotify.com/album/0XezvacDPGBeLF7mjHUBJz"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Mala\u00efka (feat. Florent Pagny)",
+      "url": "https://open.spotify.com/track/68ZfPws5MFI4UAVD22sPtu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOPE!!",
         "url": "https://open.spotify.com/album/17Grm8FoBWNyw4f9u2Ykec"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 199058,
       "name": "Bando (feat. Pharrell Williams & Quavo) - Orchestral",
       "url": "https://open.spotify.com/track/0lBoWB1rFFeN4NFnkR94sI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mala\u00efka (feat. Florent Pagny)",
-        "url": "https://open.spotify.com/album/0XezvacDPGBeLF7mjHUBJz"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Mala\u00efka (feat. Florent Pagny)",
-      "url": "https://open.spotify.com/track/68ZfPws5MFI4UAVD22sPtu"
     },
     {
       "added_at": null,
@@ -775,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oremi",
-        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+        "name": "\u00c9lus de Dieu 2",
+        "url": "https://open.spotify.com/album/30RfjTsK6cpAD9fGnpQEJS"
       },
       "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 229293,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
+      "duration_ms": 176585,
+      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/1hWCAkCHNWpNHyUb96ZInF"
     },
     {
       "added_at": null,
@@ -815,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9lus de Dieu 2",
-        "url": "https://open.spotify.com/album/30RfjTsK6cpAD9fGnpQEJS"
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
       },
       "artists": [
-        {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
-        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 176585,
-      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/1hWCAkCHNWpNHyUb96ZInF"
+      "duration_ms": 229293,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
     },
     {
       "added_at": null,
@@ -847,6 +847,46 @@
       "duration_ms": 276840,
       "name": "Batonga",
       "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quanto Mais Curtido Melhor",
+        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 394640,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
     },
     {
       "added_at": null,
@@ -883,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quanto Mais Curtido Melhor",
-        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cavy In The City",
         "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
       },
@@ -923,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
       "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 394640,
-      "name": "Sparrow",
-      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
+      "duration_ms": 294533,
+      "name": "Lon Lon",
+      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
     },
     {
       "added_at": null,
@@ -959,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Lon Lon",
-      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fifa",
         "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
@@ -987,6 +987,50 @@
       "duration_ms": 237666,
       "name": "Fifa",
       "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "Djin Djin",
+      "url": "https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc"
     },
     {
       "added_at": null,
@@ -1031,70 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Branford Marsalis",
-          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "Djin Djin",
-      "url": "https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 312093,
-      "name": "Easy As Life",
-      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 205797,
-      "name": "Sunlight to My Soul",
-      "url": "https://open.spotify.com/track/6Pe1uwRVmUMh5c6EMjZqrp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -1127,30 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batonga",
-        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOPE!!",
         "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
       },
@@ -1160,13 +1116,49 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Kakua (feat. Diamond Platnumz)",
-      "url": "https://open.spotify.com/track/2I4uyRWwA7PpW1HzDVVk9S"
+      "duration_ms": 205797,
+      "name": "Sunlight to My Soul",
+      "url": "https://open.spotify.com/track/6Pe1uwRVmUMh5c6EMjZqrp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U Pastore Di Ghisoni",
+        "url": "https://open.spotify.com/album/2iUQD1OOTiVx3wCGz0CQRe"
+      },
+      "artists": [
+        {
+          "name": "La Ma\u00eetrise de Saint Marc - LES CHORISTES",
+          "url": "https://open.spotify.com/artist/026nk210FPO26xMwpoew70"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "U Pastore Di Ghisoni",
+      "url": "https://open.spotify.com/track/3FEnjBx2ysGMcdgukFft9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

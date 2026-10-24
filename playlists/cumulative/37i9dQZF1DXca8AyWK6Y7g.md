@@ -4,7 +4,7 @@
 
 > just trying our best 📸 Henry Morris
 
-2,915 songs - 6 day 2 hr 56 min
+2,917 songs - 6 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 | 2025-01-24 | 2025-04-05 |
 | [Demons](https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Ask Me How I’ve Been](https://open.spotify.com/album/6FrJR357uhTSuFNJVaYo7b) | 2:42 | 2026-03-27 | 2026-06-13 |
 | [Dependent](https://open.spotify.com/track/60vroCBYfVR1UijoHFJJIR) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Dependent](https://open.spotify.com/album/6PHUj1PI8BVwZlVpPKX7lT) | 3:00 | 2026-07-10 | 2026-10-09 |
-| [depends](https://open.spotify.com/track/6ClRt5Ikl6VEO6xJrdKRCX) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [blindfaith county](https://open.spotify.com/album/63PCqsm4LhqC3OSWSN97RB) | 4:19 | 2026-05-22 |  |
+| [depends](https://open.spotify.com/track/6ClRt5Ikl6VEO6xJrdKRCX) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [blindfaith county](https://open.spotify.com/album/63PCqsm4LhqC3OSWSN97RB) | 4:19 | 2026-05-22 | 2026-10-24 |
 | [depressed on the internet](https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [depressed on the internet](https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw) | 2:57 | 2026-05-08 | 2026-10-10 |
 | [Deserve It](https://open.spotify.com/track/54G55Srn9Dk5bF76JNPQYD) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Deserve It](https://open.spotify.com/album/6pDK9mems2WhwqQJiok2Lx) | 2:57 | 2022-10-28 | 2022-11-14 |
 | [Deserve This](https://open.spotify.com/track/5ClggGlHpLil31okcAaUEU) | [Maggie Miles](https://open.spotify.com/artist/3fU7b1NSQYROvvdepD4PZ0) | [Deserve This](https://open.spotify.com/album/13vbIRIEC831FhydQXlCzV) | 4:01 | 2020-04-24 | 2021-08-20 |
@@ -1474,6 +1474,7 @@
 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 | 2022-08-26 | 2023-01-28 |
 | [Leave Me Alone](https://open.spotify.com/track/0q4M1iTAmKYY0CcfEx6FOv) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Leave Me Alone](https://open.spotify.com/album/6kUjTPhLlAiW3obq3zdPS1) | 2:13 | 2023-06-16 | 2023-11-11 |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-05-23 | 2025-07-19 |
+| [Leave Me There](https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Leave Me There](https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk) | 4:16 | 2026-10-23 |  |
 | [Leaving You](https://open.spotify.com/track/3ZsQ4mt2KWgbvejith5cl0) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Leaving You](https://open.spotify.com/album/3Q0Vbawo8Ow9XJjnLHZFec) | 3:30 | 2025-08-01 | 2025-10-04 |
 | [Left Behind the Gold](https://open.spotify.com/track/4A4CtC81IjGggqfneGnITU) | [Cards](https://open.spotify.com/artist/5hzb5m0WYwl0w2495YeGwX), [TxTHEWAY](https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe) | [Left Behind the Gold](https://open.spotify.com/album/6ptpKNSmI65gl5GVPAX2YW) | 2:29 | 2019-05-26\* | 2021-02-13 |
 | [Left, Right, GO!](https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf) | 3:46 | 2023-09-01 | 2023-09-23 |
@@ -1651,6 +1652,7 @@
 | [maybe she was the one](https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:45 | 2024-03-29 | 2024-06-22 |
 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-12-27 | 2025-05-03 |
 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 | 2025-03-28 | 2025-05-24 |
+| [Me and The Locals](https://open.spotify.com/track/2HyE9oC7CYoo0yefqtDGjo) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [Me and The Locals](https://open.spotify.com/album/0vNAKhhGoXGmiFF0SY9K3c) | 3:19 | 2026-10-23 |  |
 | [me with no shirt on](https://open.spotify.com/track/4kfbeIjJ5jgiAqgKlRIuUs) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [me with no shirt on](https://open.spotify.com/album/3ChvAG8hqJnQjg6hV4Ise2) | 2:48 | 2025-11-07 | 2026-01-17 |
 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 | 2023-07-31 |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 | 2024-06-29 |
@@ -2360,7 +2362,7 @@
 | [Spiral City](https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Spiral City](https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5) | 2:29 | 2023-07-28 | 2023-09-16 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-12 | 2024-05-18 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-08-01 |
-| [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 | 2026-06-12 |  |
+| [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 | 2026-06-12 | 2026-10-24 |
 | [Spring Cleaning](https://open.spotify.com/track/7h1q0wZnMYSQl4Q8JWHN54) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Reason To Hate You](https://open.spotify.com/album/7fLXDsRokVOibKg5oTALze) | 3:15 | 2025-08-08 | 2025-12-20 |
 | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/track/19luLEZUisg9MQtfLz489o) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e) | 2:49 | 2025-06-06 | 2025-06-28 |
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2019-06-27 | 2020-04-18 |

@@ -4,7 +4,7 @@
 
 > ヒップホップの最新トレンドをここで体感しよう Cover: Creepy Nuts \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-3,032 songs - 6 day 7 hr 34 min
+3,034 songs - 6 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2483,6 +2483,7 @@
 | [Ugachi](https://open.spotify.com/track/105aRG9ROd9VGtzmba5ziE) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [Ugachi](https://open.spotify.com/album/2QckqqIUnyemtXrPJRfmDG) | 3:27 | 2025-02-04 | 2025-02-12 |
 | [Uh Wah](https://open.spotify.com/track/1qqwzMfqIsg0HhQqCjc7Di) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [Uh Wah](https://open.spotify.com/album/7wZrxTpwlI3PsGJAyWXp4R) | 2:59 | 2025-10-14 | 2025-11-05 |
 | [UKA](https://open.spotify.com/track/22OHKf7daq7aGjHTho0nnm) | [SPIRITUS](https://open.spotify.com/artist/6iMUoA0O1Vswpqq7xLxzXN) | [UKA](https://open.spotify.com/album/4s5mnzjydizzCy9kFZ6XgH) | 3:31 | 2026-10-02 | 2026-10-21 |
+| [Umbrella \(feat\. $ATSUK1 boi\)](https://open.spotify.com/track/2zGzXWRr97ujKkT0TDh2Vh) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [$ATSUK1 boi](https://open.spotify.com/artist/2oisa1VxBQp8kFeOfuJWM1) | [Sagittarius Mixtape](https://open.spotify.com/album/7IU6R0f4Pqc1ZlDC0ebRDr) | 3:05 | 2026-10-23 |  |
 | [UMINOMUKOU \(feat\. XF MENEW & Vanity.K\)](https://open.spotify.com/track/5pdkiJ8GeQyOGplY3UeeOi) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH), [Vanity.K](https://open.spotify.com/artist/7z1LJjoLGnvaEFD75Ypvt3) | [UMINOMUKOU \(feat\. XF MENEW & Vanity.K\)](https://open.spotify.com/album/1T4tMOGHDozKZ2J8dXJpQw) | 2:45 | 2025-07-01 | 2025-07-18 |
 | [un done \(feat\. YTG & Jellyyabashi\)](https://open.spotify.com/track/0avZD20vf9pe0vGHkeiQsX) | [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [Jellyyabashi](https://open.spotify.com/artist/69suZSCot0GYGN0Qi0Ua1D) | [FREESTYLE LIFESTYLE](https://open.spotify.com/album/3vzjttMegDxFwir85zQnfU) | 2:35 | 2026-06-02 | 2026-06-19 |
 | [UNBOX](https://open.spotify.com/track/33tmmF4htmhx4yIG0mdKf7) | [BabyNyca](https://open.spotify.com/artist/5W803C69kmkFBpVLXkWRap) | [UNBOX](https://open.spotify.com/album/3uJoR7rTvnchFkXShjENeF) | 2:15 | 2026-08-25 | 2026-09-09 |
@@ -2593,6 +2594,7 @@
 | [We gotta push](https://open.spotify.com/track/7vrwprxWVMHYpn4lcZuiSx) | [kz](https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4), [kleber pine](https://open.spotify.com/artist/3QKsOaDPL74y1KIFuDsm7J), [bug's planet](https://open.spotify.com/artist/7pfWYJtBhpvyebfUcPNdUI), [7avi sntime](https://open.spotify.com/artist/62bUXnBMy17VVSoHOkftKI) | [We gotta push](https://open.spotify.com/album/4xrykYGt8Pn1iCeOQV2XvU) | 2:26 | 2024-08-07 | 2024-08-21 |
 | [We Outside](https://open.spotify.com/track/4Wu94Jp6NmkFdMseB6kK49) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [We Outside](https://open.spotify.com/album/3MWuwh04mHXNGmH2fg7Wwf) | 1:38 | 2026-10-22 |  |
 | [We Ready](https://open.spotify.com/track/2rQeXmnhdvT6SxsWYQIenb) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [We Ready](https://open.spotify.com/album/5UrDHHMPTBlZNemSoxMIwR) | 2:17 | 2025-09-09 | 2025-11-26 |
+| [We Rollin'](https://open.spotify.com/track/4F4gQUXpPO4CFmtcU3rTtH) | [Fred Ebb](https://open.spotify.com/artist/4N7zDn1NflAS95XQJdgiA3), [flammable](https://open.spotify.com/artist/6bt10kBzAUnW3MdycZjHgY) | [We Rollin'](https://open.spotify.com/album/0GpAqQx7NVrzlvPRXfEokb) | 6:11 | 2026-10-23 |  |
 | [WE SWAG](https://open.spotify.com/track/6ZZlbNwlY2cnFEA8aYOtKQ) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [GENIUS](https://open.spotify.com/album/6zL17Eyx4I0bTGtToAaulZ) | 2:51 | 2026-01-15 | 2026-04-08 |
 | [WE SWAG \(feat\. DADA\) \- Remix](https://open.spotify.com/track/6wY1Kb9VNWUt58jCXMO9uw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Genius II](https://open.spotify.com/album/6OyCtKt3Jh8zj3Cdr9EyK3) | 2:51 | 2026-09-08 |  |
 | [WE WANT!!! \- feat.7](https://open.spotify.com/track/2BxKxnjb7wsUjXpooz8dut) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [19.5](https://open.spotify.com/album/06uFaprW6BVk7Lckao8DsA) | 3:00 | 2024-02-28 | 2024-03-07 |

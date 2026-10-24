@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-128 songs - 6 hr 17 min
+129 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Golden](https://open.spotify.com/track/0Hs6Dde89lubMuW9xQln9J) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 3:15 | 2026-01-09 |  |
 | [golden hour](https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [golden hour](https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR) | 3:01 | 2023-06-09 | 2024-07-16 |
 | [Good Luck, Babe!](https://open.spotify.com/track/5QNPIe0ROSkymWH1j5cDMh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Good Luck, Babe!](https://open.spotify.com/album/4mlUohsTRlocyVik8trXIs) | 3:36 | 2024-10-04 |  |
-| [greedy](https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [greedy](https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4) | 2:09 | 2024-02-09 |  |
+| [greedy](https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [greedy](https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4) | 2:09 | 2024-02-09 | 2026-10-24 |
 | [Green Green Grass](https://open.spotify.com/track/7u9Uawj6rqRofLnwqZAIVf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:31 | 2023-06-09 | 2024-07-16 |
 | [Happen To Me](https://open.spotify.com/track/0DXXQgOii8S0GfCBvnYMb9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Happen To Me](https://open.spotify.com/album/1fA5j3cM2t75xxvKfxGUty) | 3:02 | 2026-07-31 |  |
 | [Happy](https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:28 | 2023-06-09 | 2026-05-09 |
@@ -111,6 +111,7 @@
 | [Savage Love](https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:50 | 2023-06-09 | 2024-07-16 |
 | [Seven](https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 | 2024-01-19 | 2024-07-16 |
 | [Shake It Off](https://open.spotify.com/track/1wgtIUJy2ustDx3IGp5d0Z) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:28 | 2023-06-09 | 2025-12-06 |
+| [Shut Up And Dance](https://open.spotify.com/track/0c3E5syqMoEi1tcEJwtT5n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 25 Biggest Hits](https://open.spotify.com/album/2hO2bir5IyEZRgrQC8p3zR) | 3:18 | 2026-10-23 |  |
 | [Si No Estás](https://open.spotify.com/track/1wAzzLKnVwLdkFLnKt3QyX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Si No Estás](https://open.spotify.com/album/0RVcDCKlV7Pij2jtfbbFqM) | 3:04 | 2024-02-23 | 2024-07-16 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/0Rc5iukkZxVx5BTOyxyGQs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 2:35 | 2025-07-20 |  |
 | [Stateside](https://open.spotify.com/track/1ufT1mPGuqMR3p8IhUDDZk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 3:08 | 2026-05-08 |  |

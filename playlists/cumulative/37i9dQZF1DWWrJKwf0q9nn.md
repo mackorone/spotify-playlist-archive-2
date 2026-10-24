@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: R3HAB & Korolova
 
-1,603 songs - 3 day 9 hr 29 min
+1,603 songs - 3 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Dale Duro](https://open.spotify.com/track/7LnEMKpabO0Ju8PEUD4vNu) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [Dale Duro](https://open.spotify.com/album/7L5xGuL7Qd65NL8kCXqifB) | 2:47 | 2025-09-18 | 2025-10-03 |
 | [Dance \[2025\]](https://open.spotify.com/track/1T0ov3CKYVu4A1JXTbYOpo) | [Vall Du Son](https://open.spotify.com/artist/7dxbiWVBTS1j37WGihfBa2) | [Dance \[2025\]](https://open.spotify.com/album/06ChWN1Qhpv3QqDO0G5jH8) | 4:04 | 2025-10-16 | 2025-11-21 |
 | [Dance Of The Soul](https://open.spotify.com/track/77Vmd3Awqd8PNUVt5SlUx6) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Dance Of The Soul](https://open.spotify.com/album/0lmUGM7RlVcHVqg4ORbuFa) | 2:58 | 2026-02-12 | 2026-03-06 |
+| [Dance Till I Die](https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [REVELATIONS](https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo) | 3:14 | 2026-10-22 |  |
 | [Dancing \- Samm Remix](https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Dancing \(Samm Remix\)](https://open.spotify.com/album/4i9KcN0cSezrfYaI6T2sNm) | 4:00 | 2025-09-25 | 2025-10-03 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/6I9WsXy3c0Yid3X3Re7YKV) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk) | [Dancing With Your Ghost](https://open.spotify.com/album/36RJfme1Ysl6Mws0ansJmm) | 2:26 | 2026-09-10 | 2026-09-25 |
 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 | 2026-10-01 |  |
@@ -1450,7 +1451,6 @@
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-17 | 2025-08-15 |
 | [Tomorrow Can Wait](https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Tomorrow Can Wait](https://open.spotify.com/album/23R50J5esOKMbTLcnQmBjU) | 3:12 | 2026-06-25 | 2026-08-15 |
 | [Touch It](https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Touch It](https://open.spotify.com/album/3gTF2ONDns1Byk5PO0YMdL) | 3:03 | 2025-10-09 | 2025-11-08 |
-| [Track 2](https://open.spotify.com/track/2yl370uwa8aDwBn07fIplH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [REVELATIONS](https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo) | 0:00 | 2026-10-22 |  |
 | [Traffic Jam \- Code Rood Remix](https://open.spotify.com/track/605Hfbi7qsYr7kWYOq9xso) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45), [Code Rood](https://open.spotify.com/artist/4bdCXQ4wEcfojdlPl0Vup5) | [Traffic Jam \(Code Rood Remix\)](https://open.spotify.com/album/3Ig9S3c7Hur5IlOdL2O3LN) | 3:20 | 2025-08-07 | 2025-09-27 |
 | [Trainride](https://open.spotify.com/track/5wFw60FvwrkOyvCKHvZig5) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Trainride](https://open.spotify.com/album/129QptoNRPwYM5BeTdl9qg) | 2:45 | 2026-05-28 | 2026-06-09 |
 | [Tranquilo](https://open.spotify.com/track/7FZpjVxw7suo9LtSjZUybp) | [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP), [Impani](https://open.spotify.com/artist/17aRTH8IYiW9945DeGB25Y), [Nelson Clarke](https://open.spotify.com/artist/7aP66fMwHS0ZNi5OCWmaNF) | [Tranquilo](https://open.spotify.com/album/4lqBDfWRZTDDzNoNgzDfiW) | 2:27 | 2026-05-14 | 2026-05-29 |

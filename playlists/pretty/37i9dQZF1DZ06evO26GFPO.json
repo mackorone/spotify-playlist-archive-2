@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 304430,
+  "num_followers": 304431,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAdHIttGVJHewO8HoweoaWN",
+  "snapshot_id": "atgAgAAAAAAbzSPsfe1rDMOhUxv4S6QL",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 451284,
-      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 222362,
       "name": "Cigana - Ao Vivo",
       "url": "https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 451284,
+      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 325002,
-      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
-      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
+      "duration_ms": 381299,
+      "name": "Duas doses de saudade / Nunca me ver\u00e1 chorar / N\u00e3o quero mais - Ao vivo",
+      "url": "https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 381299,
-      "name": "Duas doses de saudade / Nunca me ver\u00e1 chorar / N\u00e3o quero mais - Ao vivo",
-      "url": "https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg"
+      "duration_ms": 325002,
+      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
+      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
     },
     {
       "added_at": null,

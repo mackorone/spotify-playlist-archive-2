@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Baseline",
+        "url": "https://open.spotify.com/album/2gRUmq4vnojyJn4jOfbV51"
+      },
+      "artists": [
+        {
+          "name": "We Had Plans",
+          "url": "https://open.spotify.com/artist/17gJ9vPD1savdV1NJpelGg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240063,
+      "name": "Baseline",
+      "url": "https://open.spotify.com/track/73lM1799uutdMU9kYRGn6M"
+    },
+    {
+      "album": {
         "name": "Battering Lamb",
         "url": "https://open.spotify.com/album/4qvCXMGH7dfliEGXYvXdaw"
       },
@@ -4090,7 +4108,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178239,
       "name": "Die Ruimte",
       "url": "https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG"
@@ -16920,7 +16938,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 228804,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
@@ -17924,6 +17942,28 @@
       "duration_ms": 207478,
       "name": "Weet Jy",
       "url": "https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe"
+    },
+    {
+      "album": {
+        "name": "Werk is Kerk",
+        "url": "https://open.spotify.com/album/472FKZHyC2dSqV99TaTzf5"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202526,
+      "name": "Werk is Kerk",
+      "url": "https://open.spotify.com/track/72WGSi6PTeZFgbPvLSMOZa"
     },
     {
       "album": {

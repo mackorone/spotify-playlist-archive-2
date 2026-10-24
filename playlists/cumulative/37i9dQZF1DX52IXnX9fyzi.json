@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "A Little While",
+        "url": "https://open.spotify.com/album/1MJurU4oezE5y1DQlXFfRx"
+      },
+      "artists": [
+        {
+          "name": "Quire",
+          "url": "https://open.spotify.com/artist/2w7lRMm4lmFoPq20cGqMTt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "A Little While",
+      "url": "https://open.spotify.com/track/1ubmrFkL5wY0FvffVwUSEr"
+    },
+    {
+      "album": {
         "name": "A Love Note",
         "url": "https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU"
       },
@@ -3628,6 +3646,24 @@
       "duration_ms": 183529,
       "name": "Hat full of candles",
       "url": "https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967"
+    },
+    {
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2deTjGyybw2jaxmQ96rRXt"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137777,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/5bnAaS9D23fwliFJTWVkcU"
     },
     {
       "album": {
@@ -7131,6 +7167,24 @@
     },
     {
       "album": {
+        "name": "Reflect",
+        "url": "https://open.spotify.com/album/0MIqJY6C251EzHlcDWppo0"
+      },
+      "artists": [
+        {
+          "name": "Chris Rusak",
+          "url": "https://open.spotify.com/artist/7pLo6CiE9wZsJTKW8rNIZC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134556,
+      "name": "Reflect",
+      "url": "https://open.spotify.com/track/2DrwEAny1f7SfATgisysxY"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI"
       },
@@ -7236,6 +7290,24 @@
       "duration_ms": 135681,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/5KaaNCxeT5nkzZWDIrFc57"
+    },
+    {
+      "album": {
+        "name": "Resting Light",
+        "url": "https://open.spotify.com/album/6A2XRb3cmKag8BbUFFXvnV"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149273,
+      "name": "Resting Light",
+      "url": "https://open.spotify.com/track/2YcGhnyRk1EQjemRkBKzi3"
     },
     {
       "album": {

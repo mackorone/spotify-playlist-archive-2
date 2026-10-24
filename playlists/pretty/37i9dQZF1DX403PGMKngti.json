@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos m\u00e1s champet\u00faos de ayer y hoy se vacilan en Spotify! Foto: Criss y Ronny",
-  "num_followers": 69403,
+  "num_followers": 69417,
   "original_name": "Champeta & Terapia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0G2Q7jQghkY+0tGe3SzIcBab+q",
+  "snapshot_id": "AAAAAJyfyed9cDdfgCR7sF6yRSZcISgX",
   "tracks": [
     {
       "added_at": "2026-10-09 04:59:24",
@@ -79,6 +79,30 @@
       "duration_ms": 247693,
       "name": "Los Trapitos al Agua",
       "url": "https://open.spotify.com/track/6o69gA3Vy2CH29MhgJftJk"
+    },
+    {
+      "added_at": "2026-10-23 04:59:42",
+      "album": {
+        "name": "DATE DATE",
+        "url": "https://open.spotify.com/album/2Mn7Of8OWgAFfarQIIjNAQ"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "Killaboyz",
+          "url": "https://open.spotify.com/artist/3Afftoz4C8gN5kCpPFTC7k"
+        },
+        {
+          "name": "La Colectiva \u00c9lite",
+          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
+        }
+      ],
+      "duration_ms": 108243,
+      "name": "DATE DATE",
+      "url": "https://open.spotify.com/track/65Mag3nwHMRpChFQXxi3BD"
     },
     {
       "added_at": "2026-10-09 04:59:24",
@@ -167,6 +191,22 @@
       "duration_ms": 245655,
       "name": "La Espeluc\u00e1",
       "url": "https://open.spotify.com/track/5hsooFA9KcUMCnfrDxJghI"
+    },
+    {
+      "added_at": "2026-10-23 04:59:42",
+      "album": {
+        "name": "11:10 (La Solter\u00eda)",
+        "url": "https://open.spotify.com/album/2L9ZUyb4ekCqxDO7sRrb90"
+      },
+      "artists": [
+        {
+          "name": "Mc Car",
+          "url": "https://open.spotify.com/artist/1vVqFZ65U41UO7RTT4egvl"
+        }
+      ],
+      "duration_ms": 224104,
+      "name": "11:10 (La Solter\u00eda)",
+      "url": "https://open.spotify.com/track/0admqRmTILLBjiPeuxHnAf"
     },
     {
       "added_at": "2026-10-09 04:59:24",
@@ -1091,26 +1131,6 @@
     {
       "added_at": "2026-10-09 04:59:24",
       "album": {
-        "name": "Borracho Bailando Champeta",
-        "url": "https://open.spotify.com/album/5f6MzSlF9a3KjI3BNwqnOa"
-      },
-      "artists": [
-        {
-          "name": "Kevin Florez",
-          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 219677,
-      "name": "Borracho Bailando Champeta",
-      "url": "https://open.spotify.com/track/0YvLeotyvjHwoyDo7R7Fx9"
-    },
-    {
-      "added_at": "2026-10-09 04:59:24",
-      "album": {
         "name": "El Bololo",
         "url": "https://open.spotify.com/album/5e22WcFEFmz4MOhoZYsHue"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 179893,
       "name": "El Bololo",
       "url": "https://open.spotify.com/track/2WlvAXYRoVuZq9ZHBXCqwa"
-    },
-    {
-      "added_at": "2026-10-09 04:59:24",
-      "album": {
-        "name": "Toy Buena",
-        "url": "https://open.spotify.com/album/2b8XRceMUz7TExI9DHasLF"
-      },
-      "artists": [
-        {
-          "name": "Yuranis Leon",
-          "url": "https://open.spotify.com/artist/5Cgw5g6TxPoIGmd7InsmdP"
-        },
-        {
-          "name": "DJ Dever",
-          "url": "https://open.spotify.com/artist/2KDK6LDA8DKphV0wwHb40D"
-        }
-      ],
-      "duration_ms": 159322,
-      "name": "Toy Buena",
-      "url": "https://open.spotify.com/track/5jqx3tceb1kA1veL5c4Df4"
     },
     {
       "added_at": "2026-10-09 04:59:24",

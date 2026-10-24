@@ -4953,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "Open Window",
+        "url": "https://open.spotify.com/album/5jcy68MHWD2RsairFFL8J1"
+      },
+      "artists": [
+        {
+          "name": "Artforms",
+          "url": "https://open.spotify.com/artist/16Ev5y1RzTr6tneuozoCmA"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132032,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/18zjnH1BMsQOTbrmMP7q8F"
+    },
+    {
+      "album": {
         "name": "Paloma",
         "url": "https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6"
       },
@@ -7118,6 +7136,24 @@
       "duration_ms": 160469,
       "name": "Towards the Shore",
       "url": "https://open.spotify.com/track/195aAohMByp0f6hufXYYMP"
+    },
+    {
+      "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/5YKJbjjcYM1YwoXv1LWIYR"
+      },
+      "artists": [
+        {
+          "name": "Orlune",
+          "url": "https://open.spotify.com/artist/4mTcmBVMRGrKwJPebaQajS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131656,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/7gcJjZs6m9ixdpItFmLSfT"
     },
     {
       "album": {

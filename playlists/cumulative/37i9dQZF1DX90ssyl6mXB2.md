@@ -4,13 +4,14 @@
 
 > late night vibes – notifications off\. cover: Drake
 
-362 songs - 16 hr 36 min
+366 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1:11](https://open.spotify.com/track/5WvqtTv4HfxL5nQSRNCYu1) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [1:11](https://open.spotify.com/album/6ahQcLyQVBECP9fdBlMjS1) | 2:21 | 2026-05-08 |  |
 | [21](https://open.spotify.com/track/40dowkPicYLsLrVJgce4bj) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Torrential](https://open.spotify.com/album/4dLdtItbaaUw3KNALG3c2b) | 1:59 | 2025-06-13 | 2026-04-18 |
 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/5shQWg4uYedbUEoqnwG5ds) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:47 | 2024-02-02 | 2025-10-18 |
+| [2LATE](https://open.spotify.com/track/7LNe22N7YECRhqZPpkO93V) | [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [2LATE](https://open.spotify.com/album/46VoS5qh48zYis18pVZx9n) | 4:00 | 2026-10-23 |  |
 | [2REAL](https://open.spotify.com/track/7uXJQVFx11unM1udUOkjoI) | [Jay Starr](https://open.spotify.com/artist/6URi35MZoSTimeBvixyJyE) | [2REAL](https://open.spotify.com/album/2B6MTDPqZLWQN4FcPv6azt) | 1:53 | 2026-09-11 |  |
 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 | 2025-01-24 |  |
 | [4 This Moment](https://open.spotify.com/track/1MWJbn3Yv8R1q5DaYOOzum) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:07 | 2024-02-02 | 2025-07-26 |
@@ -46,6 +47,7 @@
 | [B.S.](https://open.spotify.com/track/3Vu55H3hrJQtdaKDmdQkZf) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/2PDK6hYWOXKooDebSnVHeY) | 2:47 | 2024-10-18 | 2026-06-04 |
 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 | 2024-02-02 | 2025-09-20 |
 | [Be Your Man](https://open.spotify.com/track/6Y8fg2jrxBDzMijRIUCSoL) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [BYM / FLL](https://open.spotify.com/album/7xVSUkpX7nyID4dYBWGNa3) | 2:46 | 2024-10-18 | 2025-12-13 |
+| [Been Showed Up](https://open.spotify.com/track/1zQ73y8vSPhsdAeKoRxmC3) | [7AE](https://open.spotify.com/artist/0W6ygO3cS60iJHYUU281cp) | [Been Showed Up](https://open.spotify.com/album/0LEaPOq59LqGyQB0LBEfIn) | 3:34 | 2026-10-23 |  |
 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 | 2024-02-02 |  |
 | [Bet](https://open.spotify.com/track/0enY45J98M1RzRd01DaQDP) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 2:02 | 2026-03-13 | 2026-05-02 |
 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 | 2024-11-15 |  |
@@ -106,6 +108,7 @@
 | [Drake Shit](https://open.spotify.com/track/5oxOG73S76T48t7qI08aGG) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Drake Shit](https://open.spotify.com/album/1nlFRkbl4YO8IjjJTwZJ8G) | 3:05 | 2024-03-22 | 2024-04-06 |
 | [Drake's Interlude](https://open.spotify.com/track/5hpNuIXYyuv1GYTgdQQkRW) | [Forwes](https://open.spotify.com/artist/2yHQYmwvWSaVwlcfQMlyov) | [Drake's Interlude](https://open.spotify.com/album/3Y6hN8YrTj94NgDKNE2egE) | 2:02 | 2025-04-11 | 2025-07-26 |
 | [Drama](https://open.spotify.com/track/40ROAtBj7soL5rbqXQjU4k) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Drama](https://open.spotify.com/album/7AjEEgzswMrJJfcKKxIVjZ) | 2:33 | 2025-07-25 |  |
+| [dress up](https://open.spotify.com/track/0c2yvtjL14s5d3Yeqpe6Jf) | [rl](https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw) | [dress up](https://open.spotify.com/album/5URq0P4FkYeJ8Rh5XxRaB0) | 3:07 | 2026-10-23 |  |
 | [Dry Eyes](https://open.spotify.com/track/0Loxl2mUu4CySrjBXFXT4j) | [LikeTheNight](https://open.spotify.com/artist/0zuyM7GYL2QtD0lhV4WNGx), [Kwazii](https://open.spotify.com/artist/6pL2YwV6bUmB8wxbfkvUoa), [Misaa](https://open.spotify.com/artist/0DE030eZzNZfsTzdESu9IM) | [Dry Eyes](https://open.spotify.com/album/17jnskMYeBlPIh6yjBEuqo) | 2:51 | 2025-06-13 | 2026-04-18 |
 | [ENTICING](https://open.spotify.com/track/4lVKAaMCtBxsmIOwKAqaA4) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [LUCKY YOU](https://open.spotify.com/album/4dHcuizgdi9fpKX8MKQm43) | 2:34 | 2025-10-17 |  |
 | [Ex\-Men](https://open.spotify.com/track/2lHxwQEVL9brjoZgXwovhN) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Ex\-Men](https://open.spotify.com/album/4nfRCyTlTIlAM9spNTpn7a) | 3:28 | 2024-05-17 | 2025-03-29 |
@@ -276,8 +279,9 @@
 | [SEARCHING](https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [SEARCHING](https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX) | 2:30 | 2025-03-28 |  |
 | [seeing red](https://open.spotify.com/track/4Ju7XGhJWfA3a9CkoUBVwA) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [seeing red](https://open.spotify.com/album/0dOSRsraRPHIz9L26N7Kez) | 2:38 | 2025-10-03 | 2025-11-08 |
 | [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 | 2025-11-08 |
-| [she goes by.](https://open.spotify.com/track/3kpGbIP1qVaFHNE78tTGEy) | [where.t.at](https://open.spotify.com/artist/0kxG2FyO4bp80QsBwYQTvo) | [she goes by.](https://open.spotify.com/album/20GEur5fpZCdC8o6oVI6V2) | 2:57 | 2026-06-19 |  |
+| [she goes by.](https://open.spotify.com/track/3kpGbIP1qVaFHNE78tTGEy) | [where.t.at](https://open.spotify.com/artist/0kxG2FyO4bp80QsBwYQTvo) | [she goes by.](https://open.spotify.com/album/20GEur5fpZCdC8o6oVI6V2) | 2:57 | 2026-06-19 | 2026-10-24 |
 | [Shut It Down](https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Shut It Down](https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT) | 2:26 | 2026-02-27 |  |
+| [Sin City](https://open.spotify.com/track/4WEN05q9X5xgIfBcE0MAAu) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Sin City](https://open.spotify.com/album/6ZN20w7vtSus34Rc4iwn7B) | 2:24 | 2026-10-23 |  |
 | [Sin on Purpose](https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Sin on Purpose](https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G) | 2:23 | 2024-02-02 | 2026-02-02 |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 | 2024-10-19 |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-02 | 2025-11-15 |

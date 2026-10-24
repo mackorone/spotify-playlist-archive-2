@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Sara Landry",
+  "description": "The world's biggest dance & electronic hits. Cover: Sammy Virji",
   "name": "mint",
   "tracks": [
     {
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 211928,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
@@ -20845,6 +20845,28 @@
     },
     {
       "album": {
+        "name": "Neckwear",
+        "url": "https://open.spotify.com/album/7nneCCvtN7wV29VarPwRAQ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Neckwear",
+      "url": "https://open.spotify.com/track/3BgLZtFdHRKKtC9Gvpsgzk"
+    },
+    {
+      "album": {
         "name": "Need U - Spotify Singles",
         "url": "https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF"
       },
@@ -22478,7 +22500,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 220439,
       "name": "On My Own (Feat. Darla Jade)",
       "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
@@ -23120,7 +23142,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 198012,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/6QpcvSJ5hjc3N9Eyp2SDu3"
@@ -25382,6 +25404,24 @@
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+    },
+    {
+      "album": {
+        "name": "Open Late",
+        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236927,
+      "name": "Repeaty",
+      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
     },
     {
       "album": {
@@ -28648,6 +28688,28 @@
       "duration_ms": 228571,
       "name": "Spring Girl",
       "url": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
+    },
+    {
+      "album": {
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/4uUYfu9Qtnt5RiTZnPDceK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201255,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/7J0kkgb99OIb3a7IJb6SDT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 153847,
+  "num_followers": 153870,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Rip It Up",
         "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 431281,
       "name": "At Night - Peggy Gou's Acid Journey Remix",
       "url": "https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "White Light",
-        "url": "https://open.spotify.com/album/1fdvWcji1NsAK4qqQ3e3F9"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 345520,
-      "name": "Warsaw - White Light Version",
-      "url": "https://open.spotify.com/track/09P3YUNZ63OdaMhaxFvfbM"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Better Living Through Chemistry (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 348826,
       "name": "Everybody Needs A 303",
       "url": "https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/1fdvWcji1NsAK4qqQ3e3F9"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "Warsaw - White Light Version",
+      "url": "https://open.spotify.com/track/09P3YUNZ63OdaMhaxFvfbM"
     },
     {
       "added_at": "2024-07-10 08:16:23",

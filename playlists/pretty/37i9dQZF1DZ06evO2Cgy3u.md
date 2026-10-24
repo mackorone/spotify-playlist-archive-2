@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 
 > This is The Raincoats\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 33 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 33 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,21 +25,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 | 15 | [Dance of Hopping Mad](https://open.spotify.com/track/2NJJ2XkVaWVFoVJLRVye32) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 5:29 |
 | 16 | [Dancing in My Head](https://open.spotify.com/track/0hBv9EMmGNoFIpD2orvxI7) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 5:30 |
 | 17 | [Off Duty Trip](https://open.spotify.com/track/6hsh2tGBNL5WlaQLrD61P7) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:15 |
-| 18 | [Puberty Song](https://open.spotify.com/track/0eGmlS2oDIMMXAHa0tEMCw) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 1:17 |
+| 18 | [Monk Chant](https://open.spotify.com/track/0Xr53lUQFZh39BVXm2USlN) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Drunken Maria / Monk Chant](https://open.spotify.com/album/1Gmeaf9vmm7coG12sCgkSy) | 2:04 |
 | 19 | [Balloon](https://open.spotify.com/track/2IHAoSawKMALzFRU6yRH8o) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:34 |
-| 20 | [Odyshape](https://open.spotify.com/track/2F6CwF1PFz3Ql8iDJ7XBVq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:41 |
+| 20 | [Baby Song](https://open.spotify.com/track/1nO1t1Bxxp26eyU5yhSUgu) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 5:00 |
 | 21 | [Black and White](https://open.spotify.com/track/77EIe4Q2YYU3JPhIMBcCDl) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 2:29 |
-| 22 | [Monk Chant](https://open.spotify.com/track/0Xr53lUQFZh39BVXm2USlN) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Drunken Maria / Monk Chant](https://open.spotify.com/album/1Gmeaf9vmm7coG12sCgkSy) | 2:04 |
-| 23 | [Rainstorm](https://open.spotify.com/track/1XkFQIwqTLgteC5YO4oxp3) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
-| 24 | [Baby Song](https://open.spotify.com/track/1nO1t1Bxxp26eyU5yhSUgu) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 5:00 |
-| 25 | [Balloonacy](https://open.spotify.com/track/1ouNCaEmKfphN0PVubmLIq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 4:19 |
-| 26 | [Love a Loser](https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:30 |
+| 22 | [Puberty Song](https://open.spotify.com/track/0eGmlS2oDIMMXAHa0tEMCw) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 1:17 |
+| 23 | [I Saw a Hill](https://open.spotify.com/track/6pCcyHTYNwwUmsrG75IS9S) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 3:05 |
+| 24 | [Odyshape](https://open.spotify.com/track/2F6CwF1PFz3Ql8iDJ7XBVq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:41 |
+| 25 | [Love a Loser](https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:30 |
+| 26 | [Balloonacy](https://open.spotify.com/track/1ouNCaEmKfphN0PVubmLIq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 4:19 |
 | 27 | [We Smile](https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 3:17 |
-| 28 | [Oh Oh La La La](https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:17 |
-| 29 | [Pretty](https://open.spotify.com/track/0ny47WrsemKjsCZNp8JqKp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 4:17 |
-| 30 | [The Body](https://open.spotify.com/track/5tJWjOgcvLFxTDGsOBQNEY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:31 |
-| 31 | [57 Ways to End It All](https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:31 |
-| 32 | [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 |
-| 33 | [Babydog](https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:05 |
+| 28 | [Pretty](https://open.spotify.com/track/0ny47WrsemKjsCZNp8JqKp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 4:17 |
+| 29 | [Oh Oh La La La](https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:17 |
+| 30 | [57 Ways to End It All](https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:31 |
+| 31 | [The Body](https://open.spotify.com/track/5tJWjOgcvLFxTDGsOBQNEY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:31 |
+| 32 | [Babydog](https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:05 |
+| 33 | [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 |
 
-Snapshot ID: `atavAAAAAACGzAcVXBpsulMOk6j70WCN`
+Snapshot ID: `atgAgAAAAACed8lKAQHxdtmzVd8lYSi4`

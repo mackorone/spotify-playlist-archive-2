@@ -4,7 +4,7 @@
 
 > manejando la tranquilidad 🏝  🥥  🏝
 
-259 songs - 15 hr 43 min
+260 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [PSL](https://open.spotify.com/track/6o4Gciys1ZIOQ2kDGnvKdm) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 2:55 | 2022-02-23 |  |
 | [PURRITO APA](https://open.spotify.com/track/4e54PAuILqrhjr2ryuMvdq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [PURRITO APA](https://open.spotify.com/album/1pUUH7qNJZsVa0AxHPmY11) | 2:31 | 2022-02-23 | 2022-07-02 |
 | [Put Your Head on My Shoulder](https://open.spotify.com/track/7jYo1uYSMzQS0nlN6bRAKM) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [21 Golden Hits](https://open.spotify.com/album/3IgsTSki1SgUmiD9xyxTI1) | 2:34 | 2022-02-04 | 2022-02-24 |
-| [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 | 2022-02-23 |  |
+| [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 | 2022-02-23 | 2026-10-24 |
 | [Que Mas Pues \- Remix](https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 5:05 | 2022-02-23 | 2022-04-28 |
 | [Que pena](https://open.spotify.com/track/6tDS7EVt0Jxo5P3MfoIXOF) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:33 | 2022-02-23 | 2022-07-02 |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:58 | 2022-02-23 |  |
@@ -248,6 +248,7 @@
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-27 |  |
 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 | 2022-02-04 | 2022-02-24 |
 | [Tú Eres La Reina](https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:13 | 2022-07-01 | 2024-04-19 |
+| [Un 20](https://open.spotify.com/track/1QD1FpnOJRwXud3jJuSjcZ) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Un 20](https://open.spotify.com/album/2SN3HjYZTIy7z9lGl6jXh3) | 2:25 | 2026-10-23 |  |
 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 | 2022-02-04 | 2022-02-24 |
 | [Universitaria](https://open.spotify.com/track/6HOtqhx0LMZWEgJYRzdSuz) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Universitaria](https://open.spotify.com/album/5lgPIcUdcRbeYUONIUJhQq) | 2:13 | 2022-03-29 | 2022-04-29 |
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-12-06 |  |

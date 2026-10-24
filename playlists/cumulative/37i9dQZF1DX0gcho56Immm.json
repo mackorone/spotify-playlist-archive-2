@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Alba Akvama",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Fine",
   "name": "Cph+",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
@@ -216,6 +216,24 @@
       "duration_ms": 246853,
       "name": "A Thousand Steps",
       "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
+    },
+    {
+      "album": {
+        "name": "Mark William Lewis (Deluxe)",
+        "url": "https://open.spotify.com/album/34iEW5XY1mGgjhzvKsMo0h"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3W2VOvLDPks8RE02dRr63O"
     },
     {
       "album": {
@@ -1569,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Kira Krash",
+        "url": "https://open.spotify.com/album/0KjWCA2RXBWeD7X2GU370p"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235280,
+      "name": "dream",
+      "url": "https://open.spotify.com/track/4Xjw8z313o5PuU1qXTn4Bq"
+    },
+    {
+      "album": {
         "name": "Dreamer (Tony Seltzer Remix)",
         "url": "https://open.spotify.com/album/0ygHduIqchsm9KTH2uPFc2"
       },
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189197,
       "name": "Formula 1",
       "url": "https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi"
@@ -2460,6 +2496,24 @@
       "duration_ms": 244189,
       "name": "Girls Like Me Belong in Bed, Curled",
       "url": "https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI"
+    },
+    {
+      "album": {
+        "name": "Goblin's Head",
+        "url": "https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Goblin's Head",
+      "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
     },
     {
       "album": {
@@ -3258,6 +3312,24 @@
       "duration_ms": 176000,
       "name": "If I",
       "url": "https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB"
+    },
+    {
+      "album": {
+        "name": "Jazz dreams",
+        "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "If you wanna come down",
+      "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
     },
     {
       "album": {
@@ -4847,6 +4919,28 @@
     },
     {
       "album": {
+        "name": "Round and round",
+        "url": "https://open.spotify.com/album/3f6C1Nd6YsKE5YOa3PB4Q2"
+      },
+      "artists": [
+        {
+          "name": "Zoumer",
+          "url": "https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB"
+        },
+        {
+          "name": "mishmish",
+          "url": "https://open.spotify.com/artist/0oGBjsXtPSH253bhIbdeBU"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144763,
+      "name": "Round and round",
+      "url": "https://open.spotify.com/track/4rDZBzHRZRE234SIWdjOTD"
+    },
+    {
+      "album": {
         "name": "Roxy",
         "url": "https://open.spotify.com/album/32ceApBpebrRqqT2bh0Kwt"
       },
@@ -5838,7 +5932,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 218160,
       "name": "the end or the beginning idk - trentem\u00f8ller Remix",
       "url": "https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv"
@@ -6588,6 +6682,24 @@
       "duration_ms": 164583,
       "name": "Woman Lake",
       "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
+    },
+    {
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204510,
+      "name": "wonderland",
+      "url": "https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V"
     },
     {
       "album": {

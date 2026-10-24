@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 60886,
+  "num_followers": 60911,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAAqN5Do4qURW6PV0VV4/jHJ",
+  "snapshot_id": "atgAgAAAAAAEauC0WiOxzCh0RHXqOwd5",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natural Law",
+        "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 147346,
+      "name": "Natural Law (ft. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 196560,
       "name": "So Far Gone (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natural Law",
-        "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 147346,
-      "name": "Natural Law (ft. Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
     },
     {
       "added_at": null,

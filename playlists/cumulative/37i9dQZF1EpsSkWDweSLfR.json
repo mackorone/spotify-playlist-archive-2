@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 187679,
       "name": "Are You Impressed?",
       "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
@@ -4246,7 +4246,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 200154,
       "name": "Give Your Heart A Break (with robbietheused) - Rock Version",
       "url": "https://open.spotify.com/track/4ktgVQZCBvSMfHGzC8UVYz"
@@ -6965,6 +6965,32 @@
     },
     {
       "album": {
+        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+        "url": "https://open.spotify.com/album/1h2bp48lbYy5SBQe4u0ZOa"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207280,
+      "name": "Loved You A Little - with Taking Back Sunday and Charlotte Sands",
+      "url": "https://open.spotify.com/track/3rfTFA4AGu8r2BXqpjKbcf"
+    },
+    {
+      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
@@ -8156,7 +8182,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -8764,7 +8790,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 206245,
       "name": "Opalite - Ely Oaks Remix",
       "url": "https://open.spotify.com/track/5t1wMjV9ldVDdYs4l7mG2g"
@@ -9722,6 +9748,24 @@
       "duration_ms": 254466,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153393,
+      "name": "Rerun",
+      "url": "https://open.spotify.com/track/37INkd59pCBGx0L39TecDa"
     },
     {
       "album": {
@@ -10938,7 +10982,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 249729,
       "name": "Sweet but Psycho - Leon Lour Remix",
       "url": "https://open.spotify.com/track/0j3pGzN20rbBYIrtku89pA"
@@ -12282,6 +12326,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "album": {
+        "name": "WE MADE PLANS & GOD LAUGHED",
+        "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "WE MADE PLANS & GOD LAUGHED",
+      "url": "https://open.spotify.com/track/76TSauYq7489EyCQoaQ30d"
     },
     {
       "album": {

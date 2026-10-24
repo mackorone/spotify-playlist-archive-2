@@ -4,7 +4,7 @@
 
 > Global crossovers by Arab artists\. Cover: Nadine El Roubi
 
-390 songs - 21 hr 11 min
+392 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Bet](https://open.spotify.com/track/3iowVvAog2lPhMjuLpb6Sj) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Bet](https://open.spotify.com/album/0rmT0TYdnLKImISjpgiiQl) | 2:14 | 2023-09-19 | 2023-09-29 |
 | [BET ON ME](https://open.spotify.com/track/0HM405OG4w321E8gfbEQvR) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [BET ON ME](https://open.spotify.com/album/3j5ny4kRZ43tyk7wUExLWJ) | 3:22 | 2023-01-26 | 2023-02-25 |
 | [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 | 2022-03-22 | 2023-06-10 |
-| [Big Deal](https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Big Deal](https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu) | 2:30 | 2026-03-16 |  |
+| [Big Deal](https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Big Deal](https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu) | 2:30 | 2026-03-16 | 2026-10-24 |
 | [Bladi hiya el Djazair](https://open.spotify.com/track/4n0UiHNnwkgwQ8kCGRUJEH) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Algeria to Brazil \(22 titres originaux\)](https://open.spotify.com/album/1vQe7TMzcH64RJXN4DuxeN) | 3:24 | 2022-06-06 | 2022-06-24 |
 | [Burn Me Out](https://open.spotify.com/track/6EA7oUfwTlK4Uc5RIzAJrz) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc) | [Burn Me Out](https://open.spotify.com/album/4020PhRlGUOUZwRcU00Uc1) | 4:43 | 2022-02-22 | 2022-07-18 |
 | [Busy Body](https://open.spotify.com/track/0hJZIXgZqNFBMtBZIKVMXw) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [Busy Body](https://open.spotify.com/album/0WppIcrW3CFf6hjP1iPb7O) | 2:32 | 2021-12-16 | 2022-07-29 |
@@ -237,7 +237,7 @@
 | [N'TA GOUDAMI](https://open.spotify.com/track/0sArBZMNEdXNHb1E9cIDoU) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [N'ta Goudami](https://open.spotify.com/album/1wLqe5wbNXHrFSaXRyUGpy) | 7:25 | 2022-06-06 | 2022-06-24 |
 | [N'zor nebra](https://open.spotify.com/track/1FTzO3hv3gukg3nibftVWu) | [Cheba Nouria](https://open.spotify.com/artist/3AJD7ohoMSbivLcSHuvznO) | [Raï Club Culture, Vol\. 1 \(The Sound of North Africa\)](https://open.spotify.com/album/6GJTaC3IfQQj7pKz3K73Do) | 6:04 | 2022-06-06 | 2022-06-24 |
 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 | 2023-06-02 | 2024-06-01 |
-| [NASKAR](https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:26 | 2024-10-18 |  |
+| [NASKAR](https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:26 | 2024-10-18 | 2026-10-24 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-02-22 | 2024-03-21 |
 | [Nasty Remix ft Saint Levant](https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nasty Remix ft Saint Levant](https://open.spotify.com/album/0RtZh2OWBGwidoGGZ221GM) | 2:50 | 2023-04-27 | 2024-06-01 |
 | [NAZARETH](https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [NAZARETH](https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd) | 3:04 | 2024-09-19 |  |
@@ -321,6 +321,7 @@
 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 | 2023-04-07 | 2023-05-27 |
 | [Somewave](https://open.spotify.com/track/5UdK4jJ7qcY8wU4d9kpits) | [Zeyada](https://open.spotify.com/artist/2UJIKiHl019qoazIKbax7D) | [Somewave](https://open.spotify.com/album/6JH0QKxS6ygJqS3zTsoiHk) | 3:01 | 2021-12-16 | 2022-06-07 |
 | [Souvenir](https://open.spotify.com/track/3pJ7Zz0759gcQDSDmF3c73) | [L'ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv) | [Souvenir](https://open.spotify.com/album/3EckeasMm45ypnwReWIIVo) | 2:36 | 2024-10-07 | 2026-05-14 |
+| [Star](https://open.spotify.com/track/2R8SGPRq50S0yCVAFWpTam) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [Life Is Beautiful Again](https://open.spotify.com/album/6vCylkAwKmS3TP7GIa3Yy1) | 3:03 | 2026-10-23 |  |
 | [Stars Align](https://open.spotify.com/track/6isRn13M76FHcFFefJwSUj) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Attention \- R&B Favourites](https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P) | 4:20 | 2022-12-15 | 2023-01-04 |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-12-16 | 2023-01-01 |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 | 2022-12-15 | 2023-03-14 |
@@ -340,6 +341,7 @@
 | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/track/0h6GjlAJrHLL3mhiLiTBK9) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/album/5GLmvO7Q8nbYW6yIjt7cJZ) | 3:40 | 2021-12-16 | 2022-11-20 |
 | [The Big Chill](https://open.spotify.com/track/6tL9rtiton1r2DtYlDBsJo) | [Wissam Saliba](https://open.spotify.com/artist/4JsF5yPm0LMwklPWuevclZ), [Roytivation](https://open.spotify.com/artist/6Dvzm58lrSbewSyv3apxuC) | [The Big Chill](https://open.spotify.com/album/1b8kYFz37yZth7uArXBf5u) | 3:21 | 2021-12-16 | 2022-09-15 |
 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2021-12-30 | 2022-12-08 |
+| [THE CITY](https://open.spotify.com/track/1Gay4tMVxE6SUQIiXFoEL3) | [Sweam](https://open.spotify.com/artist/6mIE5oT6Pvp2CogkQlsoVJ), [Odee](https://open.spotify.com/artist/68FUB4xrCKRC8DTf8vZdSq), [JN.](https://open.spotify.com/artist/7taafRKECih3B2ebKLTSHU) | [THE CITY](https://open.spotify.com/album/67CeKxJTxpPb34IJvO9HtV) | 3:06 | 2026-10-23 |  |
 | [The First Disciple](https://open.spotify.com/track/1s46uOcZXBWxEeYKO2SDGk) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/7dnuhgQrPlzCVz91koWich) | 6:02 | 2022-07-28 | 2022-11-13 |
 | [The First Disciple](https://open.spotify.com/track/5PlyKTieFInN0dXXGuwi9E) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [You Don't Own Me](https://open.spotify.com/album/1YrfFAtUYvapMLU8620TTj) | 6:02 | 2022-08-25 | 2022-10-21 |
 | [The First Disciple](https://open.spotify.com/track/5mbeR5Kz4A1wfZsU9bXUJt) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/0Tq5p3TGrec8ZKEh68JNWO) | 6:02 | 2022-05-26 | 2022-07-29 |

@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/1PFGGX3O52cyWPRneJHoK6"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Bring You Back",
+      "url": "https://open.spotify.com/track/6X26YFr9c2xFILZ1QXjL5E"
+    },
+    {
+      "album": {
         "name": "Broken and Blind",
         "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
       },
@@ -10504,7 +10522,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 321106,
       "name": "Nightmare Tripping (Feat. Nickelback)",
       "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
@@ -11284,7 +11302,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 241254,
       "name": "Pins",
       "url": "https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK"

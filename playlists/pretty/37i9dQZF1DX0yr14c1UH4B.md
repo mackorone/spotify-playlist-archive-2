@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🎧 cover: Méav
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,237 likes - 99 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,230 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Probate](https://open.spotify.com/track/3084upu49uQBjy279UQRSC) | [Méav](https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7) | [Sweet Sorrow](https://open.spotify.com/album/5aFNN6UmXPhjE5lBRsiV2r) | 3:48 |
 | 2 | [Weapons](https://open.spotify.com/track/6rc1efEikil57lLEhLlp6B) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Love Gets Bigger](https://open.spotify.com/album/0ORFiAWHBQwaHX5LBO3hkQ) | 2:53 |
-| 3 | [Track 1](https://open.spotify.com/track/0WdTgNaOkg6ECF2C8id4ug) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Wishbone](https://open.spotify.com/album/74G6slUrSojF3P2S9WTHjW) | 0:00 |
+| 3 | [Fortuna](https://open.spotify.com/track/0WdTgNaOkg6ECF2C8id4ug) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Wishbone](https://open.spotify.com/album/74G6slUrSojF3P2S9WTHjW) | 3:44 |
 | 4 | [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 |
 | 5 | [Mayday \- demo](https://open.spotify.com/track/7445p1aASItE7TjSy6tWn0) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Mayday \(demo\)](https://open.spotify.com/album/2e1jWR6PJ7OlCXetM3zXWW) | 2:52 |
 | 6 | [Church Bells](https://open.spotify.com/track/2c7JU7iNZ4DO1arCsKtsoC) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Church Bells](https://open.spotify.com/album/7Gw42YnewWCUpHfpTrwAOg) | 3:49 |

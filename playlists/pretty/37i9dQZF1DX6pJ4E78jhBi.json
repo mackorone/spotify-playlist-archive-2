@@ -1,12 +1,12 @@
 {
   "description": "Relax to these chilled instrumental Christmas tunes. ",
-  "num_followers": 171591,
+  "num_followers": 171587,
   "original_name": "Relaxing Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADGQZ6aHT5N6WkrTH79BllaIwAN/",
+  "snapshot_id": "AAAAAOmSOdNENXGkztaejEBFVAoirYPs",
   "tracks": [
     {
       "added_at": "2025-12-23 09:04:36",
@@ -127,6 +127,22 @@
       "duration_ms": 285626,
       "name": "Happy Xmas (War is Over)",
       "url": "https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE"
+    },
+    {
+      "added_at": "2026-10-23 04:01:00",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/2zh8USJntB8CdtUx5Z0GR8"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "duration_ms": 163141,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/6rORUMPYmWH5gmDAM0PxXL"
     },
     {
       "added_at": "2025-12-23 09:04:36",
@@ -301,6 +317,22 @@
       "url": "https://open.spotify.com/track/4FrdCx26BQaktGdIkkbthy"
     },
     {
+      "added_at": "2026-10-23 04:01:00",
+      "album": {
+        "name": "Daeth Nadolig (Christmas Has Come) [Arr. Huws]",
+        "url": "https://open.spotify.com/album/6gZ5r9bqtw0Bl7Adm0AaJT"
+      },
+      "artists": [
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "duration_ms": 154268,
+      "name": "Daeth Nadolig (Christmas Has Come) [Arr. Huws]",
+      "url": "https://open.spotify.com/track/4viCnZ6xatsVag23T7KOCz"
+    },
+    {
       "added_at": "2025-12-23 09:04:36",
       "album": {
         "name": "Carol Of The Bells",
@@ -399,6 +431,26 @@
       "duration_ms": 161538,
       "name": "A Christmas Prelude No. 1",
       "url": "https://open.spotify.com/track/0ngu4Q8cY5cvHHLVMbE9Nc"
+    },
+    {
+      "added_at": "2026-10-23 04:01:00",
+      "album": {
+        "name": "Madison Midwinter",
+        "url": "https://open.spotify.com/album/2qcSG928X7tJSdFkOlDWii"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Matthew Sharp",
+          "url": "https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Madison Midwinter",
+      "url": "https://open.spotify.com/track/0iye0TsoapghxjBPDTBtvG"
     },
     {
       "added_at": "2025-12-23 09:04:36",

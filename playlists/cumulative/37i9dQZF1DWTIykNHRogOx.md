@@ -4,7 +4,7 @@
 
 > Les  meilleures nouveautés de la chanson française avec Heroe.
 
-399 songs - 21 hr 48 min
+399 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [J’en ai pas encore fini](https://open.spotify.com/track/0hrtAH1qXHDIkEVX4XQYRr) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [J'en ai pas encore fini](https://open.spotify.com/album/4Z3JZPSywHfItYA8Tzqvgv) | 3:28 | 2026-06-04 | 2026-09-18 |
 | [J’suis QLF](https://open.spotify.com/track/1SD5DVz2m8QWDVZRu3E94P) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [J'suis QLF](https://open.spotify.com/album/4mSPYYMKQaS2T5UENy0QbU) | 4:13 | 2026-07-09 |  |
 | [J’veux du cuir](https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [J’veux du cuir](https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb) | 2:44 | 2025-12-11 | 2026-04-10 |
+| [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 | 2026-10-22 |  |
 | [Kisbee](https://open.spotify.com/track/5mefCB9Jjlll59HwaLK33U) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Kisbee](https://open.spotify.com/album/62m4yqqakepro5IsQz5QN5) | 2:22 | 2026-06-25 |  |
 | [L'amertume \- Issu du documentaire "Tout un fromage"](https://open.spotify.com/track/13QPh3IfOzMdpmoWlieHRV) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'amertume \(Issu du documentaire "Tout un fromage"\)](https://open.spotify.com/album/4x7Ew0u9AqYYelle6w9KCj) | 2:41 | 2026-04-09 | 2026-08-21 |
 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 | 2024-10-10 | 2025-03-07 |
@@ -369,7 +370,6 @@
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
 | [Tout Va Bien](https://open.spotify.com/track/5KZj2gtIVHWq8TA1lSCb8p) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Tout Va Bien](https://open.spotify.com/album/5TKj49a8DSMuxNTHVoxgL9) | 3:11 | 2026-03-19 | 2026-06-12 |
 | [Toute l'eau qui coule](https://open.spotify.com/track/7sI0sOYbt9POeWwalKfMdz) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Toute l'eau qui coule](https://open.spotify.com/album/5HqFQf5hFstEHgZAp4d0mT) | 4:06 | 2026-04-16 | 2026-08-28 |
-| [Track 5](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 0:00 | 2026-10-22 |  |
 | [Trésor \- Clyde Bessi Remix](https://open.spotify.com/track/3GGIcLr0WfeaoZPfpeWp4a) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Clyde Bessi](https://open.spotify.com/artist/7a6OS3Sg3wFFGUtAdvS3vB) | [Trésor \(Clyde Bessi Remix\)](https://open.spotify.com/album/1KLF0zoSmQBhStk6xGUqsF) | 3:34 | 2026-05-07 | 2026-06-12 |
 | [Tsunami](https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Tsunami](https://open.spotify.com/album/7M4BbtGu9VPkRBjgZvnLBr) | 2:48 | 2026-02-05 | 2026-05-22 |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |

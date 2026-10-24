@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Kapak: Mahmut Orhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,806 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,794 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 2 | [Mahalle](https://open.spotify.com/track/0OkYyt00OEIVsChhjA6vq9) | [AMELISSA](https://open.spotify.com/artist/2F8ebSiU7yJrqVhQyZOIsE), [Ben Hims](https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6), [Baris Turna](https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q) | [Mahalle](https://open.spotify.com/album/33QzTlcmj19p3S9dZX5aXf) | 2:32 |
 | 3 | [Sweat Drip](https://open.spotify.com/track/7spOWFsvDJITKHB0AuCd7Z) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Love.exe](https://open.spotify.com/album/1gJyfKAvntI0MU18nrsQ2a) | 3:14 |
 | 4 | [One More Dance](https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [One More Dance](https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz) | 3:50 |
-| 5 | [Track 1](https://open.spotify.com/track/7srPXvOTFpJhGsP8ZuRu0n) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Origin](https://open.spotify.com/album/1vtw5lYtK9qT7xYnlPoSOL) | 0:00 |
+| 5 | [Badabum Cha Cha](https://open.spotify.com/track/7srPXvOTFpJhGsP8ZuRu0n) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [ARVIII](https://open.spotify.com/artist/3rFcQPQZfXDmbCsF5mNmyQ) | [Origin](https://open.spotify.com/album/1vtw5lYtK9qT7xYnlPoSOL) | 3:04 |
 | 6 | [Bloody Fyah](https://open.spotify.com/track/1sBZRFknJOzcuqVLaVBKz1) | [Deniz Tekin \(TR\)](https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu), [Tolu](https://open.spotify.com/artist/3L6t4eYFFLez7y5PQY4o4e) | [Bloody Fyah EP](https://open.spotify.com/album/02N6aeY4Ue9kfXkHG3JQqh) | 4:22 |
 | 7 | [Freedom](https://open.spotify.com/track/2d09P8kvbBgv9AjdZaDqmp) | [Aiwaska](https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN), [Akira Arasawa](https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM) | [Freedom](https://open.spotify.com/album/18kh7xMcSaZLOF1lyh2e8O) | 4:17 |
 | 8 | [That's The Law](https://open.spotify.com/track/6ULT3vNg9a45Ag9TpLOZn6) | [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge) | [That’s The Law / Secret](https://open.spotify.com/album/42dCSRwur2TayTo3MB2VLz) | 3:30 |

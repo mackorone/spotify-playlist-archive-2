@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Deafheaven are on top of today's best Metal playlist.",
+  "description": "Northlane are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184073,
       "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
       "url": "https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 375186,
       "name": "Arch of the Sky",
       "url": "https://open.spotify.com/track/3DKsTUnDggVCg1swPYZ76q"
@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 254346,
       "name": "Blood Oath - Edit",
       "url": "https://open.spotify.com/track/1xEX1oeaTTGcAqeV2TZ3Vx"
@@ -3584,6 +3584,24 @@
       "duration_ms": 372697,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/3ArvybjycId27hEs9VDaMY"
+    },
+    {
+      "album": {
+        "name": "Burning The Lungs Of Earth",
+        "url": "https://open.spotify.com/album/4fryR3SFWFKDvMEoOc5LqP"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312738,
+      "name": "Burning The Lungs Of Earth",
+      "url": "https://open.spotify.com/track/6luc7YrLOpzgKUNJtXU3rr"
     },
     {
       "album": {
@@ -5122,7 +5140,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 263972,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
@@ -6082,6 +6100,24 @@
       "duration_ms": 174527,
       "name": "Deathwalk",
       "url": "https://open.spotify.com/track/3KT0kwny4izeeLyE6MTyP7"
+    },
+    {
+      "album": {
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/4HlWa17cRTW9uQraVvh0tc"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247185,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0ZvGajFnTQtEAyKNjqt982"
     },
     {
       "album": {
@@ -7518,7 +7554,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 248453,
       "name": "Early Graves",
       "url": "https://open.spotify.com/track/4k1DdiZfmlJzbKbJdVPU8z"
@@ -9826,7 +9862,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 520521,
       "name": "Ghosts Among The Obelisks",
       "url": "https://open.spotify.com/track/4OfWZhSZTDFlVTyY3Axjj1"
@@ -10104,6 +10140,24 @@
       "duration_ms": 197986,
       "name": "Godhood",
       "url": "https://open.spotify.com/track/4H8L4Q02z8DBnM0m0twa5C"
+    },
+    {
+      "album": {
+        "name": "The Hollowing Of Godflesh",
+        "url": "https://open.spotify.com/album/33QhXVyVMQmZ1MHf92a7Uw"
+      },
+      "artists": [
+        {
+          "name": "Crown Magnetar",
+          "url": "https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225609,
+      "name": "Godkiller",
+      "url": "https://open.spotify.com/track/2ViWmKdQGoSJryv1zD9f6O"
     },
     {
       "album": {
@@ -10876,6 +10930,24 @@
       "duration_ms": 247473,
       "name": "Heaven Shall Burn",
       "url": "https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC"
+    },
+    {
+      "album": {
+        "name": "Empty on the Inside",
+        "url": "https://open.spotify.com/album/5y4hsQGrjysaK5ZHx70Fwa"
+      },
+      "artists": [
+        {
+          "name": "Entheos",
+          "url": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218088,
+      "name": "Hell Is a Part of Me",
+      "url": "https://open.spotify.com/track/1VMa1ubeUXaYDVNBUhpAKd"
     },
     {
       "album": {
@@ -13409,6 +13481,24 @@
     },
     {
       "album": {
+        "name": "Estuary",
+        "url": "https://open.spotify.com/album/511sRdt65eu4O7kciac68R"
+      },
+      "artists": [
+        {
+          "name": "Wolves In The Throne Room",
+          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517186,
+      "name": "Knights of Tiamat",
+      "url": "https://open.spotify.com/track/2YDXUVUBVi4p4ipcuYI1H3"
+    },
+    {
+      "album": {
         "name": "Kon! Kon! (feat. Bloodywood)",
         "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
       },
@@ -14056,7 +14146,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 228244,
       "name": "LIMB FROM LAMB",
       "url": "https://open.spotify.com/track/0u2DSuXarwrb3sJAN2htPa"
@@ -16786,7 +16876,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 240000,
       "name": "N\u00e5r Solen G\u00e5r Ned",
       "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
@@ -20087,6 +20177,24 @@
     },
     {
       "album": {
+        "name": "Shackled to Our Vice",
+        "url": "https://open.spotify.com/album/2LQ9EFAC0R1jV0I1BaiDjZ"
+      },
+      "artists": [
+        {
+          "name": "Disfear",
+          "url": "https://open.spotify.com/artist/2rYMvTD6SxQHgOXhVUdTRc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236162,
+      "name": "Shackled to Our Vice",
+      "url": "https://open.spotify.com/track/7gtXAA8FixXsXGzQc3DkD1"
+    },
+    {
+      "album": {
         "name": "Shadowminds",
         "url": "https://open.spotify.com/album/2hfJXHar2eq0er33i9jAnc"
       },
@@ -22238,7 +22346,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 246784,
       "name": "Strike and Kill",
       "url": "https://open.spotify.com/track/0AG6NBPY8sh3BRz9IVmO2i"
@@ -22524,6 +22632,24 @@
       "duration_ms": 198417,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
+    },
+    {
+      "album": {
+        "name": "Sutures",
+        "url": "https://open.spotify.com/album/7IlEqetnjB1wg9bHgnBXl4"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Sutures",
+      "url": "https://open.spotify.com/track/1jATn2HJ7sDM3JLWRYOzIg"
     },
     {
       "album": {
@@ -23637,6 +23763,36 @@
     },
     {
       "album": {
+        "name": "Netherworlds",
+        "url": "https://open.spotify.com/album/4951xpcIwMAPnhBzCY47dn"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        },
+        {
+          "name": "Tomi Joutsen",
+          "url": "https://open.spotify.com/artist/6XKm3Pn13Owwmtu4l23dui"
+        },
+        {
+          "name": "Tomi Koivusaari",
+          "url": "https://open.spotify.com/artist/3l8IbagqO5waJlqCplfGN1"
+        },
+        {
+          "name": "Santeri Kallio",
+          "url": "https://open.spotify.com/artist/2sHQXCeKtUacK19GEw4LkL"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482120,
+      "name": "The Hour Grows Late (feat. Tomi Joutsen, Tomi Koivusaari & Santeri Kallio)",
+      "url": "https://open.spotify.com/track/5nbvK4j1IvObtXzpZOupxp"
+    },
+    {
+      "album": {
         "name": "By Night",
         "url": "https://open.spotify.com/album/0GHtyfgjNanp1kheoy8MOu"
       },
@@ -23822,6 +23978,24 @@
       "duration_ms": 282640,
       "name": "The Morrisist",
       "url": "https://open.spotify.com/track/6zUFKTWtomByHkQo1Uw2o0"
+    },
+    {
+      "album": {
+        "name": "The Myth",
+        "url": "https://open.spotify.com/album/2SY7vgnve0DHjWjK5UxoBj"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "The Myth",
+      "url": "https://open.spotify.com/track/3K8XMRAhQnl4VWsaYpNwDu"
     },
     {
       "album": {

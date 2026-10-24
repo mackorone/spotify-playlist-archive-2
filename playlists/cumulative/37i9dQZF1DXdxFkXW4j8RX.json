@@ -184,7 +184,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 211001,
       "name": "Amor de Rapper",
       "url": "https://open.spotify.com/track/2fVWpipkpZI5Zgpke12llF"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 208870,
       "name": "Empezar por M\u00ed",
       "url": "https://open.spotify.com/track/3jUQ3pLvgjALEQg6vnnq1D"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 192592,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 172857,
       "name": "Flor Te Mata",
       "url": "https://open.spotify.com/track/6TKA2yBPqSKWpA3hBxRsgl"
@@ -2743,6 +2743,32 @@
     },
     {
       "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/5i28itN3GIieNq4D9lQIj3"
+      },
+      "artists": [
+        {
+          "name": "Ricto Metriklan",
+          "url": "https://open.spotify.com/artist/4XKXJ3Ys6HUbMMmgGx4mK3"
+        },
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        },
+        {
+          "name": "Dosexpresiones",
+          "url": "https://open.spotify.com/artist/61Sb2xad7P35IeuXcSscWu"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182260,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/5Kyws3MniZs9uRZZqkPwHN"
+    },
+    {
+      "album": {
         "name": "III Figura",
         "url": "https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d"
       },
@@ -3026,7 +3052,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 156941,
       "name": "Laif Is Tu Short",
       "url": "https://open.spotify.com/track/45twljxHOjZ00JqdsOLbzQ"
@@ -3376,7 +3402,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219428,
       "name": "Metamorfosis",
       "url": "https://open.spotify.com/track/1QL1X9bvsWnBghDF6F0pbK"
@@ -4826,7 +4852,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 195697,
       "name": "Saquen Bocina",
       "url": "https://open.spotify.com/track/3BbCLRLSUgrbZyxoqZvqo5"
@@ -5320,7 +5346,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 170306,
       "name": "THE ROOKIE",
       "url": "https://open.spotify.com/track/3Q2iwtxmzLEIQm0mrSXr5N"
@@ -5998,7 +6024,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 183999,
       "name": "Warzone Z",
       "url": "https://open.spotify.com/track/6I7Yw2qBktlCbyIrvVTaIG"
@@ -6094,7 +6120,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 157886,
       "name": "Ya No Tengo Tiempo",
       "url": "https://open.spotify.com/track/5EtJ6Dl7ER7giNXuLREtz2"

@@ -3065,6 +3065,28 @@
     },
     {
       "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7HExfsxp1gfUIQmzTOITkp"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/6Lft4kdIhPevBk5axhgN1u"
+    },
+    {
+      "album": {
         "name": "Little Closer",
         "url": "https://open.spotify.com/album/2lGsrzCaNMhPhGeink2v2s"
       },
@@ -3248,6 +3270,28 @@
       "duration_ms": 147692,
       "name": "Lost My Breath",
       "url": "https://open.spotify.com/track/1SKBIqTkG9Bvmcad0KPv7d"
+    },
+    {
+      "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/0Yst6tDqUeqvHvu8jRe5XH"
+      },
+      "artists": [
+        {
+          "name": "Josh Le Tissier",
+          "url": "https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9"
+        },
+        {
+          "name": "Sesco",
+          "url": "https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139448,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/5VGi7FW94eNQSiM3Q6rYJz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 606707,
+  "num_followers": 606672,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
         "name": "Sick of U",
         "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 168676,
       "name": "Sick of U (with Oliver Tree)",
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "HURT (feat. The Warning)",
         "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 213924,
       "name": "HURT (feat. The Warning)",
       "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "The Midnight Demon Club",
-        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "This Album Does Not Exist",
-        "url": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
+        "name": "DEADBEAT!",
+        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
       },
       "artists": [
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 202626,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw"
+      "duration_ms": 146677,
+      "name": "SLEEP WHEN I'M DEAD",
+      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "DEADBEAT!",
-        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
+        "name": "This Album Does Not Exist",
+        "url": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 146677,
-      "name": "SLEEP WHEN I'M DEAD",
-      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
+      "duration_ms": 202626,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Back Door",
-        "url": "https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 248616,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "GALORE",
         "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "waste",
-        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+        "name": "Back Door",
+        "url": "https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ"
       },
       "artists": [
         {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 231911,
-      "name": "waste",
-      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
+      "duration_ms": 248616,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1511,6 +1495,22 @@
       "duration_ms": 190611,
       "name": "By The Time You're Reading This",
       "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "waste",
+        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "waste",
+      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Machines",
-      "url": "https://open.spotify.com/track/0mMbbcQIONDS8HxVL4IEmn"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "I Just Needed You To Know",
         "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Machines",
+      "url": "https://open.spotify.com/track/0mMbbcQIONDS8HxVL4IEmn"
     }
   ],
   "unique_name": "Rock Me Up",

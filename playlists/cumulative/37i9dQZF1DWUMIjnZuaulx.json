@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Zacardi Cortez",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: JJ Hairston",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -896,6 +896,28 @@
       "duration_ms": 277994,
       "name": "Am\u00e9n (with Kirk Franklin)",
       "url": "https://open.spotify.com/track/45Ni3jzatASbwFJFBAHiM9"
+    },
+    {
+      "album": {
+        "name": "Anthems & Prayers",
+        "url": "https://open.spotify.com/album/5z8AlEQOw77HkHtugXD4B9"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tim Bush",
+          "url": "https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648571,
+      "name": "Ancient Of Day (feat. Tim Bush)",
+      "url": "https://open.spotify.com/track/2Eo36Tqm2W8rXXKoaF5MUb"
     },
     {
       "album": {
@@ -8059,6 +8081,32 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6XKJINnDZA2ML8c0i3w9am"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Majeste Pearson",
+          "url": "https://open.spotify.com/artist/0Eg7BWS7T6LCkJA5pUhmMZ"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337209,
+      "name": "Inheritance",
+      "url": "https://open.spotify.com/track/2m7QZibDGcZFAH1XoRMG4z"
+    },
+    {
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -10112,7 +10160,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 678963,
       "name": "Mighty Is Your Name (feat. Melissa Bethea)",
       "url": "https://open.spotify.com/track/2xsD3PI49ZUH0uzwGE7u9o"
@@ -11761,6 +11809,32 @@
     },
     {
       "album": {
+        "name": "Bishop S.Y. Younger Presents: We Still Believe (Live In Washington, D.C.)",
+        "url": "https://open.spotify.com/album/4b3utqHYtJxiZRPueo5iiA"
+      },
+      "artists": [
+        {
+          "name": "Bishop S.Y. Younger",
+          "url": "https://open.spotify.com/artist/0EBIOTYsxmmKe5SdiPlpMV"
+        },
+        {
+          "name": "Ron Poindexter",
+          "url": "https://open.spotify.com/artist/6CW5vWugNeIERb0oCJYwAG"
+        },
+        {
+          "name": "The Sounds of the Ramp",
+          "url": "https://open.spotify.com/artist/0RO9dLdwfPHISijRQqTLpw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334333,
+      "name": "One Way - Live",
+      "url": "https://open.spotify.com/track/6pE06APk094CzpqgsrtUfu"
+    },
+    {
+      "album": {
         "name": "One Word",
         "url": "https://open.spotify.com/album/4M48QB4A6XOcWS73g45AIQ"
       },
@@ -12078,7 +12152,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 220995,
       "name": "Praise Him More",
       "url": "https://open.spotify.com/track/6LQtW1INLFximgtZVaMxZU"
@@ -14992,7 +15066,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 232466,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6YXzZ34Ve4vOjeQCV5KUVJ"

@@ -4,7 +4,7 @@
 
 > layan je
 
-378 songs - 1 day 0 hr 59 min
+379 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2024-01-18 | 2024-05-17 |
 | [Semua Tentangmu](https://open.spotify.com/track/2kPh5QVmCY7xRNzDHsjT7p) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Semua Tentangmu](https://open.spotify.com/album/1IJQWftO0CbeNdyNJvdnCh) | 3:33 | 2024-04-18 | 2024-05-11 |
 | [Sendiri](https://open.spotify.com/track/5gecy5VJBKgLMwj8q3OoR9) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Sendiri](https://open.spotify.com/album/6qa8phimspRLQ5Zh5gJPgQ) | 3:12 | 2024-02-29 | 2026-06-27 |
-| [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 | 2025-06-19 |  |
+| [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 | 2025-06-19 | 2026-10-24 |
 | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/track/1ThFs1Gm7X8UmO0AGXcScC) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/album/2z13aj3gFHxsWMuvDhFX2R) | 3:39 | 2024-09-19 | 2024-09-28 |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2024-01-18 | 2024-07-31 |
 | [Separuh Jiwaku Mati](https://open.spotify.com/track/2Z5tMzBcdNUqgN38gIFIpg) | [Arul Rasheed](https://open.spotify.com/artist/2E4BVLpBfP9VdMBQs5c8Q1) | [Separuh Jiwaku Mati](https://open.spotify.com/album/6OVExTJqLL6yRqTKvd3VAW) | 3:44 | 2024-06-12 | 2024-06-21 |
@@ -342,6 +342,7 @@
 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2024-01-18 | 2024-04-26 |
 | [Syurga](https://open.spotify.com/track/2vDJ5C6dgCPGqQhcnD1mnB) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Syurga](https://open.spotify.com/album/1WCl1wgB61ukTkVDHGQVXy) | 4:24 | 2024-02-01 | 2024-02-23 |
 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 | 2025-06-19 |  |
+| [Tak Ada Restu](https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Tak Ada Restu](https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h) | 3:44 | 2026-09-18 |  |
 | [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 | 2026-07-17 |  |
 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 | 2024-01-18 | 2024-01-26 |
 | [Tak Berlagu \- Original Soundtrack From Khadam](https://open.spotify.com/track/1lONjBeiQZ0KtAglTkmvqy) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Tak Berlagu \(Original Soundtrack From Khadam\)](https://open.spotify.com/album/6iwyJSoYoFc1TCE8kNC86x) | 3:33 | 2026-06-26 | 2026-07-18 |

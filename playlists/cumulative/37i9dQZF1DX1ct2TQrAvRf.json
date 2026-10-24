@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Karan Aujla",
+  "description": "India's Rap Scene. Cover - Seedhe Maut & KR$NA ",
   "name": "RAP 91",
   "tracks": [
     {
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178795,
       "name": "Bari",
       "url": "https://open.spotify.com/track/01EV2T5FLas3NLnPnceZ9b"
@@ -1700,6 +1700,28 @@
       "duration_ms": 184800,
       "name": "Buss Down",
       "url": "https://open.spotify.com/track/6iimPfgGSNCtpSs0oALaX5"
+    },
+    {
+      "album": {
+        "name": "BUZZ",
+        "url": "https://open.spotify.com/album/61d0GtFnxIqydnix725xDL"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "BUZZ",
+      "url": "https://open.spotify.com/track/1bcfGgCTDiIH2RYB2wL622"
     },
     {
       "album": {
@@ -3122,7 +3144,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 177833,
       "name": "G Who",
       "url": "https://open.spotify.com/track/7J9tw4E4ZKcX0AvhTOtqfk"
@@ -6248,6 +6270,24 @@
       "duration_ms": 149142,
       "name": "New Riot",
       "url": "https://open.spotify.com/track/1iFPIiwChDzll8SGFJtrHs"
+    },
+    {
+      "album": {
+        "name": "No Favours",
+        "url": "https://open.spotify.com/album/26HiiG7aSOciZxANBrD6LS"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180681,
+      "name": "No Favours",
+      "url": "https://open.spotify.com/track/6ncqih22HbxY3PkiAjhngL"
     },
     {
       "album": {

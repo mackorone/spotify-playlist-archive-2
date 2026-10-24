@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Isabel Dumaa
 
-1,176 songs - 2 day 15 hr 32 min
+1,177 songs - 2 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2022-01-14 | 2022-03-12 |
 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 | 2026-04-24 | 2026-07-18 |
 | [Backseat \(All I Got\)](https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Backseat \(All I Got\)](https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR) | 2:33 | 2022-09-16 | 2022-12-24 |
+| [Bad at Goodbyes](https://open.spotify.com/track/3SHM2RkG2IzMiU57KHuMQC) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Bad at Goodbyes](https://open.spotify.com/album/1ETwFcDJbYKBWExO85GYTJ) | 2:54 | 2026-10-23 |  |
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-14 | 2022-04-02 |
 | [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 | 2026-06-26 | 2026-10-17 |
 | [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-07-28 | 2023-08-12 |

@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Omojo
 
-2,001 songs - 4 day 9 hr 29 min
+2,002 songs - 4 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1690,6 +1690,7 @@
 | [Surrender](https://open.spotify.com/track/6oeevrLRLwMDuMufg1nChH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Sekrade](https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Surrender](https://open.spotify.com/album/2x9PcrT6CZTzImlnCYOw2V) | 2:42 | 2026-03-06 | 2026-04-24 |
 | [Surrender](https://open.spotify.com/track/2KpzBawj0w2CHkNly2PXvq) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Ola'sage](https://open.spotify.com/artist/7sOMk7p7RRSkNw7nBSitlH) | [Surrender](https://open.spotify.com/album/1EgbInRpUz30P9oAYAhsVE) | 2:33 | 2024-10-04 | 2024-11-22 |
 | [Surrender](https://open.spotify.com/track/1QZMDkHXdP5xzBD2l0bjrH) | [Vannou Enomana](https://open.spotify.com/artist/6LlibAGDFj1d9pLbAcYF9K) | [Surrender](https://open.spotify.com/album/4Yd4urJkYtdKwFxSFBQGLG) | 4:52 | 2023-06-09 | 2023-06-23 |
+| [Surrounded](https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Surrounded By Giants](https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC) | 2:48 | 2026-10-23 |  |
 | [SWAY](https://open.spotify.com/track/2KkuCAuc18KOvG8OOux1PX) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [SWAY](https://open.spotify.com/album/6FypnHYu70AvQapzsWvdcw) | 2:11 | 2026-02-20 | 2026-03-27 |
 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \(Remix\)](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 | 2024-03-01 | 2024-04-12 |
 | [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 | 2026-06-19 | 2026-09-18 |
@@ -1793,7 +1794,7 @@
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 | 2023-07-14 | 2023-09-08 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-04-10 |
-| [Track 1](https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Surrounded By Giants](https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC) | 0:00 | 2026-10-23 |  |
+| [Tornado](https://open.spotify.com/track/5zbFzMSjsPAjp9UYumhr0u) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Tornado](https://open.spotify.com/album/12dS4Gq6wVlkQqRWapmbck) | 2:46 | 2026-10-23 |  |
 | [Treasure](https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Treasure](https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj) | 2:44 | 2023-02-02 | 2023-03-11 |
 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 | 2025-04-04 | 2025-06-20 |
 | [Triumphant Entry](https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls) | [GCAi](https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw), [Dee Minor](https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV) | [Triumphant Entry](https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg) | 3:00 | 2023-07-21 | 2023-07-28 |

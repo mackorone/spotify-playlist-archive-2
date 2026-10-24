@@ -1,6 +1,6 @@
 {
   "description": "Discover the latest Korean classical & new age music! (Cover: \uc724\ud55c(YOONHAN)) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5900,
+  "num_followers": 5901,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,30 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "On Chesil Beach (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1IhkhMZO8R0X2tHuFGTOvK"
+      },
+      "artists": [
+        {
+          "name": "Dan Jones",
+          "url": "https://open.spotify.com/artist/3iADiUHE1zNtXMd8ZGLQho"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "BBC National Orchestra of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        }
+      ],
+      "duration_ms": 96986,
+      "name": "Solemn Love",
+      "url": "https://open.spotify.com/track/7qyC8gWlincOcob4wDOrZc"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "Will You Be My Home",
         "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 241013,
       "name": "L'amore Si Muove",
       "url": "https://open.spotify.com/track/1duxzoL5kKueRRnpYkiUil"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "On Chesil Beach (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1IhkhMZO8R0X2tHuFGTOvK"
-      },
-      "artists": [
-        {
-          "name": "Dan Jones",
-          "url": "https://open.spotify.com/artist/3iADiUHE1zNtXMd8ZGLQho"
-        },
-        {
-          "name": "Esther Yoo",
-          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
-        },
-        {
-          "name": "BBC National Orchestra Of Wales",
-          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
-        }
-      ],
-      "duration_ms": 96986,
-      "name": "Solemn Love",
-      "url": "https://open.spotify.com/track/7qyC8gWlincOcob4wDOrZc"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
-      },
-      "artists": [
-        {
-          "name": "Libelante",
-          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 289613,
       "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
       "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
+      },
+      "artists": [
+        {
+          "name": "Libelante",
+          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "breathe",
-        "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        },
-        {
-          "name": "Esther Yoo",
-          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
-        },
-        {
-          "name": "James Southall",
-          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
-        }
-      ],
-      "duration_ms": 267085,
-      "name": "for such a gaze of wonder",
-      "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Il Mondo",
         "url": "https://open.spotify.com/album/5KZRNp9ayuswLvXGyUPmYq"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 234266,
       "name": "Il Mondo",
       "url": "https://open.spotify.com/track/1Ep6pGxu3lZcqPJOLiYRbY"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "James Southall",
+          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
+        }
+      ],
+      "duration_ms": 267085,
+      "name": "for such a gaze of wonder",
+      "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "A Christmas Symphony",
-        "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
-      },
-      "artists": [
-        {
-          "name": "cho min gyu",
-          "url": "https://open.spotify.com/artist/0z18ejgzsJmt0DWuCshKv1"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "A Christmas Symphony",
-      "url": "https://open.spotify.com/track/6iNSCePbwUiSDQ2bF5yj3e"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 246986,
       "name": "While You Live",
       "url": "https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "A Christmas Symphony",
+        "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
+      },
+      "artists": [
+        {
+          "name": "cho min gyu",
+          "url": "https://open.spotify.com/artist/0z18ejgzsJmt0DWuCshKv1"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "A Christmas Symphony",
+      "url": "https://open.spotify.com/track/6iNSCePbwUiSDQ2bF5yj3e"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "Enrique Granados \u2013 Goyescas",
         "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 412120,
       "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
       "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "VOLCANO",
-        "url": "https://open.spotify.com/album/2mOrIcxamOhiC3lbni6wX2"
-      },
-      "artists": [
-        {
-          "name": "JUNGKEY",
-          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Volcano",
-      "url": "https://open.spotify.com/track/1IhdzUhupcFCuoLyEw9RMV"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+        "name": "VOLCANO",
+        "url": "https://open.spotify.com/album/2mOrIcxamOhiC3lbni6wX2"
       },
       "artists": [
         {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+      "duration_ms": 284400,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/1IhdzUhupcFCuoLyEw9RMV"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1751,6 +1735,22 @@
       "duration_ms": 267986,
       "name": "Remembering That Time",
       "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "Esthesia",
+        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Esthesia",
+      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "Beethoven: Variations for violoncello and piano",
         "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 40906,
       "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
       "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Esthesia",
-        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "Esthesia",
-      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1887,6 +1887,30 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        },
+        {
+          "name": "Cho Yoonseung",
+          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
+        },
+        {
+          "name": "YUN HYUN SANG",
+          "url": "https://open.spotify.com/artist/3LuLOMW2yPLjbclSIDAw0W"
+        }
+      ],
+      "duration_ms": 314573,
+      "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
+      "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
         "name": "Beethoven: Variations for violoncello and piano",
         "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
@@ -1923,30 +1947,6 @@
       "duration_ms": 253360,
       "name": "Une Vie Part 1",
       "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
-        "name": "Connected",
-        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        },
-        {
-          "name": "Cho Yoonseung",
-          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
-        },
-        {
-          "name": "YUN HYUN SANG",
-          "url": "https://open.spotify.com/artist/3LuLOMW2yPLjbclSIDAw0W"
-        }
-      ],
-      "duration_ms": 314573,
-      "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
-      "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -2023,22 +2023,18 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
         }
       ],
-      "duration_ms": 516492,
-      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
-      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
+      "duration_ms": 207893,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
     }
   ],
   "unique_name": "Classics Korea",

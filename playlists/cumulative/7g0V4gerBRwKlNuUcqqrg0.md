@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-233 songs - 13 hr 38 min
+235 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2025-12-11 |  |
 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-07-04 | 2026-01-15 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-21 | 2025-10-04 |
+| [MISS ME](https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [MISS ME](https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb) | 3:13 | 2026-10-23 |  |
 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 | 2025-10-10 | 2025-11-22 |
 | [Monsters](https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Monsters](https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx) | 6:03 | 2026-03-27 | 2026-05-23 |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-07-04 | 2026-07-04 |
@@ -207,6 +208,7 @@
 | [This Song](https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [This Song](https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G) | 3:33 | 2025-07-04 | 2026-08-11 |
 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 | 2025-10-10 |  |
 | [To Be Free \- Demo Version](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free \(Demo Version\)](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-25 |  |
+| [Tom and Jerry](https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Tom and Jerry](https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0) | 3:51 | 2026-10-23 |  |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-07-04 |  |
 | [Tonight](https://open.spotify.com/track/7xFGNT9CZ9s1BPVUzH2Xfu) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd) | 4:32 | 2026-04-16 |  |
 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 | 2025-11-21 | 2026-03-28 |

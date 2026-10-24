@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Chris Nolan, 333 Mob, BATTISTA, Frezza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,340 likes - 109 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,352 likes - 109 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 43 | [Giall](https://open.spotify.com/track/5g7NLCC9A4666RJZNgFpZB) | [Visko](https://open.spotify.com/artist/23OgOE2lPGYH3Ts4fe4kUq) | [Giall](https://open.spotify.com/album/55mVD8W5EPOwbTFZTktcFj) | 2:00 |
 | 44 | [YYY](https://open.spotify.com/track/7jv8S7skb76d4S02HOHPvS) | [HOODYSKIM](https://open.spotify.com/artist/5YemIGezKbYnBoH2CstHFM), [Samuele Serra](https://open.spotify.com/artist/5ARLuLisiyR8s6VsG6Sa8b) | [YYY](https://open.spotify.com/album/2CVOLvVsIidjjePM4EPu0w) | 2:09 |
 | 45 | [dopo tutto](https://open.spotify.com/track/7HVMSlGA43108ebxJRaDnK) | [GEREMIA](https://open.spotify.com/artist/0V23jpgaF7Ce7OPGXNQuMu), [MVRZA](https://open.spotify.com/artist/6AwKE4jzOL5dhuJIB5W1eV) | [dopo tutto](https://open.spotify.com/album/3p1nDvm9AFuCJcshTpZJ45) | 2:01 |
-| 46 | [Track 9](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 0:00 |
+| 46 | [OH MY GOD](https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [HATERS MAKE ME FAMOUS 5](https://open.spotify.com/album/09cs9xI8tS2dm7y4eXsUfO) | 2:11 |
 | 47 | [Tigre, tigre \(feat\. Gemitaiz\) \- NEW VERSION](https://open.spotify.com/track/0mXetSzkCQLx4FLwA2CnTa) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Rock 'N' Roll \- CASSAFORTE EDITION](https://open.spotify.com/album/0yO5Pv06tGYk9HYhpdhiTD) | 3:28 |
 | 48 | [CANZONE ITALIANA](https://open.spotify.com/track/6gKyaFFG4WjxLItsrQgyrm) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [CANZONE ITALIANA](https://open.spotify.com/album/05SEIv65hyfe3eQ43O3n0r) | 2:10 |
 | 49 | [Nisida](https://open.spotify.com/track/7CrWahhjPR8mJPjHwIxIsR) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9) | [Nisida](https://open.spotify.com/album/41r57xzRhdeCKRm7ELMfFP) | 1:51 |

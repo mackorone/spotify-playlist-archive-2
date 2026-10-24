@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: KETTAMA, Prospa\n",
+  "description": "The home for alternative electronic music. Cover: KETTAMA, Prospa",
   "name": "Altar",
   "tracks": [
     {
@@ -3801,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/5baQQ4U0nw6HRY4b1OPLZi"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224529,
+      "name": "Breathin'",
+      "url": "https://open.spotify.com/track/5NGzOvAnSbEjEhxd5WIRW7"
+    },
+    {
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1OZYHN7RxP2o8zg45RFF5n"
       },
@@ -5070,7 +5088,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 254122,
       "name": "Clip Empty",
       "url": "https://open.spotify.com/track/71tXfgTNTxwVMZRM6wEm0K"
@@ -10749,6 +10767,32 @@
     },
     {
       "album": {
+        "name": "Gas / Ultra / Equarium",
+        "url": "https://open.spotify.com/album/1Ur1wF6EXdDnUw2mpIWTJL"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Lauren Duffus",
+          "url": "https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l"
+        },
+        {
+          "name": "SOARR",
+          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218668,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2XlS3xEvc3YOQi4SSBVU1K"
+    },
+    {
+      "album": {
         "name": "Gaze At Me",
         "url": "https://open.spotify.com/album/3PlaYGAJ0bpQdoINq60Zd6"
       },
@@ -12570,6 +12614,24 @@
       "duration_ms": 195188,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
+    },
+    {
+      "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265805,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7ur4RYTN14JvdLZaW9k7rx"
     },
     {
       "album": {
@@ -23088,7 +23150,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 349218,
       "name": "Reckoning",
       "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
@@ -23194,6 +23256,24 @@
       "duration_ms": 165105,
       "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
       "url": "https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW"
+    },
+    {
+      "album": {
+        "name": "Open Late",
+        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236927,
+      "name": "Repeaty",
+      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
     },
     {
       "album": {
@@ -23726,7 +23806,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210625,
       "name": "Rumpta",
       "url": "https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM"
@@ -25350,6 +25430,28 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
+    },
+    {
+      "album": {
+        "name": "Skin To Skin",
+        "url": "https://open.spotify.com/album/1KgKToGhVrqfJPifL98Agi"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Skin To Skin",
+      "url": "https://open.spotify.com/track/0Jx2lddkneaMPRH650RNMO"
     },
     {
       "album": {
@@ -27762,7 +27864,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 114362,
       "name": "ten toes",
       "url": "https://open.spotify.com/track/31nmYWiPPyVHnYFoCH2kZs"
@@ -32394,7 +32496,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 361902,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/50V1z6yu3SFz2Mec3RR4cz"

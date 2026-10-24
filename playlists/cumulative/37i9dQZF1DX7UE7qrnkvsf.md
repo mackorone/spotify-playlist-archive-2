@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-621 songs - 1 day 14 hr 57 min
+624 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Answer Me](https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [A Promise](https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz) | 5:53 | 2023-09-08 | 2024-11-12 |
 | [Any luck?](https://open.spotify.com/track/5JnKZmkG66lymIuFzBFiuH) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Any luck?](https://open.spotify.com/album/6HuXTSXWkxps6cxllsyUGX) | 3:36 | 2024-02-09 | 2026-03-18 |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2021-12-07 | 2025-10-01 |
+| [April Showers](https://open.spotify.com/track/46cfkcjkdiDlE6bGQIrwMd) | [The Small Hours](https://open.spotify.com/artist/6725YBvkvjUa1jHvygHPk9) | [April Showers](https://open.spotify.com/album/1PI6vUm19kKClm13nX8OFK) | 3:43 | 2026-10-23 |  |
 | [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 | 2024-11-12 |
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-08-25 |
 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 | 2023-11-17 | 2024-11-12 |
@@ -64,6 +65,7 @@
 | [Audrey and Jack](https://open.spotify.com/track/6Zxx0HOw0vDjvO5URV6C4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Audrey and Jack](https://open.spotify.com/album/6bRuZkAUye4yQB0kaymNcO) | 3:23 | 2023-08-10 | 2024-09-28 |
 | [Autumn Embrace](https://open.spotify.com/track/3a2EtryAoijDMEAOaFSxqH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Autumn Embrace](https://open.spotify.com/album/2DxBhqTHXlvOPiGGb4tB4k) | 2:33 | 2023-08-10 | 2025-10-01 |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2023-09-01 |
+| [Autumn in Vienna](https://open.spotify.com/track/6eoRi4zkXNfqeiaMyYRHv7) | [Phoenix Archer](https://open.spotify.com/artist/4Syv4sTnGc2Kq3gWqGGdJ3) | [Autumn in Vienna](https://open.spotify.com/album/0TEkLuLGiM3UtYkciJzxOT) | 2:55 | 2026-10-23 |  |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2021-12-07 | 2023-09-22 |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2022-10-27 | 2024-11-06 |
 | [Autumn Promises](https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Autumn Promises](https://open.spotify.com/album/0JUe11QqnjHKIYXaUSKp7m) | 3:18 | 2023-08-10 | 2025-10-01 |
@@ -108,7 +110,7 @@
 | [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-08-11 | 2023-08-11 |
 | [Caçador de Mim](https://open.spotify.com/track/48ucmkpjZzAE3IFfFyugH7) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Caçador de Mim](https://open.spotify.com/album/1LFUqDNXFptjVWGr1AVtWD) | 3:50 | 2024-10-14 |  |
 | [Central Park Stroll](https://open.spotify.com/track/6HqntWF4Ergp1aTtT3FCCZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Central Park Stroll](https://open.spotify.com/album/5vfOxpqBTzqU9V8JS2p7iZ) | 3:40 | 2025-10-22 |  |
-| [Chapter Three](https://open.spotify.com/track/3rDlSEtGsZvLBlqGhqnHpM) | [The Backridges](https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia) | [Chapter Three](https://open.spotify.com/album/40InfJE1rAiRDK2U1xd0mY) | 3:12 | 2026-10-16 |  |
+| [Chapter Three](https://open.spotify.com/track/3rDlSEtGsZvLBlqGhqnHpM) | [The Backridges](https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia) | [Chapter Three](https://open.spotify.com/album/40InfJE1rAiRDK2U1xd0mY) | 3:12 | 2026-10-16 | 2026-10-24 |
 | [Chasing Rainbows](https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Chasing Rainbows](https://open.spotify.com/album/3Ho0NuGDkrtrZGwfe9NwdO) | 3:28 | 2023-09-29 | 2025-09-12 |
 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 | 2023-10-27 |  |
 | [Cherie](https://open.spotify.com/track/2aFdC7xP56IAHVc6NulDRX) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Cherie](https://open.spotify.com/album/5PlgIvkFi9KCurYCCWfzmZ) | 4:08 | 2021-12-07 | 2023-06-16 |
@@ -133,7 +135,7 @@
 | [Connections](https://open.spotify.com/track/2ogKZchAqOWwZtTiRvWfNK) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Connections](https://open.spotify.com/album/0VB2e5tcXGwJDetWSbOS7D) | 3:40 | 2023-12-08 | 2025-10-01 |
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 | 2025-10-01 |
-| [Count The Stars](https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz) | [South Bay Trio](https://open.spotify.com/artist/5maW2tLmsrDDs1NmizQmX9) | [Count The Stars](https://open.spotify.com/album/1L85mqHT3imQpnilOKzYLR) | 5:06 | 2026-10-05 |  |
+| [Count The Stars](https://open.spotify.com/track/3V22MzDWZAYNlaykXgmxdz) | [South Bay Trio](https://open.spotify.com/artist/5maW2tLmsrDDs1NmizQmX9) | [Count The Stars](https://open.spotify.com/album/1L85mqHT3imQpnilOKzYLR) | 5:06 | 2026-10-05 | 2026-10-24 |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 | 2025-09-12 |
 | [Curl Up Under A Blanket](https://open.spotify.com/track/3OHVucBb5b3ieHsal27V0R) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Curl Up Under A Blanket](https://open.spotify.com/album/310nH9AFrmNd80gZC7SIZ9) | 3:43 | 2024-10-07 |  |
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 | 2025-11-04 |
@@ -223,6 +225,7 @@
 | [Here Comes Friday](https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Here Comes Friday](https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8) | 2:49 | 2023-09-22 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/4LNApTGS4bL5DrTEKMiyTH) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Here's That Rainy Day](https://open.spotify.com/album/24S6AcwdHAKIQRO1E8AXVh) | 4:09 | 2022-10-27 | 2023-12-15 |
 | [Here's That Rainy Day](https://open.spotify.com/track/1O1Ih1B7Vt5MF4zjX4iwvC) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Here's That Rainy Day](https://open.spotify.com/album/0ympLcdeUVRIkG7dXekXau) | 3:42 | 2024-02-09 | 2025-09-12 |
+| [Hibiscus](https://open.spotify.com/track/1NP4PxG3ZnAdD2f8PYT9nu) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Hibiscus](https://open.spotify.com/album/1MNXRoYiQcPQWGNrPsIALs) | 3:52 | 2026-10-23 |  |
 | [Hidden Harmonies](https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Hidden Harmonies](https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN) | 3:19 | 2023-11-17 |  |
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-01 | 2026-03-18 |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 | 2025-09-12 |
@@ -624,7 +627,7 @@
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 | 2025-09-12 |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-17 | 2025-10-01 |
 | [You were saying...](https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [You were saying...](https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT) | 4:08 | 2023-12-08 | 2025-10-01 |
-| [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 |  |
+| [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 | 2026-10-24 |
 | [You're My Everything](https://open.spotify.com/track/6PQTALunXWR81WZE5IjCzq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [You're My Everything](https://open.spotify.com/album/5mR2QjUeqbtA8yD9GJfIB8) | 3:39 | 2022-08-30 | 2025-09-12 |
 | [You're My Nemo](https://open.spotify.com/track/20rIiJfktbLUX82tPwVBq6) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [You're My Nemo](https://open.spotify.com/album/3YnthqrqeWfBepWGoAMd70) | 3:58 | 2022-10-27 | 2023-05-26 |
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 | 2025-10-01 |

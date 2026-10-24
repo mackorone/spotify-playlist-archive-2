@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-199 songs - 8 hr 53 min
+200 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [reset](https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Reset](https://open.spotify.com/album/0BziJ3Vj6ktrJ9grdZuGtB) | 3:26 | 2022-01-19 | 2025-06-11 |
 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 | 2024-11-19 |  |
 | [Return Path](https://open.spotify.com/track/62SNnG0zgZUyShmWFUDznl) | [Ananda](https://open.spotify.com/artist/0OHO8bpZ2kCqXnA3pIICie) | [Return Path](https://open.spotify.com/album/7hGnluPJgi3594kVoRNqyV) | 2:27 | 2026-09-25 |  |
+| [Roadtrip](https://open.spotify.com/track/5LNcbKD77Nl9j3t5s9YmRN) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Roadtrip](https://open.spotify.com/album/3MkpK2wp8uigmsL649Ri9N) | 2:49 | 2026-10-23 |  |
 | [Rolling In Grass](https://open.spotify.com/track/6n7sw6rfa1sOYBYQPvzahQ) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Rolling In Grass](https://open.spotify.com/album/4gJY792f8Kha7jSkC5ZWfg) | 3:02 | 2022-04-13 | 2025-04-30 |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-01-19 |  |
 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-01-19 |  |

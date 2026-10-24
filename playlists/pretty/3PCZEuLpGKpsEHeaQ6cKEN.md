@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 255,514 likes - 506 songs - 1 day 2 hr 36 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 255,492 likes - 506 songs - 1 day 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -515,4 +515,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 505 | [Flashdance \- Deep Dish Does The Chug Remix](https://open.spotify.com/track/4UnkTkVICLjugSNhyDkHo3) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Flashdance](https://open.spotify.com/album/2KUAEIvek1mWKGSyyKoWG2) | 3:15 |
 | 506 | [Cold](https://open.spotify.com/track/1PjmqiTjQhy1Q95oJqGdvA) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Cold](https://open.spotify.com/album/65rUDMyYRj4SW57ghwDAc9) | 3:05 |
 
-Snapshot ID: `AADWgUrqfgquK8L8TpHMGhCoQAhZE0Rc`
+Snapshot ID: `AADWggVhSk/4F3kbx34ue2x4cwh+L2GC`

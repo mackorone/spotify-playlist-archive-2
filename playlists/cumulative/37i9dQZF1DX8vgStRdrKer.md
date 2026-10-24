@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-892 songs - 3 day 6 hr 20 min
+893 songs - 3 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Jesu Tiṣe](https://open.spotify.com/track/1zXDwgJUsywfAxMcCmdLqg) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Jesu Tiṣe](https://open.spotify.com/album/2cE9hDKzcMxO9W70zivKJZ) | 5:00 | 2025-04-19 | 2025-04-25 |
 | [Jesus](https://open.spotify.com/track/3jmhduNlWjLP5WFAVGnBFA) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Jesus](https://open.spotify.com/album/0D5Z2iIhORhu3pjdzLsbke) | 4:36 | 2025-06-27 | 2025-07-18 |
 | [Jesus](https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Jesus](https://open.spotify.com/album/3e599loTbI1Dslk0gz7Frb) | 4:00 | 2025-05-30 | 2026-05-22 |
+| [Jesus](https://open.spotify.com/track/1CbqiEyptcXH4B6otHzdwo) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Jesus](https://open.spotify.com/album/7jWaMT1wNb48NPNR8eFFOt) | 17:04 | 2026-10-23 |  |
 | [Jesus Is Mine](https://open.spotify.com/track/55zOfV0sAdp3PifQR5AqA4) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Jesus Is Mine](https://open.spotify.com/album/2fV4M6LV18YIBtrijWj5hB) | 2:49 | 2025-08-15 | 2025-10-03 |
 | [Jesus Oh](https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL) | 4:15 | 2023-12-01 | 2024-03-16 |
 | [Jesus Power](https://open.spotify.com/track/41hM7dA3npzIv7bhtHpIdh) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [Lydia Lifted](https://open.spotify.com/artist/1YvQlV2o6z5XvcAeKCHvZX) | [Jesus Power](https://open.spotify.com/album/5p3mZ98ws7KXGf9CZsF5ae) | 2:52 | 2025-08-15 | 2025-09-27 |
@@ -473,7 +474,7 @@
 | [Lifted High](https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Lifted High](https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ) | 7:30 | 2026-09-18 |  |
 | [Lifter of Men](https://open.spotify.com/track/1IxhyLPPM14RiMzlZEUEk4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Lifter of Men](https://open.spotify.com/album/5C76LCJUbI1vhNh8ghUBVQ) | 5:34 | 2025-05-09 | 2025-05-30 |
 | [Lifter Of Men \- Higher](https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [YYC Worship](https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc) | [Lifter Of Men \(Higher\)](https://open.spotify.com/album/2mTZSMh9NW1Ep8tMdJvrzH) | 7:23 | 2026-02-27 | 2026-04-05 |
-| [Lifter of my head](https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Worship Wells](https://open.spotify.com/album/6b3NHJK7lx7CGBrhdsu0QK) | 5:50 | 2026-08-07 |  |
+| [Lifter of my head](https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Worship Wells](https://open.spotify.com/album/6b3NHJK7lx7CGBrhdsu0QK) | 5:50 | 2026-08-07 | 2026-10-24 |
 | [Light](https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Light](https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A) | 6:08 | 2025-06-20 |  |
 | [Like a Baby \- Special Version](https://open.spotify.com/track/2q0RmOoOY6QYQoep7btEhC) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Like a Baby \(Special Version\)](https://open.spotify.com/album/2jlZE2Hj2uhJBvS7psCCV0) | 2:49 | 2024-05-03 | 2024-05-24 |
 | [Live Worship Medley](https://open.spotify.com/track/5p3eZrJOpJjYdxMy7Bs847) | [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Live Worship Medley](https://open.spotify.com/album/3VbdAlFQTE7ul2PciwWAyV) | 7:39 | 2025-05-09 | 2025-06-20 |

@@ -4,7 +4,7 @@
 
 > Grab a drink and let us help you see off the evening.
 
-117 songs - 7 hr 13 min
+118 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2024-12-17 |  |
 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 | 2024-12-17 |  |
 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 | 2024-12-17 |  |
-| [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2024-12-17 |  |
+| [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2024-12-17 | 2026-10-24 |
 | [Midnight Mischief \- Tom Misch Remix](https://open.spotify.com/track/3O5JIwSON3KBaoyMUsjLjn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Midnight Mischief \(Tom Misch Remix\)](https://open.spotify.com/album/3ssz8pi55szsiCBRpJr4xV) | 4:26 | 2024-12-17 |  |
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2024-12-17 |  |
 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 | 2024-12-17 |  |
@@ -99,6 +99,7 @@
 | [San Francisco](https://open.spotify.com/track/3feeie7zGnbvZhas2XFYtc) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:48 | 2024-12-17 |  |
 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 | 2024-12-17 |  |
 | [Shade](https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl), [Jordan Tait](https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Shade](https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk) | 3:34 | 2024-12-17 |  |
+| [Short and Sweet](https://open.spotify.com/track/6KrbOJbHawWQmJwFRpYklJ) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/5xQrvHK0YbNaFslrvJYMNR) | 3:44 | 2024-12-17 |  |
 | [Slowly](https://open.spotify.com/track/4kbljXIclSHAVeLW18iXXZ) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Slowly](https://open.spotify.com/album/3jZdEB70bvtAQRjN8mzRWE) | 3:13 | 2024-12-17 |  |
 | [So Cool](https://open.spotify.com/track/25xfVwwykey7PVnsNRutbq) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Cool](https://open.spotify.com/album/4IbciRuHRVvhJRXqxhzZiX) | 2:10 | 2024-12-17 | 2026-10-11 |
 | [So Far](https://open.spotify.com/track/7hADXOuwRKNu7U2SCd9Hct) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [So Far](https://open.spotify.com/album/5LEB36Hao9h6bdTzTB5g1F) | 2:52 | 2024-12-17 |  |

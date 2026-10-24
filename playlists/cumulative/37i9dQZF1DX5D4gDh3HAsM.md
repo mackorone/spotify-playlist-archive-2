@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-172 songs - 10 hr 8 min
+173 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Christmas Don't Be Late](https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:40 | 2021-11-12 | 2024-11-30 |
 | [Christmas Don't Be Late](https://open.spotify.com/track/3kGFPy5aDF9UI2riRHoNdU) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:40 | 2021-11-12 | 2024-04-19 |
 | [Christmas Don't Let Me Down \- Single Version](https://open.spotify.com/track/09XxwSW3nQpxngHcw6huo7) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Christmas Don’t Let Me Down](https://open.spotify.com/album/3eJgnDbAE2wDBvtAVQUrTy) | 3:20 | 2021-11-12 |  |
+| [christmas dream](https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [christmas dream](https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN) | 2:40 | 2026-10-23 |  |
 | [Christmas Dreaming](https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:33 | 2023-11-17 | 2024-04-19 |
 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-03 | 2024-11-30 |
 | [Christmas in Love](https://open.spotify.com/track/43g6GeT4cgyxGxyUrEayzK) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Christmas in Love](https://open.spotify.com/album/32eda4L6p5DJUwc7oPxb1I) | 3:27 | 2024-10-04 |  |
@@ -42,7 +43,7 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/1LGpzgmVBF47TBDqOxTHRA) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Christmas Time Is Here](https://open.spotify.com/album/5QKSi5WVcYdS7M7T49JBF5) | 4:38 | 2025-11-28 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 | 2021-11-12 | 2024-04-19 |
 | [Christmas Time Is Here](https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:21 | 2021-11-12 | 2022-10-31 |
-| [Christmas Time Is Here](https://open.spotify.com/track/5xaV3gdr0AZH2S4bWIPkUv) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:21 | 2021-11-12 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/5xaV3gdr0AZH2S4bWIPkUv) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:21 | 2021-11-12 | 2026-10-24 |
 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 | 2021-11-12 | 2023-12-09 |
 | [Christmas Time is Here](https://open.spotify.com/track/5zgSvriujXdqbP0kyEhZvS) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/4jfBNIB9fPR9tZLalMMIxu) | 3:46 | 2021-11-12 | 2022-09-03 |
 | [Christmas Time is Here](https://open.spotify.com/track/6L33ji3tovMzS8zUoXV2GB) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0NWplaqdsAibLPSPYV6AdV) | 3:46 | 2021-11-12 | 2022-07-29 |

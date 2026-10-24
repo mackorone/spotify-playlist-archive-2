@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,191 likes - 26 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,198 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 4 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 |
 | 5 | [Favour](https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/29kCfGrCCIeS0u3RxsvzTC) | 2:36 |
 | 6 | [TMW](https://open.spotify.com/track/0xNMqGEjgTdsjTYiGJdi8v) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/5csnKY1yR98iMm91sEMw9y) | 2:08 |
-| 7 | [Lady](https://open.spotify.com/track/6DgXb6t0sRDjtyldebcnEA) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 3:03 |
-| 8 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 |
+| 7 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 |
+| 8 | [Lady](https://open.spotify.com/track/6DgXb6t0sRDjtyldebcnEA) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 3:03 |
 | 9 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 |
 | 10 | [Crisis Evasion](https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 2:34 |
 | 11 | [Eve](https://open.spotify.com/track/0xx52Xbs4MHTsaZZlPaVhT) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/6BegTMIS4njwAMXbRX5aui) | 2:43 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 25 | [Paradise](https://open.spotify.com/track/46a7o30ZuYAhX8LgralbbQ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 1:53 |
 | 26 | [MORTAL](https://open.spotify.com/track/4ZbUA2dQFMvEwgzZJWsBTF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:21 |
 
-Snapshot ID: `atavAAAAAABATtXqJ5SAeqdKLjOJ6KeY`
+Snapshot ID: `atgAgAAAAACPwCemL9Z/CxZaY3JOL0M8`

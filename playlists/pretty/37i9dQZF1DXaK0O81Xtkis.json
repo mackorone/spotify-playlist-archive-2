@@ -1,13 +1,93 @@
 {
-  "description": "a little indie, a little pop, soda featuring Knox",
-  "num_followers": 228234,
+  "description": "a little indie, a little pop, soda featuring OK MICKEY",
+  "num_followers": 228217,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL4eGFr1H+B9eOFl+sXS3RiAODHq",
+  "snapshot_id": "AAAAABLCZDbMv3i19nx4lLFQ64rbu7O5",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:01:26",
+      "album": {
+        "name": "gay allegations ft. my girlfriend",
+        "url": "https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3"
+      },
+      "artists": [
+        {
+          "name": "OK MICKEY",
+          "url": "https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "gay allegations ft. my girlfriend",
+      "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
+    },
+    {
+      "added_at": "2026-10-23 04:01:26",
+      "album": {
+        "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 193538,
+      "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw"
+    },
+    {
+      "added_at": "2026-10-23 04:01:26",
+      "album": {
+        "name": "oh well!",
+        "url": "https://open.spotify.com/album/6MBa9ByIC9IxnR5kkG2m4C"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 189088,
+      "name": "oh well!",
+      "url": "https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t"
+    },
+    {
+      "added_at": "2026-10-23 04:24:41",
+      "album": {
+        "name": "Leave Me There",
+        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 256538,
+      "name": "Leave Me There",
+      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
+    },
+    {
+      "added_at": "2026-10-23 04:01:26",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/14KQYuAV0YPdOOabnNSto9"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 202137,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3aCt1z9Hpj7ptFvo3BYbJW"
+    },
     {
       "added_at": "2026-10-02 04:02:37",
       "album": {
@@ -735,106 +815,6 @@
       "duration_ms": 160120,
       "name": "If I Ever Talk To God",
       "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
-    },
-    {
-      "added_at": "2026-07-17 04:02:15",
-      "album": {
-        "name": "Crazy Rainbow",
-        "url": "https://open.spotify.com/album/7oyNub5nsPkJoyV6xatDcN"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 136662,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/25daS9NP6OyeqyWgnsbBut"
-    },
-    {
-      "added_at": "2026-07-17 04:02:15",
-      "album": {
-        "name": "Loveland (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6rLBGig7awR8nRMt0suKbv"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "18",
-      "url": "https://open.spotify.com/track/2Df5ZX1R04fIp5uIyxrA8D"
-    },
-    {
-      "added_at": "2026-08-07 04:24:23",
-      "album": {
-        "name": "In The Middle",
-        "url": "https://open.spotify.com/album/3BGj1G2MpPs3Qxo9aOMxa8"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dee",
-          "url": "https://open.spotify.com/artist/6IH1aTMnS77wKDFDST3Jnh"
-        }
-      ],
-      "duration_ms": 154552,
-      "name": "In The Middle",
-      "url": "https://open.spotify.com/track/5hxdH3HCtzprYiNNCITDhI"
-    },
-    {
-      "added_at": "2026-07-10 04:02:28",
-      "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 112353,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
-    },
-    {
-      "added_at": "2026-07-17 04:02:15",
-      "album": {
-        "name": "Lost On The Way To Paradise",
-        "url": "https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cronin",
-          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
-        }
-      ],
-      "duration_ms": 159709,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL"
-    },
-    {
-      "added_at": "2026-06-12 04:16:42",
-      "album": {
-        "name": "Kicking My Feet & Screaming",
-        "url": "https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 184417,
-      "name": "Faking Smiles",
-      "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
     }
   ],
   "unique_name": "soda",

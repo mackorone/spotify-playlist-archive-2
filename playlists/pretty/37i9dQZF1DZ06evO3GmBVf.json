@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 219256,
+  "num_followers": 219272,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABiZAnVFvmCP9SCspNQYU37",
+  "snapshot_id": "atgAgAAAAADkY347DeHh9522ryWm060E",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Par de Dosis",
         "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 231304,
       "name": "Par de Dosis",
       "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 217913,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
       },
       "artists": [
         {
@@ -628,9 +628,37 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
+      "duration_ms": 217913,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bueno Pa Lo Malo",
+        "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        }
+      ],
+      "duration_ms": 399230,
+      "name": "Bueno Pa Lo Malo",
+      "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
     },
     {
       "added_at": null,
@@ -667,34 +695,6 @@
       "duration_ms": 235068,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/4O6R59QSJoQlROItXrZcCe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bueno Pa Lo Malo",
-        "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
-        }
-      ],
-      "duration_ms": 399230,
-      "name": "Bueno Pa Lo Malo",
-      "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
     },
     {
       "added_at": null,

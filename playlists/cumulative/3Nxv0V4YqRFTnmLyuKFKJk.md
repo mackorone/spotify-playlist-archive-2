@@ -4,7 +4,7 @@
 
 > Classic Country Hits 🤠 Top Most Streamed Country Music of All Time \| Best Country Playlist \| Dolly Parton Jolene, Randy Travis, Blake Shelton
 
-500 songs - 1 day 5 hr 48 min
+501 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [455 Rocket](https://open.spotify.com/track/7FtuKCaePFfKqGetBYHxS1) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Love Travels](https://open.spotify.com/album/0CJHlDOZfCIVARQkcMgQ7m) | 4:09 | 2025-06-30 | 2025-11-19 |
 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 | 2025-11-18 |  |
 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 | 2025-11-18 |  |
+| [9 to 5 \- Live from Dollywood](https://open.spotify.com/track/2mWQHpYnS6He70VpAVXYkH) | [Hannah Harper](https://open.spotify.com/artist/12KuYODdkDwx58jM1jjPPa) | [9 to 5 \(Live from Dollywood\)](https://open.spotify.com/album/0ND8zw993KAhsdjIzCdkDH) | 2:26 | 2026-10-23 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-07-03 |  |
 | [A Teenager's Romance](https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:20 | 2024-09-04 | 2025-04-26 |
 | [A Thousand Miles from Nowhere](https://open.spotify.com/track/2rjeRpzY5eKn2zZMwAfuod) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:28 | 2026-06-16 |  |

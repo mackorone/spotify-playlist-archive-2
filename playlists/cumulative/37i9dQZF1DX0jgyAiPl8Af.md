@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-966 songs - 1 day 17 hr 37 min
+967 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 | 2025-11-11 |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-25 | 2024-07-18 |
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2022-09-16 | 2023-06-09 |
+| [Returning Home](https://open.spotify.com/track/6ulZh9uQC35AB0cxbQ9wML) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [Returning Home](https://open.spotify.com/album/3xHcp5nSPcq2BaAbcIUTa7) | 2:40 | 2026-10-23 |  |
 | [Reverie](https://open.spotify.com/track/6wRXNPHF9zcLSl7o0wyU3D) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Reverie](https://open.spotify.com/album/5QqDkcnWuTPo8noE4dj2Ct) | 2:15 | 2026-09-25 |  |
 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 | 2022-12-09 | 2024-05-25 |
 | [Ricorda](https://open.spotify.com/track/3N53aMV2eJB32wb2G2Pns0) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Ricorda](https://open.spotify.com/album/0oo1cTsjmvl1ilc6RlwH6T) | 2:40 | 2022-11-18 | 2024-06-15 |

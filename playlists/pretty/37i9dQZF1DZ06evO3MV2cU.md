@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,697 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,698 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 22 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/7HB2ekhcwwsyZ9Vta4s7LP) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:58 |
 | 23 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 |
 | 24 | [Forever](https://open.spotify.com/track/6ChFsa3xElTTIJAo460out) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:26 |
-| 25 | [Your Grace Is Enough](https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 4:08 |
-| 26 | [I Lift My Hands](https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:38 |
+| 25 | [I Lift My Hands](https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:38 |
+| 26 | [Your Grace Is Enough](https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 4:08 |
 | 27 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
 | 28 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
 | 29 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 49 | [Help My Unbelief \- Acoustic](https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:26 |
 | 50 | [God's Great Dance Floor](https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 3:38 |
 
-Snapshot ID: `atavAAAAAAC/9Nsx6SNLWbvc3vdkE6wN`
+Snapshot ID: `atgAgAAAAABFzkQn1ek36DRMKUOdoWny`

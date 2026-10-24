@@ -4741,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+        "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
+      },
+      "artists": [
+        {
+          "name": "Larah",
+          "url": "https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174243,
+      "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+      "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
+    },
+    {
+      "album": {
         "name": "Nie m\u00f3wi\u0119 tak, nie m\u00f3wi\u0119 nie",
         "url": "https://open.spotify.com/album/3p5a6AcHEnFJS9Fl0EQMRd"
       },
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 203101,
       "name": "Pick me baby",
       "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"

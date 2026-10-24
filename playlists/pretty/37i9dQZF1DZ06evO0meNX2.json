@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 47073,
+  "num_followers": 47096,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADwG1BkJy4IrjFvCR2pl/Kh",
+  "snapshot_id": "atgAgAAAAAAl5UbGe/AgoI1T78CzfJSo",
   "tracks": [
     {
       "added_at": null,
@@ -298,15 +298,11 @@
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Dejame Dormir",
-      "url": "https://open.spotify.com/track/4tLKYfcgQV11LGNJLoccVF"
+      "duration_ms": 231703,
+      "name": "Cada D\u00eda Que Pasa",
+      "url": "https://open.spotify.com/track/0IDnj6BWFr9QYNUwGvWL9T"
     },
     {
       "added_at": null,
@@ -378,11 +374,15 @@
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 231703,
-      "name": "Cada D\u00eda Que Pasa",
-      "url": "https://open.spotify.com/track/0IDnj6BWFr9QYNUwGvWL9T"
+      "duration_ms": 160500,
+      "name": "Dejame Dormir",
+      "url": "https://open.spotify.com/track/4tLKYfcgQV11LGNJLoccVF"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Eres X",
-        "url": "https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2"
-      },
-      "artists": [
-        {
-          "name": "Los Bohemios de Sinaloa",
-          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 197418,
-      "name": "T\u00fa Eres X",
-      "url": "https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -575,8 +555,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
+        "name": "T\u00fa Eres X",
+        "url": "https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 197418,
+      "name": "T\u00fa Eres X",
+      "url": "https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 163293,
-      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
+      "duration_ms": 210968,
+      "name": "Si Yo Me Activo",
+      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 210968,
-      "name": "Si Yo Me Activo",
-      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
+      "duration_ms": 163293,
+      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despreciado",
-        "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 210951,
-      "name": "Despreciado",
-      "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habemus conciliaci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/6sqdyaQLeXDhbfeKYEpUW9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 222354,
       "name": "Habemus conciliaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1SKtOjY1QWabqWnoZ1J77T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despreciado",
+        "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 210951,
+      "name": "Despreciado",
+      "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 152433,
-      "name": "Buena Vida Mala Fama",
-      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Norte a Sur",
         "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 213926,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152433,
+      "name": "Buena Vida Mala Fama",
+      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
     },
     {
       "added_at": null,

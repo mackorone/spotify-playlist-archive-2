@@ -12343,6 +12343,32 @@
     },
     {
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/4ndVC5wCSQ92I67YLGU5CC"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Shayan",
+          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143142,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/1dPcEm6TROs3PEJxOUXnzX"
+    },
+    {
+      "album": {
         "name": "Existentia",
         "url": "https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP"
       },

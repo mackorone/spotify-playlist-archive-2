@@ -1,12 +1,12 @@
 {
   "description": "La casa de lxs MC's. Foto: Liricistas",
-  "num_followers": 284502,
+  "num_followers": 284460,
   "original_name": "Rap Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWh7Tb8Gg1aGCifJxLTaXzmpByI",
+  "snapshot_id": "AAAAAE7Hk8oeFsg088EkiRW3NYnYm0/O",
   "tracks": [
     {
       "added_at": "2026-05-28 21:42:43",
@@ -203,6 +203,30 @@
       "duration_ms": 175577,
       "name": "Canci\u00f3n de una canci\u00f3n",
       "url": "https://open.spotify.com/track/2R0p96ZTDMrxo3I8wCCIhA"
+    },
+    {
+      "added_at": "2026-10-23 13:45:04",
+      "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/5i28itN3GIieNq4D9lQIj3"
+      },
+      "artists": [
+        {
+          "name": "Ricto Metriklan",
+          "url": "https://open.spotify.com/artist/4XKXJ3Ys6HUbMMmgGx4mK3"
+        },
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        },
+        {
+          "name": "Dosexpresiones",
+          "url": "https://open.spotify.com/artist/61Sb2xad7P35IeuXcSscWu"
+        }
+      ],
+      "duration_ms": 182260,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/5Kyws3MniZs9uRZZqkPwHN"
     },
     {
       "added_at": "2026-10-23 03:00:45",
@@ -735,22 +759,6 @@
     {
       "added_at": "2026-05-28 21:42:43",
       "album": {
-        "name": "THE ROOKIE",
-        "url": "https://open.spotify.com/album/5ffp7jVauYWxTDvfBSvhpq"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "THE ROOKIE",
-      "url": "https://open.spotify.com/track/3Q2iwtxmzLEIQm0mrSXr5N"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/1Tx7bQqx88Qi0cnxYqBQy6"
       },
@@ -787,26 +795,6 @@
       "duration_ms": 295936,
       "name": "Uzumaki",
       "url": "https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
-        "name": "Felicidad",
-        "url": "https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        },
-        {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy"
     },
     {
       "added_at": "2026-05-28 21:42:43",
@@ -1043,30 +1031,6 @@
       "duration_ms": 144939,
       "name": "POWA",
       "url": "https://open.spotify.com/track/3YUM5fN0RlpUCqcjxr5Pcb"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
-        "name": "Laif Is Tu Short",
-        "url": "https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs"
-      },
-      "artists": [
-        {
-          "name": "Brous One",
-          "url": "https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "DJ Pere",
-          "url": "https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP"
-        }
-      ],
-      "duration_ms": 156941,
-      "name": "Laif Is Tu Short",
-      "url": "https://open.spotify.com/track/45twljxHOjZ00JqdsOLbzQ"
     },
     {
       "added_at": "2026-05-28 21:42:43",
@@ -1327,38 +1291,6 @@
     {
       "added_at": "2026-05-28 21:42:43",
       "album": {
-        "name": "Ya No Tengo Tiempo",
-        "url": "https://open.spotify.com/album/5IYtmzA8itwyewk7sW6pbU"
-      },
-      "artists": [
-        {
-          "name": "ADIONE",
-          "url": "https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l"
-        }
-      ],
-      "duration_ms": 157886,
-      "name": "Ya No Tengo Tiempo",
-      "url": "https://open.spotify.com/track/5EtJ6Dl7ER7giNXuLREtz2"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
-        "name": "Bushido Thunderstorm",
-        "url": "https://open.spotify.com/album/2E76haakuTtipEkRjIiwqJ"
-      },
-      "artists": [
-        {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
-        }
-      ],
-      "duration_ms": 183999,
-      "name": "Warzone Z",
-      "url": "https://open.spotify.com/track/6I7Yw2qBktlCbyIrvVTaIG"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
         "name": "Sexy (Remix)",
         "url": "https://open.spotify.com/album/4xrkMnRR2GeIhJBlcPe8Qf"
       },
@@ -1587,58 +1519,6 @@
     {
       "added_at": "2026-05-28 21:42:43",
       "album": {
-        "name": "Empezar por M\u00ed",
-        "url": "https://open.spotify.com/album/49IkizpO9BDlXyDmyckivo"
-      },
-      "artists": [
-        {
-          "name": "Liricistas",
-          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
-        },
-        {
-          "name": "Guille Scherping",
-          "url": "https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq"
-        },
-        {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
-        },
-        {
-          "name": "Utopiko",
-          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
-        },
-        {
-          "name": "Bacayo Brass",
-          "url": "https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd"
-        },
-        {
-          "name": "Natalia Valdebenito",
-          "url": "https://open.spotify.com/artist/328NTYn9QWEgcCFXAdXMjz"
-        }
-      ],
-      "duration_ms": 208870,
-      "name": "Empezar por M\u00ed",
-      "url": "https://open.spotify.com/track/3jUQ3pLvgjALEQg6vnnq1D"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/0UZHg61PTmlc2gSWk3sTdM"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Metamorfosis",
-      "url": "https://open.spotify.com/track/1QL1X9bvsWnBghDF6F0pbK"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
         "name": "F\u00e9nix (Vol. 2)",
         "url": "https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv"
       },
@@ -1803,26 +1683,6 @@
     {
       "added_at": "2026-05-28 21:42:43",
       "album": {
-        "name": "Amor de Rapper",
-        "url": "https://open.spotify.com/album/1BYbc7WeVIRr0SUCuxb7tW"
-      },
-      "artists": [
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        },
-        {
-          "name": "Negro Sambo",
-          "url": "https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk"
-        }
-      ],
-      "duration_ms": 211001,
-      "name": "Amor de Rapper",
-      "url": "https://open.spotify.com/track/2fVWpipkpZI5Zgpke12llF"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
         "name": "DA KNOWLEDGE",
         "url": "https://open.spotify.com/album/6YkpmJ3cNCP6F3BwPO7sZ1"
       },
@@ -1863,22 +1723,6 @@
       "duration_ms": 193273,
       "name": "E. U. C. S. L.",
       "url": "https://open.spotify.com/track/1UgJaQryfcS2vQHlv4Jm8I"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        }
-      ],
-      "duration_ms": 172857,
-      "name": "Flor Te Mata",
-      "url": "https://open.spotify.com/track/6TKA2yBPqSKWpA3hBxRsgl"
     },
     {
       "added_at": "2026-05-28 21:42:43",
@@ -1927,26 +1771,6 @@
       "duration_ms": 262666,
       "name": "Rimas Bravas",
       "url": "https://open.spotify.com/track/3AY1xH0YVYggPz4AKajxvE"
-    },
-    {
-      "added_at": "2026-05-28 21:42:43",
-      "album": {
-        "name": "Saquen Bocina",
-        "url": "https://open.spotify.com/album/2gezQguJVzzvOMxIGhGZaZ"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        },
-        {
-          "name": "Brayan Booz",
-          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
-        }
-      ],
-      "duration_ms": 195697,
-      "name": "Saquen Bocina",
-      "url": "https://open.spotify.com/track/3BbCLRLSUgrbZyxoqZvqo5"
     },
     {
       "added_at": "2026-05-28 21:42:43",

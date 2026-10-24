@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-518 songs - 1 day 4 hr 19 min
+519 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 | 2025-04-24 | 2025-09-05 |
 | [Friends](https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Friends](https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId) | 3:28 | 2026-01-08 | 2026-09-05 |
 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 | 2023-10-12 | 2023-12-01 |
-| [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 | 2026-04-23 |  |
+| [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 | 2026-04-23 | 2026-10-24 |
 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 | 2026-04-02 | 2026-09-26 |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-19 | 2024-11-22 |
 | [Gasoline](https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:39 | 2025-06-27 | 2025-11-07 |
@@ -199,6 +199,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-09 | 2024-06-28 |
 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-15 |  |
 | [I Love Life \(feat\. RANI\)](https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [I Love Life \(feat\. RANI\)](https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO) | 2:36 | 2026-04-30 |  |
+| [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 | 2026-10-23 |  |
 | [I Need It \(from You\) \(feat\. Cola Boyy\)](https://open.spotify.com/track/0nLPnWIPTqiLC3dtHU7Var) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [I Need It \(from You\) \(feat\. Cola Boyy\)](https://open.spotify.com/album/7patBRJ4sYuLn1tw5zEppc) | 3:00 | 2025-05-01 | 2025-09-19 |
 | [I Remember...](https://open.spotify.com/track/7d1mlaQ0uYGbjtLHnfjxmU) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [I Remember...](https://open.spotify.com/album/1KOZyRe3HszodUXU11FvQW) | 3:05 | 2026-06-26 |  |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,610 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,636 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 2 | [Alles neu](https://open.spotify.com/track/5hqxBvQJ3XJDSbxT9vyyqA) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 4:20 |
 | 3 | [So wie du bist](https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp) | [MoTrip](https://open.spotify.com/artist/69u5rPwWBKP7pJHpCGB9O5), [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [Mama](https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY) | 4:28 |
 | 4 | [Bilder im Kopf](https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 3:58 |
-| 5 | [Hurra die Welt geht unter](https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Hurra die Welt geht unter](https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY) | 4:44 |
+| 5 | [Nullkommaneun](https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [0,9 \(Deluxe Version\)](https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs) | 3:52 |
 | 6 | [Palmen aus Plastik](https://open.spotify.com/track/6wHRm1KR8pzVDPdmR6Qovj) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Palmen aus Plastik](https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN) | 3:04 |
-| 7 | [Nullkommaneun](https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [0,9 \(Deluxe Version\)](https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs) | 3:52 |
+| 7 | [Hurra die Welt geht unter](https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Hurra die Welt geht unter](https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY) | 4:44 |
 | 8 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:34 |
 | 9 | [Jein](https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Außen Top Hits, innen Geschmack \(Gebäck in the Days 1992 \- 2002\)](https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy) | 5:54 |
 | 10 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |

@@ -4209,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Morning Mist",
+        "url": "https://open.spotify.com/album/6DSREoxamd9J97NEA1Gnsz"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "Morning Mist",
+      "url": "https://open.spotify.com/track/6cZv571156wWIK7aipPFR3"
+    },
+    {
+      "album": {
         "name": "Tribute to Ryuichi Sakamoto \"Micro Ambient Music\" Vol. 4",
         "url": "https://open.spotify.com/album/1P84OiiCx9pqvAN0RSNX0o"
       },
@@ -5800,7 +5818,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 224913,
       "name": "Silky Lake",
       "url": "https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS"

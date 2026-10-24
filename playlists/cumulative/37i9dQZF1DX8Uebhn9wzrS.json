@@ -5326,7 +5326,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 129729,
       "name": "Botanic",
       "url": "https://open.spotify.com/track/3byChw9Mclt1SJHnxNzB0I"
@@ -6078,6 +6078,24 @@
       "duration_ms": 127276,
       "name": "c ya soon",
       "url": "https://open.spotify.com/track/38cy4dQmnps3oMyiTcQNxY"
+    },
+    {
+      "album": {
+        "name": "cabin dreams",
+        "url": "https://open.spotify.com/album/3BB9ImUHnOdiYhmqGhOezm"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "cabin dreams",
+      "url": "https://open.spotify.com/track/7upcb2pTEdtqIDKhGQPE5T"
     },
     {
       "album": {
@@ -20443,6 +20461,24 @@
     },
     {
       "album": {
+        "name": "it's okay to slow down",
+        "url": "https://open.spotify.com/album/3YDNCe6CQyuhNzguyjZjcg"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162612,
+      "name": "it's okay to slow down",
+      "url": "https://open.spotify.com/track/7zcJTjfubdT4m8Ld6qS8OI"
+    },
+    {
+      "album": {
         "name": "Itinerant",
         "url": "https://open.spotify.com/album/376Pv5WxfgEJJjuRWKId2y"
       },
@@ -29388,7 +29424,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 112762,
       "name": "off the grid",
       "url": "https://open.spotify.com/track/35roSXeM6DUWUsZRLB9uCZ"

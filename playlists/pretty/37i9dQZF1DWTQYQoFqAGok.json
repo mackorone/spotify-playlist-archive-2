@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65997,
+  "num_followers": 66000,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+        "name": "Bernalejo",
+        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Mexkla",
+          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+      "duration_ms": 264000,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Bernalejo",
-        "url": "https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G"
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
       "artists": [
         {
-          "name": "Mexkla",
-          "url": "https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u"
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
         }
       ],
-      "duration_ms": 264000,
-      "name": "La Iguana",
-      "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
         "name": "Cronolog\u00edas",
         "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
         "name": "Tukumtak",
         "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
         "name": "Bienvenidos",
         "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
         "name": "Las Puntadas de Ernesto Riesta",
         "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
@@ -575,42 +575,6 @@
       "duration_ms": 178773,
       "name": "No Se que Pasa Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        },
-        {
-          "name": "Fernando Zenaido Maldonado",
-          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
-        }
-      ],
-      "duration_ms": 179511,
-      "name": "Caminos de Ayer - Remastered",
-      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
-        "name": "So\u00f1\u00e9 - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -631,6 +595,42 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "So\u00f1\u00e9 - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        },
+        {
+          "name": "Fernando Zenaido Maldonado",
+          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
+        }
+      ],
+      "duration_ms": 179511,
+      "name": "Caminos de Ayer - Remastered",
+      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
-      },
-      "artists": [
-        {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
-        }
-      ],
-      "duration_ms": 323800,
-      "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+        "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
       },
       "artists": [
         {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
         }
       ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+      "duration_ms": 323800,
+      "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -859,6 +843,22 @@
       "duration_ms": 236419,
       "name": "Calladito Te Ves Mejor",
       "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+      },
+      "artists": [
+        {
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+        }
+      ],
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2026-09-04 06:00:34",

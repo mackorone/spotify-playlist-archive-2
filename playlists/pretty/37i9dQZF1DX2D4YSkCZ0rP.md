@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Piche
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,171 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,170 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 3 | [Dis\-moi oui](https://open.spotify.com/track/5RZ2uasddAXgIw35HhvtMZ) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI \(Édition OR\)](https://open.spotify.com/album/2hNZGt3B5r81TDem4XvWYT) | 3:56 |
 | 4 | [Amour Amore](https://open.spotify.com/track/7MoYKHLO2kBdBwR8fzjvho) | [Victoria Sio](https://open.spotify.com/artist/1J7lHgGg73LSlEOGZL7XAl) | [Amour Amore](https://open.spotify.com/album/1QNFe13n2nM1pZlzDmZ1uK) | 3:01 |
 | 5 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 |
-| 6 | [Track 5](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 0:00 |
+| 6 | [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 |
 | 7 | [Pleurer en dansant](https://open.spotify.com/track/1TXTfBITlGjV3iObZitZs2) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Pleurer en dansant](https://open.spotify.com/album/0WYQgUq0o57dPJIgPYtkuS) | 3:30 |
 | 8 | [COPINES?](https://open.spotify.com/track/0Sl3aAMvfly1KaHyHzOkut) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [LE CŒUR ET SA DICTATURE.](https://open.spotify.com/album/4rM6sNDT33rocB4UpauxyM) | 2:23 |
 | 9 | [XMEN](https://open.spotify.com/track/4ccnIgicxHsyWOrCf82bOo) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Bonsoir Paris](https://open.spotify.com/album/52cbJmAsRC76J3E0Fa2M7z) | 2:24 |

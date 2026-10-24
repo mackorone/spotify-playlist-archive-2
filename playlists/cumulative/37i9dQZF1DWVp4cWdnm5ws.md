@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: rhodessa
+> Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-364 songs - 21 hr 33 min
+365 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Aswang sa Maynila](https://open.spotify.com/track/424bBEqg4ggyNtEy1GtvPA) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr), [Novocrane](https://open.spotify.com/artist/3G4EbmaEUiibM9xzQ0XmgZ) | [Aswang sa Maynila](https://open.spotify.com/album/3cy4nnkHXOvsOxS9803bst) | 2:42 | 2026-04-06 |  |
 | [Awit ng Pag\-ibig](https://open.spotify.com/track/067MuzlHQlDtrNwqPsuhFk) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [People Pleaser](https://open.spotify.com/album/7FvZaWjqDg6MHAtflcVPV1) | 3:39 | 2026-08-21 |  |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-06-07 | 2025-03-28 |
+| [Awkward \(feat\. Clara Benin\)](https://open.spotify.com/track/7INbWiQ3aKYACHdVbu0yzv) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Awkward \(feat\. Clara Benin\)](https://open.spotify.com/album/6vymv9J9yfsmWf01ifmVUa) | 3:23 | 2026-10-23 |  |
 | [Ayoko Pa](https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Cursebox](https://open.spotify.com/artist/52REqNdtIQAapIZ4WEwBVg) | [Ayoko Pa](https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ) | 3:14 | 2022-09-08 | 2022-12-01 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-04-02 | 2025-03-28 |
 | [Baby Girl](https://open.spotify.com/track/7IA3kgXFupu6eke77kd93n) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Baby Girl](https://open.spotify.com/album/3P0dIqUcznPkh3KXtIZioC) | 2:57 | 2025-05-30 | 2026-04-07 |

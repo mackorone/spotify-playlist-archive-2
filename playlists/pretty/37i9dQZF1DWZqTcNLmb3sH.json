@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Brindavihari",
-  "num_followers": 76611,
+  "num_followers": 76638,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5fZSwYBOWkvJ8P9arbPlL+qmIc",
+  "snapshot_id": "AAAAAF49U6X3pgdcwly/g3w704gnSY2+",
   "tracks": [
     {
       "added_at": "2026-09-08 10:05:57",
@@ -116,12 +116,12 @@
       },
       "artists": [
         {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        },
-        {
           "name": "Prasanna Kumar M S",
           "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Meghana Haliyal",
+          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
         },
         {
           "name": "Trilok Trivikrama",
@@ -199,6 +199,30 @@
       "duration_ms": 196800,
       "name": "Nee Nange Allava Title Track (From \"Nee Nange Allava\")",
       "url": "https://open.spotify.com/track/0XgbPACtfY4sdL5fOQFrmc"
+    },
+    {
+      "added_at": "2026-10-23 12:02:30",
+      "album": {
+        "name": "Gaganada Nesara (From \"Father\")",
+        "url": "https://open.spotify.com/album/67sJa6vUczIY4oCUN6jZUF"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Manjappa Magodi",
+          "url": "https://open.spotify.com/artist/1YKAMZ636Ibz0iDzs7ONeP"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 291454,
+      "name": "Gaganada Nesara (From \"Father\")",
+      "url": "https://open.spotify.com/track/6yXT7xQoy2328rcOg4YnQY"
     },
     {
       "added_at": "2026-10-22 05:48:36",

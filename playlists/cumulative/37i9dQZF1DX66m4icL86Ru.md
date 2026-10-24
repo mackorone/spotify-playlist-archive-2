@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Karol G
 
-610 songs - 1 day 5 hr 16 min
+611 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [34+35 \(Remix\)](https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9) | 3:02 | 2021-10-15 | 2022-05-14 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-17 | 2024-10-12 |
 | [4,5,6](https://open.spotify.com/track/1t0vvwpJZXnZQTHV7gJl3l) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Gangsta Talk](https://open.spotify.com/album/23hGXVi3gBtKEpyvs1s2U7) | 2:31 | 2022-02-17 | 2022-03-05 |
+| [5432ON](https://open.spotify.com/track/1Z3p17NoMQVSqsPF3KVDhl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [5432ON](https://open.spotify.com/album/04MOyRtgSQd6PiO2Rl8ux5) | 2:16 | 2026-10-23 |  |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-13 | 2023-04-22 |
 | [99 boys](https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [99 boys](https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX) | 2:26 | 2024-04-12 | 2024-04-27 |
 | [A Gangster's Wife](https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi) | [Ms Krazie](https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz), [Chino Grande](https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j) | [Smile Now Cry Never](https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79) | 3:49 | 2022-10-14 | 2022-11-12 |
@@ -147,7 +148,7 @@
 | [Coconut Water](https://open.spotify.com/track/2tvooheYc5ooGL9TyBLQ60) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Coconut Water](https://open.spotify.com/album/1MzQ3HCpPS2S7mIU6ozppF) | 1:57 | 2026-06-12 |  |
 | [Coconuts](https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC) | 2:48 | 2021-12-10 | 2022-01-22 |
 | [Cognac Queen](https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:42 | 2021-10-15 | 2022-01-11 |
-| [Coke Bottle Body](https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 3:41 | 2024-05-24 |  |
+| [Coke Bottle Body](https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 3:41 | 2024-05-24 | 2026-10-24 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2022-04-07 | 2024-05-25 |
 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 | 2022-06-17 | 2023-01-28 |
 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 | 2023-01-27 | 2023-08-05 |

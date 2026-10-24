@@ -10702,7 +10702,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 250700,
       "name": "Love is Gold",
       "url": "https://open.spotify.com/track/5VOJowDxS3o2zEHCLZuhTo"
@@ -19456,6 +19456,24 @@
       "duration_ms": 187397,
       "name": "Walls",
       "url": "https://open.spotify.com/track/0Oqf4yHrrA1Dm4VkVDwGOJ"
+    },
+    {
+      "album": {
+        "name": "Wandering Barman",
+        "url": "https://open.spotify.com/album/2G8qHiUVaiWekHS5xqc0SP"
+      },
+      "artists": [
+        {
+          "name": "Ash Leone",
+          "url": "https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206628,
+      "name": "Wandering Barman",
+      "url": "https://open.spotify.com/track/1CSGHdEYzc3Opn2dSkA9wG"
     },
     {
       "album": {

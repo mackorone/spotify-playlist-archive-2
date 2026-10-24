@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "5432",
+        "url": "https://open.spotify.com/album/59QC5SWaqrjr6okP13LlGY"
+      },
+      "artists": [
+        {
+          "name": "Sasha GiGi",
+          "url": "https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148507,
+      "name": "5432",
+      "url": "https://open.spotify.com/track/21oknABY0hhrDURo6xbxdX"
+    },
+    {
+      "album": {
         "name": "54321",
         "url": "https://open.spotify.com/album/3KvahenxQI6sd07OldLtcN"
       },
@@ -8724,7 +8742,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 194198,
       "name": "Dream or Fantasy",
       "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
@@ -13038,7 +13056,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 231774,
       "name": "Gotta Be Cool",
       "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
@@ -15805,6 +15823,24 @@
     },
     {
       "album": {
+        "name": "In Europe EP",
+        "url": "https://open.spotify.com/album/72VIk1neR3fC7jlKpZxF5q"
+      },
+      "artists": [
+        {
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "In Europe",
+      "url": "https://open.spotify.com/track/46u6S0BlmgQqPfSMtQoTF3"
+    },
+    {
+      "album": {
         "name": "In It",
         "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
@@ -17760,7 +17796,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 182000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
@@ -19118,7 +19154,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 199626,
       "name": "Little More (Body Action)",
       "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
@@ -19304,7 +19340,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 230294,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8"
@@ -19374,6 +19410,54 @@
       "duration_ms": 176969,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
+    },
+    {
+      "album": {
+        "name": "Looking For You",
+        "url": "https://open.spotify.com/album/0wY4yjXzBpL5wXSNjVMSD7"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Tri/xon",
+          "url": "https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235025,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z"
+    },
+    {
+      "album": {
+        "name": "Looking For You",
+        "url": "https://open.spotify.com/album/2IgaakNoCPdEyt9SO6LO2g"
+      },
+      "artists": [
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210952,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/7njAlusJWPMvC6RTSWMlYs"
     },
     {
       "album": {
@@ -22376,7 +22460,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 159615,
       "name": "My Place",
       "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
@@ -23635,6 +23719,32 @@
     },
     {
       "album": {
+        "name": "Off Your Mind (feat. Last Lights)",
+        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Last Lights",
+          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Off Your Mind (feat. Last Lights)",
+      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
+    },
+    {
+      "album": {
         "name": "Offenbach Anthem",
         "url": "https://open.spotify.com/album/1QmqhZWQqGiwAkpQ40gYyN"
       },
@@ -24877,6 +24987,32 @@
     },
     {
       "album": {
+        "name": "PEOPLE IN THE PLACE",
+        "url": "https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ"
+      },
+      "artists": [
+        {
+          "name": "A.B.C.",
+          "url": "https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203105,
+      "name": "PEOPLE IN THE PLACE",
+      "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
+    },
+    {
+      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
       },
@@ -25378,7 +25514,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 168000,
       "name": "Pressure (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/3qilJf4x402WUjcBJA060n"
@@ -27144,6 +27280,24 @@
       "duration_ms": 185603,
       "name": "Run It Back (feat. Caroline Byrne)",
       "url": "https://open.spotify.com/track/2pfX8Wf4Unns6Jt3lThEjk"
+    },
+    {
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0iQ8Mn1nmBJnbfKphkuoB4"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/0YBhS04scosEHosyns63qs"
     },
     {
       "album": {
@@ -30870,7 +31024,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 172500,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
@@ -32475,6 +32629,32 @@
     },
     {
       "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/3ydCyCEOfVX6Cjvu55JF2W"
+      },
+      "artists": [
+        {
+          "name": "Brothers Macklovitch",
+          "url": "https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222062,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4BMBzoBnQWADK7sWESowyg"
+    },
+    {
+      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/1TGyeiQObQ1tBNuXNUUM5m"
       },
@@ -34032,7 +34212,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210000,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/7jyKDOidlRsR09obtU05ty"
@@ -36310,6 +36490,24 @@
       "duration_ms": 176274,
       "name": "Zone (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
+    },
+    {
+      "album": {
+        "name": "Zoolander",
+        "url": "https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178238,
+      "name": "Zoolander",
+      "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
     },
     {
       "album": {

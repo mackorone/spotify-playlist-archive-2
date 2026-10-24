@@ -1,13 +1,129 @@
 {
-  "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: femtanyl",
-  "num_followers": 187634,
+  "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: The Avalanches",
+  "num_followers": 187643,
   "original_name": "Proto-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKle4rTWrc4de567kwFofemhBmmk",
+  "snapshot_id": "AAAAAMQsrFSaAFbJ+m6cg1kLVUlYNLHI",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "MIND YER BIZNIZ",
+        "url": "https://open.spotify.com/album/5f1UtOFyx7q2WYUJsd2VZk"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "MIND YER BIZNIZ",
+      "url": "https://open.spotify.com/track/2yLwwjkbhUaYoqltO0u1m7"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "Dance Fish 1",
+        "url": "https://open.spotify.com/album/0pI9BQaIXrxxOUZWTCg0Q2"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        },
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "Grey Mullet (Flip)",
+      "url": "https://open.spotify.com/track/4DJRiC0S5kakXkcHqUZ3zF"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/2GNcqugTEhk9ovxiX99eyB"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "Jam City Presents EFM",
+        "url": "https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "LLTB",
+      "url": "https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "my head is empty",
+        "url": "https://open.spotify.com/album/2sRG1Doe1W28iypqTC8P8P"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 117908,
+      "name": "my head is full",
+      "url": "https://open.spotify.com/track/0xJR4dGvCkln7oAPkynBb1"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "TOUR GUIDE x INVISIBLE (Fakear Remix)",
+        "url": "https://open.spotify.com/album/34szr79ht1qihOVPgQrlxR"
+      },
+      "artists": [
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        },
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "TOUR GUIDE x INVISIBLE - Fakear Remix",
+      "url": "https://open.spotify.com/track/1dPACDj2zU2T3h3WMvAemc"
+    },
     {
       "added_at": "2026-10-16 04:03:20",
       "album": {
@@ -23,6 +139,22 @@
       "duration_ms": 86964,
       "name": "vintage vuitton",
       "url": "https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 185952,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx"
     },
     {
       "added_at": "2026-10-16 04:03:20",
@@ -73,9 +205,25 @@
       "url": "https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x"
     },
     {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "Whole World Round / Fly",
+        "url": "https://open.spotify.com/album/65SPqtCF6eAsVVigq6cRdO"
+      },
+      "artists": [
+        {
+          "name": "Sour Worm",
+          "url": "https://open.spotify.com/artist/2BXCboDuXFujtpOez1aYzW"
+        }
+      ],
+      "duration_ms": 179294,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1TWxiU8jL0blI5oxWfMgBq"
+    },
+    {
       "added_at": "2026-10-16 18:24:47",
       "album": {
-        "name": "Class of 2095",
+        "name": "Class of 2095 - QC VA",
         "url": "https://open.spotify.com/album/7HY3z9CjWI6qGvVLUd3WmZ"
       },
       "artists": [
@@ -191,6 +339,26 @@
       "duration_ms": 275000,
       "name": "Wouldn't Say",
       "url": "https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t"
+    },
+    {
+      "added_at": "2026-10-23 04:03:25",
+      "album": {
+        "name": "My Head Hurts",
+        "url": "https://open.spotify.com/album/4gT7hNqlsWVkyB3gGoTo3t"
+      },
+      "artists": [
+        {
+          "name": "Sterling Grove",
+          "url": "https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ"
+        },
+        {
+          "name": "Stabbed by Angels",
+          "url": "https://open.spotify.com/artist/3MkLYAjuS3QuMCXISrztXH"
+        }
+      ],
+      "duration_ms": 216687,
+      "name": "My Head Hurts",
+      "url": "https://open.spotify.com/track/63RtHpFtNxF82ngXiF1HPp"
     },
     {
       "added_at": "2026-10-16 04:03:20",
@@ -931,22 +1099,6 @@
     {
       "added_at": "2026-10-16 04:03:20",
       "album": {
-        "name": "WITH ME",
-        "url": "https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk"
-      },
-      "artists": [
-        {
-          "name": "Paris Prestige",
-          "url": "https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj"
-        }
-      ],
-      "duration_ms": 119375,
-      "name": "WITH ME",
-      "url": "https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
         "name": "help, im still falling",
         "url": "https://open.spotify.com/album/7asLU164NaILgnXfewdEXY"
       },
@@ -959,22 +1111,6 @@
       "duration_ms": 106771,
       "name": "help, im still falling",
       "url": "https://open.spotify.com/track/2wRzkt3aewjpSeudZ7n2R3"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 161874,
-      "name": "NERVOUS",
-      "url": "https://open.spotify.com/track/6MPpLzbkqUmklwCFQqzD1h"
     },
     {
       "added_at": "2026-10-16 04:03:20",
@@ -1019,22 +1155,6 @@
       "duration_ms": 185777,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
-        "name": "XXXXX",
-        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 138118,
-      "name": "Taconeando",
-      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
     },
     {
       "added_at": "2026-10-16 04:03:20",
@@ -1099,22 +1219,6 @@
     {
       "added_at": "2026-10-16 04:03:20",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/6av4T66RvMiGH1SaEqYDAH"
-      },
-      "artists": [
-        {
-          "name": "Lover",
-          "url": "https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z"
-        }
-      ],
-      "duration_ms": 224815,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/3vNfyV7eeceVZGjBIan5Kv"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
         "name": "2late",
         "url": "https://open.spotify.com/album/5qjHQrAOXmJlz6gCQ9cGDX"
       },
@@ -1143,22 +1247,6 @@
       "duration_ms": 107320,
       "name": "Lets Make Out",
       "url": "https://open.spotify.com/track/2TUZV5w1x3bh4HKAslMouC"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
-        "name": "copacabana",
-        "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
-      },
-      "artists": [
-        {
-          "name": "ZEHD",
-          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
-        }
-      ],
-      "duration_ms": 117624,
-      "name": "copacabana",
-      "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
     },
     {
       "added_at": "2026-10-16 04:03:20",
@@ -1295,38 +1383,6 @@
       "duration_ms": 174243,
       "name": "God",
       "url": "https://open.spotify.com/track/678p2xQ2SXuCunDfp9KiPB"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
-        "name": "AYO.",
-        "url": "https://open.spotify.com/album/32XkYWmp22gpNSsj8K8KRd"
-      },
-      "artists": [
-        {
-          "name": "Mani Saint",
-          "url": "https://open.spotify.com/artist/3zSgyz3ehVfMqLOrYhpLhy"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "AYO.",
-      "url": "https://open.spotify.com/track/0XN7XmgxjQy1MgfjqTYUln"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/4ACJpfaytioiyHOYD0H575"
-      },
-      "artists": [
-        {
-          "name": "The Hellp",
-          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
-        }
-      ],
-      "duration_ms": 216198,
-      "name": "Ssx",
-      "url": "https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi"
     },
     {
       "added_at": "2026-10-16 04:03:20",
@@ -1539,22 +1595,6 @@
       "duration_ms": 430729,
       "name": "\uff0d\uff65\uff65 \uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d \uff65\uff0d\uff65 \uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65 \uff65",
       "url": "https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6"
-    },
-    {
-      "added_at": "2026-10-16 04:03:20",
-      "album": {
-        "name": "BEFORE GRANDE",
-        "url": "https://open.spotify.com/album/3V2tbjvK7Yl9gquooDh08f"
-      },
-      "artists": [
-        {
-          "name": "IDHEM",
-          "url": "https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa"
-        }
-      ],
-      "duration_ms": 207007,
-      "name": "MUSIC SAVED MY LIFE",
-      "url": "https://open.spotify.com/track/11s4KWKnusrlkZspPoQNyA"
     }
   ],
   "unique_name": "Proto-",

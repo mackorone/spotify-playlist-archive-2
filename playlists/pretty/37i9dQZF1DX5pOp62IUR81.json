@@ -1,12 +1,12 @@
 {
   "description": "Earth's mightiest themes assemble on the Marvel Music Playlist. Stream Marvel\u2019s The Avengers on Disney+.",
-  "num_followers": 204422,
+  "num_followers": 204440,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPP7c1LcfW/Yh5GzQHKJyNLCg4A/",
+  "snapshot_id": "AAAAADBYAYN6+sBleeIIs7ooxbi7U9AZ",
   "tracks": [
     {
       "added_at": "2026-06-12 13:00:07",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/2gniwO6ylK0s2tRZ8gNbMT"
     },
     {
+      "added_at": "2026-10-23 20:31:21",
+      "album": {
+        "name": "VisionQuest - Vol. 1 (Episodes 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5jzkR32BnSSskRPBUtNC0R"
+      },
+      "artists": [
+        {
+          "name": "Mick Giacchino",
+          "url": "https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "VisionQuest Main on Ends",
+      "url": "https://open.spotify.com/track/7pbCqbLqPi2zMXpcEV0Gr2"
+    },
+    {
       "added_at": "2026-06-12 13:00:07",
       "album": {
         "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
@@ -1391,22 +1407,6 @@
       "duration_ms": 166106,
       "name": "Theme from Ant-Man",
       "url": "https://open.spotify.com/track/6yNPVGljyzMYTxEhL6fLBg"
-    },
-    {
-      "added_at": "2026-06-12 13:00:07",
-      "album": {
-        "name": "Captain America: The Winter Soldier (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl"
-      },
-      "artists": [
-        {
-          "name": "Henry Jackman",
-          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
-        }
-      ],
-      "duration_ms": 581853,
-      "name": "Captain America",
-      "url": "https://open.spotify.com/track/2ZQ4lypCihgYLjIdvLRqyW"
     },
     {
       "added_at": "2026-06-12 13:00:07",

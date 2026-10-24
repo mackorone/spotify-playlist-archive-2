@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Enrique Iglesias y Santos Bravos en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! A.B Quintanilla III y Majo Aguilar en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -3385,6 +3385,32 @@
     },
     {
       "album": {
+        "name": "Desenamorando",
+        "url": "https://open.spotify.com/album/1s66zIDfFrXy7vZ4R4CDm4"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Son\u2019s of Cumbia",
+          "url": "https://open.spotify.com/artist/1OY008az2EhTrKKL0eqZNw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154937,
+      "name": "Desenamorando",
+      "url": "https://open.spotify.com/track/2UDwm7qs2Ud17BtNJezOb6"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
       },
@@ -5770,7 +5796,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 133787,
       "name": "I miss U tantoo",
       "url": "https://open.spotify.com/track/1TtPsWPJHv2vkA6vxzrkQo"
@@ -6331,6 +6357,28 @@
     },
     {
       "album": {
+        "name": "La Limonada",
+        "url": "https://open.spotify.com/album/0ymOLrgHZ46f2REItckz7E"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217408,
+      "name": "La Limonada",
+      "url": "https://open.spotify.com/track/6puekSoUFCRJO3KXRb2o9f"
+    },
+    {
+      "album": {
         "name": "La Locura",
         "url": "https://open.spotify.com/album/2emjjajJMu9Q2rhb9Bou9v"
       },
@@ -6466,6 +6514,24 @@
       "duration_ms": 189000,
       "name": "La Otra",
       "url": "https://open.spotify.com/track/5lArsjEue0iJAZeoPv3RJV"
+    },
+    {
+      "album": {
+        "name": "La penitencia",
+        "url": "https://open.spotify.com/album/6aSqWRs2Zao4CisPdEl48y"
+      },
+      "artists": [
+        {
+          "name": "Un Le\u00f3n Marinero",
+          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "La penitencia",
+      "url": "https://open.spotify.com/track/5NZy3Fc6scVoSVGEiqILTd"
     },
     {
       "album": {
@@ -6822,7 +6888,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
@@ -6968,7 +7034,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 308250,
       "name": "Lo Que Importa",
       "url": "https://open.spotify.com/track/0eguGQWtFQNyPDtxi46vHM"
@@ -10176,7 +10242,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178967,
       "name": "Por si nos volvemos a encontrar",
       "url": "https://open.spotify.com/track/1k2PVfjzmh21JcICW9m7gC"
@@ -12703,6 +12769,24 @@
     },
     {
       "album": {
+        "name": "todo va a estar bien",
+        "url": "https://open.spotify.com/album/5hoZYTmJix6Mul0T4wV3xR"
+      },
+      "artists": [
+        {
+          "name": "Azul Aim\u00e9",
+          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152538,
+      "name": "todo va a estar bien",
+      "url": "https://open.spotify.com/track/7hxPZRwf8xYbFBtHAFUVXf"
+    },
+    {
+      "album": {
         "name": "Tokome",
         "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
       },
@@ -12770,6 +12854,24 @@
       "duration_ms": 218000,
       "name": "TONIGHT (Bad Boys: Ride Or Die) (feat. Becky G)",
       "url": "https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx"
+    },
+    {
+      "album": {
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/3Vsq5HU56Ay7WPnhYSLLrP"
+      },
+      "artists": [
+        {
+          "name": "Paulina Goto",
+          "url": "https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188358,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/5Zntx8zn5H7MGpaTsHT1VW"
     },
     {
       "album": {
@@ -13028,7 +13130,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 181036,
       "name": "Tulum Sin Ti",
       "url": "https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW"

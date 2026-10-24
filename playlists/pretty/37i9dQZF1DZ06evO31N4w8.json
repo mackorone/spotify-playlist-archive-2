@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 69881,
+  "num_followers": 69906,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACNWmtXjEmQpFXex0dV12Kv",
+  "snapshot_id": "atgAgAAAAADDkUds9b5AWTFM2ITjADV5",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Yo Quer\u00eda A Las Dos",
-      "url": "https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abriendo Caminos",
         "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 197933,
       "name": "C\u00f3mo Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Yo Quer\u00eda A Las Dos",
+      "url": "https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Para Qu\u00e9 Quieres Que Vuelva",
-      "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Eso o M\u00e1s",
         "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+        "name": "20 Exitos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218400,
-      "name": "La Loba del Mal",
-      "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
+      "duration_ms": 202840,
+      "name": "Para Qu\u00e9 Quieres Que Vuelva",
+      "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 208973,
       "name": "Mi Primer Amor (Meu Primeiro Amor)",
       "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "La Loba del Mal",
+      "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
     },
     {
       "added_at": null,

@@ -1,13 +1,33 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: BKTHERULA",
-  "num_followers": 971408,
+  "num_followers": 971363,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIs5a5xJY9ixpl4HfjXxipGoH2fE",
+  "snapshot_id": "AAAAAEUQwqKSj9zt6QtciH/8M6ew7LfS",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 233239,
+      "name": "I'm On",
+      "url": "https://open.spotify.com/track/4P6B85nK5qQPYycpgNq7Jb"
+    },
     {
       "added_at": "2026-10-16 04:02:27",
       "album": {
@@ -55,22 +75,6 @@
     {
       "added_at": "2026-10-16 04:02:27",
       "album": {
-        "name": "Tulsa, OK",
-        "url": "https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 181025,
-      "name": "Tulsa, OK",
-      "url": "https://open.spotify.com/track/4lyK8sT0dLpxSBv14wtVet"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
         "name": "GHOST DOG.",
         "url": "https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE"
       },
@@ -87,6 +91,26 @@
       "duration_ms": 179130,
       "name": "GHOST DOG.",
       "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
+    },
+    {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "Cucuy",
+        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "NASAAN",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "The Sickness (feat. NASAAN)",
+      "url": "https://open.spotify.com/track/06EBTDRF8pcJw9f7nQ6EOJ"
     },
     {
       "added_at": "2026-10-16 04:02:27",
@@ -129,6 +153,22 @@
       "url": "https://open.spotify.com/track/3nUc6KLhePNoS66kBcSlDH"
     },
     {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "KIDSUPER FREESTYLE.",
+        "url": "https://open.spotify.com/album/5RoZOzq8XkS1yeHKeUYURP"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "KIDSUPER FREESTYLE.",
+      "url": "https://open.spotify.com/track/5yeRIFuQ1d3mzh6TP9O8Z2"
+    },
+    {
       "added_at": "2026-10-16 04:02:27",
       "album": {
         "name": "DA BUSINESS",
@@ -151,22 +191,62 @@
     {
       "added_at": "2026-10-16 04:02:27",
       "album": {
-        "name": "RAINBOW_",
-        "url": "https://open.spotify.com/album/58yesTExAA0M2a9Pgv9z6D"
+        "name": "Tulsa, OK",
+        "url": "https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC"
       },
       "artists": [
         {
-          "name": "Kaicrewsade",
-          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
-        },
-        {
-          "name": "Luke Titus",
-          "url": "https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2"
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 102796,
-      "name": "#SWAG SURF**** (feat. Luke Titus)",
-      "url": "https://open.spotify.com/track/77UrnEytLAZB1XCSoKl86W"
+      "duration_ms": 181025,
+      "name": "Tulsa, OK",
+      "url": "https://open.spotify.com/track/4lyK8sT0dLpxSBv14wtVet"
+    },
+    {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "YERR",
+        "url": "https://open.spotify.com/album/4KMiFnQxkfyCOolwOg98ze"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "YERR",
+      "url": "https://open.spotify.com/track/2UFfc6xThP1Nm80xTESyvb"
+    },
+    {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1pEsPPPrdGX0SFAS7mNVCo"
+      },
+      "artists": [
+        {
+          "name": "Kembe X",
+          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
+        },
+        {
+          "name": "Kenny Iko",
+          "url": "https://open.spotify.com/artist/0GOtzYCeaqjdhAlwJfUxPK"
+        }
+      ],
+      "duration_ms": 194702,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/4mWXzGysPkzAAMFORnt6Pp"
     },
     {
       "added_at": "2026-10-16 04:02:27",
@@ -233,6 +313,22 @@
       "url": "https://open.spotify.com/track/4jDjCiWDvsPhBqy9DlzKgR"
     },
     {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "old life",
+        "url": "https://open.spotify.com/album/25uZFcIq2mcNF4wkUV1vX0"
+      },
+      "artists": [
+        {
+          "name": "Henny Hermes",
+          "url": "https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "old life",
+      "url": "https://open.spotify.com/track/5uUaNxKuhkfgB77qZEmyR1"
+    },
+    {
       "added_at": "2026-10-16 04:02:27",
       "album": {
         "name": "Cool Me Down",
@@ -295,6 +391,46 @@
       "duration_ms": 142503,
       "name": "EVIL GRIN [Feat. JPEGMAFIA]",
       "url": "https://open.spotify.com/track/4OMB9YGXkMBmuPyikIUQCg"
+    },
+    {
+      "added_at": "2026-10-16 04:02:27",
+      "album": {
+        "name": "EEEEEE**** (feat. Luke Titus)",
+        "url": "https://open.spotify.com/album/0pnmBNvuzsqg1PXtJign9i"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        },
+        {
+          "name": "Luke Titus",
+          "url": "https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2"
+        }
+      ],
+      "duration_ms": 138403,
+      "name": "EEEEEE**** (feat. Luke Titus)",
+      "url": "https://open.spotify.com/track/6sr8MmXOlVjQqIv9MWfgLS"
+    },
+    {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "RULE THA WORLD",
+        "url": "https://open.spotify.com/album/1ekyybUkaLVFn3zAzUnprk"
+      },
+      "artists": [
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "RULE THA WORLD",
+      "url": "https://open.spotify.com/track/313GFxmHAA5jHOrc5iBzfz"
     },
     {
       "added_at": "2026-10-16 04:02:27",
@@ -423,8 +559,8 @@
     {
       "added_at": "2026-10-16 04:02:27",
       "album": {
-        "name": "EEEEEE**** (feat. Luke Titus)",
-        "url": "https://open.spotify.com/album/0pnmBNvuzsqg1PXtJign9i"
+        "name": "RAINBOW_",
+        "url": "https://open.spotify.com/album/58yesTExAA0M2a9Pgv9z6D"
       },
       "artists": [
         {
@@ -436,9 +572,25 @@
           "url": "https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2"
         }
       ],
-      "duration_ms": 138403,
-      "name": "EEEEEE**** (feat. Luke Titus)",
-      "url": "https://open.spotify.com/track/6sr8MmXOlVjQqIv9MWfgLS"
+      "duration_ms": 102796,
+      "name": "#SWAG SURF**** (feat. Luke Titus)",
+      "url": "https://open.spotify.com/track/77UrnEytLAZB1XCSoKl86W"
+    },
+    {
+      "added_at": "2026-10-23 04:14:43",
+      "album": {
+        "name": "CRAZY?",
+        "url": "https://open.spotify.com/album/2qgsglP1sMboHOdprRuZsT"
+      },
+      "artists": [
+        {
+          "name": "earthsignchels",
+          "url": "https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "CRAZY?",
+      "url": "https://open.spotify.com/track/52LIfXQUI69zfdPUSnZK0h"
     },
     {
       "added_at": "2026-10-16 04:02:27",
@@ -1727,130 +1879,6 @@
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
-        "name": "CALCULATE",
-        "url": "https://open.spotify.com/album/1SdTLhDms64iH36OrSXW1e"
-      },
-      "artists": [
-        {
-          "name": "Yakiyn",
-          "url": "https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E"
-        }
-      ],
-      "duration_ms": 196230,
-      "name": "SPREAD LIKE BUTTA",
-      "url": "https://open.spotify.com/track/2LcKPfjTlHP0OYc0wK0S7r"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
-        "name": "Catch Me Outside 2",
-        "url": "https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Catch Me Outside 2",
-      "url": "https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
-        "name": "Vacay",
-        "url": "https://open.spotify.com/album/6g4FBDcga66XtqlchM1alX"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 142962,
-      "name": "Vacay",
-      "url": "https://open.spotify.com/track/2Z94scAOu1QPc9JBy4x44S"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
-        "name": "Now and at the Hour of Our Death (feat. BONES)",
-        "url": "https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 254734,
-      "name": "Now and at the Hour of Our Death (feat. BONES)",
-      "url": "https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
-        "name": "we owe you an explanation",
-        "url": "https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1"
-      },
-      "artists": [
-        {
-          "name": "PARTYOF2",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
-        },
-        {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "POSER",
-      "url": "https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
-        "name": "HYPE ME UP",
-        "url": "https://open.spotify.com/album/2Mpaeojxd7u1vnjqjT1PY6"
-      },
-      "artists": [
-        {
-          "name": "TruththeBull",
-          "url": "https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg"
-        }
-      ],
-      "duration_ms": 109339,
-      "name": "HYPE ME UP",
-      "url": "https://open.spotify.com/track/2fMgGrKk8IFglMGn5CTXN5"
-    },
-    {
-      "added_at": "2026-10-16 04:02:27",
-      "album": {
-        "name": "YOU CRY LOVE.",
-        "url": "https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "YOU CRY LOVE.",
-      "url": "https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ"
     }
   ],
   "unique_name": "Alternative Hip-Hop",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-361 songs - 18 hr 45 min
+362 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,11 +275,12 @@
 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 | 2024-06-07 |  |
 | [Rave Never Ends](https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Never Ends](https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX) | 3:27 | 2026-07-31 |  |
 | [Rave Therapy](https://open.spotify.com/track/26SBh3qrxSkpVqLRQkcSbU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Rave Therapy](https://open.spotify.com/album/0uEiSJnCg3JGlacWk6Slgp) | 2:37 | 2026-09-18 |  |
+| [Rave With Me](https://open.spotify.com/track/5FRuk6UwvVHyWI3GRmU6YI) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Rave With Me](https://open.spotify.com/album/6A1AX2uT65Jpf4rMgBD8xe) | 2:48 | 2026-10-23 |  |
 | [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 | 2023-09-22 | 2023-10-17 |
 | [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-04-17 | 2026-09-22 |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-08-11 | 2024-02-03 |
 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 | 2024-08-09 | 2024-11-19 |
-| [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 | 2023-11-03 |  |
+| [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 | 2023-11-03 | 2026-10-24 |
 | [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 | 2025-02-21 | 2025-03-15 |
 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 | 2023-08-11 | 2025-08-04 |
 | [Rewind](https://open.spotify.com/track/7qrj7lRzVLTMPLUt4ge274) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Rewind](https://open.spotify.com/album/2X63qmnbwC2KTbSy4YMMHD) | 2:59 | 2026-02-13 | 2026-07-25 |

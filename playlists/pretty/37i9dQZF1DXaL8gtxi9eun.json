@@ -1,13 +1,29 @@
 {
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0641\u0631\u064a\u062f",
-  "num_followers": 284120,
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062f\u0646\u064a\u0627 \u0633\u0645\u064a\u0631 \u063a\u0627\u0646\u0645",
+  "num_followers": 284181,
   "original_name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHuJ9joSbnikpcBMt+edbsNdbOX",
+  "snapshot_id": "AAAAADXqlHslvS3ESyMu+VlTPzzKRswn",
   "tracks": [
+    {
+      "added_at": "2026-10-23 15:00:35",
+      "album": {
+        "name": "El Dalal",
+        "url": "https://open.spotify.com/album/2WXqD71Hhh0SblTYSwGyt0"
+      },
+      "artists": [
+        {
+          "name": "Donia Samir Ghanem",
+          "url": "https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB"
+        }
+      ],
+      "duration_ms": 188672,
+      "name": "El Dalal",
+      "url": "https://open.spotify.com/track/2DiPzkPTlYGYg1RmCP4IpQ"
+    },
     {
       "added_at": "2026-10-22 16:42:05",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 195888,
       "name": "\u0627\u0644\u0639\u064a\u0644\u0647",
       "url": "https://open.spotify.com/track/2U1l0QOBJJuxlywhWsrPJL"
-    },
-    {
-      "added_at": "2026-10-15 21:46:26",
-      "album": {
-        "name": "Allah Y3enny",
-        "url": "https://open.spotify.com/album/06B3Y6sQVzjFcy7Iceq7AZ"
-      },
-      "artists": [
-        {
-          "name": "Donia Samir Ghanem",
-          "url": "https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Allah Y3enny - From El Dalal Album",
-      "url": "https://open.spotify.com/track/4HqpRpef7v9OhkTAg7ybeF"
     },
     {
       "added_at": "2026-10-22 16:42:05",
@@ -255,6 +255,22 @@
       "duration_ms": 199800,
       "name": "Ma3lesh",
       "url": "https://open.spotify.com/track/3NzuA36lOlTLFRzPcWKZZS"
+    },
+    {
+      "added_at": "2026-10-15 21:46:26",
+      "album": {
+        "name": "Allah Y3enny",
+        "url": "https://open.spotify.com/album/06B3Y6sQVzjFcy7Iceq7AZ"
+      },
+      "artists": [
+        {
+          "name": "Donia Samir Ghanem",
+          "url": "https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Allah Y3enny - From El Dalal Album",
+      "url": "https://open.spotify.com/track/4HqpRpef7v9OhkTAg7ybeF"
     },
     {
       "added_at": "2026-10-09 14:22:27",

@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Bad at Goodbyes",
+        "url": "https://open.spotify.com/album/1ETwFcDJbYKBWExO85GYTJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174554,
+      "name": "Bad at Goodbyes",
+      "url": "https://open.spotify.com/track/3SHM2RkG2IzMiU57KHuMQC"
+    },
+    {
+      "album": {
         "name": "bad friend",
         "url": "https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu"
       },

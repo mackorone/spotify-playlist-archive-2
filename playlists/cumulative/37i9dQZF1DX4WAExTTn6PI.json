@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Margo Cilker",
+  "description": "Rising voices, enduring roots. Cover: Caroline Marie Brooks",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 156669,
       "name": "Coquihalla",
       "url": "https://open.spotify.com/track/5EdwMMjdUXyIe6K8oCJzrw"
@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Dead Little Thing",
+        "url": "https://open.spotify.com/album/5vNl2pNQBKNbRlaalpT67D"
+      },
+      "artists": [
+        {
+          "name": "Redd & The Paper Flowers",
+          "url": "https://open.spotify.com/artist/2bnXixwpVfopSYPLkujWO3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199083,
+      "name": "Dead Little Cabin",
+      "url": "https://open.spotify.com/track/4vq2dSsz1zM2OQjtWvlWBu"
+    },
+    {
+      "album": {
         "name": "Deland",
         "url": "https://open.spotify.com/album/36Z8WCFXTiZi0W7P4NSXiK"
       },
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 248148,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
@@ -2778,6 +2796,24 @@
       "duration_ms": 189735,
       "name": "Got A Heart Like Rainwater Blues",
       "url": "https://open.spotify.com/track/1SGViBicYWKFWnbChISUeq"
+    },
+    {
+      "album": {
+        "name": "Grandpa Clocks and Gravestones",
+        "url": "https://open.spotify.com/album/0ZdEteNZ9TcnJhh9uGnOhD"
+      },
+      "artists": [
+        {
+          "name": "Dasher The Band",
+          "url": "https://open.spotify.com/artist/5IEGhfMgzofovjCJq9jalr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248498,
+      "name": "Grandpa Clocks and Gravestones",
+      "url": "https://open.spotify.com/track/53Cq9EfHYLT8JjZuiqm7p2"
     },
     {
       "album": {
@@ -4634,7 +4670,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 201099,
       "name": "Love of the Song",
       "url": "https://open.spotify.com/track/0Tzk8dfVz0O5vdFzqUw8md"
@@ -4670,7 +4706,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 205320,
       "name": "Low",
       "url": "https://open.spotify.com/track/4qKwdtvtfuqCU9Pgveh79C"
@@ -5171,6 +5207,24 @@
     },
     {
       "album": {
+        "name": "Mr. Moon",
+        "url": "https://open.spotify.com/album/6GgRgw2GBneXO2vEpQwQ0H"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242756,
+      "name": "Mr. Moon",
+      "url": "https://open.spotify.com/track/6K6IpSfrfgGkPZIbwEd8OO"
+    },
+    {
+      "album": {
         "name": "Never Be Another You",
         "url": "https://open.spotify.com/album/7ABeZH6hlS5VXmRgakp1ys"
       },
@@ -5640,7 +5694,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 170428,
       "name": "Out In The Country",
       "url": "https://open.spotify.com/track/4nbR39RIcs1eunYDNO5yC4"
@@ -6124,6 +6178,24 @@
       "duration_ms": 215249,
       "name": "Reds",
       "url": "https://open.spotify.com/track/2LKf1r9pY8BhAOa9cRiLxG"
+    },
+    {
+      "album": {
+        "name": "Light and Matter",
+        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
+      },
+      "artists": [
+        {
+          "name": "Caroline Marie Brooks",
+          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198588,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/51ViDB6bUbnRJplPyLGowf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Hank
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,637 likes - 99 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,606 likes - 99 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 21 | [GAUNA SPORT](https://open.spotify.com/track/0HqFIHt5xSHaThDQnQ18sP) | [PAPKE](https://open.spotify.com/artist/2MrPCoNGJoi0LlO2FKWASe) | [GAUNA SPORT](https://open.spotify.com/album/0ByzZHSyBApl0XfKtUKf7N) | 2:24 |
 | 22 | [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 |
 | 23 | [vielleicht wär's besser](https://open.spotify.com/track/5ocfJbyBKgnZfSJK2paPcp) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [vielleicht wär's besser](https://open.spotify.com/album/1hft4mSFUjCvgNuAfIuoMe) | 2:27 |
-| 24 | [Track 8](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 0:00 |
+| 24 | [Gutmensch](https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren](https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK) | 2:24 |
 | 25 | [Kein Kind von Traurigkeit](https://open.spotify.com/track/1CW7JRNSMvXREclAbROBUJ) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Kein Kind von Traurigkeit](https://open.spotify.com/album/2SL8UcT1wiJjs8OvslW13D) | 2:17 |
 | 26 | [Wann hört das auf?](https://open.spotify.com/track/4zd6hJV71lwqZEtAlC54nq) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Wann hört das auf?](https://open.spotify.com/album/2iDVZehd5h3O75bSQ9yijt) | 2:23 |
 | 27 | [dynamite](https://open.spotify.com/track/3nVrNnbOLSdREwlGDhSmQQ) | [franz1](https://open.spotify.com/artist/0puAw4gZrgsGHsRUfcC4kp) | [dynamite](https://open.spotify.com/album/0zPc8uqnsyGAkFdUgvr3PK) | 1:57 |

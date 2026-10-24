@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAD9czckz0tzB7IdqNichc/1",
+  "snapshot_id": "atgAgAAAAADX2pOBADlvw7zxUlNXV9dL",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 265312,
-      "name": "Noon Liquid Ore",
-      "url": "https://open.spotify.com/track/2sK1sarOc5DVoVL5k9eXpi"
+      "duration_ms": 251851,
+      "name": "Weather Melody",
+      "url": "https://open.spotify.com/track/1t0n85KzvJofpC76xnmdjM"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silken Pt. 2.1",
-        "url": "https://open.spotify.com/album/2M4guG3tSS7txcqjx8oiHT"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Silken Pt. 2.1",
-      "url": "https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Vision",
         "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
       },
@@ -107,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silken Pt. 2.1",
+        "url": "https://open.spotify.com/album/2M4guG3tSS7txcqjx8oiHT"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Silken Pt. 2.1",
+      "url": "https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cyano",
         "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
       },
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 251851,
-      "name": "Weather Melody",
-      "url": "https://open.spotify.com/track/1t0n85KzvJofpC76xnmdjM"
+      "duration_ms": 265312,
+      "name": "Noon Liquid Ore",
+      "url": "https://open.spotify.com/track/2sK1sarOc5DVoVL5k9eXpi"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchtheplants Presents: Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Flew",
-      "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Vision",
         "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 221080,
       "name": "Piano 2 (Mount Vision)",
       "url": "https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touchtheplants Presents: Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Flew",
+      "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Vision",
         "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cyano",
         "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
       },
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 135679,
-      "name": "Transfiguring",
-      "url": "https://open.spotify.com/track/6D4cs6khQHUuGsisLYJIFT"
+      "duration_ms": 219426,
+      "name": "Lava Surrounds",
+      "url": "https://open.spotify.com/track/1LnXxzrN008lulaQTyBvBB"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Star Gazing",
-      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Vision",
         "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Star Gazing",
+      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cyano",
         "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
       },
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Lava Surrounds",
-      "url": "https://open.spotify.com/track/1LnXxzrN008lulaQTyBvBB"
+      "duration_ms": 143881,
+      "name": "Harmony in Your Hands",
+      "url": "https://open.spotify.com/track/3nLubqcwcvP54KkjAven8Y"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 143881,
-      "name": "Harmony in Your Hands",
-      "url": "https://open.spotify.com/track/3nLubqcwcvP54KkjAven8Y"
+      "duration_ms": 135679,
+      "name": "Transfiguring",
+      "url": "https://open.spotify.com/track/6D4cs6khQHUuGsisLYJIFT"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Billyrrom
 
-1,736 songs - 4 day 16 hr 54 min
+1,737 songs - 4 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [17 \(until the day I die\)](https://open.spotify.com/track/3wtd7yHCfguOUw29er37ai) | [BIGMAMA](https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k) | [Tokyo Emotional Gakuen](https://open.spotify.com/album/2hdZVSnRHEe58scxlLK4JS) | 4:25 | 2023-10-24 | 2023-11-01 |
 | [1985](https://open.spotify.com/track/0enOrXRrfvuOZPWtCTjRHW) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [1985](https://open.spotify.com/album/4FkVzYd8PVAGo5ylgoWSTM) | 3:20 | 2025-05-28 | 2025-06-25 |
 | [1994](https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [1994](https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM) | 3:31 | 2022-08-04 | 2023-04-12 |
+| [23、24](https://open.spotify.com/track/16ZpTIJDsmgSPShV7Wbjjv) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [23、24](https://open.spotify.com/album/0OknEujBcguIUFvfj3m5HZ) | 3:58 | 2026-10-20 |  |
 | [24030番地に回覧板を回せ](https://open.spotify.com/track/2HLBlrjoXrYOvA4oWrcTPW) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [24030番地に回覧板を回せ](https://open.spotify.com/album/6PsYIDULBBHLQ7naBNQsaF) | 2:13 | 2024-01-23 | 2024-01-31 |
 | [246](https://open.spotify.com/track/1dfVdOypzMENs6qfO6PAz2) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [246](https://open.spotify.com/album/0sx339sZvTVQjdDWJsGGQV) | 4:01 | 2023-05-23 | 2023-07-05 |
 | [260525\_samurai](https://open.spotify.com/track/2L2Ej5xD3TXRSYsaqrAlCw) | [tricotX](https://open.spotify.com/artist/5cuVCtm7KY1uBGahhiGy5X) | [260525\_samurai](https://open.spotify.com/album/3SiotiPZpHQ54kdBfNwV64) | 4:44 | 2026-05-26 | 2026-06-03 |
@@ -816,7 +817,7 @@
 | [Ska Fandango!](https://open.spotify.com/track/6mqLEDj098UYHbpc87WaI8) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:35 | 2024-10-22 | 2024-12-04 |
 | [SKILLAWAKE](https://open.spotify.com/track/1fycgoG1JYggpd8Kr6le4c) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [SKILLAWAKE](https://open.spotify.com/album/4pYctGdMDsCT71ODKGNUQH) | 3:51 | 2024-12-17 | 2024-12-25 |
 | [Skull Skater](https://open.spotify.com/track/3g5K6bWk8PsAp0pNMi5fBo) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Skull Skater](https://open.spotify.com/album/2DHaOoIyFkzuscp2eE4YLA) | 2:39 | 2026-04-21 | 2026-05-20 |
-| [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-12 | 2026-09-30 |
+| [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-12 |  |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 | 2023-06-22 |
 | [Slow Dance](https://open.spotify.com/track/1j8b2kx4h4JIpSw600rxeQ) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [Slow Dance](https://open.spotify.com/album/027kJFq2aEKN1y53MFq1LZ) | 4:23 | 2022-05-19 | 2022-07-27 |
 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 | 2024-11-13 | 2025-01-08 |
@@ -1257,7 +1258,7 @@
 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 | 2022-05-12 | 2022-07-29 |
 | [サヨナラのかわりに](https://open.spotify.com/track/47ANLBqVT2p1X2mvylKg0o) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ), [Gackt](https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN) | [サヨナラのかわりに](https://open.spotify.com/album/29CTU8qJbIFZSIxFf9cQNC) | 3:48 | 2024-02-06 | 2024-02-28 |
 | [サヨナラの瞬間](https://open.spotify.com/track/5QbQyTQ9cB9wT2NZnoipYY) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1r4OmtQDqbrWo5llPSIWue) | 4:27 | 2022-05-12 | 2022-07-12 |
-| [サンダーボルト](https://open.spotify.com/track/3xwcoxhjy2vg1O1bb4IQ1m) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [サンダーボルト](https://open.spotify.com/album/1iShXaXcWgFIuCEYn4gqyD) | 3:46 | 2026-07-21 |  |
+| [サンダーボルト](https://open.spotify.com/track/3xwcoxhjy2vg1O1bb4IQ1m) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [サンダーボルト](https://open.spotify.com/album/1iShXaXcWgFIuCEYn4gqyD) | 3:46 | 2026-07-21 | 2026-10-24 |
 | [ザ・リローデッド](https://open.spotify.com/track/5GHGU5j6hr9JFa266GXy2y) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [ザ・リローデッド](https://open.spotify.com/album/0ZRf8JbIreNGzyMCaAXjmL) | 3:32 | 2024-01-30 | 2024-02-07 |
 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 | 2025-01-21 | 2025-08-06 |
 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 | 2023-06-27 |  |
@@ -1553,7 +1554,7 @@
 | [最大公約数](https://open.spotify.com/track/5oA6WuNqODuCtRF3YCSoka) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最大公約数](https://open.spotify.com/album/3ALe5XivCiHvzJ9mST3bMS) | 4:35 | 2025-11-18 | 2026-03-11 |
 | [最後に残るもの](https://open.spotify.com/track/4UI79sU0p8oGRn7dFmJCx5) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [最後に残るもの](https://open.spotify.com/album/3AlcLDqtqCBD3tb6b7vtoU) | 4:00 | 2023-09-19 | 2023-09-21 |
 | [最愛の生業](https://open.spotify.com/track/3xlbszPcHsXytFjtRSealV) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [歌者 \-utamono\-](https://open.spotify.com/album/5vZMvqi85kt7qJApwc4saD) | 4:19 | 2022-05-24 | 2022-07-23 |
-| [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 | 2022-05-10 |  |
+| [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 | 2022-05-10 | 2026-10-24 |
 | [月夜の道を俺が行く](https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 3:17 | 2023-02-14 | 2023-05-10 |
 | [月夜の道を俺が行く](https://open.spotify.com/track/7CzvL2K8cT0Assin7SNXIK) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [月夜の道を俺が行く](https://open.spotify.com/album/23mo1RCmn9x6MuNSNibnxR) | 3:17 | 2023-02-07 | 2023-02-16 |
 | [月見草](https://open.spotify.com/track/2r9pdXhX8ii5tN18RceY2E) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 3:54 | 2024-02-27 | 2024-03-06 |

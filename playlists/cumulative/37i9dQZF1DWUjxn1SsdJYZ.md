@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Kerser
 
-1,704 songs - 3 day 7 hr 20 min
+1,704 songs - 3 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [AINT SAFE](https://open.spotify.com/track/5V4XZuIHuyhvBXIS6JxPVE) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [AINT SAFE](https://open.spotify.com/album/7Ba68E91EnGx9bvOCGSn43) | 2:29 | 2024-09-19 | 2024-11-29 |
 | [Airbnb](https://open.spotify.com/track/1o7yR968UVG8jSNCUA7nLk) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Kayem2x](https://open.spotify.com/artist/0qo7gqk9EnojsHT1K8tQ1h), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Airbnb](https://open.spotify.com/album/7syVob47SrtleL33SoH0MF) | 2:14 | 2024-03-07 | 2024-06-21 |
 | [AKL Girls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKL Girls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 | 2024-09-26 | 2024-12-20 |
+| [Alarm](https://open.spotify.com/track/2NVGfu0uZEd2yVUQGXnIGx) | [Urthboy](https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ), [Emmy Mack](https://open.spotify.com/artist/1SSw312Ww6IHELkKnbHFaP) | [Reckless Bloom](https://open.spotify.com/album/7eEzXDxA15UpA3DEPv2oUA) | 3:02 | 2026-10-22 |  |
 | [All blacks](https://open.spotify.com/track/5JFcLuLudbi3uUyhQM1g3l) | [Keil](https://open.spotify.com/artist/4paJzGOxXKd8EqCzVEto6O) | [All blacks](https://open.spotify.com/album/2QFJDgJacmcYDMhiSHI5KR) | 2:38 | 2025-05-08 | 2025-06-20 |
 | [All Good](https://open.spotify.com/track/2xi8fPr6hzHRJhZr1CCAAh) | [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [All Good](https://open.spotify.com/album/0VV0blZFLGT5LoOJ0dByDt) | 2:47 | 2025-03-13 | 2025-06-03 |
 | [All I wanna do is rock](https://open.spotify.com/track/3xiBfWvxwxCnoS8YkJWq1W) | [purge!](https://open.spotify.com/artist/1yKDYVR1m5ms7cFktWcoxc), [TH3 KXD](https://open.spotify.com/artist/5KjxDm3rAhy7nSkSKyv0LQ) | [All I wanna do is rock](https://open.spotify.com/album/2cdQKOiFM9gxo6Ud2HdXZH) | 2:32 | 2024-08-30 | 2024-10-11 |
@@ -1518,7 +1519,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 2](https://open.spotify.com/track/2NVGfu0uZEd2yVUQGXnIGx) | [Urthboy](https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ) | [Reckless Bloom](https://open.spotify.com/album/7eEzXDxA15UpA3DEPv2oUA) | 0:00 | 2026-10-22 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

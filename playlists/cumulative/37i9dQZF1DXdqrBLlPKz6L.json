@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 189473,
       "name": "Nitiwey",
       "url": "https://open.spotify.com/track/6nz9wJiuRIIydZYLCbfs7h"
@@ -3032,6 +3032,28 @@
       "duration_ms": 189033,
       "name": "Putero",
       "url": "https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5"
+    },
+    {
+      "album": {
+        "name": "Putonga",
+        "url": "https://open.spotify.com/album/2vhhE7dMbE99ULU0Z0cVeQ"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Putonga",
+      "url": "https://open.spotify.com/track/5JZRfRSLUyB76p6Bt8wwu1"
     },
     {
       "album": {

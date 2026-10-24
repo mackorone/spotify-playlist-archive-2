@@ -1,13 +1,45 @@
 {
-  "description": "kun det nyeste danske rap \u00f8verst \ud83d\udc40  Artigeardit p\u00e5 cover!!",
-  "num_followers": 186372,
+  "description": "kun det nyeste danske rap \u00f8verst \ud83d\udc40  Belly p\u00e5 cover!!",
+  "num_followers": 186361,
   "original_name": "ny rap dk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAONoqqOhnMEnvjG+KOGBzrmxLTOi",
+  "snapshot_id": "AAAAAAFL4z+k8fnSglEw2GkcZ3SZYWc1",
   "tracks": [
+    {
+      "added_at": "2026-10-15 22:02:07",
+      "album": {
+        "name": "Barn Af Byen",
+        "url": "https://open.spotify.com/album/5i3OXuxnvjtGocI746TZQA"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9"
+        }
+      ],
+      "duration_ms": 142473,
+      "name": "Barn Af Byen",
+      "url": "https://open.spotify.com/track/1S0AAzLHoTTPIKjWCghWkB"
+    },
+    {
+      "added_at": "2026-10-15 22:02:07",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 153641,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks"
+    },
     {
       "added_at": "2026-10-15 22:02:07",
       "album": {
@@ -31,18 +63,18 @@
     {
       "added_at": "2026-10-15 22:02:07",
       "album": {
-        "name": "Barn Af Byen",
-        "url": "https://open.spotify.com/album/5i3OXuxnvjtGocI746TZQA"
+        "name": "WAYTA?",
+        "url": "https://open.spotify.com/album/225eVssASgjupEqe3yNPYj"
       },
       "artists": [
         {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9"
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         }
       ],
-      "duration_ms": 142473,
-      "name": "Barn Af Byen",
-      "url": "https://open.spotify.com/track/1S0AAzLHoTTPIKjWCghWkB"
+      "duration_ms": 170052,
+      "name": "WAYTA?",
+      "url": "https://open.spotify.com/track/6kDf3Q7ILt0VQwR7uusf3g"
     },
     {
       "added_at": "2026-10-15 22:02:07",
@@ -123,38 +155,6 @@
       "duration_ms": 161142,
       "name": "Reserveret",
       "url": "https://open.spotify.com/track/0fkB0JqfHEQcmi9ImNFYcr"
-    },
-    {
-      "added_at": "2026-10-15 22:02:07",
-      "album": {
-        "name": "WAYTA?",
-        "url": "https://open.spotify.com/album/225eVssASgjupEqe3yNPYj"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 170052,
-      "name": "WAYTA?",
-      "url": "https://open.spotify.com/track/6kDf3Q7ILt0VQwR7uusf3g"
-    },
-    {
-      "added_at": "2026-10-15 22:02:07",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 153641,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks"
     },
     {
       "added_at": "2026-10-15 22:02:07",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
+      "added_at": "2026-10-23 08:50:14",
+      "album": {
+        "name": "Utaknemmelig",
+        "url": "https://open.spotify.com/album/7yYV30IEDq2RGwfgtBpws4"
+      },
+      "artists": [
+        {
+          "name": "Altid.Marcus",
+          "url": "https://open.spotify.com/artist/5LjjyYZXu49pFYb8uib12B"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "Utaknemmelig",
+      "url": "https://open.spotify.com/track/48Mi8ghTU0cJUexL9Vrpsp"
+    },
+    {
       "added_at": "2026-10-15 22:02:07",
       "album": {
         "name": "Jordsk\u00e6lv",
@@ -1103,6 +1119,22 @@
       "duration_ms": 153472,
       "name": "12 Dage",
       "url": "https://open.spotify.com/track/4SFx0z3e0MHU5RL6aA26SS"
+    },
+    {
+      "added_at": "2026-10-23 08:50:14",
+      "album": {
+        "name": "Tiden var ik' med os",
+        "url": "https://open.spotify.com/album/6qVA1OJOFrdhKNu8msxaRI"
+      },
+      "artists": [
+        {
+          "name": "Eezy",
+          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
+        }
+      ],
+      "duration_ms": 160444,
+      "name": "Tiden var ik' med os",
+      "url": "https://open.spotify.com/track/7ticct158HlKUVSfiZdveG"
     },
     {
       "added_at": "2026-10-15 22:02:07",

@@ -4,7 +4,7 @@
 
 > Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium\. Cover: Ms\. Rachel & Mr\. Aron
 
-41 songs - 1 hr 49 min
+42 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,5 +49,6 @@
 | [Wheels on the Bus](https://open.spotify.com/track/0oWkON7g41NVb5gmZpD2p2) | [Nursery Rhymes ABC](https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum) | [Nursery Rhymes : The World's Best](https://open.spotify.com/album/5fCSEG9XtiPtRy28YTXq8k) | 2:22 | 2026-05-22 |  |
 | [When the Band Comes Marching In](https://open.spotify.com/track/3WeBc31M5VEJk8IAFEH9vG) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [When the Band Comes Marching In](https://open.spotify.com/album/6UNVnsrzvj5ggQ5jkga8Az) | 3:16 | 2026-07-17 |  |
 | [Working Out at the Zoo](https://open.spotify.com/track/2YZFI6nXasmLNqGjHtQg4K) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Working Out at the Zoo](https://open.spotify.com/album/0Y2zDFFVrkSU9I5yFM82wz) | 3:34 | 2026-05-22 |  |
+| [Yakety Yak \- Koover](https://open.spotify.com/track/0YHWOCBqmODdD5EUDMMIZB) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Koovers](https://open.spotify.com/album/5IDAqXTWA40NCmAUMWWjIH) | 1:55 | 2026-10-23 |  |
 
 \*This playlist was first scraped on 2026-05-24. Prior content cannot be recovered.

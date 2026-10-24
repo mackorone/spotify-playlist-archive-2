@@ -1,12 +1,12 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: AK 4:20 & Benja Valencia",
-  "num_followers": 552293,
+  "num_followers": 552283,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDQd8lEWg3URAtW4jWz5JA8gjIr",
+  "snapshot_id": "AAAAALC0C3KAhuQSfmTnKgV/hOIX5VW0",
   "tracks": [
     {
       "added_at": "2026-10-09 20:09:15",
@@ -199,6 +199,22 @@
       "duration_ms": 120835,
       "name": "Corte Estelar",
       "url": "https://open.spotify.com/track/2iUq7EBaMQuKvAsClyivea"
+    },
+    {
+      "added_at": "2026-10-23 21:27:11",
+      "album": {
+        "name": "RAPIDO LENTO",
+        "url": "https://open.spotify.com/album/7IGQZw73KKXpQjiEquDfCl"
+      },
+      "artists": [
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        }
+      ],
+      "duration_ms": 110028,
+      "name": "RAPIDO LENTO",
+      "url": "https://open.spotify.com/track/5CXZNnfzWvly5JKuNn80th"
     },
     {
       "added_at": "2026-10-09 20:09:15",
@@ -2111,34 +2127,6 @@
       "duration_ms": 175841,
       "name": "Va a querer volver",
       "url": "https://open.spotify.com/track/7vMaIFvCS8p4H8SnwJ9zcy"
-    },
-    {
-      "added_at": "2026-10-09 20:09:15",
-      "album": {
-        "name": "ELLA SABE QUE",
-        "url": "https://open.spotify.com/album/2S4V7GNB6ltu7ENMt4yLri"
-      },
-      "artists": [
-        {
-          "name": "Charlie Sky",
-          "url": "https://open.spotify.com/artist/2It1tcIjbPCtsFBWDvbaOQ"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Audigier",
-          "url": "https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 167300,
-      "name": "ELLA SABE QUE",
-      "url": "https://open.spotify.com/track/1uKYfFBfakR2mVdCmdcZIF"
     },
     {
       "added_at": "2026-10-09 20:09:15",

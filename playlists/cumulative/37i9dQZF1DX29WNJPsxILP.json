@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Karma",
+  "description": "Best of Hindi Hip-Hop! Cover: King",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 187972,
       "name": "10 Pe 10",
       "url": "https://open.spotify.com/track/7AMHv3AWy7xy9MHya4KPMg"
+    },
+    {
+      "album": {
+        "name": "MAD DAWG 101",
+        "url": "https://open.spotify.com/album/5iIRi4pgNo1MwQSSO1rM6H"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "101",
+      "url": "https://open.spotify.com/track/47TOcXCzgTPkbAkSZv0BCl"
     },
     {
       "album": {
@@ -858,7 +880,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 158095,
       "name": "Banger",
       "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
@@ -1556,7 +1578,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 205262,
       "name": "Choozay (From \"Udta Teer\")",
       "url": "https://open.spotify.com/track/01rADlnzHr3ezpa225Glpa"
@@ -2376,6 +2398,32 @@
       "duration_ms": 217303,
       "name": "EK DIN",
       "url": "https://open.spotify.com/track/2QxnDNmp8lXV4hmBzmeBXS"
+    },
+    {
+      "album": {
+        "name": "SO LOST, SO FOUND.",
+        "url": "https://open.spotify.com/album/0y8x3HHth0QKiyu9sKE9j3"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Nishant Mukta",
+          "url": "https://open.spotify.com/artist/6waxuGnORMzEklX62CvfK0"
+        },
+        {
+          "name": "Zero Chill",
+          "url": "https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5Jix5KoggsRZQWn3WEvwRY"
     },
     {
       "album": {
@@ -5348,7 +5396,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 178653,
       "name": "NMC Ka Dagga (with Prathamesh)",
       "url": "https://open.spotify.com/track/51pdqv6Vhk8WWqRZzMAuid"
@@ -7472,6 +7520,24 @@
       "duration_ms": 181875,
       "name": "Top Off",
       "url": "https://open.spotify.com/track/2xDEnSLBxi2CRq2SlA17g6"
+    },
+    {
+      "album": {
+        "name": "TRAP AIBA",
+        "url": "https://open.spotify.com/album/7d8u9HaCNQ7gDUmPbECgJV"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "TRAP AIBA",
+      "url": "https://open.spotify.com/track/0xwj1ovWDALRPpGLMgPSNe"
     },
     {
       "album": {

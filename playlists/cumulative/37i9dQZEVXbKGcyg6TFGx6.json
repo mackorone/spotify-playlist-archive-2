@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "L'undertaker",
+        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140026,
+      "name": "4",
+      "url": "https://open.spotify.com/track/2IEzETw6a4UmDVw0j0hjJt"
+    },
+    {
+      "album": {
         "name": "Ecchymose",
         "url": "https://open.spotify.com/album/2UClN8zjg7wc2nm0tXk3wF"
       },
@@ -4746,7 +4764,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 164307,
       "name": "Argent Sale - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
@@ -7568,7 +7586,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -8434,7 +8452,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -37114,7 +37132,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -41794,7 +41812,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM"
@@ -42810,10 +42828,6 @@
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
         },
         {
           "name": "Ultra Nat\u00e9",
@@ -67046,7 +67060,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 219864,
       "name": "UNETHICAL",
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
@@ -68394,7 +68408,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 117691,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/1OwIgOyy1hJuQ6ZSMpg2MU"

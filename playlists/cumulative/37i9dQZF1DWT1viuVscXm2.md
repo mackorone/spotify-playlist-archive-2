@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-461 songs - 1 day 1 hr 57 min
+462 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,13 +262,14 @@
 | [MUJER AMANTE \- EN VIVO](https://open.spotify.com/track/1XzUY9aco17aTdmRQbAGEI) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [PRELUDIOS](https://open.spotify.com/album/7kjzbOlnjb3SWqmXDtfNHc) | 2:55 | 2025-07-18 | 2025-08-30 |
 | [Muévelo](https://open.spotify.com/track/4iDpokLRXugfbVx67AxDTt) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Muévelo](https://open.spotify.com/album/5b6fWqeIS6JaibtOnRdpOf) | 2:31 | 2025-10-10 |  |
 | [MYA LIVE P5: Si Tú La Ves](https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [MYA LIVE P5: Si Tú La Ves](https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF) | 3:10 | 2024-01-26 | 2024-04-13 |
+| [Más De Nuestro Amor](https://open.spotify.com/track/17YP7FzUXXQQEjdXEzhK2i) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Más De Nuestro Amor](https://open.spotify.com/album/3ta8nv3nxqHXtqpiT5ryhg) | 3:01 | 2026-10-23 |  |
 | [Necesito](https://open.spotify.com/track/2gsYr7u3RcoYd4kUDXKmQd) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [AMOR FUGAZ](https://open.spotify.com/album/5pvGimlCebJeLTwOxjHEXR) | 2:40 | 2024-10-18 | 2025-05-03 |
 | [Negra Caderona](https://open.spotify.com/track/0qSmxnzk8yAONBAiuNppJu) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Negra Caderona](https://open.spotify.com/album/6eKerB5MySf2QISRA5AYJy) | 4:08 | 2022-08-05 | 2023-04-12 |
 | [Negra Caderona](https://open.spotify.com/track/6DbGZDK2NIFgCVIhEX314V) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Negra Caderona](https://open.spotify.com/album/0t7WacPMBblH6j3wJBDpoC) | 3:53 | 2025-06-27 |  |
 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2021-12-24 | 2023-09-27 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2021-12-24 | 2026-04-18 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-10 | 2024-04-19 |
-| [No Me Esperes](https://open.spotify.com/track/68oqPnDpLb67m7cuXr4tw1) | [Angela](https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla) | [No Me Esperes](https://open.spotify.com/album/4tZWyzMk5lfGMcIcvRpO3M) | 2:18 | 2026-09-25 |  |
+| [No Me Esperes](https://open.spotify.com/track/68oqPnDpLb67m7cuXr4tw1) | [Angela](https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla) | [No Me Esperes](https://open.spotify.com/album/4tZWyzMk5lfGMcIcvRpO3M) | 2:18 | 2026-09-25 | 2026-10-24 |
 | [No me llames más](https://open.spotify.com/track/1P6GdZP0fBY4CRoYXG3r7b) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [No me llames más](https://open.spotify.com/album/1sj3t4g3wAxDe0dNWHqwyZ) | 3:16 | 2024-03-29 | 2024-05-11 |
 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
 | [No Me Pidas Perdón](https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [No Me Pidas Perdón](https://open.spotify.com/album/7ieJgZqr704fyywAVRUYQX) | 2:16 | 2026-05-08 | 2026-09-19 |

@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-807 songs - 1 day 10 hr 32 min
+811 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [In A Darkened Room](https://open.spotify.com/track/0iVMAdJchuoG3DqPBu1450) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [In A Darkened Room](https://open.spotify.com/album/30jOl0PWPzrFJrYnIFC1QC) | 2:18 | 2024-03-19 | 2025-05-31 |
 | [In Case](https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [In Case](https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5) | 2:46 | 2024-05-22 | 2026-07-25 |
 | [In Green](https://open.spotify.com/track/65X0IiKlzsco1zlM18opk6) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [In Green](https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE) | 2:34 | 2025-04-23 |  |
+| [In Passing](https://open.spotify.com/track/7LDM3Cc7OXWjeG9TgflyGn) | [Wisteria Forte](https://open.spotify.com/artist/4nmmbn9wBP9XK9QPjTZUvW) | [In Passing](https://open.spotify.com/album/0qjys17O7yhsYvSEnu1FWF) | 2:11 | 2026-10-23 |  |
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2021-12-07 | 2023-01-27 |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2021-12-07 | 2023-01-27 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2021-12-07 | 2025-02-27 |
@@ -440,6 +441,7 @@
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2021-12-07 | 2024-10-02 |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 | 2025-05-14 |
 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2021-12-07 | 2023-12-15 |
+| [Moonlight Image \(Reimagined\)](https://open.spotify.com/track/7Dk26pOdc4uWRdWnmn4gGF) | [Marcel Gara](https://open.spotify.com/artist/4HSuTVTF1uUhvrCdTDlHKM) | [Moonlight Image \(Reimagined\)](https://open.spotify.com/album/7DrsabqxuycaKjjEwBPRzV) | 2:18 | 2026-10-23 |  |
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-02-15 | 2025-05-31 |
 | [Morning Haze](https://open.spotify.com/track/4n2gsOvsJWJHT27FZ1HAHb) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Morning Haze](https://open.spotify.com/album/10Md6ojUxXMNXqJMdqEURy) | 3:38 | 2026-05-08 |  |
 | [Morning Light](https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Morning Light](https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg) | 2:26 | 2025-01-28 |  |
@@ -490,6 +492,7 @@
 | [Ochre](https://open.spotify.com/track/1ok2qdsya4XD3WVu788K8F) | [Rupert Campanello](https://open.spotify.com/artist/73hYWj5hPBY80Q3pkaoQIe) | [Ochre](https://open.spotify.com/album/4vawgQ8IYqsZmoXWitakxq) | 1:54 | 2026-05-08 |  |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2021-12-07 | 2023-05-04 |
 | [On the Bright Side](https://open.spotify.com/track/76LnyzbX3ZKGapQP0MENm8) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [On the Bright Side](https://open.spotify.com/album/6XZnOiB4lD1zTdblZj6hcE) | 2:52 | 2021-12-07 | 2022-07-16 |
+| [On the Way Home](https://open.spotify.com/track/0W9pZAgt10zEfXTdvmkas1) | [Carl Kaleo](https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY) | [On the Way Home](https://open.spotify.com/album/4XpOiBznGCj2cdLJVeKQoE) | 2:13 | 2026-10-23 |  |
 | [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 | 2024-05-29 | 2024-10-08 |
 | [Once Again](https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Once Again](https://open.spotify.com/album/62IFuW6FcDIk3sNtsFLBNi) | 3:05 | 2021-12-07 | 2024-04-19 |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-07 | 2022-07-16 |
@@ -509,6 +512,7 @@
 | [Oriental Stillness](https://open.spotify.com/track/2BGImniHULJiPxWF78mHVM) | [Medhi Tate](https://open.spotify.com/artist/5EOHMF3L8Jtte0cid9DWS4) | [Oriental Stillness](https://open.spotify.com/album/2lnUgz7TljNVYPMmg059t6) | 2:39 | 2026-09-18 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 | 2025-04-10 |
 | [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 | 2023-01-26 | 2023-10-19 |
+| [Over Quiet Water](https://open.spotify.com/track/3YiPKS1QLD6Tfnu267SjTv) | [B\. Isidor](https://open.spotify.com/artist/1TlpCopNm1IpA2d8mADVzy) | [Over Quiet Water](https://open.spotify.com/album/2uq2Cn4Bd5fmboZYmvaeYv) | 2:40 | 2026-10-23 |  |
 | [Overseas](https://open.spotify.com/track/0JUMYfwgrUdd5GtAGtQiAu) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Overseas](https://open.spotify.com/album/69fZyItEkoker9n2FNey1x) | 1:51 | 2026-05-22 |  |
 | [Overveje](https://open.spotify.com/track/4tmpm2A85m5c4dp2ix2zs9) | [Val Rumarch](https://open.spotify.com/artist/0QOkoA1DxnobWEUmjtpnbR) | [Overveje](https://open.spotify.com/album/1QvyTJDJmztYg0f1GApwNF) | 2:35 | 2026-05-08 |  |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 | 2025-01-16 |

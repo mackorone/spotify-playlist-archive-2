@@ -1,13 +1,253 @@
 {
   "description": "Lo m\u00e1s fresco de los corridones. El De Las R's, El Rabbanito en portada.",
-  "num_followers": 990966,
+  "num_followers": 991514,
   "original_name": "Corridos 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHGVLQurwThxg/XQhnfoggq3cfU",
+  "snapshot_id": "AAAAADOj1WvDuxbqH42qVX8I4TpSjar8",
   "tracks": [
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Guadalajara",
+        "url": "https://open.spotify.com/album/5NmvMEGyeOi20I1mQqIMYS"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 165056,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/0naz79r8pNmgrLRDSq6osy"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Michoavano",
+        "url": "https://open.spotify.com/album/6CfT5QpS2qvUUYa42jCrMX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Michoacano",
+      "url": "https://open.spotify.com/track/26Gnnmja2qarlVdxFnhYIS"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Los Sue\u00f1os Se Trabajan (Remix)",
+        "url": "https://open.spotify.com/album/17in8yiKQqFs5Sxfm5YFQM"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Los Sue\u00f1os Se Trabajan - Remix",
+      "url": "https://open.spotify.com/track/6IFlg2Il0MLmxjo2LGlskD"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "7 Pecados",
+        "url": "https://open.spotify.com/album/1eOKjir4b6iSQZAzEL25Jh"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "duration_ms": 200607,
+      "name": "7 Pecados",
+      "url": "https://open.spotify.com/track/2vdXE5jP68cO85oX1rVohm"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Se Que Les Arde",
+        "url": "https://open.spotify.com/album/1uDyvi7fARuZtKzRB7nPQG"
+      },
+      "artists": [
+        {
+          "name": "Pablito Osorio",
+          "url": "https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t"
+        }
+      ],
+      "duration_ms": 153729,
+      "name": "Se Que Les Arde",
+      "url": "https://open.spotify.com/track/5fg9eVqwda8b57kmM3gW0q"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Voy Tendido",
+        "url": "https://open.spotify.com/album/5JCpMVgXoHPVKahOFcphLJ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Voy Tendido",
+      "url": "https://open.spotify.com/track/6fT8ZPMd2oaZP3ibFYirkP"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Quejas Y Sugerencias",
+        "url": "https://open.spotify.com/album/2J11LEYWSKdNK8OlaUfa9t"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "duration_ms": 154478,
+      "name": "Quejas Y Sugerencias",
+      "url": "https://open.spotify.com/track/2NgtJKQk8goCQpbpb01a77"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Clase Azul",
+        "url": "https://open.spotify.com/album/3sNkDXbarPTpiupWdh1lgO"
+      },
+      "artists": [
+        {
+          "name": "Alejandrosoy",
+          "url": "https://open.spotify.com/artist/4ZTVKldtGZcSr3pz1sw5ja"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "duration_ms": 152090,
+      "name": "Clase Azul",
+      "url": "https://open.spotify.com/track/6lUri8OjXxKu53RYsWvO8t"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Mi papel de loco",
+        "url": "https://open.spotify.com/album/1K9ELJQGy7GcUGtzduE8UC"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Alfonso Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Mi papel de loco",
+      "url": "https://open.spotify.com/track/3ryLQzToCnyEKZ2UahY3OX"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "CON QU\u00c9",
+        "url": "https://open.spotify.com/album/5PRpSCsPhUuwISVH6HyzQb"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        }
+      ],
+      "duration_ms": 147398,
+      "name": "CON QU\u00c9",
+      "url": "https://open.spotify.com/track/2D6FCDqh7BTdYjVS0knHNT"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "Merino",
+        "url": "https://open.spotify.com/album/1o3si09fqzIbnhJv86igIs"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        }
+      ],
+      "duration_ms": 200096,
+      "name": "Merino",
+      "url": "https://open.spotify.com/track/3Vc3AYEnEtFFIq4V9hJ6sS"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "La Torta",
+        "url": "https://open.spotify.com/album/1tAWBwC7uvNLqw8Uy2yHrM"
+      },
+      "artists": [
+        {
+          "name": "David Bernal",
+          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "La Torta",
+      "url": "https://open.spotify.com/track/2EfGntu7VzVAzFIxyjuSlA"
+    },
+    {
+      "added_at": "2026-10-23 09:34:19",
+      "album": {
+        "name": "EL 24 DE GUAM\u00daCHIL",
+        "url": "https://open.spotify.com/album/1XwMioEwreEpAWopXU3Vui"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 192867,
+      "name": "EL 24 DE GUAM\u00daCHIL",
+      "url": "https://open.spotify.com/track/0urlW7zTR6IGO9gxPzOmWv"
+    },
     {
       "added_at": "2026-10-16 06:00:46",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,658 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,656 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 36 | [The Seeker](https://open.spotify.com/track/4zaTdrLfDQXFwPWgS95oDj) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly: The Seeker \- We Used To](https://open.spotify.com/album/0XsLZoOugHHeNc3WftV1fu) | 3:05 |
 | 37 | [The Bargain Store](https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Bargain Store](https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3) | 2:44 |
 | 38 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
-| 39 | [Marry Me](https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Little Sparrow](https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x) | 3:17 |
-| 40 | [But You Know I Love You](https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 3:19 |
+| 39 | [But You Know I Love You](https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 3:19 |
+| 40 | [Marry Me](https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Little Sparrow](https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x) | 3:17 |
 | 41 | [Lovesick Blues \(with Patsy Cline\)](https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:18 |
 | 42 | [Backwoods Barbie](https://open.spotify.com/track/3v0rPgO3n8nak2RbEw3JEj) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Backwoods Barbie](https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe) | 3:21 |
 | 43 | [Please Please Please \(feat\. Dolly Parton\)](https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [When Someone Wants to Leave](https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:05 |
 | 50 | [Better Get to Livin'](https://open.spotify.com/track/1QG6K2bubjM976fKcZH5ZO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Backwoods Barbie](https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe) | 3:35 |
 
-Snapshot ID: `atavAAAAAADY6VbcOCKuGxiXuYzZKcOr`
+Snapshot ID: `atgAgAAAAAAbUFGIqCGxhT7Fdga1nf9h`

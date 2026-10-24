@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 20536,
+  "num_followers": 20557,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 157779,
+      "name": "G\u00ebt Busy",
+      "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/3bWEONUAlVrGAB4NqQiT2R"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 157779,
-      "name": "G\u00ebt Busy",
-      "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Play God",
+      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Play God",
-      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Robin Hood",
         "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 221538,
       "name": "Robin Hood",
       "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Emily Can't Sing",
-        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "All Is Well",
         "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
       },
@@ -1547,22 +1531,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Blue Tequila",
-        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1o",
-          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Blue Tequila",
-      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
         "url": "https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF"
       },
@@ -1575,6 +1543,38 @@
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/6azvhyagGek75gi0pLyl30"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Emily Can't Sing",
+        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Blue Tequila",
+        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Blue Tequila",
+      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
-        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
-      },
-      "artists": [
-        {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Flight of the Crows",
-      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
       },
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
+        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Flight of the Crows",
+      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Backwards Directions",
         "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
@@ -1707,22 +1707,6 @@
       "duration_ms": 187072,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Tirando Balas",
-        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Tirando Balas",
-      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1751,6 +1735,22 @@
       "duration_ms": 202105,
       "name": "Dhak Dhak",
       "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Tirando Balas",
+        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Tirando Balas",
+      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+        "name": "Songs4u",
+        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
       },
       "artists": [
         {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 174462,
-      "name": "high school boy",
-      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
+      "duration_ms": 206060,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Songs4u",
-        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
         }
       ],
-      "duration_ms": 206060,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "Joga Bonito",
-      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "fishmonger",
         "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 137142,
       "name": "Second hand embarrassment",
       "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Shawty",
-        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Shawty",
-      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
       },
@@ -2167,6 +2151,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Sunday (1994) [Deluxe]",
         "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
       },
@@ -2179,22 +2179,6 @@
       "duration_ms": 270344,
       "name": "Tired Boy",
       "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2307,18 +2291,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
       },
       "artists": [
         {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
         }
       ],
-      "duration_ms": 255711,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2335,6 +2319,22 @@
       "duration_ms": 136419,
       "name": "Space Makes Me Sad",
       "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 255711,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
     },
     {
       "added_at": "2025-05-19 03:00:14",

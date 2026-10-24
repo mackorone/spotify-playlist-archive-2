@@ -2261,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "CRITICAL MASS",
+        "url": "https://open.spotify.com/album/04PAQKuLgWiW0KLF5Vomdx"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Paytra",
+          "url": "https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "CRITICAL MASS",
+      "url": "https://open.spotify.com/track/5ZtbObvp6UlsnJoqFfuKHv"
+    },
+    {
+      "album": {
         "name": "Cry Me A River",
         "url": "https://open.spotify.com/album/1iyL5MD15REXnRbw769U5W"
       },

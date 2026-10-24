@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1748876,
+  "num_followers": 1749135,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 264333,
       "name": "Right Here Waiting",
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
         }
       ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 192066,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
-      },
-      "artists": [
-        {
-          "name": "John Waite",
-          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "New Jersey (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "I'll Be There For You",
-      "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "I Guess That's Why They Call It The Blues",
-      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "True - The Digital E.P.",
         "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "I Guess That's Why They Call It The Blues",
+      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Ice On Fire",
-        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "Ice On Fire",
+        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 318687,
-      "name": "Man in the Mirror - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1035,18 +1019,34 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+      "duration_ms": 318687,
+      "name": "Man in the Mirror - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 327746,
-      "name": "I Wish It Would Rain Down - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 227590,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 327746,
+      "name": "I Wish It Would Rain Down - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 297426,
       "name": "Eyes Without A Face - Remastered 1999",
       "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1307,6 +1291,22 @@
       "duration_ms": 278853,
       "name": "Where Do Broken Hearts Go",
       "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Share Your Love",
-        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Heart Break",
         "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Share Your Love",
+        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 286066,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 267733,
       "name": "Who's Holding Donna Now?",
       "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "I Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1535,22 +1519,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "We've Got Tonight",
-        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 234560,
-      "name": "We've Got Tonight",
-      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+      "duration_ms": 253173,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1567,6 +1547,26 @@
       "duration_ms": 239160,
       "name": "Mr. Telephone Man",
       "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "We've Got Tonight",
+        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "We've Got Tonight",
+      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 346960,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 266533,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 346960,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "All That Jazz",
-        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
-      },
-      "artists": [
-        {
-          "name": "Breathe",
-          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "How Can I Fall ?",
-      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 351920,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "duration_ms": 284360,
+      "name": "How Can I Fall ?",
+      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Truly",
-      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Winner In You",
         "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
       },
@@ -1927,34 +1911,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Emergency (Reissue)",
-        "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 290600,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "I've Never Been To Me",
-        "url": "https://open.spotify.com/album/7rXwVP5P5mfUQUTYYD6Jza"
-      },
-      "artists": [
-        {
-          "name": "Charlene",
-          "url": "https://open.spotify.com/artist/52o9SO5Qt09Vr9bDCbTbmu"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "I've Never Been To Me",
-      "url": "https://open.spotify.com/track/6DMOzL2zPZBAW0LDYCYLWm"
+      "duration_ms": 200506,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1975,18 +1943,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
+        "name": "Emergency (Reissue)",
+        "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 242044,
-      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
-      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
+      "duration_ms": 290600,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/2OY17ER3xSmNXjGsqWzgn7"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2003,6 +1971,38 @@
       "duration_ms": 237013,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/40IHflbrHcOuC8ZcYxUSAC"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 242044,
+      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
+      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "I've Never Been To Me",
+        "url": "https://open.spotify.com/album/7rXwVP5P5mfUQUTYYD6Jza"
+      },
+      "artists": [
+        {
+          "name": "Charlene",
+          "url": "https://open.spotify.com/artist/52o9SO5Qt09Vr9bDCbTbmu"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "I've Never Been To Me",
+      "url": "https://open.spotify.com/track/6DMOzL2zPZBAW0LDYCYLWm"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "I've Been In Love Before",
+      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Temple Of Low Men",
         "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
       },
@@ -2183,18 +2199,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/6RKJu77xXDgTqGWCEmzMll"
       },
       "artists": [
         {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 308133,
-      "name": "I've Been In Love Before",
-      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
+      "duration_ms": 265293,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/79FPdsekcDp7RWK1IzClbr"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2227,22 +2243,6 @@
       "duration_ms": 234706,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/6RKJu77xXDgTqGWCEmzMll"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/79FPdsekcDp7RWK1IzClbr"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2363,22 +2363,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Gideon",
-        "url": "https://open.spotify.com/album/5bxzSTp85ypZnJHFBD3lNb"
+        "name": "Stop!",
+        "url": "https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Sam Brown",
+          "url": "https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5"
         },
         {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+          "name": "Pete Brown",
+          "url": "https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA"
         }
       ],
-      "duration_ms": 222066,
-      "name": "Don't Fall In Love With A Dreamer",
-      "url": "https://open.spotify.com/track/6xSrfSM8IvRPzwbC4VjBcg"
+      "duration_ms": 295906,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2415,22 +2415,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Stop!",
-        "url": "https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ"
+        "name": "Gideon",
+        "url": "https://open.spotify.com/album/5bxzSTp85ypZnJHFBD3lNb"
       },
       "artists": [
         {
-          "name": "Sam Brown",
-          "url": "https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         },
         {
-          "name": "Pete Brown",
-          "url": "https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA"
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
         }
       ],
-      "duration_ms": 295906,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8"
+      "duration_ms": 222066,
+      "name": "Don't Fall In Love With A Dreamer",
+      "url": "https://open.spotify.com/track/6xSrfSM8IvRPzwbC4VjBcg"
     },
     {
       "added_at": "2026-05-04 14:51:52",

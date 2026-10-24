@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Chella",
-  "num_followers": 659912,
+  "num_followers": 659985,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "Back Outside",
         "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 211090,
       "name": "Back Outside",
       "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -191,6 +191,26 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "Still In Charge",
         "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 155441,
       "name": "GTA",
       "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "THAT GIRL!",
-        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 132817,
-      "name": "THAT GIRL!",
-      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "Eja Meja (feat. Asake)",
         "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 158108,
       "name": "Eja Meja (feat. Asake)",
       "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 146490,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Online",
-        "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 172631,
-      "name": "Online",
-      "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+        "name": "Online",
+        "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+      "duration_ms": 172631,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -483,6 +483,46 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Juice & Liquor",
+        "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 177087,
+      "name": "Juice & Liquor",
+      "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "The Game Needs Us",
         "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },
@@ -519,46 +559,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Juice & Liquor",
-        "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 177087,
-      "name": "Juice & Liquor",
-      "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "attention!",
         "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 159757,
       "name": "Money Lingo",
       "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "WHO THIS (feat. BNXN)",
-      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -651,6 +631,42 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "WHO THIS (feat. BNXN)",
+      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -731,30 +731,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 224684,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 224684,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "IS IT LOVE",
         "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 186028,
       "name": "Rock Me Gentle",
       "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Easy Company",
-      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 157388,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Your Body (Crazy)",
         "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 159272,
       "name": "Your Body (Crazy)",
       "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 157388,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "lonely (feat. L.A.X)",
-        "url": "https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
       },
       "artists": [
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 164283,
-      "name": "lonely (feat. L.A.X)",
-      "url": "https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo"
+      "duration_ms": 155094,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
     },
     {
       "added_at": "2026-10-23 00:01:06",

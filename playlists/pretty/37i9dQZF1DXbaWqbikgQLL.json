@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 89064,
+  "num_followers": 89116,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 216106,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 181306,
       "name": "17 A\u00f1os",
       "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 194560,
       "name": "20 Rosas",
       "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Para Qu\u00e9 Llorar",
-        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 196186,
-      "name": "La Cumbia de los Monjes",
-      "url": "https://open.spotify.com/track/35C7JhYFEXS21yxJy6zR4g"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Nunca Te Olvidar\u00e9",
         "url": "https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 205333,
       "name": "Ella Se Olvido De M\u00ed",
       "url": "https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Para Qu\u00e9 Llorar",
+        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 196186,
+      "name": "La Cumbia de los Monjes",
+      "url": "https://open.spotify.com/track/35C7JhYFEXS21yxJy6zR4g"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -627,6 +627,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -719,38 +735,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
-        "name": "Los Caminos De La Vida",
-        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
         "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+        "name": "Los Caminos De La Vida",
+        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+      "duration_ms": 291133,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -815,18 +799,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
       },
       "artists": [
         {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
         }
       ],
-      "duration_ms": 275893,
-      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
-      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -895,18 +879,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+      "duration_ms": 275893,
+      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
+      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -923,6 +907,22 @@
       "duration_ms": 180480,
       "name": "Me Vas A Recordar",
       "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 359226,
       "name": "Nuestro Sue\u00f1o",
       "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 297053,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Para Qu\u00e9 Llorar",
-        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 193013,
-      "name": "La Inconforme",
-      "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
+      "duration_ms": 297053,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1215,6 +1199,22 @@
       "duration_ms": 267416,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Para Qu\u00e9 Llorar",
+        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "La Inconforme",
+      "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Polo Monta\u00f1es",
-          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Un Sue\u00f1o Y Nada Mas",
-      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Grito En Silencio",
         "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
+        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Grupo Polo Monta\u00f1es",
+          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
         }
       ],
-      "duration_ms": 231410,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
+      "duration_ms": 278613,
+      "name": "Un Sue\u00f1o Y Nada Mas",
+      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1359,6 +1343,22 @@
       "duration_ms": 438026,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 231410,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Fantasma El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/58OQyZOmn9v9LteNvknpxl"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 200063,
-      "name": "Quien Te Cantara",
-      "url": "https://open.spotify.com/track/5VNbwfrRBUJfUcwH8nFs1v"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Folklore Tropical",
         "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 283226,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Fantasma El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/58OQyZOmn9v9LteNvknpxl"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 200063,
+      "name": "Quien Te Cantara",
+      "url": "https://open.spotify.com/track/5VNbwfrRBUJfUcwH8nFs1v"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Ahora M\u00e1s Que Nunca",
-        "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 271766,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "\u00c9xitos Fruko",
         "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 297358,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Ahora M\u00e1s Que Nunca",
+        "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 271766,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1"
       },
@@ -2471,18 +2487,18 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
+        "name": "Septimo Sentido",
+        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
       },
       "artists": [
         {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
         }
       ],
-      "duration_ms": 265480,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+      "duration_ms": 312006,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -2499,22 +2515,6 @@
       "duration_ms": 254253,
       "name": "El Baile De San Juan",
       "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
-        "name": "Septimo Sentido",
-        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 312006,
-      "name": "Isi",
-      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
     },
     {
       "added_at": "2026-09-11 06:00:32",

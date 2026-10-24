@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQVKsdpjeA1d.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6RZkiFMODT1nUffw6ABTvz">Dolly Parton</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 523 songs - 1 day 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 523 songs - 1 day 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -532,4 +532,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQVKsdpjeA1d.md) - [plain]
 | 522 | [In A Dream](https://open.spotify.com/track/2YP2cri1LN6kNksasLzKmm) | [Linda Guyman](https://open.spotify.com/artist/2fhDJGbe1SfYy5SN2HeGK5) | [Steve Allen Presents: Linda Guymon](https://open.spotify.com/album/0enC3mlsOQG37sKXq5FcyQ) | 2:35 |
 | 523 | [The Right Kind Of Girl](https://open.spotify.com/track/2i4AyFSTDmrecXJ0XyrA6w) | [Bill Owens](https://open.spotify.com/artist/1Tf6cTjrIYFQ0DB3ewRGVU), [Louis Owens](https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns) | [The Owens Brothers \- Tomorrow's Tears Today \- Singles 1961 \- 1967](https://open.spotify.com/album/6aCkSUeG211DdQNv14Wwis) | 1:29 |
 
-Snapshot ID: `AcfqBgAAAADtVTAhjOR7/9391pyVVHnT`
+Snapshot ID: `AcfvpgAAAACkWpymLC5tzj67NIip+iVS`

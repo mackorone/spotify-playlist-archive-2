@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 159276,
+  "num_followers": 159350,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAABVIphVzETwruw7rNsXPmAo",
+  "snapshot_id": "atgAgAAAAADoeArNCj+rLBGFL5bc8uir",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 231419,
+      "name": "Back On The Wagon",
+      "url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 206893,
       "name": "Merry Go 'Round",
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 231419,
-      "name": "Back On The Wagon",
-      "url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
     },
     {
       "added_at": null,

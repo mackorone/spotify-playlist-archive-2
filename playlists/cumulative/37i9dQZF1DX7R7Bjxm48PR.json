@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Roadtrip",
+        "url": "https://open.spotify.com/album/3MkpK2wp8uigmsL649Ri9N"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169048,
+      "name": "Roadtrip",
+      "url": "https://open.spotify.com/track/5LNcbKD77Nl9j3t5s9YmRN"
+    },
+    {
+      "album": {
         "name": "Rolling In Grass",
         "url": "https://open.spotify.com/album/4gJY792f8Kha7jSkC5ZWfg"
       },

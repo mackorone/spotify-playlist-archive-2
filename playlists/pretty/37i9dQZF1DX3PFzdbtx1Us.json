@@ -1,12 +1,12 @@
 {
   "description": "Ambient piano to help you stay focussed. ",
-  "num_followers": 1203857,
+  "num_followers": 1204284,
   "original_name": "Music for Concentration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAo8aAOZw370kBHzLIz3al9ELoLM",
+  "snapshot_id": "AAAAAH/zS2fIPF9+ZVfMWqIhYIQrMd1F",
   "tracks": [
     {
       "added_at": "2026-10-02 04:00:21",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi"
     },
     {
+      "added_at": "2026-10-23 04:01:46",
+      "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/5YKJbjjcYM1YwoXv1LWIYR"
+      },
+      "artists": [
+        {
+          "name": "Orlune",
+          "url": "https://open.spotify.com/artist/4mTcmBVMRGrKwJPebaQajS"
+        }
+      ],
+      "duration_ms": 131656,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/7gcJjZs6m9ixdpItFmLSfT"
+    },
+    {
       "added_at": "2026-10-02 04:00:21",
       "album": {
         "name": "Softly Held",
@@ -295,6 +311,22 @@
       "duration_ms": 144858,
       "name": "Distant Places",
       "url": "https://open.spotify.com/track/4ht7nj0YiVpK8oP7o7YkcU"
+    },
+    {
+      "added_at": "2026-10-23 04:01:46",
+      "album": {
+        "name": "Open Window",
+        "url": "https://open.spotify.com/album/5jcy68MHWD2RsairFFL8J1"
+      },
+      "artists": [
+        {
+          "name": "Artforms",
+          "url": "https://open.spotify.com/artist/16Ev5y1RzTr6tneuozoCmA"
+        }
+      ],
+      "duration_ms": 132032,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/18zjnH1BMsQOTbrmMP7q8F"
     },
     {
       "added_at": "2026-10-02 04:00:21",

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 49 | [Maniac \(feat\. Conor Mason of Nothing But Thieves\)](https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp), [Conor Mason](https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 | 50 | [Some Kind of Joke](https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:52 |
 
-Snapshot ID: `atavAAAAAACff5NgM+O8hV2kzox5PFph`
+Snapshot ID: `atgAgAAAAAAoSR2K4x3PTfMbsqZ3nAOq`

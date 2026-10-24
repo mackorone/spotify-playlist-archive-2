@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6658,
+  "num_followers": 6656,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAADY6VbcOCKuGxiXuYzZKcOr",
+  "snapshot_id": "atgAgAAAAAAbUFGIqCGxhT7Fdga1nf9h",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 199872,
       "name": "But You Know I Love You",
       "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
     },
     {
       "added_at": null,

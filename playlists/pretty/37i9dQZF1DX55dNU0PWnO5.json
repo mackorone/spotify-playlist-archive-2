@@ -1,13 +1,41 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 580213,
+  "num_followers": 580216,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD12rmHPKDBj2l04k4aG/cGyuxNv",
+  "snapshot_id": "AAAAAFL07oMEVjBU17dbj/lqZQnmD3Ja",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:02:32",
+      "album": {
+        "name": "Eight Ring Revival",
+        "url": "https://open.spotify.com/album/0KS54hy5B9VbBWbkt70S4G"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        },
+        {
+          "name": "bigboihums",
+          "url": "https://open.spotify.com/artist/6yl3Npg9anIva2sYQ0SW7f"
+        },
+        {
+          "name": "Tristan Cappel",
+          "url": "https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4"
+        }
+      ],
+      "duration_ms": 122651,
+      "name": "Hands Rejoice!",
+      "url": "https://open.spotify.com/track/375qFU8b3QOqcOp7wxOG6v"
+    },
     {
       "added_at": "2026-10-09 04:01:01",
       "album": {
@@ -243,30 +271,6 @@
       "duration_ms": 395193,
       "name": "The Curse (Blood Of An Innocent Is Spilled) - Remix",
       "url": "https://open.spotify.com/track/6MPLwGUU6XDWGAb5nvZe08"
-    },
-    {
-      "added_at": "2025-08-01 04:00:21",
-      "album": {
-        "name": "Dream Hands",
-        "url": "https://open.spotify.com/album/0tCca2CrrAxPesHzRMa5vF"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        },
-        {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
-        },
-        {
-          "name": "Tristan Cappel",
-          "url": "https://open.spotify.com/artist/6csyyDZrMthJJ4iihjauK4"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Dream Hands",
-      "url": "https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG"
     },
     {
       "added_at": "2025-10-17 04:00:52",

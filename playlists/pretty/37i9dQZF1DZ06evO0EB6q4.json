@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 269788,
+  "num_followers": 269827,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAACb9rszc/k6m9VJcAqiT2ES",
+  "snapshot_id": "atgAgAAAAADBAF++cKBBY0mbynLTktRc",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cari\u00f1itos y Flores",
+        "url": "https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 159012,
+      "name": "Cari\u00f1itos y Flores",
+      "url": "https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cari\u00f1itos y Flores",
-        "url": "https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        }
-      ],
-      "duration_ms": 159012,
-      "name": "Cari\u00f1itos y Flores",
-      "url": "https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh"
     },
     {
       "added_at": null,

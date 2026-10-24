@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 232781,
+  "num_followers": 232810,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -247,46 +247,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Splendid (with ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
-      },
-      "artists": [
-        {
-          "name": "Osaze & Marcus",
-          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Splendid (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "10 MINUTES",
-        "url": "https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "10 MINUTES",
-      "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Dont Come Too Close II",
         "url": "https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR"
       },
@@ -311,6 +271,46 @@
       "duration_ms": 186932,
       "name": "Dont Come Too Close II",
       "url": "https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "10 MINUTES",
+        "url": "https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "10 MINUTES",
+      "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 156000,
       "name": "ODO PA",
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "then 1t g0t crazier",
+        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129079,
+      "name": "Idansk1 tw0",
+      "url": "https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "Big Bricks II",
         "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 207058,
       "name": "Big Bricks II",
       "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "then 1t g0t crazier",
-        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 129079,
-      "name": "Idansk1 tw0",
-      "url": "https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 240301,
-      "name": "No Level",
-      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Di Maria",
         "url": "https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 174545,
       "name": "Di Maria",
       "url": "https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 240301,
+      "name": "No Level",
+      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 169043,
       "name": "NBA",
       "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
-        "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
-      },
-      "artists": [
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 293877,
-      "name": "Suppressed Desires",
-      "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "News at 7",
         "url": "https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt"
       },
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "BEASTMODE VOL1",
-        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "I DONT CARE",
-      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Motho Waka",
         "url": "https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 185454,
       "name": "Motho Waka",
       "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
+        "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 293877,
+      "name": "Suppressed Desires",
+      "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
     },
     {
       "added_at": "2026-10-23 00:01:06",

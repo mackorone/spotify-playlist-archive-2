@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Clau",
-  "num_followers": 433024,
+  "num_followers": 433019,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFJh62Ym/fw8n3Odk/WJRW9rkTg",
+  "snapshot_id": "AAAAAO6THdLipD0E6gaJI30RauHcNPzR",
   "tracks": [
     {
       "added_at": "2026-10-23 03:00:28",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
+        "name": "Me D\u00e1 Uma Luz",
+        "url": "https://open.spotify.com/album/0a5I4iN5Vrq6K5b8dUAFgQ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 191088,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/4fJWANIINf6cHT0woUuxkL"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
         "name": "Resposta - Spotify Singles",
         "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 191307,
       "name": "Resposta - Spotify Singles",
       "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
-        "name": "Me D\u00e1 Uma Luz",
-        "url": "https://open.spotify.com/album/0a5I4iN5Vrq6K5b8dUAFgQ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 191088,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/4fJWANIINf6cHT0woUuxkL"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
         "name": "ContraTempo",
         "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 192519,
       "name": "Sinto",
       "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
+        "name": "ESTRANGEIRA",
+        "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
+      },
+      "artists": [
+        {
+          "name": "Bruna Foss",
+          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Medo do Escuro",
+      "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -387,18 +403,22 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "ESTRANGEIRA",
-        "url": "https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr"
+        "name": "Varandas",
+        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
       },
       "artists": [
         {
-          "name": "Bruna Foss",
-          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 194880,
-      "name": "Medo do Escuro",
-      "url": "https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x"
+      "duration_ms": 223680,
+      "name": "Varandas",
+      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -419,26 +439,6 @@
       "duration_ms": 199711,
       "name": "Fa\u00e7o Parar de Chover",
       "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
-        "name": "Varandas",
-        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Varandas",
-      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "Setembro",
-        "url": "https://open.spotify.com/album/664fP87yIBwGsVN1ceZjO5"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00e3o",
-          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
-        }
-      ],
-      "duration_ms": 181690,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/5R7UoAtZIQACKBWe4nY7Mi"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
         "name": "N\u00e3o mente pra mim",
         "url": "https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 202666,
       "name": "N\u00e3o mente pra mim",
       "url": "https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
+        "name": "Setembro",
+        "url": "https://open.spotify.com/album/664fP87yIBwGsVN1ceZjO5"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        }
+      ],
+      "duration_ms": 181690,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/5R7UoAtZIQACKBWe4nY7Mi"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "Decifrar",
-        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Decifrar",
-      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
         "name": "Pra Almar no Frio",
         "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 147374,
       "name": "Voc\u00ea \u00e9 Meu Lugar",
       "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
+        "name": "Decifrar",
+        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Decifrar",
+      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
         "name": "NORTEAR",
         "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 218651,
       "name": "NORTEAR",
       "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "GRAZI",
-        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
-      },
-      "artists": [
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "NAVII",
-          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "L\u00c1 DE CIMA (1999)",
-      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
         "name": "Muita Sede",
         "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
       },
@@ -903,8 +883,8 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
       "artists": [
         {
@@ -912,13 +892,33 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         },
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
         "name": "SENSA\u00c7\u00c3O BONITA",
         "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 159997,
       "name": "SENSA\u00c7\u00c3O BONITA",
       "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -1055,22 +1055,6 @@
       "duration_ms": 161386,
       "name": "MARIA, MEDUSA",
       "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
-        "name": "gosto de gostar",
-        "url": "https://open.spotify.com/album/01AQXivCzaBbmtMDVYtm4Y"
-      },
-      "artists": [
-        {
-          "name": "Davi Sham\u00e1",
-          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
-        }
-      ],
-      "duration_ms": 163464,
-      "name": "gosto de gostar",
-      "url": "https://open.spotify.com/track/41wHtU4pHeeaaAB5HFQu2k"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -1123,6 +1107,22 @@
       "duration_ms": 190000,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
+        "name": "gosto de gostar",
+        "url": "https://open.spotify.com/album/01AQXivCzaBbmtMDVYtm4Y"
+      },
+      "artists": [
+        {
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        }
+      ],
+      "duration_ms": 163464,
+      "name": "gosto de gostar",
+      "url": "https://open.spotify.com/track/41wHtU4pHeeaaAB5HFQu2k"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
         "name": "BALAN\u00c7O",
         "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 136575,
       "name": "BALAN\u00c7O",
       "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-10-23 03:00:28",

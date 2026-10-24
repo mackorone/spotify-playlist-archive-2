@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
 
-206 songs - 14 hr 20 min
+209 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,10 @@
 | [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-04 | 2024-11-02 |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 | 2025-02-13 |
 | [please](https://open.spotify.com/track/5uh8m6ftdzlDdkUgqjTq6E) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [please](https://open.spotify.com/album/7zwYehnbEk2vJQclnXOr4p) | 5:46 | 2025-10-03 | 2025-11-08 |
+| [Remained](https://open.spotify.com/track/6ZtGGldlHEWeRxB1MEt0RN) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ตั้งแต่วันนั้น \(Remained\)](https://open.spotify.com/album/7f3DLO02e6Pa5ueQsGl4vV) | 4:41 | 2026-10-23 |  |
+| [Sometimes](https://open.spotify.com/track/25ip7ASFEwNGVWW0UVOF4P) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Sometimes](https://open.spotify.com/album/1wyke9pTPOO4l2KN8KhhgK) | 4:02 | 2026-10-23 |  |
 | [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2024-06-27 | 2024-08-31 |
-| [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 | 2025-03-14 |  |
+| [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 | 2025-03-14 | 2026-10-24 |
 | [Thank You](https://open.spotify.com/track/5CymAewij8lB7VgdhovfZ0) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Thank You](https://open.spotify.com/album/1KOYRnENvPu1Yh8sCGVTaD) | 4:23 | 2025-12-07 | 2026-09-26 |
 | [Trip](https://open.spotify.com/track/7k0zv87tT5Q9pEfDErNcm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Trip](https://open.spotify.com/album/1JLTRV3W2SedWzmtUMjDn6) | 3:39 | 2025-10-17 | 2026-09-12 |
 | [Turning Back](https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Turning Back](https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH) | 4:38 | 2025-08-08 | 2025-09-20 |
@@ -78,13 +80,14 @@
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |
 | [ดอกไม้ \(Let it Flow\)](https://open.spotify.com/track/7IKvc0e6Lx0gP21U71cxPS) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Aheye 4EVE](https://open.spotify.com/artist/2vF2uyBlYQtOStphoKri2q) | [eco • ego](https://open.spotify.com/album/6CWCK74uh8oqdbZJFTiWET) | 3:53 | 2026-05-22 | 2026-06-20 |
 | [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/track/3s5fZynFonUi3KtB1fQrRM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/album/4WmPgsX2Ry61WTPfHR49Iw) | 3:34 | 2026-08-28 |  |
+| [ดาว \(pluto\)](https://open.spotify.com/track/5HVsZLMvmUC4phal6rEwfW) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ดาว \(pluto\)](https://open.spotify.com/album/5fZfuqbJmOyuOKhmfWxfHO) | 3:42 | 2026-10-23 |  |
 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 | 2024-11-01 | 2026-09-26 |
 | [ดาวเคราะห์](https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดาวเคราะห์](https://open.spotify.com/album/1kLrFPixDXY499py8uQryD) | 4:00 | 2024-11-28 | 2025-11-15 |
 | [ดีใจที่เคยได้รักเธอ](https://open.spotify.com/track/5kQmnmvaRqdOvrHXcwdBrN) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ดีใจที่เคยได้รักเธอ](https://open.spotify.com/album/4g1fCj4DX9L8JCptDEbYVW) | 4:37 | 2026-05-15 | 2026-08-08 |
 | [ดึง \(Tension\)](https://open.spotify.com/track/5ScRHC5BJzjzNWbrEHE6TS) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ดึง \(Tension\)](https://open.spotify.com/album/5CvAyfpneNWmsBodEmZ1kX) | 4:04 | 2024-08-16 | 2024-08-31 |
 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 | 2024-06-27 |  |
 | [ตกกะใจทำได้ลง \(Oops.\)](https://open.spotify.com/track/7s9HxP7Oi2S5RpnEdQ3E6v) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ตกกะใจทำได้ลง \(Oops.\)](https://open.spotify.com/album/0X2Zoned5hpJUmS85ntwKp) | 3:14 | 2025-01-23 | 2026-05-16 |
-| [ตลอดกาล](https://open.spotify.com/track/1ojMbMs85G4WFO7sBDu7X4) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [ตลอดกาล](https://open.spotify.com/album/5jNSURxN60xpowpm767jFw) | 3:44 | 2026-09-25 |  |
+| [ตลอดกาล](https://open.spotify.com/track/1ojMbMs85G4WFO7sBDu7X4) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [ตลอดกาล](https://open.spotify.com/album/5jNSURxN60xpowpm767jFw) | 3:44 | 2026-09-25 | 2026-10-24 |
 | [ตลอดชีวิต \(Away\)](https://open.spotify.com/track/2FqSkgOFT3zWQXwjfP80Ds) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ArunSong](https://open.spotify.com/album/7h7BtAeP0FEpj7DwTt0AzC) | 4:04 | 2024-10-18 | 2026-05-16 |
 | [ตลอดไปที่เป็นจริง \(คือโดนทิ้งตลอดกาล\)](https://open.spotify.com/track/33KlpDka9LzP7XGF2onlhh) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เรนิษรา Radio](https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP) | 3:05 | 2024-06-27 | 2024-09-12 |
 | [ตาข่ายดักฝัน \(Rainbow Catcher\)](https://open.spotify.com/track/6PAS5UAJQLYgzRJu2s2a8U) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Rainbow Landscape](https://open.spotify.com/album/1ZwmlC8iroJsQ9o76cYdCd) | 4:25 | 2024-08-16 | 2025-11-22 |
@@ -213,6 +216,6 @@
 | [ไม่เป็นไรนะเธอ](https://open.spotify.com/track/1eQUklIPZutkbl723BdQQy) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ไม่เป็นไรนะเธอ](https://open.spotify.com/album/0x8o1AMHFKCGIxpmQn8tVL) | 4:36 | 2024-06-27 | 2025-06-07 |
 | [ไม่เหมาะกับความรัก](https://open.spotify.com/track/4IfjuDIWgjVS0jqJhaZIHj) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F), [Poom CORNBOI](https://open.spotify.com/artist/1AeB0FZ4btE562QhDFstGw) | [ไม่เหมาะกับความรัก](https://open.spotify.com/album/2vZRlWfVKlurE2JTBoYGRW) | 5:09 | 2025-07-18 | 2025-08-16 |
 | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/track/1xOZwZkn1fFUb2e1pwMjRt) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/album/7tFLU2QlYvNCnUQKLV26hD) | 3:42 | 2024-06-27 | 2025-06-14 |
-| [ไม่ไหวอย่าฝืน \(HANDYCAM\)](https://open.spotify.com/track/2v0yW8jRRKzbLHiNUZjM41) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ไม่ไหวอย่าฝืน \(HANDYCAM\)](https://open.spotify.com/album/5z2DhOR4bnMHeXk36sdRLQ) | 3:10 | 2025-04-04 |  |
+| [ไม่ไหวอย่าฝืน \(HANDYCAM\)](https://open.spotify.com/track/2v0yW8jRRKzbLHiNUZjM41) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ไม่ไหวอย่าฝืน \(HANDYCAM\)](https://open.spotify.com/album/5z2DhOR4bnMHeXk36sdRLQ) | 3:10 | 2025-04-04 | 2026-10-24 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

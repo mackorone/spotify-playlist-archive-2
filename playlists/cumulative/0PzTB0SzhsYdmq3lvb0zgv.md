@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-609 songs - 1 day 9 hr 58 min
+613 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2025-10-23 | 2026-01-15 |
 | [Cisco Bay](https://open.spotify.com/track/3kmwPnaLeGZM9J7u76MjrL) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Love Made Trees](https://open.spotify.com/album/6opNybHCZ3HMLtbp8crFAa) | 2:44 | 2026-02-19 |  |
 | [City Woman](https://open.spotify.com/track/1i1efjJMWWPUwWoATR2gl0) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0cJAyLiw901DhcO7TSpftB) | 3:25 | 2025-07-18 | 2026-01-15 |
+| [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-23 |  |
 | [close to you](https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [close to you](https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD) | 3:31 | 2026-10-16 |  |
 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-01-23 |  |
 | [Come Down](https://open.spotify.com/track/6gxMXHr2GxN7afbdNmsoaj) | [Reb Fountain](https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1) | [Come Down](https://open.spotify.com/album/4dkUqCf46AhGJSUdjBZ3RD) | 3:55 | 2026-02-19 | 2026-06-26 |
@@ -193,6 +194,7 @@
 | [Give Me Love](https://open.spotify.com/track/3kTKU3tMAm411E7Jo4uTBw) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:51 | 2025-07-18 | 2025-11-01 |
 | [Give You The World](https://open.spotify.com/track/14jzHnfgLUZDLNcI0EciWb) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You The World](https://open.spotify.com/album/5Sp7sBzrqrOVcIZ4xY0iU4) | 3:39 | 2025-08-22 | 2026-09-10 |
 | [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 | 2025-12-15 |  |
+| [God Forbid a Girl Gets Used To This](https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX) | [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [God Forbid a Girl Gets Used To This](https://open.spotify.com/album/0i44xpup3y135PLPN32jSL) | 4:04 | 2026-10-23 |  |
 | [Gold](https://open.spotify.com/track/4Qy7yWT1UI6FK2CWrqkGwR) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [This Marauder's Midnight](https://open.spotify.com/album/6Nahal5iYJfGxEXeGSL3b3) | 4:11 | 2025-07-18 | 2025-08-23 |
 | [Gone In The Morning](https://open.spotify.com/track/7jeofiBrXWf3vc8CCBL0TA) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 3:24 | 2025-09-19 | 2026-02-19 |
 | [GOOD BAD UGLY](https://open.spotify.com/track/1gwUb85kQ6XbmkpoImyPtK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:08 | 2025-07-18 | 2025-08-23 |
@@ -343,6 +345,7 @@
 | [Measure \- feat\. Max McNown](https://open.spotify.com/track/2cYH8hnffROSkisIuBSG1O) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Measure \(feat\. Max McNown\)](https://open.spotify.com/album/6tWUs44CCd1z88cGYPOebf) | 3:17 | 2025-09-22 | 2026-02-20 |
 | [Messy](https://open.spotify.com/track/2YuUy4hBCVm4L5IRHu0iVl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/4bCcQKDKI3gHZNqA1ZIBnh) | 4:44 | 2025-07-18 | 2025-09-06 |
 | [Millionaire](https://open.spotify.com/track/4flxWSex7pgZOsapTzTRhY) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Millionaire](https://open.spotify.com/album/3bnebUwxlcFQ7XOpFWkh2V) | 3:32 | 2026-07-17 |  |
+| [missing person](https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 3:00 | 2026-10-23 |  |
 | [missing you](https://open.spotify.com/track/6bh7mHsbv8u9kVWtKqCAcB) | [Tom River](https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs) | [missing you](https://open.spotify.com/album/3ybVPvqMAtbyyceiDxu4Tk) | 2:53 | 2026-06-25 |  |
 | [Monsters](https://open.spotify.com/track/7b6wt5FZgNLBHEteC7Ugh8) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [Monsters](https://open.spotify.com/album/6JDb1qRjuItQsVhpzgCUPP) | 4:13 | 2026-07-17 | 2026-09-15 |
 | [More to Lose](https://open.spotify.com/track/28RGHzCKNZEAWquYbZl3EI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:35 | 2025-07-18 | 2026-02-19 |
@@ -602,6 +605,7 @@
 | [Wish I Didn't Know Now](https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Wish I Didn't Know Now](https://open.spotify.com/album/0rPZBEzGKgrKRXC8wSwViY) | 4:26 | 2025-10-23 | 2026-02-20 |
 | [Wish You Well](https://open.spotify.com/track/1ftis05ic7yvD9X49F6rqh) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants to Talk About Love?](https://open.spotify.com/album/5jqRoaJWRJjiYTHWhBA6jE) | 2:22 | 2025-07-18 | 2025-08-23 |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2026-02-19 |  |
+| [worst case](https://open.spotify.com/track/2ALZcNZJMZIl0fEqjDwxqG) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [BLUE](https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO) | 1:38 | 2026-10-23 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2025-08-22 | 2026-01-15 |
 | [X](https://open.spotify.com/track/3YWhUh8ERn1o8k26hjg0tj) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [X](https://open.spotify.com/album/61QySG9bc137pFifaB6MFy) | 2:44 | 2025-07-18 | 2025-11-01 |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2025-07-18 | 2025-08-23 |

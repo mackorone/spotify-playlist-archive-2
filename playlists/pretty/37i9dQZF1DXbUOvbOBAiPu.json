@@ -1,12 +1,12 @@
 {
   "description": "New music from LISA, Ino Casablanca, Qlas, La F\u00e8ve x Theodora  and more...",
-  "num_followers": 54425,
+  "num_followers": 54565,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6N0sxHX1AFvsLwQxkWUvZ39nXb",
+  "snapshot_id": "AAAAAErg30DXUhEiYXJFrQulqQUgXHP4",
   "tracks": [
     {
       "added_at": "2026-10-22 22:01:16",
@@ -59,7 +59,7 @@
     {
       "added_at": "2026-10-22 22:01:16",
       "album": {
-        "name": "Close My Eyes",
+        "name": "Close my eyes",
         "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
       },
       "artists": [
@@ -73,7 +73,7 @@
         }
       ],
       "duration_ms": 227000,
-      "name": "Close My Eyes",
+      "name": "Close my eyes",
       "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
     },
     {
@@ -243,6 +243,22 @@
       "duration_ms": 177324,
       "name": "DES SOUS",
       "url": "https://open.spotify.com/track/7zua3rMFtckbvHJfTrA2Uk"
+    },
+    {
+      "added_at": "2026-10-23 07:50:35",
+      "album": {
+        "name": "Why Wait For The Weekend",
+        "url": "https://open.spotify.com/album/36FYagKJMtaAMLzd3BBi8F"
+      },
+      "artists": [
+        {
+          "name": "Milk Inc.",
+          "url": "https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB"
+        }
+      ],
+      "duration_ms": 168323,
+      "name": "Why Wait For The Weekend",
+      "url": "https://open.spotify.com/track/4mvv5b6xA5RLtqnFslwFQo"
     },
     {
       "added_at": "2026-10-22 22:01:16",
@@ -949,6 +965,26 @@
       "url": "https://open.spotify.com/track/5q6tO0ZKm9YlbLhY5cYkQa"
     },
     {
+      "added_at": "2026-10-23 08:02:47",
+      "album": {
+        "name": "G.I. Joe",
+        "url": "https://open.spotify.com/album/6IDkfovA7rCLxhQwRxzxYa"
+      },
+      "artists": [
+        {
+          "name": "GLDY LX",
+          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "duration_ms": 183483,
+      "name": "G.I. Joe",
+      "url": "https://open.spotify.com/track/3I9VMDA9FsWIPML9lTjSwV"
+    },
+    {
       "added_at": "2026-10-22 22:01:16",
       "album": {
         "name": "Empire",
@@ -1415,6 +1451,22 @@
       "duration_ms": 171940,
       "name": "Pandora's Box",
       "url": "https://open.spotify.com/track/6zpeQpV1meY5BVLKYlmgwX"
+    },
+    {
+      "added_at": "2026-10-22 22:01:16",
+      "album": {
+        "name": "Backyard",
+        "url": "https://open.spotify.com/album/5eZTvwW9neCmSc4mojIXan"
+      },
+      "artists": [
+        {
+          "name": "Erio",
+          "url": "https://open.spotify.com/artist/5cXI4zNdW46aXVKhBoXspu"
+        }
+      ],
+      "duration_ms": 179406,
+      "name": "Backyard",
+      "url": "https://open.spotify.com/track/5JzESZR5757o6AFVCzi3jN"
     },
     {
       "added_at": "2026-10-22 22:01:16",

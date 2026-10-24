@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: LNGSHOT)",
-  "num_followers": 1096162,
+  "num_followers": 1096176,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
         "name": "Lullaby Remix",
         "url": "https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB"
       },
@@ -535,18 +551,22 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+      "duration_ms": 229359,
+      "name": "D (Half Moon)",
+      "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -567,26 +587,6 @@
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 229359,
-      "name": "D (Half Moon)",
-      "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
         "name": "Bittersweet (feat. LeeHi)",
         "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 174773,
       "name": "Bittersweet (feat. LeeHi)",
       "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "VIBE (feat. Jimin of BTS)",
-        "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
         "name": "ANTIDOTE",
         "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
+        "name": "Chi-Ka",
+        "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
       },
       "artists": [
         {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
         },
         {
-          "name": "NINGNING",
-          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 169893,
-      "name": "ONCE AGAIN",
-      "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
+      "duration_ms": 203953,
+      "name": "Chi-Ka",
+      "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Chi-Ka",
-        "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
+        "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
       },
       "artists": [
         {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         },
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
         }
       ],
-      "duration_ms": 203953,
-      "name": "Chi-Ka",
-      "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
+      "duration_ms": 169893,
+      "name": "ONCE AGAIN",
+      "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Know me",
-        "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
       "artists": [
         {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Know me",
-      "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
+      "duration_ms": 198080,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Peaches - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
+        "name": "Know me",
+        "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         }
       ],
-      "duration_ms": 198080,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+      "duration_ms": 214613,
+      "name": "Know me",
+      "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
+        "name": "TATA",
+        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINAMI",
+          "url": "https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "TATA",
+      "url": "https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
         "name": "Adore You",
         "url": "https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 151746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
-        "name": "Tic Tac Toe",
-        "url": "https://open.spotify.com/album/70BDnaxdeYlPHph5HqASiz"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Tic Tac Toe",
-      "url": "https://open.spotify.com/track/3HnQiu1ll8vT0txY7snuc1"
     },
     {
       "added_at": "2026-10-21 12:47:24",

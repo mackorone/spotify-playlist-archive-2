@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 210498,
       "name": "Bel Air",
       "url": "https://open.spotify.com/track/6G38IZWN4qvVqxavzepr0I"
@@ -10062,7 +10062,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 169177,
       "name": "Come Back, I Miss You (Soundtrack)",
       "url": "https://open.spotify.com/track/66r3ghK8wAXHFwV9gFv8MC"
@@ -13535,6 +13535,24 @@
     },
     {
       "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3P1U5x9BIVnAni87LRNtpn"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181790,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1D7smZeZjSzSqg1Vcb6BRA"
+    },
+    {
+      "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
@@ -15939,6 +15957,48 @@
     },
     {
       "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1trz2cTNpf94R6DdHciSbS"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/1PS9KaNbnSggKcR1TelUHA"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -17572,7 +17632,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 225480,
       "name": "Glad You're Happy",
       "url": "https://open.spotify.com/track/0P8aTiBuqNTtqxgLGv8XhM"
@@ -17812,6 +17872,24 @@
       "duration_ms": 180345,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
+    },
+    {
+      "album": {
+        "name": "God Forbid a Girl Gets Used To This",
+        "url": "https://open.spotify.com/album/0i44xpup3y135PLPN32jSL"
+      },
+      "artists": [
+        {
+          "name": "Emily Bear",
+          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244381,
+      "name": "God Forbid a Girl Gets Used To This",
+      "url": "https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX"
     },
     {
       "album": {
@@ -18401,6 +18479,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184413,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/4yBofFU6RdztFsyffEFwIp"
+    },
+    {
+      "album": {
         "name": "Got Me Started",
         "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
       },
@@ -18877,6 +18973,24 @@
     },
     {
       "album": {
+        "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193538,
+      "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw"
+    },
+    {
+      "album": {
         "name": "HANDS UP",
         "url": "https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L"
       },
@@ -19332,7 +19446,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
@@ -20573,6 +20687,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212416,
+      "name": "Home Tonight",
+      "url": "https://open.spotify.com/track/15JWJHmZIpQMP0ojCUEW27"
+    },
+    {
+      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -21356,7 +21488,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 149100,
       "name": "human nature",
       "url": "https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR"
@@ -27968,7 +28100,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 232387,
       "name": "losing u",
       "url": "https://open.spotify.com/track/4kWYvtYR6PbayxGHJ6Lfts"
@@ -30929,6 +31061,24 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg"
       },
@@ -33841,6 +33991,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/0DDuWilLJt7mTtaPWFEpHC"
+    },
+    {
+      "album": {
         "name": "OBVIOUS",
         "url": "https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W"
       },
@@ -35648,6 +35816,24 @@
       "duration_ms": 176000,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/67GgkBHYX6x3qzXkNqS5oJ"
+    },
+    {
+      "album": {
+        "name": "Passion Isn't Rare",
+        "url": "https://open.spotify.com/album/7Iehhp14cGzyFbsl9suqCv"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190828,
+      "name": "Passion Isn't Rare",
+      "url": "https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis"
     },
     {
       "album": {
@@ -40220,6 +40406,24 @@
       "duration_ms": 200045,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/1QtTacL4mYK42Y8nYkKY83"
+    },
+    {
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/14KQYuAV0YPdOOabnNSto9"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202137,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3aCt1z9Hpj7ptFvo3BYbJW"
     },
     {
       "album": {
@@ -47804,7 +48008,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 148506,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/0McFWtA8kgl5Y92yAuYgwC"
@@ -50118,7 +50322,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 184631,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/4BFvqk9rN8wA90Jh3IO12w"
@@ -51543,6 +51747,24 @@
     },
     {
       "album": {
+        "name": "What we want and need from love",
+        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253590,
+      "name": "What we want and need from love",
+      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+    },
+    {
+      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -52594,6 +52816,24 @@
       "duration_ms": 177691,
       "name": "wish i was a robot",
       "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
+    },
+    {
+      "album": {
+        "name": "marroW",
+        "url": "https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "wishing well",
+      "url": "https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,366 likes - 126 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,365 likes - 126 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 125 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Evan McLain](https://open.spotify.com/artist/5SNX2JP4ie5GuSweaPbA3Z), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 | 126 | [Underwater](https://open.spotify.com/track/5dpihukY5xlCzf4OoqKp9w) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Meghan Trainor](https://open.spotify.com/album/6ikGcT6PGehsnatISZFOK9) | 4:17 |
 
-Snapshot ID: `AcfqEAAAAACIfMW8XEwZQckPycdJx0WS`
+Snapshot ID: `AcfvsAAAAACg/GpjCOA9lc71EOCyeXCj`

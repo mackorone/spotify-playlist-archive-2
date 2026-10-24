@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat del funk de Brasil para el mundo\. Cover: Pedro Sampaio, Kenia Os
 
-260 songs - 11 hr 20 min
+261 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Tacata \- Remix](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2024-02-05 |  |
 | [Take Take](https://open.spotify.com/track/2xKJeszGTZKkzNEvO1UbdQ) | [La Madrina](https://open.spotify.com/artist/5Qaq3Wpo3Hj0RnfLvJs7jc), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Take Take](https://open.spotify.com/album/5BAjyfMaxAvXDnoyJnSLYz) | 1:59 | 2025-09-12 | 2026-02-27 |
 | [TAMOS BIEN](https://open.spotify.com/track/0K9Du7JDq9Zos8HTxncK3l) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [TAMOS BIEN](https://open.spotify.com/album/1nYbETHXSPTnbDATB1sDzZ) | 2:32 | 2025-06-06 |  |
+| [TAPA LA CARA](https://open.spotify.com/track/5RFLmBGJbcD5nFHFYA3FXo) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [TAPA LA CARA](https://open.spotify.com/album/3ALiOmVFZ2TZbngtuaTk3A) | 2:40 | 2026-10-23 |  |
 | [TATA](https://open.spotify.com/track/6IlI0D193SVWInOHsyJsPE) | [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [17](https://open.spotify.com/album/4SFfX2D70N1iRXBMI8oszS) | 3:00 | 2023-11-29 | 2024-04-27 |
 | [TE FUISTE EN ROJO](https://open.spotify.com/track/6SWrFBzkaCWf1jrwIhLnGT) | [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [MRS\. T](https://open.spotify.com/artist/07e6CVt7oRHofbMgQSzZxo), [HVB MUSIC GROUP](https://open.spotify.com/artist/5NHFBx21Atfz3SyZU5vqbl) | [TE FUISTE EN ROJO](https://open.spotify.com/album/0VIToV6qMngN7SKLXPj3kd) | 2:24 | 2025-01-31 | 2025-05-31 |
 | [Te Sentía Mía](https://open.spotify.com/track/2PxIBcE4nkY0bO2Vl1nuVT) | [Chune](https://open.spotify.com/artist/0M8yh4QnShC2YBY1TGznCm), [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Te Sentía Mía](https://open.spotify.com/album/6WXU3GANbrO7YIaWtRC9wv) | 2:59 | 2025-01-14 | 2025-02-22 |

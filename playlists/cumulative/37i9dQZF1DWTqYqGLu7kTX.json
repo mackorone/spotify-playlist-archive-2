@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover: NIJJAR",
+  "description": "Best of Punjabi Hip-Hop! Cover: Gur Sidhu",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Before My 18th",
+        "url": "https://open.spotify.com/album/6Q6DtR9eSkNVw3uuOKa8JD"
+      },
+      "artists": [
+        {
+          "name": "OtaaL",
+          "url": "https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196456,
+      "name": "Before My 18th",
+      "url": "https://open.spotify.com/track/5hUex8XtLctBaxjVa6RQYk"
+    },
+    {
+      "album": {
         "name": "Bexley .Road",
         "url": "https://open.spotify.com/album/1AeMtYxe6KGqhivHtThFzC"
       },
@@ -1432,6 +1450,28 @@
       "duration_ms": 161835,
       "name": "Brats",
       "url": "https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ"
+    },
+    {
+      "album": {
+        "name": "Known Unknowns",
+        "url": "https://open.spotify.com/album/0MMY5flz23tDZV1kRs1PgM"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155425,
+      "name": "BREEZY",
+      "url": "https://open.spotify.com/track/7653nDajUiDbQjYorXirUY"
     },
     {
       "album": {
@@ -2218,7 +2258,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 152147,
       "name": "Devil",
       "url": "https://open.spotify.com/track/6rGOy7dWFadX9gZIxvC3fM"
@@ -4000,7 +4040,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 137986,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/7buucrMWf76kAuRBp29s7Y"

@@ -1,12 +1,12 @@
 {
-  "description": "New & Hottest K-Hip Hop is here. (Cover:  Kid Milli, TRADE L)",
-  "num_followers": 768773,
+  "description": "New & Hottest K-Hip Hop is here. (Cover: Verbal Jint)",
+  "num_followers": 768724,
   "original_name": "KrOWN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJPYtE75GkXa1EIzrH+dTpIy97U1",
+  "snapshot_id": "AAAAACd97EUJ3hhXiQmdtSAXMOJ/oF91",
   "tracks": [
     {
       "added_at": "2026-10-08 06:29:55",
@@ -25,24 +25,32 @@
       "url": "https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4"
     },
     {
-      "added_at": "2026-10-08 06:29:55",
+      "added_at": "2026-10-21 13:01:27",
       "album": {
-        "name": "SINS",
-        "url": "https://open.spotify.com/album/5p63oUGmqaNvltJVhMW87q"
+        "name": "What If",
+        "url": "https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4"
       },
       "artists": [
         {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         },
         {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+          "name": "Nochang",
+          "url": "https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO"
+        },
+        {
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
+        },
+        {
+          "name": "YULEUM",
+          "url": "https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB"
         }
       ],
-      "duration_ms": 162461,
-      "name": "KAiKAiKiKi",
-      "url": "https://open.spotify.com/track/25RwVpvbrqlAmpcD49iiM3"
+      "duration_ms": 196467,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2"
     },
     {
       "added_at": "2026-10-19 07:28:42",
@@ -85,32 +93,24 @@
       "url": "https://open.spotify.com/track/4b5gQYvdqNrrkIuzrMRG4X"
     },
     {
-      "added_at": "2026-10-21 13:01:27",
+      "added_at": "2026-10-08 06:29:55",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4"
+        "name": "SINS",
+        "url": "https://open.spotify.com/album/5p63oUGmqaNvltJVhMW87q"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
         },
         {
-          "name": "Nochang",
-          "url": "https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO"
-        },
-        {
-          "name": "B-Free",
-          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
-        },
-        {
-          "name": "YULEUM",
-          "url": "https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB"
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
         }
       ],
-      "duration_ms": 196467,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2"
+      "duration_ms": 162461,
+      "name": "KAiKAiKiKi",
+      "url": "https://open.spotify.com/track/25RwVpvbrqlAmpcD49iiM3"
     },
     {
       "added_at": "2026-10-21 13:01:27",

@@ -1,28 +1,32 @@
 {
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Redimi2",
-  "num_followers": 692861,
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Living",
+  "num_followers": 692887,
   "original_name": "\u00c9xitos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+/LeUyEv6BPeC80pfbzjusZyVc",
+  "snapshot_id": "AAAAAFxMZRHC+CVwHI8p3i3GOjY+6Mge",
   "tracks": [
     {
-      "added_at": "2026-10-09 04:00:04",
+      "added_at": "2026-10-23 04:04:35",
       "album": {
-        "name": "Oxigeno",
-        "url": "https://open.spotify.com/album/6cAVnf9bHPSZHT7RrZ85X3"
+        "name": "\u00edmpetu",
+        "url": "https://open.spotify.com/album/5vF8jb8DsXqy0vsDgjxvlw"
       },
       "artists": [
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Casa Sounds",
+          "url": "https://open.spotify.com/artist/73DA0Ycj9YLfjTkUyYXMNv"
         }
       ],
-      "duration_ms": 323712,
-      "name": "NCB 20A",
-      "url": "https://open.spotify.com/track/3ZMipSU7Gc1eek4XPJEXqz"
+      "duration_ms": 209426,
+      "name": "Vale La Pena",
+      "url": "https://open.spotify.com/track/1zzPSZzUcQFKhAADgG29Ud"
     },
     {
       "added_at": "2026-10-09 04:00:04",
@@ -183,6 +187,22 @@
     {
       "added_at": "2026-10-09 04:00:04",
       "album": {
+        "name": "Oxigeno",
+        "url": "https://open.spotify.com/album/6cAVnf9bHPSZHT7RrZ85X3"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 323712,
+      "name": "NCB 20A",
+      "url": "https://open.spotify.com/track/3ZMipSU7Gc1eek4XPJEXqz"
+    },
+    {
+      "added_at": "2026-10-09 04:00:04",
+      "album": {
         "name": "HIPOTENUSA",
         "url": "https://open.spotify.com/album/6ynb4cA7QCWrHKygvHm6lk"
       },
@@ -245,6 +265,26 @@
       "url": "https://open.spotify.com/track/5L2FqFhNzVYHqnKh4X7cHv"
     },
     {
+      "added_at": "2026-10-23 04:04:35",
+      "album": {
+        "name": "A Donde Ir\u00e9",
+        "url": "https://open.spotify.com/album/0lJZXLssRiItXj4rnhErwQ"
+      },
+      "artists": [
+        {
+          "name": "Yele",
+          "url": "https://open.spotify.com/artist/6lIRkKmnZ25epKsY56ZkRm"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "A Donde Ir\u00e9",
+      "url": "https://open.spotify.com/track/2DlAgaxsOAqWcPqRSwi8nO"
+    },
+    {
       "added_at": "2026-10-16 08:57:04",
       "album": {
         "name": "Heme Aqu\u00ed",
@@ -263,6 +303,26 @@
       "duration_ms": 298609,
       "name": "Heme Aqu\u00ed",
       "url": "https://open.spotify.com/track/7yytLAitqIOKnOmkhBh1Xc"
+    },
+    {
+      "added_at": "2026-10-23 04:04:35",
+      "album": {
+        "name": "Cordero",
+        "url": "https://open.spotify.com/album/1pk7QebOm2iMW7zIWzRC2k"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        },
+        {
+          "name": "Yvonne Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+        }
+      ],
+      "duration_ms": 297461,
+      "name": "Gracia Sublime Es",
+      "url": "https://open.spotify.com/track/6t52GKXjTWc9ZJDQkHdNVD"
     },
     {
       "added_at": "2026-10-09 04:00:04",
@@ -315,6 +375,22 @@
       "duration_ms": 347456,
       "name": "Un Momento",
       "url": "https://open.spotify.com/track/0bePk02051sVhHyp7OycIc"
+    },
+    {
+      "added_at": "2026-10-23 04:04:35",
+      "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/1U2CqKK0MU8J2X9T7vkcUq"
+      },
+      "artists": [
+        {
+          "name": "Johan y Sofi",
+          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
+        }
+      ],
+      "duration_ms": 357000,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/6U8gWR2cqiBCMC8bQkVL2S"
     },
     {
       "added_at": "2026-10-09 04:00:04",
@@ -399,6 +475,34 @@
       "duration_ms": 456891,
       "name": "Bondadoso Dios - (Live at Church)",
       "url": "https://open.spotify.com/track/7dmFy8OlfW2Gb2ekz6attk"
+    },
+    {
+      "added_at": "2026-10-23 04:04:35",
+      "album": {
+        "name": "Yo Declaro a Cristo",
+        "url": "https://open.spotify.com/album/2r8bQsIx4YR2hhDyI0OvYc"
+      },
+      "artists": [
+        {
+          "name": "El Canto De Las Iglesias",
+          "url": "https://open.spotify.com/artist/6FNynmOmiKJItzigCsepR8"
+        },
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        }
+      ],
+      "duration_ms": 442774,
+      "name": "Yo Declaro a Cristo",
+      "url": "https://open.spotify.com/track/7EDuhjHeNxuLcxKYkjMFd5"
     },
     {
       "added_at": "2026-10-09 04:00:04",

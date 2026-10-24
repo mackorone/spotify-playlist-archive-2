@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 31616,
+  "num_followers": 31686,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAC9EMSg+5Kfahok2RnOtRCi",
+  "snapshot_id": "atgAgAAAAABuMxVeEBLkA7f0UxiQxWW2",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe"
+      "duration_ms": 224000,
+      "name": "Standout",
+      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Standout",
-      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
+      "duration_ms": 208053,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe"
     },
     {
       "added_at": null,

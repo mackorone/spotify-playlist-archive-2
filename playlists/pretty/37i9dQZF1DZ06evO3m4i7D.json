@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atavAAAAAAB/HYPiiD4EC5sN865I+ovy",
+  "snapshot_id": "atgAgAAAAAB+ktBig3EG+B0oWcqolmsU",
   "tracks": [
     {
       "added_at": null,
@@ -479,34 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindersiza",
-        "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 153239,
-      "name": "Kindersiza",
-      "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electromorbo",
         "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
       },
@@ -535,6 +507,34 @@
       "duration_ms": 175121,
       "name": "Electromorbo",
       "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindersiza",
+        "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 153239,
+      "name": "Kindersiza",
+      "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
     },
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUZBYE",
-        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "GUZBYE",
-      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Est\u00e1 Funcionando",
         "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GUZBYE",
+        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "GUZBYE",
+      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
     },
     {
       "added_at": null,

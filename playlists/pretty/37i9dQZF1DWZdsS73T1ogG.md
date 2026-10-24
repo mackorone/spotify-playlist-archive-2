@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,220 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,667 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 35 | [Todas Mienten](https://open.spotify.com/track/1i4YutNLLzUJ8iyWLp3Yfe) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Todas Mienten](https://open.spotify.com/album/5YKn74xV5MR54EzNiGiovW) | 2:42 |
 | 36 | [MAPAS](https://open.spotify.com/track/0HeBgKVkHvDJKSZQhS4M8M) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [MAPAS](https://open.spotify.com/album/5IrdKaPCW0mF9w6LQ9VdRe) | 1:37 |
 | 37 | [Garulleo](https://open.spotify.com/track/4jz89rmN7Kxejj1kDw4D8v) | [Perro Negro](https://open.spotify.com/artist/2rIeXiq0ji7G9VbW9eaBpN), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [Garulleo](https://open.spotify.com/album/157ylY61L18AG0CQOzWsNW) | 2:43 |
-| 38 | [LE DIMOS BALA](https://open.spotify.com/track/30Q6Vdd650AFinJSUt5jl5) | [KIRY CURU](https://open.spotify.com/artist/6QKj8cxDpBCKMlTq6lkdXu) | [LE DIMOS BALA](https://open.spotify.com/album/7s57qof2sw0LU9Fa3CGXD6) | 2:45 |
+| 38 | [LE DIMOS BALA](https://open.spotify.com/track/30Q6Vdd650AFinJSUt5jl5) | [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [el moyeto produciendo](https://open.spotify.com/artist/7dA6Ni4DYCRyaUZQFWlY3L) | [LE DIMOS BALA](https://open.spotify.com/album/7s57qof2sw0LU9Fa3CGXD6) | 2:45 |
 | 39 | [NENA BAD BITCH](https://open.spotify.com/track/6YTWCXQrZhO1uyxFE8h9Iz) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [NENA BAD BITCH](https://open.spotify.com/album/17AgaHJjNSzTPKaXxkvSFf) | 2:31 |
 | 40 | [Palm Springs \(feat\. Ovy On The Drums\)](https://open.spotify.com/track/0NHwue3JYhODro0rQYwCPd) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [The Gemeliza](https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM) | 3:14 |
 | 41 | [SERPIENTE](https://open.spotify.com/track/6eYrK6CyQPrq3eSJgvpK1m) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [SERPIENTE](https://open.spotify.com/album/7dmzKJf0MBSnus0eWNd8Vm) | 3:14 |

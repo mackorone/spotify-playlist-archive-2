@@ -1,6 +1,6 @@
 {
   "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: KickFlip, iann dior)",
-  "num_followers": 506080,
+  "num_followers": 506075,
   "original_name": "K-Pop X-Overs",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-10-02 01:03:25",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
-    },
-    {
-      "added_at": "2026-10-02 01:03:25",
-      "album": {
         "name": "7TH YEAR: A Moment of Stillness in the Thorns",
         "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 151733,
       "name": "Take Me to Nirvana (feat. Vinida Weng)",
       "url": "https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO"
+    },
+    {
+      "added_at": "2026-10-02 01:03:25",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
     },
     {
       "added_at": "2026-10-02 01:03:25",

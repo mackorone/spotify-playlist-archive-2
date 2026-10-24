@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Dalmatian",
+        "url": "https://open.spotify.com/album/0mOxy8sYSb1RroY27LhAdf"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253552,
+      "name": "Dalmatian",
+      "url": "https://open.spotify.com/track/3QOi7KqTVoJqt6AikA4MH0"
+    },
+    {
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -5690,7 +5708,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-24",
       "duration_ms": 234134,
       "name": "Umm",
       "url": "https://open.spotify.com/track/7BSh89v209dfsLEwo7CfFX"

@@ -4,7 +4,7 @@
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-667 songs - 1 day 11 hr 45 min
+668 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [BIG DUMMY!](https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:05 | 2025-05-30 | 2025-08-02 |
 | [BIG ONE](https://open.spotify.com/track/0p1odhs9JGRwTbvq1XBH9m) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [BIG ONE](https://open.spotify.com/album/0RpkjLVRhce7TPTpaCAFvb) | 1:54 | 2025-05-30 | 2025-09-27 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-05-13 | 2025-05-31 |
-| [BIRDS & THE BEES](https://open.spotify.com/track/6jRwsEpNh6WlEGnlShC82D) | [Adam Oh](https://open.spotify.com/artist/2iwGr6BtRjn629qLx9w7FQ), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [BIRDS & THE BEES](https://open.spotify.com/album/1Y8XFnNJAA4mIGcBSFKSZO) | 3:36 | 2026-10-09 |  |
+| [BIRDS & THE BEES](https://open.spotify.com/track/6jRwsEpNh6WlEGnlShC82D) | [Adam Oh](https://open.spotify.com/artist/2iwGr6BtRjn629qLx9w7FQ), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [BIRDS & THE BEES](https://open.spotify.com/album/1Y8XFnNJAA4mIGcBSFKSZO) | 3:36 | 2026-10-09 | 2026-10-24 |
 | [birds & the bees](https://open.spotify.com/track/2aJtzhr5WgCoeUEHTNkA8C) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [up above](https://open.spotify.com/album/36Xjwbo8Q9AeaUWdegEh0L) | 4:42 | 2026-02-13 | 2026-04-04 |
 | [BITTERSWEET](https://open.spotify.com/track/7cgPaN8Dxd9MN4WoaMaswX) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd) | [BITTERSWEET](https://open.spotify.com/album/5naoS1X5S0032YQU44VXzm) | 3:20 | 2025-06-06 | 2025-11-15 |
 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs) | 2:43 | 2023-12-15 | 2024-04-06 |
@@ -442,6 +442,7 @@
 | [Oh Jesus](https://open.spotify.com/track/2sFc7zjwbOuWbx2tyVgbD3) | [Robert Adam](https://open.spotify.com/artist/1nQfw4PecsFq0uw4Cj1z7u) | [Oh Jesus](https://open.spotify.com/album/1RY5Zc6eKhlzdISmHljhdm) | 3:55 | 2025-09-05 | 2025-11-29 |
 | [Oh, Great Adventure](https://open.spotify.com/track/1a4xWq8aZcJaM0Njpu9LOk) | [Ellie Banke](https://open.spotify.com/artist/5oyWr2nOEd2KnF8HHvAb1Q) | [Oh, Great Adventure](https://open.spotify.com/album/61EUBp72uHybdywxtNgu0A) | 3:00 | 2026-07-17 | 2026-08-08 |
 | [Old money bitch](https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Old money bitch](https://open.spotify.com/album/7lQ4aPxo9J75gfmHeFuS38) | 4:05 | 2023-12-15 | 2024-07-13 |
+| [Old Song](https://open.spotify.com/track/3vNllnOVx8tenGnu0RRGj3) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Old Song](https://open.spotify.com/album/2QUDsi9mq4KMziDXO94sa2) | 3:09 | 2026-10-23 |  |
 | [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 | 2026-03-03 | 2026-03-28 |
 | [Once Upon An Aquarian Moon](https://open.spotify.com/track/7ro1kMf0qPd38qePNM2pkz) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Romanticism](https://open.spotify.com/album/1TKZ9Nq2LkC1FueWEETwaK) | 3:07 | 2026-10-02 |  |
 | [one drink away](https://open.spotify.com/track/4adKzUS4pIdNstzST1pt3k) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one drink away](https://open.spotify.com/album/0fhe0dFZsaAvonOdFg34GT) | 3:10 | 2023-12-15 | 2024-06-01 |

@@ -2,7 +2,7 @@
 
 ### [2000s Country](https://open.spotify.com/playlist/37i9dQZF1DXdxUH6sNtcDe)
 
-> A decade full of 00s country hits! Cover: Miranda Lambert
+> We're celebrating the 20th anniversary of Taylor Swift's debut album on 2000s Country!
 
 174 songs - 11 hr 18 min
 

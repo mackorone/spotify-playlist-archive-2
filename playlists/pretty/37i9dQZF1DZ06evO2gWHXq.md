@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,946 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,973 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 31 | [Le Pido a la Noche](https://open.spotify.com/track/0QU3Pzrlf2MpWA25c4EwSb) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Salto de Fe](https://open.spotify.com/album/46onTMzi9FlGypnp4NgzqI) | 4:01 |
 | 32 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
 | 33 | [Por si pego](https://open.spotify.com/track/6f7FcB2WIxmu8IJPqxY1nq) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Canciones Mamalonas 3](https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL) | 3:26 |
-| 34 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
-| 35 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1fuiGCrx88jnZYOHhskSzT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 4:00 |
+| 34 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1fuiGCrx88jnZYOHhskSzT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 4:00 |
+| 35 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
 | 36 | [Siempre Es Lo Mismo](https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 4:06 |
-| 37 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
-| 38 | [Tengo Que Probar](https://open.spotify.com/track/0iRtpJoX4pVQx3vUHzaNSU) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Tengo Que Probar](https://open.spotify.com/album/6RaWvAhFPcp3AthMNLi9ob) | 3:21 |
+| 37 | [Tengo Que Probar](https://open.spotify.com/track/0iRtpJoX4pVQx3vUHzaNSU) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Tengo Que Probar](https://open.spotify.com/album/6RaWvAhFPcp3AthMNLi9ob) | 3:21 |
+| 38 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
 | 39 | [Todo Menso](https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Todo Menso](https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH) | 3:11 |
 | 40 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 | 41 | [Juegos de pasión](https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Toda la noche \(feat\. Darkiel\)](https://open.spotify.com/track/4V0UkMx8kDgAwJBwhPjJ5N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:15 |
 | 50 | [Vive La Vida](https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:45 |
 
-Snapshot ID: `atavAAAAAAD3wue7yKApB1npFM8QNYDu`
+Snapshot ID: `atgAgAAAAADfCA42YNdfIzxrL/shhXkF`

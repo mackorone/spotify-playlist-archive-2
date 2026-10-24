@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 44107,
+  "num_followers": 44110,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADbXS3NNHNeN+mWngujAlLfbEaws",
+  "snapshot_id": "AAAAAOCuSCzFEEb2kO8HjjIaRQTf3sZh",
   "tracks": [
     {
       "added_at": "2026-10-16 07:46:08",
@@ -555,26 +555,18 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
-        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 160360,
-      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
-      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
+      "duration_ms": 221280,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -631,22 +623,6 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
-    },
-    {
-      "added_at": "2026-10-16 07:46:08",
-      "album": {
         "name": "One More Dance",
         "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 176958,
       "name": "1+1+1",
       "url": "https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g"
+    },
+    {
+      "added_at": "2026-10-16 07:46:08",
+      "album": {
+        "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+        "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -799,22 +799,18 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -835,18 +831,22 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
         }
       ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
+        "name": "Till It's Over",
+        "url": "https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps"
+      },
+      "artists": [
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "Till It's Over",
+      "url": "https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U"
+    },
+    {
+      "added_at": "2026-10-16 07:46:08",
+      "album": {
         "name": "Round The Block",
         "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
-        "name": "Till It's Over",
-        "url": "https://open.spotify.com/album/1Mv3WX31GSgaYiZO1y5hps"
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
       },
       "artists": [
         {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 213888,
-      "name": "Till It's Over",
-      "url": "https://open.spotify.com/track/6wsdPZf1ggsQufJjRuvQ8U"
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -1015,22 +1031,6 @@
       "duration_ms": 164611,
       "name": "2Love (feat. FAUZIA)",
       "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
-    },
-    {
-      "added_at": "2026-10-16 07:46:08",
-      "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-10-16 07:46:08",
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
-    },
-    {
-      "added_at": "2026-10-16 07:46:08",
-      "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
-        "name": "Bond Girl",
-        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/7fjdvyrAAPwqDoGEoW8Blr"
       },
       "artists": [
         {
@@ -1284,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
         }
       ],
-      "duration_ms": 151003,
-      "name": "Bond Girl",
-      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
+      "duration_ms": 136511,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/1Va3leaBTjd9HUGNbuI97i"
     },
     {
       "added_at": "2026-10-16 07:46:08",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-10-16 07:46:08",
       "album": {
-        "name": "Lockup",
-        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
         }
       ],
-      "duration_ms": 271835,
-      "name": "Lockup",
-      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
+      "duration_ms": 228977,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
     }
   ],
   "unique_name": "Indie Electronic ",

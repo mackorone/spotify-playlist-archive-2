@@ -4,13 +4,13 @@
 
 > all cruise, no breaks
 
-171 songs - 10 hr 35 min
+172 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Hearts](https://open.spotify.com/track/4AhBiNbY1ufi7ScAcHwnBQ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:54 | 2022-05-05 | 2023-09-06 |
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2023-09-05 |  |
-| [A MiLLiON DAGGERS](https://open.spotify.com/track/09MeUcgkzXJFN4OSMkEMlb) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [A MiLLiON DAGGERS](https://open.spotify.com/album/56mRQFbbKn39SWD9waIPFU) | 2:37 | 2026-10-02 |  |
+| [A MiLLiON DAGGERS](https://open.spotify.com/track/09MeUcgkzXJFN4OSMkEMlb) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [A MiLLiON DAGGERS](https://open.spotify.com/album/56mRQFbbKn39SWD9waIPFU) | 2:37 | 2026-10-02 | 2026-10-24 |
 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 | 2022-05-05 | 2023-09-06 |
 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/1b6HCRWWbvFUZ5RG3bg7s6) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:14 | 2022-05-05 | 2023-09-06 |
 | [Acquainted](https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 5:48 | 2023-09-29 |  |
@@ -61,6 +61,7 @@
 | [Figure](https://open.spotify.com/track/0VYxLT8xjoVQfYdSxNUDw9) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Figure](https://open.spotify.com/album/3LSP2OcYGw6HQ8uRoqJbP9) | 7:00 | 2022-05-05 | 2023-09-06 |
 | [FIRE](https://open.spotify.com/track/2c3Zw4hVk9bPIHfjXLHj00) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [FIRE](https://open.spotify.com/album/1R3LPEARw1RFuAPTLNv097) | 3:24 | 2025-07-18 | 2025-08-09 |
 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 | 2022-05-05 | 2023-09-06 |
+| [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 | 2026-10-23 |  |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2023-09-05 | 2025-08-06 |
 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 | 2026-07-21 |  |
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2023-09-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,862 likes - 56 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,122 likes - 56 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 55 | [Teu Preferido](https://open.spotify.com/track/58d1Gf3p4FWKNnGuq00wXT) | [DJ BRIZY](https://open.spotify.com/artist/2ILIlhH5IJbgrq6dZa7wei), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [FreesTyle Sounds](https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI) | [Teu Preferido](https://open.spotify.com/album/089I2QRM8Ytp6vn7zzqT7E) | 2:16 |
 | 56 | [Equipe Caos](https://open.spotify.com/track/6UveejVb6aioPKeamhz1nE) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Biurifol](https://open.spotify.com/artist/6kHgGRuWCJ5FpbieBncl9X), [Mc Mylla](https://open.spotify.com/artist/5y1arZoe6vuqNqEECfFTIq), [DJ Emige](https://open.spotify.com/artist/7Bwy2izsR02avTMcKR6EOr), [Mais Alto](https://open.spotify.com/artist/6ArlLCqc3gl1ASDpaK19qr) | [Equipe Caos](https://open.spotify.com/album/3g7tO5O1qKMYhVoA7NuaCR) | 3:03 |
 
-Snapshot ID: `AAAAABg+iYY7kBdsLUJ1MQl6iXM4S6Et`
+Snapshot ID: `AAAAAH1exeRnUTXH1kazQmjFBzpdPJAn`
