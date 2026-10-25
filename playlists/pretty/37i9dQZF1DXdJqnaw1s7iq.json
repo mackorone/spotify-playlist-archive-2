@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 72792,
+  "num_followers": 72810,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Kiasmos",
-        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
+        "name": "Want You In My Soul",
+        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
       "artists": [
         {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
         }
       ],
-      "duration_ms": 360705,
-      "name": "Looped",
-      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
+      "duration_ms": 497521,
+      "name": "Want You In My Soul",
+      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -463,22 +467,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Want You In My Soul",
-        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
+        "name": "Kiasmos",
+        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
       },
       "artists": [
         {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
         }
       ],
-      "duration_ms": 497521,
-      "name": "Want You In My Soul",
-      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
+      "duration_ms": 360705,
+      "name": "Looped",
+      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "ACT ONE",
-        "url": "https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 264626,
       "name": "Other People",
       "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "ACT ONE",
+        "url": "https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 150226,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 284800,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 195293,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 233017,
-      "name": "The Wheel",
-      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "XXYYXX",
-        "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
       "artists": [
         {
-          "name": "xxyyxx",
-          "url": "https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb"
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
         }
       ],
-      "duration_ms": 247771,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
+      "duration_ms": 233017,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1031,6 +1015,22 @@
       "duration_ms": 250706,
       "name": "Treat Me Like Fire",
       "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "XXYYXX",
+        "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
+      },
+      "artists": [
+        {
+          "name": "xxyyxx",
+          "url": "https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb"
+        }
+      ],
+      "duration_ms": 247771,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "MOVEMENT",
+        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
+      },
+      "artists": [
+        {
+          "name": "MOVEMENT",
+          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
+        }
+      ],
+      "duration_ms": 222339,
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "MOVEMENT",
-        "url": "https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck"
-      },
-      "artists": [
-        {
-          "name": "MOVEMENT",
-          "url": "https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX"
-        }
-      ],
-      "duration_ms": 222339,
-      "name": "Ivory",
-      "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Lover Chanting (Jayda G Remix)",
-        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 205464,
-      "name": "Lover Chanting - Edit",
-      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Choose Your Weapon",
-        "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
+        "name": "Lover Chanting (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 293984,
-      "name": "The Lung",
-      "url": "https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx"
+      "duration_ms": 205464,
+      "name": "Lover Chanting - Edit",
+      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1495,6 +1479,22 @@
       "duration_ms": 230720,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Choose Your Weapon",
+        "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 293984,
+      "name": "The Lung",
+      "url": "https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 245585,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 329169,
       "name": "Huarache Lights",
       "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 245585,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
     },
     {
       "added_at": "2025-08-22 17:54:07",

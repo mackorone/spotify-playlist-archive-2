@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1619617,
+  "num_followers": 1619641,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -639,46 +639,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Turn Up The Speakers (Julian Jordan Remix)",
-        "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 156489,
-      "name": "Turn Up The Speakers - Julian Jordan Remix",
-      "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Worlds Apart / Surreal",
-        "url": "https://open.spotify.com/album/7ENofwwhQGA7OWxGr4hMUc"
-      },
-      "artists": [
-        {
-          "name": "Guy J",
-          "url": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
-        }
-      ],
-      "duration_ms": 511659,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
@@ -703,6 +663,46 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
+        "name": "Worlds Apart / Surreal",
+        "url": "https://open.spotify.com/album/7ENofwwhQGA7OWxGr4hMUc"
+      },
+      "artists": [
+        {
+          "name": "Guy J",
+          "url": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
+        }
+      ],
+      "duration_ms": 511659,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Turn Up The Speakers (Julian Jordan Remix)",
+        "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 156489,
+      "name": "Turn Up The Speakers - Julian Jordan Remix",
+      "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -719,6 +719,42 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/5Vkv80QomuB7l7d8qiqUWE"
+      },
+      "artists": [
+        {
+          "name": "Maiu",
+          "url": "https://open.spotify.com/artist/29HusACCuYJmNt2Q9Ice3I"
+        }
+      ],
+      "duration_ms": 299500,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/5WBRbEbuGULgcdjkNDeLuO"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -743,42 +779,6 @@
       "duration_ms": 236128,
       "name": "No Room For A Saint (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/5Vkv80QomuB7l7d8qiqUWE"
-      },
-      "artists": [
-        {
-          "name": "Maiu",
-          "url": "https://open.spotify.com/artist/29HusACCuYJmNt2Q9Ice3I"
-        }
-      ],
-      "duration_ms": 299500,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/5WBRbEbuGULgcdjkNDeLuO"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Major Drop",
-        "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "Major Drop",
-      "url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "Super Powers",
         "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 212307,
       "name": "Super Powers",
       "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Major Drop",
+        "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 190154,
+      "name": "Major Drop",
+      "url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Tibet",
-        "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Tibet",
-      "url": "https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "undux",
         "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 212000,
       "name": "obvious",
       "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Tibet",
+        "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Tibet",
+      "url": "https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
         "name": "girl$ (Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 184477,
       "name": "girl$ - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/5ywMl2Va7lGZJq4LsJOiI1"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Daijo",
+          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/1T1vC3MiuhjmeGmiZzIQBn"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 171428,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/5ywMl2Va7lGZJq4LsJOiI1"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "Daijo",
-          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/1T1vC3MiuhjmeGmiZzIQBn"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "duration_ms": 232607,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
         "name": "High On A Feeling",
         "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 211535,
       "name": "High On A Feeling",
       "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
-        }
-      ],
-      "duration_ms": 232607,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
         "name": "I'm On My Way",
         "url": "https://open.spotify.com/album/1PmoRrq9lPAVg7uDGOWyX7"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 207619,
       "name": "I'm On My Way",
       "url": "https://open.spotify.com/track/41mux6XUTiOdDnlk0UFo9Y"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2026-10-16 04:00:45",

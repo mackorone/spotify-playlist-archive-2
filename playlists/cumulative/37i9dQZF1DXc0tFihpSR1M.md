@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Anna Lille
 
-734 songs - 1 day 14 hr 12 min
+736 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Beste du har hatt](https://open.spotify.com/track/6x2AR7jQaQDFxW6mVk07jn) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa) | [Beste du har hatt](https://open.spotify.com/album/6vHHPtTcttA3EQZXHY2Wo9) | 2:31 | 2026-10-16 | 2026-10-23 |
 | [Better Than Me](https://open.spotify.com/track/2aFTwiRhQf2MuNXnnaSPuC) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [Dancing x Fighting](https://open.spotify.com/album/46LBWCrmaqTt4wkySpOvih) | 2:48 | 2026-04-23 | 2026-05-15 |
 | [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 | 2024-10-24 | 2024-11-02 |
-| [Birthday Makeup](https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Birthday Makeup](https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t) | 2:54 | 2026-05-14 |  |
+| [Birthday Makeup](https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Birthday Makeup](https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t) | 2:54 | 2026-05-14 | 2026-10-25 |
 | [Blindvei](https://open.spotify.com/track/3YaFsvCI9WPSwIQAQLWhj8) | [Yngvil](https://open.spotify.com/artist/4uE77IUh7bzJzGZjRnKOOj) | [Blindvei](https://open.spotify.com/album/4H73OlOiX3jtEq7av8huHB) | 3:48 | 2026-08-06 | 2026-09-04 |
 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2026-05-22 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-08-30 |
@@ -208,7 +208,7 @@
 | [For Gitt](https://open.spotify.com/track/0zDmc48GF8H9VD1bAOzoOV) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp), [Kriss](https://open.spotify.com/artist/7oWGXJb3IEJW8tftK5ZTas) | [For Gitt](https://open.spotify.com/album/2poWLVunx0bTTlEdcJVw2K) | 2:54 | 2025-05-08 | 2025-08-29 |
 | [for godt te å være sant](https://open.spotify.com/track/45w3l40v6FKHRR1br4jL84) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [for godt te å være sant](https://open.spotify.com/album/24ljemOJrRApl3ILhqO1or) | 2:56 | 2024-08-08 | 2024-08-23 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-06-27 | 2025-02-21 |
-| [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 | 2026-09-03 |  |
+| [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 | 2026-09-03 | 2026-10-25 |
 | [Forandra meg](https://open.spotify.com/track/2aZvSspnaeVy4FbRYDFXKl) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al) | [Forandra meg](https://open.spotify.com/album/4wndF2b15v5drwzDnECyyt) | 3:03 | 2024-08-15 | 2024-08-23 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-06-27 | 2024-11-02 |
 | [Fortjener litt fri](https://open.spotify.com/track/5rcGHD3pKmAZp8PyDySpgH) | [Pikekyss](https://open.spotify.com/artist/54xTXofo1EERPAgsvvBPho) | [Fortjener litt fri](https://open.spotify.com/album/4ai9fd3SitPQC8LHdEJBla) | 3:08 | 2026-05-21 | 2026-05-30 |
@@ -495,6 +495,7 @@
 | [ORIGAMI!](https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [ORIGAMI!](https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J) | 2:34 | 2026-05-07 | 2026-06-05 |
 | [Oui](https://open.spotify.com/track/6eP4IlEloHBWW5uc2NNnZh) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc) | [Oui](https://open.spotify.com/album/3OkjxLGoxY6566tBgj5FU3) | 2:40 | 2026-05-21 | 2026-06-05 |
 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2025-11-06 | 2025-11-14 |
+| [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 | 2026-10-23 |  |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 | 2024-09-13 |
 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 | 2026-09-24 | 2026-10-02 |
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-05 |  |
@@ -631,6 +632,7 @@
 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 | 2026-07-31 | 2026-09-11 |
 | [Tampen Brenner](https://open.spotify.com/track/40BcoGOFpOHNqewLjtaHxi) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Tampen Brenner](https://open.spotify.com/album/6ie19InyHddmWoc9v44NFV) | 2:25 | 2025-10-16 | 2025-10-31 |
 | [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 | 2025-08-28 | 2025-09-13 |
+| [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 | 2026-10-23 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-22 | 2025-05-02 |
 | [Taxifil](https://open.spotify.com/track/205Yfraj24P1f4tia8bXyI) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Taxifil](https://open.spotify.com/album/4UEjFwgHSTBvWHAghZvEYM) | 2:16 | 2026-05-21 | 2026-06-05 |
 | [Te de som elske han](https://open.spotify.com/track/71v24NBD6unbjT9OHVytA9) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Te de som elske han](https://open.spotify.com/album/1nHC4BaFk2wEFF8IQ87Rru) | 2:36 | 2026-01-29 | 2026-04-06 |

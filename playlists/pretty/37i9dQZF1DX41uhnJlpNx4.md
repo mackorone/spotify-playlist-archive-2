@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 
 > rumba, calor y trago con Gente de Zona y Elena Rose 🌴🍹🍾💃🏽🕺🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,836 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,851 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

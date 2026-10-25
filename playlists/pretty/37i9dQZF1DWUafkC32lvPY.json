@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 34476,
+  "num_followers": 34490,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,30 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Acrylic Label",
+          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Bolero coqueto",
         "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Monstera",
-        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Acrylic Label",
-          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Monstera",
-      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Lofi Latino, Vol. 2",
+        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
+      },
+      "artists": [
+        {
+          "name": "Lofi Cult",
+          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
+        }
+      ],
+      "duration_ms": 138709,
+      "name": "La Selva Nos Llama",
+      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Wait 4 Me",
         "url": "https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Lofi Latino, Vol. 2",
-        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
+        "name": "Sunset on Vallarta",
+        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
       },
       "artists": [
         {
-          "name": "Lofi Cult",
-          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
         }
       ],
-      "duration_ms": 138709,
-      "name": "La Selva Nos Llama",
-      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+      "duration_ms": 145200,
+      "name": "Sunset on Vallarta",
+      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -831,18 +847,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Sunset on Vallarta",
-        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
+        "name": "Sosiego",
+        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
       },
       "artists": [
         {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+          "name": "Dj 113",
+          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Sunset on Vallarta",
-      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
+      "duration_ms": 108203,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -863,22 +879,6 @@
       "duration_ms": 129882,
       "name": "Perdido en Memorias",
       "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Sosiego",
-        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
-      },
-      "artists": [
-        {
-          "name": "Dj 113",
-          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
-        }
-      ],
-      "duration_ms": 108203,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -939,6 +939,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Primer Beso",
+        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Primer Beso",
+      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Donde Estas?",
         "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 149333,
       "name": "Cempasuchil",
       "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Primer Beso",
-        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Primer Beso",
-      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        }
+      ],
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Mi\u00e9rcoles Azul",
         "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
+        "name": "Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
       },
       "artists": [
         {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+          "name": "Tranquilo",
+          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
         }
       ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
+      "duration_ms": 98653,
+      "name": "Alc\u00e1zar",
+      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1091,22 +1107,6 @@
       "duration_ms": 100000,
       "name": "Maruchan",
       "url": "https://open.spotify.com/track/5jheo6f4gSjfnhte65b5Tt"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
-      },
-      "artists": [
-        {
-          "name": "Tranquilo",
-          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Alc\u00e1zar",
-      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Quiet Process",
-        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
       "artists": [
         {
-          "name": "Baskito",
-          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
+          "name": "Sam Cross",
+          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
+        },
+        {
+          "name": "Kebyn Moon",
+          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
         }
       ],
-      "duration_ms": 168103,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+      "duration_ms": 115714,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
+        "name": "Quiet Process",
+        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
       "artists": [
         {
-          "name": "Sam Cross",
-          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
-        },
-        {
-          "name": "Kebyn Moon",
-          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
+          "name": "Baskito",
+          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
         }
       ],
-      "duration_ms": 115714,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
+      "duration_ms": 168103,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "La Belleza de lo Cotidiano",
         "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 128000,
       "name": "La Belleza de lo Cotidiano",
       "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2025-04-04 04:00:19",

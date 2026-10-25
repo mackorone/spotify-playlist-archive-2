@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-184 songs - 14 hr 12 min
+185 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Salvamm' o munno \- 2024 Remaster](https://open.spotify.com/track/07nEudDeniMFVGWSmjTx8X) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Bottari](https://open.spotify.com/artist/5REMQdXJQ6H1R3Od8I5dtF), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Salvamm 'o munno \(20th Anniversary\)](https://open.spotify.com/album/6tLQig0rGAwnlSm0u72eKF) | 3:52 | 2024-10-05 |  |
 | [Sango Yesu Cristo](https://open.spotify.com/track/7uQVyVvcvCQYK6Kj1QOdzl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa' Su Kamer Feelin'](https://open.spotify.com/album/7oBL9kG8zwtGGfGst2W0Iv) | 5:11 | 2021-12-28 | 2022-10-13 |
 | [Sax City](https://open.spotify.com/track/0WepWqVggMJ7OiVl4PBE8g) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 3:16 | 2021-12-28 |  |
-| [Senga](https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 3:04 | 2022-09-16 |  |
+| [Senga](https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 3:04 | 2022-09-16 | 2026-10-25 |
 | [Shakara / Lady, Pt\. 2](https://open.spotify.com/track/2nrMpo1UZZkoC2mZXjWYZZ) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Les Nubians](https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Chateau Flight](https://open.spotify.com/artist/6mtCXhF5yj1GUsQItDNDwr) | [Red Hot + Riot](https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq) | 4:47 | 2025-12-31 | 2026-01-30 |
 | [Shake It Up](https://open.spotify.com/track/6cfmgoNQyklgCO52f6RHTT) | [Urban Recall](https://open.spotify.com/artist/1JbWVXXqimUrZshCMOa20z), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Les plus grands tubes pour faire la fête](https://open.spotify.com/album/5teS3Rew78baHD120LfAAm) | 3:04 | 2025-07-18 | 2025-08-03 |
 | [Simm' Tutt'Uno](https://open.spotify.com/track/57fT5UTogxchiaQvjubZnh) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bottari di Portico](https://open.spotify.com/artist/4eNK0Rn3bc2mUhIhLtLFmy) | [Simm' Tutt'Uno \(feat\. Jovanotti, Manu Dibango & Bottari Di Portico\)](https://open.spotify.com/album/1M4apnNZGhzyfTTrDADfIV) | 3:08 | 2022-09-20 | 2025-01-12 |
@@ -164,6 +164,7 @@
 | [Son de la Loma](https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:19 | 2021-12-29 |  |
 | [Soul Fiesta](https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:08 | 2022-02-05 | 2024-10-21 |
 | [Soul Machine](https://open.spotify.com/track/0MP07TNfHYY4YGGHl31AVq) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:00 | 2021-12-28 | 2024-02-25 |
+| [Soul Makossa](https://open.spotify.com/track/1SJ9nR9SOJGii00yV6AJaC) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Soul Makossa](https://open.spotify.com/album/5nChqt5GfGxKcFnSlYSDcy) | 3:07 | 2026-10-25 |  |
 | [Soul Makossa](https://open.spotify.com/track/53SRGlm05JPF40iopwZND2) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Soul Makossa](https://open.spotify.com/album/4VHpym5VbHo2YJr0kAKiEG) | 2:55 | 2026-05-03 | 2026-05-31 |
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2021-12-28 |  |
 | [Soul Saxes Meeting](https://open.spotify.com/track/2a4pTooehkmiD7hQ5DeyC5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:58 | 2022-07-22 | 2025-10-08 |

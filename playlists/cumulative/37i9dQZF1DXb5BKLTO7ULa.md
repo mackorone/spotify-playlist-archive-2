@@ -4,7 +4,7 @@
 
 > Nieuw: Qlas, The Opposites, LISA, Bente, Jan Smit en meer..
 
-18,036 songs - 39 day 6 hr 0 min
+18,037 songs - 39 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14187,6 +14187,7 @@
 | [Soy Yo](https://open.spotify.com/track/0mkykewBRHWJHUGfStQ5Xn) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [Soy Yo](https://open.spotify.com/album/7zyKfSVSnTMDUrlxfpvcEB) | 2:17 | 2026-01-15 | 2026-01-23 |
 | [Spaans](https://open.spotify.com/track/0SGTzkDOWdchqg0u1Aq7uL) | [Harrie Snijders](https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S), [Revie](https://open.spotify.com/artist/1wA8oP2wKhSpq5X3igjJT1) | [Spaans](https://open.spotify.com/album/15WW47UQ21k2R5fp1NFDt8) | 2:45 | 2023-08-24 | 2023-09-01 |
 | [Spaans Benauwd](https://open.spotify.com/track/2dOOw6sDdx0Bk1qHPox8FS) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Spaans Benauwd](https://open.spotify.com/album/1UlGfRNEQMTcROChHZd1KM) | 2:47 | 2025-03-06 | 2025-03-14 |
+| [Spaarpot](https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Qlassiek](https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt) | 2:13 | 2026-10-24 |  |
 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 | 2023-03-30 | 2023-04-07 |
 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 | 2025-10-02 | 2025-10-10 |
 | [Space Between Us](https://open.spotify.com/track/4hQxUjtHmaWquQ8WLFoQev) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Space Between Us](https://open.spotify.com/album/4Cicp9d5FliENHChP8vFQq) | 3:09 | 2023-12-21 | 2024-01-05 |

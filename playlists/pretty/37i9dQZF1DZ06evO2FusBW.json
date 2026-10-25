@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11272,
+  "num_followers": 11271,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAAz9n84wmdohlcLlkcVXCJo",
+  "snapshot_id": "atqjgAAAAACNmUWkWFuYrKg6rGEJIkHM",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 137213,
-      "name": "Memory of Water",
-      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
+      "duration_ms": 295706,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 295706,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
+      "duration_ms": 137213,
+      "name": "Memory of Water",
+      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 205760,
-      "name": "Essence of Light",
-      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 212282,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v"
+      "duration_ms": 205760,
+      "name": "Essence of Light",
+      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+      "duration_ms": 212282,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 154000,
       "name": "Tree of Light - A Call to Arms",
       "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "Sky opus fire",
-      "url": "https://open.spotify.com/track/17TnDe1wOMBxUAiVtVRot2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 262506,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Sky opus fire",
+      "url": "https://open.spotify.com/track/17TnDe1wOMBxUAiVtVRot2"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portraits in Film",
-        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 199648,
-      "name": "Brave Heart",
-      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tree of Light",
         "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Portraits in Film",
+        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Ever After",
-      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
+      "duration_ms": 199648,
+      "name": "Brave Heart",
+      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
     },
     {
       "added_at": null,
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 234520,
-      "name": "The Heart's Monologue",
-      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
+      "duration_ms": 221293,
+      "name": "Costa da Caparica",
+      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
     },
     {
       "added_at": null,
@@ -559,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
       "artists": [
         {
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Costa da Caparica",
-      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+      "duration_ms": 231773,
+      "name": "Age of Aquarius",
+      "url": "https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x"
     },
     {
       "added_at": null,
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 231773,
-      "name": "Age of Aquarius",
-      "url": "https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x"
+      "duration_ms": 252160,
+      "name": "Ever After",
+      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 278750,
       "name": "NATURE VIBRATION",
       "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "The Heart's Monologue",
+      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13823,
+  "num_followers": 13827,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Introspektion",
+        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
+      },
+      "artists": [
+        {
+          "name": "Taz",
+          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
+        }
+      ],
+      "duration_ms": 251626,
+      "name": "Brugg",
+      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "L\u00e4benslauf",
         "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 242293,
       "name": "L\u00e4benslauf",
       "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Introspektion",
-        "url": "https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO"
-      },
-      "artists": [
-        {
-          "name": "Taz",
-          "url": "https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Brugg",
-      "url": "https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww"
     },
     {
       "added_at": "2026-10-08 22:00:12",

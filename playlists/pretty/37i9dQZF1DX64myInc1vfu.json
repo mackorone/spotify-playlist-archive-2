@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Camilo",
-  "num_followers": 107244,
+  "num_followers": 107273,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
+        "name": "Qu\u00e9 Pecado",
+        "url": "https://open.spotify.com/album/47VeV0BY7It9sMX5jaOZBR"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 167313,
+      "name": "Qu\u00e9 Pecado",
+      "url": "https://open.spotify.com/track/0D7qH96m1YEQABHtZmvWUr"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
         "name": "Trebol (II)",
         "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Qu\u00e9 Pecado",
-        "url": "https://open.spotify.com/album/47VeV0BY7It9sMX5jaOZBR"
+        "name": "Las Canciones M\u00e1s Hermosas Son para Ti",
+        "url": "https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 167313,
-      "name": "Qu\u00e9 Pecado",
-      "url": "https://open.spotify.com/track/0D7qH96m1YEQABHtZmvWUr"
+      "duration_ms": 143964,
+      "name": "Justo As\u00ed",
+      "url": "https://open.spotify.com/track/2pRtM6i9NqT8I02Tyhexpr"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1247,22 +1263,6 @@
       "duration_ms": 172500,
       "name": "El Verdugo",
       "url": "https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
-        "name": "Las Canciones M\u00e1s Hermosas Son para Ti",
-        "url": "https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 143964,
-      "name": "Justo As\u00ed",
-      "url": "https://open.spotify.com/track/2pRtM6i9NqT8I02Tyhexpr"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Cuenta Regresiva",
-        "url": "https://open.spotify.com/album/469L6ILwfPQV6nQgtZ8cSL"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Cuenta Regresiva",
-      "url": "https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Tu Camisa",
         "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 188139,
       "name": "Tu Camisa",
       "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Cuenta Regresiva",
+        "url": "https://open.spotify.com/album/469L6ILwfPQV6nQgtZ8cSL"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 193672,
+      "name": "Cuenta Regresiva",
+      "url": "https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm"
     },
     {
       "added_at": "2026-09-25 04:03:05",

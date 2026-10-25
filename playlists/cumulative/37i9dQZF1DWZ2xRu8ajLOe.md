@@ -4,7 +4,7 @@
 
 > Your ultimate running soundtrack!
 
-128 songs - 6 hr 48 min
+129 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 | 2025-10-09 |  |
 | [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [The Finest EP](https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve) | 2:49 | 2025-10-09 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2025-10-09 |  |
-| [Hannah \(the sun\)](https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:16 | 2025-10-09 |  |
+| [Hannah \(the sun\)](https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:16 | 2025-10-09 | 2026-10-25 |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/4HvBJocC5MDYL4yGnQe5jq) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 2:50 | 2025-10-09 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2025-10-09 |  |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2025-10-09 |  |
@@ -134,6 +134,7 @@
 | [Wish You Were Mine \- Radio Edit](https://open.spotify.com/track/412luShbmlgqqgYFStIB1s) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Wish You Were Mine](https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU) | 2:57 | 2025-10-09 |  |
 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 | 2026-07-02 |  |
 | [Won't Look Back](https://open.spotify.com/track/1EIjtTM4j3veLBfj6gd4Vk) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Won’t Look Back](https://open.spotify.com/album/5uGSRiMZDk5YyihA039dpz) | 4:30 | 2025-10-09 |  |
+| [Yeah Yeah \- D Ramirez Vocal Radio Edit](https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT) | [Bodyrox](https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [D\. Ramirez](https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz) | [Yeah Yeah](https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br) | 2:41 | 2026-07-02 |  |
 | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT) | 2:50 | 2025-10-09 |  |
 | [You're Makin' Me High](https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [You're Makin' Me High](https://open.spotify.com/album/5o3Ob6SHmB5ZnSWOiyGv6N) | 2:46 | 2025-10-09 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: M.G.L., Alessandra",
-  "num_followers": 23732,
+  "num_followers": 23736,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Sunt fratii tai",
+      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+    },
+    {
+      "added_at": "2026-10-22 21:00:21",
+      "album": {
         "name": "Reggaeton",
         "url": "https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
-    },
-    {
-      "added_at": "2026-10-22 21:00:21",
-      "album": {
-        "name": "Direct din Tei",
-        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 159244,
-      "name": "Sunt fratii tai",
-      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
     },
     {
       "added_at": "2026-10-22 21:00:21",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
-        "name": "Copiii Care Am Fost",
-        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
-      },
-      "artists": [
-        {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
-        },
-        {
-          "name": "Bastien",
-          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Copiii Care Am Fost",
-      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
-    },
-    {
-      "added_at": "2026-10-22 21:00:21",
-      "album": {
         "name": "Asta-i \u021aara Mea",
         "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
+    },
+    {
+      "added_at": "2026-10-22 21:00:21",
+      "album": {
+        "name": "Copiii Care Am Fost",
+        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
+      },
+      "artists": [
+        {
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+        },
+        {
+          "name": "Bastien",
+          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Copiii Care Am Fost",
+      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
     },
     {
       "added_at": "2026-10-22 21:00:21",
@@ -951,22 +951,22 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr"
+        "name": "Corina",
+        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
       },
       "artists": [
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
         },
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Lexi Cali",
+          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Hustler",
-      "url": "https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes"
+      "duration_ms": 221250,
+      "name": "Corina",
+      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
     }
   ],
   "unique_name": "Suflet + Sunet",

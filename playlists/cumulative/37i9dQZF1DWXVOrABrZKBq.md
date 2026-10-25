@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Heuss L'enfoiré, PLK
 
-817 songs - 1 day 15 hr 8 min
+818 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Focus](https://open.spotify.com/track/0IhTXHtG1XRlM2kFWBiYxu) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Focus](https://open.spotify.com/album/0Zu1973ka6igA5uYGiJ81S) | 4:06 | 2026-03-06 | 2026-06-27 |
 | [FOKONKITTELEBANDO \(feat\. Josman\)](https://open.spotify.com/track/2uXytsE3x3BIDHKmGQERNM) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [23 JPT EXTENDO +](https://open.spotify.com/album/3njbmPv3VW1wfBv5MrojCY) | 3:32 | 2026-06-26 | 2026-09-20 |
 | [FOLIE](https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LIMITLESS : HORIZON](https://open.spotify.com/album/1msS30ti4CoeOG9KoIGrQe) | 3:03 | 2026-01-23 | 2026-03-21 |
+| [François Besse](https://open.spotify.com/track/5U5FsHmXubZJsot12ebXlA) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [De ma fenêtre](https://open.spotify.com/album/1l7e95OCyOoPrxn5klPLfp) | 3:02 | 2026-10-23 |  |
 | [Free un tel](https://open.spotify.com/track/5zfz3YA4if2BCG2UW4jyDk) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Porter le coup, oublier\. Porter la marque, se souvenir](https://open.spotify.com/album/47wpyURruMQckYemmj2fb5) | 3:36 | 2025-02-14 | 2025-10-18 |
 | [Freestyle Session \#1](https://open.spotify.com/track/4h54J2q0MEVu7rTSznNNsN) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38) | [Freestyle Session \#1](https://open.spotify.com/album/27r3U0OrfUWBfSEii2w53P) | 2:08 | 2026-07-17 | 2026-08-15 |
 | [FRENCH CONNEXION, Pt.3](https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [FRENCH CONNEXION, Pt.3](https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec) | 3:28 | 2026-10-02 |  |
@@ -653,7 +654,7 @@
 | [Remember](https://open.spotify.com/track/6zUPIHnHKSe2HUu3EcwG3l) | [Jeune Morty](https://open.spotify.com/artist/0j88iwyJrnRpKBhiJtG0je), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Remember / Platine](https://open.spotify.com/album/43aLObxsLbh6guqvGGhgDA) | 3:08 | 2026-08-28 | 2026-09-12 |
 | [Remontada](https://open.spotify.com/track/1W2SSxoLIk53ulFH80t8Ez) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [Remontada](https://open.spotify.com/album/0QmCrblGmEeExx2iV0YrSv) | 2:21 | 2025-11-14 | 2026-01-17 |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2023-03-03 | 2023-05-06 |
-| [rentier](https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [shelf](https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8) | 3:51 | 2026-09-18 |  |
+| [rentier](https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [shelf](https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8) | 3:51 | 2026-09-18 | 2026-10-25 |
 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 | 2026-04-03 |  |
 | [RFD](https://open.spotify.com/track/5vBMjRxBaSHUI6tKE4wXg8) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [RFD](https://open.spotify.com/album/33D7ADHkWncZq0h2mAFqCh) | 2:52 | 2026-03-27 | 2026-04-04 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2023-03-03 | 2023-03-11 |

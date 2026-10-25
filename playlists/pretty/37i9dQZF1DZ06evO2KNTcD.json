@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADaKdjhMr2HqWI75W8v1cGG",
+  "snapshot_id": "atqjgAAAAACzk6N/OSStvdgPk1Wke7yf",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High My Name Is",
-        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 175923,
-      "name": "High My Name Is",
-      "url": "https://open.spotify.com/track/7CtGIu3D2Xid9UgnHzE8pO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What You Need (feat THEY.)",
         "url": "https://open.spotify.com/album/6PNzYWPwECYWRzxCQb5snv"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High My Name Is",
+        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 175923,
+      "name": "High My Name Is",
+      "url": "https://open.spotify.com/track/7CtGIu3D2Xid9UgnHzE8pO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AUDACITY",
         "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
       },
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 175346,
-      "name": "Soft Side",
-      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
+      "duration_ms": 189693,
+      "name": "Sugar Trap",
+      "url": "https://open.spotify.com/track/3RZ6Fnxs6XdyOZcpJA4bGr"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
         }
       ],
-      "duration_ms": 189693,
-      "name": "Sugar Trap",
-      "url": "https://open.spotify.com/track/3RZ6Fnxs6XdyOZcpJA4bGr"
+      "duration_ms": 175346,
+      "name": "Soft Side",
+      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
     },
     {
       "added_at": null,

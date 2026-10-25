@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 482342,
+  "num_followers": 482350,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAABsdKjsjjtZ1Qtx9d+ih5kV",
+  "snapshot_id": "atqjgAAAAACQIba54+YBsgyS37A8VKy1",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay [Feat. Patrick Wilson]",
-        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
       "artists": [
         {
           "name": "Ghost",
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        },
-        {
-          "name": "Patrick Wilson",
-          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
         }
       ],
-      "duration_ms": 234220,
-      "name": "Stay [Feat. Patrick Wilson]",
-      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
+      "duration_ms": 241106,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt"
     },
     {
       "added_at": null,
@@ -479,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+        "name": "Stay [Feat. Patrick Wilson]",
+        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
       },
       "artists": [
         {
           "name": "Ghost",
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
         }
       ],
-      "duration_ms": 241106,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt"
+      "duration_ms": 234220,
+      "name": "Stay [Feat. Patrick Wilson]",
+      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 313413,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Stand by Him",
+      "url": "https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Stand by Him",
-      "url": "https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 269706,
       "name": "Faith",
       "url": "https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Con Clavi Con Dio",
+      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
     },
     {
       "added_at": null,
@@ -607,38 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Con Clavi Con Dio",
-      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
-        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 296999,
-      "name": "Spirit - Live from Mexico City",
-      "url": "https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
@@ -648,25 +632,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 242640,
-      "name": "From The Pinnacle To The Pit",
-      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infestissumam",
-        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "Per Aspera Ad Inferi",
-      "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
+      "duration_ms": 247373,
+      "name": "Mummy Dust",
+      "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
     },
     {
       "added_at": null,
@@ -687,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
+        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
       },
       "artists": [
         {
@@ -696,9 +664,25 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Hanging Around",
-      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+      "duration_ms": 296999,
+      "name": "Spirit - Live from Mexico City",
+      "url": "https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "Per Aspera Ad Inferi",
+      "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
     },
     {
       "added_at": null,
@@ -712,9 +696,25 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Mummy Dust",
-      "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
+      "duration_ms": 242640,
+      "name": "From The Pinnacle To The Pit",
+      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-201 songs - 10 hr 5 min
+202 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 | 2024-02-11 |  |
 | [Don't Shut Me Down](https://open.spotify.com/track/7l8BKyvpk84QWeriTbIXjP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Shut Me Down](https://open.spotify.com/album/5LGl7CYTeCj3GZTbyuO3Wu) | 3:56 | 2023-11-10 | 2023-12-18 |
 | [Don't Start Now](https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Start Now](https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq) | 3:04 | 2023-02-16 | 2024-07-16 |
-| [Dracula](https://open.spotify.com/track/3vof9aW2ZSAmQCdEwmFsyn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 2:53 | 2026-06-09 |  |
+| [Dracula](https://open.spotify.com/track/3vof9aW2ZSAmQCdEwmFsyn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 2:53 | 2026-06-09 | 2026-10-25 |
 | [drop dead](https://open.spotify.com/track/6bUCROtu78ifRgxj0PeBT4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [drop dead](https://open.spotify.com/album/7IIGaEFyIvyiXfAoze8PsF) | 3:28 | 2026-06-14 | 2026-08-28 |
 | [drop dead](https://open.spotify.com/track/0yHgOTyRnie4AbqC5WJ5yC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 54](https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw) | 3:30 | 2026-09-11 |  |
 | [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-02-16 | 2023-08-07 |
@@ -95,6 +95,7 @@
 | [I Just Might](https://open.spotify.com/track/3fMJmqOH3WfA6mVsz4Mk8s) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Just Might](https://open.spotify.com/album/2FA2oEbnGvEizQHq1bzSaT) | 3:31 | 2026-04-12 | 2026-05-28 |
 | [I Just Might](https://open.spotify.com/track/3bsecwjX5nHQQE21IQWyR0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 3:33 | 2026-05-28 |  |
 | [I Knew It, I Knew You](https://open.spotify.com/track/1ne9bWXrCx4Smc1WZQXH0C) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 54](https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw) | 2:57 | 2026-08-16 |  |
+| [I Want Candy](https://open.spotify.com/track/4Jdlt3B3F6L50kmfHmbKrF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:59 | 2026-10-25 |  |
 | [I Want Candy \- 2022](https://open.spotify.com/track/7JMH1fURzJWdehgtg4qPWK) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween \- 2025](https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj) | 2:48 | 2025-10-26 | 2025-12-14 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:42 | 2023-02-16 |  |
 | [Intentions](https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:42 | 2023-02-16 | 2026-01-26 |

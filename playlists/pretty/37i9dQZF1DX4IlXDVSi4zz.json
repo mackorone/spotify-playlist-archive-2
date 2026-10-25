@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1035396,
+  "num_followers": 1035460,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,22 @@
     {
       "added_at": "2026-10-16 04:02:37",
       "album": {
-        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
       },
       "artists": [
         {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         },
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 172314,
-      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -491,22 +487,26 @@
     {
       "added_at": "2026-10-16 04:02:37",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
         },
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
         }
       ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-10-16 04:02:37",
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
+        }
+      ],
+      "duration_ms": 236249,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
+    },
+    {
+      "added_at": "2026-10-16 04:02:37",
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 148000,
       "name": "Positions",
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
-    },
-    {
-      "added_at": "2026-10-16 04:02:37",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Rohan Pinnock-Hamilton",
-          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
-        }
-      ],
-      "duration_ms": 236249,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-10-16 04:02:37",
       "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
-    },
-    {
-      "added_at": "2026-10-16 04:02:37",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 229174,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
+    },
+    {
+      "added_at": "2026-10-16 04:02:37",
+      "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -1539,26 +1539,6 @@
       "duration_ms": 161250,
       "name": "Control",
       "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
-    },
-    {
-      "added_at": "2026-10-16 04:02:37",
-      "album": {
-        "name": "Let's Go (Magalenha)",
-        "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 163019,
-      "name": "Let's Go (Magalenha)",
-      "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -1587,6 +1567,26 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
+    },
+    {
+      "added_at": "2026-10-16 04:02:37",
+      "album": {
+        "name": "Let's Go (Magalenha)",
+        "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 163019,
+      "name": "Let's Go (Magalenha)",
+      "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-10-16 04:02:37",
       "album": {
+        "name": "Be Without You",
+        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 208181,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
+    },
+    {
+      "added_at": "2026-10-16 04:02:37",
+      "album": {
         "name": "PERO NO TE ENAMORES",
         "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 186116,
       "name": "FVCK",
       "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
-    },
-    {
-      "added_at": "2026-10-16 04:02:37",
-      "album": {
-        "name": "Be Without You",
-        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 208181,
-      "name": "Be Without You",
-      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2026-10-16 04:02:37",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2026-10-16 04:02:37",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 162684,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+    },
+    {
+      "added_at": "2026-10-16 04:02:37",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2026-10-16 04:02:37",
@@ -2075,18 +2075,26 @@
     {
       "added_at": "2026-10-16 04:02:37",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
+        "name": "Radio Nacional",
+        "url": "https://open.spotify.com/album/2quDxCML4J1cT7i4ZiMh6A"
       },
       "artists": [
         {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "DJ GTi",
+          "url": "https://open.spotify.com/artist/6mPCyDhyxqefBQbhKcm9Ms"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 173637,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+      "duration_ms": 298782,
+      "name": "Radio Nacional",
+      "url": "https://open.spotify.com/track/1Nxbt8pCIRKraImjjHd34M"
     },
     {
       "added_at": "2026-10-16 04:02:37",

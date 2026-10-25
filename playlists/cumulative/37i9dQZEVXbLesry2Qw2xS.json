@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 197639,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r"
@@ -12776,7 +12776,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 166615,
       "name": "DOLLAREID",
       "url": "https://open.spotify.com/track/5Fs9IiyMxXtMpzOAOOy1wg"
@@ -20630,7 +20630,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 269840,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"
@@ -21166,7 +21166,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 229161,
       "name": "High Forever - Marlon Hoffstadt Remix",
       "url": "https://open.spotify.com/track/25KN5IFew2JifHoqx5Q7Z7"
@@ -22804,7 +22804,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 276687,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/43wgyQXc2M9KmTDUqVzugM"
@@ -23506,7 +23506,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 190724,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3jnYCrF7UpSYAwwy1URW8d"
@@ -24130,7 +24130,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 216000,
       "name": "Igavuse teisel pool",
       "url": "https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw"
@@ -30703,6 +30703,28 @@
     },
     {
       "album": {
+        "name": "V\u00d5\u00d5RAD",
+        "url": "https://open.spotify.com/album/6X0RX7hdXpph352Ws5Oslf"
+      },
+      "artists": [
+        {
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
+        },
+        {
+          "name": "P\u00far M\u00fadd",
+          "url": "https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "LINNADE P\u00d5LETAMINE",
+      "url": "https://open.spotify.com/track/2H1QtCbswGBMR0Q3hZFXKb"
+    },
+    {
+      "album": {
         "name": "kannatused ehk k\u00fclakiigel pole stopperit",
         "url": "https://open.spotify.com/album/7mLL0eVJ6aOzQ5I6z9cUwN"
       },
@@ -35728,7 +35750,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/5c7Mswm6Ueq0nKlgH3rTwQ"
@@ -41208,7 +41230,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 188090,
       "name": "Palavaks",
       "url": "https://open.spotify.com/track/5sEzQnpzigAaZRxfSLbZcy"
@@ -47499,6 +47521,32 @@
     },
     {
       "album": {
+        "name": "Seksikas",
+        "url": "https://open.spotify.com/album/7vH8rQIEs1mJCqZ6ooa1gg"
+      },
+      "artists": [
+        {
+          "name": "Clicherik",
+          "url": "https://open.spotify.com/artist/5fKKHZpDVCWNEvhJs08NDj"
+        },
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        },
+        {
+          "name": "Elina Born",
+          "url": "https://open.spotify.com/artist/70ANZII0p7JCQ4ArAesCbA"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190833,
+      "name": "Seksikas",
+      "url": "https://open.spotify.com/track/0ULAnWCSYdabqwe6lKHbxm"
+    },
+    {
+      "album": {
         "name": "Sel \u00d6\u00f6l on Tunne",
         "url": "https://open.spotify.com/album/5o8AMfKgQ7Hl721xj6Fufx"
       },
@@ -48298,7 +48346,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
@@ -52100,7 +52148,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52118,7 +52166,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -54168,7 +54216,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -57916,7 +57964,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 163809,
       "name": "Uueks hommikul",
       "url": "https://open.spotify.com/track/1a7A3FoOogzD0HnViWe1DU"
@@ -58594,7 +58642,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 206622,
       "name": "viinaingel",
       "url": "https://open.spotify.com/track/3llyYmTWZDBGCZH76jF4ck"

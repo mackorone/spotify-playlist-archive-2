@@ -6293,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "Falls Through",
+        "url": "https://open.spotify.com/album/2SIbZtKQxxQxHWE31EporE"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216461,
+      "name": "Falls Through",
+      "url": "https://open.spotify.com/track/0zKCjH1NmnXA3usBmh4Owh"
+    },
+    {
+      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
       },
@@ -24996,7 +25014,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 210719,
       "name": "Still That Good",
       "url": "https://open.spotify.com/track/2IQ1YOJMfwgarvtGXeZbKz"
@@ -28776,7 +28794,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 220039,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0GBrRGaj5RSABwwhA6clra"
@@ -29146,6 +29164,32 @@
       "duration_ms": 233308,
       "name": "Welcome (House Of God)",
       "url": "https://open.spotify.com/track/5Qudnu5h1WWebAJk6BaTE2"
+    },
+    {
+      "album": {
+        "name": "Live in Los Angeles",
+        "url": "https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "The Hill City Collective",
+          "url": "https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG"
+        },
+        {
+          "name": "Travis Malloy",
+          "url": "https://open.spotify.com/artist/2L0ZzKX7bCTF0Z44HfUuV1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Welcome Home - Live in Los Angeles",
+      "url": "https://open.spotify.com/track/1eIcZ4F1r76UK6kMGAykzb"
     },
     {
       "album": {

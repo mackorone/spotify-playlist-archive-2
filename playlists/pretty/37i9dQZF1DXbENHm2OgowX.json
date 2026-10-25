@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 371972,
+  "num_followers": 372083,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
-      },
-      "artists": [
-        {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 364293,
       "name": "The Eternal - 2007 Remaster",
       "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+      },
+      "artists": [
+        {
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Asleep On The Wing",
+        "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Freya Goldmark",
+          "url": "https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Asleep On The Wing - Pt. 4",
+      "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "A Place To Sleep",
         "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Asleep On The Wing",
-        "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Freya Goldmark",
-          "url": "https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Asleep On The Wing - Pt. 4",
-      "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 118400,
       "name": "wistful",
       "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "now i know what i mean",
+        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
+      },
+      "artists": [
+        {
+          "name": "v\u00e5nda",
+          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
+        },
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 121550,
+      "name": "now i know what i mean",
+      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "now i know what i mean",
-        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
-      },
-      "artists": [
-        {
-          "name": "v\u00e5nda",
-          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
-        },
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 121550,
-      "name": "now i know what i mean",
-      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "distant, elsewhere",
+        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
+      },
+      "artists": [
+        {
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+        }
+      ],
+      "duration_ms": 150006,
+      "name": "distant, elsewhere",
+      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "last days of summer",
         "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 241333,
       "name": "And They Will Fall",
       "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "distant, elsewhere",
-        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
-      },
-      "artists": [
-        {
-          "name": "kurisu.",
-          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
-        }
-      ],
-      "duration_ms": 150006,
-      "name": "distant, elsewhere",
-      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1347,34 +1347,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "II Reworked",
-        "url": "https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy"
+        "name": "skies",
+        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
       "artists": [
         {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
         },
         {
-          "name": "Kjartan Holm",
-          "url": "https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo"
-        },
-        {
-          "name": "Sin Fang",
-          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
         }
       ],
-      "duration_ms": 254634,
-      "name": "Spun - Kjartan Holm & Sin Fang Rework",
-      "url": "https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3"
+      "duration_ms": 129998,
+      "name": "skies",
+      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1411,26 +1399,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "skies",
-        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
-      },
-      "artists": [
-        {
-          "name": "Blut Own",
-          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
-        },
-        {
-          "name": "Riversilvers",
-          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
-        }
-      ],
-      "duration_ms": 129998,
-      "name": "skies",
-      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 221213,
       "name": "Below the House",
       "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "II Reworked",
+        "url": "https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "Kjartan Holm",
+          "url": "https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo"
+        },
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 254634,
+      "name": "Spun - Kjartan Holm & Sin Fang Rework",
+      "url": "https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Symmetry",
         "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
       },
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
       "artists": [
         {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
         }
       ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "tired",
+        "url": "https://open.spotify.com/album/1VdIwG4stVmFhBgZXanjtR"
+      },
+      "artists": [
+        {
+          "name": "Money Flip",
+          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
+        }
+      ],
+      "duration_ms": 80571,
+      "name": "tired",
+      "url": "https://open.spotify.com/track/2NycFZTupxahlGyI1H1oGb"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1647,6 +1647,22 @@
       "duration_ms": 74584,
       "name": "my heart",
       "url": "https://open.spotify.com/track/7IveK650zPJHeNx15gBlbE"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1679,22 +1695,6 @@
       "duration_ms": 155186,
       "name": "Common",
       "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "tired",
-        "url": "https://open.spotify.com/album/1VdIwG4stVmFhBgZXanjtR"
-      },
-      "artists": [
-        {
-          "name": "Money Flip",
-          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
-        }
-      ],
-      "duration_ms": 80571,
-      "name": "tired",
-      "url": "https://open.spotify.com/track/2NycFZTupxahlGyI1H1oGb"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Fallen Down",
-        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
-      },
-      "artists": [
-        {
-          "name": "Duncan Cox",
-          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
-        }
-      ],
-      "duration_ms": 141219,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Fallen Down",
+        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
+      },
+      "artists": [
+        {
+          "name": "Duncan Cox",
+          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
+        }
+      ],
+      "duration_ms": 141219,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
     }
   ],
   "unique_name": "gloomcore",

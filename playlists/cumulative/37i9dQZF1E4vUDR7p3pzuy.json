@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, Rue Oberkampf, JUST LIZZY and more",
+  "description": "With NUDNIK, JUST LIZZY, Rue Oberkampf and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 141010,
       "name": "25 Medium",
       "url": "https://open.spotify.com/track/4wZkurfUQhCxzBm85qThzr"
@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "After me",
+        "url": "https://open.spotify.com/album/4bjnlHPNeD2V2Xz6xZbm2G"
+      },
+      "artists": [
+        {
+          "name": "Liz Lavly",
+          "url": "https://open.spotify.com/artist/6qswhWWO4e66nn59CHgXqd"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "After me",
+      "url": "https://open.spotify.com/track/1bNrXATqj2VezekYuWtQWH"
+    },
+    {
+      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/7K0HLMjfABWdfPTmDfhBgs"
       },
@@ -800,6 +818,28 @@
       "duration_ms": 185093,
       "name": "Alexandria",
       "url": "https://open.spotify.com/track/6uIFzWkJHnTqm1BhimX5v9"
+    },
+    {
+      "album": {
+        "name": "All Eternity (MaXi-P Remake)",
+        "url": "https://open.spotify.com/album/6tnCWcsF8BQ7HEQk9acIPN"
+      },
+      "artists": [
+        {
+          "name": "#Fuckcancerband",
+          "url": "https://open.spotify.com/artist/5nQYo9rMGd76yIS8UNjFcu"
+        },
+        {
+          "name": "MaXi-P",
+          "url": "https://open.spotify.com/artist/1rF3WeAYVjndXfTPDz5Ox5"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206654,
+      "name": "All Eternity - MaXi-P Remake",
+      "url": "https://open.spotify.com/track/15JTmvNOgnKTydL3ewdDte"
     },
     {
       "album": {
@@ -1512,7 +1552,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
@@ -3093,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/6Ef9nmoKEHetZoCHfv5bk6"
+      },
+      "artists": [
+        {
+          "name": "Eidetic Dreams",
+          "url": "https://open.spotify.com/artist/67I4GVTOFCKsOf6Bs6Y47I"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265072,
+      "name": "C.L.C",
+      "url": "https://open.spotify.com/track/79nGNGEJExUcBT80MajWOT"
+    },
+    {
+      "album": {
         "name": "Caesar (I'll Haunt You Now)",
         "url": "https://open.spotify.com/album/7zroriQLXA72bJIv2AJRgs"
       },
@@ -3492,6 +3550,24 @@
       "duration_ms": 316000,
       "name": "Cernunnos",
       "url": "https://open.spotify.com/track/2uXYysXNoU93w1ZDScIqBr"
+    },
+    {
+      "album": {
+        "name": "chainmail",
+        "url": "https://open.spotify.com/album/7keASo49VCDi5g9VANDl6u"
+      },
+      "artists": [
+        {
+          "name": "annie hamilton",
+          "url": "https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164639,
+      "name": "chainmail",
+      "url": "https://open.spotify.com/track/29R8cI1KPjqRVnq9BcHNF3"
     },
     {
       "album": {
@@ -6470,7 +6546,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 93409,
       "name": "El Guardi\u00e1n del Equilibrio",
       "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
@@ -6712,7 +6788,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 276166,
       "name": "End of the Rope",
       "url": "https://open.spotify.com/track/7zgf8K3iieDafl5ySY4Plf"
@@ -6770,6 +6846,24 @@
       "duration_ms": 133848,
       "name": "Energy",
       "url": "https://open.spotify.com/track/3P9T7HQuLUpwgA6jxvhnVx"
+    },
+    {
+      "album": {
+        "name": "Energy Redirected",
+        "url": "https://open.spotify.com/album/4Ofa6PurrCJd8G83j9plOP"
+      },
+      "artists": [
+        {
+          "name": "Halou",
+          "url": "https://open.spotify.com/artist/3rNX4fCtNvNyDcLhfpA1NN"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Energy Redirected",
+      "url": "https://open.spotify.com/track/5fW5oX67ZcclTeIkPix0CK"
     },
     {
       "album": {
@@ -8964,7 +9058,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 263000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0e73V4IkTodEYyuvgQMRYg"
@@ -8986,6 +9080,24 @@
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
+    },
+    {
+      "album": {
+        "name": "Hard to Tell",
+        "url": "https://open.spotify.com/album/0P5977lz8vZR9urnRnh7Tr"
+      },
+      "artists": [
+        {
+          "name": "Ava Horner",
+          "url": "https://open.spotify.com/artist/7Ax41QDL82CEU1ZMHzcAhR"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205514,
+      "name": "Hard to Tell",
+      "url": "https://open.spotify.com/track/63zYJ6p5qCf70llx7FSiGN"
     },
     {
       "album": {
@@ -10426,7 +10538,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 189558,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
@@ -11274,7 +11386,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -14346,6 +14458,24 @@
       "duration_ms": 162721,
       "name": "My Love Is Loud",
       "url": "https://open.spotify.com/track/504yptHqsQbUgY1o4KeHX8"
+    },
+    {
+      "album": {
+        "name": "My Pain",
+        "url": "https://open.spotify.com/album/5TJ5fGSkJp24Jx3Q0ig0nb"
+      },
+      "artists": [
+        {
+          "name": "Cliff Root",
+          "url": "https://open.spotify.com/artist/5NhdU8p1fUg2YM3Let0RLq"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239496,
+      "name": "My Pain",
+      "url": "https://open.spotify.com/track/6rXmUDj5JyOIgcfzZoU9Lk"
     },
     {
       "album": {
@@ -17458,7 +17588,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -18046,7 +18176,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 255061,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1QLuJqkt0fObDTJvR1k0md"
@@ -21220,7 +21350,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 263656,
       "name": "The Last Song",
       "url": "https://open.spotify.com/track/7HVk4Edz6QEeKalkqyHCPF"
@@ -21274,7 +21404,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 198504,
       "name": "The low",
       "url": "https://open.spotify.com/track/6plhzudEeMjal1cTj1MqaV"
@@ -22068,7 +22198,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 184920,
       "name": "This Life",
       "url": "https://open.spotify.com/track/2JuhLjWpYIBYUJsVZIw5Fd"
@@ -22198,7 +22328,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -22620,7 +22750,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -23146,7 +23276,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 192125,
       "name": "Unending Story",
       "url": "https://open.spotify.com/track/3r5JB5Nc5fgvKNRmDyHX12"
@@ -24604,7 +24734,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -25322,7 +25452,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

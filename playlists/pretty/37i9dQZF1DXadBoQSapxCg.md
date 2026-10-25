@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,679 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,673 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saudade](https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Saudade](https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm) | 3:04 |
-| 2 | [Amor de Fim de Noite](https://open.spotify.com/track/1Nmcs8zk7LfcvHRgLtTM5J) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 3:41 |
+| 1 | [Amor de Fim de Noite](https://open.spotify.com/track/1Nmcs8zk7LfcvHRgLtTM5J) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 3:41 |
+| 2 | [Saudade](https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Saudade](https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm) | 3:04 |
 | 3 | [Resposta \- Spotify Singles](https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Resposta \- Spotify Singles](https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ) | 3:11 |
 | 4 | [Cigana](https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Cigana](https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m) | 4:25 |
 | 5 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 |

@@ -4,7 +4,7 @@
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-301 songs - 17 hr 30 min
+302 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 | 2023-02-28 |
 | [Night, Snow](https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Night, Snow](https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk) | 3:49 | 2026-01-13 | 2026-03-17 |
 | [Notting Hill](https://open.spotify.com/track/5nuHas0chnay1eVNwpox1p) | [강동훈](https://open.spotify.com/artist/0MpKG6kiILpu3fku0uKeHz) | [Notting Hill](https://open.spotify.com/album/5mo4kRrvgpr13QAxNrkBn3) | 3:30 | 2022-05-03 | 2022-07-14 |
-| [Now, everything's okay](https://open.spotify.com/track/5MT37pOYuP5FXlnuDsA7ab) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Don't Call Me Ma'am \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6OS0R1y5cBfxW3FMWLIAzN) | 4:05 | 2026-04-27 |  |
+| [Now, everything's okay](https://open.spotify.com/track/5MT37pOYuP5FXlnuDsA7ab) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Don't Call Me Ma'am \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6OS0R1y5cBfxW3FMWLIAzN) | 4:05 | 2026-04-27 | 2026-10-25 |
 | [Ocean \(feat\. Aden\)](https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Ocean \(feat\. Aden\)](https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX) | 3:23 | 2022-08-12 | 2022-09-11 |
 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-18 | 2025-07-07 |
 | [Oh I Know](https://open.spotify.com/track/4MCLG9DIQnysCNbMkfmE5V) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Oh I Know](https://open.spotify.com/album/4XLTja4mx8DMzHn8b2uMfp) | 3:42 | 2022-05-03 | 2022-07-29 |
@@ -244,6 +244,7 @@
 | [swimming to you \(with Jaehyuk Shin\)](https://open.spotify.com/track/17i92672sFgl7QMGhIOeOM) | [Somseori](https://open.spotify.com/artist/3EPOdIgYA9mQ7pCuy5IkWq), [Shin Jaehyuk](https://open.spotify.com/artist/6TNvBd7R1YGiNqVZdJ1gNc) | [swimming to you \(with Jaehyuk Shin\)](https://open.spotify.com/album/3N3Zib5i9ZVUoOQc1fIFrR) | 3:23 | 2024-09-23 | 2024-11-08 |
 | [Tahiti](https://open.spotify.com/track/2Y6wXSfzN1rWB4Xdr5juE2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Dream](https://open.spotify.com/album/3hBlDkaiR7KU5bFaJaT0t2) | 4:21 | 2022-05-03 | 2022-07-08 |
 | [Take A Nap](https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:11 | 2025-11-06 |  |
+| [Talk to me \(Dance Break Ver.\)](https://open.spotify.com/track/2ilBu50UbR4VCdQAK5CGT6) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [Talk to me](https://open.spotify.com/album/10CSsaecpvsXQ4rQPoNeL1) | 2:51 | 2026-10-20 |  |
 | [That day](https://open.spotify.com/track/3BVt9Ua8FkPEo1vBK6Adsp) | [YEAHSHINE](https://open.spotify.com/artist/5U7zy9djpWwawFg5B5RNbo) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.12](https://open.spotify.com/album/7wBRv1g1DLvzVtH536bC3t) | 2:56 | 2022-06-18 | 2022-07-06 |
 | [The Blue Night Of Jeju Island](https://open.spotify.com/track/5I6MDAsc3nv2BPiiGnLEDI) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [The Blue Night Of Jeju Island](https://open.spotify.com/album/5N0DCNi28CDILaQZ7tYNfU) | 4:05 | 2022-05-03 | 2022-07-27 |
 | [The Blue Sea and the Brick House](https://open.spotify.com/track/6DuLwAmhjI28v1Qri5jLVc) | [YU GUREUM](https://open.spotify.com/artist/0gedLGVok7WGpjOGTdyYEr) | [The Blue Sea and the Brick House](https://open.spotify.com/album/6UovILyQtpghmg5pijv0Ju) | 3:34 | 2025-05-26 | 2025-06-03 |

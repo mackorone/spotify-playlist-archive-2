@@ -112,7 +112,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 134482,
       "name": "50 Billion (feat. Zlatan)",
       "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 165063,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
@@ -2103,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/0CvjanYDvyFEb4qT91Mr8c"
+    },
+    {
+      "album": {
         "name": "Till Thy Kingdom Come",
         "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
       },
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 149743,
       "name": "Till Thy Kingdom Come",
       "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"

@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 33080,
+  "num_followers": 33077,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-08-05 10:56:26",
       "album": {
-        "name": "Weino",
-        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 145871,
-      "name": "Weino",
-      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
-    },
-    {
-      "added_at": "2026-08-05 10:56:26",
-      "album": {
         "name": "Ballet",
         "url": "https://open.spotify.com/album/30qPLsJugZwQXGH7iHdvkY"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 248000,
       "name": "Ballet",
       "url": "https://open.spotify.com/track/4c1JwtH7HEfIqlf0keNFGR"
+    },
+    {
+      "added_at": "2026-08-05 10:56:26",
+      "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
     },
     {
       "added_at": "2026-08-05 10:56:26",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-08-05 10:56:26",
       "album": {
+        "name": "Bent Elgiran & Haga Mestikhabya",
+        "url": "https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Bent Elgiran & Haga Mestikhabya",
+      "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
+    },
+    {
+      "added_at": "2026-08-05 10:56:26",
+      "album": {
         "name": "Dum Tak (feat. NASIR)",
         "url": "https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 156000,
       "name": "Dum Tak (feat. NASIR)",
       "url": "https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA"
-    },
-    {
-      "added_at": "2026-08-05 10:56:26",
-      "album": {
-        "name": "Bent Elgiran & Haga Mestikhabya",
-        "url": "https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8"
-      },
-      "artists": [
-        {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Bent Elgiran & Haga Mestikhabya",
-      "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
     },
     {
       "added_at": "2026-08-05 10:56:26",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-08-05 10:56:26",
       "album": {
-        "name": "\u0625\u0646\u0647\u0636",
-        "url": "https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO"
-      },
-      "artists": [
-        {
-          "name": "Emsallam",
-          "url": "https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "\u0625\u0646\u0647\u0636",
-      "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
-    },
-    {
-      "added_at": "2026-08-05 10:56:26",
-      "album": {
         "name": "Serti Halali",
         "url": "https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 237453,
       "name": "Serti Halali",
       "url": "https://open.spotify.com/track/5aV0Vl1Fv9s9PmWklzzlvz"
+    },
+    {
+      "added_at": "2026-08-05 10:56:26",
+      "album": {
+        "name": "\u0625\u0646\u0647\u0636",
+        "url": "https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO"
+      },
+      "artists": [
+        {
+          "name": "Emsallam",
+          "url": "https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "\u0625\u0646\u0647\u0636",
+      "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
     },
     {
       "added_at": "2026-08-05 10:56:26",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-08-05 10:56:26",
       "album": {
-        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
-      },
-      "artists": [
-        {
-          "name": "MoJaNad",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
-    },
-    {
-      "added_at": "2026-08-05 10:56:26",
-      "album": {
         "name": "Wahad Tnean",
         "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 187746,
       "name": "Wahad Tnean",
       "url": "https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl"
+    },
+    {
+      "added_at": "2026-08-05 10:56:26",
+      "album": {
+        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
+      },
+      "artists": [
+        {
+          "name": "MoJaNad",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
     },
     {
       "added_at": "2026-08-05 10:56:26",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-05 10:56:26",
       "album": {
-        "name": "Black Iris",
-        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
-      },
-      "artists": [
-        {
-          "name": "AceQuared",
-          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "OCB",
-      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
-    },
-    {
-      "added_at": "2026-08-05 10:56:26",
-      "album": {
         "name": "Kounili El Musica",
         "url": "https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 175626,
       "name": "Kounili El Musica",
       "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
+    },
+    {
+      "added_at": "2026-08-05 10:56:26",
+      "album": {
+        "name": "Black Iris",
+        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
+      },
+      "artists": [
+        {
+          "name": "AceQuared",
+          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "OCB",
+      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
     },
     {
       "added_at": "2026-08-05 10:56:26",
@@ -847,8 +847,8 @@
     {
       "added_at": "2026-08-05 10:56:26",
       "album": {
-        "name": "Hala O Ghala",
-        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
+        "name": "Ma Bdi Heb",
+        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 211282,
-      "name": "Hala O Ghala",
-      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
+      "duration_ms": 254394,
+      "name": "Ma Bdi Heb",
+      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
     },
     {
       "added_at": "2026-08-05 10:56:26",
@@ -935,8 +935,8 @@
     {
       "added_at": "2026-08-05 10:56:26",
       "album": {
-        "name": "Ma Bdi Heb",
-        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
+        "name": "Hala O Ghala",
+        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 254394,
-      "name": "Ma Bdi Heb",
-      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
+      "duration_ms": 211282,
+      "name": "Hala O Ghala",
+      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
     },
     {
       "added_at": "2026-08-05 10:56:26",

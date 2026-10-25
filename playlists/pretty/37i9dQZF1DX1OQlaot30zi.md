@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Chris Nolan, 333 Mob, BATTISTA, Frezza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,352 likes - 109 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,351 likes - 109 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 2 | [STUPIDO \(feat\. Salmo, 18K, Macello, Dani Faiv, Pitta\)](https://open.spotify.com/track/237MIJpSpjNeApDFloqgwg) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [STUPIDO \(feat\. Salmo, 18K, Macello, Dani Faiv, Pitta\)](https://open.spotify.com/album/2AxlGwK0dGdC68h6sKDJw7) | 3:33 |
 | 3 | ['O CAVALLO 'E RITORNO](https://open.spotify.com/track/5JbtzpMcZrOzSHLfGbWFFz) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | ['O CAVALLO 'E RITORNO](https://open.spotify.com/album/1fqpPjMNan0Sd1dcWGuUtb) | 4:20 |
 | 4 | [7/7](https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [7/7](https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan) | 2:35 |
-| 5 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
+| 5 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
 | 6 | [Chissà come ti va \(con PRACI, Diss Gacha\)](https://open.spotify.com/track/2XpdcnIOr31g9h2p7OBwTc) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Chissà come ti va \(con PRACI, Diss Gacha\)](https://open.spotify.com/album/197o52DQgYGBIhdqcI7Jld) | 3:05 |
 | 7 | [BARBARA](https://open.spotify.com/track/6CUXr5xJSlyzZ68YM3XCqX) | [IDRA Rxx](https://open.spotify.com/artist/21FDbAp2h7kwmaQ8yr4D1s) | [BARBARA](https://open.spotify.com/album/3Toa3gTxbToLlJjeC0YI2H) | 2:38 |
 | 8 | [SECONDI DI RABBIA](https://open.spotify.com/track/4fBp2Ky7Sp0a2XqjCIcvl5) | [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [LA TAVOLA DELL'UMORE](https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Marra & Elisa in cover 🪽🪽
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,273 likes - 105 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,268 likes - 105 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 104 | [PUTTANA SVIZZERA CON NERISSIMA SERPE, PAPA V, 6OCCIA](https://open.spotify.com/track/4uri8E52AMEg2HKMkfolHL) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [6occia](https://open.spotify.com/artist/2VXJau991JXvbeF48YVjoX) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 3:21 |
 | 105 | [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 |
 
-Snapshot ID: `AAAAAAvtMRhUv5NWowBu731ZxQERbPsF`
+Snapshot ID: `AAAAAGslxF/k+pO18gTsSY9RW1vG3dEX`

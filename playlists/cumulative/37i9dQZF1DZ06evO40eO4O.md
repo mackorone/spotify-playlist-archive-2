@@ -4,7 +4,7 @@
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 3 min
+42 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Me Di Cuenta](https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Me Di Cuenta](https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo) | 2:51 | 2026-03-20 |  |
 | [Me Perdí](https://open.spotify.com/track/1WmNPOeEj0ipzfalJ7tRWe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Me Perdí](https://open.spotify.com/album/5iLFvV5lVhEoKTOkpgceVq) | 3:24 | 2026-03-20 |  |
 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 | 2026-03-20 |  |
+| [mi nombre](https://open.spotify.com/track/0SOxTwy4KpvythrIe3xToH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [mi nombre](https://open.spotify.com/album/6H4WQWjOe65h2KpUwsp9XY) | 3:14 | 2026-10-25 |  |
 | [mitad](https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [mitad](https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp) | 2:52 | 2026-03-20 |  |
 | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs) | 4:05 | 2026-03-20 |  |
 | [NO ME OLVIDES](https://open.spotify.com/track/4HiMbzniEtE5memDJwvQDD) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:52 | 2026-03-20 | 2026-05-28 |

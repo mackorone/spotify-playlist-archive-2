@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51619,
+  "num_followers": 51607,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Der einzige Ort",
-        "url": "https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
-        }
-      ],
-      "duration_ms": 138202,
-      "name": "Der einzige Ort",
-      "url": "https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "Enter Ecstasy",
         "url": "https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 183529,
       "name": "Enter Ecstasy",
       "url": "https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Der einzige Ort",
+        "url": "https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "duration_ms": 138202,
+      "name": "Der einzige Ort",
+      "url": "https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Modern Dreaming",
-        "url": "https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 173659,
-      "name": "Modern Dreaming",
-      "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "H\u00fcbsche M\u00e4nner",
         "url": "https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 108145,
       "name": "H\u00fcbsche M\u00e4nner",
       "url": "https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Modern Dreaming",
+        "url": "https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 173659,
+      "name": "Modern Dreaming",
+      "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Roter Faden",
-        "url": "https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe"
-      },
-      "artists": [
-        {
-          "name": "Pippa",
-          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
-        }
-      ],
-      "duration_ms": 198076,
-      "name": "Roter Faden",
-      "url": "https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "ZWEITAUSENDZWEI",
         "url": "https://open.spotify.com/album/1edS9EQKc7RXZenMKLUaN2"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 151794,
       "name": "ZWEITAUSENDZWEI",
       "url": "https://open.spotify.com/track/3LJMrvMbnZjSwLV89DzoFn"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Roter Faden",
+        "url": "https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        }
+      ],
+      "duration_ms": 198076,
+      "name": "Roter Faden",
+      "url": "https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk"
     },
     {
       "added_at": "2026-10-07 22:00:17",

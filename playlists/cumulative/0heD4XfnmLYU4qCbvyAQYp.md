@@ -4,14 +4,16 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-195 songs - 12 hr 33 min
+200 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A blaze of light](https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [A blaze of light](https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr) | 2:50 | 2026-08-17 |  |
 | [A Ghost](https://open.spotify.com/track/3iqVEqY5MhqWWnefad3AAr) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [A Ghost](https://open.spotify.com/album/1Q7KenxMx2VIjtfAIoZh1R) | 3:01 | 2026-02-06 | 2026-04-05 |
+| [A Perfect Day](https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [From the Attic](https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE) | 3:10 | 2026-10-24 |  |
 | [Adamak](https://open.spotify.com/track/63I8aEaFFHMOC9HAntBflc) | [ARVANwave](https://open.spotify.com/artist/5uO5G0LFlfkixcRCGGvx1E) | [Adamak](https://open.spotify.com/album/3mGrtHfwBmpzi1V5GU1DhG) | 2:54 | 2026-10-03 |  |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-11-04 | 2025-12-08 |
+| [Agency](https://open.spotify.com/track/0O1Z2KjJBVE3Ztc1WvZCwx) | [Labasheeda](https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh) | [Agency](https://open.spotify.com/album/735AzC1ClABhGC7dFjUykk) | 3:28 | 2026-10-24 |  |
 | [Alive \- Radio Mix](https://open.spotify.com/track/7pBej7hqxOtuJLTOFPhtjU) | [Mousik](https://open.spotify.com/artist/3IcHQz5yyO1XOXcBJv7Ng8) | [Alive](https://open.spotify.com/album/3beMNU6D4T0tGCafy9ogHl) | 3:14 | 2026-08-27 |  |
 | [All of the Secrets](https://open.spotify.com/track/75I2z8EnpgGZE5aNz7ELhf) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [J.D\. Minor](https://open.spotify.com/artist/7vtyibQSoRMsbVnvOcjgiQ) | [All of the Secrets](https://open.spotify.com/album/7DvcV1EG6EegUMmJ2HjzhM) | 4:36 | 2026-08-27 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-10 | 2026-02-07 |
@@ -55,6 +57,7 @@
 | [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-04 | 2026-05-16 |
 | [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 | 2026-07-07 |  |
 | [Doomed](https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Doomed](https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd) | 7:22 | 2026-07-15 |  |
+| [Dove Il Mare](https://open.spotify.com/track/6kjahxKcPfk0QvT2ZQt1oz) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [Fuori Fuoco](https://open.spotify.com/album/69jSXT0g4p46Ga5FfT0n2A) | 3:28 | 2026-10-24 |  |
 | [Dove sei](https://open.spotify.com/track/0yBrHsqwQG773gOSftp06o) | [Nicil](https://open.spotify.com/artist/7LdO6BQKunnD0d7kdszVh2) | [Estate Italiana for Dummies](https://open.spotify.com/album/5r6cFIfyGFRVE2BZJuqOpx) | 2:37 | 2026-08-27 |  |
 | [Drain You](https://open.spotify.com/track/2aIcXOu6wc7yNtviwbqp7A) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Drain You](https://open.spotify.com/album/7lKrZsFDSZpSHOEYTT23G3) | 3:42 | 2025-12-17 | 2026-02-07 |
 | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/track/4DkFtR711mWQSXJO3PApXa) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/album/3jAPjP3mXAIslhjF2szkO2) | 2:55 | 2025-11-02 | 2026-02-07 |
@@ -119,6 +122,7 @@
 | [Medo](https://open.spotify.com/track/1Pzo6BtYmAvLYo4yyCZBgd) | [Journey to Equilibrium](https://open.spotify.com/artist/7EFpZ2zSH7KTR1PtOIgpjT) | [An Open Window](https://open.spotify.com/album/0ytewcDY7woiqooEiKMt5a) | 4:42 | 2025-11-24 | 2026-02-07 |
 | [Meet me tomorrow right here](https://open.spotify.com/track/32OiHXGmtRTR5sSDuknMV2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Cultural Static](https://open.spotify.com/album/4ZidajWJsxbkvrKcK95Jbx) | 4:47 | 2025-11-04 | 2025-12-08 |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-04 | 2025-12-08 |
+| [Musicinin's](https://open.spotify.com/track/6LpU2xNvk9OzLHGB5FPiPC) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [Musicinin's](https://open.spotify.com/album/0NUtyCa4a3sqsMPHxFfqjS) | 5:57 | 2026-10-24 |  |
 | [My Black Cat](https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [My Black Cat](https://open.spotify.com/album/49uQEZJ4QJxkN5dUQ49AZ2) | 3:57 | 2026-01-23 | 2026-05-16 |
 | [Naive](https://open.spotify.com/track/1pwJ5C8Zk7nJOPWp1TaTho) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [Naive](https://open.spotify.com/album/4tPRMAuDEMULUguQjnCjjc) | 3:45 | 2025-11-04 | 2025-12-08 |
 | [Neanderthal](https://open.spotify.com/track/5RTMnfJSu8lRZOZcKSgQde) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 2:28 | 2026-04-04 |  |
@@ -203,5 +207,6 @@
 | [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 | 2026-08-27 |  |
 | [You See It There](https://open.spotify.com/track/6UVPIQHfGmR7N0IAYalkr6) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:30 | 2026-02-06 |  |
 | [Youth in the Rearview](https://open.spotify.com/track/4EH6QCKty7zmXSv6kbUPIk) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [Youth in the Rearview](https://open.spotify.com/album/3e8PYfNC7bwlzMPO8OdLul) | 4:30 | 2026-08-19 |  |
+| [À termes précis](https://open.spotify.com/track/4kx1Rn0BL2EjrvDSk509fr) | [Roxan LR](https://open.spotify.com/artist/4J8rcj1qCpxVG1ZDkhhOmj) | [À termes précis](https://open.spotify.com/album/11J0YBoD5gVgq3rRExSiit) | 3:14 | 2026-10-24 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

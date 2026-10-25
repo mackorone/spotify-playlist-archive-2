@@ -1,12 +1,12 @@
 {
   "description": "This is Chappell Roan. The essential tracks, all in one playlist.",
-  "num_followers": 2136,
+  "num_followers": 2137,
   "original_name": "This Is Chappell Roan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAABtxkYQetEYzDi4V5oW/5zk",
+  "snapshot_id": "atqjgAAAAABPCjhE8XJKbqC2lqjK1O0I",
   "tracks": [
     {
       "added_at": null,
@@ -240,7 +240,7 @@
       "added_at": null,
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 219710,
-      "name": "Femininomenon",
-      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/3bFC4mJkgF9HvTU1mncW7x"
     },
     {
       "added_at": null,
@@ -272,7 +272,7 @@
       "added_at": null,
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 222578,
-      "name": "My Kink Is Karma",
-      "url": "https://open.spotify.com/track/3bFC4mJkgF9HvTU1mncW7x"
+      "duration_ms": 219710,
+      "name": "Femininomenon",
+      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
     },
     {
       "added_at": null,

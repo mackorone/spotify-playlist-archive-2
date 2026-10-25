@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 135466,
       "name": "Bloodletting",
       "url": "https://open.spotify.com/track/6gKqqIKc5ZgggUnTa9QloR"
@@ -11035,6 +11035,24 @@
     },
     {
       "album": {
+        "name": "Do You Wanna Dance",
+        "url": "https://open.spotify.com/album/5V0AwGTGnUXfbIgt9VIA95"
+      },
+      "artists": [
+        {
+          "name": "Garrett Riley",
+          "url": "https://open.spotify.com/artist/6MRRcFLKdF5MaufudLHcU2"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196962,
+      "name": "Do You Wanna Dance",
+      "url": "https://open.spotify.com/track/3ZB247yELgTiJojUJLOJvh"
+    },
+    {
+      "album": {
         "name": "Immortal",
         "url": "https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe"
       },
@@ -13414,6 +13432,24 @@
       "duration_ms": 232816,
       "name": "Fading Light",
       "url": "https://open.spotify.com/track/68aMAO3yvXjoY8PqDcan8G"
+    },
+    {
+      "album": {
+        "name": "Burn the Old Maps",
+        "url": "https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth"
+      },
+      "artists": [
+        {
+          "name": "WIARANETY",
+          "url": "https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165334,
+      "name": "Fading Trace",
+      "url": "https://open.spotify.com/track/25SdqP59ZUBkkfTZXgVhzN"
     },
     {
       "album": {
@@ -24658,7 +24694,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 204000,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/0jPjX5XlsXlXXLqwHEQnS3"
@@ -26580,7 +26616,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 163986,
       "name": "Nation Nation",
       "url": "https://open.spotify.com/track/4IJ9GXGMmCyHskZAeuugCE"
@@ -31210,7 +31246,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 209200,
       "name": "Psychic Lunch",
       "url": "https://open.spotify.com/track/2RiuDns5vAXZQqK9WpTdeG"
@@ -37230,7 +37266,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 186560,
       "name": "Stealing Mine",
       "url": "https://open.spotify.com/track/3ktlqCE7rYHVME0EqhEJm1"
@@ -40526,7 +40562,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 245052,
       "name": "The Morning Sun Has Vanquished the Horrible Night",
       "url": "https://open.spotify.com/track/6NngXAstx5NRwfE0NBO1yj"
@@ -42436,7 +42472,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 157300,
       "name": "TRA LE NOSTRE CENERI",
       "url": "https://open.spotify.com/track/3TJYm2DhKsjBwYRd3Itcb7"
@@ -44192,7 +44228,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 237345,
       "name": "Warmer",
       "url": "https://open.spotify.com/track/2XjoqEUBKvrSgLZxtEQTUv"

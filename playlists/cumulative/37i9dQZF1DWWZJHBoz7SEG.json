@@ -194155,6 +194155,24 @@
     },
     {
       "album": {
+        "name": "Pausa (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3qWh9g0y1SQzbWuQUv7Ddb"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Pausa - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/65ujcWYDXEUW2ddLdldOpY"
+    },
+    {
+      "album": {
         "name": "Pavlove (Demo)",
         "url": "https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY"
       },
@@ -268660,8 +268678,8 @@
           "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
         },
         {
-          "name": "Luis \u00c1ngel El Flaco",
-          "url": "https://open.spotify.com/artist/0Z3R0xvAuBAgZKNHX62gTj"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
       "date_added": "2026-10-23",

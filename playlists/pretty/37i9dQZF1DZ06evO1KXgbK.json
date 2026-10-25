@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAAbUFGIqCGxhT7Fdga1nf9h",
+  "snapshot_id": "atqjgAAAAAAk/hFyoJ0xbmGsSDDS2oY7",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Because I'm A Woman",
-        "url": "https://open.spotify.com/album/1GisbvCqXtNW2ntajcMNdB"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Just Because I'm a Woman",
-      "url": "https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Because I'm A Woman",
+        "url": "https://open.spotify.com/album/1GisbvCqXtNW2ntajcMNdB"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Just Because I'm a Woman",
+      "url": "https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bargain Store",
-        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164505,
-      "name": "The Bargain Store",
-      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bargain Store",
+        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "The Bargain Store",
+      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
     },
     {
       "added_at": null,
@@ -827,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Winning Hand",
-        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
+        "name": "Life Is Like A Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         },
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 194440,
-      "name": "Everything Is Beautiful (In It's Own Way)",
-      "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
+      "duration_ms": 193906,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
     },
     {
       "added_at": null,
@@ -863,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Like A Song (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
+        "name": "The Winning Hand",
+        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 193906,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
+      "duration_ms": 194440,
+      "name": "Everything Is Beautiful (In It's Own Way)",
+      "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trackhouse (Daytona 500 Edition)",
+        "url": "https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "Powerful Women",
+      "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jolene (Expanded Edition)",
         "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
       },
@@ -931,22 +951,6 @@
       "duration_ms": 125106,
       "name": "When Someone Wants to Leave",
       "url": "https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backwoods Barbie",
-        "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Better Get to Livin'",
-      "url": "https://open.spotify.com/track/1QG6K2bubjM976fKcZH5ZO"
     }
   ],
   "unique_name": "This Is Dolly Parton",

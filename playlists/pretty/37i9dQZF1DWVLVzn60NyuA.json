@@ -1,6 +1,6 @@
 {
   "description": "Hot songs for the hot summer.",
-  "num_followers": 502024,
+  "num_followers": 502000,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "COCA BODY",
-        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153055,
-      "name": "COCA BODY",
-      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "COCA BODY",
+        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 153055,
+      "name": "COCA BODY",
+      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "DJ",
-      "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/3g0J73UzqE9DmNVqbJ0p9a"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
+        "name": "Sip (Alcohol)",
+        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Sip (Alcohol)",
+      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
         "name": "ZAAZAA",
         "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 156080,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
-        "name": "Sip (Alcohol)",
-        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Sip (Alcohol)",
-      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 141891,
-      "name": "Solar",
-      "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "attention (with Justin Bieber)",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 141891,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/0WUO3pEDeG6WEGI1hcJj0z"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Hak",
-          "url": "https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz"
-        }
-      ],
-      "duration_ms": 151219,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/4AYQ2g9IwGlRwqb0MzRZ1K"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Ma Cherie",
         "url": "https://open.spotify.com/album/3jPPxi0ijDeVLGFwoTn3R2"
       },
@@ -2251,6 +2231,26 @@
       "duration_ms": 123822,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/0WUO3pEDeG6WEGI1hcJj0z"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Hak",
+          "url": "https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz"
+        }
+      ],
+      "duration_ms": 151219,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4AYQ2g9IwGlRwqb0MzRZ1K"
     },
     {
       "added_at": "2026-10-12 12:57:14",

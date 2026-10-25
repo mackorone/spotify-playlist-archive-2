@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: AFROJACK",
-  "num_followers": 657204,
+  "num_followers": 657256,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -727,30 +727,6 @@
     {
       "added_at": "2026-10-19 13:43:28",
       "album": {
-        "name": "Come On Baddie Let's Go Party",
-        "url": "https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "NOYSE",
-          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 153311,
-      "name": "Come On Baddie Let's Go Party",
-      "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
-    },
-    {
-      "added_at": "2026-10-19 13:43:28",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 169326,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
+    },
+    {
+      "added_at": "2026-10-19 13:43:28",
+      "album": {
+        "name": "Come On Baddie Let's Go Party",
+        "url": "https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 153311,
+      "name": "Come On Baddie Let's Go Party",
+      "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
     },
     {
       "added_at": "2026-10-19 13:43:28",
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-10-19 13:43:28",
       "album": {
+        "name": "Jump To The Stars",
+        "url": "https://open.spotify.com/album/4EEe44rOcpMWboN5x9Mwyw"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "duration_ms": 131600,
+      "name": "Jump To The Stars",
+      "url": "https://open.spotify.com/track/4Aszr2o5p0CPrVyJRpHEgZ"
+    },
+    {
+      "added_at": "2026-10-19 13:43:28",
+      "album": {
         "name": "Do You Want It Right Now",
         "url": "https://open.spotify.com/album/2Yt0MDuQK3lkVpRccye1vV"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2026-10-19 13:43:28",
       "album": {
-        "name": "Jump To The Stars",
-        "url": "https://open.spotify.com/album/4EEe44rOcpMWboN5x9Mwyw"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        }
-      ],
-      "duration_ms": 131600,
-      "name": "Jump To The Stars",
-      "url": "https://open.spotify.com/track/4Aszr2o5p0CPrVyJRpHEgZ"
-    },
-    {
-      "added_at": "2026-10-19 13:43:28",
-      "album": {
         "name": "Going Existential In The Rave",
         "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 187297,
       "name": "Going Existential In The Rave",
       "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
-    },
-    {
-      "added_at": "2026-10-19 13:43:28",
-      "album": {
-        "name": "Bang On The Drums",
-        "url": "https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 152368,
-      "name": "Bang On The Drums",
-      "url": "https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT"
     },
     {
       "added_at": "2026-10-19 13:43:28",
@@ -951,6 +931,26 @@
       "duration_ms": 130181,
       "name": "Mambo No. 5",
       "url": "https://open.spotify.com/track/6vBeABbvaGW1D2ERG8oBD5"
+    },
+    {
+      "added_at": "2026-10-19 13:43:28",
+      "album": {
+        "name": "Bang On The Drums",
+        "url": "https://open.spotify.com/album/4HgdfeH2IwTfwnIhQrReXN"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Bang On The Drums",
+      "url": "https://open.spotify.com/track/6FnmKuDTiiM8GxZx0KiiFT"
     },
     {
       "added_at": "2026-10-19 13:43:28",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-10-19 13:43:28",
       "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx"
+    },
+    {
+      "added_at": "2026-10-19 13:43:28",
+      "album": {
         "name": "Hey Boy Hey Girl (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5bitCrIgU2AoIY6Lp53s3k"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 192380,
       "name": "Hey Boy Hey Girl - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6eCGHBR1irzeSUdOLuqV6J"
-    },
-    {
-      "added_at": "2026-10-19 13:43:28",
-      "album": {
-        "name": "Rotation",
-        "url": "https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx"
     },
     {
       "added_at": "2026-10-19 13:43:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-10-19 13:43:28",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 163664,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
-    },
-    {
-      "added_at": "2026-10-19 13:43:28",
-      "album": {
         "name": "Feel Your Body",
         "url": "https://open.spotify.com/album/2q5VpXGGQAVumdQPypF1hV"
       },
@@ -1551,6 +1535,42 @@
       "duration_ms": 126400,
       "name": "Feel Your Body",
       "url": "https://open.spotify.com/track/0kINUt3VNVmwBtzGUm478L"
+    },
+    {
+      "added_at": "2026-10-19 13:43:28",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 163664,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
+    },
+    {
+      "added_at": "2026-10-19 13:43:28",
+      "album": {
+        "name": "Synthetic Heart",
+        "url": "https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "Synthetic Heart (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1"
     },
     {
       "added_at": "2026-10-19 13:43:28",
@@ -1579,26 +1599,6 @@
       "duration_ms": 177428,
       "name": "Hardcore Vibes - DJ T.H. X Enerdizer X Shaun Baker Remix Edit",
       "url": "https://open.spotify.com/track/7KRlRkeeAO8XB0I0V7zAT1"
-    },
-    {
-      "added_at": "2026-10-19 13:43:28",
-      "album": {
-        "name": "Synthetic Heart",
-        "url": "https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx"
-      },
-      "artists": [
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "Synthetic Heart (feat. Crooked Bangs)",
-      "url": "https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1"
     },
     {
       "added_at": "2026-10-19 13:43:28",
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2026-10-19 13:43:28",
       "album": {
-        "name": "Freak In The Building",
-        "url": "https://open.spotify.com/album/4oaEIGZEtGlmaOrj4uFg48"
+        "name": "Logical Song",
+        "url": "https://open.spotify.com/album/570jP3tEVJ2wUuxXMr0vso"
       },
       "artists": [
         {
-          "name": "Dirty Signal",
-          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
         },
         {
-          "name": "Joey Dale",
-          "url": "https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu"
+          "name": "BFOUR",
+          "url": "https://open.spotify.com/artist/1si4hfpqtwNJ1Kw6xFpl97"
         }
       ],
-      "duration_ms": 190290,
-      "name": "Freak In The Building",
-      "url": "https://open.spotify.com/track/4PxOGOQGXhEToQpumZaDnV"
+      "duration_ms": 190800,
+      "name": "Logical Song",
+      "url": "https://open.spotify.com/track/6Flu7TXBKytCpITqXTBO2w"
     }
   ],
   "unique_name": "Big Room Dance",

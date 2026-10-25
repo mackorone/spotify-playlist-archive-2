@@ -2305,6 +2305,84 @@
     },
     {
       "album": {
+        "name": "Alle Kender Nogen",
+        "url": "https://open.spotify.com/album/0qPC1VQqDkA8jkpqPUMy2s"
+      },
+      "artists": [
+        {
+          "name": "Alex Vargas",
+          "url": "https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        },
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        },
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kn\u00e6k Cancer",
+          "url": "https://open.spotify.com/artist/4bO1uIIfKmbgPBqMfvYBMr"
+        },
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        },
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        },
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        },
+        {
+          "name": "Peter A.G.",
+          "url": "https://open.spotify.com/artist/0qiapJGmudLpAbxBmeFA46"
+        },
+        {
+          "name": "Sanne Salomonsen",
+          "url": "https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb"
+        },
+        {
+          "name": "Soleima",
+          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+        },
+        {
+          "name": "Thomas Helmig",
+          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214928,
+      "name": "Alle Kender Nogen",
+      "url": "https://open.spotify.com/track/7r49zBYaM5kjsiRW5ztt95"
+    },
+    {
+      "album": {
         "name": "Alle Mine Veninder",
         "url": "https://open.spotify.com/album/3kdyZzd7lzpmsRZbltmsbB"
       },
@@ -9530,7 +9608,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -13051,6 +13129,36 @@
     },
     {
       "album": {
+        "name": "D\u00f8 For Dig",
+        "url": "https://open.spotify.com/album/7oHDBJVAfyJpVIhAJhW5k1"
+      },
+      "artists": [
+        {
+          "name": "Rune Rask",
+          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+        },
+        {
+          "name": "Ankerstjerne",
+          "url": "https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d"
+        },
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        },
+        {
+          "name": "Sigvardt",
+          "url": "https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171290,
+      "name": "D\u00f8 For Dig",
+      "url": "https://open.spotify.com/track/2ivHE36S9hEbhWFwLdyvJq"
+    },
+    {
+      "album": {
         "name": "hej far",
         "url": "https://open.spotify.com/album/016lJisgZ13xUtaBMDXkeM"
       },
@@ -13824,6 +13932,24 @@
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
+    },
+    {
+      "album": {
+        "name": "Natsv\u00e6rmer",
+        "url": "https://open.spotify.com/album/51k9ev5souYy2C6YxoALiH"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170247,
+      "name": "Endelig Fri",
+      "url": "https://open.spotify.com/track/2e9XJjkeCUBAfHqAdB9trN"
     },
     {
       "album": {
@@ -26726,7 +26852,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -27836,7 +27962,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 157097,
       "name": "Kogeplade",
       "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
@@ -30614,7 +30740,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 172111,
       "name": "Louisiana",
       "url": "https://open.spotify.com/track/2dxtzQZFTEo8YuEvGBPwR3"
@@ -40874,6 +41000,28 @@
       "duration_ms": 182200,
       "name": "Se Mig Nu",
       "url": "https://open.spotify.com/track/1xMECrJ8Vkm3W0bYWecKuZ"
+    },
+    {
+      "album": {
+        "name": "se p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5uakZTtEb8o1QsZSFKYCQQ"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140043,
+      "name": "se p\u00e5 mig",
+      "url": "https://open.spotify.com/track/0t2J4HDNDKgSy57JufNZQ3"
     },
     {
       "album": {

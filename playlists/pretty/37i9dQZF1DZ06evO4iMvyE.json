@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Brothers. The essential tracks, all in one playlist.",
-  "num_followers": 423938,
+  "num_followers": 423978,
   "original_name": "This Is Jonas Brothers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAABOCXpIPptPRudNKcQHY6XM",
+  "snapshot_id": "atqjgAAAAABa7WKoWGV1jIuFsMo6R95D",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/6QQG95C5Evjbichtoxl4RH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen When Sad",
         "url": "https://open.spotify.com/album/7DnLLXl3u6tEP5OacdKZO9"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 228221,
       "name": "Listen When Sad",
       "url": "https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Burnin' Up",
-      "url": "https://open.spotify.com/track/6QQG95C5Evjbichtoxl4RH"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney 2000s, Vol. 2 Summer Break",
-        "url": "https://open.spotify.com/album/4bPYgsnsIldLoA8GRk7QyV"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Play My Music",
-      "url": "https://open.spotify.com/track/5eDqJzkxpzOimHJQDjhsfr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little Bit Longer",
         "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 228506,
       "name": "Shelf",
       "url": "https://open.spotify.com/track/6JClrE2ZWWIysR4052PGO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disney 2000s, Vol. 2 Summer Break",
+        "url": "https://open.spotify.com/album/4bPYgsnsIldLoA8GRk7QyV"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Play My Music",
+      "url": "https://open.spotify.com/track/5eDqJzkxpzOimHJQDjhsfr"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 167106,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 167106,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9"
     },
     {
       "added_at": null,
@@ -468,9 +468,25 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 164973,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0LAe8mOyLxUAN5pgqovhpN"
+      "duration_ms": 151000,
+      "name": "Goodnight and Goodbye",
+      "url": "https://open.spotify.com/track/0qnnYMKZhzswKorRpBrnNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
       "duration_ms": 200693,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7BuSE9uTIw931wtZYzvZcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greetings From Your Hometown",
-        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183284,
-      "name": "I Can\u2019t Lose",
-      "url": "https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z"
     },
     {
       "added_at": null,
@@ -548,25 +548,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Goodnight and Goodbye",
-      "url": "https://open.spotify.com/track/0qnnYMKZhzswKorRpBrnNk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q"
+      "duration_ms": 164973,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0LAe8mOyLxUAN5pgqovhpN"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jonas Brothers",
         "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little Bit Longer",
         "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 173920,
       "name": "Video Girl",
       "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greetings From Your Hometown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 162051,
       "name": "Healing (Shattered Heart)",
       "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lines, Vines and Trying Times",
-        "url": "https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Fly With Me",
-      "url": "https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 139809,
       "name": "Lonely (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lines, Vines and Trying Times",
+        "url": "https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Fly With Me",
+      "url": "https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr"
     },
     {
       "added_at": null,

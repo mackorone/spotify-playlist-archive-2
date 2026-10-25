@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 845491,
+  "num_followers": 845568,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 246815,
-      "name": "Beat 54 (All Good Now)",
-      "url": "https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "The Womack Sisters",
         "url": "https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
       "artists": [
         {
-          "name": "The Whitest Boy Alive",
-          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 242440,
-      "name": "Golden Cage",
-      "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
+      "duration_ms": 246815,
+      "name": "Beat 54 (All Good Now)",
+      "url": "https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -383,6 +367,22 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
+      },
+      "artists": [
+        {
+          "name": "The Whitest Boy Alive",
+          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "Golden Cage",
+      "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "'Justments",
-        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 229849,
-      "name": "Can We Pretend",
-      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "man oh man !",
         "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+      "duration_ms": 229849,
+      "name": "Can We Pretend",
+      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -563,6 +547,22 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Brenton Wood's 18 Best",
         "url": "https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 138226,
       "name": "Great Big Bundle Of Love",
       "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 192000,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Ride with Me",
+      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
         "name": "I Hope We Get To Love In Time",
         "url": "https://open.spotify.com/album/6Vwss896snaZfuyr351z99"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 279586,
       "name": "You Don't Have to Be a Star (To Be In My Show)",
       "url": "https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Ride with Me",
-      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
+        "name": "Fossils",
+        "url": "https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf"
+      },
+      "artists": [
+        {
+          "name": "THAO",
+          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
+        }
+      ],
+      "duration_ms": 243365,
+      "name": "Fossils",
+      "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
         "name": "Choose Your Own Adventure",
         "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 189536,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
-        "name": "Fossils",
-        "url": "https://open.spotify.com/album/0NMixNMU4F6CTrL04zFtAf"
-      },
-      "artists": [
-        {
-          "name": "THAO",
-          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
-        }
-      ],
-      "duration_ms": 243365,
-      "name": "Fossils",
-      "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "My Dirty Desire / Dreaming In Slow Motion",
-        "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 206963,
-      "name": "My Dirty Desire",
-      "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Damn It All",
         "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
       },
@@ -1935,18 +1919,18 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Bye Bye 17",
-        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
+        "name": "My Dirty Desire / Dreaming In Slow Motion",
+        "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
       },
       "artists": [
         {
-          "name": "Har Mar Superstar",
-          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         }
       ],
-      "duration_ms": 125962,
-      "name": "Late Night Morning Light",
-      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
+      "duration_ms": 206963,
+      "name": "My Dirty Desire",
+      "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1963,6 +1947,22 @@
       "duration_ms": 184776,
       "name": "Favorite Kind of People",
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Bye Bye 17",
+        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
+      },
+      "artists": [
+        {
+          "name": "Har Mar Superstar",
+          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
+        }
+      ],
+      "duration_ms": 125962,
+      "name": "Late Night Morning Light",
+      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
     },
     {
       "added_at": "2026-10-13 21:47:39",

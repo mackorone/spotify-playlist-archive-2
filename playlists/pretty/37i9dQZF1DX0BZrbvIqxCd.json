@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 542392,
+  "num_followers": 542383,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Humble As The Sun",
-        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 158422,
-      "name": "He's A Man",
-      "url": "https://open.spotify.com/track/5hxtsRWVxj1wrAgkJEpvrq"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 146436,
       "name": "Jurassic Park",
       "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Humble As The Sun",
+        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 158422,
+      "name": "He's A Man",
+      "url": "https://open.spotify.com/track/5hxtsRWVxj1wrAgkJEpvrq"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Swig",
+        "url": "https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 150780,
+      "name": "Motorcycle, No Motor?",
+      "url": "https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "If You Say So",
         "url": "https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 221573,
       "name": "i luv that u hate me",
       "url": "https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Swig",
-        "url": "https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 150780,
-      "name": "Motorcycle, No Motor?",
-      "url": "https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1108,7 +1108,7 @@
       "added_at": "2024-07-19 11:53:42",
       "album": {
         "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 183133,
-      "name": "All My Friends are Nobodies",
-      "url": "https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5"
+      "duration_ms": 183282,
+      "name": "When Both Sides Suck, We're All Winners",
+      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1192,7 +1192,7 @@
       "added_at": "2024-07-19 11:53:42",
       "album": {
         "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+        "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 183282,
-      "name": "When Both Sides Suck, We're All Winners",
-      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
+      "duration_ms": 183133,
+      "name": "All My Friends are Nobodies",
+      "url": "https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Act Violently",
-        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 171615,
-      "name": "Act Violently",
-      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Nothing Grows Here",
         "url": "https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 256700,
       "name": "Fools Gold",
       "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Act Violently",
+        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 171615,
+      "name": "Act Violently",
+      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204470,
-      "name": "Stay Awhile",
-      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Approachable",
         "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 240973,
       "name": "Approachable",
       "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204470,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
     },
     {
       "added_at": "2024-07-19 11:53:42",

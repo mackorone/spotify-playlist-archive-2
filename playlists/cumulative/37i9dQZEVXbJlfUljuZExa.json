@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0F1GfJmmaWOi5sE3ZQOYSm"
+      },
+      "artists": [
+        {
+          "name": "Al-Ghazali",
+          "url": "https://open.spotify.com/artist/574Sftrqpo7OKHWPXprSMx"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/5yUjO084QWrMxM4EqpgWFr"
+    },
+    {
+      "album": {
         "name": "Angau",
         "url": "https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL"
       },
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -12998,7 +13016,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Jatuh Suka",
       "url": "https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp"
@@ -16078,7 +16096,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 261048,
       "name": "Mangu",
       "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"

@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 2 min
+116 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Homesick for Hope](https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 2:53 | 2022-09-16 | 2024-10-20 |
 | [Homesick for Hope](https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:53 | 2024-10-20 |  |
 | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/track/0poBSW3FexK3jzHJq6CUoi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/album/5NwZolzRtEyu8twvxdkv28) | 2:37 | 2026-08-14 | 2026-10-18 |
-| [I Have Mixed Drinks About Feelings](https://open.spotify.com/track/1VKGS4b6aVSJtoQmWtxGUl) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:55 | 2026-09-05 |  |
+| [I Don’t Know How to Put This \(But I’m Kinda a Big Deal\)](https://open.spotify.com/track/2riyvV6cQNxn3qKOeHSICA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:37 | 2026-10-25 |  |
+| [I Have Mixed Drinks About Feelings](https://open.spotify.com/track/1VKGS4b6aVSJtoQmWtxGUl) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:55 | 2026-09-05 | 2026-10-25 |
 | [I Have Mixed Drinks About Feelings](https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Have Mixed Drinks About Feelings](https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59) | 2:56 | 2024-06-28 | 2026-09-05 |
 | [I Know What You Did Last Summer](https://open.spotify.com/track/02fWbPqRqpk0wWo8jEksqd) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:45 | 2026-09-13 | 2026-10-08 |
 | [I Know What You Did Last Summer](https://open.spotify.com/track/0azkwzAMADV1WZv8vvZ2du) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I Know What You Did Last Summer](https://open.spotify.com/album/27qPcsIKGzmZvSkLjVGCqE) | 2:45 | 2026-05-22 | 2026-09-13 |

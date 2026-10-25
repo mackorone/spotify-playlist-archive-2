@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59420,
+  "num_followers": 59415,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,18 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "Annan sut pois (feat. Tomi Saario)",
-        "url": "https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4"
+        "name": "BOUJEE",
+        "url": "https://open.spotify.com/album/2a9G4o3WlvzPpley7XFkcp"
       },
       "artists": [
         {
-          "name": "Lukas Leon",
-          "url": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
-        },
-        {
-          "name": "Tomi Saario",
-          "url": "https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H"
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Annan sut pois (feat. Tomi Saario)",
-      "url": "https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25"
+      "duration_ms": 181600,
+      "name": "BOUJEE",
+      "url": "https://open.spotify.com/track/1h444FCFESqo0Uy9WI7iGg"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -391,6 +387,26 @@
       "duration_ms": 153246,
       "name": "Edestakaisin",
       "url": "https://open.spotify.com/track/6fONXxK5VYRSv4cFETHyBy"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
+        "name": "Annan sut pois (feat. Tomi Saario)",
+        "url": "https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4"
+      },
+      "artists": [
+        {
+          "name": "Lukas Leon",
+          "url": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
+        },
+        {
+          "name": "Tomi Saario",
+          "url": "https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Annan sut pois (feat. Tomi Saario)",
+      "url": "https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -423,22 +439,6 @@
       "duration_ms": 181607,
       "name": "en tunne",
       "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
-        "name": "BOUJEE",
-        "url": "https://open.spotify.com/album/2a9G4o3WlvzPpley7XFkcp"
-      },
-      "artists": [
-        {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "BOUJEE",
-      "url": "https://open.spotify.com/track/1h444FCFESqo0Uy9WI7iGg"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
+        "name": "Miks menit unohtaa",
+        "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "duration_ms": 168376,
+      "name": "Miks menit unohtaa",
+      "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
         "name": "Yksin",
         "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 203409,
       "name": "Yksin",
       "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
-        "name": "Miks menit unohtaa",
-        "url": "https://open.spotify.com/album/4cve0eOlBaBDJNAusEbjPT"
-      },
-      "artists": [
-        {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
-        }
-      ],
-      "duration_ms": 168376,
-      "name": "Miks menit unohtaa",
-      "url": "https://open.spotify.com/track/7hA3nyf76gmBJOE4x6oWMK"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "Ihmisenpuolikas",
-        "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
-      },
-      "artists": [
-        {
-          "name": "Aatulove",
-          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
-        }
-      ],
-      "duration_ms": 172447,
-      "name": "Ihmisenpuolikas",
-      "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
         "name": "Parasta ja paskinta",
         "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 142329,
       "name": "Joutsenet",
       "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
+        "name": "Ihmisenpuolikas",
+        "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
+      },
+      "artists": [
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "duration_ms": 172447,
+      "name": "Ihmisenpuolikas",
+      "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "M\u00c4KI OON",
-        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
-      },
-      "artists": [
-        {
-          "name": "LEWI",
-          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "M\u00c4KI OON",
-      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
         "name": "Stereot",
         "url": "https://open.spotify.com/album/1BtRv6Y4dlPq3TaTmjzK5N"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 247741,
       "name": "Stereot",
       "url": "https://open.spotify.com/track/3FhY15yjub9sIofJK5nHFk"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
+        "name": "M\u00c4KI OON",
+        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
+      },
+      "artists": [
+        {
+          "name": "LEWI",
+          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "M\u00c4KI OON",
+      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
+        "name": "Tytt\u00f6 vaihtopenkill\u00e4",
+        "url": "https://open.spotify.com/album/1mQjFFYbcBSKt4SONGFerO"
+      },
+      "artists": [
+        {
+          "name": "martta",
+          "url": "https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Tytt\u00f6 vaihtopenkill\u00e4",
+      "url": "https://open.spotify.com/track/4vTyUCs9WKZ0FeR3Vxwgdr"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
         "name": "ainut joka tuntee mut",
         "url": "https://open.spotify.com/album/3iQ8d7QtTivzakNwqLJZBF"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "Tytt\u00f6 vaihtopenkill\u00e4",
-        "url": "https://open.spotify.com/album/1mQjFFYbcBSKt4SONGFerO"
-      },
-      "artists": [
-        {
-          "name": "martta",
-          "url": "https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Tytt\u00f6 vaihtopenkill\u00e4",
-      "url": "https://open.spotify.com/track/4vTyUCs9WKZ0FeR3Vxwgdr"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
         "name": "Paina play paina stop",
         "url": "https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 153320,
       "name": "Paina play paina stop",
       "url": "https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
-        "name": "Menett\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/3w4aeGyQafYo3Ymj2mnJLP"
-      },
-      "artists": [
-        {
-          "name": "Adi L Hasla",
-          "url": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Menett\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/0yiVrczxmpT6B12fG8Zhfw"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -831,38 +815,54 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "Liian nuorii kuolinilmotuksiin",
-        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
+        "name": "Menett\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/3w4aeGyQafYo3Ymj2mnJLP"
       },
       "artists": [
         {
-          "name": "Lilja Lund\u00e9n",
-          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+          "name": "Adi L Hasla",
+          "url": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
         }
       ],
-      "duration_ms": 187986,
-      "name": "Liian nuorii kuolinilmotuksiin",
-      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
+      "duration_ms": 180000,
+      "name": "Menett\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/0yiVrczxmpT6B12fG8Zhfw"
     },
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "Paprika",
-        "url": "https://open.spotify.com/album/6CiJuDNN7usHRiSFbmLQsf"
+        "name": "Satan ja Tsiisus",
+        "url": "https://open.spotify.com/album/13FIE6novaZEP4fxxmL71e"
       },
       "artists": [
         {
-          "name": "Rony Rex",
-          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
-        },
-        {
-          "name": "Coco K",
-          "url": "https://open.spotify.com/artist/1WFVD9B1qvU1UPYcTSahqs"
+          "name": "Tuure Boelius",
+          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
         }
       ],
-      "duration_ms": 181423,
-      "name": "Light All Night",
-      "url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL"
+      "duration_ms": 185770,
+      "name": "Satan ja Tsiisus",
+      "url": "https://open.spotify.com/track/7IExBx42fyw2q7gBKGew5d"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
+        "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
+        "url": "https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d"
+      },
+      "artists": [
+        {
+          "name": "yaya",
+          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 175108,
+      "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
+      "url": "https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG"
     }
   ],
   "unique_name": "Nousussa",

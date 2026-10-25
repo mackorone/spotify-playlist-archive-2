@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398522,
+  "num_followers": 398550,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 214817,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 216005,
       "name": "Beginners",
       "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Better Tomorrow",
-        "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
-      },
-      "artists": [
-        {
-          "name": "Sennen Bay",
-          "url": "https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW"
-        }
-      ],
-      "duration_ms": 211111,
-      "name": "Better Tomorrow",
-      "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 150937,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Better Tomorrow",
+        "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
+      },
+      "artists": [
+        {
+          "name": "Sennen Bay",
+          "url": "https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW"
+        }
+      ],
+      "duration_ms": 211111,
+      "name": "Better Tomorrow",
+      "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
       "artists": [
         {
-          "name": "Sisy Fos",
-          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
         }
       ],
-      "duration_ms": 229347,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
+      "duration_ms": 186040,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
       },
       "artists": [
         {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
         }
       ],
-      "duration_ms": 186040,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
+      "duration_ms": 229347,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "For A Minute",
-        "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "For A Minute",
-      "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Cape Forestier",
-      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 195586,
       "name": "Lonely On Lovers Lane",
       "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
     },
     {
       "added_at": "2026-10-15 22:00:36",

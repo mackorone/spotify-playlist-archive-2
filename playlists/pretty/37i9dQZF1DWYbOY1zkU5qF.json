@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 265081,
+  "num_followers": 265151,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANm3jPCkwau3i+Z7CUpDz4+iBC8I",
+  "snapshot_id": "AAAAAPGtG0lNhIo8ZWIUvdpbHUULLybI",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Lobo Hombre En Par\u00eds",
-        "url": "https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/2x4BKdc1ILXpNV1xg60gSV"
-        }
-      ],
-      "duration_ms": 185136,
-      "name": "Lobo Hombre En Par\u00eds",
-      "url": "https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "De Musica Ligera",
         "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
+        "name": "Lobo Hombre En Par\u00eds",
+        "url": "https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/2x4BKdc1ILXpNV1xg60gSV"
         }
       ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+      "duration_ms": 185136,
+      "name": "Lobo Hombre En Par\u00eds",
+      "url": "https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -279,6 +263,22 @@
       "duration_ms": 195346,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Cien A\u00f1os",
+        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
-        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Avila",
-          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cuando Calienta El Sol",
         "url": "https://open.spotify.com/album/1fQp9n1xWOGAFfF3TOjMg2"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 159250,
       "name": "Cuando Calienta El Sol",
       "url": "https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
+        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
+      "duration_ms": 348339,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1263,6 +1259,26 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "(un poco + de) FE",
         "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 204500,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 348339,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
     },
     {
       "added_at": "2022-02-18 06:00:00",

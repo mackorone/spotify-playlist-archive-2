@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 209989,
+  "num_followers": 210017,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADxx0hZpd9AwTH8N/3lKzUN",
+  "snapshot_id": "atqjgAAAAACmFA3Q/UeV2mdkj7+6SQCJ",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Irish Celebration",
+        "url": "https://open.spotify.com/album/6mJZhsFmCN0nJcn50H87H9"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        }
+      ],
+      "duration_ms": 282352,
+      "name": "Irish Celebration",
+      "url": "https://open.spotify.com/track/2rLcR01HB0ScBAsgxX4Z62"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 232000,
       "name": "Need To Know (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irish Celebration",
-        "url": "https://open.spotify.com/album/6mJZhsFmCN0nJcn50H87H9"
-      },
-      "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        }
-      ],
-      "duration_ms": 282352,
-      "name": "Irish Celebration",
-      "url": "https://open.spotify.com/track/2rLcR01HB0ScBAsgxX4Z62"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Song (feat. Evan Roman)",
+        "url": "https://open.spotify.com/album/4xvsLZ4l6iFWSBK0vnO9cg"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Evan Roman",
+          "url": "https://open.spotify.com/artist/3pB1yT1RqutcdHkI3oAdVS"
+        }
+      ],
+      "duration_ms": 263732,
+      "name": "Love Song (feat. Evan Roman)",
+      "url": "https://open.spotify.com/track/2RZ9EanhMHmfzFRH9WhZbW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 280200,
       "name": "Kevin (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/5qjWSyuU0rTLI8ohmx2K3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Song (feat. Evan Roman)",
-        "url": "https://open.spotify.com/album/4xvsLZ4l6iFWSBK0vnO9cg"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Evan Roman",
-          "url": "https://open.spotify.com/artist/3pB1yT1RqutcdHkI3oAdVS"
-        }
-      ],
-      "duration_ms": 263732,
-      "name": "Love Song (feat. Evan Roman)",
-      "url": "https://open.spotify.com/track/2RZ9EanhMHmfzFRH9WhZbW"
     },
     {
       "added_at": null,

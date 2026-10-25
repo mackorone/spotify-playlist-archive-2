@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,717 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,737 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 74 | [Real G's](https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Real G's](https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ) | 4:05 |
 | 75 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 |
 | 76 | [All Star](https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [All Star](https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh) | 3:30 |
-| 77 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido](https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY) | 3:47 |
-| 78 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
+| 77 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
+| 78 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido](https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY) | 3:47 |
 | 79 | [WOW](https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [WOW](https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS) | 3:37 |
 | 80 | [Robinson Cano](https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Robinson Cano](https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL) | 3:02 |
-| 81 | [Si Tu Novio Te Deja Sola](https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Si Tu Novio Te Deja Sola](https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU) | 4:03 |
-| 82 | [A Mi Manera](https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [A Mi Manera](https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL) | 2:38 |
-| 83 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
+| 81 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
+| 82 | [Si Tu Novio Te Deja Sola](https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Si Tu Novio Te Deja Sola](https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU) | 4:03 |
+| 83 | [A Mi Manera](https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [A Mi Manera](https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL) | 2:38 |
 | 84 | [LowKey](https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LowKey](https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH) | 3:13 |
 | 85 | [Bipolar](https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3) | 3:39 |
 | 86 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 |

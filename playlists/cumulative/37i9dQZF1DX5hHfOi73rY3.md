@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-302 songs - 20 hr 16 min
+303 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Teardrops](https://open.spotify.com/track/04bzZNvXQCdIN9nT4IPFC2) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Teardrops](https://open.spotify.com/album/3WOfpLYrcSowPNT5XGUb5I) | 2:12 | 2025-05-16 | 2025-06-04 |
 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 | 2020-11-06 | 2025-05-17 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2024-01-12 | 2025-05-17 |
-| [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 | 2025-10-03 |  |
+| [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 | 2025-10-03 | 2026-10-25 |
 | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj) | 2:46 | 2024-03-22 | 2025-02-14 |
 | [That's Right](https://open.spotify.com/track/34bvypiveNLMCrB0iGWviM) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [That's Right](https://open.spotify.com/album/5pkd3bdFVLqSUBGbYda4gU) | 3:39 | 2026-03-27 |  |
 | [The Don](https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Gabi'el](https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN) | [The Don](https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV) | 2:46 | 2024-09-06 | 2025-05-19 |
@@ -298,6 +298,7 @@
 | [What I Might Do](https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do \(Radio Edit\)](https://open.spotify.com/album/4SdrC7w58BEVFdaOhbWbBG) | 3:15 | 2020-11-06 | 2025-05-17 |
 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 | 2020-11-06 | 2024-04-19 |
 | [What They Say](https://open.spotify.com/track/7HlvFIJDmcQRRn45aRd46t) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/3c2dnQRrresDwsCPLLdmB7) | 6:40 | 2020-11-06 | 2025-05-02 |
+| [What You Talking 'Bout](https://open.spotify.com/track/0Yy0Yb5VThQOYiBfNEzssi) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [What You Talking 'Bout](https://open.spotify.com/album/6JNZofZ1bRcmHh3lmpmNhZ) | 2:51 | 2026-10-16 |  |
 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 | 2025-05-29 | 2025-11-30 |
 | [White Noise](https://open.spotify.com/track/17tf2acTqe7iWvZ4H1fvkE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [The Singles](https://open.spotify.com/album/0BnvB1gVzTiJM6nd9kpvTY) | 5:40 | 2020-11-06 | 2024-01-13 |
 | [White Noise](https://open.spotify.com/track/1j29DJ3SWu4fAtOeoPSYBL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Deep House 2020](https://open.spotify.com/album/29HYXKZgizMLBuVOdI7oI7) | 5:40 | 2020-11-06 | 2022-11-13 |

@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Inside Voice",
+        "url": "https://open.spotify.com/album/7DhO9UDCoPpRoOuwqxKmKd"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "Inside Voice",
+      "url": "https://open.spotify.com/track/1BU3gLVXz7lHaftCuv0id3"
+    },
+    {
+      "album": {
         "name": "It Isn't Me (with KSHMR)",
         "url": "https://open.spotify.com/album/5at4UMpAW5bTh8d4jLeUmz"
       },

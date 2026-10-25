@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,630 songs - 3 day 23 hr 9 min
+1,632 songs - 3 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [A Pit Stop, Not A Home](https://open.spotify.com/track/59B7NkkjSn8Gjbauh9CgXa) | [Suhendra Balada](https://open.spotify.com/artist/3yradc9hnbQk2ejmsrljFZ) | [A Pit Stop, Not A Home](https://open.spotify.com/album/14T5E9auTa0CU6AuiOIeFA) | 3:10 | 2026-03-22 | 2026-04-22 |
 | [A quoi bon](https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [A quoi bon](https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU) | 3:46 | 2026-02-10 | 2026-03-15 |
 | [A Tram for Lovers](https://open.spotify.com/track/5jNgQBAiK6c9YYYzykzCVN) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG), [Bruno Zoia](https://open.spotify.com/artist/7ttBJe2rfmfXHctvB887kD), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N), [Roberto Pentassuglia](https://open.spotify.com/artist/0s4A17TXOJbIEmrg1jtI6t) | [A Tram for Lovers](https://open.spotify.com/album/2zl2uTA8T7mK9ibpjaP0Hw) | 4:46 | 2023-09-07 | 2025-11-29 |
+| [A través del cristal](https://open.spotify.com/track/4S7srjyyrvjKbDpof9Wd76) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU), [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc) | [A través del cristal](https://open.spotify.com/album/6U60rrrl1hn7ucgxZqRVqM) | 2:33 | 2026-10-24 |  |
 | [A veces](https://open.spotify.com/track/2imejrjky3Gedjp0ORMty7) | [Teira](https://open.spotify.com/artist/7fWf4IrlJOQNK0Fahnw7Bc) | [A veces](https://open.spotify.com/album/28C1L8wW4OUjs8uj52x5RE) | 2:41 | 2026-08-22 | 2026-09-17 |
 | [A Wedding in Modesto](https://open.spotify.com/track/6PUuWyQVg3NFxpWhi6K0om) | [Brett Shady](https://open.spotify.com/artist/25xd7GOccgisDmnXbGUbAA) | [A Wedding in Modesto \(Dream Cabin Sessions\)](https://open.spotify.com/album/5Eu3fuoOyP18XP7YchtrvI) | 3:41 | 2025-09-29 | 2025-11-29 |
 | [Abdel et Mikael](https://open.spotify.com/track/6nQny9qnNR6HCXmVOxsXrL) | [Anyel ADDA](https://open.spotify.com/artist/6Hwlx1juJcZzoLlNrTFoCh) | [Abdel et Mikael](https://open.spotify.com/album/4v99ixzKM0caMxHgiRYQhv) | 3:37 | 2026-01-30 | 2026-02-28 |
@@ -689,6 +690,7 @@
 | [Joutau \(See You In Dreams\)](https://open.spotify.com/track/4lBbE9mYrgp5Cr6iSpsW6s) | [Swords & Sandals](https://open.spotify.com/artist/2rduF8rgZi6jgfjnfqFIFl) | [Joutau \(See You in Dreams\) \- EP](https://open.spotify.com/album/04OrfPkzRZSSX1UP1fVwSB) | 3:58 | 2026-04-20 | 2026-06-05 |
 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 | 2026-02-10 | 2026-03-15 |
 | [Judas](https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Aerial Minds](https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ) | 4:18 | 2026-01-30 | 2026-02-28 |
+| [Judy Joan & Buffy](https://open.spotify.com/track/36hIAapeAhnxCpnPNYvnPe) | [Marvin Conan](https://open.spotify.com/artist/5mNwzKcw5pJsCw9F9hZdrk), [Victoria Bebee](https://open.spotify.com/artist/2yT9qgdKWBDf5V08wu3kpZ) | [Judy Joan & Buffy](https://open.spotify.com/album/7bAUDNCF8yrz0YAfdUqwSR) | 3:17 | 2026-10-24 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-01 | 2026-02-03 |
 | [Just Another Cliché](https://open.spotify.com/track/435l6Hs0Bckdc8mlQLLqDI) | [Frans Jansenn](https://open.spotify.com/artist/4kCFzQFXYADvVKwcvvXWV2) | [1961](https://open.spotify.com/album/5tqOMHrYpkTYarpfJDD4Ok) | 3:46 | 2026-01-14 | 2026-02-20 |
 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2026-08-26 | 2026-09-20 |

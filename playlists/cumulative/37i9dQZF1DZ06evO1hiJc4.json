@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 102603,
       "name": "Accepted By The Crew",
       "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
@@ -104,10 +104,32 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 197598,
       "name": "ALL OR NOTHING",
       "url": "https://open.spotify.com/track/3L8pWfEVmI8fQAUUmuJ8HH"
+    },
+    {
+      "album": {
+        "name": "THE BRIDGE",
+        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199516,
+      "name": "ALL OR NOTHING",
+      "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
     },
     {
       "album": {
@@ -2292,7 +2314,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 131720,
       "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"

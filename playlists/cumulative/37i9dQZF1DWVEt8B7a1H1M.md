@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-177 songs - 9 hr 47 min
+178 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Close to Nature](https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:19 | 2021-12-08 | 2025-08-09 |
 | [Commander Piggins Call](https://open.spotify.com/track/7aZQxpvaYihFp6Edwp7NMy) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Sounds of the Lone Forest](https://open.spotify.com/album/1B5IwydWyyt3kBhAvk9skN) | 3:32 | 2021-12-08 | 2025-11-12 |
 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-06-19 |  |
-| [Drifting Through Birdsong](https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Drifting Through Birdsong](https://open.spotify.com/album/6P490oFAW66ie6kcwq7PDH) | 2:50 | 2025-11-11 |  |
+| [Drifting Through Birdsong](https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Drifting Through Birdsong](https://open.spotify.com/album/6P490oFAW66ie6kcwq7PDH) | 2:50 | 2025-11-11 | 2026-10-25 |
 | [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 | 2023-06-19 | 2025-07-25 |
 | [Early Morning Thunder](https://open.spotify.com/track/2PMNQiqn4JFUdA9B18hTsC) | [Circular Gravity](https://open.spotify.com/artist/5DoMCLazvudr0lnBVT2pwq) | [Flashing Lights](https://open.spotify.com/album/1YGbdo8psAn5frhg854Gcc) | 7:34 | 2021-12-08 | 2022-07-05 |
 | [Early Summer Birds](https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 2:10 | 2021-12-08 |  |
@@ -121,6 +121,7 @@
 | [Morning Birds and Wind in the Rainforest](https://open.spotify.com/track/6pJk6WsZRbVSgs1jKY59y7) | [Morning Nature](https://open.spotify.com/artist/1nukVKo5upH1h2p9gpDE2V) | [Natural Mornings](https://open.spotify.com/album/5Cf0rw5SoOPtDjSkSwijAR) | 4:54 | 2021-12-08 | 2022-07-05 |
 | [Morning Birds May](https://open.spotify.com/track/37jqgmiDN5ITZtxzQ9FFc0) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Morning Birds May](https://open.spotify.com/album/0uB5c9Md8U2IKcniqFFkU5) | 2:43 | 2023-06-19 | 2024-06-17 |
 | [Morning Countryside with Birds](https://open.spotify.com/track/4q0yUiKbX6wQpX403QfnDr) | [In Beautiful Nature](https://open.spotify.com/artist/0e5VJVfj2bG88EWUdgv7Qk) | [Forest Ambience](https://open.spotify.com/album/3YGbhSRV9TwZQieBr5ChcC) | 2:28 | 2022-01-19 | 2022-07-05 |
+| [Morning Forest Bird Calls](https://open.spotify.com/track/6ISuISPeuhegLGrs2uDYN3) | [Lakoustiks](https://open.spotify.com/artist/3D8fqVzEmlJnUq50MV3aJl) | [Morning Forest Bird Calls](https://open.spotify.com/album/7JjPaGUESw3nPrSHqCJMI3) | 3:06 | 2026-04-02 |  |
 | [Morning In The Forest](https://open.spotify.com/track/2P6dfQcVKTJvWxnGKGYmS8) | [Lissening](https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja) | [Nature Nice](https://open.spotify.com/album/3VBGYlSRKVgUOSE7YkI1a8) | 2:02 | 2023-06-20 | 2025-05-11 |
 | [Morning in the Mist](https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM) | [Wonders of Nature](https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ) | [Woodlands](https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq) | 4:31 | 2021-12-08 | 2025-08-01 |
 | [Morning Melodies: Aotearoa Birdsong at Dawn \(Aotearoa Birdsong at Dawn\)](https://open.spotify.com/track/7a3IgdLFrx5v22xKrjMcJ1) | [Zealandia Te Māra a Tāne](https://open.spotify.com/artist/7LVNYSv45bPdZYtEZlOAZI) | [Sanctuary Soundscapes](https://open.spotify.com/album/1q1XY1Xyr2ut2t46VDByAd) | 30:26 | 2025-07-21 | 2026-04-03 |

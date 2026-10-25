@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190036,
+  "num_followers": 190025,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHSXJrFa6YxyyDyA+yreEBHMwNol",
+  "snapshot_id": "AAAAAOpuw75xwuotrBqO22e8v6nBaRLw",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:37",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
       },
       "artists": [
         {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
         }
       ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Always The Same (feat. St. Vincent)",
-        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Always The Same (feat. St. Vincent)",
-      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Pass Through Time",
         "url": "https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 256950,
       "name": "Pass Through Time",
       "url": "https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Always The Same (feat. St. Vincent)",
+        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Always The Same (feat. St. Vincent)",
+      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "The In-Between",
-        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
-      },
-      "artists": [
-        {
-          "name": "Leela Rosa",
-          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
-        }
-      ],
-      "duration_ms": 165084,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Bright Belief",
         "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 282000,
       "name": "Bright Belief",
       "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "duration_ms": 165084,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Nightwood (Feat. Tine Reymer) Radio edit [Radio Edit]",
-        "url": "https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q"
-      },
-      "artists": [
-        {
-          "name": "Nausca",
-          "url": "https://open.spotify.com/artist/2LsP0kImUaDBE7uQUmOCPg"
-        },
-        {
-          "name": "Ansatz Der Maschine",
-          "url": "https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Nightwood (Feat. Tine Reymer) Radio Edit",
-      "url": "https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
+        "name": "Nightwood (Feat. Tine Reymer) Radio edit [Radio Edit]",
+        "url": "https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q"
       },
       "artists": [
         {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+          "name": "Nausca",
+          "url": "https://open.spotify.com/artist/2LsP0kImUaDBE7uQUmOCPg"
+        },
+        {
+          "name": "Ansatz Der Maschine",
+          "url": "https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB"
         }
       ],
-      "duration_ms": 244421,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
+      "duration_ms": 219106,
+      "name": "Nightwood (Feat. Tine Reymer) Radio Edit",
+      "url": "https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -863,6 +847,22 @@
       "duration_ms": 172920,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 153164,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Dark Sky Reserve",
         "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 173343,
       "name": "Tree-lined Lanes",
       "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 153164,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "An Hour Per Day",
-        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
       "artists": [
         {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
         }
       ],
-      "duration_ms": 217646,
-      "name": "An Hour Per Day",
-      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Rush Hour Traffic",
-        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+        "name": "An Hour Per Day",
+        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
       },
       "artists": [
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
         }
       ],
-      "duration_ms": 264346,
-      "name": "Rush Hour Traffic",
-      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+      "duration_ms": 217646,
+      "name": "An Hour Per Day",
+      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Dragon's Eyes",
-        "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
-      },
-      "artists": [
-        {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
-        },
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 228897,
-      "name": "Dragon's Eyes",
-      "url": "https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Time Drifts",
         "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
@@ -1295,18 +1275,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+        "name": "Dragon's Eyes",
+        "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
       },
       "artists": [
         {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        },
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+      "duration_ms": 228897,
+      "name": "Dragon's Eyes",
+      "url": "https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "AT LEAST SOMETHING IS PROTECTING YOU",
         "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Baby Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 185114,
-      "name": "Baby Blue - Acoustic",
-      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Sincerely, Sevens",
         "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 250306,
       "name": "Exit Wounds",
       "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Baby Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 185114,
+      "name": "Baby Blue - Acoustic",
+      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Collection of Goodbyes: Escapades III",
-        "url": "https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz"
-      },
-      "artists": [
-        {
-          "name": "Brennt Vanneste",
-          "url": "https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1"
-        }
-      ],
-      "duration_ms": 173766,
-      "name": "Everything Bends Towards You",
-      "url": "https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Mr. Beckett (Alternate Version)",
         "url": "https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "So do I",
-        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+        "name": "Collection of Goodbyes: Escapades III",
+        "url": "https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz"
       },
       "artists": [
         {
-          "name": "PIMSKIN",
-          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+          "name": "Brennt Vanneste",
+          "url": "https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1"
         }
       ],
-      "duration_ms": 128326,
-      "name": "So do I",
-      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
+      "duration_ms": 173766,
+      "name": "Everything Bends Towards You",
+      "url": "https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1647,6 +1631,22 @@
       "duration_ms": 148125,
       "name": "Where's The Fun In That?",
       "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "So do I",
+        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "So do I",
+      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
     }
   ],
   "unique_name": "rustig aan",

@@ -4,7 +4,7 @@
 
 > This is Bailey Zimmerman\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 35 min
+50 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [It's All Good](https://open.spotify.com/track/1hI2xINp7qDKEDsqG78dFG) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 2:50 | 2025-08-10 | 2025-09-21 |
 | [Just Believe](https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Believe](https://open.spotify.com/album/5hGKVyBnm1l8cYuDNlykJn) | 2:41 | 2026-03-15 |  |
 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 | 2025-08-10 |  |
+| [My Kinda Love \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/6LCGa3pc4syhpx1EvGeaGA) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [My Kinda Love \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2wwyJnEbbzghF7YGiXD8Zq) | 3:40 | 2026-10-25 |  |
 | [Never Comin' Home](https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Comin' Home](https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8) | 3:14 | 2023-09-15 |  |
 | [Never Leave](https://open.spotify.com/track/0glkts20NpDPX8sZEQpctJ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:27 | 2023-09-15 |  |
 | [New To Country](https://open.spotify.com/track/0hfGnxKz1tyz0uLfiycbKQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 2:57 | 2025-10-10 |  |

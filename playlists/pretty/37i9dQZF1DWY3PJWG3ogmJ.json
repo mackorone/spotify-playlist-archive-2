@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 726588,
+  "num_followers": 726623,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
+        "name": "Death Above Life (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nCzCl86fY0jtgs4DbWWXb"
       },
       "artists": [
         {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
         }
       ],
-      "duration_ms": 253863,
-      "name": "Beyond the Pale",
-      "url": "https://open.spotify.com/track/5oB8lvHx6Ww4QC02EBUjRc"
+      "duration_ms": 308375,
+      "name": "Nuclear God",
+      "url": "https://open.spotify.com/track/4pPQqjLsJineYmBFxOFNNt"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Death Above Life (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nCzCl86fY0jtgs4DbWWXb"
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
       },
       "artists": [
         {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 308375,
-      "name": "Nuclear God",
-      "url": "https://open.spotify.com/track/4pPQqjLsJineYmBFxOFNNt"
+      "duration_ms": 253863,
+      "name": "Beyond the Pale",
+      "url": "https://open.spotify.com/track/5oB8lvHx6Ww4QC02EBUjRc"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Pangs of Conscience",
-        "url": "https://open.spotify.com/album/4XrsSsrkMkkYLzbvvnxxrr"
-      },
-      "artists": [
-        {
-          "name": "200 Stab Wounds",
-          "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
-        }
-      ],
-      "duration_ms": 287332,
-      "name": "Pangs of Conscience",
-      "url": "https://open.spotify.com/track/5pD2JxlCEtcNV9cKJijmwr"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
         "name": "Southern Hostility",
         "url": "https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 207398,
       "name": "All Pride No Pain",
       "url": "https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
+        "name": "Pangs of Conscience",
+        "url": "https://open.spotify.com/album/4XrsSsrkMkkYLzbvvnxxrr"
+      },
+      "artists": [
+        {
+          "name": "200 Stab Wounds",
+          "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        }
+      ],
+      "duration_ms": 287332,
+      "name": "Pangs of Conscience",
+      "url": "https://open.spotify.com/track/5pD2JxlCEtcNV9cKJijmwr"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Grand Serpent Rising",
-        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 321887,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6n3KjHVEKh6JI2PtasyAz5"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
         "name": "Warrior",
         "url": "https://open.spotify.com/album/1aE7C1a583EENZ8TKfGsX3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 271495,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/5Pd6bF7lSlVjhMjEKqFzZ8"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
+        "name": "Grand Serpent Rising",
+        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 321887,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6n3KjHVEKh6JI2PtasyAz5"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "The End of All We Know",
-        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 251512,
-      "name": "The End of All We Know",
-      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
         "name": "A New Kind of Horror",
         "url": "https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209100,
       "name": "Forward!",
       "url": "https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
+        "name": "The End of All We Know",
+        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 251512,
+      "name": "The End of All We Know",
+      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "With All Their Might",
-        "url": "https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I"
-      },
-      "artists": [
-        {
-          "name": "Dyscarnate",
-          "url": "https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB"
-        }
-      ],
-      "duration_ms": 275573,
-      "name": "Iron Strengthens Iron",
-      "url": "https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
         "name": "The Level Above Human",
         "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 258245,
       "name": "Invidious",
       "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
+        "name": "With All Their Might",
+        "url": "https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I"
+      },
+      "artists": [
+        {
+          "name": "Dyscarnate",
+          "url": "https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB"
+        }
+      ],
+      "duration_ms": 275573,
+      "name": "Iron Strengthens Iron",
+      "url": "https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ"
     },
     {
       "added_at": "2026-10-19 15:40:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31473,
+  "num_followers": 31477,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADP7vjZQ2NDFqnaTasnLRzj",
+  "snapshot_id": "atqjgAAAAADnHqy5dFKVFg0LnMTRUjKQ",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEXY",
+        "url": "https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE"
+      },
+      "artists": [
+        {
+          "name": "YOLAMASCARA",
+          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY - feat. Sexyy Red",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEXY",
-        "url": "https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE"
-      },
-      "artists": [
-        {
-          "name": "YOLAMASCARA",
-          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "SEXY",
-      "url": "https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girlz Run The World",
-        "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
-      },
-      "artists": [
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "5 Star Freak (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3WK2MpD3d1W7oziyVX4NGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Girlz Run The World",
+        "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "5 Star Freak (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3WK2MpD3d1W7oziyVX4NGk"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IN THE CLUB (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 144708,
-      "name": "IN THE CLUB (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
         "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
       },
@@ -935,26 +915,6 @@
       "duration_ms": 81802,
       "name": "Bow Bow Bow - F My Baby Daddy Freestyle",
       "url": "https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somethin' (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149245,
-      "name": "Somethin' (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
     },
     {
       "added_at": null,
@@ -983,6 +943,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "IN THE CLUB (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 144708,
+      "name": "IN THE CLUB (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somethin' (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149245,
+      "name": "Somethin' (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Like",
-        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 152157,
-      "name": "I Like It (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTH WAYS",
         "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 147600,
       "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
       "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Like",
+        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 152157,
+      "name": "I Like It (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4"
     }
   ],
   "unique_name": "This Is Sexyy Red",

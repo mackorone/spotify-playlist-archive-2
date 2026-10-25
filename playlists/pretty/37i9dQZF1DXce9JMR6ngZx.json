@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 254844,
+  "num_followers": 254887,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 288533,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Colour By Numbers (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Rio (Collector's Edition)",
         "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 337333,
       "name": "Rio - 2009 Remaster",
       "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Go Back (Ao vivo)",
-        "url": "https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 261398,
-      "name": "Marvin - Ao vivo",
-      "url": "https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Cinema Mudo",
         "url": "https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 191216,
       "name": "Vital E Sua Moto",
       "url": "https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Go Back (Ao vivo)",
+        "url": "https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 261398,
+      "name": "Marvin - Ao vivo",
+      "url": "https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "O Passo Do Lui",
         "url": "https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 219600,
       "name": "\u00d3culos",
       "url": "https://open.spotify.com/track/1LphXGnd5o9F0hOE61Zf9T"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
     }
   ],
   "unique_name": "Faxina Nostalgia",

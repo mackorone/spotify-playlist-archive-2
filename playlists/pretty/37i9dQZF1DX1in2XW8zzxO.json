@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 107443,
+  "num_followers": 107488,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,30 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "Thanda (Tshwala) 10.0",
+        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Loony Q",
+          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
+        },
+        {
+          "name": "Senzo02",
+          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
+        }
+      ],
+      "duration_ms": 271737,
+      "name": "Thanda (Tshwala) 10.0",
+      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Makhelwane",
         "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
       },
@@ -695,30 +719,6 @@
       "duration_ms": 328096,
       "name": "Keneilwe (feat. Dalom Kids)",
       "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
-        "name": "Thanda (Tshwala) 10.0",
-        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
-      },
-      "artists": [
-        {
-          "name": "Bukzin Keyz",
-          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
-        },
-        {
-          "name": "Loony Q",
-          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
-        },
-        {
-          "name": "Senzo02",
-          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
-        }
-      ],
-      "duration_ms": 271737,
-      "name": "Thanda (Tshwala) 10.0",
-      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
-        "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
-      },
-      "artists": [
-        {
-          "name": "Novatron",
-          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Dj 787",
-          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "GoodGuy Styles",
-          "url": "https://open.spotify.com/artist/5WDJlVFkmrfuBA5r1uZz8u"
-        }
-      ],
-      "duration_ms": 414827,
-      "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
-      "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) [Edit]",
         "url": "https://open.spotify.com/album/2cdf1yQGKMbpgOcKmRIIaI"
       },
@@ -1383,22 +1351,70 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Club What",
-        "url": "https://open.spotify.com/album/0ytwKT6P9xm0gqDiverXYc"
+        "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+        "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
       },
       "artists": [
         {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+          "name": "Novatron",
+          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
         },
         {
-          "name": "Djy Vino",
-          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Dj 787",
+          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "GoodGuy Styles",
+          "url": "https://open.spotify.com/artist/5WDJlVFkmrfuBA5r1uZz8u"
         }
       ],
-      "duration_ms": 408866,
-      "name": "Club What",
-      "url": "https://open.spotify.com/track/04bX9mKlMxc30PnCIQZcO5"
+      "duration_ms": 414827,
+      "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+      "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Skuta Baba (Remix Pack)",
+        "url": "https://open.spotify.com/album/05xMiDYYKjQ6jt8AYgyCGr"
+      },
+      "artists": [
+        {
+          "name": "WOODBLOCK DJS",
+          "url": "https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "G-TECH 2bit",
+          "url": "https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0"
+        },
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2"
+        },
+        {
+          "name": "Mochen",
+          "url": "https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg"
+        }
+      ],
+      "duration_ms": 260209,
+      "name": "Skuta Baba - Pitori Remix",
+      "url": "https://open.spotify.com/track/5FsDe3oTjRtEuzZcYUGiF2"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

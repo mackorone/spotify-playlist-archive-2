@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 47120,
       "name": "Concerto pour 2 pianos solo: 4. Quattro Variazioni. Variation II",
       "url": "https://open.spotify.com/track/1492vV8uTGCZZpgHYXiE79"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 147160,
       "name": "Siete canciones populares espa\u00f1olas: 5. Nana",
       "url": "https://open.spotify.com/track/0yTxcuNkyQokoYSWtPL6ys"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 83440,
       "name": "Star-Cross'd Lovers: Act III: Mercutio's Death",
       "url": "https://open.spotify.com/track/1rVNt8SZHzTMrr2QXXytJu"
@@ -1434,6 +1434,28 @@
       "duration_ms": 264973,
       "name": "Swan Lake, Op. 20, TH.12 - Arr. for piano duet: Russian dance",
       "url": "https://open.spotify.com/track/2JX2Jkpv8IlkzhVIt9UZOB"
+    },
+    {
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Tango, pour deux pianos",
+      "url": "https://open.spotify.com/track/5aBXuqOFMI3GW6deiYbKgG"
     },
     {
       "album": {
@@ -1697,6 +1719,28 @@
     },
     {
       "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63760,
+      "name": "Valse des fleurs, pour piano 4 mains",
+      "url": "https://open.spotify.com/track/53E4h85cWN1JTgtR59TvMv"
+    },
+    {
+      "album": {
         "name": "Minimalism for Spring",
         "url": "https://open.spotify.com/album/14iT6l649zYcSRLNtyO3gv"
       },
@@ -1738,6 +1782,28 @@
       "duration_ms": 283489,
       "name": "Water Dances, Arr. for two pianos: IV. Gliding",
       "url": "https://open.spotify.com/track/3TKciQVui6nteCM6Tr4qgj"
+    },
+    {
+      "album": {
+        "name": "Minimalist Dream House",
+        "url": "https://open.spotify.com/album/4yKEvImTQVYrHH13IY7Buj"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355468,
+      "name": "Water Dances, Arr. for two pianos: V. Synchronising",
+      "url": "https://open.spotify.com/track/383XZPX5RiocbmHF7HkZtw"
     },
     {
       "album": {

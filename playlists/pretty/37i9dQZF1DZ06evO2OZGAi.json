@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7280,
+  "num_followers": 7279,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAACx2k5AqJFM9ObckSfYOuQv",
+  "snapshot_id": "atqjgAAAAACpP1uuvA43jQQidtwwBdyO",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos 2)",
-        "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 177613,
-      "name": "Tal Vez Buscando",
-      "url": "https://open.spotify.com/track/2cMn8l6lrxJYMOe0Ft8L7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Voy A Cuidar",
         "url": "https://open.spotify.com/album/5DRUmF4QrwKqNTfphCWi8C"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 185958,
       "name": "Te Voy A Cuidar",
       "url": "https://open.spotify.com/track/6vyYZ6nUbfxaGUuUbeHPcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos la Gente (Somos 2)",
+        "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 177613,
+      "name": "Tal Vez Buscando",
+      "url": "https://open.spotify.com/track/2cMn8l6lrxJYMOe0Ft8L7t"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Caras Maquilladas",
-      "url": "https://open.spotify.com/track/4QoVwlrgC6oWfiJFMS0y4I"
+      "duration_ms": 245866,
+      "name": "Una Canci\u00f3n por Dios",
+      "url": "https://open.spotify.com/track/12XwPoe7AqbSJEeJCLNkTW"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Una Canci\u00f3n por Dios",
-      "url": "https://open.spotify.com/track/12XwPoe7AqbSJEeJCLNkTW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
@@ -340,9 +324,25 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 160306,
-      "name": "El D\u00eda",
-      "url": "https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh"
+      "duration_ms": 212453,
+      "name": "Caras Maquilladas",
+      "url": "https://open.spotify.com/track/4QoVwlrgC6oWfiJFMS0y4I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Simplemente",
+      "url": "https://open.spotify.com/track/18DkHYBzABD5gyPGzkEnzt"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Simplemente",
-      "url": "https://open.spotify.com/track/18DkHYBzABD5gyPGzkEnzt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
@@ -404,41 +388,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos la Gente (Somos 2)",
-        "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 112080,
-      "name": "Un Mensaje para Ti (\u00c1ngel)",
-      "url": "https://open.spotify.com/track/1vqSdNfpJWxCP0lIYNtNNC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Ahora Volar\u00e9",
-      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
+      "duration_ms": 160306,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/4BqTzveFlEveHNtWZ3dAqh"
     },
     {
       "added_at": null,
@@ -459,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos la Gente (Somos 2)",
+        "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 112080,
+      "name": "Un Mensaje para Ti (\u00c1ngel)",
+      "url": "https://open.spotify.com/track/1vqSdNfpJWxCP0lIYNtNNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -471,6 +439,54 @@
       "duration_ms": 248784,
       "name": "Los Finos",
       "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Ahora Volar\u00e9",
+      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
     },
     {
       "added_at": null,
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi"
+      "duration_ms": 155000,
+      "name": "Vibraciones Positivas",
+      "url": "https://open.spotify.com/track/1yPdstPBlfsmVewyVb65hZ"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
       "duration_ms": 136081,
       "name": "No S\u00e9 por Qu\u00e9",
       "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Vibraciones Positivas",
-      "url": "https://open.spotify.com/track/1yPdstPBlfsmVewyVb65hZ"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Salva Mi Mente",
-      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Dilo por M\u00ed",
-      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
+      "duration_ms": 261213,
+      "name": "Salva Mi Mente",
+      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 195758,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Dilo por M\u00ed",
+      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
     },
     {
       "added_at": null,

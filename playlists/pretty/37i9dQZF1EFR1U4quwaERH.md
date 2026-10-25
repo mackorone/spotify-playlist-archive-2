@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 69 | [Shinanigins](https://open.spotify.com/track/2wMuSMdSq6zFPEDhaIvjgQ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:42 |
 | 70 | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/track/56NHfqWbnWX60iQYybskqO) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06), [Mutungi](https://open.spotify.com/artist/1yOaXpYr3A6jMRhHrj3MZS) | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/album/48AsdNKzSJqOGNSRICdUWP) | 2:39 |
 | 71 | [Love Me or Not](https://open.spotify.com/track/6035rfVUNlzOG5uwQaWJMc) | [Heather Small](https://open.spotify.com/artist/3tnTlR2MCaYNQqV3v1908x) | [Love Me or Not](https://open.spotify.com/album/4Xh4TboT7xRuUMIZHNNwVi) | 3:38 |
-| 72 | [Grace](https://open.spotify.com/track/6QSvMIVpfJirRBtuJU67tn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:16 |
-| 73 | [If You Wanted To You Would](https://open.spotify.com/track/50wU2r744nTEXB7US8uj0H) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:11 |
+| 72 | [If You Wanted To You Would](https://open.spotify.com/track/50wU2r744nTEXB7US8uj0H) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:11 |
+| 73 | [Grace](https://open.spotify.com/track/6QSvMIVpfJirRBtuJU67tn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:16 |
 | 74 | [Quit My Life](https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:46 |
 | 75 | [Come Home](https://open.spotify.com/track/6Ws2A2HLpEkomfZbgC1Jjt) | [Michael J Woodard](https://open.spotify.com/artist/0Wmmj33M55gFExQ6pJB53e) | [Come Home](https://open.spotify.com/album/3Udj8LoVBgmOzDWAhgFDIx) | 3:40 |
 | 76 | [Take Off](https://open.spotify.com/track/31L7a0j3Dj1eNdd5VezAWr) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Sketchbook](https://open.spotify.com/album/0cUvvSehTB7xyEamWPsIN8) | 3:40 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 107 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 108 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcfvnAAAAACBTG1XzOqIDkSD/2cr5Bnu`
+Snapshot ID: `Acf1PAAAAADq4OszcWWKo7LD/SXbsb43`

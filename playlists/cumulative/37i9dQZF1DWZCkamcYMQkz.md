@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-208 songs - 14 hr 9 min
+209 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [42nd Street Shuffle](https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [42nd Street Shuffle](https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC) | 4:19 | 2022-11-23 | 2025-03-14 |
 | [A Dab Of This And That](https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Far Away Lands](https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi) | 5:12 | 2021-12-16 |  |
 | [A Foggy Day](https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:40 | 2021-12-16 |  |
+| [A Thing Like That](https://open.spotify.com/track/3piNBl9f45VbsKGKLRTfbh) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM) | [A Thing Like That](https://open.spotify.com/album/19EAuDU2KywqlSMoXZzcyr) | 3:48 | 2026-10-23 |  |
 | [A\-Tisket, A\-Tasket](https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Get Happy! \(Expanded Edition\)](https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n) | 2:22 | 2021-12-16 |  |
 | [Ac\-Cent\-Tchu\-Ate the Positive](https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Electrifying Aretha Franklin \(Expanded Edition\)](https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH) | 2:15 | 2022-05-25 |  |
 | [All Of Me](https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah! \(Expanded Edition\)](https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol) | 3:45 | 2021-12-16 |  |
@@ -70,7 +71,7 @@
 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 | 2021-12-16 |  |
 | [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 | 2022-09-01 | 2022-11-09 |
 | [Hip Trolley](https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj) | [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Business Meetin'](https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m) | 5:25 | 2022-10-11 | 2025-04-15 |
-| [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 | 2021-12-16 |  |
+| [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 | 2021-12-16 | 2026-10-25 |
 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 | 2022-10-12 |  |
 | [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 | 2023-08-31 | 2024-04-19 |
 | [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-08 | 2023-08-31 |

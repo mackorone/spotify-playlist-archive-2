@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,039 likes - 101 songs - 5 hr 40 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,041 likes - 102 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,6 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 99 | [Energy](https://open.spotify.com/track/2A0py9wFw5pieZbPAvJvEF) | [Dimitri Tenot](https://open.spotify.com/artist/6j3lTa5CHvS3l2ON2L226w) | [Energy](https://open.spotify.com/album/2iCPnQsIHwJJUtAgGQF9za) | 3:10 |
 | 100 | [La voix des incendies](https://open.spotify.com/track/3amWDAyIhzqFdmutY48F2b) | [La Nuit Américaine](https://open.spotify.com/artist/5WJizH3K1fRjTS2dYtpVCf) | [La voix des incendies](https://open.spotify.com/album/4C0aMabeQ9lvB9EEQvWT4I) | 3:53 |
 | 101 | [Aşk ve Keder](https://open.spotify.com/track/02CSOE8JMplwQLUQhbKJpw) | [Cem Onur Seçkin](https://open.spotify.com/artist/4XtVem56Aic26h1rbAcOW6) | [Aşk ve Keder](https://open.spotify.com/album/5NAqsLZvNOkZDdalV15hbp) | 3:49 |
+| 102 | [TU MAGIA](https://open.spotify.com/track/0d5tKmy9AJ9Zf1ne4RC9Km) | [Medianoche](https://open.spotify.com/artist/5nyQgG5dI24PwJg61FYa6V) | [TU MAGIA](https://open.spotify.com/album/4JYpJwc3ylcnYgpFpsFTuo) | 4:25 |
 
-Snapshot ID: `AABkE0nHPrapWQzhTUGWUfW0hiuTk4H1`
+Snapshot ID: `AABkFI+Qrp4Q3MVcd8+6ZuWI7tQgAdu3`

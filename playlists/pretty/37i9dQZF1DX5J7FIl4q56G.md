@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Mental Cruelty
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,237 likes - 229 songs - 15 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,336 likes - 229 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

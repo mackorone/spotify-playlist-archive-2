@@ -4,7 +4,7 @@
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 37 min
+88 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [The Entry Ramp](https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 1:38 | 2023-11-10 |  |
 | [The In\-Between](https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:02 | 2022-10-12 |  |
 | [The Shimmie Shake](https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:21 | 2022-09-16 | 2026-10-20 |
+| [The Shimmie Shake](https://open.spotify.com/track/6LZx6rOHE8s2oHC7Fb6jpG) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [ReWiggled: The Classics](https://open.spotify.com/album/3bMUfA7L5ixLdo86uCyvtq) | 1:21 | 2026-10-25 |  |
 | [The Truth](https://open.spotify.com/track/6VUcZGP4WHMArWaTwCqeRG) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 3:19 | 2022-09-16 | 2026-01-26 |
 | [The World Don't Owe You Anything](https://open.spotify.com/track/0xx0gEmYnP3CAEGb7Ub1bY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/4GVU0koa6BTvPE0pU79E26) | 3:09 | 2023-06-28 | 2023-12-14 |
 | [The World Don't Owe You Anything](https://open.spotify.com/track/44wjc3admuhjgP8W1ZFRIR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:09 | 2023-12-13 |  |

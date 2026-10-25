@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "I Feel Alright",
-        "url": "https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Feel Alright",
-      "url": "https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Crusades Of The Restless Knights",
         "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 294053,
       "name": "Conversation With The Devil",
       "url": "https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "I Feel Alright",
+        "url": "https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Notes of Blue",
-        "url": "https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 207485,
-      "name": "Back Against the Wall",
-      "url": "https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Tecumseh Valley / Pancho & Lefty",
         "url": "https://open.spotify.com/album/79qPXm841M359NMu11XLEH"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 280072,
       "name": "Tecumseh Valley",
       "url": "https://open.spotify.com/track/7eby7k1AaLr3YT8z9wE996"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Notes of Blue",
+        "url": "https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 207485,
+      "name": "Back Against the Wall",
+      "url": "https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Trace",
-        "url": "https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 183626,
       "name": "Keep the Home Fires Burnin'",
       "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL"
     },
     {
       "added_at": "2026-06-19 04:01:42",

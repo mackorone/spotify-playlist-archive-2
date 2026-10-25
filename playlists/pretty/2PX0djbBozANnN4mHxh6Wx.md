@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 16,980 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 16,979 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 183 | [No.2001](https://open.spotify.com/track/4pQuPJjoPK8uqMxy65IHpH) | [Sonic Coaster Pop](https://open.spotify.com/artist/1l1BVhPgypqQWWTyfy8qDt) | [future electro star](https://open.spotify.com/album/5i4xuHiUc7s4C1npJoZMjX) | 1:19 |
 | 184 | [H2o](https://open.spotify.com/track/3yWQvGcZAJ5si9IT14GVYp) | [moistbreezy](https://open.spotify.com/artist/2MsEwFDbnOeYHEaIkJBBCi) | [H2o](https://open.spotify.com/album/5fk1bDje4eZdR4ejvLiFkO) | 5:03 |
 | 185 | [Frenesi \- Machine Girl GabberTrap Mix](https://open.spotify.com/track/66zfqY6WHytwZRxyeWl4dk) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 2:06 |
-| 186 | [Dreams of An Absolution \-Theme of Silver The Hedgehog\-](https://open.spotify.com/track/1WN9H0LcaRW4JIxE9NtIb8) | [LB \(Remix Factory\)](https://open.spotify.com/artist/2aGljyTUjQyvjnZp4cUsyl) | [SONIC THE HEDGEHOG ORIGINAL SOUND TRACK \(Vol\. 3\)](https://open.spotify.com/album/7Lc4t5I0rh7U5PjcCIZHuE) | 5:18 |
+| 186 | [Dreams of An Absolution \-Theme of Silver The Hedgehog\-](https://open.spotify.com/track/1WN9H0LcaRW4JIxE9NtIb8) | [LB \(Remix Factory\)](https://open.spotify.com/artist/2aGljyTUjQyvjnZp4cUsyl), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk) | [SONIC THE HEDGEHOG ORIGINAL SOUND TRACK \(Vol\. 3\)](https://open.spotify.com/album/7Lc4t5I0rh7U5PjcCIZHuE) | 5:18 |
 | 187 | [Satellite Anthem Icarus](https://open.spotify.com/track/6pxWghcPKRSjZPj8Ba9vpB) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 6:04 |
 | 188 | [Wildlife Analysis](https://open.spotify.com/track/1H4Eiavp6smYJDIYQmo0vb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:15 |
 | 189 | [dotCOM](https://open.spotify.com/track/5hB4j0YZBY84cgBZe2TkAg) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [CETO](https://open.spotify.com/album/42btQvm1pF4GIGmqkJCvEA) | 2:15 |
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 257 | [光る目](https://open.spotify.com/track/6SfgojzbRctTujfQUeyJG5) | [t e l e p a t h テレパシー能力者](https://open.spotify.com/artist/7kXEDFLgEZs24hMRX4HGK3) | [ロストエデンへのパス](https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA) | 4:51 |
 | 258 | [Cyclic Redundancy \- Original Mix](https://open.spotify.com/track/6xYolRpOoQUGizSHvyYQJx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Full Circle](https://open.spotify.com/album/19q3AXbJAxoHkksNulkRmx) | 6:33 |
 | 259 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 |
-| 260 | [Aquatic Base \-Level 1\-](https://open.spotify.com/track/2j23gXY5LmMN7iEHmj6tpv) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Mariko Nanba](https://open.spotify.com/artist/4zyUC91IwhP3IK6Q1ARzJq) | [SONIC THE HEDGEHOG ORIGINAL SOUND TRACK \(Vol\. 2\)](https://open.spotify.com/album/5q5uMIAKn1sohGqwEdby1M) | 2:37 |
+| 260 | [Aquatic Base \-Level 1\-](https://open.spotify.com/track/2j23gXY5LmMN7iEHmj6tpv) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Mariko Nanba](https://open.spotify.com/artist/4zyUC91IwhP3IK6Q1ARzJq), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk) | [SONIC THE HEDGEHOG ORIGINAL SOUND TRACK \(Vol\. 2\)](https://open.spotify.com/album/5q5uMIAKn1sohGqwEdby1M) | 2:37 |
 | 261 | [re:BIRTH](https://open.spotify.com/track/0AEMbjdrR4Eh2hQPxZD9Hg) | [DreamWeaver](https://open.spotify.com/artist/5eJLr9gChrfI4p6AuEGT4z) | [silver](https://open.spotify.com/album/54pUGwJIf6dGqvy90zv51P) | 3:02 |
 | 262 | [Hero!](https://open.spotify.com/track/509NzRvzuITtt1q6YAGGmd) | [11vx](https://open.spotify.com/artist/3xJ0g1VQ4uwT7memVHGG4g) | [Hero!](https://open.spotify.com/album/0tmoLmvFuMQl6SqOZqVMQ2) | 1:11 |
 | 263 | [Lost In Cyberspace](https://open.spotify.com/track/4jlg3sAomqzv3h0ccndkfa) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Lost In Cyberspace](https://open.spotify.com/album/60czEHzF6zWI3DA5vW1IPX) | 1:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,836 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,784 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 44 | [Vida de Rei, Vida de Cão](https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Vida de Rei, Vida de Cão](https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf) | 2:44 |
 | 45 | [Maré De Sorte \- Remix](https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [MOLLA Sounds](https://open.spotify.com/artist/2WAaxn213Qpg2zaxUlFYZD) | [Inimaginável](https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2) | 2:43 |
 | 46 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |
-| 47 | [Caipiranhas](https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Caipiranhas](https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA) | 1:56 |
-| 48 | [no seu tempo](https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [no seu tempo](https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg) | 2:38 |
+| 47 | [no seu tempo](https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [no seu tempo](https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg) | 2:38 |
+| 48 | [Caipiranhas](https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Caipiranhas](https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA) | 1:56 |
 | 49 | [Desassossego](https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Desassossego](https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy) | 2:56 |
-| 50 | [Outras Vezes](https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc) | [Lulina](https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Outras Vezes](https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K) | 3:33 |
-| 51 | [A Minha Flor](https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o) | [Felipe Lobo](https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED) | [A Minha Flor](https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX) | 3:09 |
+| 50 | [A Minha Flor](https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o) | [Felipe Lobo](https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED) | [A Minha Flor](https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX) | 3:09 |
+| 51 | [Outras Vezes](https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc) | [Lulina](https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Outras Vezes](https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K) | 3:33 |
 | 52 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
-| 53 | [Curvas](https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Curvas](https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY) | 2:37 |
-| 54 | [COVARDIA](https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [COVARDIA](https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp) | 2:41 |
+| 53 | [COVARDIA](https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [COVARDIA](https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp) | 2:41 |
+| 54 | [Curvas](https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Curvas](https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY) | 2:37 |
 | 55 | [Tento](https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Tento](https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3) | 3:21 |
 | 56 | [Mais Que Isso](https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Mais Que Isso](https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh) | 3:48 |
 | 57 | [Os Moços da Rádio](https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Tudo Pelo Show](https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J) | 2:32 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 64 | [Amapiano](https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Amapiano](https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm) | 2:19 |
 | 65 | [No Mar](https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [No Mar](https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i) | 2:51 |
 | 66 | [Partilhar](https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Partilhar](https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok) | 3:40 |
-| 67 | [Eu Não Te Amo](https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Eu Não Te Amo](https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG) | 3:12 |
+| 67 | [Sem foto, sem vídeo](https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sem foto, sem vídeo](https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh) | 3:14 |
 | 68 | [Brisa Boa](https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC) | [Triêtu](https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV) | [Brisa Boa](https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv) | 2:51 |
-| 69 | [Sem foto, sem vídeo](https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sem foto, sem vídeo](https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh) | 3:14 |
-| 70 | [Vira\-Lata](https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Vira\-Lata](https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA) | 2:16 |
+| 69 | [Eu Não Te Amo](https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Eu Não Te Amo](https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG) | 3:12 |
+| 70 | [Clara](https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3) | [Breezia](https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz) | [Clara](https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz) | 3:43 |
 
 Snapshot ID: `AAAAAAKs2GsEmqO8ceoGj+3HHj94C13u`

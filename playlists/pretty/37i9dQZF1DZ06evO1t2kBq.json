@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 87307,
+  "num_followers": 87318,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAABK2mtgtfXbNEwcxKhXSZ7D",
+  "snapshot_id": "atqjgAAAAADkb0M85GgwYDBJ83CF5mgN",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 122367,
-      "name": "Give You Nothing",
-      "url": "https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce"
+      "duration_ms": 106586,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Process Of Belief",
-        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
       "artists": [
         {
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 106586,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 55306,
-      "name": "Change Of Ideas",
-      "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
+      "duration_ms": 122367,
+      "name": "Give You Nothing",
+      "url": "https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 95466,
       "name": "Social Suicide",
       "url": "https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 55306,
+      "name": "Change Of Ideas",
+      "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 149400,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 84026,
-      "name": "Turn On the Light",
-      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
+      "duration_ms": 149400,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 110320,
       "name": "Chaos From Within",
       "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 84026,
+      "name": "Turn On the Light",
+      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 97640,
-      "name": "God Song",
-      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "The Handshake",
-      "url": "https://open.spotify.com/track/7AwdRJX7WXO6m792aT0rW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire Strikes First",
         "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 117652,
       "name": "Atheist Peace",
       "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "The Handshake",
+      "url": "https://open.spotify.com/track/7AwdRJX7WXO6m792aT0rW0"
     },
     {
       "added_at": null,

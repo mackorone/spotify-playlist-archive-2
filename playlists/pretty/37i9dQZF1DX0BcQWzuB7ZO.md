@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Mau P
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,382,129 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,381,948 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 49 | [LIGHTS GO OUT](https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [LIGHTS GO OUT](https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj) | 2:38 |
 | 50 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
 
-Snapshot ID: `AAAAAL4PCns+bs3XhaS5E/cWvb2jjhN+`
+Snapshot ID: `AAAAADR0QUG42ZryNGYEWBDDmUBBs2+0`

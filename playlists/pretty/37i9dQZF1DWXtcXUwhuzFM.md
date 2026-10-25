@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Pihlaja, Dw, Bee..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,982 likes - 96 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,992 likes - 96 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 64 | [Give Me 5](https://open.spotify.com/track/2c0OSNNnJ0Yud3DtVuWT0R) | [Harry Kaze](https://open.spotify.com/artist/0FpYKqhJ8L4uCXAmbikZ3T) | [Give Me 5](https://open.spotify.com/album/5o0bzSdGmcDP93YLs6YpxD) | 2:52 |
 | 65 | [La Dolce Vita](https://open.spotify.com/track/3OfzppfFlwPuHvFjsTe6d1) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [La Dolce Vita](https://open.spotify.com/album/25JdKC9G8UodEfjLFZUdlP) | 3:12 |
 | 66 | [I GREW UP \(lässyn lässyn\)](https://open.spotify.com/track/6VluDrSrAJ6Mc59pGjgaZ2) | [Mendi Moon](https://open.spotify.com/artist/4JwGNguxM8vnfNtLDSFfwy) | [I GREW UP \(lässyn lässyn\)](https://open.spotify.com/album/4r6HqNJTPXH7k64wmlstPC) | 2:52 |
-| 67 | [Alvar Aalto](https://open.spotify.com/track/2L5uuQmhPrq00K2FPUk1hA) | [JMNEN](https://open.spotify.com/artist/3jE6h52fXvhscUCUtgMrst), [MARI](https://open.spotify.com/artist/5NslQ8vdkWMuGzvBmuTDnc) | [Alvar Aalto](https://open.spotify.com/album/3TOzKkoXagOjhThVZclT1m) | 2:19 |
+| 67 | [Alvar Aalto](https://open.spotify.com/track/2L5uuQmhPrq00K2FPUk1hA) | [JMNEN](https://open.spotify.com/artist/3jE6h52fXvhscUCUtgMrst), [MARI](https://open.spotify.com/artist/3fLsEKNZCganHlF1pJw5pj) | [Alvar Aalto](https://open.spotify.com/album/3TOzKkoXagOjhThVZclT1m) | 2:19 |
 | 68 | [COMET](https://open.spotify.com/track/1WeQUxpwDOl5fG12aib8xA) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [COMET](https://open.spotify.com/album/5o9QzjCQmnTAPTET4eRQXM) | 2:54 |
 | 69 | [Aldehydes and Ketones](https://open.spotify.com/track/6n9heLkoKbQu2uOQFDRPaj) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Aldehydes and Ketones](https://open.spotify.com/album/5Tpa6kBE6UJSDo6r6mX4sH) | 4:02 |
 | 70 | [Kadut \- Freestyle](https://open.spotify.com/track/4Qhdi8z0IfIx5Crogb5OyS) | [Snonchi](https://open.spotify.com/artist/1snrMKDegGLtsPDigTEjD2), [Blacflaco](https://open.spotify.com/artist/4lmKo4GlxNpNcwMUEqmghF), [Dw](https://open.spotify.com/artist/0allk7sshTQqK5ZZBnbYOl) | [Kadut \(Freestyle\)](https://open.spotify.com/album/7nOKAO3FSa55ZyuguTcAZT) | 3:38 |

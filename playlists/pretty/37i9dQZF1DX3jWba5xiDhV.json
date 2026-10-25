@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 432373,
+  "num_followers": 432504,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "Hypnotic Tango",
+        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "My Mine",
+          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
         }
       ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+      "duration_ms": 369084,
+      "name": "Hypnotic Tango - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Hypnotic Tango",
-        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "My Mine",
-          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 369084,
-      "name": "Hypnotic Tango - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -495,6 +475,26 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+        }
+      ],
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Outline",
         "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 158226,
       "name": "Negroni Love",
       "url": "https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "People of the Moon",
-        "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Onenon",
-      "url": "https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -579,6 +559,26 @@
       "duration_ms": 214466,
       "name": "One for You, One for Me",
       "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "People of the Moon",
+        "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Onenon",
+      "url": "https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+        }
+      ],
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Ma quale idea (Myd Remix)",
         "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
-      },
-      "artists": [
-        {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
-        }
-      ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
     },
     {
       "added_at": "2026-07-30 22:02:37",

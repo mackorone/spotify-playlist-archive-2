@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Geolier nelle 🎧 di tutti, e in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,035 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,967 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 42 | [whereimat \(feat\. Artie 5ive\)](https://open.spotify.com/track/3tTY52nqC2AHVgAoaThfe6) | [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [whereimat \(feat\. Artie 5ive\)](https://open.spotify.com/album/2TJrTpi61AGsclH2iIDXbv) | 3:25 |
 | 43 | [BENIHANA](https://open.spotify.com/track/4D1aJZlCbzptGSDsyV1qVo) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:10 |
 | 44 | [Je ne sais pas \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0AGOXOfcDIRXwZtny26RDd) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Je ne sais pas \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/5X0g9a1Fp305lZQvLmr392) | 3:14 |
-| 45 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
+| 45 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
 | 46 | [1/1 feat\. 18K](https://open.spotify.com/track/0BpQsSXOB1dhbMUwBUZryA) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 2:21 |
 | 47 | [Babyface](https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 2:57 |
 | 48 | [Giovani Re](https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 2:48 |

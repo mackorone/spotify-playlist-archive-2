@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 47504,
+  "num_followers": 47505,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Magic Of The Sale",
-        "url": "https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye"
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
       },
       "artists": [
         {
-          "name": "Teethe",
-          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 228706,
-      "name": "Magic Of The Sale",
-      "url": "https://open.spotify.com/track/4tvHq6sgIBL7GCSCBgOeey"
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+        "name": "Magic Of The Sale",
+        "url": "https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
         }
       ],
-      "duration_ms": 315680,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
+      "duration_ms": 228706,
+      "name": "Magic Of The Sale",
+      "url": "https://open.spotify.com/track/4tvHq6sgIBL7GCSCBgOeey"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Terra Infirma",
         "url": "https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "into a pretty room",
+        "url": "https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC"
+      },
+      "artists": [
+        {
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "barnyard",
+      "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "for us",
         "url": "https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "into a pretty room",
-        "url": "https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC"
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
       },
       "artists": [
         {
-          "name": "lots of hands",
-          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
         }
       ],
-      "duration_ms": 244653,
-      "name": "barnyard",
-      "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Everyone Loves You",
+        "url": "https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu"
+      },
+      "artists": [
+        {
+          "name": "Glasshouse Red Spider Mite",
+          "url": "https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli"
+        }
+      ],
+      "duration_ms": 394538,
+      "name": "Everyone Loves You",
+      "url": "https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 295026,
       "name": "Unarchiver",
       "url": "https://open.spotify.com/track/1vow5hm6PQGE4K4UTRY8jX"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Everyone Loves You",
-        "url": "https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu"
-      },
-      "artists": [
-        {
-          "name": "Glasshouse Red Spider Mite",
-          "url": "https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli"
-        }
-      ],
-      "duration_ms": 394538,
-      "name": "Everyone Loves You",
-      "url": "https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Cat & Mouse",
-        "url": "https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO"
-      },
-      "artists": [
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        }
-      ],
-      "duration_ms": 202353,
-      "name": "Cat & Mouse",
-      "url": "https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Death of a Daisy & Birth of an Oyster",
         "url": "https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 394906,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/4eq7tRIuWqgMBI2I3juWZc"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Cat & Mouse",
+        "url": "https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "duration_ms": 202353,
+      "name": "Cat & Mouse",
+      "url": "https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5"
     },
     {
       "added_at": "2025-12-03 12:16:12",

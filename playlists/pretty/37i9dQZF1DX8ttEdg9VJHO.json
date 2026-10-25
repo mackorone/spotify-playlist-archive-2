@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367415,
+  "num_followers": 367406,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2026-10-15 22:00:59",
-      "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 178822,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "added_at": "2026-10-15 22:00:59",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2026-10-15 22:00:59",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Fabulous",
-        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
-      },
-      "artists": [
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
-    },
-    {
-      "added_at": "2026-10-15 22:00:59",
-      "album": {
         "name": "How Beautiful This Life Is",
         "url": "https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 194946,
       "name": "How Beautiful This Life Is",
       "url": "https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k"
+    },
+    {
+      "added_at": "2026-10-15 22:00:59",
+      "album": {
+        "name": "Fabulous",
+        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
       "added_at": "2026-10-15 22:00:59",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
-    },
-    {
-      "added_at": "2026-10-15 22:00:59",
-      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/1qYx2yFOtb6hdfTthwheuP"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Slow Dance (For A Minute)",
-        "url": "https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Slow Dance (For A Minute)",
-      "url": "https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw"
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
     },
     {
       "added_at": "2026-10-15 22:00:59",
@@ -687,6 +671,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
+    },
+    {
+      "added_at": "2026-10-15 22:00:59",
+      "album": {
+        "name": "Slow Dance (For A Minute)",
+        "url": "https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Slow Dance (For A Minute)",
+      "url": "https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw"
     },
     {
       "added_at": "2026-10-15 22:00:59",

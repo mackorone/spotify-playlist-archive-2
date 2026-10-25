@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kajetan Wolas
 
-1,019 songs - 2 day 1 hr 45 min
+1,020 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 | 2025-09-30 | 2025-11-02 |
 | [Czas](https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di) | 3:55 | 2025-06-19 | 2025-09-05 |
 | [CZAS NA SEN](https://open.spotify.com/track/6LulbqWDMnl1odFxtKWAzi) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [CZAS NA SEN](https://open.spotify.com/album/7xaxcinwclcWFuJN61intz) | 2:44 | 2025-02-13 | 2025-02-23 |
-| [czekaj!](https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [szpila](https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos) | 3:01 | 2026-09-03 |  |
+| [czekaj!](https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [szpila](https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos) | 3:01 | 2026-09-03 | 2026-10-25 |
 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 | 2025-11-18 | 2026-05-01 |
 | [Czerwiec](https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Czerwiec](https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd) | 5:17 | 2025-10-07 | 2026-02-28 |
 | [Czerwone ledy](https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Czerwone ledy](https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7) | 4:21 | 2025-12-18 | 2026-02-28 |
@@ -606,6 +606,7 @@
 | [obudź mnie](https://open.spotify.com/track/6FRFJi35UTtGEYvF71Xl0J) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [obudź mnie](https://open.spotify.com/album/4UprozxKHOIrYFolUxOIK5) | 2:53 | 2026-01-08 | 2026-01-31 |
 | [obyś to była Ty](https://open.spotify.com/track/1PhWnzPIshK7800SDkfw9h) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [obyś to była Ty](https://open.spotify.com/album/67BbloXOMeYCYe0ECHuvRl) | 2:14 | 2024-11-21 | 2025-01-24 |
 | [Obłęd](https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV) | [Obłęd](https://open.spotify.com/album/6oGm7MbUXDljtyXO8MLuKL) | 3:30 | 2025-01-23 | 2025-03-07 |
+| [Oceany](https://open.spotify.com/track/4lzFGh4DOthegbONkaJ09l) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Księga Żywiołów](https://open.spotify.com/album/4S1xRdbttN4GYwgJSfEhD2) | 2:46 | 2026-10-22 |  |
 | [oddaj mi ból](https://open.spotify.com/track/1JhR66lrh2u9LylvZ0TSjj) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [oddaj mi ból](https://open.spotify.com/album/0JG8YGJo5gVX7tUQIrBV0S) | 2:24 | 2025-06-19 | 2025-06-28 |
 | [oddaj mnie](https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [Helucze](https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr) | [oddaj mnie](https://open.spotify.com/album/75qFi0fN0V3cucVz3qAMwY) | 2:31 | 2025-04-03 | 2025-05-18 |
 | [OdFiltruj Rzeczywistość \- we współpracy z PZU](https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [OdFiltruj Rzeczywistość \(we współpracy z PZU\)](https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE) | 2:53 | 2026-06-11 | 2026-08-14 |

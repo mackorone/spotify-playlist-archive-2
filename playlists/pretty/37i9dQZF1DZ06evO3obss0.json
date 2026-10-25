@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 195722,
+  "num_followers": 195873,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAACt1qno7QAFHtIbQui6g29K",
+  "snapshot_id": "atqjgAAAAAAvY/QbbYEcA9NoLQU0x657",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,30 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Joy.",
+      "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
     },
     {
       "added_at": null,
@@ -378,35 +402,27 @@
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 320434,
-      "name": "Goodbye Henry. (feat. Al Green)",
-      "url": "https://open.spotify.com/track/5lBL8xRTXIDpPDJcuPL9UH"
+      "duration_ms": 235511,
+      "name": "The WhatsApp Shakespeare.",
+      "url": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
+        "name": "Love Of Your Life",
+        "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
       },
       "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+      "duration_ms": 196170,
+      "name": "Love Of Your Life",
+      "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
     },
     {
       "added_at": null,
@@ -427,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Of Your Life",
-        "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
       "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 196170,
-      "name": "Love Of Your Life",
-      "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
     },
     {
       "added_at": null,
@@ -695,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "triple j",
-          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
         "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 91780,
       "name": "Mary Jane vs Graeme Blevins. - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/2TI2gRkaJek6ZH0KehqwcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": null,
@@ -791,46 +811,6 @@
       "duration_ms": 143499,
       "name": "The Thrill Is Gone Requiem. - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 235511,
-      "name": "The WhatsApp Shakespeare.",
-      "url": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy.",
-        "url": "https://open.spotify.com/album/2O3LGXBZz0CMz9iwiDdYVC"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Joy.",
-      "url": "https://open.spotify.com/track/4CDLEPl8HzRrIchJqq5E4H"
     }
   ],
   "unique_name": "This Is RAYE",

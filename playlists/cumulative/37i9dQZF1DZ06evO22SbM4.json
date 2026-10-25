@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "My Kinda Love (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/2wwyJnEbbzghF7YGiXD8Zq"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220931,
+      "name": "My Kinda Love (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/6LCGa3pc4syhpx1EvGeaGA"
+    },
+    {
+      "album": {
         "name": "Never Comin' Home",
         "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
       },

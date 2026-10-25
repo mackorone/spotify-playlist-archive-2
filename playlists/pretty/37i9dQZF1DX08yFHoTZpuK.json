@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 34519,
+  "num_followers": 34552,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "Shinichiro Yokota Presents Do It Again and Again",
-        "url": "https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me"
-      },
-      "artists": [
-        {
-          "name": "Shinichiro Yokota",
-          "url": "https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV"
-        }
-      ],
-      "duration_ms": 366421,
-      "name": "Quiet Town of Tokyo",
-      "url": "https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "BAMBOO",
         "url": "https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
+        "name": "Shinichiro Yokota Presents Do It Again and Again",
+        "url": "https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me"
+      },
+      "artists": [
+        {
+          "name": "Shinichiro Yokota",
+          "url": "https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV"
+        }
+      ],
+      "duration_ms": 366421,
+      "name": "Quiet Town of Tokyo",
+      "url": "https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
         "name": "higher",
         "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
       },
@@ -479,6 +479,26 @@
       "duration_ms": 214733,
       "name": "higher",
       "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/18kh7xMcSaZLOF1lyh2e8O"
+      },
+      "artists": [
+        {
+          "name": "Aiwaska",
+          "url": "https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN"
+        },
+        {
+          "name": "Akira Arasawa",
+          "url": "https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM"
+        }
+      ],
+      "duration_ms": 257280,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2d09P8kvbBgv9AjdZaDqmp"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -511,26 +531,6 @@
       "duration_ms": 257820,
       "name": "KURU KURU HARAJUKU",
       "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/18kh7xMcSaZLOF1lyh2e8O"
-      },
-      "artists": [
-        {
-          "name": "Aiwaska",
-          "url": "https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN"
-        },
-        {
-          "name": "Akira Arasawa",
-          "url": "https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM"
-        }
-      ],
-      "duration_ms": 257280,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2d09P8kvbBgv9AjdZaDqmp"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "who do u love?",
         "url": "https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM"
       },
@@ -627,34 +611,18 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "Achi Kochi",
-        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
       },
       "artists": [
         {
-          "name": "Aili & Orson",
-          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Achi Kochi",
-      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
-        "name": "coincidence",
-        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
-      },
-      "artists": [
-        {
-          "name": "RUI HAYAKAWA",
-          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
-        }
-      ],
-      "duration_ms": 383351,
-      "name": "coincidence",
-      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -691,6 +659,22 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
+        "name": "Achi Kochi",
+        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
+      },
+      "artists": [
+        {
+          "name": "Aili & Orson",
+          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Achi Kochi",
+      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 146867,
       "name": "Let's go",
       "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "coincidence",
+        "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
+      },
+      "artists": [
+        {
+          "name": "RUI HAYAKAWA",
+          "url": "https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6"
+        }
+      ],
+      "duration_ms": 383351,
+      "name": "coincidence",
+      "url": "https://open.spotify.com/track/1MKsGvzaGNfqCxFPBgHsdq"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
+      },
+      "artists": [
+        {
+          "name": "Yu Seki",
+          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        }
+      ],
+      "duration_ms": 163255,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
         "name": "ON-Netoh",
         "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 235312,
       "name": "OB PKWY",
       "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
-      },
-      "artists": [
-        {
-          "name": "Yu Seki",
-          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
-        },
-        {
-          "name": "Yohji Igarashi",
-          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
-        }
-      ],
-      "duration_ms": 163255,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
     },
     {
       "added_at": "2026-10-20 15:26:42",

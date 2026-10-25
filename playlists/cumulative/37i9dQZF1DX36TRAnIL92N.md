@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-326 songs - 1 day 2 hr 14 min
+327 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 | 2025-05-14 |  |
 | [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 | 2025-11-07 |  |
 | [How It Makes You Feel](https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [How It Makes You Feel](https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM) | 8:46 | 2022-07-05 | 2022-08-08 |
+| [How You Move \- Age of Acid Remix](https://open.spotify.com/track/5sNwFhrJfNsAZIL0JhX76h) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [GMS](https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt), [Age of Acid](https://open.spotify.com/artist/0YogsXKqBux48FK5lqYY9F) | [How You Move \(Age of Acid Remix\)](https://open.spotify.com/album/0bbmqxl95e7qJHGmiuv77Z) | 6:59 | 2026-10-16 |  |
 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 | 2024-06-21 | 2025-04-26 |
 | [Human Race](https://open.spotify.com/track/06qNp9ttPgJB6PH7wbBZ73) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX), [Maurice Mino](https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB) | [Human Race](https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD) | 6:09 | 2022-10-01 | 2022-10-18 |
 | [Huys](https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Huys](https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK) | 7:20 | 2022-07-05 | 2022-10-12 |
@@ -171,7 +172,7 @@
 | [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 | 2024-10-04 | 2025-06-20 |
 | [Mental Cinema \- Dual DeStress Remix](https://open.spotify.com/track/11j9tefGImXpCegNSekVb9) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Dual DeStress](https://open.spotify.com/artist/3KechLB76uRdgrVi2d5pyM) | [Remixed 2022](https://open.spotify.com/album/6gUKd1vXmHzBnEaKefAtkd) | 7:00 | 2022-11-17 | 2022-12-08 |
 | [Mental Wall](https://open.spotify.com/track/13jLcyLqDBl4aWz8Lmbami) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Mental Wall](https://open.spotify.com/album/6su07aveL7ZmTQCasR6w3t) | 6:11 | 2022-07-11 | 2022-07-26 |
-| [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-26 |  |
+| [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-26 | 2026-10-25 |
 | [Mercury](https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg) | 3:45 | 2023-10-13 | 2024-04-19 |
 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 | 2022-07-05 | 2025-05-12 |
 | [Mirazh](https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Mirazh](https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A) | 3:25 | 2024-03-20 | 2025-04-26 |

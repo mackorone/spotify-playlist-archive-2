@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,152 likes - 56 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,151 likes - 56 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 45 | [TEGE GOAL](https://open.spotify.com/track/0TvMcVxIQaxZCkT4R6yjpS) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:16 |
 | 46 | [Shambeyon Electronic \(feat\. Hudz\)](https://open.spotify.com/track/15xmqeNzRxqiTLzablJupA) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM) | [Paranoia](https://open.spotify.com/album/4P741ye0Lz9AEdWaU1lNk9) | 4:19 |
 | 47 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
-| 48 | [عفاريت الأسفلت](https://open.spotify.com/track/02G9n2WgsNd2j7CqTmcDR2) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/3gWQJL3JHzaNzWuFqG7osw) | 3:24 |
-| 49 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
+| 48 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
+| 49 | [عفاريت الأسفلت](https://open.spotify.com/track/02G9n2WgsNd2j7CqTmcDR2) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/3gWQJL3JHzaNzWuFqG7osw) | 3:24 |
 | 50 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 51 | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/track/4YMqbFcDIFiCBd02PzUBcM) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Wanz](https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA) | [The Heist](https://open.spotify.com/album/6XO9dbsH9zhuQgFGH0hUrb) | 3:55 |
 | 52 | [Thunder](https://open.spotify.com/track/5VnDkUNyX6u5Sk0yZiP8XB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/51s30K7a36ORx6AAaPBRRY) | 3:07 |
-| 53 | [مش فير](https://open.spotify.com/track/29K7YMYrPPUJwUjkrfW507) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Msh Fair](https://open.spotify.com/album/6O9Li1zrgVGeawmEMIIyOQ) | 3:50 |
-| 54 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 |
+| 53 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 |
+| 54 | [مش فير](https://open.spotify.com/track/29K7YMYrPPUJwUjkrfW507) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Msh Fair](https://open.spotify.com/album/6O9Li1zrgVGeawmEMIIyOQ) | 3:50 |
 | 55 | [Promises \- Sonny Fodera Remix](https://open.spotify.com/track/2vX9CCDImtyL6c4163Cg9y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Promises \(Sonny Fodera Remix\)](https://open.spotify.com/album/6Ya9D7yahLhjpu3fbuLd2z) | 3:57 |
 | 56 | [Lean On](https://open.spotify.com/track/5bcYCYn63zNOjBv3KPOLjd) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/0ct1bK2jijAkf6IxP9B0st) | 2:56 |
 

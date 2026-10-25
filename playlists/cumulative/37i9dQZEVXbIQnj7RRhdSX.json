@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155647,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2"
+    },
+    {
+      "album": {
         "name": "BIG 5",
         "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
       },
@@ -3640,6 +3658,28 @@
       "duration_ms": 213800,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc"
+    },
+    {
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265017,
+      "name": "Amateur (feat. Salmo)",
+      "url": "https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC"
     },
     {
       "album": {
@@ -31098,7 +31138,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -31294,7 +31334,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 249173,
       "name": "L'Emozione Non Ha Voce (Io Non So Parlar D'Amore)",
       "url": "https://open.spotify.com/track/6QDbrhZDKku58X7iv7cKKr"
@@ -31648,6 +31688,28 @@
       "duration_ms": 204021,
       "name": "La Ballata Del Dubbio Pt.4 - FINAL ACT",
       "url": "https://open.spotify.com/track/29b1HTWPfG7iANAnkDSCgL"
+    },
+    {
+      "album": {
+        "name": "LA TAVOLA DELL'UMORE",
+        "url": "https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra"
+      },
+      "artists": [
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173395,
+      "name": "LA BALLATA DEL RAGNO",
+      "url": "https://open.spotify.com/track/4b82YHE5fcvg47lS6dWJci"
     },
     {
       "album": {
@@ -32504,7 +32566,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 222794,
       "name": "La musica non c'\u00e8",
       "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
@@ -33174,7 +33236,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/2qf4KviAhT4cNGydUT28Qo"
@@ -53020,7 +53082,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 193226,
       "name": "ROMANTICA",
       "url": "https://open.spotify.com/track/4RIoOQSJUih7XWXbdxut8W"
@@ -59219,6 +59281,44 @@
     },
     {
       "album": {
+        "name": "OSTIL3",
+        "url": "https://open.spotify.com/album/7xAgrflQvMk4dIRraet4P7"
+      },
+      "artists": [
+        {
+          "name": "333 Mob",
+          "url": "https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213248,
+      "name": "STUPIDO (feat. Salmo, 18K, Macello, Dani Faiv, Pitta)",
+      "url": "https://open.spotify.com/track/7jP5sYEFfWC90gsCQoobAy"
+    },
+    {
+      "album": {
         "name": "io Individuo",
         "url": "https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY"
       },
@@ -62060,7 +62160,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 217593,
       "name": "Tristano e Isotta",
       "url": "https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt"

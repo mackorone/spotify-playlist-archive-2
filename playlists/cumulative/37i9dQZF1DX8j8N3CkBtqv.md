@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Shreya Jain, The F16s and other exciting artists.
 
-1,646 songs - 3 day 18 hr 46 min
+1,647 songs - 3 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,7 +945,7 @@
 | [Manzoor](https://open.spotify.com/track/6KYddvilwptIsWtD2tLWCJ) | [CineLove](https://open.spotify.com/artist/6qiAdXcJqtFRdCR1LWq8wj), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Manzoor](https://open.spotify.com/album/5nnc00RBSRFtsAy2iTJuOk) | 4:42 | 2025-11-14 | 2025-11-22 |
 | [Marammat](https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF) | 3:16 | 2025-10-10 | 2025-11-28 |
 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 | 2025-11-14 | 2026-01-24 |
-| [Margot's Song](https://open.spotify.com/track/05xw7nOvQLxC1ROwIlwOO8) | [Bulli Bainbridge](https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ), [Ankit Dayal](https://open.spotify.com/artist/1LYqnlhjJsY9LwtjZ9FG4F) | [Margot's Song](https://open.spotify.com/album/0hbfl3oqslTsvfnNU0It8R) | 2:54 | 2026-09-18 |  |
+| [Margot's Song](https://open.spotify.com/track/05xw7nOvQLxC1ROwIlwOO8) | [Bulli Bainbridge](https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ), [Ankit Dayal](https://open.spotify.com/artist/1LYqnlhjJsY9LwtjZ9FG4F) | [Margot's Song](https://open.spotify.com/album/0hbfl3oqslTsvfnNU0It8R) | 2:54 | 2026-09-18 | 2026-10-25 |
 | [Marhaba](https://open.spotify.com/track/611RzhEYT8vSiLt24sKnm1) | [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd), [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ) | [Marhaba](https://open.spotify.com/album/4kCfwjaL8DhDfUwFn98FH0) | 3:45 | 2026-04-10 | 2026-07-04 |
 | [Marham](https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [Marham](https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa) | 2:50 | 2026-07-17 | 2026-09-26 |
 | [Marham](https://open.spotify.com/track/0mEW7o45RFQiz8H3dN9tXB) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Marham](https://open.spotify.com/album/6k1zkKFbiA2M9DEA0vdHsp) | 3:24 | 2023-04-14 | 2023-05-20 |
@@ -1390,6 +1390,7 @@
 | [Sun Bachhe](https://open.spotify.com/track/0lNQgj1M5WZ1Zc6taFvQVh) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Sun Bachhe](https://open.spotify.com/album/31gJq0ZwKNl1GYcZmKBlq3) | 3:07 | 2024-04-19 | 2024-05-24 |
 | [Sun Beliya](https://open.spotify.com/track/4dIXexUt5xZfhf4f6lp90B) | [Deepshikha Raina](https://open.spotify.com/artist/65RSx9RT02eH4TvBKdeqBY) | [Sun Beliya](https://open.spotify.com/album/5e2Il2vYU1XJZ3Arsk1KLt) | 3:55 | 2023-09-15 | 2023-10-21 |
 | [Sun bhi ja](https://open.spotify.com/track/3w5nZYYT1NtwnPzhMYmZmW) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Sun bhi ja](https://open.spotify.com/album/14weJ3nJ22lqH7P9mTdcDM) | 3:34 | 2023-08-25 | 2023-09-22 |
+| [Sun Mahiya](https://open.spotify.com/track/3ewUROGsslyniQOduN6fqr) | [Chaitanya Kapadia](https://open.spotify.com/artist/6UFYVLwCYJ5KwctNvBS9of), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Sun Mahiya](https://open.spotify.com/album/69XAGtppNl5lUKgebw414k) | 3:18 | 2026-10-16 |  |
 | [Sun Re Piya](https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Amrita Saluja](https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU) | [Sun Re Piya](https://open.spotify.com/album/2uh1rvhElikYUKAswxKd8P) | 2:25 | 2026-04-17 | 2026-07-04 |
 | [Sun Zara](https://open.spotify.com/track/6ZzRPCSq03A3F76aWwZW7e) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Sun Zara](https://open.spotify.com/album/4t19xw7jTU7PDndlbPHz5F) | 2:30 | 2023-11-24 | 2023-12-16 |
 | [Sunbeam](https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Gurl](https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO) | [Sunbeam](https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk) | 2:51 | 2026-01-16 | 2026-04-04 |

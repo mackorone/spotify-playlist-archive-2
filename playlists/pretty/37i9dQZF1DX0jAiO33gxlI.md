@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Sant
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,228 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,213 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 4 | [HORIZONTAL!](https://open.spotify.com/track/2K6FdNNrVeTIgMQnmCrz4w) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Levinsk](https://open.spotify.com/artist/54PZ5GR5xLsxj8nZ3EerOT), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [HORIZONTAL!](https://open.spotify.com/album/12d6fpOm4f7vntkMRBqYiK) | 3:18 |
 | 5 | [O QUE SEPARA OS HOMENS DOS MENINOS 2](https://open.spotify.com/track/3EqNnn97k4qBZY3KrVzMw4) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [O Que Separa Os Homens dos Meninos, Vol\. 2](https://open.spotify.com/album/0uSQmtWJKYpucN9ZZNp8CK) | 3:28 |
 | 6 | [TUDUBOM REC\#2 \- Tem Que Acreditar](https://open.spotify.com/track/0nur8HMtjuHbVpF4PrgOrC) | [Tudubom](https://open.spotify.com/artist/0BFpUyhufpi7ztBUfa8bBV), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [TUDUBOM REC\#2 \- Tem Que Acreditar](https://open.spotify.com/album/2LF1pHFl9JyCfWDxTN8JQ8) | 2:50 |
-| 7 | [PÁlavras](https://open.spotify.com/track/7Mn57ZSJrq5xOMnrxLmSgX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Histórias para Acordar](https://open.spotify.com/album/1WkcFsKdI0631piC9ghAAY) | 4:09 |
+| 7 | [PÁlavras](https://open.spotify.com/track/7Mn57ZSJrq5xOMnrxLmSgX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Mortão VMG](https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy) | [Histórias para Acordar](https://open.spotify.com/album/1WkcFsKdI0631piC9ghAAY) | 3:27 |
 | 8 | [PIQUE RACIONAIS](https://open.spotify.com/track/0HLGjMZyZjdJcKjJ2oszlV) | [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU) | [PIQUE RACIONAIS](https://open.spotify.com/album/51FIhkhWr9WsMoUtiCGUhT) | 2:59 |
 | 9 | [QQSEFEZ](https://open.spotify.com/track/0gL88y64RRmUpuTDRM2OAt) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Fazendo A Minha \(Deluxe\)](https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ) | 3:00 |
 | 10 | [Deixa Eu Te Falar](https://open.spotify.com/track/7e7cRuFwqFvOP0pMtTIq0I) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Preto P](https://open.spotify.com/artist/12ceO8Lc0rDPHWplCJANUF) | [Substrato 5](https://open.spotify.com/album/04LVhr3lBd2ApsVKehK8uf) | 2:37 |

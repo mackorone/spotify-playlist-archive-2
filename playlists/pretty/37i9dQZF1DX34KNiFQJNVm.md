@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  Raphaela Santos, Tz da Coronel com Matuê, Jorge & Mateus, John Mayer, Alok e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318,086 likes - 68 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,318,013 likes - 68 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 9 | [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 |
 | 10 | [Mundo Fashion](https://open.spotify.com/track/52EfPNdYLQDbv2OHOuoUue) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Mundo Fashion](https://open.spotify.com/album/0h2u1ikVqnFckItpMMVl58) | 4:01 |
 | 11 | [Baby Cadê Você](https://open.spotify.com/track/7pJE5wSLgS6b1RwaMRuUTW) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Breguíssimo](https://open.spotify.com/album/0MvbkHT4M8vWtS5kS2C9Tt) | 2:34 |
-| 12 | [PÁlavras](https://open.spotify.com/track/7Mn57ZSJrq5xOMnrxLmSgX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Histórias para Acordar](https://open.spotify.com/album/1WkcFsKdI0631piC9ghAAY) | 4:09 |
+| 12 | [PÁlavras](https://open.spotify.com/track/7Mn57ZSJrq5xOMnrxLmSgX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Mortão VMG](https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy) | [Histórias para Acordar](https://open.spotify.com/album/1WkcFsKdI0631piC9ghAAY) | 3:27 |
 | 13 | [Weekend Warriors](https://open.spotify.com/track/2NjrYeiraBAwe6MSH4x6na) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [ICARUZ](https://open.spotify.com/artist/4wjJNn8praUyGWRsp8LJqe) | [Weekend Warriors](https://open.spotify.com/album/2ucdscWTmU5sKCnPdDRhvE) | 3:44 |
 | 14 | [Jeitão Cowboy](https://open.spotify.com/track/0v46rg2x4Fg47decrKcLkQ) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Talita Mel](https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3) | [Jeitão Cowboy](https://open.spotify.com/album/53bZOOq7dAMIOLtQG54F0z) | 3:01 |
 | 15 | [Não Importa](https://open.spotify.com/track/24wejC7yyV0EjHoeJeGtZw) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Dez Vidas](https://open.spotify.com/album/6d4sMgo6fDkPxnDPuj2fX5) | 3:09 |

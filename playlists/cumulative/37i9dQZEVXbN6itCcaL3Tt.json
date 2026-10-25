@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 174953,
       "name": "100k",
       "url": "https://open.spotify.com/track/3eJ9V340QHSJY7PJ1LtdtW"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 218470,
       "name": "AFTER",
       "url": "https://open.spotify.com/track/16yUe3nTclu9OopOkuJ06H"
@@ -4002,6 +4002,24 @@
       "duration_ms": 197853,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1eZXYu7L2I4DMQyf9Ek90Y"
+    },
+    {
+      "album": {
+        "name": "ANDRZEJ GOATa",
+        "url": "https://open.spotify.com/album/4jU3BR824SEwYUd1jo14uX"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "ANDRZEJ GOATa",
+      "url": "https://open.spotify.com/track/7vDOtldBigRtmfWJS5EMlC"
     },
     {
       "album": {
@@ -5918,7 +5936,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 139515,
       "name": "BALETY",
       "url": "https://open.spotify.com/track/5LdSTx48DeZmM19nj7ddUk"
@@ -5940,7 +5958,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 139494,
       "name": "BALETY",
       "url": "https://open.spotify.com/track/3hXqPp1CMHwOTZyRWtfpjF"
@@ -6090,7 +6108,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 158918,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/2eEhzRhKCXmqqsc405M2Oc"
@@ -21324,7 +21342,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 200000,
       "name": "GORSET",
       "url": "https://open.spotify.com/track/7Mr6X0Ylaayye1LXjam1vB"
@@ -28017,6 +28035,28 @@
     },
     {
       "album": {
+        "name": "kawa i papierosy",
+        "url": "https://open.spotify.com/album/3kTt9zWZAxdejy4eTbjIyY"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        },
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188861,
+      "name": "kawa i papierosy",
+      "url": "https://open.spotify.com/track/3KrzdqVHQIR0bvq0yLi9AX"
+    },
+    {
+      "album": {
         "name": "Kawa\u0142ek nieba",
         "url": "https://open.spotify.com/album/7shIMmorOWFXhmtUluA9Z3"
       },
@@ -30239,6 +30279,32 @@
     },
     {
       "album": {
+        "name": "Kto ile jest wart",
+        "url": "https://open.spotify.com/album/3LLIaPymWpd7pdp3ArT9zL"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        },
+        {
+          "name": "Szamz",
+          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Kto ile jest wart",
+      "url": "https://open.spotify.com/track/3NKQYiu4UQpCd45N85B1ds"
+    },
+    {
+      "album": {
         "name": "Kto Wie?",
         "url": "https://open.spotify.com/album/5mNASnXWvH7eNkDRtxzM1n"
       },
@@ -31722,7 +31788,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 258500,
       "name": "LET IT B",
       "url": "https://open.spotify.com/track/75W4r7XzGhlgSWSRbVO3oa"
@@ -48210,7 +48276,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 173760,
       "name": "poza Tob\u0105 nic",
       "url": "https://open.spotify.com/track/4fxmxMlrViwVyolXZJUJ8Z"
@@ -52620,7 +52686,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -56048,7 +56114,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -59610,7 +59676,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 209908,
       "name": "Toksyna",
       "url": "https://open.spotify.com/track/0QDGplY5KALFQQA2w8bdo9"
@@ -66614,7 +66680,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 190104,
       "name": "Zakochany kundel",
       "url": "https://open.spotify.com/track/2S0tIyYwk80XvzJzYqMiNV"
@@ -66644,6 +66710,24 @@
       "duration_ms": 266840,
       "name": "ZAKOCHA\u0141EM SI\u0118 POD APTEK\u0104",
       "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
+    },
+    {
+      "album": {
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+      },
+      "artists": [
+        {
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270120,
+      "name": "Zamki na piasku",
+      "url": "https://open.spotify.com/track/4F5zFaOhAVkf7sywxrdt8o"
     },
     {
       "album": {

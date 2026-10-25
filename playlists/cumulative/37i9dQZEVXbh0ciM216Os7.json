@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Halfway 2 Jesus",
+        "url": "https://open.spotify.com/album/5qQCGKpe4h1fFZhlYL7W36"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235315,
+      "name": "7 Sins",
+      "url": "https://open.spotify.com/track/1t0IN5jb3uCFKyOfUSnxIN"
+    },
+    {
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
       },
@@ -7290,7 +7312,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 380026,
       "name": "Beyond Zeta Reticuli",
       "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
@@ -10194,7 +10216,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 803994,
       "name": "Breath Meditation",
       "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
@@ -20442,7 +20464,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 115778,
       "name": "DSL",
       "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
@@ -44130,7 +44152,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 267616,
       "name": "Loser (Fcukers Remix)",
       "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
@@ -44810,7 +44832,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 322413,
       "name": "LUNE DE SANG",
       "url": "https://open.spotify.com/track/5UJjuCsW1F2BS4Uj7bouvy"
@@ -46248,6 +46270,24 @@
       "duration_ms": 288018,
       "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
+    },
+    {
+      "album": {
+        "name": "Me Holdin' On",
+        "url": "https://open.spotify.com/album/0CfmoFfZjzHz9ISbvDJ54n"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207997,
+      "name": "Me Holdin' On",
+      "url": "https://open.spotify.com/track/4B6n9OdoJKMQ2jpO05nVCn"
     },
     {
       "album": {
@@ -56434,7 +56474,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 322217,
       "name": "Platz Eins - Live In Krakow",
       "url": "https://open.spotify.com/track/1qT98toJxFQMeJloG0rTEm"
@@ -59200,6 +59240,28 @@
       "duration_ms": 213333,
       "name": "Re: Inkarnation - Deutsche Version",
       "url": "https://open.spotify.com/track/503FNJRbw5jyO23OVET5vJ"
+    },
+    {
+      "album": {
+        "name": "PITCOIN",
+        "url": "https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179028,
+      "name": "Reach For The Stars",
+      "url": "https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO"
     },
     {
       "album": {
@@ -62484,6 +62546,24 @@
       "duration_ms": 172806,
       "name": "Say More (with Mad Keys)",
       "url": "https://open.spotify.com/track/6mDxeODcJLsH1xXiUlJwWa"
+    },
+    {
+      "album": {
+        "name": "Say When (from Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/1sAOV9vKM60TBvhDbcGjvP"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227399,
+      "name": "Say When - from Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/0WOITRgSeNeY0ZGxn1vkJc"
     },
     {
       "album": {
@@ -71960,7 +72040,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 175254,
       "name": "The Center Eye",
       "url": "https://open.spotify.com/track/1mopYJFvx9Hg2ZfjC7KRi8"
@@ -77272,7 +77352,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 267293,
       "name": "TTW - Kaytranada Remix",
       "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
@@ -81069,6 +81149,24 @@
     },
     {
       "album": {
+        "name": "Weekend In Texas",
+        "url": "https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173382,
+      "name": "Weekend In Texas",
+      "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"
+    },
+    {
+      "album": {
         "name": "Dreamscope II",
         "url": "https://open.spotify.com/album/1DYuZNEl8qXQvLktRcsBrK"
       },
@@ -81380,7 +81478,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 174470,
       "name": "What Do I Do If You Don't",
       "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"

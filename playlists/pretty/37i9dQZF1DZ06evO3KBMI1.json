@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 75230,
+  "num_followers": 75238,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAA8adfanpJ12BA+oxSfCdr+",
+  "snapshot_id": "atqjgAAAAADfqqhxjZC2NbSFEjfxfbx/",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "\u511a\u304f\u3082\u6c38\u4e45\u306e\u30ab\u30ca\u30b7",
-      "url": "https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUGRIGHT",
         "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 232000,
       "name": "Colors of the Heart",
       "url": "https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "\u511a\u304f\u3082\u6c38\u4e45\u306e\u30ab\u30ca\u30b7",
+      "url": "https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
-        "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 291800,
-      "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
-      "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUGRIGHT",
         "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
       },
@@ -155,22 +139,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAWN",
-        "url": "https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF"
+        "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
+        "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
       },
       "artists": [
-        {
-          "name": "AK-69",
-          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
-        },
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 239826,
-      "name": "Forever Young (feat. UVERworld)",
-      "url": "https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk"
+      "duration_ms": 291800,
+      "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
+      "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ODD FUTURE short ver.",
+        "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 89983,
+      "name": "ODD FUTURE short ver.",
+      "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ODD FUTURE short ver.",
-        "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF"
       },
       "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 89983,
-      "name": "ODD FUTURE short ver.",
-      "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
+      "duration_ms": 239826,
+      "name": "Forever Young (feat. UVERworld)",
+      "url": "https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 265040,
-      "name": "IMPACT",
-      "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
+      "duration_ms": 252960,
+      "name": "\u5728\u308b\u3079\u304d\u5f62",
+      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 252960,
-      "name": "\u5728\u308b\u3079\u304d\u5f62",
-      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
+      "duration_ms": 265040,
+      "name": "IMPACT",
+      "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 305320,
-      "name": "EN",
-      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AwakEVE",
         "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 354853,
       "name": "\u7f8e\u5f71\u610f\u5fd7",
       "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+        "name": "PROGLUTION",
+        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 281706,
-      "name": "DECIDED (album ver.)",
-      "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
+      "duration_ms": 272000,
+      "name": "\u6d6e\u4e16CROSSING",
+      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 281706,
+      "name": "DECIDED (album ver.)",
+      "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
         "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 240640,
       "name": "DEJAVU",
       "url": "https://open.spotify.com/track/4MxC12Xsx3eQtbUO0rRi5c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PROGLUTION",
-        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "\u6d6e\u4e16CROSSING",
-      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
     },
     {
       "added_at": null,

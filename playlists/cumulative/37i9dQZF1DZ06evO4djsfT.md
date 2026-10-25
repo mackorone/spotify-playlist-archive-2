@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 22 min
+114 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [King Jesus](https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:48 | 2023-12-13 |  |
 | [King Jesus](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 | 2023-03-17 | 2023-12-14 |
 | [LEFT HAND \(feat\. Terrian\)](https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [LEFT HAND](https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL) | 3:37 | 2026-05-10 | 2026-07-24 |
-| [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 | 2024-11-24 |  |
+| [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 | 2024-11-24 | 2026-10-25 |
+| [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/6PApLdbOOuJ2yHd1maA049) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [What's Understood 3](https://open.spotify.com/album/5NVhdfx9e7rHeyeg0QN8O0) | 3:05 | 2026-10-25 |  |
 | [Let It Reign \(feat\. Bizzle\)](https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:19 | 2023-03-17 |  |
 | [Lifeline](https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB) | [Carly Ann Taylor](https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lifeline](https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA) | 3:33 | 2026-08-12 |  |
 | [Lighthouse](https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Blameless](https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb) | 2:43 | 2025-09-22 |  |

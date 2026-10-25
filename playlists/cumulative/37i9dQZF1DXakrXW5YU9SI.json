@@ -17560,7 +17560,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 200200,
       "name": "Tak bym chcia\u0142...",
       "url": "https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg"
@@ -18778,6 +18778,24 @@
       "duration_ms": 193846,
       "name": "To zabola\u0142o",
       "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
+    },
+    {
+      "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
     },
     {
       "album": {

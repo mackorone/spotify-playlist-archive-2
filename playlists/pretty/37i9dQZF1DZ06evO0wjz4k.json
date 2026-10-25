@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36679,
+  "num_followers": 36688,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAACm9pQcslpqlR7E+Z+a1uMG",
+  "snapshot_id": "atqjgAAAAACrYlYbfAoHguEt0lrnMQxV",
   "tracks": [
     {
       "added_at": null,
@@ -351,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "Tommy Jackson",
+        "url": "https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc"
       },
       "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221781,
-      "name": "Things I Never Told You",
-      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
+      "duration_ms": 305609,
+      "name": "Tommy Jackson",
+      "url": "https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo"
     },
     {
       "added_at": null,
@@ -383,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tommy Jackson",
-        "url": "https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 305609,
-      "name": "Tommy Jackson",
-      "url": "https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo"
+      "duration_ms": 221781,
+      "name": "Things I Never Told You",
+      "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -547,6 +531,38 @@
       "duration_ms": 204489,
       "name": "I Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Sound City",
+        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Diamonds And Gasoline - Acoustic",
+      "url": "https://open.spotify.com/track/0pvXRqOKIyOl7GgKKz62Cp"
     },
     {
       "added_at": null,
@@ -623,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From Sound City",
+        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "'Til the End - Acoustic",
+      "url": "https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold Chain Cowboy (Special Edition)",
         "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
       },
@@ -680,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 212266,
-      "name": "Diamonds And Gasoline - Acoustic",
-      "url": "https://open.spotify.com/track/0pvXRqOKIyOl7GgKKz62Cp"
+      "duration_ms": 183106,
+      "name": "One Less Mouth - Acoustic",
+      "url": "https://open.spotify.com/track/40ZITrxVJNQASpJBh62j7Y"
     },
     {
       "added_at": null,
@@ -744,9 +776,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 269533,
-      "name": "'Til the End - Acoustic",
-      "url": "https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm"
+      "duration_ms": 163080,
+      "name": "Things Are Looking Up - Acoustic",
+      "url": "https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx"
     },
     {
       "added_at": null,
@@ -795,38 +827,6 @@
       "duration_ms": 243920,
       "name": "Carrying Your Love With Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Sound City",
-        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Things Are Looking Up - Acoustic",
-      "url": "https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parker McCollum (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Wind My Friend",
-      "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
     }
   ],
   "unique_name": "This Is Parker McCollum",

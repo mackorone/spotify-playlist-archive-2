@@ -1,12 +1,12 @@
 {
   "description": "Best of Malayalam Hip-Hop! \nCover :  Parimal Shais, MC Couper, The Imbachi, Dabzee",
-  "num_followers": 214867,
+  "num_followers": 214890,
   "original_name": "RAP 91 Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3q9Sh0xuHIIShqH2Pl0ZkwIGjx",
+  "snapshot_id": "AAAAAOc+eIP98dVxB1T8rzI6Y2ARWQmX",
   "tracks": [
     {
       "added_at": "2026-10-21 05:22:03",
@@ -277,23 +277,47 @@
       "url": "https://open.spotify.com/track/21cPg2ceTdGUKBaqntM2y4"
     },
     {
+      "added_at": "2026-10-24 08:38:18",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2nvgZ7SDH8ZbxNZQFgr4P6"
+      },
+      "artists": [
+        {
+          "name": "Fazil AS",
+          "url": "https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6"
+        },
+        {
+          "name": "Abu X-wrong",
+          "url": "https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2KJeA0ITmK1p4xnA1myBWy"
+    },
+    {
       "added_at": "2026-10-23 10:43:52",
       "album": {
-        "name": "MATHI",
+        "name": "Mathi",
         "url": "https://open.spotify.com/album/0QHj5dcaPfOmbmyAOPN96i"
       },
       "artists": [
         {
-          "name": "Jewel Rose",
-          "url": "https://open.spotify.com/artist/2TCja8S9QaSnAKsHOszihH"
+          "name": "Jewel Rose Villya",
+          "url": "https://open.spotify.com/artist/5CGBuFfZ6awGdUURFCiuZS"
         },
         {
           "name": "Paul Vimal",
           "url": "https://open.spotify.com/artist/1TXfHxvSNBkLpoI0I8UQQ0"
+        },
+        {
+          "name": "Geya George",
+          "url": "https://open.spotify.com/artist/3YXhbYsob8pxkJStggcdHS"
         }
       ],
       "duration_ms": 93333,
-      "name": "MATHI",
+      "name": "Mathi",
       "url": "https://open.spotify.com/track/0dzrKzh4jrnzsAgwam5XNB"
     },
     {
@@ -328,12 +352,12 @@
           "url": "https://open.spotify.com/artist/0hp2owGe2CjGSqXfUZkAIn"
         },
         {
-          "name": "Zbr",
-          "url": "https://open.spotify.com/artist/4aC8MoEyvf1ur6XYfOXXwq"
+          "name": "ZBR",
+          "url": "https://open.spotify.com/artist/21Abac8U0ky8PPdACWgl7z"
         },
         {
-          "name": "Jojo",
-          "url": "https://open.spotify.com/artist/01yggBC5azl1WlTHthXdth"
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/3RFxt1JnFjpFep8H9MQtd6"
         }
       ],
       "duration_ms": 204360,

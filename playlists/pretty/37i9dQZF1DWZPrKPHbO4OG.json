@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39707,
+  "num_followers": 39725,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Koliwada Jhingla",
+        "url": "https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo"
+      },
+      "artists": [
+        {
+          "name": "Siddhi Ture",
+          "url": "https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1"
+        }
+      ],
+      "duration_ms": 227606,
+      "name": "Koliwada Jhingla",
+      "url": "https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 226008,
       "name": "Angaat Aalaya",
       "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Koliwada Jhingla",
-        "url": "https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo"
-      },
-      "artists": [
-        {
-          "name": "Siddhi Ture",
-          "url": "https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1"
-        }
-      ],
-      "duration_ms": 227606,
-      "name": "Koliwada Jhingla",
-      "url": "https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e"
     },
     {
       "added_at": "2026-09-24 07:16:44",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 306464,
-      "name": "Kombdi Palali - From \"Jatra\"",
-      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 240000,
       "name": "Majhi Navri",
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
+        "name": "Ajay - Atul Hits",
+        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 306464,
+      "name": "Kombdi Palali - From \"Jatra\"",
+      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
     },
     {
       "added_at": "2026-09-24 07:16:44",

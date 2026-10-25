@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 23 min
+94 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 | 2024-09-07 | 2026-10-18 |
 | [Get TF Out My Face \(feat\. Young Thug\)](https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 4:25 | 2024-09-07 |  |
 | [Ghetto](https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Downtown: Life Under The Gun](https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB) | 5:13 | 2024-09-07 |  |
+| [GIA](https://open.spotify.com/track/2groI56EiNLTGwqdwcBo1d) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [GIA : Going In Afterlife](https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask) | 2:08 | 2026-10-25 |  |
 | [Got Yo Wingz](https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Got Yo Wingz](https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa) | 2:35 | 2024-11-29 |  |
 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 | 2024-09-07 |  |
 | [Hennessy \(feat\. Rich Homie Quan & T.I.\)](https://open.spotify.com/track/1LSzP5PdW3qpp10DfRJ4np) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [OT: Outta Town](https://open.spotify.com/album/7Gi89QmxlWM930gmffkDVF) | 5:04 | 2025-12-23 | 2026-03-02 |
@@ -73,7 +74,7 @@
 | [Private Room](https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Private Room \(feat\. Rich Homie Quan\) \- Single](https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ) | 3:17 | 2024-09-07 |  |
 | [RedBone](https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 4:13 | 2024-10-03 | 2026-10-18 |
 | [Reloaded](https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 3:08 | 2025-10-12 |  |
-| [Rich Homie Quando \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Life After Fame](https://open.spotify.com/album/3IYaSINx79h33UY51uylld) | 2:44 | 2024-09-07 |  |
+| [Rich Homie Quando \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Life After Fame](https://open.spotify.com/album/3IYaSINx79h33UY51uylld) | 2:44 | 2024-09-07 | 2026-10-25 |
 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 | 2024-09-07 |  |
 | [Risk Takers](https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula](https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa) | 2:21 | 2024-09-07 |  |
 | [Send It \- feat\. Rich Homie Quan](https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L) | 3:01 | 2024-09-07 |  |

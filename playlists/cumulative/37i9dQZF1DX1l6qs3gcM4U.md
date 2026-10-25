@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 |  |
+| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 | 2026-10-25 |
 | [14](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [CICLOS](https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc) | 2:31 | 2026-02-06 |  |
 | [2 Bêbados](https://open.spotify.com/track/2nWvOavF9070jz0T3fDHMm) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [2 Bêbados](https://open.spotify.com/album/74QfxrE850xdVFcxDRaJQ4) | 2:41 | 2026-10-16 |  |
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
@@ -631,7 +631,7 @@
 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 | 2023-01-13 | 2025-09-13 |
 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 | 2021-12-10 |  |
 | [the baddest chick](https://open.spotify.com/track/1t55U66XG9MawctYvk5yU7) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Elizio](https://open.spotify.com/artist/3CgDThuyfOl91zIAzg8TX7) | [the baddest chick](https://open.spotify.com/album/0TKgn8pazEe4KrpvfMivtm) | 3:52 | 2025-01-31 | 2025-02-21 |
-| [The Best](https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww) | [Halison Paixão](https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N) | [The Best](https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b) | 2:44 | 2025-06-20 | 2026-09-14 |
+| [The Best](https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww) | [Halison Paixão](https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N) | [The Best](https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b) | 2:44 | 2025-06-20 |  |
 | [Ti Ki Manxi](https://open.spotify.com/track/1pBDxTDBUBWT3nGaxNok1X) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Oceans](https://open.spotify.com/album/0azV0VJOOb69QpmqUjy7ku) | 4:29 | 2024-08-01 | 2024-08-16 |
 | [Ti Matar](https://open.spotify.com/track/6jahSkpRrPt4PRzlVViMtN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Delio Tala](https://open.spotify.com/artist/5dJVFpMbbup478DAWzBRZS) | [Ti Matar](https://open.spotify.com/album/4DTsQogJqwObqLwjmJPNSQ) | 3:46 | 2022-07-22 | 2024-05-15 |
 | [Tipo Louco](https://open.spotify.com/track/22i5x1cpezxFnjCYxWaNFG) | [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [Adsum II EP](https://open.spotify.com/album/4LY6XD9teeBGFz6r28V5w0) | 3:39 | 2025-06-05 | 2025-08-09 |

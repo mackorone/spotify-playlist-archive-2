@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 274560,
       "name": "Kimi no Tonaride",
       "url": "https://open.spotify.com/track/6S1hf9077yCXY9T40wS1fM"
@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+        "url": "https://open.spotify.com/album/1fUGDf3sLrJhQHQEMkLlWL"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274880,
+      "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+      "url": "https://open.spotify.com/track/1CFuvvD7OzO65MldvBdHEk"
+    },
+    {
+      "album": {
         "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
         "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
       },
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 232053,
       "name": "\u30b0\u30c3\u30c9\u30e2\u30fc\u30cb\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1vzmw0eSU8IWoUp7VDxRIY"

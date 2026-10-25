@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-337 songs - 20 hr 41 min
+338 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Que Calor, Que Calor](https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Que Calor, Que Calor](https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU) | 3:19 | 2026-03-20 | 2026-05-01 |
 | [Queimar](https://open.spotify.com/track/1WOzaWVIPE3z2gaBu1yQtk) | [OVEOUS](https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc), [QVLN](https://open.spotify.com/artist/6QucHfdHaS4tLsKKT2vv2j) | [Queimar](https://open.spotify.com/album/1lj13pAZcobQXlbSgir2EP) | 8:57 | 2022-03-29 | 2022-07-28 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-08-01 | 2023-03-15 |
+| [Radio Nacional](https://open.spotify.com/track/1Nxbt8pCIRKraImjjHd34M) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [DJ GTi](https://open.spotify.com/artist/6mPCyDhyxqefBQbhKcm9Ms), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Radio Nacional](https://open.spotify.com/album/2quDxCML4J1cT7i4ZiMh6A) | 4:58 | 2026-10-16 |  |
 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd) | 8:00 | 2022-03-29 | 2023-03-15 |
 | [Ricota](https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ricota](https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN) | 2:25 | 2026-04-10 | 2026-05-09 |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2023-12-07 |  |
@@ -258,7 +259,7 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2024-01-26 | 2024-11-30 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2022-07-26 | 2023-12-07 |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2023-12-07 | 2026-03-21 |
-| [Salam](https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Salam](https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH) | 2:53 | 2026-03-20 |  |
+| [Salam](https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Salam](https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH) | 2:53 | 2026-03-20 | 2026-10-25 |
 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 | 2024-09-06 |  |
 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 | 2024-01-26 | 2025-09-27 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |

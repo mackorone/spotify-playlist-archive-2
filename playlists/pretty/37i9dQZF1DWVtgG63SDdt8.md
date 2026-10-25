@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,447 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,483 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 24 | [Praise The Lord Hallelujah Amen](https://open.spotify.com/track/4KPKY8GQGR9G8hbY5SAqTF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Holy Is The Name](https://open.spotify.com/album/7EA64dd9j45VLFXFER2NYH) | 5:16 |
 | 25 | [Make A Way \- Acoustic](https://open.spotify.com/track/2KGteXCvvjH3hTqzqwGpEM) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Make A Way \(Acoustic\)](https://open.spotify.com/album/1efsB9WeeqhgfvI3rbbkd0) | 4:02 |
 | 26 | [Take It To The Throne](https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Take It To The Throne](https://open.spotify.com/album/5932JNQ1Qei0mFe1eMq28j) | 4:08 |
-| 27 | [It's My Joy](https://open.spotify.com/track/1zfD9XS6TDXZjogoANNfn3) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [It's My Joy \(Live\)](https://open.spotify.com/album/4WHv3PnWt6f0kqY3tFwyGq) | 5:52 |
+| 27 | [It's My Joy](https://open.spotify.com/track/1zfD9XS6TDXZjogoANNfn3) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [It's My Joy](https://open.spotify.com/album/4WHv3PnWt6f0kqY3tFwyGq) | 5:52 |
 | 28 | [Worthy Of All Of It](https://open.spotify.com/track/3RotG8oLu0iWxSUMXCYDW8) | [Jordan Colle](https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1) | [Worthy Of All Of It](https://open.spotify.com/album/6XZlTbqcjg6MYxQCJJzJTu) | 3:47 |
 | 29 | [Second to None \- Live](https://open.spotify.com/track/6m5Zvd5HznelUUzLiZ0UQx) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI) | [Second to None \(Live\)](https://open.spotify.com/album/5T1cjdP76TyCZiFm4QOxnE) | 6:27 |
 | 30 | [I Surrender All](https://open.spotify.com/track/1NXQ7OJ3WrIwDRpalvRlbM) | [Mission Worship](https://open.spotify.com/artist/7GoguaRlMdJQXwhCaektit), [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw) | [I Surrender All](https://open.spotify.com/album/3Q3aeXYtd7OUKAxe9pfKlr) | 6:14 |

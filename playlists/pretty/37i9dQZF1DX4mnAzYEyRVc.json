@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73663,
+  "num_followers": 73676,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Contra-Revolucion Avenue",
-        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Spanish Bombs",
-      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "En La Tormenta",
         "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Contra-Revolucion Avenue",
+        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Spanish Bombs",
+      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Random Hand",
         "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "STAY YOUNG STAY PUNK",
-        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
       "artists": [
         {
-          "name": "FIVE STATE DRIVE",
-          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
         }
       ],
-      "duration_ms": 123000,
-      "name": "STAY YOUNG STAY PUNK",
-      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1059,6 +1043,22 @@
       "duration_ms": 269400,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "STAY YOUNG STAY PUNK",
+        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
+      },
+      "artists": [
+        {
+          "name": "FIVE STATE DRIVE",
+          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "STAY YOUNG STAY PUNK",
+      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
-      },
-      "artists": [
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "El Mosquito",
         "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 188772,
       "name": "El Mosquito",
       "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
+      },
+      "artists": [
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Weit, weit weg",
-        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
-      },
-      "artists": [
-        {
-          "name": "Sondaschule",
-          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Weit, weit weg",
-      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Dead Man's Party",
         "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 258019,
       "name": "Dead Man's Party",
       "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Weit, weit weg",
+        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
+      },
+      "artists": [
+        {
+          "name": "Sondaschule",
+          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Weit, weit weg",
+      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
     },
     {
       "added_at": "2026-08-21 06:00:30",

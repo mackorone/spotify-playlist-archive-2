@@ -4,7 +4,7 @@
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-339 songs - 20 hr 16 min
+340 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-06-27 | 2025-12-12 |
 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 | 2025-06-05 | 2026-10-08 |
 | [At The Doorstep](https://open.spotify.com/track/3evxjPveHGuE03icXo1iQu) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Robin Wander Smit](https://open.spotify.com/artist/64xvDazGTL9SE8nc7BVWJp) | [At The Doorstep](https://open.spotify.com/album/6OQOHKIJt0CZ7KB90i3or7) | 3:15 | 2024-06-27 | 2024-10-04 |
+| [At The Race Tracks](https://open.spotify.com/track/5mBs521Kdcigt75B5Z3sKS) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [At The Race Tracks](https://open.spotify.com/album/1oFCggoJerlIOx9Lr4XsXB) | 3:25 | 2026-10-15 |  |
 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 | 2025-01-23 | 2025-02-24 |
 | [AWARDS SEASON](https://open.spotify.com/track/0QOs67pGVjeCdUpzato35p) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-07-03 |  |
 | [Babooshka](https://open.spotify.com/track/53Mz9H5UvWMQUXHZnaZYKQ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 3:29 | 2025-07-03 | 2025-09-20 |
@@ -283,7 +284,7 @@
 | [Summertime's Close](https://open.spotify.com/track/37SFV64sDYz3Vbs6lwAjkB) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Summertime's Close](https://open.spotify.com/album/2mh8X3Q2BcIXIK2N2iomEg) | 3:01 | 2025-09-19 | 2025-10-24 |
 | [Superhero](https://open.spotify.com/track/1ZgX34sRUstfgelZ8mwzGV) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [Superhero](https://open.spotify.com/album/6zt3YRyXOr4TDbJksVnfuX) | 2:09 | 2024-09-19 | 2025-01-24 |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2025-07-03 | 2026-07-08 |
-| [Sweet Sixteen](https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Sweet Sixteen](https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI) | 4:01 | 2026-09-07 |  |
+| [Sweet Sixteen](https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Sweet Sixteen](https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI) | 4:01 | 2026-09-07 | 2026-10-25 |
 | [take my life \(back\)](https://open.spotify.com/track/5N4flJry5KjhlZ9REjMbqI) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [read me \- EP](https://open.spotify.com/album/3bxSpuh0ZJmq3llomSI75l) | 3:40 | 2025-07-03 | 2025-09-20 |
 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 | 2024-11-11 | 2025-01-24 |
 | [Teeth](https://open.spotify.com/track/1Nhz0pS00D2bnlNLt0WIBd) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 1:39 | 2024-06-27 | 2025-01-30 |

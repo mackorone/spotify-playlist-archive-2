@@ -299,26 +299,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "What You Need (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 223480,
       "name": "Supalonely",
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "What You Need (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -671,8 +671,8 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 196388,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
+      "duration_ms": 189173,
+      "name": "Feel Your Weight",
+      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 203066,
       "name": "I Wish I Missed My Ex",
       "url": "https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -751,8 +751,8 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 189173,
-      "name": "Feel Your Weight",
-      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
+      "duration_ms": 196388,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Sweet Time",
-        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Sweet Time",
-      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 159400,
       "name": "i want war (BUT I NEED PEACE)",
       "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Sweet Time",
+        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 251433,
+      "name": "Sweet Time",
+      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 201450,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
     },
     {
       "added_at": "2026-10-19 16:00:13",

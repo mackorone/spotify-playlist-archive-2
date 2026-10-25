@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-443 songs - 1 day 0 hr 10 min
+444 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Comfort Zone](https://open.spotify.com/track/2f8jLjm7Jzmgiqu3Kgjuuz) | [General Fuzz](https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r) | [Soulful Filling](https://open.spotify.com/album/4rrihMjg9wVglC8qzyz5Fs) | 6:02 | 2022-07-22 | 2024-04-19 |
 | [Commute](https://open.spotify.com/track/1xmu8X6YGxlWaWUoxx6WOx) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Commute](https://open.spotify.com/album/3g1kXeA8xao2cBMSb2X2Ws) | 2:22 | 2021-05-27 | 2022-05-20 |
 | [Concept 1](https://open.spotify.com/track/55bFnrLvc4tUvHVngYhMV3) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Still Life](https://open.spotify.com/album/7wwHgF0T6VcyxF4JkVU3eM) | 5:07 | 2020-12-08\* | 2021-05-27 |
-| [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 | 2021-11-13 |  |
+| [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 | 2021-11-13 | 2026-10-25 |
 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 | 2026-01-15 |
 | [Configuration](https://open.spotify.com/track/66QmlqypHwaune2fOlptt5) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Configuration](https://open.spotify.com/album/0DM9y4ZJrfzrh9M3tItUZk) | 2:50 | 2024-03-14 | 2026-02-01 |
 | [connection](https://open.spotify.com/track/1kS8CLPKqnKFxFD4iUbgcJ) | [eidra](https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM) | [connection](https://open.spotify.com/album/7sqgVVrbRdYowtAo6CkNQU) | 2:24 | 2025-12-10 | 2026-02-13 |
@@ -313,6 +313,7 @@
 | [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 | 2023-02-24 | 2025-10-15 |
 | [Prism](https://open.spotify.com/track/7gGrm4d0lofhpPuZeLrXjN) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Prism](https://open.spotify.com/album/26HLAmiLrUEgmltira0L3V) | 2:58 | 2024-05-10 | 2026-10-16 |
 | [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 | 2020-12-08\* | 2025-12-11 |
+| [Quantum Habitat \(Simulation Build\)](https://open.spotify.com/track/06rgpRIQacP0C66oCChp7B) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Quantum Habitat \(Simulation Build\)](https://open.spotify.com/album/6EnASmAfIBfMqf4y5BFk6J) | 2:51 | 2026-10-05 |  |
 | [Quietud](https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK) | [Holographic Seawaves](https://open.spotify.com/artist/0DHRqGYLG6AaLUfbi8mUY1) | [Dusk Thoughts](https://open.spotify.com/album/2UY6uIUDMOrnqGrrSjbg7j) | 2:59 | 2020-12-08\* | 2025-10-09 |
 | [R.E.M](https://open.spotify.com/track/35gC9vbIkLWvbEb6pCvDyp) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [R.E.M](https://open.spotify.com/album/3xJHqeyo6IriZWz5IfNtuX) | 3:13 | 2020-12-08\* | 2021-03-06 |
 | [Radiant](https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Radiant](https://open.spotify.com/album/1sdwKv0Y7mM3gImhvduqe6) | 2:39 | 2021-08-27 | 2022-05-20 |
@@ -351,7 +352,7 @@
 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 | 2020-12-08\* |  |
 | [Sleeper](https://open.spotify.com/track/42wQLkL4TdggBqHbvo6E14) | [Sylwana](https://open.spotify.com/artist/5ykD7uK6jVcdssmF8qcyaQ) | [Sleeper](https://open.spotify.com/album/0KZCisewEjpiSipGXtZF8f) | 3:03 | 2024-02-16 | 2026-02-14 |
 | [slow heart](https://open.spotify.com/track/4gpBmFwJUfXxnf0PlXgsc6) | [petitula](https://open.spotify.com/artist/5w7NWdoq7vFqGETaruABww) | [slow heart](https://open.spotify.com/album/1SXhAtiNERACHka6bdca7X) | 1:42 | 2026-02-12 |  |
-| [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 | 2021-10-21 | 2026-10-24 |
+| [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 | 2021-10-21 |  |
 | [Slumber](https://open.spotify.com/track/2664GDzHnFYKktCgd0a506) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/1zRA3oOscRbH5SfqggrvyO) | 2:35 | 2023-05-19 | 2023-10-22 |
 | [Slumber](https://open.spotify.com/track/6XOJrnG0NtmKAdMCqhzT3C) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/3B09bJL9eACU7mWdyrsgwT) | 2:35 | 2023-12-01 | 2024-04-19 |
 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 | 2020-12-08\* | 2022-05-20 |
@@ -407,7 +408,7 @@
 | [Tired Eyes](https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 4:12 | 2020-12-08\* | 2026-09-30 |
 | [To Unwind](https://open.spotify.com/track/7ov7MmCvTeQsHyDscGKTKD) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [To Unwind](https://open.spotify.com/album/2bGAKzje194VHkf6iR0l0t) | 2:42 | 2024-09-19 | 2025-10-02 |
 | [Together Alone](https://open.spotify.com/track/0bpNA6uoDL3a2JYY5pQfpG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Underground Rainbow](https://open.spotify.com/album/0jN15gQ2W0ll9DYj1ejEMc) | 2:53 | 2026-02-12 |  |
-| [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 |  |
+| [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 | 2026-10-25 |
 | [Transcendence EMDR](https://open.spotify.com/track/5g81eo7gUrc0exnDOhnoQJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Transcendence EMDR](https://open.spotify.com/album/2UOrOP0NQGSotpi2unJkxY) | 3:04 | 2025-05-14 | 2025-07-19 |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 | 2025-11-06 |
 | [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 | 2023-09-22 |  |

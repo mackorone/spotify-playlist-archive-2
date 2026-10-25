@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 154508,
+  "num_followers": 154518,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAAiNe4U+6OBpzOcKLjfFMFN",
+  "snapshot_id": "atqjgAAAAACzjr36thySyQMLdWuBzwTq",
   "tracks": [
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
+      "duration_ms": 276813,
+      "name": "Jasmine Flower",
+      "url": "https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 276813,
-      "name": "Jasmine Flower",
-      "url": "https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U"
+      "duration_ms": 254640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
     },
     {
       "added_at": null,

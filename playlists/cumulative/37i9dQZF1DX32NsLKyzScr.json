@@ -20847,6 +20847,28 @@
     },
     {
       "album": {
+        "name": "Overclock",
+        "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187998,
+      "name": "Overclock",
+      "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
+    },
+    {
+      "album": {
         "name": "Erased",
         "url": "https://open.spotify.com/album/3B8ZoBF45Gtw1AURybKZP4"
       },
@@ -30750,7 +30772,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 146308,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7"

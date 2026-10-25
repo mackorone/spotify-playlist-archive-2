@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
-  "name": "Lista de LOS40 (Oficial) - Ravyn Lenae en el N\u00ba1",
+  "name": "Lista de LOS40 (Oficial) - Karol G, Judeline y rusowsky el N\u00ba1",
   "tracks": [
     {
       "album": {
@@ -5247,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "Music I Love",
+        "url": "https://open.spotify.com/album/0amjEk4ud3AiqBBH4MefHf"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154243,
+      "name": "Music I Love",
+      "url": "https://open.spotify.com/track/7bfatnIdi5mshwUUG6IGlc"
+    },
+    {
+      "album": {
         "name": "Muy Tarde",
         "url": "https://open.spotify.com/album/4LT7f6yiU4lbVP9SdFjGUS"
       },
@@ -5564,7 +5582,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 188184,
       "name": "OBSESI\u00d3N",
       "url": "https://open.spotify.com/track/7xDsDOCmau82n3i7M5IKIA"

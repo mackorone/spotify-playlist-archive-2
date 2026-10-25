@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 922473,
+  "num_followers": 922533,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Akenza",
         "url": "https://open.spotify.com/album/3UHmB0lFBUwSdsP65b8qcH"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 139312,
       "name": "Akenza",
       "url": "https://open.spotify.com/track/67RI2O6JgdeBENhn6rY4eG"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "La China",
         "url": "https://open.spotify.com/album/4EfOTvFqlQGRrr2Th2rGc2"
       },
@@ -703,22 +687,18 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Mercy Of Time",
-        "url": "https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8"
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
       "artists": [
         {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
         }
       ],
-      "duration_ms": 615866,
-      "name": "Mercy Of Time - Louie Vega Mix",
-      "url": "https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5"
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -743,6 +723,26 @@
       "duration_ms": 213196,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/7hRFu8gdtmYz0zX19fRRK9"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Mercy Of Time",
+        "url": "https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 615866,
+      "name": "Mercy Of Time - Louie Vega Mix",
+      "url": "https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 400695,
       "name": "Tribal Rhythms",
       "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
+      },
+      "artists": [
+        {
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+        },
+        {
+          "name": "Amonita",
+          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
+        }
+      ],
+      "duration_ms": 478764,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Miss That (Major League DJz & Piero Farho Remix)",
         "url": "https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 358000,
       "name": "Miss That (Major League DJz & Piero Farho Remix)",
       "url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
-      },
-      "artists": [
-        {
-          "name": "Makebo",
-          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
-        },
-        {
-          "name": "Amonita",
-          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
-        }
-      ],
-      "duration_ms": 478764,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+        "name": "K\u2019in Tuun",
+        "url": "https://open.spotify.com/album/3Xr2PaTLmVudrkdYGLNaVM"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+          "name": "Bahri Bekil",
+          "url": "https://open.spotify.com/artist/3VXsrd84vzoeNiVgonCBlL"
+        },
+        {
+          "name": "R\u00dcKIN",
+          "url": "https://open.spotify.com/artist/01Ey4GfEPWZBQVFyAdcXaq"
         }
       ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+      "duration_ms": 180093,
+      "name": "K\u2019in Tuun",
+      "url": "https://open.spotify.com/track/2uhluQrSPTK4rkU9aZOiYE"
     }
   ],
   "unique_name": "Org\u00e1nica",

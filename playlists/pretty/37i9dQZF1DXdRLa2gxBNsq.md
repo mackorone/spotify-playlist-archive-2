@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,530 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,543 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 47 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 48 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
 | 49 | [Luigi](https://open.spotify.com/track/41kXkdEBkaOlZ9KSSSWDfw) | [Charnego](https://open.spotify.com/artist/3lK9i7z7TBiYOTZu7MnEAH) | [Luigi](https://open.spotify.com/album/4S4AcOEvCDs9pLYJY8MJiv) | 2:37 |
-| 50 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 51 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
+| 50 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
+| 51 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 52 | [Por Volverte a Ver \- Versión 2026](https://open.spotify.com/track/0l7p3cd5rRhH15jo2efFNb) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Por Volverte a Ver \(Versión 2026\)](https://open.spotify.com/album/0Nh6NEzcwN7dnbZ8EhC2YW) | 3:38 |
 | 53 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 54 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 58 | [La Hemos Cagao \- Versión 2026](https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Hemos Cagao \(Versión 2026\)](https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V) | 3:53 |
 | 59 | [Hasta Alcanzar la Eternidad](https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Un Veneno Llamado Libertad](https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D) | 3:10 |
 | 60 | [Ni Una Sola Palabra](https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Ni una Sola Palabra](https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka) | 2:28 |
-| 61 | [Sin Perdón](https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Sin Perdón](https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA) | 3:10 |
+| 61 | [Abuelo con Peluca](https://open.spotify.com/track/6H7Lxatf46hu7YosWVbmuq) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Basukristo](https://open.spotify.com/album/4bYM6gWqnV1lxsUdh0Igus) | 1:44 |
 | 62 | [Nunca He Visto el Mar](https://open.spotify.com/track/5qEjoywjW43wUjxUvSyRPw) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Nunca He Visto el Mar](https://open.spotify.com/album/5Qr8yJcWdR1pkWgs9MANSI) | 4:10 |
-| 63 | [Abuelo con Peluca](https://open.spotify.com/track/6H7Lxatf46hu7YosWVbmuq) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Basukristo](https://open.spotify.com/album/4bYM6gWqnV1lxsUdh0Igus) | 1:44 |
+| 63 | [Sin Perdón](https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Sin Perdón](https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA) | 3:10 |
 | 64 | [Morirás Sin Nada](https://open.spotify.com/track/50OOpdpR1iITet4ZXt0BKP) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Morirás Sin Nada](https://open.spotify.com/album/74NVZLzYfhFEFC0mE4PsQh) | 3:39 |
 | 65 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 |
 | 66 | [Vuelvo](https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Vuelvo](https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf) | 2:56 |

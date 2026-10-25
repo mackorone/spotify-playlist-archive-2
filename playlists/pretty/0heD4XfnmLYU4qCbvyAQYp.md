@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,761 likes - 110 songs - 7 hr 3 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,762 likes - 115 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,10 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 108 | [TONIGHT](https://open.spotify.com/track/1Iz0IOnt6HYhmfiguTg2Bt) | [YESOD MALKUTH](https://open.spotify.com/artist/5L0hR8284jW5qANEy47NNE) | [TONIGHT](https://open.spotify.com/album/0NclpJClWLbcWCd9viMFdb) | 2:58 |
 | 109 | [The Sun](https://open.spotify.com/track/288nnGexDHibhdPeTw5hMj) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB) | 3:28 |
 | 110 | [I Love You](https://open.spotify.com/track/3Pen0VHkTufM1cxcL1O0Oz) | [Brett Higginson](https://open.spotify.com/artist/6zEdf74MBw01l1zKGQ9auN) | [I Be Free](https://open.spotify.com/album/7uQvrCQa1JbOv5xjXzhOTq) | 3:00 |
+| 111 | [A Perfect Day](https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [From the Attic](https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE) | 3:10 |
+| 112 | [Musicinin's](https://open.spotify.com/track/6LpU2xNvk9OzLHGB5FPiPC) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [Musicinin's](https://open.spotify.com/album/0NUtyCa4a3sqsMPHxFfqjS) | 5:57 |
+| 113 | [Agency](https://open.spotify.com/track/0O1Z2KjJBVE3Ztc1WvZCwx) | [Labasheeda](https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh) | [Agency](https://open.spotify.com/album/735AzC1ClABhGC7dFjUykk) | 3:28 |
+| 114 | [À termes précis](https://open.spotify.com/track/4kx1Rn0BL2EjrvDSk509fr) | [Roxan LR](https://open.spotify.com/artist/4J8rcj1qCpxVG1ZDkhhOmj) | [À termes précis](https://open.spotify.com/album/11J0YBoD5gVgq3rRExSiit) | 3:14 |
+| 115 | [Dove Il Mare](https://open.spotify.com/track/6kjahxKcPfk0QvT2ZQt1oz) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [Fuori Fuoco](https://open.spotify.com/album/69jSXT0g4p46Ga5FfT0n2A) | 3:28 |
 
-Snapshot ID: `AAAPSHm+9Mrq05GbGYDj49Ng8qEw69Ds`
+Snapshot ID: `AAAPTU98LcIdiFnAvIqCrDwGILQ7T5X/`

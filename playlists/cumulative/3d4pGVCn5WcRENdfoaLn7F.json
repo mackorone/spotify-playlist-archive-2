@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Don't Get Attached",
+        "url": "https://open.spotify.com/album/0NbXJdlDojMCum9cv0E51F"
+      },
+      "artists": [
+        {
+          "name": "Cordelia Harding",
+          "url": "https://open.spotify.com/artist/1yKmcWiEDJPW3Cb45W5qmR"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Don't Get Attached",
+      "url": "https://open.spotify.com/track/6EJB14lIIQSh7QfELPfZGQ"
+    },
+    {
+      "album": {
         "name": "Don't Quit",
         "url": "https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA"
       },
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 270498,
       "name": "Heart of a Coward",
       "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"

@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 225612,
+  "num_followers": 225616,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "embraced for a second as we die",
+        "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "groby",
+      "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Overboda",
         "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 191440,
       "name": "Overboda",
       "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "embraced for a second as we die",
-        "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "groby",
-      "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Deliver Me From Trying",
-        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Deliver Me From Trying",
-      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Deliver Me From Trying",
+        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Deliver Me From Trying",
+      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "The Man Who Lost it All",
+        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 199712,
+      "name": "The Man Who Lost it All",
+      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Come Through",
         "url": "https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "The Man Who Lost it All",
-        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
+        "name": "love isn't everything",
+        "url": "https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77"
       },
       "artists": [
         {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+          "name": "Orange Oak",
+          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
         }
       ],
-      "duration_ms": 199712,
-      "name": "The Man Who Lost it All",
-      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
+      "duration_ms": 207216,
+      "name": "love isn't everything",
+      "url": "https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -587,22 +603,6 @@
       "duration_ms": 247124,
       "name": "How Love\u2019s Supposed to Feel",
       "url": "https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "love isn't everything",
-        "url": "https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77"
-      },
-      "artists": [
-        {
-          "name": "Orange Oak",
-          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
-        }
-      ],
-      "duration_ms": 207216,
-      "name": "love isn't everything",
-      "url": "https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Bonnie",
-        "url": "https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP"
+        "name": "Laminar Flow",
+        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
       },
       "artists": [
         {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 185652,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde"
+      "duration_ms": 133613,
+      "name": "forever, for a while",
+      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Laminar Flow",
-        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
+        "name": "Bonnie",
+        "url": "https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP"
       },
       "artists": [
         {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 133613,
-      "name": "forever, for a while",
-      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+      "duration_ms": 185652,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde"
     },
     {
       "added_at": "2026-10-22 22:01:40",

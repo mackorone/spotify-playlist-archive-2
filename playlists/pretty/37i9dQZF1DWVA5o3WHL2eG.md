@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,619 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,607 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Fous!](https://open.spotify.com/track/5TjBYNNSQD5djlxGOwilDo) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Fous!](https://open.spotify.com/album/7r9AubIxGLReZWAyNYExck) | 2:06 |
 | 10 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 |
 | 11 | [hot girl](https://open.spotify.com/track/52nPmTmfUBQGqjWAtzsW52) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [hot girl](https://open.spotify.com/album/76c3oagYjnDPwnlGlxETNe) | 1:28 |
-| 12 | [Der einzige Ort](https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Der einzige Ort](https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g) | 2:18 |
-| 13 | [Enter Ecstasy](https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Enter Ecstasy](https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm) | 3:03 |
+| 12 | [Enter Ecstasy](https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Enter Ecstasy](https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm) | 3:03 |
+| 13 | [Der einzige Ort](https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Der einzige Ort](https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g) | 2:18 |
 | 14 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/0InsWMLpmFodDsg4fPTn2e) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 1:40 |
 | 15 | [eigentlich](https://open.spotify.com/track/3yAHXk7dPNgbWEWiTLNQAz) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [eigentlich](https://open.spotify.com/album/3Min0vu9TVb5r6A1kETvai) | 2:24 |
 | 16 | [Leiser](https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Leiser](https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY) | 3:00 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [In Da Zone](https://open.spotify.com/track/74EYuSfkYh7EKzyqWXys3d) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [In Da Zone](https://open.spotify.com/album/3ZaJg7VrjUqQS21VOV2Xgo) | 2:48 |
 | 19 | [New Era](https://open.spotify.com/track/0sF1TJMDGYxKvu9pp1JQkQ) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [New Era](https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv) | 3:13 |
 | 20 | [ich fühle was, was du nicht siehst](https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [ich fühle was, was du nicht siehst](https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W) | 2:57 |
-| 21 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
-| 22 | [Hübsche Männer](https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Hübsche Männer](https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG) | 1:48 |
+| 21 | [Hübsche Männer](https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Hübsche Männer](https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG) | 1:48 |
+| 22 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
 | 23 | [Audacity](https://open.spotify.com/track/1UUptXuoSwtWIoj76gn0Fn) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:35 |
 | 24 | [Ich und Ich Selbst](https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS) | [Malina](https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF) | [Ich und Ich Selbst](https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace) | 2:36 |
 | 25 | [SOS](https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [SOS](https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj) | 2:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 45 | [Kippe danach](https://open.spotify.com/track/1Qibw04eDR9tZu8rwDBU5U) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kippe danach](https://open.spotify.com/album/5jhQj3mNO5bCkGpwMm9GjV) | 2:36 |
 | 46 | [Spirit](https://open.spotify.com/track/3JoamIoZCD6RMwmep3nPhF) | [Tamara Wirth](https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI) | [Esoteric Reality EP](https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60) | 6:34 |
 | 47 | [Take The Leap](https://open.spotify.com/track/2JDzgjjvHNoOjmEKpvWlSl) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Take The Leap](https://open.spotify.com/album/1oGZgAfnCjyROiwakn7MiE) | 3:11 |
-| 48 | [Roter Faden](https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Roter Faden](https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe) | 3:18 |
-| 49 | [ZWEITAUSENDZWEI](https://open.spotify.com/track/3LJMrvMbnZjSwLV89DzoFn) | [ENNI](https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW) | [ZWEITAUSENDZWEI](https://open.spotify.com/album/1edS9EQKc7RXZenMKLUaN2) | 2:31 |
+| 48 | [ZWEITAUSENDZWEI](https://open.spotify.com/track/3LJMrvMbnZjSwLV89DzoFn) | [ENNI](https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW) | [ZWEITAUSENDZWEI](https://open.spotify.com/album/1edS9EQKc7RXZenMKLUaN2) | 2:31 |
+| 49 | [Roter Faden](https://open.spotify.com/track/4o7GbCUuZuVaqsoWLgW8lk) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Roter Faden](https://open.spotify.com/album/5mNOzWnP54Xccnm4UDSpUe) | 3:18 |
 | 50 | [Brauch Dich Nicht](https://open.spotify.com/track/1Um35IfeTi2tQw1TIavJaK) | [VANY](https://open.spotify.com/artist/438hcLBzFiTYwOffWeBkWj) | [Brauch Dich Nicht](https://open.spotify.com/album/5rIz3jjk5GPUBvPuuhPYsF) | 2:50 |
 
 Snapshot ID: `AAAAAHvElqmEddIHhZ0jfGBCZYzmRY/D`

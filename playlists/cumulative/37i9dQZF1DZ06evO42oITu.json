@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "461 Ocean Boulevard",
+        "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263573,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/3PbJjso7KugjaEA8nkUPfk"
+    },
+    {
+      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 263746,
       "name": "I Shot The Sheriff",
       "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"

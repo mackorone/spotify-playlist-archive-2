@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Emre Fel
 
-772 songs - 1 day 15 hr 19 min
+773 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Bal](https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bal](https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D) | 4:25 | 2024-06-27 | 2024-10-29 |
 | [Bal Böceği](https://open.spotify.com/track/4P1xU6Qiz34UknVAV1kdin) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [Bal Böceği](https://open.spotify.com/album/4Sw0ElAaK2JH9e9ROh2tlf) | 2:18 | 2025-09-25 | 2026-05-29 |
 | [Balerin](https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Balerin](https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr) | 2:56 | 2024-07-11 | 2024-09-06 |
-| [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 | 2026-10-24 |
+| [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 |  |
 | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/track/1X8w2fVhbwyRZhSrB6MuLn) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/album/71udzttNWk2BuW5TJabr6M) | 3:18 | 2026-06-12 | 2026-07-17 |
 | [bana ne.](https://open.spotify.com/track/2aEyzvp6ViXIqfSlLi0ym5) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [bana ne.](https://open.spotify.com/album/1erJv0weFEuBlhydLcTlco) | 2:38 | 2025-09-25 | 2025-10-10 |
 | [Bana Sorma](https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bana Sorma](https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh) | 4:14 | 2024-06-27 | 2026-01-23 |
@@ -378,7 +378,7 @@
 | [İtaat Yok](https://open.spotify.com/track/0RZwoJKQGZ2Fox5bodEX24) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [İtaat Yok](https://open.spotify.com/album/4Q79xH8eHjHzg4TIfT62Th) | 2:23 | 2026-07-23 |  |
 | [İtiraf](https://open.spotify.com/track/4gZ57zwUmu3DqSSPIgfMVh) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [İtiraf](https://open.spotify.com/album/5ngApZKJ1z5vMKyY3MW6ds) | 3:07 | 2025-08-15 | 2025-10-10 |
 | [İyi ki Doğmuşum](https://open.spotify.com/track/1tuTl0xxFpqOoHICg6Gkhc) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [İyi ki Doğmuşum](https://open.spotify.com/album/4erI0CkIBBkNJJ72hBwqFF) | 3:35 | 2025-12-18 | 2026-03-04 |
-| [İyi Ki Sen](https://open.spotify.com/track/40PhqU68xiVbYWVjhWvAdK) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İyi Ki Sen](https://open.spotify.com/album/6DJldc4RoYfVHxkWnK7sBX) | 2:26 | 2026-09-22 |  |
+| [İyi Ki Sen](https://open.spotify.com/track/40PhqU68xiVbYWVjhWvAdK) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İyi Ki Sen](https://open.spotify.com/album/6DJldc4RoYfVHxkWnK7sBX) | 2:26 | 2026-09-22 | 2026-10-25 |
 | [İçimde Sen](https://open.spotify.com/track/4341I8qgSJAiIYxScMLsyV) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [İçimde Sen](https://open.spotify.com/album/48lOZljjxbF9IGkWpaU1eK) | 3:33 | 2024-06-27 | 2024-07-04 |
 | [İçin Rahat Olsun](https://open.spotify.com/track/41dhf0sMVkUFvgdCbJGBzf) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [İçin Rahat Olsun](https://open.spotify.com/album/7Fzkihl6LX4HnNCZMYQcsu) | 3:32 | 2025-08-07 | 2025-09-03 |
 | [İçiyorum Ederimize](https://open.spotify.com/track/4vXroPxK5zJnymovmYD6SX) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3), [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [İçiyorum Ederimize](https://open.spotify.com/album/3QwHFGdwqnnfDn18Lv9jwo) | 3:26 | 2026-04-23 | 2026-06-26 |
@@ -391,6 +391,7 @@
 | [Kafamın İçini Bi' Salsaydın](https://open.spotify.com/track/7nMRPBiK8qFCMJoTSFCzi9) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Kafamın İçini Bi' Salsaydın](https://open.spotify.com/album/74k5valldNCxIp8Oi5fqt5) | 2:04 | 2026-08-13 | 2026-08-28 |
 | [Kafayı Yaktım](https://open.spotify.com/track/5u0zy8RMeAa0F778XRxYO6) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Yalan Dolan](https://open.spotify.com/album/20MU09DJjpeHTZRgUg2HCq) | 3:31 | 2025-07-10 |  |
 | [Kal](https://open.spotify.com/track/3kSt07STpxkueWtyxpmNgn) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Kal](https://open.spotify.com/album/3OKUF6esujR6iMQ1Yao2Nn) | 3:39 | 2025-08-28 | 2025-11-07 |
+| [Kal Be Gönlüm](https://open.spotify.com/track/1iUjRhPKgom5k4WgIquaXT) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kal Be Gönlüm](https://open.spotify.com/album/7CmGX5rBFbAy14XBz8yNHy) | 4:22 | 2026-10-20 |  |
 | [Kalbim Ağlama](https://open.spotify.com/track/60dY0X3oT8s8DF5ZOsJ8zJ) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Kalbim Ağlama](https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H) | 2:10 | 2024-06-27 | 2024-11-19 |
 | [Kalbimde Dikenli Teller](https://open.spotify.com/track/5JsV7S997H4gqUZJ7U0yow) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [Kalbimde Dikenli Teller](https://open.spotify.com/album/25ETW3eOPgdB6NypuzOpeX) | 4:17 | 2024-11-14 | 2025-08-12 |
 | [Kandım](https://open.spotify.com/track/3LuedX2S05DG0Cq5wwVxBX) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Kandım](https://open.spotify.com/album/1mvy62Xu6egls3dS6StBcB) | 2:51 | 2025-08-15 | 2025-08-29 |
@@ -640,7 +641,7 @@
 | [Umarım Unutmuştur](https://open.spotify.com/track/4uHd54kBsk8srZVTqaV37F) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Mona Lisa](https://open.spotify.com/album/5mWtdUlQ5hM51PFSrYuQtT) | 2:38 | 2026-02-26 | 2026-03-27 |
 | [Umrumdışı](https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Umrumdışı](https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq) | 3:38 | 2026-06-25 |  |
 | [Unutacağım](https://open.spotify.com/track/6ZB2MjZFsNukr71joHmwQd) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Unutacağım](https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB) | 2:39 | 2026-06-18 |  |
-| [Unutamadım Adını \- Akustik](https://open.spotify.com/track/4fvo2zJgYBrZyYeWxHHpDZ) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Unutamadım Adını \(Akustik\)](https://open.spotify.com/album/0W0w8T3DLuo5Kg8d5WwEYY) | 3:49 | 2026-10-06 |  |
+| [Unutamadım Adını \- Akustik](https://open.spotify.com/track/4fvo2zJgYBrZyYeWxHHpDZ) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Unutamadım Adını \(Akustik\)](https://open.spotify.com/album/0W0w8T3DLuo5Kg8d5WwEYY) | 3:49 | 2026-10-06 | 2026-10-25 |
 | [Unutamazsın](https://open.spotify.com/track/65dKYQvIz5eTTy4fqv19Ji) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Unutamazsın](https://open.spotify.com/album/43nJTaIBqv1ECCCMDFvPfv) | 2:20 | 2025-10-23 |  |
 | [Unuttum](https://open.spotify.com/track/034sApejpkdGyrn4yDdcwH) | [Baha](https://open.spotify.com/artist/2vB0YxchGzK7GpfMp4JX3w), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Unuttum](https://open.spotify.com/album/6foE1hsQFeSgekQKpjopzY) | 4:03 | 2026-05-07 | 2026-09-23 |
 | [Unutulmuyor](https://open.spotify.com/track/69WJKtNwwQ5ST9y34lpp8g) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Unutulmuyor](https://open.spotify.com/album/7md4fYG2lWiKS09tq13Ll4) | 2:52 | 2025-08-21 | 2026-02-07 |

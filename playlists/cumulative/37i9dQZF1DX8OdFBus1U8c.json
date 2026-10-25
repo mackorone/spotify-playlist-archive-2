@@ -6387,6 +6387,28 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2nvgZ7SDH8ZbxNZQFgr4P6"
+      },
+      "artists": [
+        {
+          "name": "Fazil AS",
+          "url": "https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6"
+        },
+        {
+          "name": "Abu X-wrong",
+          "url": "https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174863,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2KJeA0ITmK1p4xnA1myBWy"
+    },
+    {
+      "album": {
         "name": "Mahanubhavulu",
         "url": "https://open.spotify.com/album/4tARA48or1hm00nNyqXXBv"
       },
@@ -6824,12 +6846,12 @@
           "url": "https://open.spotify.com/artist/0hp2owGe2CjGSqXfUZkAIn"
         },
         {
-          "name": "Zbr",
-          "url": "https://open.spotify.com/artist/4aC8MoEyvf1ur6XYfOXXwq"
+          "name": "ZBR",
+          "url": "https://open.spotify.com/artist/21Abac8U0ky8PPdACWgl7z"
         },
         {
-          "name": "Jojo",
-          "url": "https://open.spotify.com/artist/01yggBC5azl1WlTHthXdth"
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/3RFxt1JnFjpFep8H9MQtd6"
         }
       ],
       "date_added": "2026-10-23",
@@ -7051,24 +7073,28 @@
     },
     {
       "album": {
-        "name": "MATHI",
+        "name": "Mathi",
         "url": "https://open.spotify.com/album/0QHj5dcaPfOmbmyAOPN96i"
       },
       "artists": [
         {
-          "name": "Jewel Rose",
-          "url": "https://open.spotify.com/artist/2TCja8S9QaSnAKsHOszihH"
+          "name": "Jewel Rose Villya",
+          "url": "https://open.spotify.com/artist/5CGBuFfZ6awGdUURFCiuZS"
         },
         {
           "name": "Paul Vimal",
           "url": "https://open.spotify.com/artist/1TXfHxvSNBkLpoI0I8UQQ0"
+        },
+        {
+          "name": "Geya George",
+          "url": "https://open.spotify.com/artist/3YXhbYsob8pxkJStggcdHS"
         }
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 93333,
-      "name": "MATHI",
+      "name": "Mathi",
       "url": "https://open.spotify.com/track/0dzrKzh4jrnzsAgwam5XNB"
     },
     {

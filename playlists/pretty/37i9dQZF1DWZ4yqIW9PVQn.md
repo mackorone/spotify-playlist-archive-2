@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 낮은 햇살과 선선한 바람, 조금 더 걷고 싶은 가을의 노래들 \(Walk home a little longer with autumn in the air and a song in your ears\) \(Cover: BABO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,691 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,692 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

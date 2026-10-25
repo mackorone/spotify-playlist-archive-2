@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAABKZFu8Aq/UHaujYxfa1ii",
+  "snapshot_id": "atqjgAAAAABGilzNssUm8eQ33UoW5aBG",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 173501,
-      "name": "Heart Donor",
-      "url": "https://open.spotify.com/track/11qws3Eq7dG4ivPK7QF6UV"
+      "duration_ms": 89977,
+      "name": "You Make Me Care More",
+      "url": "https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 201383,
-      "name": "Inyan",
-      "url": "https://open.spotify.com/track/2xHuBYAI6wxmfmYIp3zkh4"
+      "duration_ms": 247629,
+      "name": "Juaduddanya",
+      "url": "https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 89977,
-      "name": "You Make Me Care More",
-      "url": "https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA"
+      "duration_ms": 173501,
+      "name": "Heart Donor",
+      "url": "https://open.spotify.com/track/11qws3Eq7dG4ivPK7QF6UV"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 247629,
-      "name": "Juaduddanya",
-      "url": "https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK"
+      "duration_ms": 201383,
+      "name": "Inyan",
+      "url": "https://open.spotify.com/track/2xHuBYAI6wxmfmYIp3zkh4"
     },
     {
       "added_at": null,
@@ -396,29 +396,33 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "Dolphin Midwives",
-          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
         }
       ],
-      "duration_ms": 305750,
-      "name": "Hypnogogia",
-      "url": "https://open.spotify.com/track/7Iwx5gAyLH7OHfnvFqqTCu"
+      "duration_ms": 352000,
+      "name": "Observatory",
+      "url": "https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 272100,
-      "name": "Loph",
-      "url": "https://open.spotify.com/track/0amgnDpCcLGBIlEvewxQnz"
+      "duration_ms": 229418,
+      "name": "Lilieae",
+      "url": "https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l"
     },
     {
       "added_at": null,
@@ -463,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 229418,
-      "name": "Lilieae",
-      "url": "https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l"
+      "duration_ms": 272100,
+      "name": "Loph",
+      "url": "https://open.spotify.com/track/0amgnDpCcLGBIlEvewxQnz"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
       "duration_ms": 160000,
       "name": "Jeg Kan S\u00e5 Godt Li Blomster",
       "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 260199,
+      "name": "Sudany",
+      "url": "https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN"
     },
     {
       "added_at": null,
@@ -539,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 274115,
+      "name": "Begin Sync End",
+      "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -552,25 +588,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 260199,
-      "name": "Sudany",
-      "url": "https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planetes",
-        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 274115,
-      "name": "Begin Sync End",
-      "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
+      "duration_ms": 108845,
+      "name": "My River",
+      "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 108845,
-      "name": "My River",
-      "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 311077,
       "name": "Silver Age",
       "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Repair Techniques",
-        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
-        }
-      ],
-      "duration_ms": 263022,
-      "name": "Bike Sacrifice",
-      "url": "https://open.spotify.com/track/2kVlm5uFn9B47pjcZBlc7N"
     },
     {
       "added_at": null,
@@ -691,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Repair Techniques",
+        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+        }
+      ],
+      "duration_ms": 263022,
+      "name": "Bike Sacrifice",
+      "url": "https://open.spotify.com/track/2kVlm5uFn9B47pjcZBlc7N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 101775,
+      "name": "Me of Ocean",
+      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Repair Techniques",
         "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
@@ -724,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 102000,
-      "name": "Portal Of",
-      "url": "https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI"
+      "duration_ms": 230000,
+      "name": "Connotes Beauty",
+      "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
     }
   ],
   "unique_name": "This Is Sofie Birch",

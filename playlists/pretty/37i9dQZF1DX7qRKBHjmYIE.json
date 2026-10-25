@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chuwi.",
-  "num_followers": 733044,
+  "num_followers": 732961,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD8xgQfp51H0hZoevIcqMelRLt9V",
+  "snapshot_id": "AAAAALaBQYE9XelRdzXZWkEEpwZnHIO7",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:17",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
       },
@@ -863,38 +879,18 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+        "name": "Qui\u00e9reme as\u00ed",
+        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
       },
       "artists": [
         {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "aunquetelopida",
-        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
-        }
-      ],
-      "duration_ms": 180631,
-      "name": "aunquetelopida",
-      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+      "duration_ms": 211611,
+      "name": "Qui\u00e9reme as\u00ed",
+      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -915,18 +911,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "Qui\u00e9reme as\u00ed",
-        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
+        "name": "aunquetelopida",
+        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
         }
       ],
-      "duration_ms": 211611,
-      "name": "Qui\u00e9reme as\u00ed",
-      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
+      "duration_ms": 180631,
+      "name": "aunquetelopida",
+      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "venus & romeo",
-        "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 123045,
-      "name": "venus & romeo",
-      "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
         "name": "Pick Me",
         "url": "https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "venus & romeo",
+        "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 123045,
+      "name": "venus & romeo",
+      "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "RODEO CLOWN",
         "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 153764,
       "name": "RODEO CLOWN",
       "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "D U L C E",
-        "url": "https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 192195,
-      "name": "D U L C E",
-      "url": "https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+        "name": "D U L C E",
+        "url": "https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV"
       },
       "artists": [
         {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
         }
       ],
-      "duration_ms": 169446,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
+      "duration_ms": 192195,
+      "name": "D U L C E",
+      "url": "https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1215,6 +1199,22 @@
       "duration_ms": 228923,
       "name": "Space Girl",
       "url": "https://open.spotify.com/track/6lfv2xniDB0l6gCut41R4h"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 169446,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 131904,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
         "name": "otro d\u00eda m\u00e1s",
         "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 151264,
       "name": "otro d\u00eda m\u00e1s",
       "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "no te vayas",
-        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "no te vayas",
-      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
         "name": "GOLOSA",
         "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 214140,
       "name": "Mi Terraza",
       "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
+        "name": "no te vayas",
+        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "no te vayas",
+      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3f4lPLyTxihCcIjOOUsqFC"
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
       },
       "artists": [
         {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        },
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
         }
       ],
-      "duration_ms": 168330,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/4FJx8ZznIjK1ZZSBaK7aVF"
+      "duration_ms": 182167,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "Menina",
-        "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3f4lPLyTxihCcIjOOUsqFC"
       },
       "artists": [
         {
-          "name": "Nezzah",
-          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
-        },
-        {
-          "name": "ZUCO OMG",
-          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 182167,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
+      "duration_ms": 168330,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/4FJx8ZznIjK1ZZSBaK7aVF"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "En Tercera Persona",
+        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
+      },
+      "artists": [
+        {
+          "name": "More",
+          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
+        }
+      ],
+      "duration_ms": 211435,
+      "name": "En Tercera Persona",
+      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "Sensaci\u00f3n",
         "url": "https://open.spotify.com/album/4IlsDJUMB4nhLi3HPozP9H"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 209551,
       "name": "Sensaci\u00f3n",
       "url": "https://open.spotify.com/track/2eNDrODvRe4dCnxGKGEKBB"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "En Tercera Persona",
-        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
-      },
-      "artists": [
-        {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
-        }
-      ],
-      "duration_ms": 211435,
-      "name": "En Tercera Persona",
-      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
     },
     {
       "added_at": "2026-10-16 04:01:17",

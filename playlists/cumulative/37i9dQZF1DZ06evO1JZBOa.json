@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 184240,
       "name": "Senga",
       "url": "https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q"
@@ -3382,6 +3382,28 @@
       "duration_ms": 180906,
       "name": "Soul Machine",
       "url": "https://open.spotify.com/track/0MP07TNfHYY4YGGHl31AVq"
+    },
+    {
+      "album": {
+        "name": "Soul Makossa",
+        "url": "https://open.spotify.com/album/5nChqt5GfGxKcFnSlYSDcy"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187398,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/1SJ9nR9SOJGii00yV6AJaC"
     },
     {
       "album": {

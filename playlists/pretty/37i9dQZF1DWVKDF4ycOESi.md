@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Cesare Cremonini, Chris Nolan, Dominik Fike, LISA, 3D e nayt, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,063 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,043 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 20 | [Peter Pan Syndrome](https://open.spotify.com/track/4xVC1UohDxY5NrvAWyClZr) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Peter Pan Syndrome](https://open.spotify.com/album/6demjC0kDFAp07LWgXou0O) | 3:06 |
 | 21 | [A Good Day](https://open.spotify.com/track/15ZW0w1tH9njKPhGtVN6NH) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/49JAywIdpYx738F11Xouhm) | 2:31 |
 | 22 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
-| 23 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
+| 23 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
 | 24 | [Chissà come ti va \(con PRACI, Diss Gacha\)](https://open.spotify.com/track/2XpdcnIOr31g9h2p7OBwTc) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Chissà come ti va \(con PRACI, Diss Gacha\)](https://open.spotify.com/album/197o52DQgYGBIhdqcI7Jld) | 3:05 |
 | 25 | [SUL KILO](https://open.spotify.com/track/7q1jcY9S2RQw83wXopl9LB) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [SUL KILO](https://open.spotify.com/album/0NNqX9oru5jbkAXLymOeU9) | 2:57 |
 | 26 | [BARBARA](https://open.spotify.com/track/6CUXr5xJSlyzZ68YM3XCqX) | [IDRA Rxx](https://open.spotify.com/artist/21FDbAp2h7kwmaQ8yr4D1s) | [BARBARA](https://open.spotify.com/album/3Toa3gTxbToLlJjeC0YI2H) | 2:38 |

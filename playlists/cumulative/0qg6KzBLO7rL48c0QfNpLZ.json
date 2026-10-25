@@ -36907,6 +36907,28 @@
     },
     {
       "album": {
+        "name": "WILDFLOWER",
+        "url": "https://open.spotify.com/album/6lsqJ3SFEzFPpnhgBZ0uZb"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174941,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/42OP3vLGaQTAERT7IQKnCN"
+    },
+    {
+      "album": {
         "name": "Wings Of The Dawn",
         "url": "https://open.spotify.com/album/2s3mZb7HanjWOEV7fkiBSH"
       },

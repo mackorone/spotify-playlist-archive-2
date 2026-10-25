@@ -4,7 +4,7 @@
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-113 songs - 5 hr 15 min
+114 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [bloodonmyhands \(feat\. Flo Milli\)](https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:42 | 2025-02-23 |  |
 | [bloodonmyhands \(feat\. Flo Milli\)](https://open.spotify.com/track/5XEiB0fnWSZpBhE2t7sumF) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:42 | 2025-11-28 | 2026-02-26 |
 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 | 2022-10-28 | 2026-07-26 |
-| [BRUCE WAYNE \- feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/479lHLFFoTDvl4s65jNs5v) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE \(feat\. Flo Milli, ATL Jacob\)](https://open.spotify.com/album/0zFZrfVxd88xjUMbkSHynL) | 3:07 | 2026-08-02 |  |
+| [BRUCE WAYNE \- feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/3ox2P6d2I26uTHj7VPniUw) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [WATCH ME](https://open.spotify.com/album/5N8qYjbTwlroORqdMLSUJK) | 3:07 | 2026-10-25 |  |
+| [BRUCE WAYNE \- feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/479lHLFFoTDvl4s65jNs5v) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE \(feat\. Flo Milli, ATL Jacob\)](https://open.spotify.com/album/0zFZrfVxd88xjUMbkSHynL) | 3:07 | 2026-08-02 | 2026-10-25 |
 | [Buggout \(feat\. Flo Milli\)](https://open.spotify.com/track/6qLKUElUqJJgBAmzsx0wZZ) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [WickNation](https://open.spotify.com/album/7p6MfFyoH5mKgAk1uARLEO) | 2:12 | 2024-11-14 | 2024-12-20 |
 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 | 2022-10-28 |  |
 | [Buying All Black \(feat\. Flo Milli & PJ\)](https://open.spotify.com/track/10ObGiDAN6J2k60oeQ0IG8) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Buying All Black](https://open.spotify.com/album/2kao7DqNu09OPPx0djcVCo) | 2:42 | 2022-11-20 | 2024-06-16 |

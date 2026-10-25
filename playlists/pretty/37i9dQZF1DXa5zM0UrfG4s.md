@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,403 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,409 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 35 | [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 |
 | 36 | [Promiskiøs \(PM\)](https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Promiskiøs \(PM\)](https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp) | 2:33 |
 | 37 | [En dårlig idé](https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [En dårlig idé](https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy) | 2:37 |
-| 38 | [Drekke dæ fin](https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Drekke dæ fin](https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc) | 1:59 |
+| 38 | [Når tårer fell](https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Før du går](https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2) | 4:36 |
 | 39 | [Sommernatta](https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sommernatta](https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ) | 2:37 |
-| 40 | [Når tårer fell](https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Før du går](https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2) | 4:36 |
+| 40 | [Drekke dæ fin](https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Drekke dæ fin](https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc) | 1:59 |
 | 41 | [Varmt](https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Varmt](https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW) | 2:07 |
 | 42 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 |
 | 43 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 50 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 |
 | 51 | [Slåss för dig](https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Slåss för dig](https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5) | 2:11 |
 | 52 | [Hjem med dej](https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Hjem med dej](https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN) | 3:07 |
-| 53 | [Ein song som finst](https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ein song som finst](https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L) | 3:30 |
-| 54 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 |
+| 53 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 |
+| 54 | [Ein song som finst](https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ein song som finst](https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L) | 3:30 |
 | 55 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 56 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |
 | 57 | [Jeg har vært en idiot](https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Jeg har vært en idiot](https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5) | 2:29 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 62 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
 | 63 | [Vi va alt](https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Vi va alt](https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0) | 2:45 |
 | 64 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
-| 65 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
-| 66 | [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 |
+| 65 | [Når solå går ned](https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Når solå går ned](https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo) | 3:19 |
+| 66 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
 | 67 | [Polisen](https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Polisen](https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj) | 2:25 |
 | 68 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
 | 69 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |

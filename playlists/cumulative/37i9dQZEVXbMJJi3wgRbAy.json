@@ -318,7 +318,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 119378,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/5vZYjoWGmvPCtSaXwXERUk"
@@ -6182,7 +6182,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
@@ -13870,7 +13870,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 196250,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/51WfVrsmxeDYXtYcl4hxFU"
@@ -25842,7 +25842,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 298000,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
@@ -26102,7 +26102,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 164117,
       "name": "Te Entiendo",
       "url": "https://open.spotify.com/track/69CKOh2Gd9hsJSa28sKbHk"
@@ -30324,6 +30324,24 @@
       "duration_ms": 323053,
       "name": "Voy A Olvidarme De M\u00ed / P\u00eddeme La Luna / A Puro Dolor",
       "url": "https://open.spotify.com/track/0vCtPqULdUvocvVgOgm61t"
+    },
+    {
+      "album": {
+        "name": "Voy Pai",
+        "url": "https://open.spotify.com/album/7agJZEGij5CKyhfGDD9uu6"
+      },
+      "artists": [
+        {
+          "name": "Anthony MM",
+          "url": "https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Voy Pai",
+      "url": "https://open.spotify.com/track/2OCgMH4ptRYkr3X4v15tAD"
     },
     {
       "album": {

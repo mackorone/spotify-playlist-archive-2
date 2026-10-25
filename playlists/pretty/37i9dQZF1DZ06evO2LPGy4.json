@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 479210,
+  "num_followers": 479261,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAABAusz9COCU93bG4iGFXucY",
+  "snapshot_id": "atqjgAAAAAAB4/YpbaLW5fXT0vOlLp73",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Parca",
-        "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
       "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 193612,
-      "name": "La Parca",
-      "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
+      "duration_ms": 154946,
+      "name": "El Trokero Lokochon",
+      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+        "name": "La Parca",
+        "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
       },
       "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 154946,
-      "name": "El Trokero Lokochon",
-      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
+      "duration_ms": 193612,
+      "name": "La Parca",
+      "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 161132,
       "name": "Ando Bien",
       "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "El Primer Ministro (Version Deluxe)",
+        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 248453,
-      "name": "Angeles O Demonios",
-      "url": "https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83"
+      "duration_ms": 159133,
+      "name": "Soy De Durango",
+      "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Ministro (Version Deluxe)",
-        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Soy De Durango",
-      "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
+      "duration_ms": 248453,
+      "name": "Angeles O Demonios",
+      "url": "https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 209093,
-      "name": "Millones de Besos",
-      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
+      "duration_ms": 158373,
+      "name": "Lider Del Genocidio",
+      "url": "https://open.spotify.com/track/0E2WszOuFf5OhFy3WQD0Mu"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
       "artists": [
         {
@@ -740,29 +740,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Lider Del Genocidio",
-      "url": "https://open.spotify.com/track/0E2WszOuFf5OhFy3WQD0Mu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Moneda (feat. Gerardo Ortiz)",
-      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
+      "duration_ms": 209093,
+      "name": "Millones de Besos",
+      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
       "duration_ms": 152200,
       "name": "Andamos Recio",
       "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Moneda (feat. Gerardo Ortiz)",
+      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
     },
     {
       "added_at": null,

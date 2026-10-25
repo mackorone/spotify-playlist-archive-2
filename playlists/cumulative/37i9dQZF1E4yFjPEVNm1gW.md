@@ -2,7 +2,7 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Autumn!, Cuo Zay and more
+> With Yeat, Cuo Zay, Autumn! and more
 
 352 songs - 13 hr 42 min
 
@@ -19,7 +19,7 @@
 | [Advance](https://open.spotify.com/track/5s0cZYHGaWUEhn6mF4BEjC) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Advance](https://open.spotify.com/album/01nJqm7zhHdkuZc19VxNpv) | 1:50 | 2026-09-20 | 2026-10-07 |
 | [AIN'T HEARD KAP!](https://open.spotify.com/track/3ZgxCyTqQFZFT71N0Y3jW6) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [OTB](https://open.spotify.com/album/0NRSl9Co78mAedta6G2126) | 2:00 | 2026-09-27 | 2026-10-14 |
 | [Ain't No Love \(feat\. BabyChiefDoit & BAK Jay\)](https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Big Ah Kidz](https://open.spotify.com/album/0S6JdLMY0py4wBLkKfZfLO) | 4:00 | 2025-12-27 | 2026-08-12 |
-| [Air Bender](https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8) | [10cellphones](https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv) | [Everybody Hates 10](https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1) | 1:46 | 2026-01-15 |  |
+| [Air Bender](https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8) | [10cellphones](https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv) | [Everybody Hates 10](https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1) | 1:46 | 2026-01-15 | 2026-10-25 |
 | [All By Myself](https://open.spotify.com/track/7JZyUe08HBXocrXFTS23Lg) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [All By Myself](https://open.spotify.com/album/2Z0ec3YGElJ1TrC1KBBbbt) | 2:22 | 2026-05-23 | 2026-06-18 |
 | [ALL GAS](https://open.spotify.com/track/2MfwayYnuhYLwVX9Ay0QX5) | [Young Bull](https://open.spotify.com/artist/0yLhgkdIdnEKAOJ89nmfmX) | [TROPHY SZN](https://open.spotify.com/album/1GtrnOgvwYZLrJbhWSELig) | 2:17 | 2025-11-29 | 2025-12-07 |
 | [All Manz Dead](https://open.spotify.com/track/7CSWfxFVRF3fobvMVJGaJF) | [YBD Zaza](https://open.spotify.com/artist/1UbWoIMdH8nEuPdBzwsrxc), [YBD 50](https://open.spotify.com/artist/0AcuuM3CtjEwyjMwbulmHO), [YBD Wawa](https://open.spotify.com/artist/37dUASFevZBD7WSrxNc9Mp) | [All Manz Dead](https://open.spotify.com/album/09qg6HjMTjHMVZpAOWnN3j) | 2:52 | 2025-12-01 | 2025-12-08 |
@@ -87,7 +87,7 @@
 | [dookie](https://open.spotify.com/track/1AomQIauqXD5c6jpI18l8v) | [rseskii](https://open.spotify.com/artist/4KndFRSXIzFVbypa6yKCWh) | [dookie](https://open.spotify.com/album/2mrDKY2bOnxJASxQfrh9XX) | 2:55 | 2026-08-08 | 2026-08-10 |
 | [Dosin Ina Cat](https://open.spotify.com/track/5PpDV6JnbgVnacHK8F6W0a) | [SRT Len](https://open.spotify.com/artist/76KHsd3jS3Dp4FJhMLF4HH), [Ant3x](https://open.spotify.com/artist/5jJ8bLH8mcmfOqSAEm5ndY) | [Lost Files](https://open.spotify.com/album/3qad7M3kHg1OtqzBTWS28B) | 3:34 | 2026-10-10 | 2026-10-18 |
 | [Double Trouble](https://open.spotify.com/track/5U4gWtfgt9uddsz73UeDFj) | [bloxkz](https://open.spotify.com/artist/2EwoGXPSiIj22fOW34RJsw), [Kyi Torch](https://open.spotify.com/artist/0tB0LU32h2aTsXJH0Y8mMS) | [Double Trouble](https://open.spotify.com/album/5Mqq72DjK0WOPaa9mTheuJ) | 2:18 | 2026-06-19 | 2026-07-10 |
-| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 | 2026-09-30 |
+| [drama queen](https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [heartpacing](https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z) | 1:42 | 2026-01-18 |  |
 | [DRIVE BYE](https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa) | [Jflexxx](https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR) | [DRIVE BYE](https://open.spotify.com/album/19fAAO4PeRKrgvYDfmxtbm) | 2:02 | 2026-08-25 | 2026-09-25 |
 | [Drugs And Pretty Girls](https://open.spotify.com/track/1mKC9dh2Ly6Vmzu6KfmLZS) | [babygeo](https://open.spotify.com/artist/0AanX5CfD9V7K2SZenwhsc) | [RUINS](https://open.spotify.com/album/3s637sjUEzCxplSTHOz9gW) | 3:07 | 2026-02-26 | 2026-04-24 |
 | [DUNK LIKE JAMES](https://open.spotify.com/track/2VIihA4EmIHSdlKilWexqL) | [CMTG MAK](https://open.spotify.com/artist/5k62hWigcErgeoNHuwBevZ), [CMTG LICO](https://open.spotify.com/artist/35sYcgvtNyDJjwuZNWhXOl) | [DUNK LIKE JAMES](https://open.spotify.com/album/60NkYVji2ksLZgvDUHcLqd) | 2:06 | 2026-03-17 | 2026-03-27 |

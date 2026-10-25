@@ -445,6 +445,32 @@
     },
     {
       "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "100 Tranen",
+      "url": "https://open.spotify.com/track/4X83nojxb3Bvr3eyhEknmG"
+    },
+    {
+      "album": {
         "name": "100 Tranen",
         "url": "https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F"
       },
@@ -464,7 +490,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 156800,
       "name": "100 Tranen",
       "url": "https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M"
@@ -17137,6 +17163,24 @@
     },
     {
       "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143684,
+      "name": "Geen Lovesong",
+      "url": "https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO"
+    },
+    {
+      "album": {
         "name": "Gek Op Jou (feat. Koen)",
         "url": "https://open.spotify.com/album/3U0ck9Ps7JzuRPN6eNFeNC"
       },
@@ -20740,7 +20784,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 158666,
       "name": "Hoog",
       "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
@@ -22795,6 +22839,28 @@
     },
     {
       "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134437,
+      "name": "Ik Haat Je",
+      "url": "https://open.spotify.com/track/5rYG8gLRdHOyy5BZg8jPBP"
+    },
+    {
+      "album": {
         "name": "Ik Haat Je",
         "url": "https://open.spotify.com/album/2KYisYmKm6X6vPqBWZzMMm"
       },
@@ -22810,7 +22876,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 134437,
       "name": "Ik Haat Je",
       "url": "https://open.spotify.com/track/6585feosjoM8XJYrKDMHAi"
@@ -23858,7 +23924,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -24468,6 +24534,28 @@
       "duration_ms": 173629,
       "name": "Je Wilde Alleen Maar Prada",
       "url": "https://open.spotify.com/track/2YIsKRTXxzQXnwkabiUjf9"
+    },
+    {
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129452,
+      "name": "Jecko",
+      "url": "https://open.spotify.com/track/4k8Ol9NjOAWIDIu2PXbICw"
     },
     {
       "album": {
@@ -25990,6 +26078,24 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "album": {
+        "name": "Kom Naar Huis",
+        "url": "https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl"
+      },
+      "artists": [
+        {
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "Kom Naar Huis",
+      "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
     },
     {
       "album": {
@@ -33022,7 +33128,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -35924,7 +36030,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -38556,7 +38662,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
@@ -41832,7 +41938,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 177760,
       "name": "So Incredible",
       "url": "https://open.spotify.com/track/1aYBIcbgnye5b0MjcYXoou"
@@ -42132,6 +42238,28 @@
       "duration_ms": 185532,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6nfstbq2klVzE3czDxqVTe"
+    },
+    {
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133584,
+      "name": "Spaarpot",
+      "url": "https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM"
     },
     {
       "album": {
@@ -42514,6 +42642,28 @@
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "album": {
+        "name": "SRRY",
+        "url": "https://open.spotify.com/album/6F7axLlLeeN3bHaL2btEKP"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194010,
+      "name": "SRRY",
+      "url": "https://open.spotify.com/track/2lGnl3YSGwG5glYC4l7Jxv"
     },
     {
       "album": {
@@ -51588,6 +51738,24 @@
       "duration_ms": 185581,
       "name": "Winterbanden",
       "url": "https://open.spotify.com/track/0S1jSwK33ilIaRwmPlWnvV"
+    },
+    {
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88518,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/6myzLix7pWytIA7Y9YvwXp"
     },
     {
       "album": {

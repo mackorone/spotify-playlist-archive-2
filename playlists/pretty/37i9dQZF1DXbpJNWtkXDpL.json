@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93970,
+  "num_followers": 93961,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "LOBO",
-        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "LOBO",
-      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
         "name": "El Primer Album de Low Clika",
         "url": "https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 149627,
       "name": "Wow",
       "url": "https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
+        "name": "LOBO",
+        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "URUS",
         "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 146865,
       "name": "URUS",
       "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "ETHEREA",
-        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 224416,
-      "name": "Encu\u00e9ntrame en Tokio",
-      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "ati!",
-        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
-      },
-      "artists": [
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "ati!",
-      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
         "name": "Mirando desde afuera",
         "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 203750,
       "name": "Mirando desde afuera",
       "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
+        "name": "ati!",
+        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "ati!",
+      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/4PxYN3bvj1bzI8yldB8X0d"
+        "name": "mirar adentro",
+        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
       },
       "artists": [
         {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        },
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 167892,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/4qMjLFddlhMDlSsjhoxvrx"
+      "duration_ms": 209382,
+      "name": "mirar adentro",
+      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "mirar adentro",
-        "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/4PxYN3bvj1bzI8yldB8X0d"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
         }
       ],
-      "duration_ms": 209382,
-      "name": "mirar adentro",
-      "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
+      "duration_ms": 167892,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/4qMjLFddlhMDlSsjhoxvrx"
     },
     {
       "added_at": "2026-10-16 06:00:29",

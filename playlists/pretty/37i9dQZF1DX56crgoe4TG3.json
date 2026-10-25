@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 287284,
+  "num_followers": 287311,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -831,30 +831,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
-      },
-      "artists": [
-        {
-          "name": "Julia DiGrazia",
-          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
-        },
-        {
-          "name": "Sierra Carson",
-          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
-        },
-        {
-          "name": "Kylie Spence",
-          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
-        }
-      ],
-      "duration_ms": 187924,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
@@ -891,6 +867,30 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
+      },
+      "artists": [
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        },
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        },
+        {
+          "name": "Kylie Spence",
+          "url": "https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a"
+        }
+      ],
+      "duration_ms": 187924,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 289196,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -927,22 +943,6 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "In Tall Buildings",
         "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 208026,
       "name": "In Tall Buildings",
       "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
+      },
+      "artists": [
+        {
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
+        }
+      ],
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Family, Friends & Heroes",
         "url": "https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 304333,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
     },
     {
       "added_at": "2026-08-21 04:02:18",

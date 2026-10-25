@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "ReWiggled: The Classics",
+        "url": "https://open.spotify.com/album/3bMUfA7L5ixLdo86uCyvtq"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/6LZx6rOHE8s2oHC7Fb6jpG"
+    },
+    {
+      "album": {
         "name": "Everything is Tenuous",
         "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },

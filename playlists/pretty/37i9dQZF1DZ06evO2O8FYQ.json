@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADTv1ZBLrrKsXlYmxbDioF6",
+  "snapshot_id": "atqjgAAAAABt+M3lgIkbuL/klOy8Ep3i",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Derail",
-      "url": "https://open.spotify.com/track/48bAOPXsasZVoA96Tihzdo"
+      "duration_ms": 211106,
+      "name": "Peninsula",
+      "url": "https://open.spotify.com/track/0xP7KHjAjhW9rHDbT2lFnm"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 211106,
-      "name": "Peninsula",
-      "url": "https://open.spotify.com/track/0xP7KHjAjhW9rHDbT2lFnm"
+      "duration_ms": 211573,
+      "name": "Derail",
+      "url": "https://open.spotify.com/track/48bAOPXsasZVoA96Tihzdo"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 210720,
-      "name": "Love to Hate Me",
-      "url": "https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ"
+      "duration_ms": 240280,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ"
     },
     {
       "added_at": null,
@@ -500,6 +500,22 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
+      "duration_ms": 210720,
+      "name": "Love to Hate Me",
+      "url": "https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
       "duration_ms": 213066,
       "name": "Broken Knee",
       "url": "https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0"
@@ -519,22 +535,6 @@
       "duration_ms": 320706,
       "name": "Hey Man (Home You Ruin)",
       "url": "https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ"
     },
     {
       "added_at": null,

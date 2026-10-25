@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 114920,
       "name": "A Life Apart",
       "url": "https://open.spotify.com/track/7DWCtu846C9kSdacjgLycc"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 84650,
       "name": "Arriving to Ginny's Farm",
       "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 83293,
       "name": "Big City Train",
       "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 103773,
       "name": "Coronation Preparation",
       "url": "https://open.spotify.com/track/1TokrhVLMqY6qbL0zkdPx2"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 47866,
       "name": "Crab Fishing",
       "url": "https://open.spotify.com/track/1EKBIa8fnpuyXqLtb9kTf8"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 71400,
       "name": "George And Doris",
       "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 69560,
       "name": "Ginny Sees the Light",
       "url": "https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 200093,
       "name": "Ljuset",
       "url": "https://open.spotify.com/track/4vFaOM4nw2Fa6o21BibzZm"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 61066,
       "name": "Meatball Monkey",
       "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
@@ -2392,6 +2392,24 @@
       "duration_ms": 74173,
       "name": "Parapata Vista",
       "url": "https://open.spotify.com/track/2dIqxzKX1qYk3NmDv07V52"
+    },
+    {
+      "album": {
+        "name": "The Music of EPCOT",
+        "url": "https://open.spotify.com/album/4gJYiyg6czbM00sdzbc8r2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124626,
+      "name": "Remember Me - From \"Mexico Pavilion (Area Music)\"",
+      "url": "https://open.spotify.com/track/3Qn00omn52vQ7J6VDy7fXD"
     },
     {
       "album": {
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 140160,
       "name": "Ted's Stuck In A Tree",
       "url": "https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 93546,
       "name": "Ted's TV Realization",
       "url": "https://open.spotify.com/track/3Z3OztSmMX5Jda6VcevoQQ"
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 119240,
       "name": "The Landscape Medley",
       "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 47800,
       "name": "The Porcupine Song",
       "url": "https://open.spotify.com/track/55l2zVDdCDWGDg8oMBn3DH"
@@ -3066,7 +3084,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 143946,
       "name": "The Stampede",
       "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 130640,
       "name": "Wizja",
       "url": "https://open.spotify.com/track/1eOpOVtylL5ScWpiIpA71m"
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 200093,
       "name": "\u015awieca",
       "url": "https://open.spotify.com/track/4wgl1FUAk9r7YoZFFXoHcg"

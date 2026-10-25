@@ -1,12 +1,12 @@
 {
   "description": "Nieuw: Qlas, The Opposites, LISA, Bente, Jan Smit en meer..\n",
-  "num_followers": 302252,
+  "num_followers": 302240,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABvnG4hM7JG5ed0dF3iCULY0kEa5",
+  "snapshot_id": "AAAAABCtOQEsx2FEcVSCD2casrQD91xG",
   "tracks": [
     {
       "added_at": "2026-10-22 22:00:52",
@@ -707,6 +707,26 @@
       "duration_ms": 212571,
       "name": "Just Might Go (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+    },
+    {
+      "added_at": "2026-10-24 10:08:32",
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "duration_ms": 133584,
+      "name": "Spaarpot",
+      "url": "https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM"
     },
     {
       "added_at": "2026-10-22 22:00:52",

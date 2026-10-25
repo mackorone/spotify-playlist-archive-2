@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3592830,
+  "num_followers": 3593398,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAB8TqexSi3887GzlBg87Rno",
+  "snapshot_id": "atqjgAAAAAA2uCPRdZQjCTV03cJz5Jtj",
   "tracks": [
     {
       "added_at": null,
@@ -706,15 +706,11 @@
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 277842,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
+      "duration_ms": 344185,
+      "name": "Stranger in Moscow",
+      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
     },
     {
       "added_at": null,
@@ -778,11 +774,15 @@
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 344185,
-      "name": "Stranger in Moscow",
-      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
+      "duration_ms": 277842,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
     },
     {
       "added_at": null,

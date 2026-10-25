@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADJsyEPuHCMjfC7Qk+mVpOD",
+  "snapshot_id": "atqjgAAAAADCc3/PITeWsoO3+ipOrvo/",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 70187,
-      "name": "They Are Betrothed - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/1fIWLNtT0o5GEAPMUaxa2F"
+      "duration_ms": 126960,
+      "name": "I Love You - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/5oc5ZvJpEVHlxgOJYjnUr7"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 126960,
-      "name": "I Love You - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/5oc5ZvJpEVHlxgOJYjnUr7"
+      "duration_ms": 70187,
+      "name": "They Are Betrothed - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1fIWLNtT0o5GEAPMUaxa2F"
     },
     {
       "added_at": null,
@@ -223,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
       },
       "artists": [
         {
           "name": "Kris Bowers",
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        },
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 224500,
-      "name": "A Feeling I've Never Been",
-      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
+      "duration_ms": 92146,
+      "name": "Grim Grinning Ghosts (Dance Party)",
+      "url": "https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ"
     },
     {
       "added_at": null,
@@ -291,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
       },
       "artists": [
         {
           "name": "Kris Bowers",
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 92146,
-      "name": "Grim Grinning Ghosts (Dance Party)",
-      "url": "https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ"
+      "duration_ms": 224500,
+      "name": "A Feeling I've Never Been",
+      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
     },
     {
       "added_at": null,

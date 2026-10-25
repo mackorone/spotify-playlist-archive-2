@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 594481,
+  "num_followers": 594516,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAANfN5CWCWdT+EXL90e8tTG",
+  "snapshot_id": "atqjgAAAAABvDPtIjMdWSKSMi4rJDGtE",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 201387,
-      "name": "Lay, Lady, Lay",
-      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+      "duration_ms": 326706,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 326706,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+      "duration_ms": 201387,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
       "added_at": null,
@@ -167,26 +167,6 @@
       "duration_ms": 191683,
       "name": "The Man in Me",
       "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 224153,
-      "name": "Girl from the North Country",
-      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
     },
     {
       "added_at": null,
@@ -223,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 224153,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan's Greatest Hits",
-        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Positively 4th Street",
-      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 300862,
       "name": "Shelter from the Storm",
       "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Dylan's Greatest Hits",
+        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Positively 4th Street",
+      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Side Of Bob Dylan",
-        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 257713,
       "name": "Simple Twist of Fate",
       "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Side Of Bob Dylan",
+        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 212963,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infidels",
-        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 378398,
-      "name": "Jokerman",
-      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 280305,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infidels",
+        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 378398,
+      "name": "Jokerman",
+      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 203259,
-      "name": "Tonight I'll Be Staying Here with You",
-      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 210188,
       "name": "Highway 61 Revisited",
       "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 203259,
+      "name": "Tonight I'll Be Staying Here with You",
+      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 331168,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 357546,
       "name": "Ballad of a Thin Man",
       "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 331168,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 419189,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 249116,
       "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
       "url": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 419189,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
     },
     {
       "added_at": null,

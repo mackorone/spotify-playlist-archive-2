@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1068370,
+  "num_followers": 1068343,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "The Last Season of America",
         "url": "https://open.spotify.com/album/5KP5qRIWaVzDdC3tcWvgyv"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 260938,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/7fHTwRhv6K9xyi01H92Ts2"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Ohio Players",
-        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 147985,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "In The Pines",
+        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 210504,
+      "name": "In The Pines",
+      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "In The Pines",
-        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
+        "name": "LONG WAY FROM THE BOTTOM",
+        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
         }
       ],
-      "duration_ms": 210504,
-      "name": "In The Pines",
-      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
+      "duration_ms": 153730,
+      "name": "LONG WAY FROM THE BOTTOM",
+      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -679,22 +695,6 @@
       "duration_ms": 234808,
       "name": "One Day Away",
       "url": "https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "LONG WAY FROM THE BOTTOM",
-        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 153730,
-      "name": "LONG WAY FROM THE BOTTOM",
-      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Fussing and Fighting",
-        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 254320,
-      "name": "Fussing and Fighting",
-      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 296380,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Fussing and Fighting",
+        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "Fussing and Fighting",
+      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -995,34 +995,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
-        "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        },
-        {
-          "name": "Henry Kapono",
-          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Mick Fleetwood",
-          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
-        }
-      ],
-      "duration_ms": 257814,
-      "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
-      "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Let It Die Here",
         "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
       },
@@ -1055,6 +1027,34 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
+        "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        },
+        {
+          "name": "Henry Kapono",
+          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "duration_ms": 257814,
+      "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
+      "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Wheel Inside A Well",
-        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
+        "name": "Watch Me Gone",
+        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
       },
       "artists": [
         {
-          "name": "Pressing Strings",
-          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 242103,
-      "name": "Wheel Inside A Well",
-      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
+      "duration_ms": 302346,
+      "name": "Watch Me Gone",
+      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Watch Me Gone",
-        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+        "name": "Wheel Inside A Well",
+        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Pressing Strings",
+          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
         }
       ],
-      "duration_ms": 302346,
-      "name": "Watch Me Gone",
-      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+      "duration_ms": 242103,
+      "name": "Wheel Inside A Well",
+      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Turn Me In",
-        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
-      },
-      "artists": [
-        {
-          "name": "Leon Majcen",
-          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Turn Me In",
-      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Shoulda Been",
         "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 157125,
       "name": "Man I Used To Be",
       "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Turn Me In",
+        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Turn Me In",
+      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
-      },
-      "artists": [
-        {
-          "name": "The Imaginaries",
-          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
+      },
+      "artists": [
+        {
+          "name": "The Imaginaries",
+          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Million Voices Whisper (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 261760,
       "name": "Back Where I Started",
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Love in the Lead",
-        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
       },
       "artists": [
         {
-          "name": "Ivan Hartle",
-          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         }
       ],
-      "duration_ms": 195885,
-      "name": "Love in the Lead",
-      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1403,6 +1387,22 @@
       "duration_ms": 219453,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Love in the Lead",
+        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+      },
+      "artists": [
+        {
+          "name": "Ivan Hartle",
+          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+        }
+      ],
+      "duration_ms": 195885,
+      "name": "Love in the Lead",
+      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Roots & Wings",
+      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 159007,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Roots & Wings",
-        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
-      },
-      "artists": [
-        {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Roots & Wings",
-      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "What Good Is My Love?",
         "url": "https://open.spotify.com/album/1Jno4Yu87PMgGpMQ1uSkvc"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 213733,
       "name": "What Good Is My Love?",
       "url": "https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
-      },
-      "artists": [
-        {
-          "name": "Jovin Webb",
-          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2026-09-18 04:01:42",

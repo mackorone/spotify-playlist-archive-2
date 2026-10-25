@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319679,
+  "num_followers": 319673,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "AAAAAAyrcghdEzd/C6/qATrpag6OSh6p",
   "tracks": [
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "Celebridade",
+        "url": "https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Amor de Fim de Noite",
+      "url": "https://open.spotify.com/track/1Nmcs8zk7LfcvHRgLtTM5J"
+    },
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 184841,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
-        "name": "Celebridade",
-        "url": "https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Amor de Fim de Noite",
-      "url": "https://open.spotify.com/track/1Nmcs8zk7LfcvHRgLtTM5J"
     },
     {
       "added_at": "2026-09-10 03:01:30",

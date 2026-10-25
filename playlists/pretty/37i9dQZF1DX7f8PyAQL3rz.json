@@ -1,12 +1,12 @@
 {
   "description": "salgada a pista t\u00e1, n\u00e9? \ud83c\udf1a",
-  "num_followers": 1428497,
+  "num_followers": 1428371,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIGNY65n7adFkcdJY+unkGr2SKW7",
+  "snapshot_id": "AAAAANnXhfv6VMBY+wnk74TiElPfztJW",
   "tracks": [
     {
       "added_at": "2026-10-16 03:01:04",
@@ -747,6 +747,30 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
+        "name": "Depois Desse Show",
+        "url": "https://open.spotify.com/album/0TUgdpPbD2eWUpzM5MHUQ5"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Depois Desse Show",
+      "url": "https://open.spotify.com/track/0H1CU3L4ATZ5yfQOdwVPw0"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
         "name": "Dentro Da SUV",
         "url": "https://open.spotify.com/album/5PNgf72QKLaytkj4Rucouh"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 177828,
       "name": "Dentro Da SUV",
       "url": "https://open.spotify.com/track/5URD5SYQH1QWxurojwaa8R"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
-        "name": "Depois Desse Show",
-        "url": "https://open.spotify.com/album/0TUgdpPbD2eWUpzM5MHUQ5"
-      },
-      "artists": [
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Stick",
-          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Depois Desse Show",
-      "url": "https://open.spotify.com/track/0H1CU3L4ATZ5yfQOdwVPw0"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -871,30 +871,6 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
         "name": "GLA",
         "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 201904,
       "name": "GLA",
       "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
-        "name": "Como se fosse a primeira vez",
-        "url": "https://open.spotify.com/album/4tjnz67k45Eqp7iF98Qk6r"
-      },
-      "artists": [
-        {
-          "name": "San Joe",
-          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
-        },
-        {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
-        },
-        {
-          "name": "Alice Baia",
-          "url": "https://open.spotify.com/artist/59dNbVAqM7vXGCaHW6jZlA"
-        }
-      ],
-      "duration_ms": 162442,
-      "name": "Sacanagem",
-      "url": "https://open.spotify.com/track/5VIBpPgjrTk1KoFxSj5G5b"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
         "name": "N\u00f3is Ta Diferente",
         "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
       },
@@ -1535,6 +1511,30 @@
       "duration_ms": 162317,
       "name": "Na Onde N\u00f3is Mora",
       "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "Como se fosse a primeira vez",
+        "url": "https://open.spotify.com/album/4tjnz67k45Eqp7iF98Qk6r"
+      },
+      "artists": [
+        {
+          "name": "San Joe",
+          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        },
+        {
+          "name": "Alice Baia",
+          "url": "https://open.spotify.com/artist/59dNbVAqM7vXGCaHW6jZlA"
+        }
+      ],
+      "duration_ms": 162442,
+      "name": "Sacanagem",
+      "url": "https://open.spotify.com/track/5VIBpPgjrTk1KoFxSj5G5b"
     },
     {
       "added_at": "2026-10-16 03:01:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,777 songs - 6 day 17 hr 45 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 357 likes - 2,783 songs - 6 day 18 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2615,7 +2615,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2605 | [Vuelve a Ser Inevitable](https://open.spotify.com/track/7yA2MCUQtsloL6JXtoLa6U) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:20 |
 | 2606 | [Burn the Cape](https://open.spotify.com/track/43mTDEuznSLj3yfeoMPo26) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [Night Drive](https://open.spotify.com/album/6L46uFh62f61tnvmmCuIie) | 2:24 |
 | 2607 | [Do I mean anything to U](https://open.spotify.com/track/2H5k3peC3z5uLNHtWN61yp) | [Saes](https://open.spotify.com/artist/3F2WIaenzW5MGMMdS0wLMK), [VonnieRage](https://open.spotify.com/artist/3PAZSvKMQTTXKXZYDF4VtW) | [Do I mean anything to U](https://open.spotify.com/album/2qykr7BO1DvTAR8iE5Ck84) | 1:54 |
-| 2608 | [Any Longer](https://open.spotify.com/track/1JJfU6CF9IW0JDzdx3ygKw) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 4:17 |
+| 2608 | [Any Longer](https://open.spotify.com/track/1JJfU6CF9IW0JDzdx3ygKw) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:34 |
 | 2609 | [simple f](https://open.spotify.com/track/4bwUkCXjhmsadzDCiz82i8) | [Yoshiima](https://open.spotify.com/artist/48fEOLS4GSW3OCYp26Vgoi) | [together](https://open.spotify.com/album/2H8rc7wQHouxVy155La6pr) | 1:32 |
 | 2610 | [Liima](https://open.spotify.com/track/2rDKQMgRLXbnpWBkvz6G5x) | [Yoshiima](https://open.spotify.com/artist/48fEOLS4GSW3OCYp26Vgoi) | [Cph Chill\#1 Summer 2019](https://open.spotify.com/album/43YqpTSjd1IaVxbERSCfvG) | 1:07 |
 | 2611 | [fringed](https://open.spotify.com/track/5l9wmIkbbdRgp1vxFdCOaN) | [Kwaiwon](https://open.spotify.com/artist/7AjMEXU9E9HzriL8YN3Puk) | [Cph Chill\#1 Summer 2019](https://open.spotify.com/album/43YqpTSjd1IaVxbERSCfvG) | 1:47 |
@@ -2785,5 +2785,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2775 | [Wake up sunshine](https://open.spotify.com/track/0FfEQq0Z4iJDQV2Y2TPlQL) | [Lonely Days For](https://open.spotify.com/artist/4yTcl4GvLCu068IP0chIQw) | [Wake up sunshine](https://open.spotify.com/album/5sqpzDn7ZsqBVXfMoOd2z6) | 1:34 |
 | 2776 | [Ritmo Latino](https://open.spotify.com/track/1VYI8yJs9WJsWoQmxIP1OV) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Ritmo Latino](https://open.spotify.com/album/3StjamvQhsKPUSJYODixCp) | 3:33 |
 | 2777 | [Vida Cigana](https://open.spotify.com/track/7tJRonX2GXkrBTnyKXYRsh) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Vida Cigana](https://open.spotify.com/album/1D6ElPRfePxhxtyEnM3xB4) | 2:57 |
+| 2778 | [Tiny Feet](https://open.spotify.com/track/0LesInaUbkAUADDOMNBSa4) | [David Leon](https://open.spotify.com/artist/6RcjcvO0GiOUK7Ts39wb97) | [Tiny Feet](https://open.spotify.com/album/3sxAptehgzCKXKoRnm9hur) | 4:24 |
+| 2779 | [Juste toi et moi](https://open.spotify.com/track/1LWxT9QZxKNnvGtIOsj4FR) | [NiNNa](https://open.spotify.com/artist/37TyeRjAfWXVMFFTdaoC4P) | [Juste toi et moi](https://open.spotify.com/album/05SPS4LqyfdaoXbpDE6Scs) | 3:31 |
+| 2780 | [Red Light Haze](https://open.spotify.com/track/6DrR0GIhumB1G1FHQmeBJh) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 4:30 |
+| 2781 | [Tricked Out](https://open.spotify.com/track/4Zirs5TtsAEC9Gc9Pc4Dju) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 6:43 |
+| 2782 | [Sick Streets](https://open.spotify.com/track/7zVmHW9RwxkJN5QhWEWMgx) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 5:47 |
+| 2783 | [No Way Back](https://open.spotify.com/track/2NpztJ7N8D9Zi62bnd5QHZ) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 6:59 |
 
-Snapshot ID: `AAAL3f7eXwxrqkEHSU2eg4LL/yeYmk/M`
+Snapshot ID: `AAAL5CT/UtECacBND0GbR7B7mCUJFACE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,102 likes - 240 songs - 12 hr 29 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,106 likes - 249 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,5 +248,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 238 | [Zapatos rojos \(Tropical Mix\)](https://open.spotify.com/track/0hNhWC7bbvxODzBpB00KXk) | [Arturo Papan](https://open.spotify.com/artist/3SBXbHfsR3uWMZb2qGIhjx) | [Sinfonía de Amor](https://open.spotify.com/album/6z05tD7cs1WgiJNVtTXIMV) | 3:49 |
 | 239 | [The Soul's Release](https://open.spotify.com/track/2ZaYzhdgWWKTDqeY05p9RS) | [Magdi Aboul\-Kheir](https://open.spotify.com/artist/1c08FX1SRwfw1pxUc32dTB) | [The Soul's Release](https://open.spotify.com/album/00Wcf6VywmFxkZ94s4lN9L) | 3:53 |
 | 240 | [Jedno Serce](https://open.spotify.com/track/6fCyqpJCOAJTMvwtcW0e5q) | [Rafael](https://open.spotify.com/artist/2LeMZb60ezA1c1rEHouIqO) | [Jedno Serce](https://open.spotify.com/album/2GbCKAuUlpiCljzf7kX01p) | 2:58 |
+| 241 | [Do\-Over](https://open.spotify.com/track/1YJ3zTjKvYrPwNV1EdCtn7) | [Alessandro Ciminata](https://open.spotify.com/artist/2dUzpcaCyW2RWTNrlv3Sjv) | [Do\-Over](https://open.spotify.com/album/1TgQo2IG7BtEdjrpx8pLby) | 3:03 |
+| 242 | [I washed the color out of my clothes](https://open.spotify.com/track/76MLAM3hyr5IVGDNdXe8eY) | [Rüzgar Sarıbudak](https://open.spotify.com/artist/1iqytSAUNRdRXNlThwyu4F) | [I washed the color out of my clothes](https://open.spotify.com/album/5VRKvZx7DNSXrym9pYXOeb) | 3:09 |
+| 243 | [Bad Habit](https://open.spotify.com/track/2nCjaJsX266flrDJcS7TEZ) | [DJ Felix aka L.P.](https://open.spotify.com/artist/0pcy8KMXJ2VbPrMulLE0XL) | [Bad Habit](https://open.spotify.com/album/1CAxfVfoFrBY0VZ0xU7nxR) | 3:04 |
+| 244 | [Coffe First](https://open.spotify.com/track/2xVEsSpLkXS9ExJFOYfxFI) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Coffe First](https://open.spotify.com/album/429UuGShlSuyAiQvHkQGT3) | 3:11 |
+| 245 | [Kept It All Inside](https://open.spotify.com/track/2vdZSiQSBouFj4syQ4E3cC) | [Grace Cope](https://open.spotify.com/artist/5YC6ZLZwQr250af5fEZv3r) | [Kept It All Inside](https://open.spotify.com/album/0Q95Ii1znsBOUkxPS2py1H) | 2:58 |
+| 246 | [Closer than I want](https://open.spotify.com/track/3qF9qRNs1oNai0v3vDfPMM) | [Gadir](https://open.spotify.com/artist/5OETPu2nXzwWkBbabbissm) | [Closer than I want](https://open.spotify.com/album/73HhIjW3ktjeoXHPPFw0lc) | 4:32 |
+| 247 | [Pizza on the Record Player](https://open.spotify.com/track/6gD15ncSw5PzUDDzCO1uWe) | [Ribbit Ribbit](https://open.spotify.com/artist/36wVtqf5hNEFYsC9ObHis3) | [Pizza on the Record Player](https://open.spotify.com/album/1DXhPzfAKG7LCmvA4HEkw7) | 2:06 |
+| 248 | [Do You Wanna Dance](https://open.spotify.com/track/3ZB247yELgTiJojUJLOJvh) | [Garrett Riley](https://open.spotify.com/artist/6MRRcFLKdF5MaufudLHcU2) | [Do You Wanna Dance](https://open.spotify.com/album/5V0AwGTGnUXfbIgt9VIA95) | 3:16 |
+| 249 | [Final Destination](https://open.spotify.com/track/5ACrEUvL3pVksyGCZZm62Q) | [Karl Scarisbrick](https://open.spotify.com/artist/0FAH7EUJnh23b5ovFDfc64) | [Final Destination](https://open.spotify.com/album/53DcM7hhiDy7BYoIQWfmhg) | 2:22 |
 
-Snapshot ID: `AAA9a4kpDJ0qqY9TzToc6IYDXgwMN0xq`
+Snapshot ID: `AAA9dPKnQpIPfxbQ6SlWO8pckeKMA+e/`

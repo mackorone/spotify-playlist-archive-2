@@ -4,10 +4,11 @@
 
 > Chill techno, melodic house and tech house.
 
-812 songs - 3 day 2 hr 56 min
+813 songs - 3 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [17](https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Mario Eighta](https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m) | [17](https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn) | 2:45 | 2026-10-23 |  |
 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 | 2024-09-06 |  |
 | [333](https://open.spotify.com/track/6By1QudqrImFqh0wB4ODD0) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [333](https://open.spotify.com/album/1eVSAAQe8SO6WimGu9cZ9A) | 7:05 | 2020-11-03 | 2021-01-15 |
 | [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 | 2021-12-17 | 2023-10-24 |
@@ -332,7 +333,7 @@
 | [Hybrid Sounds](https://open.spotify.com/track/73LEqnV0JnO1a41qxdkgn3) | [Schwarz Avni](https://open.spotify.com/artist/001UurAm0cIXxR0hrqMepQ), [Tiefschwarz](https://open.spotify.com/artist/6f2k5CwVLvTy0rgw6Q8B4Q), [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Hybrid Sounds](https://open.spotify.com/album/29dvlndPExjenFcc4Tuuez) | 7:45 | 2019-08-06\* | 2020-02-09 |
 | [Hypercolour](https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt), [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Hypercolour](https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu) | 3:29 | 2020-07-18 | 2022-11-26 |
 | [Hypnotease](https://open.spotify.com/track/4v4yMDQ3eO8uVSYRysgcyQ) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Hypnotease](https://open.spotify.com/album/4fT1pJeDDNgdpIXXVUoiQS) | 5:46 | 2022-01-14 | 2022-07-29 |
-| [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 | 2026-07-03 |  |
+| [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 | 2026-07-03 | 2026-10-25 |
 | [I Don't Need You](https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:04 | 2022-10-28 | 2023-04-16 |
 | [I Don't Need You](https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:04 | 2023-04-05 | 2024-04-19 |
 | [I Feel](https://open.spotify.com/track/4LIWlYAo7Ee2nl5GVuvCNC) | [INURE](https://open.spotify.com/artist/5NvzCumjwyLbFqorYKqIXd) | [I Feel](https://open.spotify.com/album/1GPFvq8fng96P1Isom1ZCZ) | 4:48 | 2020-07-25 | 2021-02-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4016015,
+  "num_followers": 4015875,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJyMBoqJC0YiqS+KH7hgqAoD6O+",
+  "snapshot_id": "AAAAAL62UlRrmFWsV/6YaCeF5iXzuLC4",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:50",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Feeling (Hold On You)",
-        "url": "https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "MURPHY",
-          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
-        }
-      ],
-      "duration_ms": 216969,
-      "name": "Feeling (Hold On You)",
-      "url": "https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "WIDE AWAKE",
         "url": "https://open.spotify.com/album/1cuYuhlcRa6TomHkICwTL6"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 186666,
       "name": "WIDE AWAKE",
       "url": "https://open.spotify.com/track/4YX65szuyA3cu2EGMdIrRo"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Feeling (Hold On You)",
+        "url": "https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "MURPHY",
+          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
+        }
+      ],
+      "duration_ms": 216969,
+      "name": "Feeling (Hold On You)",
+      "url": "https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -415,6 +415,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "Staring at the Sun",
+        "url": "https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 212707,
+      "name": "Staring at the Sun",
+      "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -455,26 +475,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Staring at the Sun",
-        "url": "https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 212707,
-      "name": "Staring at the Sun",
-      "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Wanna Be Somewhere With You",
         "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
       },
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Smiling Through The Pain 3",
         "url": "https://open.spotify.com/album/7btqsflspTMMLYmW7v15Z6"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 159325,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Here Again / Wild Again",
-        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Kazmyn",
-          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
-        }
-      ],
-      "duration_ms": 227069,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Here Again / Wild Again",
+        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Kazmyn",
+          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
+        }
+      ],
+      "duration_ms": 227069,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 233978,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "NAKED",
-        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 185714,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
+      "duration_ms": 233978,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1323,42 +1323,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Electric Soul (YOTTO Remix)",
-        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 226300,
-      "name": "Electric Soul - YOTTO Remix",
-      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Wanderer",
         "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
       },
@@ -1399,6 +1363,42 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Electric Soul (YOTTO Remix)",
+        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 226300,
+      "name": "Electric Soul - YOTTO Remix",
+      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "The last dance...",
         "url": "https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Somewhere In Between",
-        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Fading Out",
         "url": "https://open.spotify.com/album/0HrNoFYHg4dNuosyMjmbZy"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 243925,
       "name": "Fading Out",
       "url": "https://open.spotify.com/track/0na4GriccSSdSu8QquLDYd"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1615,22 +1599,18 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "This Is Our Life",
-        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
         }
       ],
-      "duration_ms": 268560,
-      "name": "This Is Our Life",
-      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1651,22 +1631,22 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
+        "name": "This Is Our Life",
+        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         },
         {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
+      "duration_ms": 268560,
+      "name": "This Is Our Life",
+      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1699,6 +1679,26 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "To Love Again",
-        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "To Love Again",
-      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "To Love Again",
+        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "To Love Again",
+      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
     },
     {
       "added_at": "2026-10-16 04:00:50",

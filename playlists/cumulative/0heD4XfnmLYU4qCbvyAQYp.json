@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "From the Attic",
+        "url": "https://open.spotify.com/album/4ACY9Xt2bEMrjkQal9Z7HE"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190236,
+      "name": "A Perfect Day",
+      "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
+    },
+    {
+      "album": {
         "name": "Adamak",
         "url": "https://open.spotify.com/album/3mGrtHfwBmpzi1V5GU1DhG"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 254421,
       "name": "Age Of Innocence",
       "url": "https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby"
+    },
+    {
+      "album": {
+        "name": "Agency",
+        "url": "https://open.spotify.com/album/735AzC1ClABhGC7dFjUykk"
+      },
+      "artists": [
+        {
+          "name": "Labasheeda",
+          "url": "https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208726,
+      "name": "Agency",
+      "url": "https://open.spotify.com/track/0O1Z2KjJBVE3Ztc1WvZCwx"
     },
     {
       "album": {
@@ -856,6 +892,24 @@
       "duration_ms": 442666,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg"
+    },
+    {
+      "album": {
+        "name": "Fuori Fuoco",
+        "url": "https://open.spotify.com/album/69jSXT0g4p46Ga5FfT0n2A"
+      },
+      "artists": [
+        {
+          "name": "Juliet's Bane",
+          "url": "https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208149,
+      "name": "Dove Il Mare",
+      "url": "https://open.spotify.com/track/6kjahxKcPfk0QvT2ZQt1oz"
     },
     {
       "album": {
@@ -2032,6 +2086,24 @@
       "duration_ms": 321233,
       "name": "Message Through Time",
       "url": "https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ"
+    },
+    {
+      "album": {
+        "name": "Musicinin's",
+        "url": "https://open.spotify.com/album/0NUtyCa4a3sqsMPHxFfqjS"
+      },
+      "artists": [
+        {
+          "name": "MR Smith Group (MSG)",
+          "url": "https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357000,
+      "name": "Musicinin's",
+      "url": "https://open.spotify.com/track/6LpU2xNvk9OzLHGB5FPiPC"
     },
     {
       "album": {
@@ -3564,6 +3636,24 @@
       "duration_ms": 270165,
       "name": "Youth in the Rearview",
       "url": "https://open.spotify.com/track/4EH6QCKty7zmXSv6kbUPIk"
+    },
+    {
+      "album": {
+        "name": "\u00c0 termes pr\u00e9cis",
+        "url": "https://open.spotify.com/album/11J0YBoD5gVgq3rRExSiit"
+      },
+      "artists": [
+        {
+          "name": "Roxan LR",
+          "url": "https://open.spotify.com/artist/4J8rcj1qCpxVG1ZDkhhOmj"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "\u00c0 termes pr\u00e9cis",
+      "url": "https://open.spotify.com/track/4kx1Rn0BL2EjrvDSk509fr"
     }
   ],
   "url": "https://open.spotify.com/playlist/0heD4XfnmLYU4qCbvyAQYp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,271 likes - 10 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,274 likes - 10 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Omar Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,774 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,818 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 4 | [Gracia irresistible \(Romanos 11\)](https://open.spotify.com/track/5cil7BRwq0I1tmivISCV9Q) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r) | [Gracia irresistible \(Romanos 11\)](https://open.spotify.com/album/14CpP3uTB0fAE6N79cP4Y3) | 6:19 |
 | 5 | [PACTO](https://open.spotify.com/track/6U8gWR2cqiBCMC8bQkVL2S) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [PACTO](https://open.spotify.com/album/1U2CqKK0MU8J2X9T7vkcUq) | 5:57 |
 | 6 | [EL SONIDO DE LAS PIEDRAS](https://open.spotify.com/track/2avh22PP30NUKT4slyvGQW) | [Génesis Colón](https://open.spotify.com/artist/0kMN6WLuNDVrhRH88IMCzE) | [EL SONIDO DE LAS PIEDRAS](https://open.spotify.com/album/0OAKWWkm4D0CWJxtfiT3gQ) | 17:47 |
-| 7 | [Gracias a Dios](https://open.spotify.com/track/5X7iswCjosv0BQnyzkd2mB) | [Lakewood Music Español](https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Gracias a Dios](https://open.spotify.com/album/2YKgPynuSOHtHe7Gyoswp0) | 4:14 |
+| 7 | [Gracias Dios](https://open.spotify.com/track/5X7iswCjosv0BQnyzkd2mB) | [Lakewood Music Español](https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Gracias Dios](https://open.spotify.com/album/2YKgPynuSOHtHe7Gyoswp0) | 4:14 |
 | 8 | [Abba \(Nunca Falla\)](https://open.spotify.com/track/5TXZ4zQFghYZisgupXmLnt) | [ALISON](https://open.spotify.com/artist/5hcLUzxAKz36q0NYnfspOj), [Dereck Cruz](https://open.spotify.com/artist/6cTntZfFydW01JMw0I0tU3) | [Abba \(Nunca Falla\)](https://open.spotify.com/album/6iMsGtd5XDH0NLnJ7vwjIH) | 6:11 |
 | 9 | [Ágape, Te Amo / Cuan Grande Eres Dios \- Acústico](https://open.spotify.com/track/05l5ed9IGO5rsEQ43KwbY7) | [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [S1 AFTER](https://open.spotify.com/artist/6Z9dBS0QmfD5fep8lh17VF), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Momentos II \(Acústico\)](https://open.spotify.com/album/07X6QqngX8bXhIrDV52GrL) | 8:44 |
 | 10 | [Digno / Si Te Tengo a Ti](https://open.spotify.com/track/1BUuG1dT1qS6Wc5k7cVXDX) | [Toni Romero](https://open.spotify.com/artist/69BWizWNZTCdBWLb1zllgw) | [Digno / Si Te Tengo a Ti](https://open.spotify.com/album/3waxF7PTRYFeg7NZSz50jj) | 7:56 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 82006,
+  "num_followers": 82011,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAACAhY/Di2SEFQdZk2ekN7WO",
+  "snapshot_id": "atqjgAAAAAB2Gom9SFW0KNynfBelUiYi",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 316493,
-      "name": "The Emperor's New Clothes",
-      "url": "https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9"
+      "duration_ms": 278880,
+      "name": "Last Day of Our Acquaintance",
+      "url": "https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 278880,
-      "name": "Last Day of Our Acquaintance",
-      "url": "https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9"
+      "duration_ms": 316493,
+      "name": "The Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Made Me The Thief Of Your Heart",
+        "url": "https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "You Made Me The Thief Of Your Heart",
+      "url": "https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Chieftains",
         "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 320773,
       "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Made Me The Thief Of Your Heart",
-        "url": "https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 381373,
-      "name": "You Made Me The Thief Of Your Heart",
-      "url": "https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Captive Original Soundtrack",
-        "url": "https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        },
-        {
-          "name": "The Edge",
-          "url": "https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP"
-        },
-        {
-          "name": "Steve Lillywhite",
-          "url": "https://open.spotify.com/artist/7fGW0xHsS8qa4W9KeHOQqN"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -835,6 +811,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Captive Original Soundtrack",
+        "url": "https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        },
+        {
+          "name": "The Edge",
+          "url": "https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP"
+        },
+        {
+          "name": "Steve Lillywhite",
+          "url": "https://open.spotify.com/artist/7fGW0xHsS8qa4W9KeHOQqN"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Success Has Made a Failure of Our Home",
-      "url": "https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 215587,
       "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
       "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Success Has Made a Failure of Our Home",
+      "url": "https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u"
     }
   ],
   "unique_name": "This Is Sin\u00e9ad O'Connor",

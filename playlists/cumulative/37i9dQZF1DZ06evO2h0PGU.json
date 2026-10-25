@@ -106,10 +106,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 263693,
       "name": "Blacktop",
       "url": "https://open.spotify.com/track/7qcfqmg6Zf1uwdlVR2ocpP"
+    },
+    {
+      "album": {
+        "name": "Hidden in Pieces: Live",
+        "url": "https://open.spotify.com/album/33RxgeDivyHENGrw5RvHV3"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311453,
+      "name": "Blacktop - Sonic Ranch",
+      "url": "https://open.spotify.com/track/5OcB5NNHCcE51Zz1KGZc1b"
     },
     {
       "album": {

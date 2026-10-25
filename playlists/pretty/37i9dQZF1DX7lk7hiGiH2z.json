@@ -1,6 +1,6 @@
 {
   "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
-  "num_followers": 62828,
+  "num_followers": 62886,
   "original_name": "Familienzeit: Halloween",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,22 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "The Rocky Horror Picture Show - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+        "name": "Monstertanz",
+        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
       },
       "artists": [
         {
-          "name": "Little Nell",
-          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
+          "name": "Piano Papa",
+          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
         },
         {
-          "name": "Patricia Quinn",
-          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
-        },
-        {
-          "name": "Richard O'Brien",
-          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+          "name": "Mama Sandy",
+          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
         }
       ],
-      "duration_ms": 199366,
-      "name": "Time Warp",
-      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
+      "duration_ms": 126875,
+      "name": "Monstertanz",
+      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -603,22 +599,26 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Monstertanz",
-        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
       "artists": [
         {
-          "name": "Piano Papa",
-          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
+          "name": "Little Nell",
+          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
         },
         {
-          "name": "Mama Sandy",
-          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
+          "name": "Patricia Quinn",
+          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
+        },
+        {
+          "name": "Richard O'Brien",
+          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
         }
       ],
-      "duration_ms": 126875,
-      "name": "Monstertanz",
-      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
+      "duration_ms": 199366,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Kinder M\u00e4use Monster Party",
-        "url": "https://open.spotify.com/album/3kQzllISQiYBuEKfBKmQmD"
-      },
-      "artists": [
-        {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 133774,
-      "name": "Kinder M\u00e4use Monster Party",
-      "url": "https://open.spotify.com/track/1tBU646XvprtvmJdqblhYN"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Gruselparty",
         "url": "https://open.spotify.com/album/3cR0a4jI7xnW1A97ggrcaI"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 164193,
       "name": "Gruselparty",
       "url": "https://open.spotify.com/track/5fr2p4o403KwG0oZicTlh5"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Kinder M\u00e4use Monster Party",
+        "url": "https://open.spotify.com/album/3kQzllISQiYBuEKfBKmQmD"
+      },
+      "artists": [
+        {
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 133774,
+      "name": "Kinder M\u00e4use Monster Party",
+      "url": "https://open.spotify.com/track/1tBU646XvprtvmJdqblhYN"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Burgfr\u00e4ulein B\u00f6s Partyhits",
-        "url": "https://open.spotify.com/album/4VpErYa4p7dHxH0GVW1ljU"
-      },
-      "artists": [
-        {
-          "name": "Burgfr\u00e4ulein B\u00f6",
-          "url": "https://open.spotify.com/artist/5q3QcfVaQH2pgpLXYkLK5a"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "In der Disko an der Geisterbahn",
-      "url": "https://open.spotify.com/track/0tLb0uP2Q4qtz67OrgP5uj"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
         "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 151337,
       "name": "Mo-Mo-Monster",
       "url": "https://open.spotify.com/track/47r3zekBd9J7z9NZkw3Cmm"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Burgfr\u00e4ulein B\u00f6s Partyhits",
+        "url": "https://open.spotify.com/album/4VpErYa4p7dHxH0GVW1ljU"
+      },
+      "artists": [
+        {
+          "name": "Burgfr\u00e4ulein B\u00f6",
+          "url": "https://open.spotify.com/artist/5q3QcfVaQH2pgpLXYkLK5a"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "In der Disko an der Geisterbahn",
+      "url": "https://open.spotify.com/track/0tLb0uP2Q4qtz67OrgP5uj"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Schaurig-sch\u00f6nes Halloween",
-        "url": "https://open.spotify.com/album/1gGxM8Hy5yywiKO0j3swm5"
-      },
-      "artists": [
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "Monster Boogie Woogie",
-      "url": "https://open.spotify.com/track/3TVghEo6lj1bcWnfniBlTi"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
         "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 164374,
       "name": "S\u00fc\u00dfes, sonst gibt's Saures",
       "url": "https://open.spotify.com/track/54zJZ4DNIccdsYjwxtjO2B"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Schaurig-sch\u00f6nes Halloween",
+        "url": "https://open.spotify.com/album/1gGxM8Hy5yywiKO0j3swm5"
+      },
+      "artists": [
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Monster Boogie Woogie",
+      "url": "https://open.spotify.com/track/3TVghEo6lj1bcWnfniBlTi"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Buh, buh, buh, wer hat sich erschreckt? (Halloween)",
-        "url": "https://open.spotify.com/album/3f7rlFxNisYPjdDczaCuYv"
-      },
-      "artists": [
-        {
-          "name": "Kati Stern und Fumsi",
-          "url": "https://open.spotify.com/artist/5SkuvgfRoqpjtQ7CZuMkU9"
-        }
-      ],
-      "duration_ms": 167302,
-      "name": "Buh, buh, buh, wer hat sich erschreckt? - Halloween Dance Mix",
-      "url": "https://open.spotify.com/track/0q4XraeC444Cp2pSobAYqG"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
         "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 143372,
       "name": "Halloween steht vor der T\u00fcr",
       "url": "https://open.spotify.com/track/1xYmVPJj7JPLJPiC3Iw7iR"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Buh, buh, buh, wer hat sich erschreckt? (Halloween)",
+        "url": "https://open.spotify.com/album/3f7rlFxNisYPjdDczaCuYv"
+      },
+      "artists": [
+        {
+          "name": "Kati Stern und Fumsi",
+          "url": "https://open.spotify.com/artist/5SkuvgfRoqpjtQ7CZuMkU9"
+        }
+      ],
+      "duration_ms": 167302,
+      "name": "Buh, buh, buh, wer hat sich erschreckt? - Halloween Dance Mix",
+      "url": "https://open.spotify.com/track/0q4XraeC444Cp2pSobAYqG"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Das Kamel tanzt gern Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5CR8hZVrX8rTT2L2ZgCAb8"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Klapprige Knochen",
-      "url": "https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Meine Lieblingskinderlieder f\u00fcr den Herbst",
         "url": "https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 120360,
       "name": "Grimmig gucken",
       "url": "https://open.spotify.com/track/5Va7YTc8dadJlNcxKoVGOE"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Das Kamel tanzt gern Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5CR8hZVrX8rTT2L2ZgCAb8"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Klapprige Knochen",
+      "url": "https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Tobi der Zombie",
-        "url": "https://open.spotify.com/album/3jr06XZuKyLXBLfJ3ljfQW"
-      },
-      "artists": [
-        {
-          "name": "Autoscooter Joe",
-          "url": "https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Tobi der Zombie",
-      "url": "https://open.spotify.com/track/3aPtQOpFOu2QeKjPMFrMcf"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Kinderlieder f\u00fcr die Party - EP",
         "url": "https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 130700,
       "name": "Monsterparty",
       "url": "https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Tobi der Zombie",
+        "url": "https://open.spotify.com/album/3jr06XZuKyLXBLfJ3ljfQW"
+      },
+      "artists": [
+        {
+          "name": "Autoscooter Joe",
+          "url": "https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Tobi der Zombie",
+      "url": "https://open.spotify.com/track/3aPtQOpFOu2QeKjPMFrMcf"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Das Spukhaus in der Siedlung",
-        "url": "https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP"
-      },
-      "artists": [
-        {
-          "name": "Autoscooter Joe",
-          "url": "https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7"
-        }
-      ],
-      "duration_ms": 113100,
-      "name": "Das Spukhaus in der Siedlung",
-      "url": "https://open.spotify.com/track/6gnVw7Sxpxt8D64CZM5hjv"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Minidisco International Songs 6",
         "url": "https://open.spotify.com/album/6vnhWWzx6Bzk7J3q6BZ2eL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 174000,
       "name": "Zombietanz",
       "url": "https://open.spotify.com/track/2Gu8F5VBvCKFbbSKpQpFZP"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Das Spukhaus in der Siedlung",
+        "url": "https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP"
+      },
+      "artists": [
+        {
+          "name": "Autoscooter Joe",
+          "url": "https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7"
+        }
+      ],
+      "duration_ms": 113100,
+      "name": "Das Spukhaus in der Siedlung",
+      "url": "https://open.spotify.com/track/6gnVw7Sxpxt8D64CZM5hjv"
     }
   ],
   "unique_name": "Familienzeit: Halloween",

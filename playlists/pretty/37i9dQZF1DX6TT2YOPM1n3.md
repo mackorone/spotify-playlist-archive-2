@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Apne mulk ki homegrown hits 🎶 Cover: Asim Azhar
+> Apne mulk ki homegrown hits 🎶 Cover: Hamza Malik
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,802 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,801 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 74 | [Ek Nishani](https://open.spotify.com/track/24mdYFFK4Mgn9zmmdE1dQ5) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Ek Nishani](https://open.spotify.com/album/1xFAXVnnUg742E2zlbjFn9) | 3:16 |
 | 75 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
 
-Snapshot ID: `AAAAALCoY7C5IA8sVzguo4cfg77vAbnb`
+Snapshot ID: `AAAAAL2KhGQblXq+se+Wv7ckVKAkdiur`

@@ -4,7 +4,7 @@
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-22 songs - 1 hr 7 min
+23 songs - 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 | 2026-06-25 |  |
 | [georgia](https://open.spotify.com/track/58h1pJQkym9CRAt5Ubc4tG) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:54 | 2026-06-25 |  |
 | [God Knows](https://open.spotify.com/track/31sakVrrESRDsoRsDlNWik) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 3:20 | 2026-06-25 |  |
+| [Home Tonight \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/7gGpGXKYW3tTjzC7pZGj10) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Home Tonight \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/3U2CmUAxCVlX34DJXoWePk) | 3:32 | 2026-10-25 |  |
 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 | 2026-07-15 |  |
 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-06-25 |  |
 | [karaoke](https://open.spotify.com/track/2iLaE22r3gShJyFfJ8Zzbc) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:45 | 2026-07-15 | 2026-08-24 |

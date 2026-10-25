@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 569695,
+  "num_followers": 569674,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "CONTIGO VOY A MUERTE",
-      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Yo Era Poes\u00eda",
         "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 194923,
       "name": "Yo Era Poes\u00eda",
       "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "CONTIGO VOY A MUERTE",
+      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 194727,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "COWBOYS DE LA A3",
+        "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 263942,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "COWBOYS DE LA A3",
-        "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 263942,
-      "name": "La Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Punto de Partida",
-        "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
-      },
-      "artists": [
-        {
-          "name": "Carla Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "El Merengue (Versi\u00f3n Flamenca)",
-      "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Otras Alas",
         "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Me Despido",
-        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
+        "name": "Punto de Partida",
+        "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Carla Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
         }
       ],
-      "duration_ms": 169701,
-      "name": "Me Despido",
-      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
+      "duration_ms": 165750,
+      "name": "El Merengue (Versi\u00f3n Flamenca)",
+      "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1331,6 +1315,22 @@
       "duration_ms": 186359,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Me Despido",
+        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Me Despido",
+      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Porfa no te vayas",
-        "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "Porfa no te vayas",
-      "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Dos Caras Distintas",
         "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 180757,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Porfa no te vayas",
+        "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "Porfa no te vayas",
+      "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Vida de Rico",
         "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 187406,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2339,6 +2339,38 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "INFANCIA MAL CALIBRADA",
+        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 278145,
+      "name": "VICTORIA",
+      "url": "https://open.spotify.com/track/39F3LM8cs7Wsj48deuXEzq"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Rojitas las orejas",
+      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2363,38 +2395,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Rojitas las orejas",
-      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "INFANCIA MAL CALIBRADA",
-        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 278145,
-      "name": "VICTORIA",
-      "url": "https://open.spotify.com/track/39F3LM8cs7Wsj48deuXEzq"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Sintiendonos La Piel",
         "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
       },
@@ -2411,22 +2411,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Algo M\u00e1s",
-        "url": "https://open.spotify.com/album/7klB5WI25Dw2XqjHrN2JjF"
+        "name": "L\u00e1rgate",
+        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 167299,
-      "name": "Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/1qgBT2VZV4i1ms23Vu9Khd"
+      "duration_ms": 180074,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2447,18 +2443,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "L\u00e1rgate",
-        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+        "name": "Algo M\u00e1s",
+        "url": "https://open.spotify.com/album/7klB5WI25Dw2XqjHrN2JjF"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
         }
       ],
-      "duration_ms": 180074,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
+      "duration_ms": 167299,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/1qgBT2VZV4i1ms23Vu9Khd"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2551,26 +2551,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Amigos (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Amigos (con Maria Becerra)",
-      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9"
       },
@@ -2587,22 +2567,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
+        "name": "Amigos (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         },
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 125482,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2627,6 +2607,26 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 125482,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Luz V",
         "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
       },
@@ -2639,22 +2639,6 @@
       "duration_ms": 247680,
       "name": "No me importa nada",
       "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Tiempos bonitos",
-        "url": "https://open.spotify.com/album/7CJaAVgm66Bv93zDWgsVpk"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 154088,
-      "name": "Tiempos bonitos",
-      "url": "https://open.spotify.com/track/258hs8zltfhkeItvntuQQp"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2675,6 +2659,22 @@
       "duration_ms": 202129,
       "name": "Desde cero (con Melendi)",
       "url": "https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Tiempos bonitos",
+        "url": "https://open.spotify.com/album/7CJaAVgm66Bv93zDWgsVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 154088,
+      "name": "Tiempos bonitos",
+      "url": "https://open.spotify.com/track/258hs8zltfhkeItvntuQQp"
     },
     {
       "added_at": "2026-09-17 16:51:37",

@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Karpe Diem",
+        "url": "https://open.spotify.com/album/0GLwhdYcDSdPJIxOcl5KEF"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Karpe Diem",
+      "url": "https://open.spotify.com/track/7hkVzMHYeoOp1NACDB6rKp"
+    },
+    {
+      "album": {
         "name": "N\u00d3MADA",
         "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
       },
@@ -1570,7 +1592,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 209497,
       "name": "Se Enfiest\u00f3 El Carnal",
       "url": "https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK"

@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 데이먼스 이어 Damons year\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-700 songs - 1 day 17 hr 10 min
+701 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Over?](https://open.spotify.com/track/3XkAF5FGkTaSVuaPBmp78v) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Over?](https://open.spotify.com/album/4UcHiWbOjZE5DFucEI6dwo) | 2:28 | 2025-12-02 | 2025-12-19 |
 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 | 2022-07-08 | 2024-04-19 |
 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 | 2022-03-31 | 2022-04-21 |
+| [papa,son](https://open.spotify.com/track/3dlGaOD0ARKJ5ZNsUq9V0S) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [papa,son](https://open.spotify.com/album/1CHpirb85BTqJIpFPR3nc0) | 5:09 | 2026-10-20 |  |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-03-31 | 2022-04-14 |
 | [PC Room](https://open.spotify.com/track/0CDrH0mwXPAsPwaDUx5U8u) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(February 2026\) \- PC Room](https://open.spotify.com/album/2oajUegRsqXyGidxxbPzt6) | 3:13 | 2026-03-03 | 2026-03-14 |
 | [Peas and carrots](https://open.spotify.com/track/4n42HTO7zNVpTViUILfsLY) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE) | [Peas and carrots](https://open.spotify.com/album/7kikOAyMLmVxDUA6hXlDra) | 2:09 | 2026-04-01 | 2026-05-16 |
@@ -626,7 +627,7 @@
 | [When did we \(Feat\. Park\-GunHoo\)](https://open.spotify.com/track/1DoYvQS9wXyjt7jUb9csph) | [INNERLAW](https://open.spotify.com/artist/2MpJZ5KF4fbEDXUU9IWZgP), [Park GunHoo](https://open.spotify.com/artist/2GZYi0jVL4PBJCVGhrHIOb) | [When did we \(Feat\. Park\-GunHoo\)](https://open.spotify.com/album/4ZGVfpHvr4j7IdlSRvpkqx) | 3:43 | 2022-03-31 | 2022-04-18 |
 | [when the dawn comes](https://open.spotify.com/track/2tscQs2pvCjOUwJM9FNwD5) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [when the dawn comes](https://open.spotify.com/album/3NJP5JyWrfAYiTEseYvyrm) | 3:11 | 2024-02-07 | 2024-03-07 |
 | [When The Violets Bloom](https://open.spotify.com/track/0xkcVMY9UtGIJdrfKXrJ8J) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [When The Violets Bloom](https://open.spotify.com/album/6ZOsvgDaX45IYl7xmaMGf6) | 3:18 | 2022-05-02 | 2022-05-12 |
-| [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 | 2021-12-10 |  |
+| [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 | 2021-12-10 | 2026-10-25 |
 | [When the World Sleeps](https://open.spotify.com/track/5QG2oaaLqR3SO9EgWKrBPE) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [When the World Sleeps](https://open.spotify.com/album/1asK5482jnmpbHtelSbSED) | 4:42 | 2025-08-13 | 2025-09-08 |
 | [Where Are We Now \- Acoustic Version](https://open.spotify.com/track/3NZn88t5LgPZBwbyJ4giZz) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Where Are We Now \(Acoustic Version\)](https://open.spotify.com/album/5t9eXUyQ0SSFMqf7Bfcqk9) | 3:35 | 2022-03-31 | 2022-04-09 |
 | [Where are you?](https://open.spotify.com/track/7eDhlnVZiPzlNHjJEVCXJv) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [My first love OST Part.2](https://open.spotify.com/album/6T7PZRVu0p5keqNzbqtPSC) | 3:04 | 2022-04-12 | 2022-04-19 |

@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-189 songs - 12 hr 21 min
+190 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [It's A Hard Life](https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition\)](https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV) | 4:08 | 2026-07-23 |  |
 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 4:06 | 2022-09-17 | 2026-07-23 |
 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/5PTvZMe9mIL0GrRvPBRu6S) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:06 | 2025-03-27 | 2026-05-11 |
+| [Keep Yourself Alive](https://open.spotify.com/track/4DU4NgVlTkdS9Ce9o8lsZ6) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition\)](https://open.spotify.com/album/16br4ndsgOTnBQTjV0W5aB) | 3:46 | 2026-10-25 |  |
 | [Keep Yourself Alive \- 2024 Mix](https://open.spotify.com/track/4cwJL1Q1SjrPDJdHE8apeh) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen I](https://open.spotify.com/album/763x2B8AWacqWDjP9KjM5l) | 3:45 | 2024-11-23 | 2025-01-10 |
 | [Keep Yourself Alive \- 2024 Mix](https://open.spotify.com/track/5HeF5toxWMeKaYbVa9EEs5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen I \(Collector's Edition\)](https://open.spotify.com/album/2vSW70hwFzUyFd4Mlgap0J) | 3:45 | 2024-10-28 | 2024-11-23 |
 | [Keep Yourself Alive \- Live At The Rainbow](https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:56 | 2022-09-17 | 2023-05-24 |
@@ -162,7 +163,7 @@
 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:15 | 2022-10-12 | 2026-07-23 |
 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/6L2zQunC8lImxNEH60yxaR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | 4:15 | 2025-03-27 | 2026-05-11 |
 | [Tie Your Mother Down](https://open.spotify.com/track/67diy3U3H033kNyox0Bt5x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:49 | 2026-07-24 | 2026-09-12 |
-| [Tie Your Mother Down \- Live in Budapest](https://open.spotify.com/track/2SPnC691IFXgzCk9DGf8eX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Tie Your Mother Down \(Live in Budapest\)](https://open.spotify.com/album/1BGiS3fcRGNi1Fw68WCC2W) | 4:41 | 2026-09-12 |  |
+| [Tie Your Mother Down \- Live in Budapest](https://open.spotify.com/track/2SPnC691IFXgzCk9DGf8eX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Tie Your Mother Down \(Live in Budapest\)](https://open.spotify.com/album/1BGiS3fcRGNi1Fw68WCC2W) | 4:41 | 2026-09-12 | 2026-10-25 |
 | [Tie Your Mother Down \- Remastered 2011](https://open.spotify.com/track/6K8gEgGkOyD1wFY3kAcyOy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:46 | 2025-03-27 | 2026-05-11 |
 | [Tie Your Mother Down \- Remastered 2011](https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:47 | 2022-09-17 | 2026-07-24 |
 | [Too Much Love Will Kill You](https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:20 | 2026-07-24 |  |

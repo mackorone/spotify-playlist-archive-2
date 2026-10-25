@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Sycco
 
-793 songs - 1 day 20 hr 23 min
+795 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2024-05-31 | 2025-03-05 |
 | [Daylight Robbery](https://open.spotify.com/track/58DHNoxvttW7CLsfDQ7M9S) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Daylight Robbery](https://open.spotify.com/album/19auOSLu2WRW8UaB4keLQs) | 2:58 | 2026-06-11 | 2026-06-19 |
 | [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 | 2025-04-17 | 2025-07-18 |
+| [Deathwish](https://open.spotify.com/track/0ZvGajFnTQtEAyKNjqt982) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Deathwish](https://open.spotify.com/album/4HlWa17cRTW9uQraVvh0tc) | 4:07 | 2026-10-22 |  |
 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 | 2025-08-07 |  |
 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 | 2025-03-27 | 2025-05-27 |
 | [Disco Cowgirl](https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Disco Cowgirl](https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh) | 3:25 | 2025-05-15 | 2025-10-31 |
@@ -184,7 +185,7 @@
 | [Don't Know](https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Don't Know](https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26) | 2:12 | 2024-05-31 | 2025-03-21 |
 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 | 2024-08-30 | 2025-01-31 |
 | [don't let me go](https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [don't let me go](https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh) | 2:35 | 2025-04-10 | 2025-09-05 |
-| [Don't Worry Baby](https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/7wjgGvAcDs9eGvAS2jQRKJ) | 3:27 | 2026-05-01 |  |
+| [Don't Worry Baby](https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/7wjgGvAcDs9eGvAS2jQRKJ) | 3:27 | 2026-05-01 | 2026-10-25 |
 | [Don’t Happy, Be Worry](https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Don’t Happy, Be Worry](https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd) | 3:09 | 2025-04-10 | 2025-08-08 |
 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 | 2024-05-31 | 2024-09-03 |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-25 |  |
@@ -419,7 +420,7 @@
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-05-31 | 2024-10-10 |
 | [Losing You](https://open.spotify.com/track/3eGQh9vcLCsLfKTbFzgVFP) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Losing You](https://open.spotify.com/album/1YkV4jnkTLpj66ocfMuusm) | 4:06 | 2025-06-12 | 2025-06-20 |
 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 | 2024-11-21 | 2025-05-09 |
-| [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 | 2025-06-05 |  |
+| [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 | 2025-06-05 | 2026-10-25 |
 | [Love Crimes](https://open.spotify.com/track/0foT97p7LCX8A1gKc2naHH) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Love Crimes](https://open.spotify.com/album/6Re4q4xHc6geWczI8KumiN) | 4:29 | 2026-08-14 | 2026-08-24 |
 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 | 2024-05-31 | 2024-07-27 |
 | [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 | 2026-07-16 |  |
@@ -717,6 +718,7 @@
 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 | 2025-04-08 | 2025-06-16 |
 | [Tidal Wave](https://open.spotify.com/track/2h1UMCTfPc3P2ko1D5tbNQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Tidal Wave](https://open.spotify.com/album/2JPBkJNbO1SOO3duRkJ4Md) | 3:04 | 2025-07-10 | 2025-07-18 |
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-05 | 2024-11-30 |
+| [Time After Time](https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Time After Time](https://open.spotify.com/album/2d0ZL2C2YAUWejedK1dgBU) | 2:40 | 2026-10-22 |  |
 | [Time Will Try](https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Time Will Try](https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs) | 4:18 | 2024-08-30 | 2024-10-24 |
 | [Times Like SIS](https://open.spotify.com/track/4RIzISlyULa7Y6x3NEGlu2) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Times Like SIS](https://open.spotify.com/album/7D4u32E8pT1FwVjVfT0WqW) | 2:45 | 2025-03-04 | 2025-03-21 |
 | [TOGETHER](https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [TOGETHER](https://open.spotify.com/album/5ZXVSBUNbM34iNAqcFK8Hs) | 3:52 | 2024-09-12 | 2024-10-23 |

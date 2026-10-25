@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 130675,
+  "num_followers": 130689,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "SALES LP",
-        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+      "duration_ms": 233337,
+      "name": "Never Be Like You",
+      "url": "https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -235,22 +239,18 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
         }
       ],
-      "duration_ms": 233337,
-      "name": "Never Be Like You",
-      "url": "https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8"
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Berhana",
+        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 261102,
+      "name": "Grey Luh",
+      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "Aloha",
         "url": "https://open.spotify.com/album/0N7Gsf3ENH7bPbUZDRCYOQ"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 218400,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/4uNDs2TBsv2KX9b4LIxfdt"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Berhana",
-        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 261102,
-      "name": "Grey Luh",
-      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Gameshow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 158946,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Gameshow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 167864,
+      "name": "Not Allowed",
+      "url": "https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Who Really Cares",
-        "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 167864,
-      "name": "Not Allowed",
-      "url": "https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 211851,
       "name": "Sleep On The Floor",
       "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Futureproof",
         "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Teens of Denial",
+        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 374653,
+      "name": "Drunk Drivers/Killer Whales",
+      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Teens of Denial",
-        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
     },
     {
       "added_at": "2026-01-20 18:32:57",

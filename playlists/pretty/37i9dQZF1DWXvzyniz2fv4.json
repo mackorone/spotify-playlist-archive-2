@@ -1139,30 +1139,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
-      },
-      "artists": [
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
+      },
+      "artists": [
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
     },
     {
       "added_at": "2026-10-19 15:52:42",

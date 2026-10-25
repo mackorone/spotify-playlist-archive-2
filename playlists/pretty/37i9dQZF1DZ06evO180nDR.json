@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 82432,
+  "num_followers": 82468,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADyhVXd9a9s7uDTTVVqLkzF",
+  "snapshot_id": "atqjgAAAAACncS4MgyUxLaQIoGSLORsM",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
-        "url": "https://open.spotify.com/album/1RpdlGnhty9ymIv72o0EGw"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
-      "url": "https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 173618,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/38rXAquFQN5OwsWA1oo6ps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
+        "url": "https://open.spotify.com/album/1RpdlGnhty9ymIv72o0EGw"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
+      "url": "https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESPEJO",
-        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "ESPEJO",
-      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 169317,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESPEJO",
+        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "ESPEJO",
+      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
     },
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AG\u00dcITADO",
-        "url": "https://open.spotify.com/album/7m211hDuffAarROqfim9Ht"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 168034,
-      "name": "AG\u00dcITADO",
-      "url": "https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -463,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AG\u00dcITADO",
+        "url": "https://open.spotify.com/album/7m211hDuffAarROqfim9Ht"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 168034,
+      "name": "AG\u00dcITADO",
+      "url": "https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABIA",
         "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
       },
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+        "name": "WA SA BI",
+        "url": "https://open.spotify.com/album/1iKMgTVCqAqQBJiKATiwrL"
       },
       "artists": [
         {
@@ -488,33 +488,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 179195,
-      "name": "Dinero Infinito",
-      "url": "https://open.spotify.com/track/3de3DQ1qgilSJqfRWT1xn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las 745",
-        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 163073,
-      "name": "Las 745",
-      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+      "duration_ms": 195453,
+      "name": "WA SA BI",
+      "url": "https://open.spotify.com/track/2wTFTwX7CeKVwRDHD4GoOR"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 179195,
+      "name": "Dinero Infinito",
+      "url": "https://open.spotify.com/track/3de3DQ1qgilSJqfRWT1xn1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABIA",
         "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
       },
@@ -551,6 +551,26 @@
       "duration_ms": 159212,
       "name": "KAMIKAZE",
       "url": "https://open.spotify.com/track/3aQQ6AAzsyaEf6RowEPX7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 745",
+        "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 163073,
+      "name": "Las 745",
+      "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
     },
     {
       "added_at": null,
@@ -599,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WA SA BI",
-        "url": "https://open.spotify.com/album/1iKMgTVCqAqQBJiKATiwrL"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "WA SA BI",
-      "url": "https://open.spotify.com/track/2wTFTwX7CeKVwRDHD4GoOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABIA",
         "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
       },
@@ -628,9 +628,33 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 189957,
-      "name": "DESCONTROL",
-      "url": "https://open.spotify.com/track/2NZrkRaHrptJ3PxLOror7V"
+      "duration_ms": 185376,
+      "name": "TRANKIS MORRIS",
+      "url": "https://open.spotify.com/track/7DXIduhUXVKM4CjIdzHnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SABIA DELUXE",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 101808,
+      "name": "CAGAPALOS",
+      "url": "https://open.spotify.com/track/1uTbhfQRjtpgH4kUKciDQm"
     },
     {
       "added_at": null,
@@ -671,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABIA",
+        "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189957,
+      "name": "DESCONTROL",
+      "url": "https://open.spotify.com/track/2NZrkRaHrptJ3PxLOror7V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -687,22 +727,6 @@
       "duration_ms": 177815,
       "name": "Puro MQueen",
       "url": "https://open.spotify.com/track/1npx6ZSuv0KOIa8Pv7qCsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SABIA",
-        "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 185376,
-      "name": "TRANKIS MORRIS",
-      "url": "https://open.spotify.com/track/7DXIduhUXVKM4CjIdzHnIw"
     },
     {
       "added_at": null,
@@ -787,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABIA DELUXE",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 139369,
+      "name": "LA QUE ME AGARR\u00c9",
+      "url": "https://open.spotify.com/track/7HFELXpj48Cbk0tSHZCrmb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -852,17 +896,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
         }
       ],
-      "duration_ms": 101808,
-      "name": "CAGAPALOS",
-      "url": "https://open.spotify.com/track/1uTbhfQRjtpgH4kUKciDQm"
+      "duration_ms": 139803,
+      "name": "SAKE",
+      "url": "https://open.spotify.com/track/2g0YUtCINSPL3ObNsI5ABH"
     },
     {
       "added_at": null,
@@ -907,42 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SABIA DELUXE",
-        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Randal",
-          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
-        }
-      ],
-      "duration_ms": 139803,
-      "name": "SAKE",
-      "url": "https://open.spotify.com/track/2g0YUtCINSPL3ObNsI5ABH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
@@ -963,22 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "SABIA DELUXE",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
         }
       ],
-      "duration_ms": 150045,
-      "name": "Las Dos R",
-      "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
+      "duration_ms": 114765,
+      "name": "CHUSCO",
+      "url": "https://open.spotify.com/track/2eYnkfSFvZsGts4n45hqML"
     }
   ],
   "unique_name": "This Is Los Dareyes De La Sierra",

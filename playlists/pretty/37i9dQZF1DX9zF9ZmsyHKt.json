@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
-  "num_followers": 363306,
+  "num_followers": 363307,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-10-23 15:07:58",
       "album": {
-        "name": "Ai Ai Ai Mega Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 183713,
-      "name": "Ai Ai Ai Mega Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF"
-    },
-    {
-      "added_at": "2026-10-23 15:07:58",
-      "album": {
         "name": "T\u00e1 Ardendo Hein",
         "url": "https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 152904,
       "name": "Falando Com a Lua",
       "url": "https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr"
+    },
+    {
+      "added_at": "2026-10-23 15:07:58",
+      "album": {
+        "name": "Ai Ai Ai Mega Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 183713,
+      "name": "Ai Ai Ai Mega Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF"
     },
     {
       "added_at": "2026-10-23 15:07:58",

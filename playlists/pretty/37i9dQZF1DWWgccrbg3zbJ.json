@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 653677,
+  "num_followers": 653963,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Samba De Verao",
+      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
+    },
+    {
+      "added_at": "2026-08-31 08:40:17",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 410186,
       "name": "Samba Da Ben\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH"
-    },
-    {
-      "added_at": "2026-08-31 08:40:17",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Samba De Verao",
-      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
     },
     {
       "added_at": "2026-08-31 08:40:17",

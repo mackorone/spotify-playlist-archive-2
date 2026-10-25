@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "TU MAGIA",
+        "url": "https://open.spotify.com/album/4JYpJwc3ylcnYgpFpsFTuo"
+      },
+      "artists": [
+        {
+          "name": "Medianoche",
+          "url": "https://open.spotify.com/artist/5nyQgG5dI24PwJg61FYa6V"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "TU MAGIA",
+      "url": "https://open.spotify.com/track/0d5tKmy9AJ9Zf1ne4RC9Km"
+    },
+    {
+      "album": {
         "name": "Unknown destinies",
         "url": "https://open.spotify.com/album/1uvJnCKi7u0SmBVEzVb6OU"
       },

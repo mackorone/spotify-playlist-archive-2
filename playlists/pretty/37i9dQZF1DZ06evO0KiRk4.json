@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 592240,
+  "num_followers": 592287,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAASaIoBdzz3e+jNqWdDAe0n",
+  "snapshot_id": "atqjgAAAAAAvmEu6qImF/xU/lNAUL/Np",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You've Got The Love (Jamie xx Rework)",
-        "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
+        "name": "EDM Party",
+        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
       },
       "artists": [
         {
@@ -328,17 +328,17 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         },
         {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 342990,
-      "name": "You've Got The Love - Jamie xx Rework",
-      "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+      "duration_ms": 264574,
+      "name": "You Got The Love (Mark Knight Remix) / One",
+      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EDM Party",
-        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
+        "name": "You've Got The Love (Jamie xx Rework)",
+        "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
       },
       "artists": [
         {
@@ -400,17 +400,17 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         },
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         },
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 264574,
-      "name": "You Got The Love (Mark Knight Remix) / One",
-      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
+      "duration_ms": 342990,
+      "name": "You've Got The Love - Jamie xx Rework",
+      "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 214046,
-      "name": "Daffodil",
-      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
+      "duration_ms": 164566,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 164566,
-      "name": "The Bomb",
-      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
+      "duration_ms": 214046,
+      "name": "Daffodil",
+      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
     },
     {
       "added_at": null,

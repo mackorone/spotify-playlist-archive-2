@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2411010,
+  "num_followers": 2410742,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Ang Wakas (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ang Wakas (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Twelve: Fifty One (International Version)",
         "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever",
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Ang Wakas (feat. Trisha Macapagal)",
-        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        },
-        {
-          "name": "Trisha Macapagal",
-          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ang Wakas (feat. Trisha Macapagal)",
-      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "added_at": "2026-10-02 03:23:34",

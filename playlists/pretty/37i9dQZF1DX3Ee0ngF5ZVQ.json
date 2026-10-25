@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 398260,
+  "num_followers": 398218,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "The Little Things",
-      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 241523,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "Flyin",
+        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Nothin But Texas",
+      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "I Keep Your Memory Around",
         "url": "https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 219026,
       "name": "Three Drinks Behind",
       "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "Flyin",
-        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Nothin But Texas",
-      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+      },
+      "artists": [
+        {
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Hearts Don't",
         "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
       },
@@ -1427,22 +1447,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Never Again One More Time",
-        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
       "artists": [
         {
-          "name": "Walker Montgomery",
-          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 178284,
-      "name": "Never Again One More Time",
-      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1467,22 +1483,6 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "That's What Makes the World Go Around",
-        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Graham St. Clair Band",
+          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
         }
       ],
-      "duration_ms": 197861,
-      "name": "That's What Makes The World Go Around",
-      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+      "duration_ms": 212346,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1607,18 +1603,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
+        "name": "That's What Makes the World Go Around",
+        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
       "artists": [
         {
-          "name": "Graham St. Clair Band",
-          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 212346,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
+      "duration_ms": 197861,
+      "name": "That's What Makes The World Go Around",
+      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "added_at": "2026-08-07 04:01:44",

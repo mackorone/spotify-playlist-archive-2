@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 215933,
+  "num_followers": 215941,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADX45vD2vmQ+xA7Ur0bNQne",
+  "snapshot_id": "atqjgAAAAABTzbO0JFsfN4j0C5DRHiZs",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
+      "duration_ms": 260093,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 260093,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU"
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 217026,
       "name": "Handle This",
       "url": "https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Nothing On My Back",
-      "url": "https://open.spotify.com/track/4C1BEMFeThTt2pTxu1nZPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 199920,
       "name": "Crash",
       "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Nothing On My Back",
+      "url": "https://open.spotify.com/track/4C1BEMFeThTt2pTxu1nZPE"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 202071,
-      "name": "Goddamn I'm Dead Again",
-      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204586,
       "name": "Skumf*k",
       "url": "https://open.spotify.com/track/0SQWxG33k9aRva3V3V9b66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 202071,
+      "name": "Goddamn I'm Dead Again",
+      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 272277,
-      "name": "13 Voices",
-      "url": "https://open.spotify.com/track/6StRdUhg9Fdu5X4shUZBeY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 208120,
       "name": "Reason To Believe",
       "url": "https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 272277,
+      "name": "13 Voices",
+      "url": "https://open.spotify.com/track/6StRdUhg9Fdu5X4shUZBeY"
     },
     {
       "added_at": null,

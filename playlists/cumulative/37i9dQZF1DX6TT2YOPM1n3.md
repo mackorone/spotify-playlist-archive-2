@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Apne mulk ki homegrown hits 🎶 Cover: Asim Azhar
+> Apne mulk ki homegrown hits 🎶 Cover: Hamza Malik
 
 350 songs - 23 hr 49 min
 

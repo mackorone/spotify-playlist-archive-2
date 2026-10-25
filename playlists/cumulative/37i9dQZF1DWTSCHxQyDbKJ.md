@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Joesef
 
-296 songs - 16 hr 17 min
+298 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2025-05-13 | 2025-06-10 |
 | [Come Undone](https://open.spotify.com/track/2QQP5JWmFGiI6qINAQ2rGC) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [The Warping](https://open.spotify.com/album/4sdNDQaXa1x15gsFUbUMXd) | 3:39 | 2024-12-04 | 2025-01-14 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-10 | 2025-02-01 |
-| [Confession](https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 4:32 | 2026-02-10 |  |
+| [Confession](https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 4:32 | 2026-02-10 | 2026-10-25 |
 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 | 2024-12-04 | 2025-01-14 |
 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 | 2025-03-11 | 2026-10-13 |
 | [Crumbling](https://open.spotify.com/track/0dQ99wa8QqUE5I2hjBrV8M) | [Catlea](https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV) | [Crumbling](https://open.spotify.com/album/3PuO7se0rm53jYP88EQD5o) | 3:20 | 2024-08-12 | 2025-01-23 |
@@ -105,6 +105,7 @@
 | [Feel My Feelings](https://open.spotify.com/track/0m2PIy7YXNPK44p7LRoFwA) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:44 | 2024-06-10 | 2024-11-13 |
 | [Focus Is Power](https://open.spotify.com/track/4GROaskNd81jnetKAkRYXI) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Focus Is Power](https://open.spotify.com/album/5fMeoQB68BWbz9gP2Y9WDg) | 3:06 | 2025-03-11 |  |
 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-08-12 |  |
+| [fuck you](https://open.spotify.com/track/3cRzAs7xGgfoiJAjdGeIw9) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1) | [you can have it, i don’t want it no more](https://open.spotify.com/album/6Yxblo6AxNfg35koGtUaAX) | 2:07 | 2026-10-22 |  |
 | [Funny](https://open.spotify.com/track/1XTj67GksyndBxsKAZuOxj) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Funny](https://open.spotify.com/album/4chAV9akGm8EPqya4z4QGY) | 2:18 | 2024-06-10 | 2024-08-13 |
 | [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 | 2025-07-07 |  |
 | [Get Me Away From Here, I'm Dying](https://open.spotify.com/track/4ksAJMoTryW6BTsZpKdoMk) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Calvin Lauber](https://open.spotify.com/artist/6MhwTz6PUbDqp3h0azrtR2), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv), [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:13 | 2024-12-04 | 2025-01-14 |
@@ -276,13 +277,14 @@
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2024-06-10 | 2026-02-11 |
 | [The Two Houses \- House Mix](https://open.spotify.com/track/4bFl7sBTPMaHZY4TGwbWN1) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn) | [The Two Houses EP](https://open.spotify.com/album/69RSr2jx0v039aZys6NlyY) | 6:36 | 2025-05-29 | 2026-10-13 |
 | [The Worst](https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 2:58 | 2024-08-12 |  |
-| [Thelma and Louise](https://open.spotify.com/track/1pJgVRFQliiPFhdnBSMKwG) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Thelma and Louise](https://open.spotify.com/album/2rsekvT7HPXOVQbLDFEtUt) | 3:12 | 2026-02-10 |  |
+| [Thelma and Louise](https://open.spotify.com/track/1pJgVRFQliiPFhdnBSMKwG) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Thelma and Louise](https://open.spotify.com/album/2rsekvT7HPXOVQbLDFEtUt) | 3:12 | 2026-02-10 | 2026-10-25 |
 | [Then There Was You \- From "The Garfield Movie"](https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Then There Was You \(From "The Garfield Movie"\)](https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U) | 2:42 | 2024-06-10 | 2026-02-11 |
 | [thicc](https://open.spotify.com/track/6KiMTXhMNHO05AzOV6W7ir) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy](https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F) | 3:42 | 2024-11-19 | 2024-12-05 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2024-06-10 | 2026-02-11 |
 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 | 2024-12-04 | 2025-01-14 |
 | [Trouble](https://open.spotify.com/track/4Pt4Vdrd62VdIB5Ax1uHrZ) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Trouble](https://open.spotify.com/album/0uEAKarNQvGAihjnah3asA) | 3:39 | 2024-08-14 | 2024-09-10 |
 | [Ultrasound](https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ultrasound](https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui) | 2:36 | 2024-06-10 | 2024-09-10 |
+| [UMA](https://open.spotify.com/track/0rLZWVzNqEot2fpyXID4vP) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [BABY DON'T MOVE](https://open.spotify.com/album/7nlr2Ln63ZUnX1Bc3zb1OR) | 2:59 | 2026-10-22 |  |
 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 | 2025-10-14 |  |
 | [Wahoo](https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Wahoo](https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq) | 2:05 | 2025-07-07 |  |
 | [we2assume2many2roles](https://open.spotify.com/track/3dr4RVjksmZV0wS28aRGot) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:18 | 2024-12-04 | 2025-01-14 |

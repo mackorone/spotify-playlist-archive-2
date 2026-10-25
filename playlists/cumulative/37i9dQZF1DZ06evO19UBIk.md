@@ -4,7 +4,7 @@
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 7 min
+81 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Break on Through \(To the Other Side\) \- New Stereo Mix](https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 2:26 | 2025-08-31 |  |
 | [Breakn' a Sweat](https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 5:01 | 2022-01-11 |  |
 | [Cars Hiss by My Window](https://open.spotify.com/track/2Sjez1CwJv8Pz018CxKjWa) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:09 | 2022-10-09 | 2024-07-24 |
+| [Dead Cats, Dead Rats \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/7BZuIdyEVEcK3pvRw1yHJt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 1:47 | 2026-10-25 |  |
 | [End of the Night](https://open.spotify.com/track/09ezgACZuwWZt6CtQSSLRG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:50 | 2022-01-20 | 2024-07-04 |
 | [Five to One](https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 4:24 | 2022-01-11 |  |
 | [Get up and Dance](https://open.spotify.com/track/1HCrzK0GjSnIaPJs2KKsMQ) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Full Circle](https://open.spotify.com/album/26Fac6kNgB6MLeoGVkmpKN) | 2:35 | 2022-01-20 | 2023-12-26 |

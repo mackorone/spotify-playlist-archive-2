@@ -1859,6 +1859,28 @@
     },
     {
       "album": {
+        "name": "No Es Cierto",
+        "url": "https://open.spotify.com/album/6EQfZS6wgjOXRCWYn0oJmg"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225653,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m"
+    },
+    {
+      "album": {
         "name": "Piano y Voz en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/4ZwCAY3oNENcqQR4dSLFTF"
       },

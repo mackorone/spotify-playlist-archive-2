@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: AKRIILA",
-  "num_followers": 134691,
+  "num_followers": 134713,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 127575,
+      "name": "Te Dar\u00e9",
+      "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 190151,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "M\u00e1s Cara",
-        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 127575,
-      "name": "Te Dar\u00e9",
-      "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/4WNp803MnuN5yhH2NuyA35"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/7rWOuBzhjHdiR7RPz9YH7L"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/4WNp803MnuN5yhH2NuyA35"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/7rWOuBzhjHdiR7RPz9YH7L"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "No Tengo Remedio",
-        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "No Tengo Remedio",
-      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "BESITO",
         "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 179720,
       "name": "BESITO",
       "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "No Tengo Remedio",
+        "url": "https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "No Tengo Remedio",
+      "url": "https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 217133,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/3MhdQkxCOkM41Q7oPFIABJ"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Ante el Umbral del Peligro No Siento Temor",
-        "url": "https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 193355,
-      "name": "CRACK",
-      "url": "https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Quien Como T\u00fa",
         "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Ante el Umbral del Peligro No Siento Temor",
+        "url": "https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 193355,
+      "name": "CRACK",
+      "url": "https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Qui\u00e9reme Menos",
         "url": "https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213283,
       "name": "Qui\u00e9reme Menos",
       "url": "https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 267973,
-      "name": "Como Me Duele Perderte",
-      "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "I can fix him",
         "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 184893,
       "name": "I can fix him",
       "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 267973,
+      "name": "Como Me Duele Perderte",
+      "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "la nena de un gang$ter",
-        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 206256,
-      "name": "la nena de un gang$ter",
-      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "miau",
         "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "la nena de un gang$ter",
+        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 206256,
+      "name": "la nena de un gang$ter",
+      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
     },
     {
       "added_at": "2026-10-02 04:02:33",

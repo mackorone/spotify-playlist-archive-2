@@ -4,7 +4,7 @@
 
 > Zwolnij tempo i daj się otulić jesiennym brzmieniom\. 🍂🎃☕
 
-1,149 songs - 2 day 16 hr 25 min
+1,150 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,7 +922,7 @@
 | [Słownikowa samba](https://open.spotify.com/track/2GYNzdabOU9VzmgK2hLCTv) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn), [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Słownikowa samba](https://open.spotify.com/album/4MZ3T2IYvASAJN1hNr6PED) | 3:18 | 2024-08-23 | 2024-09-13 |
 | [Słońca](https://open.spotify.com/track/2ftSQAOTflSTjSYs3GUpw0) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Słońca](https://open.spotify.com/album/3s8WqPOFJ7RVFH0apHDV35) | 2:25 | 2026-09-10 | 2026-09-26 |
 | [Tacy sami](https://open.spotify.com/track/3BMOhoXlSUa3hOEgX6qxni) | [Tymoteusz](https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Tacy sami](https://open.spotify.com/album/35Xx6b9gx0QywRgl40nVf2) | 4:05 | 2025-06-20 | 2025-10-11 |
-| [Tak bym chciał...](https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Południe](https://open.spotify.com/album/682aI8kCrCpjITb2VV69hn) | 3:20 | 2026-10-02 |  |
+| [Tak bym chciał...](https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Południe](https://open.spotify.com/album/682aI8kCrCpjITb2VV69hn) | 3:20 | 2026-10-02 | 2026-10-25 |
 | [Tak ma być](https://open.spotify.com/track/2dMyKIP1j1IFt84XFt0Cno) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Tak ma być](https://open.spotify.com/album/3SbTCoBrCfFQOKuiAgP7yQ) | 4:45 | 2026-03-27 | 2026-04-18 |
 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 | 2024-11-21 | 2025-01-27 |
 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-15 | 2025-12-06 |
@@ -986,6 +986,7 @@
 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 | 2025-09-15 | 2025-10-12 |
 | [To twoja wina](https://open.spotify.com/track/2DwgHIWqT5VHdRLzFwHcCK) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [To twoja wina](https://open.spotify.com/album/4fT0qOby3KOEx2KhlsEc3N) | 3:13 | 2025-08-22 | 2025-09-22 |
 | [To zabolało](https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [To zabolało](https://open.spotify.com/album/0q568p4Sn8OPCA1J9Y8vnn) | 3:13 | 2026-09-25 | 2026-10-03 |
+| [Tom and Jerry](https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Tom and Jerry](https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0) | 3:51 | 2026-10-23 |  |
 | [Tom Yum \(feat\. Kacperczyk\)](https://open.spotify.com/track/6ryyTwboF5cgbx9uUMLhSY) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Tom Yum \(feat\. Kacperczyk\)](https://open.spotify.com/album/0nbSOtW1FW0yZTBDi9g54D) | 2:40 | 2025-07-04 | 2025-07-11 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-07 | 2025-04-26 |
 | [Too Sad](https://open.spotify.com/track/6LI0IgqX2Oft1IcqEuNIkB) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Too Sad](https://open.spotify.com/album/0BHSgIWKARuOoE8q0X9xpk) | 3:52 | 2024-07-05 | 2024-07-12 |

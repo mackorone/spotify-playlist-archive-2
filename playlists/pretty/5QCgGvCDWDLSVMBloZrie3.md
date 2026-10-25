@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 13 likes - 261 songs - 16 hr 28 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 13 likes - 264 songs - 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,5 +269,8 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 259 | [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 |
 | 260 | [The House of the Rising Sun](https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 4:03 |
 | 261 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
+| 262 | [Sleep On My Couch](https://open.spotify.com/track/1AHp713ABEoSGKSeQJZa1i) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Sleep On My Couch](https://open.spotify.com/album/3VpJk9LhlRIiXMfO8I8TcY) | 3:26 |
+| 263 | [Boogie All By Yourself](https://open.spotify.com/track/3eVU8N3mpZGBfdUxsFb2aF) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Sleep On My Couch](https://open.spotify.com/album/3VpJk9LhlRIiXMfO8I8TcY) | 3:15 |
+| 264 | [You Just Wanna Get With My Friend](https://open.spotify.com/track/6NAThquzbZlEtkDSxVXUKG) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Sleep On My Couch](https://open.spotify.com/album/3VpJk9LhlRIiXMfO8I8TcY) | 3:23 |
 
-Snapshot ID: `AAAGNBXnyAtfyn9tHNjyyYBeJtwOUdO+`
+Snapshot ID: `AAAGN82K+ot778yoe3Lbs4ZwV+SQUgqb`

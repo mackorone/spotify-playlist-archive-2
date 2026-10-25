@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 211146,
       "name": "A Constant Reminder",
       "url": "https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 267373,
       "name": "Cherished",
       "url": "https://open.spotify.com/track/7wjCWw8TdapyzVkxLGEuuf"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Compromised",
       "url": "https://open.spotify.com/track/62bn0wrhmzWQzsBLQNGlwp"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 249733,
       "name": "Crimson Grim",
       "url": "https://open.spotify.com/track/7xpZCf829QQ48ffpW5lwDk"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 400040,
       "name": "Death To Traitors",
       "url": "https://open.spotify.com/track/3dQWrKXR3NmdjP5zxaNMTQ"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 216457,
       "name": "End Transmission",
       "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 273813,
       "name": "Making Waves",
       "url": "https://open.spotify.com/track/5wVnuvqO9WnyssSsGUcLSx"
@@ -3726,6 +3726,24 @@
     {
       "album": {
         "name": "Recover",
+        "url": "https://open.spotify.com/album/1OEtc5TTFOqF0Kzw0THmdm"
+      },
+      "artists": [
+        {
+          "name": "Confide",
+          "url": "https://open.spotify.com/artist/5AaqnHhrLz7lC1QBqG8i8p"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167472,
+      "name": "People Are Crazy",
+      "url": "https://open.spotify.com/track/18nrWX9s4WiA7yEnWF8XmY"
+    },
+    {
+      "album": {
+        "name": "Recover",
         "url": "https://open.spotify.com/album/5dXhMf2qn82uY9txaTIoFK"
       },
       "artists": [
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "Re-Ignite The Fires",
       "url": "https://open.spotify.com/track/2ivM2lU3FaRz67qQbQ8MB0"
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 260063,
       "name": "Salty Grave",
       "url": "https://open.spotify.com/track/4Lq9mauZAuMsdN29Mp7k39"
@@ -4496,7 +4514,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 232000,
       "name": "Sly Foxes",
       "url": "https://open.spotify.com/track/5zaNzdBTfFJ8qn8Ell9pD7"
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 281813,
       "name": "Sorry Seacrest It's Casey's Countdown",
       "url": "https://open.spotify.com/track/0QyuVvyW2NMBQcSKZT62Ob"
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 177960,
       "name": "Taste The Red Hands",
       "url": "https://open.spotify.com/track/5rVO7v6A6Yva7wXPNaCnzH"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -5162,7 +5180,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 277933,
       "name": "the life",
       "url": "https://open.spotify.com/track/4pNqa5A4HbRnhWnRm0QvIJ"
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 210480,
       "name": "The Road To Hell Is Paved With Good Intentions (feat. Craig Owens of Chiodos)",
       "url": "https://open.spotify.com/track/5x97GqwWM5X5JBz7Q7lyyX"
@@ -5490,7 +5508,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 230133,
       "name": "The Worst Is yet to Come",
       "url": "https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI"
@@ -5976,7 +5994,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
@@ -6282,7 +6300,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/6x5dFcv0JhzU25jjvHh21K"

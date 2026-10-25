@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309799,
+  "num_followers": 1309813,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAAge+IzNG4pjeg+ffCxLaA9",
+  "snapshot_id": "atqjgAAAAAB7Rf9BwHP29qnSd0s/7tbF",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 128860,
       "name": "hIGhLIGhTS",
       "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "entre CIELOS",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "angelical",
+      "url": "https://open.spotify.com/track/0jKZSiuz4qjPpTSsKXNEOj"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 195709,
-      "name": "C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -195,6 +195,22 @@
       "duration_ms": 178200,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 195709,
+      "name": "C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
     },
     {
       "added_at": null,
@@ -347,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "entre CIELOS",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "hasta que LLEGUE YO",
+      "url": "https://open.spotify.com/track/0opFHtz2w0AazcSTwy6Odw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -359,6 +391,22 @@
       "duration_ms": 165560,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "Homerun (Intro)",
+      "url": "https://open.spotify.com/track/7kh95COsNZjnTmc6aF76n7"
     },
     {
       "added_at": null,
@@ -383,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "Homerun (Intro)",
-      "url": "https://open.spotify.com/track/7kh95COsNZjnTmc6aF76n7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Party (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV"
       },
@@ -419,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reci\u00e9n Soltera",
-        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 183856,
-      "name": "Reci\u00e9n Soltera",
-      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -451,6 +467,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reci\u00e9n Soltera",
+        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 183856,
+      "name": "Reci\u00e9n Soltera",
+      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "entre CIELOS",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 183768,
+      "name": "alucinaCIONES",
+      "url": "https://open.spotify.com/track/57KLbdEvKuzriBw4lbx3c3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S"
       },
@@ -463,38 +511,6 @@
       "duration_ms": 233169,
       "name": "Relax",
       "url": "https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mujer Maravilla",
-        "url": "https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 147263,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna Llena",
-        "url": "https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 181315,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI"
     },
     {
       "added_at": null,
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+        "name": "entre CIELOS",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV"
       },
       "artists": [
         {
@@ -548,9 +564,41 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 141475,
-      "name": "GLAMPING",
-      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
+      "duration_ms": 139827,
+      "name": "el SALVADOR",
+      "url": "https://open.spotify.com/track/1pLjQnsZ2mDlPmu1JFVX3V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujer Maravilla",
+        "url": "https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 147263,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 181315,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI"
     },
     {
       "added_at": null,
@@ -583,22 +631,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
+        "name": "entre CIELOS",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 224845,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
+      "duration_ms": 135500,
+      "name": "no VALE",
+      "url": "https://open.spotify.com/track/5sPgeHBE3trTjnh8cdSVkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 141475,
+      "name": "GLAMPING",
+      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
     },
     {
       "added_at": null,
@@ -623,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 121869,
-      "name": "NEXT",
-      "url": "https://open.spotify.com/track/23DtMntbWNRJV586cBH4sP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confiado y Tranquilo",
         "url": "https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b"
       },
@@ -655,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+        "name": "entre CIELOS",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV"
       },
       "artists": [
         {
@@ -664,9 +708,45 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+      "duration_ms": 145846,
+      "name": "hazme EL FAVOR",
+      "url": "https://open.spotify.com/track/6WnOy4DprbrwakhZDyrsB0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 121869,
+      "name": "NEXT",
+      "url": "https://open.spotify.com/track/23DtMntbWNRJV586cBH4sP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
     },
     {
       "added_at": null,
@@ -683,22 +763,6 @@
       "duration_ms": 165517,
       "name": "Paraca\u00eddas",
       "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 119061,
-      "name": "GRACIAS",
-      "url": "https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r"
     },
     {
       "added_at": null,
@@ -723,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
       },
       "artists": [
         {
@@ -732,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+      "duration_ms": 119061,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r"
     },
     {
       "added_at": null,
@@ -763,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
       },
       "artists": [
         {
@@ -772,9 +836,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 158497,
-      "name": "MI VERSI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": null,
@@ -803,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 158497,
+      "name": "MI VERSI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Itamambuca",
         "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
       },
@@ -819,38 +899,6 @@
       "duration_ms": 243793,
       "name": "Itamambuca",
       "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 172561,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 142769,
-      "name": "SIN CADENAS",
-      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
     },
     {
       "added_at": null,
@@ -883,78 +931,6 @@
       "duration_ms": 291459,
       "name": "Sentimiento M\u00e1gico (feat. FLOUSES) - Remix",
       "url": "https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A200 (Remix)",
-        "url": "https://open.spotify.com/album/3CNSRkEeO9QWGiyqX8Ozok"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Bayron Fire",
-          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 319105,
-      "name": "A200 - Remix",
-      "url": "https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 182317,
-      "name": "PVSL",
-      "url": "https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ"
     }
   ],
   "unique_name": "This Is Paulo Londra",

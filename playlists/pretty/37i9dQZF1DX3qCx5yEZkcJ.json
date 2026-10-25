@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1462686,
+  "num_followers": 1462614,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Flute Echoes",
         "url": "https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 147747,
       "name": "Flute Echoes",
       "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -691,6 +691,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Raincoat (Paul Grant Remix)",
+        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Raincoat (Paul Grant Remix)",
+      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 139508,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Raincoat (Paul Grant Remix)",
-        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Raincoat (Paul Grant Remix)",
-      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -831,26 +831,18 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
       },
       "artists": [
         {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        },
-        {
-          "name": "dryhope",
-          "url": "https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t"
-        },
-        {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Woodstock",
-      "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -875,18 +867,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
       },
       "artists": [
         {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "dryhope",
+          "url": "https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
         }
       ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
+      "duration_ms": 165333,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 162324,
       "name": "Primo",
       "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "A Kid From Yerevan (Instrumental)",
-        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Sinking Ship - Instrumental",
-      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "A Kid From Yerevan (Instrumental)",
+        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Sinking Ship - Instrumental",
+      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Tender Rose (Mr. K\u00e4fer Remix)",
         "url": "https://open.spotify.com/album/4xSiUPonw1Cdn5n8nRkj73"
       },
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "6F Encounters",
-        "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "6F Encounters",
-      "url": "https://open.spotify.com/track/0RgB0efZJi6NR17fAi0uNH"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Kingyo",
         "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
       },
@@ -1127,22 +1095,34 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Yugure",
-        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
       "artists": [
         {
-          "name": "Komachi",
-          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
         }
       ],
-      "duration_ms": 126750,
-      "name": "Yugure",
-      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "6F Encounters",
+        "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "6F Encounters",
+      "url": "https://open.spotify.com/track/0RgB0efZJi6NR17fAi0uNH"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1163,6 +1143,26 @@
       "duration_ms": 153065,
       "name": "Only Way 2 Go (Instrumental)",
       "url": "https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Yugure",
+        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
+      },
+      "artists": [
+        {
+          "name": "Komachi",
+          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "Yugure",
+      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+      },
+      "artists": [
+        {
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 165189,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "A Journey Beyond Time",
+        "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
+      },
+      "artists": [
+        {
+          "name": "CO-MA",
+          "url": "https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt"
+        },
+        {
+          "name": "Melanie Faye",
+          "url": "https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Night Step",
         "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
@@ -1423,6 +1443,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "reminisce",
         "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
       },
@@ -1447,38 +1483,18 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "A Journey Beyond Time",
-        "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
       },
       "artists": [
         {
-          "name": "CO-MA",
-          "url": "https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt"
-        },
-        {
-          "name": "Melanie Faye",
-          "url": "https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Tender Rose",
-        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 202938,
-      "name": "Tender Rose",
-      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1499,22 +1515,6 @@
       "duration_ms": 122105,
       "name": "Sakura Bloom",
       "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     }
   ],
   "unique_name": "Mellow Beats",

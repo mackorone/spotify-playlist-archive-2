@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 117 | [Done It By Now](https://open.spotify.com/track/4G6uUGW2M8pKgSSlAMp8iS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/5sPOAtvoraeS9ak1oVVgdi) | 3:24 |
 | 118 | [New Salt](https://open.spotify.com/track/0G5f1pg9GN5FloOuiKx50b) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [New Salt](https://open.spotify.com/album/0vbqMLbvqvuBg3LfHltak2) | 3:30 |
 | 119 | [Out of This Car](https://open.spotify.com/track/7BnOc1s24pCVsCKxJFLIFq) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Out of This Car](https://open.spotify.com/album/5sIovGQp1OlZ7oHjBqP3aM) | 2:59 |
-| 120 | [Grow Young With You](https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Grow Young With You](https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93) | 3:08 |
-| 121 | [End Like This](https://open.spotify.com/track/2XQ9qspv08LdIeEONum55C) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 2:53 |
+| 120 | [End Like This](https://open.spotify.com/track/2XQ9qspv08LdIeEONum55C) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 2:53 |
+| 121 | [Grow Young With You](https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Grow Young With You](https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93) | 3:08 |
 | 122 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
 | 123 | [Iconic](https://open.spotify.com/track/4ITfuldRlsdWBZWzZ8nykt) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 2:35 |
 | 124 | [Slow Down](https://open.spotify.com/track/3CqiTpYR4cRPr0zfZhjJQb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:50 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcfvnAAAAAAunEWVRJ2SiZb4lqkVaUi8`
+Snapshot ID: `Acf1PAAAAABn2co66hJGG6AWvsXfYHzE`

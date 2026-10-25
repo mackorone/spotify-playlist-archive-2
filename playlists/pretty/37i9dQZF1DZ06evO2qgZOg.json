@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 334944,
+  "num_followers": 334986,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAAALqZSXxfmJTMW3veGNa+X",
+  "snapshot_id": "atqjgAAAAADWKwjjcRV6CiUpNYcc2S74",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comatose",
-        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Rebirthing",
-      "url": "https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Rebirthing",
+      "url": "https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/6L4SxtZZYtbp7uLYz37guc"
       },
@@ -311,6 +311,38 @@
       "duration_ms": 204800,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/6OlXM5xkhNs8jcI56ax8zc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "After The Storm",
+      "url": "https://open.spotify.com/track/4ChqapoSKR3dFwVJ36ScMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
     },
     {
       "added_at": null,
@@ -335,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
       },
       "artists": [
         {
@@ -344,9 +376,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 215880,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
+      "duration_ms": 190360,
+      "name": "Sick of It",
+      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
     },
     {
       "added_at": null,
@@ -360,15 +392,15 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 225866,
-      "name": "After The Storm",
-      "url": "https://open.spotify.com/track/4ChqapoSKR3dFwVJ36ScMS"
+      "duration_ms": 204133,
+      "name": "Come and Find Me",
+      "url": "https://open.spotify.com/track/53L67CGzWMjG91DPMZc5qH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
       "artists": [
         {
@@ -376,9 +408,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Sick of It",
-      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
+      "duration_ms": 225853,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
     },
     {
       "added_at": null,
@@ -407,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
       "artists": [
         {
@@ -416,9 +448,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 225853,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
     },
     {
       "added_at": null,
@@ -432,25 +464,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Come and Find Me",
-      "url": "https://open.spotify.com/track/53L67CGzWMjG91DPMZc5qH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+      "duration_ms": 226200,
+      "name": "Heaven Help Us",
+      "url": "https://open.spotify.com/track/0NT4gDp41RefSVTIvs0qom"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 210786,
       "name": "The Last Night",
       "url": "https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Heaven Help Us",
-      "url": "https://open.spotify.com/track/0NT4gDp41RefSVTIvs0qom"
     },
     {
       "added_at": null,

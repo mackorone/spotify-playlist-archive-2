@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4151480,
+  "num_followers": 4152223,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Me Matas",
-      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Top Of The Line",
         "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 173866,
       "name": "Flow Natural",
       "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 232666,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/5CxTmO3ri43RrwK1CZ8HTW"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 235311,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
-      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 214746,
       "name": "D\u00e9jala (feat. Duende)",
       "url": "https://open.spotify.com/track/0k4UXBC9700xNV7P0bZgTR"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Plan Calle",
+        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Bata Bata 2",
+      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Plan Calle",
-        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
       "artists": [
         {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Bata Bata 2",
-      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
+      "duration_ms": 205976,
+      "name": "Donde Hubo Fuego",
+      "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -1611,22 +1627,6 @@
       "duration_ms": 227853,
       "name": "Hola Beb\u00e9",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 205976,
-      "name": "Donde Hubo Fuego",
-      "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Ponte Pa Mi",
-      "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Masacre Musical",
         "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 280680,
       "name": "Es Dificil",
       "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Ponte Pa Mi",
+      "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 238890,
-      "name": "Si No Cuidas Tu Mujer",
-      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 244680,
       "name": "Amor Genuino",
       "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 238890,
+      "name": "Si No Cuidas Tu Mujer",
+      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -2799,6 +2799,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Voz Sensual",
+      "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -2815,22 +2831,6 @@
       "duration_ms": 223013,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
-      },
-      "artists": [
-        {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Voz Sensual",
-      "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3531,6 +3531,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
+      },
+      "artists": [
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "duration_ms": 199110,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
         "name": "Desahogo",
         "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
       },
@@ -3547,22 +3563,6 @@
       "duration_ms": 281813,
       "name": "Lo Grande Que Es Perdonar",
       "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
-      },
-      "artists": [
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        }
-      ],
-      "duration_ms": 199110,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3603,38 +3603,22 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "La Versatilidad de la Calle",
-        "url": "https://open.spotify.com/album/5lJFqTZrot5GNYLYspmebk"
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
       "artists": [
         {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         },
         {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
         }
       ],
-      "duration_ms": 167288,
-      "name": "Esc\u00e1pate Conmigo - Remix",
-      "url": "https://open.spotify.com/track/3njYteZvn759aNUXMCxiRX"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "En Honor A La Verdad",
-        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "5 de Septiembre - Reggaeton Version",
-      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3651,6 +3635,22 @@
       "duration_ms": 189010,
       "name": "Sandunguera",
       "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "En Honor A La Verdad",
+        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "5 de Septiembre - Reggaeton Version",
+      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3675,22 +3675,38 @@
     {
       "added_at": "2026-09-23 16:07:56",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+        "name": "Chosen Few El Documental II",
+        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+      "duration_ms": 183133,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
+    },
+    {
+      "added_at": "2026-09-23 16:07:56",
+      "album": {
+        "name": "La Versatilidad de la Calle",
+        "url": "https://open.spotify.com/album/5lJFqTZrot5GNYLYspmebk"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 167288,
+      "name": "Esc\u00e1pate Conmigo - Remix",
+      "url": "https://open.spotify.com/track/3njYteZvn759aNUXMCxiRX"
     },
     {
       "added_at": "2026-09-23 16:07:56",
@@ -3739,22 +3755,6 @@
       "duration_ms": 175533,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
-    },
-    {
-      "added_at": "2026-09-23 16:07:56",
-      "album": {
-        "name": "Chosen Few El Documental II",
-        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
     },
     {
       "added_at": "2026-09-23 16:07:56",

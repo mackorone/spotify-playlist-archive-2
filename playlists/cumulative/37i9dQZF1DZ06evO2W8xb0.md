@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-130 songs - 21 hr 15 min
+131 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ibadan](https://open.spotify.com/track/1QslDCZASnNFS8zkRcYd6y) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Edumare Adupe](https://open.spotify.com/album/5X19xBZ7i4bR8t61MEWIjU) | 3:02 | 2026-07-20 | 2026-10-07 |
 | [Ibadan](https://open.spotify.com/track/3LqXydNbpqQPJlDdLm8FNi) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Edumare Adupe](https://open.spotify.com/album/7dmCVKjaV3ZEcRSKFpRzne) | 3:09 | 2026-10-10 |  |
 | [Ibadan \(Juju Yoruba\)](https://open.spotify.com/track/0EFqxIoVWjF3Zjz71n86bc) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:09 | 2021-12-28 | 2026-07-20 |
+| [Igba Laiye](https://open.spotify.com/track/405SZSelz5Q62sbee4ptCV) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/68veb0yCP2rLXzHEIRWMz6) | 6:06 | 2026-10-25 |  |
 | [Igba Owuro](https://open.spotify.com/track/4iKFZWsXj8XWVx7kmE1St3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ambition](https://open.spotify.com/album/1ibmj02QgF0gAtkgPWNEj3) | 20:14 | 2026-10-19 |  |
 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 | 2022-04-12 | 2024-07-02 |
 | [Igba Owuro Lawa Medley, Pt.1](https://open.spotify.com/track/4Rtx3AeqRBU6HljCtL7PXe) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Igba Owuro Lawa](https://open.spotify.com/album/6PWBwe1Bv5RAjVQhRRulrE) | 20:11 | 2024-10-11 | 2026-10-19 |

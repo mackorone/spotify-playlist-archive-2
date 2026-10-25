@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Anthems & Prayers",
+        "url": "https://open.spotify.com/album/5z8AlEQOw77HkHtugXD4B9"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tim Bush",
+          "url": "https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648571,
+      "name": "Ancient Of Day (feat. Tim Bush)",
+      "url": "https://open.spotify.com/track/2Eo36Tqm2W8rXXKoaF5MUb"
+    },
+    {
+      "album": {
         "name": "I See Victory",
         "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
       },
@@ -2136,7 +2158,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 460413,
       "name": "Love Lifted Me",
       "url": "https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO"
@@ -3680,7 +3702,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 499448,
       "name": "We Adore You - Live",
       "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
@@ -3750,7 +3772,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 465962,
       "name": "We Serve - Live",
       "url": "https://open.spotify.com/track/0WrFATBwkzf4rtBbaVz9GR"

@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 190333,
       "name": "Balkon",
       "url": "https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek"
@@ -7144,7 +7144,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 146000,
       "name": "\u0130yi Ki Sen",
       "url": "https://open.spotify.com/track/40PhqU68xiVbYWVjhWvAdK"
@@ -7372,6 +7372,24 @@
       "duration_ms": 219260,
       "name": "Kal",
       "url": "https://open.spotify.com/track/3kSt07STpxkueWtyxpmNgn"
+    },
+    {
+      "album": {
+        "name": "Kal Be G\u00f6nl\u00fcm",
+        "url": "https://open.spotify.com/album/7CmGX5rBFbAy14XBz8yNHy"
+      },
+      "artists": [
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262946,
+      "name": "Kal Be G\u00f6nl\u00fcm",
+      "url": "https://open.spotify.com/track/1iUjRhPKgom5k4WgIquaXT"
     },
     {
       "album": {
@@ -12172,7 +12190,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 229100,
       "name": "Unutamad\u0131m Ad\u0131n\u0131 - Akustik",
       "url": "https://open.spotify.com/track/4fvo2zJgYBrZyYeWxHHpDZ"

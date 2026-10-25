@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: Cruel Santino
 
-1,199 songs - 2 day 9 hr 17 min
+1,200 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [4GET IT](https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [4GET IT](https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY) | 2:56 | 2025-05-09 | 2025-11-14 |
 | [4r U](https://open.spotify.com/track/0yeOy13aMktGb7NCWww0oC) | [MKABOVE](https://open.spotify.com/artist/6bjBS7xLH2JbajNLMA8FGt) | [Life of The Party](https://open.spotify.com/album/1R48sF7AE4j1wcfjfOtC7Q) | 2:02 | 2024-07-05 | 2024-09-20 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-10-28 | 2022-12-02 |
+| [5am in Paris](https://open.spotify.com/track/0ZbFZwQD4tCeJd6aj5URJ1) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [5am in Paris](https://open.spotify.com/album/7tA8uKGR4lF3HJQ10sFDSP) | 1:53 | 2026-10-23 |  |
 | [5STAR](https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [5STAR](https://open.spotify.com/album/6AyJAGUMwWM0jNmZiLvP8R) | 2:40 | 2021-12-16 | 2022-10-29 |
 | [69](https://open.spotify.com/track/3820MsWdZPJqY4BmufkDhF) | [Bigshyrobot](https://open.spotify.com/artist/5Gp3ND1rG12SLKytLutUvf) | [69](https://open.spotify.com/album/7bq257wujPnahSmUbeXtVo) | 2:44 | 2023-11-03 | 2023-11-24 |
 | [7 DAYS](https://open.spotify.com/track/6ZVhEsRHDUpA8AzNmTBeJu) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RAIN](https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW) | 2:11 | 2023-01-06 | 2023-05-20 |
@@ -812,7 +813,7 @@
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-23 | 2023-06-17 |
 | [party animal$ interlude \(with suono sai\)](https://open.spotify.com/track/2Ug1ARrqDUr3lVvoF4n8Ag) | [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf), [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX) | [party animal$ interlude \(with suono sai\)](https://open.spotify.com/album/39dvgXUbrqtndPoc4TYwtq) | 2:08 | 2026-07-31 |  |
 | [Party Rider](https://open.spotify.com/track/3IxdNMA8CAdhUqzsKLVa0c) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Party Rider](https://open.spotify.com/album/7N2GQlAimFSXCuKq5lhCE6) | 2:44 | 2022-01-20 | 2023-03-18 |
-| [PASS THE DUTCHY](https://open.spotify.com/track/3MVkmqAJsVILjoGo5AQ0uU) | [Dutch IRL](https://open.spotify.com/artist/0q0bmFpf1qDpyO8BbtwRSf) | [SELAH](https://open.spotify.com/album/6HVQIhBp9pDj1wUZg1m0N8) | 2:12 | 2026-08-14 |  |
+| [PASS THE DUTCHY](https://open.spotify.com/track/3MVkmqAJsVILjoGo5AQ0uU) | [Dutch IRL](https://open.spotify.com/artist/0q0bmFpf1qDpyO8BbtwRSf) | [SELAH](https://open.spotify.com/album/6HVQIhBp9pDj1wUZg1m0N8) | 2:12 | 2026-08-14 | 2026-10-25 |
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 | 2022-11-04 |
 | [Passport](https://open.spotify.com/track/65Dr9kKMScOqdjGGjU01ui) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Passport](https://open.spotify.com/album/7wG3slay5oeAb5hBTW1Itd) | 3:05 | 2024-10-25 | 2025-05-23 |
 | [PAST](https://open.spotify.com/track/34qOsOXR6mn4AMuS4COfc4) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [PAST](https://open.spotify.com/album/17mhziFzMsiur9WMF8PI00) | 2:56 | 2024-02-09 | 2024-03-08 |

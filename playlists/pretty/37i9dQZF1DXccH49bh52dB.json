@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 751631,
+  "num_followers": 751674,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Help Me Lose My Mind",
-        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        }
-      ],
-      "duration_ms": 172945,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Settle (Deluxe Version)",
         "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Help Me Lose My Mind",
+        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 172945,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2055,26 +2055,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Cut Your Teeth (Kygo Remix)",
         "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
       },
@@ -2095,18 +2075,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/400Ymai2y2a12EvkEUEx7p"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2127,6 +2111,22 @@
       "duration_ms": 187126,
       "name": "Heatwave (feat. Akon)",
       "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/400Ymai2y2a12EvkEUEx7p"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "feel",
-        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Can't Stand To Lose",
         "url": "https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 292620,
       "name": "Can't Stand To Lose",
       "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2799,6 +2799,30 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Runaways",
+        "url": "https://open.spotify.com/album/7nttA2MrcRbkBDlLdFdh9Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Teemu",
+          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
+        }
+      ],
+      "duration_ms": 180401,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/78u5zXt7t0vySly74lXMyP"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/4SxQPH2WUVZbnhLPwDQuQT"
       },
@@ -2827,30 +2851,6 @@
       "duration_ms": 236573,
       "name": "Swimming In The Dark",
       "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Runaways",
-        "url": "https://open.spotify.com/album/7nttA2MrcRbkBDlLdFdh9Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Teemu",
-          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
-        }
-      ],
-      "duration_ms": 180401,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/78u5zXt7t0vySly74lXMyP"
     },
     {
       "added_at": "2026-07-10 04:00:56",

@@ -727,6 +727,30 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 12",
+        "url": "https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5ead \u85ab (CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph"
+        },
+        {
+          "name": "\u9ed2\u91ce\u7384\u6b66 (CV.\u6df1\u753a\u5bff\u6210)",
+          "url": "https://open.spotify.com/artist/38GMHC9cKZ84mYq2mHgcWR"
+        },
+        {
+          "name": "\u4e5d\u5341\u4e5d\u4e00\u5e0c (CV.\u5fb3\u6b66\u7adc\u4e5f)",
+          "url": "https://open.spotify.com/artist/5pFmOn9BLTq0eBsFDLqfO4"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Your Nobility",
+      "url": "https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM WORLD TRE@SURE 04",
         "url": "https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1"
       },
@@ -755,30 +779,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 12",
-        "url": "https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5ead \u85ab (CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph"
-        },
-        {
-          "name": "\u9ed2\u91ce\u7384\u6b66 (CV.\u6df1\u753a\u5bff\u6210)",
-          "url": "https://open.spotify.com/artist/38GMHC9cKZ84mYq2mHgcWR"
-        },
-        {
-          "name": "\u4e5d\u5341\u4e5d\u4e00\u5e0c (CV.\u5fb3\u6b66\u7adc\u4e5f)",
-          "url": "https://open.spotify.com/artist/5pFmOn9BLTq0eBsFDLqfO4"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Your Nobility",
-      "url": "https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "THE IDOLM@STER SideM GROWING SIGN@L 17",
         "url": "https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY"
       },
@@ -791,70 +791,6 @@
       "duration_ms": 224053,
       "name": "MIRROR of TRUTH",
       "url": "https://open.spotify.com/track/7hcP3Casqwb82ce7AByA58"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
-        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
-          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046\u3010SideM\u76e4\u3011",
-        "url": "https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u9053 \u8f1d (CV.\u4ef2\u6751\u5b97\u609f)",
-          "url": "https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa"
-        }
-      ],
-      "duration_ms": 335200,
-      "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046",
-      "url": "https://open.spotify.com/track/4WaImo6p8wstLV6npjIFeI"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -05 Jupiter",
-        "url": "https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt"
-      },
-      "artists": [
-        {
-          "name": "\u4f0a\u96c6\u9662\u5317\u6597 (CV.\u795e\u539f\u5927\u5730)",
-          "url": "https://open.spotify.com/artist/0AZPqKpHkcLELOWmVEvMDo"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "\u7d20\u6575\u306bCon grazia\uff01",
-      "url": "https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
-        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5ead \u85ab (CV.\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Because",
-      "url": "https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -879,6 +815,54 @@
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046\u3010SideM\u76e4\u3011",
+        "url": "https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9053 \u8f1d (CV.\u4ef2\u6751\u5b97\u609f)",
+          "url": "https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa"
+        }
+      ],
+      "duration_ms": 335200,
+      "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046",
+      "url": "https://open.spotify.com/track/4WaImo6p8wstLV6npjIFeI"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
+        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5ead \u85ab (CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
+        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
+          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -935,6 +919,22 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -05 Jupiter",
+        "url": "https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u96c6\u9662\u5317\u6597 (CV.\u795e\u539f\u5927\u5730)",
+          "url": "https://open.spotify.com/artist/0AZPqKpHkcLELOWmVEvMDo"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "\u7d20\u6575\u306bCon grazia\uff01",
+      "url": "https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
         "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-11 Altessimo",
-        "url": "https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y"
-      },
-      "artists": [
-        {
-          "name": "Altessimo",
-          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
-        }
-      ],
-      "duration_ms": 296346,
-      "name": "The 1st Movement \uff5e\u672a\u6765\u306e\u305f\u3081\u306e\u4e8c\u91cd\u594f\uff5e",
-      "url": "https://open.spotify.com/track/1IT0WrJyl2VjG1QoXAGN1Z"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
         "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 229466,
       "name": "Tick Tack Voice",
       "url": "https://open.spotify.com/track/14YHpYBMqMBVleSgdwkpDG"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-11 Altessimo",
+        "url": "https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        }
+      ],
+      "duration_ms": 296346,
+      "name": "The 1st Movement \uff5e\u672a\u6765\u306e\u305f\u3081\u306e\u4e8c\u91cd\u594f\uff5e",
+      "url": "https://open.spotify.com/track/1IT0WrJyl2VjG1QoXAGN1Z"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
-        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
       },
       "artists": [
         {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6"
         }
       ],
-      "duration_ms": 276333,
-      "name": "RIGHT WAY, SOUL MATE",
-      "url": "https://open.spotify.com/track/3DzukJkMEOPLkZc8P9dHJC"
+      "duration_ms": 286773,
+      "name": "Symphonic Brave",
+      "url": "https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
       "artists": [
         {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6"
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
         }
       ],
-      "duration_ms": 286773,
-      "name": "Symphonic Brave",
-      "url": "https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw"
+      "duration_ms": 276333,
+      "name": "RIGHT WAY, SOUL MATE",
+      "url": "https://open.spotify.com/track/3DzukJkMEOPLkZc8P9dHJC"
     },
     {
       "added_at": "2025-01-14 15:56:57",

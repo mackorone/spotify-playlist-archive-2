@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1571550,
+  "num_followers": 1571725,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "L.P.A.",
-        "url": "https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq"
-      },
-      "artists": [
-        {
-          "name": "Akimbo",
-          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
-        },
-        {
-          "name": "Missy",
-          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "L.P.A.",
-      "url": "https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "Gathering Of Gods",
         "url": "https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4"
       },
@@ -1079,22 +1059,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "It Will Be OK",
-        "url": "https://open.spotify.com/album/0DaQqq24cESLXFjyt4kMfv"
+        "name": "L.P.A.",
+        "url": "https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq"
       },
       "artists": [
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
         },
         {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
         }
       ],
-      "duration_ms": 207750,
-      "name": "It Will Be OK",
-      "url": "https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0"
+      "duration_ms": 151058,
+      "name": "L.P.A.",
+      "url": "https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1123,6 +1103,26 @@
       "duration_ms": 165744,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/5NZqHX364zHsyiKf1Lo4BZ"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "It Will Be OK",
+        "url": "https://open.spotify.com/album/0DaQqq24cESLXFjyt4kMfv"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "It Will Be OK",
+      "url": "https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Tomorrow Can Wait",
-        "url": "https://open.spotify.com/album/23R50J5esOKMbTLcnQmBjU"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Tomorrow Can Wait",
-      "url": "https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "The Upside Down",
         "url": "https://open.spotify.com/album/1BWkYpg39kZo6kUO2cFgww"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 212516,
       "name": "The Upside Down",
       "url": "https://open.spotify.com/track/0Ruke6176pqWxtKyktLUOb"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "Tomorrow Can Wait",
+        "url": "https://open.spotify.com/album/23R50J5esOKMbTLcnQmBjU"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Tomorrow Can Wait",
+      "url": "https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Freestyler",
-        "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
-      },
-      "artists": [
-        {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        }
-      ],
-      "duration_ms": 198009,
-      "name": "Freestyler",
-      "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "Now We Are Free",
         "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
       },
@@ -1339,6 +1319,26 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Freestyler",
+        "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "duration_ms": 198009,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "OG Raver",
         "url": "https://open.spotify.com/album/6sTm1dxK93wQK2LP2PaCXB"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "What Is Love",
-        "url": "https://open.spotify.com/album/5NMlGVHuG1mm6m63Tbil8a"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 149156,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/6yO9indH9XB6IP2YVmVskI"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "Coco Jamboo",
         "url": "https://open.spotify.com/album/1NdZ3G4G0d2eR8g3M0TWyr"
       },
@@ -1391,6 +1375,42 @@
       "duration_ms": 124012,
       "name": "Coco Jamboo",
       "url": "https://open.spotify.com/track/5N4alh9Kc98YbEyX1yYOFb"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5NMlGVHuG1mm6m63Tbil8a"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "duration_ms": 149156,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/6yO9indH9XB6IP2YVmVskI"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "STOP CRYING",
+        "url": "https://open.spotify.com/album/3qws9ZZxPn9JAP1yfBWm0H"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        },
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "STOP CRYING",
+      "url": "https://open.spotify.com/track/5LwiInzkZr3SqDmfE0eWWb"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1431,26 +1451,6 @@
       "duration_ms": 207483,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "STOP CRYING",
-        "url": "https://open.spotify.com/album/3qws9ZZxPn9JAP1yfBWm0H"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        },
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        }
-      ],
-      "duration_ms": 139687,
-      "name": "STOP CRYING",
-      "url": "https://open.spotify.com/track/5LwiInzkZr3SqDmfE0eWWb"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Dia De Los Muertos",
+        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215590,
+      "name": "Dia De Los Muertos",
+      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 150400,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Dia De Los Muertos",
-        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215590,
-      "name": "Dia De Los Muertos",
-      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "FEELIN' HIGH",
         "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 186750,
       "name": "FEELIN' HIGH",
       "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "FCK DOOM ZAAG!",
-        "url": "https://open.spotify.com/album/1JbKCFroR9YzE0jJLHwN06"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Kronos",
-          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
-        }
-      ],
-      "duration_ms": 117750,
-      "name": "FCK DOOM ZAAG!",
-      "url": "https://open.spotify.com/track/32agjb8yo2D8muo8v1rZvH"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "DON'T FKN NEED U",
         "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 134918,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "FCK DOOM ZAAG!",
+        "url": "https://open.spotify.com/album/1JbKCFroR9YzE0jJLHwN06"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "duration_ms": 117750,
+      "name": "FCK DOOM ZAAG!",
+      "url": "https://open.spotify.com/track/32agjb8yo2D8muo8v1rZvH"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2055,26 +2055,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "The Tunnel",
-        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        },
-        {
-          "name": "Jordan Jade",
-          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "The Tunnel",
-      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "Till I Collapse",
         "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
       },
@@ -2091,6 +2071,26 @@
       "duration_ms": 158007,
       "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "The Tunnel",
+        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "The Tunnel",
+      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2431,38 +2431,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "The Kids Aren't Alright",
         "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
       },
@@ -2483,6 +2451,58 @@
       "duration_ms": 222408,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "Rachel's Song",
+        "url": "https://open.spotify.com/album/5rt6PRpDeYAEs9gaKxFCa9"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "CODA",
+          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2511,22 +2531,26 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Rachel's Song",
-        "url": "https://open.spotify.com/album/5rt6PRpDeYAEs9gaKxFCa9"
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
       "artists": [
         {
-          "name": "Ecstatic",
-          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "CODA",
-          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
+      "duration_ms": 195537,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2567,26 +2591,18 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
+        "name": "Kiss Kiss Bang",
+        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         }
       ],
-      "duration_ms": 195537,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+      "duration_ms": 154639,
+      "name": "Kiss Kiss Bang",
+      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2607,22 +2623,6 @@
       "duration_ms": 231082,
       "name": "Are U Me",
       "url": "https://open.spotify.com/track/7gbQsKu2O304w1uktHnXbd"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Kiss Kiss Bang",
-        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Kiss Kiss Bang",
-      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2663,26 +2663,42 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
-        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
+        "name": "Blow Ya Mind",
+        "url": "https://open.spotify.com/album/6WyKSr06KqwjYGYgLHIXzk"
       },
       "artists": [
         {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
         },
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+          "name": "Ruthless",
+          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
         },
         {
-          "name": "ANDY SVGE",
-          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+          "name": "Potato",
+          "url": "https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV"
         }
       ],
-      "duration_ms": 187200,
-      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
-      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
+      "duration_ms": 167994,
+      "name": "Blow Ya Mind",
+      "url": "https://open.spotify.com/track/1IkE1saSXrs3IgDnlZeX3M"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "Nobody Likes",
+        "url": "https://open.spotify.com/album/7FH04fxE0ik7Z0xV2Sgy7i"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Nobody Likes",
+      "url": "https://open.spotify.com/track/34mTZmESrqI9ObVmAtKTqj"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2707,42 +2723,26 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Nobody Likes",
-        "url": "https://open.spotify.com/album/7FH04fxE0ik7Z0xV2Sgy7i"
+        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
+        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
       },
       "artists": [
         {
-          "name": "Zatox",
-          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Nobody Likes",
-      "url": "https://open.spotify.com/track/34mTZmESrqI9ObVmAtKTqj"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Blow Ya Mind",
-        "url": "https://open.spotify.com/album/6WyKSr06KqwjYGYgLHIXzk"
-      },
-      "artists": [
-        {
-          "name": "Lock 'N Load",
-          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
         },
         {
-          "name": "Ruthless",
-          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         },
         {
-          "name": "Potato",
-          "url": "https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV"
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
         }
       ],
-      "duration_ms": 167994,
-      "name": "Blow Ya Mind",
-      "url": "https://open.spotify.com/track/1IkE1saSXrs3IgDnlZeX3M"
+      "duration_ms": 187200,
+      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
+      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2879,30 +2879,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "SIDEQUEST (Tetris Mix)",
-        "url": "https://open.spotify.com/album/2S34tW5qigOw5xkmwibEbS"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Coldax",
-          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
-        },
-        {
-          "name": "Hans Glock",
-          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
-        }
-      ],
-      "duration_ms": 143507,
-      "name": "SIDEQUEST - Tetris Mix",
-      "url": "https://open.spotify.com/track/1fqpFQe0pLpD1IviXCcVnk"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -2943,6 +2919,30 @@
       "duration_ms": 163776,
       "name": "Love Generation",
       "url": "https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "SIDEQUEST (Tetris Mix)",
+        "url": "https://open.spotify.com/album/2S34tW5qigOw5xkmwibEbS"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Coldax",
+          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
+        },
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        }
+      ],
+      "duration_ms": 143507,
+      "name": "SIDEQUEST - Tetris Mix",
+      "url": "https://open.spotify.com/track/1fqpFQe0pLpD1IviXCcVnk"
     },
     {
       "added_at": "2026-10-19 13:35:15",

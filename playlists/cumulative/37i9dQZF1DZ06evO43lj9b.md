@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-83 songs - 6 hr 31 min
+84 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 | 2025-03-11 |  |
 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 | 2025-03-11 |  |
 | [Funky Nassau](https://open.spotify.com/track/07T0VAXeX2REWuuSSAkDEA) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Soulsociety](https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc) | [Funky Nassau](https://open.spotify.com/album/2OMpnlwjZA67Q7mEoP5ex2) | 4:11 | 2025-11-12 | 2025-12-22 |
-| [Get On Up Get On Down](https://open.spotify.com/track/2vgWFBrdSXKQ8Cc0Toz9sy) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 4:23 | 2026-10-04 |  |
+| [Get On Up Get On Down](https://open.spotify.com/track/2vgWFBrdSXKQ8Cc0Toz9sy) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 4:23 | 2026-10-04 | 2026-10-25 |
+| [Good To Me featuring Roy Ayers](https://open.spotify.com/track/4tkHOrHOLYOR6tirUYnczt) | [Down To The Bone](https://open.spotify.com/artist/6LTnvdWwpOFwGtVIOrhwZb), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Future Boogie](https://open.spotify.com/album/0OBtOp7tSMC6FHJLRazIKk) | 7:36 | 2026-10-25 |  |
 | [Good Vibrations \- Kerri's Mad Mix](https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [A Basement, A Red Light, & A Feelin', Vol\. 2](https://open.spotify.com/album/5hzi4K0UmEH0HXDl9Wuca1) | 6:43 | 2025-07-16 | 2026-08-28 |
 | [Gravity](https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:26 | 2025-03-11 |  |
 | [Gravity \- Instrumental](https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09) | 3:26 | 2025-03-11 | 2026-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 508259,
+  "num_followers": 508380,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAC7sLLIxWATZENQZ16Q02IS",
+  "snapshot_id": "atqjgAAAAACexswaeql93XfbLd3sqSNZ",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+        "name": "First Impressions Of Earth",
+        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Welcome To Japan",
-      "url": "https://open.spotify.com/track/7bfocP7GYoLOutUYpTI8tx"
+      "duration_ms": 206173,
+      "name": "Heart In a Cage",
+      "url": "https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 206173,
-      "name": "Heart In a Cage",
-      "url": "https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x"
+      "duration_ms": 230826,
+      "name": "Welcome To Japan",
+      "url": "https://open.spotify.com/track/7bfocP7GYoLOutUYpTI8tx"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 265773,
-      "name": "Ize of the World",
-      "url": "https://open.spotify.com/track/1TbK5nWKIxZYIRVurMvkuR"
+      "duration_ms": 194573,
+      "name": "Juicebox",
+      "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 194573,
-      "name": "Juicebox",
-      "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
+      "duration_ms": 265773,
+      "name": "Ize of the World",
+      "url": "https://open.spotify.com/track/1TbK5nWKIxZYIRVurMvkuR"
     },
     {
       "added_at": null,

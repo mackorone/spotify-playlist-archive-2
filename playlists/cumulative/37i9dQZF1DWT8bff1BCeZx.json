@@ -9592,7 +9592,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 176788,
       "name": "I have never seen the lord change",
       "url": "https://open.spotify.com/track/6Gq0pwrijTGZj6HQIskVDi"
@@ -11631,6 +11631,28 @@
     },
     {
       "album": {
+        "name": "Kwa Neema",
+        "url": "https://open.spotify.com/album/24kPt3nkUYWA1gIH85omNb"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264166,
+      "name": "Kwa Neema",
+      "url": "https://open.spotify.com/track/75z0PDyGgrN4VCkU2xiNvV"
+    },
+    {
+      "album": {
         "name": "Lele",
         "url": "https://open.spotify.com/album/5k69vdLz3lQwYpQziYSqA5"
       },
@@ -11972,6 +11994,24 @@
       "duration_ms": 165762,
       "name": "Location",
       "url": "https://open.spotify.com/track/7emIC5BmmI5JSlMD9Kes6n"
+    },
+    {
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
     },
     {
       "album": {
@@ -18908,7 +18948,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 162405,
       "name": "Sinner 2 Winner",
       "url": "https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y"

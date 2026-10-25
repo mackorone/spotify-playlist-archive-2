@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 109 songs - 6 hr 36 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 111 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 107 | [Our Love](https://open.spotify.com/track/1W3rQrOQ0XIvl8rocKzKrm) | [Storm](https://open.spotify.com/artist/54xkUQxKSduHJ1BBJuoMdv) | [Our Love](https://open.spotify.com/album/6ILB3gI3zCsFBX5oAePHcF) | 3:13 |
 | 108 | [Quetzal](https://open.spotify.com/track/7ea21HK7BpF9cr2Y82QoZR) | [Isa G](https://open.spotify.com/artist/2dGQlNsgOf5n1hzyL3lPIv), [DJ Okay](https://open.spotify.com/artist/3pmFBfQSNpyyWrNLI0907a), [DJ Speedy Macchiato](https://open.spotify.com/artist/0DSdGntAi53SBkmEx9AT9z) | [Quetzal](https://open.spotify.com/album/5sMuJOPlLPB1SFGa3irbyl) | 4:37 |
 | 109 | [We Might As Well](https://open.spotify.com/track/3vgR3WEPLoe3BiDSEDejio) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Tsunami](https://open.spotify.com/album/3vEEDi3eoXun3rU13XpAvb) | 4:32 |
+| 110 | [A través del cristal](https://open.spotify.com/track/4S7srjyyrvjKbDpof9Wd76) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU), [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc) | [A través del cristal](https://open.spotify.com/album/6U60rrrl1hn7ucgxZqRVqM) | 2:33 |
+| 111 | [Judy Joan & Buffy](https://open.spotify.com/track/36hIAapeAhnxCpnPNYvnPe) | [Marvin Conan](https://open.spotify.com/artist/5mNwzKcw5pJsCw9F9hZdrk), [Victoria Bebee](https://open.spotify.com/artist/2yT9qgdKWBDf5V08wu3kpZ) | [Judy Joan & Buffy](https://open.spotify.com/album/7bAUDNCF8yrz0YAfdUqwSR) | 3:17 |
 
-Snapshot ID: `AAAZFarhMUVHWiOtyTuB3jeeVSn+pDMd`
+Snapshot ID: `AAAZF5DwVrHILwX3nOd/ZK0OZQRdFgpJ`

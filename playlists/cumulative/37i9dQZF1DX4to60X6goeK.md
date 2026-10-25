@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: SOTA
 
-383 songs - 1 day 0 hr 16 min
+384 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Dopamine](https://open.spotify.com/track/1LIiaUqhedu2DyXHRFypCF) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [Dopamine / One Time](https://open.spotify.com/album/5EGr1peMZY9wFHaS4K2k09) | 4:27 | 2022-05-06 | 2022-07-20 |
 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 | 2024-10-24 | 2026-10-23 |
 | [Double Vision](https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [Double Vision](https://open.spotify.com/album/4EB5lFgeQTuq7xPpuBvEj5) | 2:26 | 2025-09-04 | 2026-01-27 |
+| [DRACULA](https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [B\-Line](https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs) | [DRACULA](https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp) | 3:02 | 2026-10-22 |  |
 | [Dreaming](https://open.spotify.com/track/77clpxiqqJYBFfKNa7NJLO) | [ACP](https://open.spotify.com/artist/1qmlLdbLYrvNcB5nyN942Q) | [Dreaming](https://open.spotify.com/album/2u8hFIHE6i9T4c01c2wa1z) | 4:23 | 2023-12-27 | 2024-01-12 |
 | [Drop It](https://open.spotify.com/track/4I9vO5QOgxfGCOo3iwyW6v) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Drop It](https://open.spotify.com/album/4KHGh98gIT10KOj65f9jEC) | 4:09 | 2025-02-21 | 2025-05-30 |
 | [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 | 2025-04-17 | 2025-07-10 |
@@ -268,7 +269,7 @@
 | [Poison](https://open.spotify.com/track/2zzO5pkMoiWvgO5lCOLkDH) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Poison](https://open.spotify.com/album/3XwujMrHgCfjTIpnB6zIgR) | 4:31 | 2026-10-02 |  |
 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 | 2022-05-06 | 2026-01-16 |
 | [Polygon \(Circadian Remix\)](https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Polygon \(Circadian Remix\)](https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm) | 4:39 | 2024-09-12 | 2025-01-10 |
-| [Posra](https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Posra](https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2) | 3:25 | 2025-09-04 |  |
+| [Posra](https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Posra](https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2) | 3:25 | 2025-09-04 | 2026-10-25 |
 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 | 2024-02-23 | 2025-05-08 |
 | [Pressure](https://open.spotify.com/track/75zovB1aWBVyBffbJb15l4) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Pressure](https://open.spotify.com/album/1lGBkpmE560k1RQkn6VqBS) | 2:59 | 2025-06-19 | 2025-09-12 |
 | [Protection](https://open.spotify.com/track/5lTxWs9bkL7d35kqdPDOXd) | [Kendrick](https://open.spotify.com/artist/70mqJs2YSPZndK6UuHh4PO) | [Protection / Nothin Like](https://open.spotify.com/album/2I3A1kmhu1DYHaPJX9Lzle) | 4:28 | 2022-05-06 | 2022-08-13 |

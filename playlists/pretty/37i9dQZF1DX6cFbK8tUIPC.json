@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 567959,
+  "num_followers": 568032,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Second Chances",
-      "url": "https://open.spotify.com/track/6Wu19AEKVNs5bJFuhZb4EZ"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Second Chances",
+      "url": "https://open.spotify.com/track/6Wu19AEKVNs5bJFuhZb4EZ"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Manning Fireworks",
-        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Joker Lips",
-      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Tarifa",
         "url": "https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 223986,
       "name": "Giordano\u2019s Dream, Pt. I",
       "url": "https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 201992,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 288890,
       "name": "How Could I Have Known",
       "url": "https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "In My Gut",
+        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "4th of july",
-        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Heaven in the Right Light",
         "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 220955,
       "name": "Heaven in the Right Light",
       "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "4th of july",
+        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Therapist's Daughter",
-        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 173593,
-      "name": "Therapist's Daughter",
-      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "(I Wish I Was) Ennio Morricone",
         "url": "https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 175392,
       "name": "(I Wish I Was) Ennio Morricone",
       "url": "https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Therapist's Daughter",
+        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 173593,
+      "name": "Therapist's Daughter",
+      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
     },
     {
       "added_at": "2026-09-17 12:03:43",

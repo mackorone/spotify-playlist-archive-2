@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "A Thing Like That",
+        "url": "https://open.spotify.com/album/19EAuDU2KywqlSMoXZzcyr"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228229,
+      "name": "A Thing Like That",
+      "url": "https://open.spotify.com/track/3piNBl9f45VbsKGKLRTfbh"
+    },
+    {
+      "album": {
         "name": "Get Happy! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 191640,
       "name": "Holiday Flight",
       "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"

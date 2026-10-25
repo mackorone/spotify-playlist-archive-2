@@ -3919,6 +3919,28 @@
     },
     {
       "album": {
+        "name": "NAIL - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/3jcXZnjaCjrMy1RaFv5QHN"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182570,
+      "name": "NAIL - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/6RMAqihFAkOODlkFgOA2Xd"
+    },
+    {
+      "album": {
         "name": "glow forever",
         "url": "https://open.spotify.com/album/2igar5ui3UzhSPl6DsO1O2"
       },

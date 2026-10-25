@@ -1,33 +1,13 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 127616,
+  "num_followers": 127620,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAADRzEZW82ssh4CyRQQsJFF7",
+  "snapshot_id": "atqjgAAAAAAwvTggcraFPbYo9pg3TVfu",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +35,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -71,26 +71,6 @@
       "duration_ms": 169705,
       "name": "Llorar y Llorar - con Carin Leon",
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
-        "url": "https://open.spotify.com/album/5ZsuSjVRwKQWUeRmDDLC1c"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
-      "url": "https://open.spotify.com/track/6DmDDGNAcpb57D3ODtc2mY"
     },
     {
       "added_at": null,
@@ -131,6 +111,26 @@
       "duration_ms": 206271,
       "name": "La Boca",
       "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
+        "url": "https://open.spotify.com/album/5ZsuSjVRwKQWUeRmDDLC1c"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "VIAJEMOS EN EL TIEMPO #7 l La Boca",
+      "url": "https://open.spotify.com/track/6DmDDGNAcpb57D3ODtc2mY"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177698,
-      "name": "Rolex",
-      "url": "https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Tienes T\u00fa (feat. Jes\u00fas de Reik & Mau y Ricky)",
         "url": "https://open.spotify.com/album/694hCUyeR4sSjV7J1mu0dO"
       },
@@ -387,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 177698,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "voltaje",
         "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
       },
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ricky y Mau",
         "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 224030,
       "name": "L\u00edos",
       "url": "https://open.spotify.com/track/4ZZwG6Lxgqiax3fvU6bNAD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
       "added_at": null,
@@ -559,6 +559,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
+        "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177654,
+      "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
+      "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 142150,
+      "name": "AMAPOLA",
+      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
         "url": "https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo"
       },
@@ -583,42 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ricky y Mau",
-        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 142150,
-      "name": "AMAPOLA",
-      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
-        "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177654,
-      "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
-      "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hijos Contigo",
         "url": "https://open.spotify.com/album/0lId2hETmh2UtHiAfVbfJg"
       },
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA LLAVE",
-        "url": "https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "agua",
-      "url": "https://open.spotify.com/track/3hhJ8AOlIe7qsIi2CTiWG1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Dir\u00edas?",
         "url": "https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM"
       },
@@ -675,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAP\u00c1S",
-        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
+        "name": "LA LLAVE",
+        "url": "https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y"
       },
       "artists": [
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 193186,
-      "name": "PAP\u00c1S",
-      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
+      "duration_ms": 240000,
+      "name": "agua",
+      "url": "https://open.spotify.com/track/3hhJ8AOlIe7qsIi2CTiWG1"
     },
     {
       "added_at": null,
@@ -783,28 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "noche de luna",
-        "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 184763,
-      "name": "noche de luna",
-      "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ricky y Mau",
-        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+        "name": "PAP\u00c1S",
+        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
       },
       "artists": [
         {
@@ -812,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 134032,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/7s0BArZxca6bo089d0HGEC"
+      "duration_ms": 193186,
+      "name": "PAP\u00c1S",
+      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
     },
     {
       "added_at": null,
@@ -855,30 +819,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "RADIO VENEZUELA",
-        "url": "https://open.spotify.com/album/4oGaJumaR03P9x9AWyfCCd"
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
       },
       "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        },
-        {
-          "name": "Chyno Miranda",
-          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 176840,
-      "name": "D\u00d3NDE EST\u00c1S",
-      "url": "https://open.spotify.com/track/0GqMyvXCFtxjZTJdLNO0p1"
+      "duration_ms": 134032,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/7s0BArZxca6bo089d0HGEC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "noche de luna",
+        "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 184763,
+      "name": "noche de luna",
+      "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bota Fuego (con Nicky Jam)",
+        "url": "https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Bota Fuego - con Nicky Jam",
+      "url": "https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27"
     },
     {
       "added_at": null,
@@ -923,22 +915,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bota Fuego (con Nicky Jam)",
-        "url": "https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6"
+        "name": "RADIO VENEZUELA",
+        "url": "https://open.spotify.com/album/4oGaJumaR03P9x9AWyfCCd"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 223186,
-      "name": "Bota Fuego - con Nicky Jam",
-      "url": "https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27"
+      "duration_ms": 176840,
+      "name": "D\u00d3NDE EST\u00c1S",
+      "url": "https://open.spotify.com/track/0GqMyvXCFtxjZTJdLNO0p1"
     },
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malcriado",
         "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
       },
@@ -987,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+        "name": "desmaquillada",
+        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
       },
       "artists": [
         {
@@ -996,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
+      "duration_ms": 128000,
+      "name": "desmaquillada",
+      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
     },
     {
       "added_at": null,
@@ -1019,6 +1039,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -1031,42 +1067,6 @@
       "duration_ms": 155242,
       "name": "Japonesa",
       "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "desmaquillada",
-        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "desmaquillada",
-      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Gran D\u00eda",
-      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
     },
     {
       "added_at": null,

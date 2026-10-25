@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 229253,
+  "num_followers": 229326,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Castles in the Sand",
         "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 190133,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
-      },
-      "artists": [
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
-        }
-      ],
-      "duration_ms": 374440,
-      "name": "Ghosts Of Mississippi",
-      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 216128,
       "name": "I Could Drive You Crazy",
       "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 374440,
+      "name": "Ghosts Of Mississippi",
+      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
+        "name": "HANDMADE HORSEPOWER",
+        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "MATTER OF TIME",
+      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
         "name": "COUNTRY FUZZ",
         "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 208929,
       "name": "Hard Out Here For A Country Boy",
       "url": "https://open.spotify.com/track/0Mt1EgjhezhBXd1WUmsWhn"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
-        "name": "HANDMADE HORSEPOWER",
-        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "MATTER OF TIME",
-      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
     },
     {
       "added_at": "2026-08-21 04:01:33",

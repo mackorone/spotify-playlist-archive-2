@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 235080,
       "name": "Gebbie Street",
       "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
@@ -764,6 +764,24 @@
       "duration_ms": 187280,
       "name": "Hope for the Best",
       "url": "https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW"
+    },
+    {
+      "album": {
+        "name": "ReWiggled: The Classics",
+        "url": "https://open.spotify.com/album/3bMUfA7L5ixLdo86uCyvtq"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75568,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/3hHueq7J6GPFmDaAxjPskP"
     },
     {
       "album": {

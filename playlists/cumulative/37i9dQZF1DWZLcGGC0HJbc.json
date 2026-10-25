@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "At The Race Tracks",
+        "url": "https://open.spotify.com/album/1oFCggoJerlIOx9Lr4XsXB"
+      },
+      "artists": [
+        {
+          "name": "AWKWARD i",
+          "url": "https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205159,
+      "name": "At The Race Tracks",
+      "url": "https://open.spotify.com/track/5mBs521Kdcigt75B5Z3sKS"
+    },
+    {
+      "album": {
         "name": "Paradise Pop. 10",
         "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
       },
@@ -5070,7 +5088,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 241840,
       "name": "Sweet Sixteen",
       "url": "https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP"

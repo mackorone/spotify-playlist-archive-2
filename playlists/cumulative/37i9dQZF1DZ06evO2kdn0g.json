@@ -16,10 +16,28 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 173026,
       "name": "AFTER HOURS",
       "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
+    },
+    {
+      "album": {
+        "name": "AFTER HOURS",
+        "url": "https://open.spotify.com/album/4eOPIWduCqvgaQkcs0E78d"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "AFTER HOURS",
+      "url": "https://open.spotify.com/track/1dss83SWGJ6iIYZsyMWyY4"
     },
     {
       "album": {
@@ -418,10 +436,28 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 125346,
       "name": "LINK UP",
       "url": "https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk"
+    },
+    {
+      "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125346,
+      "name": "LINK UP",
+      "url": "https://open.spotify.com/track/1AhGYugYUCWwyB08K2U875"
     },
     {
       "album": {
@@ -736,6 +772,24 @@
       "duration_ms": 219311,
       "name": "Superficial / Love",
       "url": "https://open.spotify.com/track/53fzAHD09qNmkveSms0NhI"
+    },
+    {
+      "album": {
+        "name": "Superposition",
+        "url": "https://open.spotify.com/album/7cefdWw7RyJXmKZEX0PduI"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "Superposition",
+      "url": "https://open.spotify.com/track/5vR7uJE1YTA9p3n6xBE1p1"
     },
     {
       "album": {

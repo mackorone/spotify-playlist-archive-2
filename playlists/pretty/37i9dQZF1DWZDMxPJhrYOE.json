@@ -104,6 +104,10 @@
           "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
         },
         {
+          "name": "Kn\u00e6k Cancer",
+          "url": "https://open.spotify.com/artist/4bO1uIIfKmbgPBqMfvYBMr"
+        },
+        {
           "name": "Lea Romea",
           "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
         },
@@ -559,6 +563,22 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
+        "name": "Unloveu",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 232527,
+      "name": "Unloveu",
+      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
+    },
+    {
+      "added_at": "2026-10-22 22:00:59",
+      "album": {
         "name": "Danceteria Afterhours",
         "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
       },
@@ -595,34 +615,18 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
-        "name": "Unloveu",
-        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 232527,
-      "name": "Unloveu",
-      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
-    },
-    {
-      "added_at": "2026-10-22 22:00:59",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+      "duration_ms": 222478,
+      "name": "Lasso The Moon",
+      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
     },
     {
       "added_at": "2026-10-22 22:00:59",
@@ -643,6 +647,22 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "added_at": "2026-10-22 22:00:59",
+      "album": {
         "name": "Perfect Man",
         "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
       },
@@ -655,22 +675,6 @@
       "duration_ms": 213690,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
-    },
-    {
-      "added_at": "2026-10-22 22:00:59",
-      "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 222478,
-      "name": "Lasso The Moon",
-      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
     },
     {
       "added_at": "2026-10-22 22:00:59",
@@ -867,6 +871,22 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 145099,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
+    },
+    {
+      "added_at": "2026-10-22 22:00:59",
+      "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
       },
@@ -975,22 +995,6 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
-        "name": "Har Du M\u00e6rket Dig Selv?",
-        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 190248,
-      "name": "Har Du M\u00e6rket Dig Selv?",
-      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
-    },
-    {
-      "added_at": "2026-10-22 22:00:59",
-      "album": {
         "name": "Hvis Jeg Er Uden Dig",
         "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
       },
@@ -1007,18 +1011,18 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
-        "name": "Pillow Fight / I\u2019d Rather Be Alone",
-        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
+        "name": "Har Du M\u00e6rket Dig Selv?",
+        "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
         }
       ],
-      "duration_ms": 141315,
-      "name": "Pillow Fight",
-      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
+      "duration_ms": 190248,
+      "name": "Har Du M\u00e6rket Dig Selv?",
+      "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
     },
     {
       "added_at": "2026-10-22 22:00:59",
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
+        "name": "Pillow Fight / I\u2019d Rather Be Alone",
+        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 141315,
+      "name": "Pillow Fight",
+      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
+    },
+    {
+      "added_at": "2026-10-22 22:00:59",
+      "album": {
         "name": "Fix Your Face",
         "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
       },
@@ -1071,22 +1091,6 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 145099,
-      "name": "Pangea",
-      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
-    },
-    {
-      "added_at": "2026-10-22 22:00:59",
-      "album": {
         "name": "Sex & Drugs",
         "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
       },
@@ -1099,6 +1103,26 @@
       "duration_ms": 195000,
       "name": "Sex & Drugs",
       "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
+    },
+    {
+      "added_at": "2026-10-22 22:00:59",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
       "added_at": "2026-10-22 22:00:59",
@@ -1139,6 +1163,42 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "added_at": "2026-10-22 22:00:59",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Freyy",
+          "url": "https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS"
+        }
+      ],
+      "duration_ms": 169077,
+      "name": "Ude Fra Indre (feat. Freyy)",
+      "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
+    },
+    {
+      "added_at": "2026-10-22 22:00:59",
+      "album": {
         "name": "Hver Eneste Gang",
         "url": "https://open.spotify.com/album/7i3y8UzOiZOXOxAwZymwiQ"
       },
@@ -1175,26 +1235,6 @@
       "duration_ms": 218388,
       "name": "Danser Med Minder",
       "url": "https://open.spotify.com/track/1ZOOtzolAVDQlzUf7thUZf"
-    },
-    {
-      "added_at": "2026-10-22 22:00:59",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        },
-        {
-          "name": "Freyy",
-          "url": "https://open.spotify.com/artist/06Fcp7TijSKWCB2NVS0MbS"
-        }
-      ],
-      "duration_ms": 169077,
-      "name": "Ude Fra Indre (feat. Freyy)",
-      "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
     },
     {
       "added_at": "2026-10-22 22:00:59",
@@ -1287,18 +1327,18 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+        "name": "Circadian Rhythm",
+        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "SKAI",
+          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
         }
       ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+      "duration_ms": 144451,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
     },
     {
       "added_at": "2026-10-22 22:00:59",
@@ -1339,18 +1379,18 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
-        "name": "Circadian Rhythm",
-        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
       },
       "artists": [
         {
-          "name": "SKAI",
-          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 144451,
-      "name": "Circadian Rhythm",
-      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-10-22 22:00:59",
@@ -1427,50 +1467,18 @@
     {
       "added_at": "2026-10-22 22:00:59",
       "album": {
-        "name": "hej far",
-        "url": "https://open.spotify.com/album/016lJisgZ13xUtaBMDXkeM"
+        "name": "Cold Blooded (Demo) [from the Netflix Series \"Nobody Wants This\" Season 3]",
+        "url": "https://open.spotify.com/album/4cZgYqOkiHzx8xk0Me0HNY"
       },
       "artists": [
         {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 144950,
-      "name": "d\u00f8 med dig",
-      "url": "https://open.spotify.com/track/2q5nkpJMREI1QHUEOKFBJj"
-    },
-    {
-      "added_at": "2026-10-22 22:00:59",
-      "album": {
-        "name": "Sometimes I rush",
-        "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 90867,
-      "name": "Sometimes I rush",
-      "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
-    },
-    {
-      "added_at": "2026-10-22 22:00:59",
-      "album": {
-        "name": "Afar",
-        "url": "https://open.spotify.com/album/2c4sPfylEVZmQ0BVy0rGVI"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Afar",
-      "url": "https://open.spotify.com/track/45raOKhmjnJRNChMIpopI3"
+      "duration_ms": 195608,
+      "name": "Cold Blooded (Demo) - from the Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv"
     }
   ],
   "unique_name": "De nye",

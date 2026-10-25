@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,153 likes - 78 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,089 likes - 78 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

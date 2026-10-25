@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 194452,
+  "num_followers": 194482,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAASSjhiRQIKczLeoCWE80H7",
+  "snapshot_id": "atqjgAAAAAA9qrqr7sHQOu2ApOSrafS3",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Ah-Ah / O-No",
-      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strikes Back",
-        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 282800,
-      "name": "Plato De Segunda Mesa",
-      "url": "https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00a1Que Sentimiento!",
         "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc"
+      "duration_ms": 282800,
+      "name": "Plato De Segunda Mesa",
+      "url": "https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti Depende (Remastered 2024)",
         "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
       },
@@ -803,6 +803,34 @@
       "duration_ms": 400529,
       "name": "Mentira - Remastered 2024",
       "url": "https://open.spotify.com/track/7ygq3AB87X2t0UwXIVuFIc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Suerte",
+        "url": "https://open.spotify.com/album/4KDCVmbEfvx0oRq7kyvhjB"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "underdogs",
+          "url": "https://open.spotify.com/artist/0KTIlyXpaefGQS3Q3BbXQC"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 169503,
+      "name": "Mi Suerte",
+      "url": "https://open.spotify.com/track/1t45VJU0gMfYht74Es3NMP"
     },
     {
       "added_at": null,
@@ -839,30 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Suerte",
-        "url": "https://open.spotify.com/album/4KDCVmbEfvx0oRq7kyvhjB"
+        "name": "\u00a1Que Sentimiento!",
+        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
       },
       "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "underdogs",
-          "url": "https://open.spotify.com/artist/0KTIlyXpaefGQS3Q3BbXQC"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 169503,
-      "name": "Mi Suerte",
-      "url": "https://open.spotify.com/track/1t45VJU0gMfYht74Es3NMP"
+      "duration_ms": 358773,
+      "name": "Soy Vagabundo",
+      "url": "https://open.spotify.com/track/5jQimaqP3GwhdvIDKAQZor"
     },
     {
       "added_at": null,
@@ -883,22 +899,6 @@
       "duration_ms": 242386,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1Que Sentimiento!",
-        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 358773,
-      "name": "Soy Vagabundo",
-      "url": "https://open.spotify.com/track/5jQimaqP3GwhdvIDKAQZor"
     },
     {
       "added_at": null,

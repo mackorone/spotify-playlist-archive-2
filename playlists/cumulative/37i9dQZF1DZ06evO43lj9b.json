@@ -664,10 +664,32 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 263893,
       "name": "Get On Up Get On Down",
       "url": "https://open.spotify.com/track/2vgWFBrdSXKQ8Cc0Toz9sy"
+    },
+    {
+      "album": {
+        "name": "Future Boogie",
+        "url": "https://open.spotify.com/album/0OBtOp7tSMC6FHJLRazIKk"
+      },
+      "artists": [
+        {
+          "name": "Down To The Bone",
+          "url": "https://open.spotify.com/artist/6LTnvdWwpOFwGtVIOrhwZb"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456453,
+      "name": "Good To Me featuring Roy Ayers",
+      "url": "https://open.spotify.com/track/4tkHOrHOLYOR6tirUYnczt"
     },
     {
       "album": {

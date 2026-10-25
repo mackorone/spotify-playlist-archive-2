@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 2055,
+  "num_followers": 2060,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAkeKpKUqyBXTafH7cfaNOgoRUQoOgy",
+  "snapshot_id": "AAAke8MFy5xVY+lI7R3IT/7QOoOZQ4XJ",
   "tracks": [
     {
       "added_at": "2026-10-22 02:48:54",
@@ -3685,118 +3685,6 @@
       "url": "https://open.spotify.com/track/0Nth8S7mUQVW9YfnQcwZyq"
     },
     {
-      "added_at": "2026-09-24 21:03:41",
-      "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/6nh30bSjIDL4Qn8Bh8ADTA"
-      },
-      "artists": [
-        {
-          "name": "Ainti",
-          "url": "https://open.spotify.com/artist/4RHF06B4O4PIVS84VVGJDp"
-        }
-      ],
-      "duration_ms": 237345,
-      "name": "Warmer",
-      "url": "https://open.spotify.com/track/2XjoqEUBKvrSgLZxtEQTUv"
-    },
-    {
-      "added_at": "2026-09-24 18:06:17",
-      "album": {
-        "name": "Bloodletting",
-        "url": "https://open.spotify.com/album/5RGgCXBIDW4xoo1Pr17ZOp"
-      },
-      "artists": [
-        {
-          "name": "Swedey",
-          "url": "https://open.spotify.com/artist/2hOikQOSDveDQXJge5dB4Y"
-        }
-      ],
-      "duration_ms": 135466,
-      "name": "Bloodletting",
-      "url": "https://open.spotify.com/track/6gKqqIKc5ZgggUnTa9QloR"
-    },
-    {
-      "added_at": "2026-09-24 18:04:50",
-      "album": {
-        "name": "TRA LE NOSTRE CENERI",
-        "url": "https://open.spotify.com/album/5kvRQmISZC3yJc6pR2C3Qu"
-      },
-      "artists": [
-        {
-          "name": "Bileygr",
-          "url": "https://open.spotify.com/artist/3L7zoaeomzJZ0wLLrINaFT"
-        }
-      ],
-      "duration_ms": 157300,
-      "name": "TRA LE NOSTRE CENERI",
-      "url": "https://open.spotify.com/track/3TJYm2DhKsjBwYRd3Itcb7"
-    },
-    {
-      "added_at": "2026-09-24 18:03:25",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/1HebA10cHRc4AuZtz8FSGA"
-      },
-      "artists": [
-        {
-          "name": "WU",
-          "url": "https://open.spotify.com/artist/0kBwTzFCuZ7MpOmSUyOzzn"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/0jPjX5XlsXlXXLqwHEQnS3"
-    },
-    {
-      "added_at": "2026-09-24 18:02:53",
-      "album": {
-        "name": "Collective Delusion",
-        "url": "https://open.spotify.com/album/01lDd6JEeXcKNnCZhUbJpk"
-      },
-      "artists": [
-        {
-          "name": "Forever Mortal",
-          "url": "https://open.spotify.com/artist/7c69PRhu3obOZvCZYzIzZf"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "The Morning Sun Has Vanquished the Horrible Night",
-      "url": "https://open.spotify.com/track/6NngXAstx5NRwfE0NBO1yj"
-    },
-    {
-      "added_at": "2026-09-24 17:55:07",
-      "album": {
-        "name": "Nation Nation",
-        "url": "https://open.spotify.com/album/0ekqLQVaLZ5YAm63YzGWTm"
-      },
-      "artists": [
-        {
-          "name": "London Plane",
-          "url": "https://open.spotify.com/artist/3NvjLn1xctZZuqGl70i53Q"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "Nation Nation",
-      "url": "https://open.spotify.com/track/4IJ9GXGMmCyHskZAeuugCE"
-    },
-    {
-      "added_at": "2026-09-24 17:53:54",
-      "album": {
-        "name": "Psychic Lunch",
-        "url": "https://open.spotify.com/album/0KKuKfg6QNdP1vnmYVelKe"
-      },
-      "artists": [
-        {
-          "name": "Van Veen",
-          "url": "https://open.spotify.com/artist/71CgH1H43KfkQ4GhDnb09V"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Psychic Lunch",
-      "url": "https://open.spotify.com/track/2RiuDns5vAXZQqK9WpTdeG"
-    },
-    {
       "added_at": "2026-09-27 01:00:33",
       "album": {
         "name": "Malady",
@@ -3907,22 +3795,6 @@
       "duration_ms": 284514,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/4gFkoEOYPFJNbgyvgWHaKA"
-    },
-    {
-      "added_at": "2026-09-24 13:27:10",
-      "album": {
-        "name": "Stealing Mine",
-        "url": "https://open.spotify.com/album/61lIh41BrZKwM6ZLFl5vg4"
-      },
-      "artists": [
-        {
-          "name": "Iamhalfhuman",
-          "url": "https://open.spotify.com/artist/4BCuZz4ChxkwBLuJtyGOzJ"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Stealing Mine",
-      "url": "https://open.spotify.com/track/3ktlqCE7rYHVME0EqhEJm1"
     },
     {
       "added_at": "2026-09-25 13:09:17",
@@ -5429,6 +5301,22 @@
       "url": "https://open.spotify.com/track/5perHZPU9B8L2J0C86urQt"
     },
     {
+      "added_at": "2026-10-24 08:22:20",
+      "album": {
+        "name": "Burn the Old Maps",
+        "url": "https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth"
+      },
+      "artists": [
+        {
+          "name": "WIARANETY",
+          "url": "https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL"
+        }
+      ],
+      "duration_ms": 165334,
+      "name": "Fading Trace",
+      "url": "https://open.spotify.com/track/25SdqP59ZUBkkfTZXgVhzN"
+    },
+    {
       "added_at": "2026-10-23 18:53:47",
       "album": {
         "name": "Crocerossina",
@@ -5475,6 +5363,22 @@
       "duration_ms": 190241,
       "name": "Don't Tempt Me",
       "url": "https://open.spotify.com/track/7dwS9xjpn7TzHfyUf1KqSE"
+    },
+    {
+      "added_at": "2026-10-24 08:21:30",
+      "album": {
+        "name": "Do You Wanna Dance",
+        "url": "https://open.spotify.com/album/5V0AwGTGnUXfbIgt9VIA95"
+      },
+      "artists": [
+        {
+          "name": "Garrett Riley",
+          "url": "https://open.spotify.com/artist/6MRRcFLKdF5MaufudLHcU2"
+        }
+      ],
+      "duration_ms": 196962,
+      "name": "Do You Wanna Dance",
+      "url": "https://open.spotify.com/track/3ZB247yELgTiJojUJLOJvh"
     }
   ],
   "unique_name": "Spotify Radio",

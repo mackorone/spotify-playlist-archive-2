@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Heroe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,109 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,086 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 10 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
 | 11 | [sous influence](https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [sous influence](https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP) | 3:06 |
 | 12 | [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 |
-| 13 | [Oreiller froid](https://open.spotify.com/track/0eloccyjeMx4sOfVcNGuS4) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Oreiller froid](https://open.spotify.com/album/1dWWUkcGsFJJzkotmAEjLP) | 2:25 |
+| 13 | [oreiller froid](https://open.spotify.com/track/0eloccyjeMx4sOfVcNGuS4) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [oreiller froid](https://open.spotify.com/album/1dWWUkcGsFJJzkotmAEjLP) | 2:25 |
 | 14 | [Noir Jaune Rouge](https://open.spotify.com/track/1pl9B1jnco2ewLmDB9a2L2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Noir Jaune Rouge](https://open.spotify.com/album/4ouEqlPzTzVVT91yOoXs4Y) | 4:18 |
 | 15 | [Maman travaille trop](https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Maman travaille trop](https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ) | 2:52 |
 | 16 | [Partager le monde](https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Partager le monde](https://open.spotify.com/album/62l59GYI179OIDENsm93wr) | 3:13 |

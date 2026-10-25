@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420723,
+  "num_followers": 420749,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
-        "name": "Time Won\u2019t Wait",
-        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 210010,
-      "name": "Time Won\u2019t Wait",
-      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
         "name": "Revolvendo as Raizes",
         "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 230896,
       "name": "Bora Chamegar",
       "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
+        "name": "Time Won\u2019t Wait",
+        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 210010,
+      "name": "Time Won\u2019t Wait",
+      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
     },
     {
       "added_at": "2026-10-19 15:46:22",

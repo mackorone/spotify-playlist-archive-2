@@ -13104,7 +13104,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 201996,
       "name": "Half Past Dead (Unbury Me)",
       "url": "https://open.spotify.com/track/74Tt7azCRWhutQoHHELeVz"
@@ -15134,7 +15134,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 204207,
       "name": "I Like The High",
       "url": "https://open.spotify.com/track/7uGmVdpDl64HMRwfNxBRxo"
@@ -18031,6 +18031,24 @@
     },
     {
       "album": {
+        "name": "lie suicide",
+        "url": "https://open.spotify.com/album/4PZqFl74P4OiWJDdNTQANW"
+      },
+      "artists": [
+        {
+          "name": "elijah",
+          "url": "https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "lie suicide",
+      "url": "https://open.spotify.com/track/0FVNIbKWhc8bRPJND3y6xJ"
+    },
+    {
+      "album": {
         "name": "LIES WE TELL OURSELVES",
         "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
       },
@@ -19148,6 +19166,24 @@
       "duration_ms": 235353,
       "name": "Loveletting - 7\" Cut",
       "url": "https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD"
+    },
+    {
+      "album": {
+        "name": "smile, you're on camera.",
+        "url": "https://open.spotify.com/album/6q9wB5O7sm8qhrMz5oEn48"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242900,
+      "name": "low",
+      "url": "https://open.spotify.com/track/1vkZv2DXLCQCj2kOY5MHrX"
     },
     {
       "album": {

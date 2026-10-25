@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,785 songs - 3 day 7 hr 33 min
+1,786 songs - 3 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1745,6 +1745,7 @@
 | [Wicked Game](https://open.spotify.com/track/0zGjgy0MGo9zrQZ2h8L64m) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Wicked Game](https://open.spotify.com/album/1iMa1NxG9yQJTLpRnmJfQZ) | 2:20 | 2025-01-24 | 2025-06-07 |
 | [Wicked Game](https://open.spotify.com/track/3eX4KovuTeNJxFZZT6KeWa) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Wicked Game](https://open.spotify.com/album/7bQKXzmfZjcdWmYMCr8jZH) | 2:26 | 2025-10-29 | 2026-04-07 |
 | [Wilder Woods](https://open.spotify.com/track/56cW7me7gAyY9dhxJtvtzl) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo) | [Wilder Woods](https://open.spotify.com/album/2wnToIZpxqYWIBscgjvlIO) | 2:50 | 2024-04-19 | 2024-08-10 |
+| [WILDFLOWER](https://open.spotify.com/track/42OP3vLGaQTAERT7IQKnCN) | [MARSTEREON](https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [WILDFLOWER](https://open.spotify.com/album/6lsqJ3SFEzFPpnhgBZ0uZb) | 2:54 | 2026-10-24 |  |
 | [Wings of the Dawn](https://open.spotify.com/track/2CVaqJ9zts3QtNuguCbSIY) | [Alande](https://open.spotify.com/artist/2MHMRT2fOZGbDU3C10l7AM) | [Wings Of The Dawn](https://open.spotify.com/album/2s3mZb7HanjWOEV7fkiBSH) | 3:14 | 2026-01-09 | 2026-02-07 |
 | [Wish You All the Best](https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Wish You All the Best](https://open.spotify.com/album/1OSw1uOIxohvXg49jr9Q3j) | 2:13 | 2024-01-18 | 2026-04-20 |
 | [Wish You Were Here](https://open.spotify.com/track/47KnvfkJjB5yFzhM3ksCLn) | [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T), [Notries](https://open.spotify.com/artist/4AH3DJ8LZO6LcMBc7As0aV), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Wish You Were Here](https://open.spotify.com/album/1FRCZYswGLu0RbfteTB0zs) | 2:34 | 2026-10-09 | 2026-10-24 |

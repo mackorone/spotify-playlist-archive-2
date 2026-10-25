@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 97316,
+  "num_followers": 97334,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChR9D1JO+b6bfhwoyvAQ+JM+keL",
+  "snapshot_id": "AAAAALXQ59ExWcGBUiVHX67hjHYCDzGa",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:20",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-10-15 22:00:20",
       "album": {
+        "name": "Gathering Of Gods",
+        "url": "https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 128914,
+      "name": "Gathering Of Gods",
+      "url": "https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA"
+    },
+    {
+      "added_at": "2026-10-15 22:00:20",
+      "album": {
         "name": "L.P.A.",
         "url": "https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 151058,
       "name": "L.P.A.",
       "url": "https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk"
-    },
-    {
-      "added_at": "2026-10-15 22:00:20",
-      "album": {
-        "name": "Gathering Of Gods",
-        "url": "https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Gathering Of Gods",
-      "url": "https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA"
     },
     {
       "added_at": "2026-10-15 22:00:20",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-10-15 22:00:20",
       "album": {
-        "name": "Tequila In My Eyes",
-        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 183747,
-      "name": "Tequila In My Eyes",
-      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
-    },
-    {
-      "added_at": "2026-10-15 22:00:20",
-      "album": {
         "name": "RPG",
         "url": "https://open.spotify.com/album/5XKRd978I6t3pb0U82hTuV"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 164400,
       "name": "Uptempo Airlines",
       "url": "https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km"
+    },
+    {
+      "added_at": "2026-10-15 22:00:20",
+      "album": {
+        "name": "Tequila In My Eyes",
+        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "duration_ms": 183747,
+      "name": "Tequila In My Eyes",
+      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
     },
     {
       "added_at": "2026-10-15 22:00:20",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-10-15 22:00:20",
       "album": {
-        "name": "Ain't No Thing",
-        "url": "https://open.spotify.com/album/5wwb036FaZ5tfNmV4OD23R"
-      },
-      "artists": [
-        {
-          "name": "Revealer",
-          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
-        }
-      ],
-      "duration_ms": 141191,
-      "name": "Ain't No Thing",
-      "url": "https://open.spotify.com/track/5SpaC3YsMTtv2WamENm0TP"
-    },
-    {
-      "added_at": "2026-10-15 22:00:20",
-      "album": {
         "name": "Stinky Noise",
         "url": "https://open.spotify.com/album/5PP71imuSdolfWFtM4dPof"
       },
@@ -903,6 +887,26 @@
       "duration_ms": 145635,
       "name": "Stinky Noise",
       "url": "https://open.spotify.com/track/0VtxQ4UpVrWwmGJNhaw3f9"
+    },
+    {
+      "added_at": "2026-10-15 22:00:20",
+      "album": {
+        "name": "Trip to Italia",
+        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Trip to Italia",
+      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
     },
     {
       "added_at": "2026-10-15 22:00:20",
@@ -927,22 +931,18 @@
     {
       "added_at": "2026-10-15 22:00:20",
       "album": {
-        "name": "Trip to Italia",
-        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
+        "name": "Ain't No Thing",
+        "url": "https://open.spotify.com/album/5wwb036FaZ5tfNmV4OD23R"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
         }
       ],
-      "duration_ms": 214200,
-      "name": "Trip to Italia",
-      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
+      "duration_ms": 141191,
+      "name": "Ain't No Thing",
+      "url": "https://open.spotify.com/track/5SpaC3YsMTtv2WamENm0TP"
     },
     {
       "added_at": "2026-10-15 22:00:20",

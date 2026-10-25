@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from LISA, Ino Casablanca, Qlas, La Fève x Theodora  and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,565 likes - 118 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,575 likes - 118 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,6 +125,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 115 | [Jupiter](https://open.spotify.com/track/6OK8weaEFsE73aTbRKfvny) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [AM:FM](https://open.spotify.com/album/4lCnapy9lBE8F7LmKluKwK) | 2:44 |
 | 116 | [Dance It Out](https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Endless Summer](https://open.spotify.com/album/6YDXIYzh182auw0avklzbq) | 3:14 |
 | 117 | [I try my best](https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [I try my best](https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS) | 3:49 |
-| 118 | [NOT ALL MEN](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
+| 118 | [PAS TOUS LES HOMMES](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
 
 Snapshot ID: `AAAAAErg30DXUhEiYXJFrQulqQUgXHP4`

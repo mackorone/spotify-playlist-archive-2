@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Jubin Nautiyal & Elnaaz Norouzi",
-  "num_followers": 137198,
+  "num_followers": 137237,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-10-13 06:55:23",
       "album": {
+        "name": "Do You Know",
+        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
+    },
+    {
+      "added_at": "2026-10-13 06:55:23",
+      "album": {
         "name": "Bheegi Bheegi",
         "url": "https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 219818,
       "name": "Bheegi Bheegi",
       "url": "https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS"
-    },
-    {
-      "added_at": "2026-10-13 06:55:23",
-      "album": {
-        "name": "Do You Know",
-        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Do You Know",
-      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
     },
     {
       "added_at": "2026-10-13 06:55:23",

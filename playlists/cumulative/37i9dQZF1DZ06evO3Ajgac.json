@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "B Is for Boo!",
+        "url": "https://open.spotify.com/album/1nYLDE2JVXIq7v3YboVUpS"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164266,
+      "name": "Elmo Says Boo!",
+      "url": "https://open.spotify.com/track/2Tl5VaNKw6d5D0m4eJPQxm"
+    },
+    {
+      "album": {
         "name": "Sesame Street: Elmo's Dance Party",
         "url": "https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1"
       },
@@ -666,7 +688,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 67760,
       "name": "How Do You Build a Robot Dog? (Episode: Elmo Builds a Robot Dog)",
       "url": "https://open.spotify.com/track/0OsaU8AEH4KLK72ZcyFhnF"

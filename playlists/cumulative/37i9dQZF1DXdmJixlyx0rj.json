@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 169883,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
@@ -3210,6 +3210,28 @@
       "duration_ms": 211818,
       "name": "Impossible - Darius Remix",
       "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
+    },
+    {
+      "album": {
+        "name": "Indigo Garden / Calendula",
+        "url": "https://open.spotify.com/album/4aXUSgYCdRpX5e1nQuvSNl"
+      },
+      "artists": [
+        {
+          "name": "Moon Kyoo",
+          "url": "https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH"
+        },
+        {
+          "name": "cypress",
+          "url": "https://open.spotify.com/artist/79zVLUQbkjvJkseM6ftkaH"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Indigo Garden",
+      "url": "https://open.spotify.com/track/4Io8HhorQhJULj23RSYsTM"
     },
     {
       "album": {

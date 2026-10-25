@@ -1,12 +1,12 @@
 {
   "description": "All this week's best new pop releases. Cover: Maisie Peters",
-  "num_followers": 349394,
+  "num_followers": 349600,
   "original_name": "All New Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/9fbg9yvDCnxpCMRpJtdj3fmY9",
+  "snapshot_id": "AAAAAJVsQBcgtOdd0Pj5GAgToh+JCdB9",
   "tracks": [
     {
       "added_at": "2026-10-23 04:03:01",
@@ -119,6 +119,22 @@
       "duration_ms": 187853,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/0DpUtDNX444dGMTAWa2eZE"
+    },
+    {
+      "added_at": "2026-10-24 03:42:23",
+      "album": {
+        "name": "Look At All The Happy People",
+        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
+      },
+      "artists": [
+        {
+          "name": "Bluegirl",
+          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
+        }
+      ],
+      "duration_ms": 206564,
+      "name": "Look At All The Happy People",
+      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
     },
     {
       "added_at": "2026-10-23 04:03:01",
@@ -267,6 +283,22 @@
       "duration_ms": 212416,
       "name": "Home Tonight",
       "url": "https://open.spotify.com/track/15JWJHmZIpQMP0ojCUEW27"
+    },
+    {
+      "added_at": "2026-10-24 04:10:55",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/53HQhzJCHzsnsshjAkYYrq"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/2ztYk3o7ablJ2yOdBNcJF6"
     },
     {
       "added_at": "2026-10-23 04:03:01",
@@ -2245,22 +2277,6 @@
       "url": "https://open.spotify.com/track/7uVKsaboyMOXI8SUnVXE4D"
     },
     {
-      "added_at": "2026-10-09 04:17:23",
-      "album": {
-        "name": "Monochrome: The System Update",
-        "url": "https://open.spotify.com/album/2YzL37YfC79IYXwIwIzhCl"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 171734,
-      "name": "DANCING ON STARS",
-      "url": "https://open.spotify.com/track/1dfBnisWzinnx32I9en9TD"
-    },
-    {
       "added_at": "2026-10-02 04:02:36",
       "album": {
         "name": "Too Cute To Be Lonely",
@@ -2919,22 +2935,6 @@
       "duration_ms": 130894,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4a1ZYe8ed9cL1NHl7er6Bw"
-    },
-    {
-      "added_at": "2026-10-02 04:02:36",
-      "album": {
-        "name": "windowsill",
-        "url": "https://open.spotify.com/album/53Bt6mhHpzWxLM44wyW95b"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 207071,
-      "name": "windowsill",
-      "url": "https://open.spotify.com/track/2YeBTRYPC4bh9Nsr51IVii"
     },
     {
       "added_at": "2026-09-25 04:03:25",

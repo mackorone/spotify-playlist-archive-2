@@ -11,18 +11,18 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "I Put A Spell On You (Goes Metal)",
-        "url": "https://open.spotify.com/album/2pF39pYMmq0NZLuIsgGezU"
+        "name": "Weekend In Texas",
+        "url": "https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf"
       },
       "artists": [
         {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 194737,
-      "name": "I Put A Spell On You (Goes Metal)",
-      "url": "https://open.spotify.com/track/6RUGWw76svRBq6YCHr4gC0"
+      "duration_ms": 173382,
+      "name": "Weekend In Texas",
+      "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -63,6 +63,42 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
+        "name": "I Put A Spell On You (Goes Metal)",
+        "url": "https://open.spotify.com/album/2pF39pYMmq0NZLuIsgGezU"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 194737,
+      "name": "I Put A Spell On You (Goes Metal)",
+      "url": "https://open.spotify.com/track/6RUGWw76svRBq6YCHr4gC0"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Halfway 2 Jesus",
+        "url": "https://open.spotify.com/album/5qQCGKpe4h1fFZhlYL7W36"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 235315,
+      "name": "7 Sins",
+      "url": "https://open.spotify.com/track/1t0IN5jb3uCFKyOfUSnxIN"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
         "name": "Heavy Is The Crown",
         "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
       },
@@ -79,38 +115,6 @@
       "duration_ms": 88586,
       "name": "Airbender",
       "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Who You Callin' Crazy",
-        "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 249425,
-      "name": "Who You Callin' Crazy",
-      "url": "https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Phish: Live In Savannah 2026",
-        "url": "https://open.spotify.com/album/73SBKxw3R4IZzqDm0uciUQ"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 1340700,
-      "name": "Sightless Escape - Live",
-      "url": "https://open.spotify.com/track/7D2FGYV54xeKsH7leSCiyB"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -135,6 +139,38 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
+        "name": "Phish: Live In Savannah 2026",
+        "url": "https://open.spotify.com/album/73SBKxw3R4IZzqDm0uciUQ"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 1340700,
+      "name": "Sightless Escape - Live",
+      "url": "https://open.spotify.com/track/7D2FGYV54xeKsH7leSCiyB"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Who You Callin' Crazy",
+        "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 249425,
+      "name": "Who You Callin' Crazy",
+      "url": "https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
         "name": "MAJOR MOVES",
         "url": "https://open.spotify.com/album/5VpP34dGYRcweG6mRKDgPh"
       },
@@ -151,6 +187,58 @@
       "duration_ms": 120424,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/7imD4nYsSPelqLBInETZHN"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Say When (from Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/1sAOV9vKM60TBvhDbcGjvP"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 227399,
+      "name": "Say When - from Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/0WOITRgSeNeY0ZGxn1vkJc"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Me Holdin' On",
+        "url": "https://open.spotify.com/album/0CfmoFfZjzHz9ISbvDJ54n"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 207997,
+      "name": "Me Holdin' On",
+      "url": "https://open.spotify.com/track/4B6n9OdoJKMQ2jpO05nVCn"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "PITCOIN",
+        "url": "https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 179028,
+      "name": "Reach For The Stars",
+      "url": "https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -195,26 +283,6 @@
       "duration_ms": 230491,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/3zONpRVIOwk8iyzB90R2Lq"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Loser (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 267616,
-      "name": "Loser (Fcukers Remix)",
-      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -279,6 +347,22 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
         "name": "No Bad Memories",
         "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
       },
@@ -295,22 +379,6 @@
       "duration_ms": 131920,
       "name": "Vida (feat. Erick the Architect)",
       "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "The Allfather Awakens",
-        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 276706,
-      "name": "The Allfather Awakes",
-      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -351,42 +419,22 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Pullin' Out",
-        "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
+        "name": "TRIBE",
+        "url": "https://open.spotify.com/album/21Fc4pwRKUdCRHsD7aZu5M"
       },
       "artists": [
         {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 115778,
-      "name": "DSL",
-      "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Eight Ring Revival",
-        "url": "https://open.spotify.com/album/0KS54hy5B9VbBWbkt70S4G"
-      },
-      "artists": [
-        {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
         },
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 175254,
-      "name": "The Center Eye",
-      "url": "https://open.spotify.com/track/1mopYJFvx9Hg2ZfjC7KRi8"
+      "duration_ms": 181515,
+      "name": "TRIBE",
+      "url": "https://open.spotify.com/track/0O49vaglluMVZcVbC5lDXy"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -427,42 +475,6 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Vacancy: Late Checkout",
-        "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 155153,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "TRIBE",
-        "url": "https://open.spotify.com/album/21Fc4pwRKUdCRHsD7aZu5M"
-      },
-      "artists": [
-        {
-          "name": "Matt McGhee",
-          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 181515,
-      "name": "TRIBE",
-      "url": "https://open.spotify.com/track/0O49vaglluMVZcVbC5lDXy"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
         "name": "Rabbit Gets The Gun",
         "url": "https://open.spotify.com/album/1O2BobyL6J7bcat222sLAz"
       },
@@ -483,22 +495,18 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Holding Space",
-        "url": "https://open.spotify.com/album/6CgyEtg4jaqOKE2g5MyzPj"
+        "name": "Vacancy: Late Checkout",
+        "url": "https://open.spotify.com/album/62NrsYBeDNa4r9FvGuwbVw"
       },
       "artists": [
         {
-          "name": "Benjamin Adamson",
-          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 803994,
-      "name": "Breath Meditation",
-      "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
+      "duration_ms": 155153,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -515,26 +523,6 @@
       "duration_ms": 472130,
       "name": "Victim of Changes - Original 1976 Masters",
       "url": "https://open.spotify.com/track/6nRpof5gPgogrU87jsJnhq"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Jungle Noire",
-        "url": "https://open.spotify.com/album/2IAAbamIP2plGErikuiWYd"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        },
-        {
-          "name": "Furax Barbarossa",
-          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
-        }
-      ],
-      "duration_ms": 322413,
-      "name": "LUNE DE SANG",
-      "url": "https://open.spotify.com/track/5UJjuCsW1F2BS4Uj7bouvy"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -559,58 +547,6 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "What Do I Do If You Don't",
-        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174470,
-      "name": "What Do I Do If You Don't",
-      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Beyond Zeta Reticuli",
-        "url": "https://open.spotify.com/album/0zWln9L7ewaoAngMg4rscO"
-      },
-      "artists": [
-        {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 380026,
-      "name": "Beyond Zeta Reticuli",
-      "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "TTW (Kaytranada Remix)",
-        "url": "https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "TTW - Kaytranada Remix",
-      "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
         "name": "prayerhands and headnods",
         "url": "https://open.spotify.com/album/3Qry3Wx5JoXYQDtrqBmvB5"
       },
@@ -627,22 +563,6 @@
       "duration_ms": 193187,
       "name": "prayerhands and headnods",
       "url": "https://open.spotify.com/track/1o55fZYgAUpS8FTQvEaVU7"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Live In Krakow",
-        "url": "https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 322217,
-      "name": "Platz Eins - Live In Krakow",
-      "url": "https://open.spotify.com/track/1qT98toJxFQMeJloG0rTEm"
     },
     {
       "added_at": "2026-10-23 04:00:00",

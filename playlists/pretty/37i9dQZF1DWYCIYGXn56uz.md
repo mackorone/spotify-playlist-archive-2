@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 Gaia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,465 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,442 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 |
 | 2 | [Casa Mia / Casa Tua \(con Tredici Pietro\)](https://open.spotify.com/track/2J7LXXv5CfAZpDApmyJLfz) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:30 |
-| 3 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
+| 3 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
 | 4 | [Vita da adulti](https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Vita da adulti](https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia) | 3:33 |
 | 5 | [ti ho cercata \(felicità\)](https://open.spotify.com/track/6mRL0OobMlS8E8oiQq4EcX) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [ti ho cercata \(felicità\)](https://open.spotify.com/album/7EoXAfQj0sL4LTPqFxObig) | 3:23 |
 | 6 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |

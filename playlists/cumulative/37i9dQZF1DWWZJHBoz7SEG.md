@@ -4,7 +4,7 @@
 
 > Chocolate y pan de muerto listo para estos días de frio! Neton Vega y Fuerza Regida en portada
 
-14,002 songs - 31 day 3 hr 57 min
+14,003 songs - 31 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9449,6 +9449,7 @@
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-29 | 2022-05-07 |
 | [Pausa](https://open.spotify.com/track/29RI6KjweYwalnYAbF6cjq) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Pausa](https://open.spotify.com/album/7wcsqMOkQo7tpg4h3RMQXG) | 3:33 | 2024-03-08 | 2024-03-16 |
 | [Pausa](https://open.spotify.com/track/71H5hTp54VZa50oTSP8UPY) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Pausa](https://open.spotify.com/album/7qMMTRCvc1eoSbLDWfaUeB) | 3:05 | 2026-08-07 | 2026-08-15 |
+| [Pausa \- Versión Mariachi](https://open.spotify.com/track/65ujcWYDXEUW2ddLdldOpY) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Pausa \(Versión Mariachi\)](https://open.spotify.com/album/3qWh9g0y1SQzbWuQUv7Ddb) | 3:50 | 2026-10-23 |  |
 | [Pavlove \- Demo](https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Pavlove \(Demo\)](https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY) | 3:33 | 2023-12-15 | 2023-12-23 |
 | [Pay Me](https://open.spotify.com/track/4N5jnDQ8qdpfjSySfyYSL0) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pay Me](https://open.spotify.com/album/5icLajLMHTL7pdt7FOQTFe) | 3:48 | 2023-09-22 | 2023-09-30 |
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/6VcpaoEQRxc9wrAtYBqKwz) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/7xerYbkUGD5BazNdP6OaZW) | 3:23 | 2022-03-04 | 2022-03-12 |
@@ -13067,7 +13068,7 @@
 | [Va Pa' Largo](https://open.spotify.com/track/5hUUPFyteR0Fdiewtwj3EP) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Va Pa' Largo](https://open.spotify.com/album/1zedRAmOvIjof8CUNCNFog) | 2:43 | 2025-10-10 | 2025-10-18 |
 | [Vacaciones en el Manicomio](https://open.spotify.com/track/4sVsmYAwNoA2mAYStKZU6H) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MÚSICAMÁGICA](https://open.spotify.com/album/3cePFmC807BFNNOpkAzMp3) | 3:13 | 2026-05-22 | 2026-05-30 |
 | [VACAS FLACAS](https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [VACAS FLACAS](https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ) | 3:36 | 2026-06-26 | 2026-07-04 |
-| [Vaciando Botellas](https://open.spotify.com/track/5WCN4H3M0ulEHxpZRQoY4y) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Luis Ángel El Flaco](https://open.spotify.com/artist/0Z3R0xvAuBAgZKNHX62gTj) | [Vaciando Botellas](https://open.spotify.com/album/1xZCKkDamSJcfJ0DrTURyZ) | 3:50 | 2026-10-23 |  |
+| [Vaciando Botellas](https://open.spotify.com/track/5WCN4H3M0ulEHxpZRQoY4y) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Vaciando Botellas](https://open.spotify.com/album/1xZCKkDamSJcfJ0DrTURyZ) | 3:50 | 2026-10-23 |  |
 | [vacío emocional](https://open.spotify.com/track/4qV9BSxwVPxcHfiapEFSGn) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [vacío emocional](https://open.spotify.com/album/1BGzSmWjii6WaPqIfp6WWY) | 2:58 | 2024-10-18 | 2024-10-26 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 | 2023-05-20 |
 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-08-05 | 2022-08-13 |

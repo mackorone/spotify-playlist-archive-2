@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Ija Pari",
+        "url": "https://open.spotify.com/album/68veb0yCP2rLXzHEIRWMz6"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366004,
+      "name": "Igba Laiye",
+      "url": "https://open.spotify.com/track/405SZSelz5Q62sbee4ptCV"
+    },
+    {
+      "album": {
         "name": "51 Lex Presents: Ambition",
         "url": "https://open.spotify.com/album/1ibmj02QgF0gAtkgPWNEj3"
       },

@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: JUBEE
 
-2,025 songs - 5 day 2 hr 26 min
+2,026 songs - 5 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Futsutsukamonodesuga](https://open.spotify.com/track/0982dRLal3bdbWESZYj9k3) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Futsutsukamonodesuga](https://open.spotify.com/album/7u178eeSXcm2fDbKzCHfSp) | 3:22 | 2026-09-08 | 2026-09-16 |
 | [Gazer](https://open.spotify.com/track/3mZJcqLZXZZN9i4vNr3Txq) | [36km/h](https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV) | [Gazer](https://open.spotify.com/album/0qjfYUlaL2yBA6T1lHfoB5) | 4:21 | 2025-11-04 | 2025-11-12 |
 | [Geeek](https://open.spotify.com/track/2nKqe0pTqsP5IyA748HlT0) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Geeek](https://open.spotify.com/album/1C9Of3Hj5JujNDdVZ93HJt) | 3:08 | 2025-08-19 | 2025-12-03 |
-| [Gekijoban de Aimasyo](https://open.spotify.com/track/1e2Rv7oLiW5BYqdNR33bgH) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [FUTURE NATURE TEENAGER](https://open.spotify.com/album/4WrWR1clM90onMcJmZnHj7) | 3:35 | 2026-10-06 |  |
+| [Gekijoban de Aimasyo](https://open.spotify.com/track/1e2Rv7oLiW5BYqdNR33bgH) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [FUTURE NATURE TEENAGER](https://open.spotify.com/album/4WrWR1clM90onMcJmZnHj7) | 3:35 | 2026-10-06 | 2026-10-25 |
 | [Genius](https://open.spotify.com/track/5yx90eFseRyQdofa36yExj) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Genius](https://open.spotify.com/album/28baC7V4FwgVexR5fUo69Y) | 3:48 | 2025-07-22 | 2025-12-03 |
 | [Genyo](https://open.spotify.com/track/2YVjGPH1suANfQWCtFn4Ts) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [Genyo](https://open.spotify.com/album/210mwuTXBm8LWt5lH1KuR7) | 3:57 | 2023-08-08 | 2023-08-18 |
 | [Ghost](https://open.spotify.com/track/19IzZzljOLMVFW1DUIRKqb) | [36km/h](https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV) | [Around us](https://open.spotify.com/album/7Fsayv7l348KtJPWrXqWoa) | 4:03 | 2025-12-16 | 2026-01-15 |
@@ -1448,6 +1448,7 @@
 | [ロングヘアー](https://open.spotify.com/track/7xEC6CzM3tW7ZvGNv2xLlD) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [心の隙間を埋めるのは](https://open.spotify.com/album/6KO4KkFQP9sTtxWaEC1Xz3) | 2:30 | 2026-02-11 | 2026-04-22 |
 | [ロンリーデイズ](https://open.spotify.com/track/2Ni0zpmXRLT0H3MsPlNnU2) | [猫背のネイビーセゾン](https://open.spotify.com/artist/4nb7U1TIRL1MNen0uj3QYN) | [ロンリーデイズ](https://open.spotify.com/album/6R3gB0cUctw3G5YDkFF8Cd) | 3:23 | 2026-05-13 | 2026-07-24 |
 | [ロンリープラネット](https://open.spotify.com/track/4oZm4hP5BFknAVMfQbPjeq) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [ブラックアウト・ロマンス](https://open.spotify.com/album/4AlL7zWOICUyMBGsNhr97m) | 3:35 | 2026-09-08 | 2026-09-16 |
+| [ロールプレイングライフ](https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU) | [Luov](https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww) | [ロールプレイングライフ](https://open.spotify.com/album/79KKCX2lpirv00FydXspMd) | 3:35 | 2026-10-20 |  |
 | [ワインディングロード](https://open.spotify.com/track/0zrD38XdjcnWEYqimpUV6s) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ワインディングロード](https://open.spotify.com/album/7Gjyj1I43JmHd86JGDJdOi) | 3:17 | 2025-01-28 | 2025-07-09 |
 | [ワルツ](https://open.spotify.com/track/1guMIQRvz6BLkq6xPKGzg2) | [爛漫天国](https://open.spotify.com/artist/31o6juLBJ6VGkHViziNTyK) | [日々、折り返すごとに](https://open.spotify.com/album/72EYHzseO17Z8n0hDUoCUJ) | 5:25 | 2026-02-24 | 2026-03-04 |
 | [ワンタイムエピローグ](https://open.spotify.com/track/5ihqyte3hZEibOp2xFDAkm) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ワンタイムエピローグ](https://open.spotify.com/album/4yuDiUMUIfaEItFEyTWcme) | 3:34 | 2025-01-07 | 2026-02-12 |

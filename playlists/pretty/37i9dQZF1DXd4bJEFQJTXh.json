@@ -1,12 +1,12 @@
 {
   "description": "We\u2019re going to be golden!",
-  "num_followers": 451507,
+  "num_followers": 451814,
   "original_name": "Family Movie Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIX0bMsAHq14NEe4HT+uDN29ZNGV",
+  "snapshot_id": "AAAAAO7c37PXvH9yXZ3x4zpzqsArnrki",
   "tracks": [
     {
       "added_at": "2026-07-27 04:46:44",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/7xW5u2nVlP3CJpUjXYv494"
     },
     {
+      "added_at": "2026-10-24 04:06:32",
+      "album": {
+        "name": "Magic (From \"Hexed\")",
+        "url": "https://open.spotify.com/album/39AuCYk4DyxJJW9e0sPNq3"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 226370,
+      "name": "Magic - From \"Hexed\"",
+      "url": "https://open.spotify.com/track/3VvHGb4SxuVt9A35ytpWNQ"
+    },
+    {
       "added_at": "2026-07-27 04:46:44",
       "album": {
         "name": "The Garfield Movie (Original Motion Picture Soundtrack)",
@@ -883,26 +899,6 @@
       "duration_ms": 237574,
       "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
       "url": "https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF"
-    },
-    {
-      "added_at": "2026-07-27 04:46:44",
-      "album": {
-        "name": "The Other Side (from Trolls World Tour)",
-        "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "The Other Side (from Trolls World Tour)",
-      "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
     },
     {
       "added_at": "2026-07-27 04:46:44",

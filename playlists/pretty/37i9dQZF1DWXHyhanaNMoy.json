@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: Bokoesam & Yssi SB",
-  "num_followers": 333873,
+  "num_followers": 333862,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQOPlt+yK+BeyYULE/VZM/EQ/kY",
+  "snapshot_id": "AAAAADY3zHXtQFMiJaiKkT/OY7XTuOvf",
   "tracks": [
     {
       "added_at": "2026-10-22 22:01:42",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47"
     },
     {
+      "added_at": "2026-10-22 22:01:42",
+      "album": {
+        "name": "Ik wil je zien",
+        "url": "https://open.spotify.com/album/6HzloqAyAV2NxiEzawVTsR"
+      },
+      "artists": [
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "Ik wil je zien",
+      "url": "https://open.spotify.com/track/5q6tO0ZKm9YlbLhY5cYkQa"
+    },
+    {
       "added_at": "2026-10-15 22:00:21",
       "album": {
         "name": "Hier Moet Je Zijn",
@@ -87,22 +103,6 @@
       "duration_ms": 125536,
       "name": "BADDIES IN BELGICA",
       "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
-    },
-    {
-      "added_at": "2026-10-22 22:01:42",
-      "album": {
-        "name": "Ik wil je zien",
-        "url": "https://open.spotify.com/album/6HzloqAyAV2NxiEzawVTsR"
-      },
-      "artists": [
-        {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "Ik wil je zien",
-      "url": "https://open.spotify.com/track/5q6tO0ZKm9YlbLhY5cYkQa"
     },
     {
       "added_at": "2026-10-15 22:00:21",

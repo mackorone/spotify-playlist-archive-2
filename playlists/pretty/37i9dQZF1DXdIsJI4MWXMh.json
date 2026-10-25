@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 85673,
+  "num_followers": 85704,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Me Sobrabas T\u00fa",
-        "url": "https://open.spotify.com/album/4z8MoB4vFVQMgUBOZpd6Xf"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Me Sobrabas T\u00fa",
-      "url": "https://open.spotify.com/track/3fhu9H9xWPKm8ph0ivHUYK"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "La Magia",
         "url": "https://open.spotify.com/album/63NoNp8ngqTGgRJcMx5DY6"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 250278,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/172SV9dOah2zXqcRUBpkNO"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Me Sobrabas T\u00fa",
+        "url": "https://open.spotify.com/album/4z8MoB4vFVQMgUBOZpd6Xf"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Me Sobrabas T\u00fa",
+      "url": "https://open.spotify.com/track/3fhu9H9xWPKm8ph0ivHUYK"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Te Hicieron para Mi",
-        "url": "https://open.spotify.com/album/0g5BacbjflXRJny3SCDgLp"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Te Hicieron para Mi",
-      "url": "https://open.spotify.com/track/3q9qsaWouYk73zNbvzMvie"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Quiero Volver a Ser Romeo",
         "url": "https://open.spotify.com/album/3ilCq0Yw6zkmUldX81gy7j"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 241002,
       "name": "Quiero Volver a Ser Romeo",
       "url": "https://open.spotify.com/track/5UKgp6inBN6fI1ZQ3fg2ON"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Te Hicieron para Mi",
+        "url": "https://open.spotify.com/album/0g5BacbjflXRJny3SCDgLp"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Te Hicieron para Mi",
+      "url": "https://open.spotify.com/track/3q9qsaWouYk73zNbvzMvie"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Primer Paso",
-        "url": "https://open.spotify.com/album/3SbUOk7NQTSnCCGCyxKzsq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Disparo",
-          "url": "https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU"
-        }
-      ],
-      "duration_ms": 227379,
-      "name": "Directo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3OPwXK8RsSylbkQQgA5IRV"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Si Te Vuelvo a Llamar",
         "url": "https://open.spotify.com/album/0JqKHvv61xOGlP2xQIKfPA"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Ni\u00e9game",
-        "url": "https://open.spotify.com/album/15xRNUgyWm1hvDcYGT7mJB"
+        "name": "El Primer Paso",
+        "url": "https://open.spotify.com/album/3SbUOk7NQTSnCCGCyxKzsq"
       },
       "artists": [
         {
-          "name": "Puro Pesado",
-          "url": "https://open.spotify.com/artist/1bS2bADQibtBXIeDU82ld3"
+          "name": "Grupo Disparo",
+          "url": "https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU"
         }
       ],
-      "duration_ms": 163576,
-      "name": "Ni\u00e9game",
-      "url": "https://open.spotify.com/track/4stFQZDW8THC9osyyTCDwX"
+      "duration_ms": 227379,
+      "name": "Directo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3OPwXK8RsSylbkQQgA5IRV"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -367,6 +351,22 @@
       "duration_ms": 375600,
       "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
       "url": "https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Ni\u00e9game",
+        "url": "https://open.spotify.com/album/15xRNUgyWm1hvDcYGT7mJB"
+      },
+      "artists": [
+        {
+          "name": "Puro Pesado",
+          "url": "https://open.spotify.com/artist/1bS2bADQibtBXIeDU82ld3"
+        }
+      ],
+      "duration_ms": 163576,
+      "name": "Ni\u00e9game",
+      "url": "https://open.spotify.com/track/4stFQZDW8THC9osyyTCDwX"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
       },
       "artists": [
         {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
         }
       ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
       "artists": [
         {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
         }
       ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Todos a la Pista",
-        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Sandoval De Calbuco",
-          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
-        }
-      ],
-      "duration_ms": 270883,
-      "name": "Como Quisiera Poder",
-      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Por Andar de Patas Negras",
         "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 234466,
       "name": "Por Andar de Patas Negras",
       "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Todos a la Pista",
+        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Sandoval De Calbuco",
+          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
+        }
+      ],
+      "duration_ms": 270883,
+      "name": "Como Quisiera Poder",
+      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Me Opongo",
-        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
-      },
-      "artists": [
-        {
-          "name": "J Matt",
-          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "Me Opongo",
-      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Siempre Villanos",
         "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 220203,
       "name": "Maldita Sea la Primera Vez",
       "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Me Opongo",
+        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
+      },
+      "artists": [
+        {
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "Me Opongo",
+      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "El Cocho",
         "url": "https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 195353,
       "name": "El Cocho",
       "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 152816,
       "name": "Galantes y Caballeros",
       "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
     },
     {
       "added_at": "2026-09-11 21:07:48",

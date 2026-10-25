@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151030,
+  "num_followers": 151036,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAACIndDH1T5rXa5jV8BoWzcd",
+  "snapshot_id": "atqjgAAAAAAFQbT41qstZ2MxxO/c6tti",
   "tracks": [
     {
       "added_at": null,
@@ -647,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
     },
     {
       "added_at": null,
@@ -683,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "MORVN",
-          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": null,
@@ -755,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
-        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
+        "name": "BALA PERDIDA",
+        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
       },
       "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 206055,
-      "name": "Qu\u00e9 Agon\u00eda - Live",
-      "url": "https://open.spotify.com/track/7c575rH2pT1ltlzgku8MDa"
+      "duration_ms": 224000,
+      "name": "BALA PERDIDA",
+      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
     },
     {
       "added_at": null,
@@ -787,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALA PERDIDA",
-        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
+        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
+        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
       },
       "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 224000,
-      "name": "BALA PERDIDA",
-      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
+      "duration_ms": 206055,
+      "name": "Qu\u00e9 Agon\u00eda - Live",
+      "url": "https://open.spotify.com/track/7c575rH2pT1ltlzgku8MDa"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nueva Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
+        "name": "El Jinete",
+        "url": "https://open.spotify.com/album/1OdaWoKbUOD1HTf85M7lfF"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 213030,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
+      "duration_ms": 192146,
+      "name": "El Jinete",
+      "url": "https://open.spotify.com/track/190VKP3lFhbQA2HvGQxosC"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 86867,
+  "num_followers": 86890,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -487,42 +487,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "BB Lifestyle",
-        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "BB Lifestyle",
-      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "Lalakula",
         "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
       },
@@ -547,6 +511,26 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "BB Lifestyle",
+        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "BB Lifestyle",
+      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -559,6 +543,38 @@
       "duration_ms": 150000,
       "name": "Na Scra",
       "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -619,18 +635,18 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+        "name": "Ore Agbako",
+        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Double Gee2x",
+          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
         }
       ],
-      "duration_ms": 156610,
-      "name": "CA$H OUT",
-      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+      "duration_ms": 155400,
+      "name": "Ore Agbako",
+      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -707,22 +723,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Ore Agbako",
-        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
-      },
-      "artists": [
-        {
-          "name": "Double Gee2x",
-          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Ore Agbako",
-      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -743,42 +743,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Life is Slo II",
-        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
-      },
-      "artists": [
-        {
-          "name": "EF Moon",
-          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Life is Slo II",
-      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "Big Drop (feat. Zaylevelten)",
         "url": "https://open.spotify.com/album/02G39lYZMBp1WZLzoPZpVz"
       },
@@ -795,6 +759,22 @@
       "duration_ms": 140400,
       "name": "Big Drop (feat. Zaylevelten)",
       "url": "https://open.spotify.com/track/4las0h0JOVTrmluFS6ulMW"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -823,22 +803,42 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Ijoba",
-        "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
+        "name": "Life is Slo II",
+        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
         },
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 139285,
-      "name": "Ijoba",
-      "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
+      "duration_ms": 140000,
+      "name": "Life is Slo II",
+      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -855,6 +855,26 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "Ijoba",
+        "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Ijoba",
+      "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -895,38 +915,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
       },
       "artists": [
         {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
         }
       ],
-      "duration_ms": 144065,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+      "duration_ms": 144044,
+      "name": "I LOVE THIS (feat. Igwe Aka)",
+      "url": "https://open.spotify.com/track/6sS4CHgGx63QMYmxdxd06n"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -971,42 +975,38 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Igwe Aka",
-          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 144044,
-      "name": "I LOVE THIS (feat. Igwe Aka)",
-      "url": "https://open.spotify.com/track/6sS4CHgGx63QMYmxdxd06n"
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "I Knoww II",
-        "url": "https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7"
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT"
       },
       "artists": [
         {
-          "name": "EF Moon",
-          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 135724,
-      "name": "I Knoww II",
-      "url": "https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV"
+      "duration_ms": 211862,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1051,38 +1051,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "By Now",
-        "url": "https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT"
+        "name": "I Knoww II",
+        "url": "https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7"
       },
       "artists": [
         {
-          "name": "Evado",
-          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 211862,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+      "duration_ms": 135724,
+      "name": "I Knoww II",
+      "url": "https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "0pay",
         "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
       },
@@ -1131,26 +1131,6 @@
       "duration_ms": 158181,
       "name": "0pay",
       "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "IRON ORE II",
-        "url": "https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 150588,
-      "name": "Turbulent Fellow",
-      "url": "https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1171,6 +1151,26 @@
       "duration_ms": 180000,
       "name": "Giveaway",
       "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "IRON ORE II",
+        "url": "https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "Turbulent Fellow",
+      "url": "https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "Asawana",
+        "url": "https://open.spotify.com/album/4HS9WgvXeamheMVUeuIfMm"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Asawana",
+      "url": "https://open.spotify.com/track/1sAFvsYedobf0z7hCF6pwE"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Asawana",
-        "url": "https://open.spotify.com/album/4HS9WgvXeamheMVUeuIfMm"
-      },
-      "artists": [
-        {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
-        },
-        {
-          "name": "Evado",
-          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Asawana",
-      "url": "https://open.spotify.com/track/1sAFvsYedobf0z7hCF6pwE"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1315,18 +1315,26 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
+        "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+      "duration_ms": 209142,
+      "name": "Oku",
+      "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Jada Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,054 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,146 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 49 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 50 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
 | 51 | [Gal Yuh Body Hot](https://open.spotify.com/track/2jPlPtYwsBM3RUZDI530E8) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Gal Yuh Body Hot](https://open.spotify.com/album/5P7oFZBpqVZf2sZPyKYksL) | 3:46 |
-| 52 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
-| 53 | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo) | [Krishane](https://open.spotify.com/artist/1HUUKt5Ms3fG0VO6JJGicO), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK) | 3:20 |
+| 52 | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo) | [Krishane](https://open.spotify.com/artist/1HUUKt5Ms3fG0VO6JJGicO), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK) | 3:20 |
+| 53 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
 | 54 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 |
 | 55 | [Gangster Love](https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Gangster Love](https://open.spotify.com/album/1uUWqM3BSmNSUoM6FZtAcN) | 2:11 |
 | 56 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 70 | [Execution](https://open.spotify.com/track/4MhSHzlW1y0Q6e60lwwZS5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Execution](https://open.spotify.com/album/5KiowkyG0rLXDJgoR9ZEDD) | 2:55 |
 | 71 | [A Nuh My Style](https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [A Nuh My Style](https://open.spotify.com/album/1tAlghBkDlKo1iJwKZ55Lo) | 2:44 |
 | 72 | [No Gyal](https://open.spotify.com/track/1ImihjOlex6Hj7eH4Zhujs) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:58 |
-| 73 | [Turn Up](https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Turn Up](https://open.spotify.com/album/3kPls8TKkU0uoBNkYODLIi) | 2:50 |
-| 74 | [Be So Bad](https://open.spotify.com/track/6BRBW3sMYOHoyfUNXhyQ5d) | [Jane Macgizmo](https://open.spotify.com/artist/4plzsAuxRehTrEn92axavn) | [Be So Bad](https://open.spotify.com/album/6Hi4bhaRpO4EVb6y1zd6ZD) | 1:55 |
+| 73 | [Face & Figga](https://open.spotify.com/track/2bWnWaD1QC8hC26IdWmxdl) | [Gabriellah](https://open.spotify.com/artist/4Drs7mnIEcJxU6MRFM6MxA) | [Face & Figga](https://open.spotify.com/album/7cLgws7KtyALMHXf6DP0GJ) | 2:37 |
+| 74 | [Turn Up](https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Turn Up](https://open.spotify.com/album/3kPls8TKkU0uoBNkYODLIi) | 2:50 |
 | 75 | [Budum](https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Budum](https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo) | 2:45 |
 
 Snapshot ID: `AAAAAKT0YqqO62C4F76x6EyXrvV+pc8S`

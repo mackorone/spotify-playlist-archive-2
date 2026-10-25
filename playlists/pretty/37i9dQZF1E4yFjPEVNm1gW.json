@@ -1,5 +1,5 @@
 {
-  "description": "With Yeat, Autumn!, Cuo Zay and more",
+  "description": "With Yeat, Cuo Zay, Autumn! and more",
   "num_followers": 1,
   "original_name": "Taewitdak Radio",
   "owner": {
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sanity Evaded",
+        "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "duration_ms": 151722,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/6BQtUSJ3vfkcM53gdXscgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIELDS",
         "url": "https://open.spotify.com/album/6OTHiDWE9WgDRutQ2K819z"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 166365,
       "name": "SCHOLARS",
       "url": "https://open.spotify.com/track/0JQkF2VY3sWBaKkEkeBlvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanity Evaded",
-        "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
-      },
-      "artists": [
-        {
-          "name": "YFG FATSO",
-          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
-        }
-      ],
-      "duration_ms": 151722,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/6BQtUSJ3vfkcM53gdXscgB"
     },
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A GOOD AND LONG TIME",
-        "url": "https://open.spotify.com/album/5kCx8DP1u19ox0pz0tIfxi"
-      },
-      "artists": [
-        {
-          "name": "N4T",
-          "url": "https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 216222,
-      "name": "FINALLY",
-      "url": "https://open.spotify.com/track/0x1f1rFJEkLX8HxWnJ5A10"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloody Bruddas",
         "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
       },
@@ -239,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purple Moncler",
-        "url": "https://open.spotify.com/album/0l5AcL7AVcyIrQacslnden"
+        "name": "A GOOD AND LONG TIME",
+        "url": "https://open.spotify.com/album/5kCx8DP1u19ox0pz0tIfxi"
       },
       "artists": [
         {
-          "name": "recrafted",
-          "url": "https://open.spotify.com/artist/7iNudDHXqHSZXbX7HqTtEz"
+          "name": "N4T",
+          "url": "https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
         }
       ],
-      "duration_ms": 212088,
-      "name": "Purple Moncler",
-      "url": "https://open.spotify.com/track/1MJa2HpKbYeearRpypBFEB"
+      "duration_ms": 216222,
+      "name": "FINALLY",
+      "url": "https://open.spotify.com/track/0x1f1rFJEkLX8HxWnJ5A10"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Purple Moncler",
+        "url": "https://open.spotify.com/album/0l5AcL7AVcyIrQacslnden"
+      },
+      "artists": [
+        {
+          "name": "recrafted",
+          "url": "https://open.spotify.com/artist/7iNudDHXqHSZXbX7HqTtEz"
+        }
+      ],
+      "duration_ms": 212088,
+      "name": "Purple Moncler",
+      "url": "https://open.spotify.com/track/1MJa2HpKbYeearRpypBFEB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Militia",
         "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 110221,
       "name": "Militia",
       "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me & Mine, Pt. 1",
-        "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 198149,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
     },
     {
       "added_at": null,
@@ -319,18 +303,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPERNOVA.",
-        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
+        "name": "UP!",
+        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
       },
       "artists": [
         {
-          "name": "KA$HDAMI",
-          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+          "name": "Trefuego",
+          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Switchin Sides",
-      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
+      "duration_ms": 110106,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me & Mine, Pt. 1",
+        "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 198149,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
     },
     {
       "added_at": null,
@@ -351,50 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UP!",
-        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
+        "name": "HYPERNOVA.",
+        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
       },
       "artists": [
         {
-          "name": "Trefuego",
-          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
         }
       ],
-      "duration_ms": 110106,
-      "name": "UP!",
-      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "splat!",
-        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
-      },
-      "artists": [
-        {
-          "name": "Marwick",
-          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "splat!",
-      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 138814,
-      "name": "Ya Ya",
-      "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"
+      "duration_ms": 149508,
+      "name": "Switchin Sides",
+      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
     },
     {
       "added_at": null,
@@ -415,70 +383,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
       },
       "artists": [
         {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
+      "duration_ms": 138814,
+      "name": "Ya Ya",
+      "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "you said its that",
-        "url": "https://open.spotify.com/album/7G3rpZyZZRTP6IfaAemMIV"
+        "name": "splat!",
+        "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
       },
       "artists": [
         {
-          "name": "lueaston",
-          "url": "https://open.spotify.com/artist/3gWWiWZFco4lAEQzziflQm"
+          "name": "Marwick",
+          "url": "https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "splat!",
+      "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire in my heart",
+        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
+      },
+      "artists": [
+        {
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+        }
+      ],
+      "duration_ms": 229738,
+      "name": "Fire in my heart",
+      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goin Dumb",
+        "url": "https://open.spotify.com/album/23Gp5pdECNgAwshw2r6Hnv"
+      },
+      "artists": [
+        {
+          "name": "youngdabo",
+          "url": "https://open.spotify.com/artist/0ntvtzImOeGe88ebdqBC2E"
         },
         {
-          "name": "Lilzayda9",
-          "url": "https://open.spotify.com/artist/5HiNr975I2N6WZVDxqKLZl"
+          "name": "BabyBartier",
+          "url": "https://open.spotify.com/artist/1XNYNLCPH2kILEL73Kp1y9"
         }
       ],
-      "duration_ms": 122801,
-      "name": "you said its that",
-      "url": "https://open.spotify.com/track/35GEqisilvl0kdwPYTN8UU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOYS DON'T CRY",
-        "url": "https://open.spotify.com/album/2QJx6mJR4cmVlkOX5ZOxGG"
-      },
-      "artists": [
-        {
-          "name": "405diego",
-          "url": "https://open.spotify.com/artist/3zsa0jGjSra8uicD50rhyt"
-        }
-      ],
-      "duration_ms": 82991,
-      "name": "BOYS DON'T CRY",
-      "url": "https://open.spotify.com/track/50UAimhjk5M8CKghGuG9rS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LO NE LY",
-        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
-      },
-      "artists": [
-        {
-          "name": "Khalil?",
-          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "LO NE LY",
-      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
+      "duration_ms": 114504,
+      "name": "Goin Dumb",
+      "url": "https://open.spotify.com/track/1cq8M4d1LXNIRX3yc6NWj1"
     },
     {
       "added_at": null,
@@ -507,22 +475,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goin Dumb",
-        "url": "https://open.spotify.com/album/23Gp5pdECNgAwshw2r6Hnv"
+        "name": "LO NE LY",
+        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
       },
       "artists": [
         {
-          "name": "youngdabo",
-          "url": "https://open.spotify.com/artist/0ntvtzImOeGe88ebdqBC2E"
-        },
-        {
-          "name": "BabyBartier",
-          "url": "https://open.spotify.com/artist/1XNYNLCPH2kILEL73Kp1y9"
+          "name": "Khalil?",
+          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
         }
       ],
-      "duration_ms": 114504,
-      "name": "Goin Dumb",
-      "url": "https://open.spotify.com/track/1cq8M4d1LXNIRX3yc6NWj1"
+      "duration_ms": 143520,
+      "name": "LO NE LY",
+      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOYS DON'T CRY",
+        "url": "https://open.spotify.com/album/2QJx6mJR4cmVlkOX5ZOxGG"
+      },
+      "artists": [
+        {
+          "name": "405diego",
+          "url": "https://open.spotify.com/artist/3zsa0jGjSra8uicD50rhyt"
+        }
+      ],
+      "duration_ms": 82991,
+      "name": "BOYS DON'T CRY",
+      "url": "https://open.spotify.com/track/50UAimhjk5M8CKghGuG9rS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "havin",
+        "url": "https://open.spotify.com/album/3BhlxsEpeLYBYlD3oUJ7xb"
+      },
+      "artists": [
+        {
+          "name": "Slump Audios",
+          "url": "https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE"
+        },
+        {
+          "name": "pink6",
+          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
+        },
+        {
+          "name": "DJ BANNED",
+          "url": "https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd"
+        },
+        {
+          "name": "Chris Finesse Exclusives",
+          "url": "https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI"
+        }
+      ],
+      "duration_ms": 115356,
+      "name": "havin",
+      "url": "https://open.spotify.com/track/31TmrpMSlfEb7B07RvF8it"
     },
     {
       "added_at": null,
@@ -539,54 +547,6 @@
       "duration_ms": 130422,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Futuristic",
-        "url": "https://open.spotify.com/album/0aBXI8IsNfs9y258CrRWQO"
-      },
-      "artists": [
-        {
-          "name": "Fatso Yfg",
-          "url": "https://open.spotify.com/artist/2iu5ZoDJPv46Nf4N6Pp3LS"
-        }
-      ],
-      "duration_ms": 154296,
-      "name": "Futuristic",
-      "url": "https://open.spotify.com/track/1o6Zs5jRxzNAZ8CrwCIhhn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
-      },
-      "artists": [
-        {
-          "name": "Rayy Dubb",
-          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
-        }
-      ],
-      "duration_ms": 165575,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
-        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Hat\u00ebr",
-      "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
     },
     {
       "added_at": null,
@@ -615,50 +575,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reap 88",
-        "url": "https://open.spotify.com/album/1YGfodf7LfiQdn648czEss"
+        "name": "thinking of you, wherever you are",
+        "url": "https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB"
       },
       "artists": [
         {
-          "name": "Josh cox",
-          "url": "https://open.spotify.com/artist/7zL5SCi7Lc3Hg8YWMgEZVJ"
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "Lil Shadow",
+          "url": "https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf"
         }
       ],
-      "duration_ms": 139714,
-      "name": "Right Hand",
-      "url": "https://open.spotify.com/track/1phGDvQ9ud26NDlvw3opnT"
+      "duration_ms": 189231,
+      "name": "king of the pumpkin patch",
+      "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All 4 Bop",
-        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
+        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
+        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
       "artists": [
         {
-          "name": "Curry B",
-          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 145841,
-      "name": "Telephones",
-      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
+      "duration_ms": 152893,
+      "name": "Hat\u00ebr",
+      "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fire in my heart",
-        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
       },
       "artists": [
         {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+          "name": "Rayy Dubb",
+          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
         }
       ],
-      "duration_ms": 229738,
-      "name": "Fire in my heart",
-      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
+      "duration_ms": 165575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
+      },
+      "artists": [
+        {
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
+        }
+      ],
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futuristic",
+        "url": "https://open.spotify.com/album/0aBXI8IsNfs9y258CrRWQO"
+      },
+      "artists": [
+        {
+          "name": "Fatso Yfg",
+          "url": "https://open.spotify.com/artist/2iu5ZoDJPv46Nf4N6Pp3LS"
+        }
+      ],
+      "duration_ms": 154296,
+      "name": "Futuristic",
+      "url": "https://open.spotify.com/track/1o6Zs5jRxzNAZ8CrwCIhhn"
     },
     {
       "added_at": null,
@@ -683,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All 4 Bop",
+        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
+      },
+      "artists": [
+        {
+          "name": "Curry B",
+          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Telephones",
+      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BALL HOGGIN",
         "url": "https://open.spotify.com/album/5STorIrMYjXL9dQ3z77yU2"
       },
@@ -699,18 +711,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Hates 10",
-        "url": "https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1"
+        "name": "you said its that",
+        "url": "https://open.spotify.com/album/7G3rpZyZZRTP6IfaAemMIV"
       },
       "artists": [
         {
-          "name": "10cellphones",
-          "url": "https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv"
+          "name": "lueaston",
+          "url": "https://open.spotify.com/artist/3gWWiWZFco4lAEQzziflQm"
+        },
+        {
+          "name": "Lilzayda9",
+          "url": "https://open.spotify.com/artist/5HiNr975I2N6WZVDxqKLZl"
         }
       ],
-      "duration_ms": 106728,
-      "name": "Air Bender",
-      "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
+      "duration_ms": 122801,
+      "name": "you said its that",
+      "url": "https://open.spotify.com/track/35GEqisilvl0kdwPYTN8UU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reap 88",
+        "url": "https://open.spotify.com/album/1YGfodf7LfiQdn648czEss"
+      },
+      "artists": [
+        {
+          "name": "Josh cox",
+          "url": "https://open.spotify.com/artist/7zL5SCi7Lc3Hg8YWMgEZVJ"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Right Hand",
+      "url": "https://open.spotify.com/track/1phGDvQ9ud26NDlvw3opnT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Pub Sub",
+      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
     },
     {
       "added_at": null,
@@ -731,42 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
-      },
-      "artists": [
-        {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "thinking of you, wherever you are",
-        "url": "https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "Lil Shadow",
-          "url": "https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "king of the pumpkin patch",
-      "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
       },
@@ -779,6 +791,22 @@
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
     },
     {
       "added_at": null,
@@ -835,46 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarecrow",
-        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
+        "name": "heartpacing",
+        "url": "https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z"
       },
       "artists": [
         {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+          "name": "jaydes",
+          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Pub Sub",
-      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "havin",
-        "url": "https://open.spotify.com/album/3BhlxsEpeLYBYlD3oUJ7xb"
-      },
-      "artists": [
-        {
-          "name": "Slump Audios",
-          "url": "https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE"
-        },
-        {
-          "name": "pink6",
-          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
-        },
-        {
-          "name": "DJ BANNED",
-          "url": "https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd"
-        },
-        {
-          "name": "Chris Finesse Exclusives",
-          "url": "https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI"
-        }
-      ],
-      "duration_ms": 115356,
-      "name": "havin",
-      "url": "https://open.spotify.com/track/31TmrpMSlfEb7B07RvF8it"
+      "duration_ms": 102738,
+      "name": "drama queen",
+      "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
     }
   ],
   "unique_name": "Taewitdak Radio",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Mackeeper
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,127 likes - 72 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,158 likes - 72 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 27 | [Pair of Dice](https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Pair of Dice](https://open.spotify.com/album/0KLVzJ7M9BUmVrj8Ic5CHL) | 4:29 |
 | 28 | [Lamb Truck Keys](https://open.spotify.com/track/0YZkkvAyPLdpNLB8Uj07XE) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 2:32 |
 | 29 | [Shut Out](https://open.spotify.com/track/5zGTcOcS7yjmJlZi47XiGU) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Hush](https://open.spotify.com/album/0eNoVhh3gT8bc67J72EQLF) | 3:57 |
-| 30 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
-| 31 | [Detective](https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K) | [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Detective](https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ) | 2:45 |
+| 30 | [Detective](https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K) | [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Detective](https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ) | 2:45 |
+| 31 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 | 32 | [⁠Wildfire](https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:56 |
 | 33 | [Yeeha](https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Yeeha](https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB) | 3:59 |
 | 34 | [Comedy Show](https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Comedy Show](https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl) | 3:00 |
 | 35 | [Vulnerability](https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Vulnerability](https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj) | 3:13 |
 | 36 | [Angel Vision](https://open.spotify.com/track/3bstintYmtTAA8fbjoUerL) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 3:41 |
-| 37 | [Blood Bank \- Spotify Singles](https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Blood Bank \(Spotify Singles\)](https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw) | 5:05 |
-| 38 | [E.T.](https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:31 |
+| 37 | [E.T.](https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:31 |
+| 38 | [Blood Bank \- Spotify Singles](https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Blood Bank \(Spotify Singles\)](https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw) | 5:05 |
 | 39 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 |
 | 40 | [easy rider](https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [easy rider](https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH) | 3:54 |
 | 41 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |

@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-552 songs - 1 day 5 hr 9 min
+553 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 | 2024-04-19 | 2026-05-05 |
 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 | 2022-05-27 | 2022-06-11 |
 | [Lean On](https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Peace Is The Mission](https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM) | 2:56 | 2026-05-04 | 2026-05-30 |
+| [Les amants de Pompéi](https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:49 | 2026-08-28 |  |
 | [Les avions de Mirabel](https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Les avions de Mirabel](https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ) | 3:40 | 2022-05-27 | 2024-04-13 |
 | [Les gens](https://open.spotify.com/track/1vBzEZMjDwSxOoo88XSn95) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 3:14 | 2022-05-27 | 2022-07-29 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2022-05-27 | 2026-05-30 |
@@ -334,7 +335,7 @@
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-04-07 | 2024-05-13 |
 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 | 2025-06-13 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2024-03-29 | 2024-04-20 |
-| [Monaco](https://open.spotify.com/track/1p39ukFUGUDttCu71eGQS4) | [Faüna](https://open.spotify.com/artist/0lzKARKhaojkklWlFuLpBw) | [Monaco](https://open.spotify.com/album/7Bv3f1NUqlas6VNwGSI6As) | 2:43 | 2026-08-28 |  |
+| [Monaco](https://open.spotify.com/track/1p39ukFUGUDttCu71eGQS4) | [Faüna](https://open.spotify.com/artist/0lzKARKhaojkklWlFuLpBw) | [Monaco](https://open.spotify.com/album/7Bv3f1NUqlas6VNwGSI6As) | 2:43 | 2026-08-28 | 2026-10-25 |
 | [Moneytree](https://open.spotify.com/track/0BjPVKGaC2j99Xfn9xbqBU) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Naâman](https://open.spotify.com/artist/2Gkz5N7rWiCE3jlCgsw1yp) | [Moneytree](https://open.spotify.com/album/2RSdk3HLEhbQIvRSadqxaS) | 2:36 | 2023-04-07 | 2023-04-22 |
 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2022-05-27 | 2022-07-29 |
 | [Morceaux de toi](https://open.spotify.com/track/4nflihKVCtgCg55ZmVCas0) | [Malory](https://open.spotify.com/artist/4fWYaICAtJA5qKvfqOm1LZ), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Métropole Blues](https://open.spotify.com/album/4mxmu0AwWUtVYmXyoExha6) | 3:21 | 2022-05-27 | 2022-06-21 |

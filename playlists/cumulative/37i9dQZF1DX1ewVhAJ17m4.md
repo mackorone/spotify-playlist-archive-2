@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Like Roses
 
-656 songs - 1 day 9 hr 6 min
+658 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [B.A.B.E.](https://open.spotify.com/track/7ES8BGLLkl2VsklzKX7d7Z) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [B.A.B.E.](https://open.spotify.com/album/2WprxFWcKDodLgXosRikiw) | 2:33 | 2025-02-21 | 2025-04-28 |
 | [Back Home](https://open.spotify.com/track/4HtoILxBA3ICgzUeWVr6x8) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Back Home](https://open.spotify.com/album/5FSIgmLvYFNl97ffWdUYfa) | 3:08 | 2021-12-20 | 2022-10-14 |
 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 | 2026-07-17 |  |
+| [Back To One](https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Back To One](https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp) | 3:19 | 2026-10-23 |  |
 | [Backfired](https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Backfired](https://open.spotify.com/album/5XZgEi755XiwELre12FuYW) | 2:33 | 2022-08-05 | 2023-07-07 |
 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 | 2024-07-18 | 2024-11-13 |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-04-04 | 2022-05-21 |
@@ -213,6 +214,7 @@
 | [Final Words](https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [The Mosaic](https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW) | 3:33 | 2024-06-14 | 2024-10-28 |
 | [First to Fake It](https://open.spotify.com/track/0bmwuoJqTKoMwAEO7VRBXy) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [First to Fake It](https://open.spotify.com/album/1K2jEvzCM5kqH5TvRT2uTK) | 2:40 | 2021-12-20 | 2022-06-15 |
 | [Flip It](https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Flip It](https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE) | 3:08 | 2022-10-13 | 2022-11-13 |
+| [FLY AWAY](https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [FLY AWAY](https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8) | 3:21 | 2026-10-23 |  |
 | [For Me This Is Heaven](https://open.spotify.com/track/52TEZQ5bTDa5qhnHD0hLQb) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity: Phoenix Sessions](https://open.spotify.com/album/6mnGRO87UFiKOoHL3BezZ7) | 4:03 | 2021-12-20 | 2022-06-15 |
 | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 | 2025-02-21 | 2026-08-22 |
 | [Free Yourself](https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Free Yourself](https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8) | 2:25 | 2026-07-17 |  |
@@ -602,7 +604,7 @@
 | [TOMMY TOOK A PICTURE](https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC) | [Signals Midwest](https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF) | [TOMMY TOOK A PICTURE](https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa) | 2:46 | 2022-04-04 | 2022-08-19 |
 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 | 2024-01-12 | 2024-03-01 |
 | [TRIVIAL PURSUIT](https://open.spotify.com/track/3GkVGyEdZPy7Q6Dyn1YZJ3) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [GUMMY](https://open.spotify.com/album/2XBp8IR0mJOwlXoq4g8o0Z) | 2:13 | 2022-08-25 | 2022-11-11 |
-| [True To You](https://open.spotify.com/track/5N1PN1oh3sovpo3ZYsu3Vl) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [True To You](https://open.spotify.com/album/5tFMwFI5BahAUThihE20Sw) | 3:13 | 2026-10-23 |  |
+| [True To You](https://open.spotify.com/track/5N1PN1oh3sovpo3ZYsu3Vl) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [True To You](https://open.spotify.com/album/5tFMwFI5BahAUThihE20Sw) | 3:13 | 2026-10-23 | 2026-10-25 |
 | [Turn The Lights Off](https://open.spotify.com/track/758nO1KOUiGEjnkGZqDHNX) | [Try Again](https://open.spotify.com/artist/0qa6JDkoQvWpF0hhPFPBGr) | [Turn The Lights Off](https://open.spotify.com/album/0bHSiFQKxzzUlAHJIYoYt1) | 2:34 | 2023-09-15 | 2024-02-06 |
 | [Twice](https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Heard This Before](https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv) | 2:32 | 2026-05-09 |  |
 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 | 2021-12-20 | 2023-01-18 |
@@ -611,7 +613,7 @@
 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 | 2024-06-14 | 2024-11-19 |
 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 | 2025-10-10 |  |
 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 | 2023-03-10 | 2026-02-21 |
-| [unravelled](https://open.spotify.com/track/1YLoqDaLd7HRdUZEgbaFQC) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [unravelled](https://open.spotify.com/album/1o50ucuLEd1HMeWNjJsGRT) | 2:18 | 2026-10-23 |  |
+| [unravelled](https://open.spotify.com/track/1YLoqDaLd7HRdUZEgbaFQC) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [unravelled](https://open.spotify.com/album/1o50ucuLEd1HMeWNjJsGRT) | 2:18 | 2026-10-23 | 2026-10-25 |
 | [Unstoppable](https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Unstoppable](https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt) | 3:05 | 2022-10-21 | 2023-03-10 |
 | [Until Then](https://open.spotify.com/track/1ziXMxdyOXP7rjBmkQrGTM) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Until Then](https://open.spotify.com/album/19iFrjD0t22ZjI2ho8oWFm) | 3:13 | 2023-05-15 | 2024-02-06 |
 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-08-10 | 2024-11-19 |

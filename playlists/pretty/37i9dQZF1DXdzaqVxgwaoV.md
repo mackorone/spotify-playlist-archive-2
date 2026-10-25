@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 ### [Música Decembrina](https://open.spotify.com/playlist/37i9dQZF1DXdzaqVxgwaoV)
 
-> Desde septiembre se siente que viene diciembre 🧊 🎄 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi
+> En modo: simulacro navideño 🎄 🎅🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,043 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,040 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 22 | [Daniela](https://open.spotify.com/track/3WqqkPBdf1nzxbLJUpyZks) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Éxitos De Rodolfo Aicardi, Vol\. 1](https://open.spotify.com/album/2nZbI4CGmtsPKHpoQTRkOK) | 3:18 |
 | 23 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 |
 | 24 | [Cinco Pa' las 12](https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:59 |
-| 25 | [Con Verraquera](https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:08 |
+| 25 | [Quiero Ser Feliz](https://open.spotify.com/track/2vyiAiog5grnWpiHXfrX5n) | [Los Black Star](https://open.spotify.com/artist/1Sj1R6x4FGlNFfdGG2fpnL) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 4:21 |
 | 26 | [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 |
-| 27 | [Quiero Ser Feliz](https://open.spotify.com/track/2vyiAiog5grnWpiHXfrX5n) | [Los Black Star](https://open.spotify.com/artist/1Sj1R6x4FGlNFfdGG2fpnL) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 4:21 |
+| 27 | [Con Verraquera](https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:08 |
 | 28 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
 | 29 | [Farolito \(Little Star\)](https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG) | 4:39 |
 | 30 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 68 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 |
 | 69 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 70 | [Rebelión](https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 6:16 |
-| 71 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Salsa Romántica: Lo Mejor de la Sabrosura](https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ) | 4:44 |
-| 72 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 |
+| 71 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 |
+| 72 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Salsa Romántica: Lo Mejor de la Sabrosura](https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ) | 4:44 |
 | 73 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:11 |
 | 74 | [El Santo Cachón](https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:26 |
 | 75 | [En Barranquilla Me Quedo](https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Inmortal \(Vol\. 2\)](https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX) | 5:11 |
 | 76 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 |
 | 77 | [Muchacha Encantadora](https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Mejor Que Antes](https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE) | 4:17 |
-| 78 | [Adiós Amor](https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Luis Mateus y la Nueva Generación](https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP) | 4:19 |
-| 79 | [María Teresa](https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:36 |
-| 80 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:18 |
+| 78 | [María Teresa](https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:36 |
+| 79 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:18 |
+| 80 | [Adiós Amor](https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Luis Mateus y la Nueva Generación](https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP) | 4:19 |
 
-Snapshot ID: `AAAAAGsUCue5fk7WsODzTpI/EQADMNDl`
+Snapshot ID: `AAAAABOba1F8Os86w1C4vnHz9kfJQNIO`

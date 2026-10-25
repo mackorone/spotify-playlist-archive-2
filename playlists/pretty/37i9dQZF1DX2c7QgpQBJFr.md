@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🙃🍬 cover: Giuse The Lizia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,748 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,747 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 25 | [Rivoluzione](https://open.spotify.com/track/4ylLAKVwK0b9QJqJT8QU0n) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 3:15 |
 | 26 | [S.S.T.A.L.L](https://open.spotify.com/track/2TRcDU8aWWOfKeo7UBsyAk) | [OTTOBRE](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp), [INVERNO](https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt) | [BESTIA](https://open.spotify.com/album/4wmGEqQ2W19TqB5iR4rBW2) | 4:12 |
 | 27 | [Chissà come ti va \(con PRACI, Diss Gacha\)](https://open.spotify.com/track/2XpdcnIOr31g9h2p7OBwTc) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Chissà come ti va \(con PRACI, Diss Gacha\)](https://open.spotify.com/album/197o52DQgYGBIhdqcI7Jld) | 3:05 |
-| 28 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
+| 28 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
 | 29 | [Mela](https://open.spotify.com/track/0yhZZsO3lbGniqWt8z0TbX) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Mela](https://open.spotify.com/album/3ExSOClbwvrodWGoFXQXUH) | 3:03 |
 | 30 | [dalla testa ai piedi](https://open.spotify.com/track/1nyRq0UoHJCApQQWncXVAy) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [dalla testa ai piedi](https://open.spotify.com/album/5L8KpSdAj3vbsQdojLt7Wq) | 3:20 |
 | 31 | [Alla mia festa](https://open.spotify.com/track/4CpGTUSmEfUD75p0vIjYQB) | [Fremir](https://open.spotify.com/artist/3HeUHyEVWRuTvmYQmgDBb1) | [Alla mia festa](https://open.spotify.com/album/3umdLx0TDI3oSAAxUkM7Oz) | 3:01 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 33 | [MILLELAME](https://open.spotify.com/track/3o1PmqatNZWPgDHcxVE6pl) | [Melancholia](https://open.spotify.com/artist/1y3Nbe31v5E2HV4stRgjPd) | [i figli della pioggia](https://open.spotify.com/album/1vpXBMmNd2X7tUwNvjYiY9) | 3:37 |
 | 34 | [Canzoni Tristi](https://open.spotify.com/track/41EoXeCtlOVMF5nq4jS4oG) | [joule](https://open.spotify.com/artist/5jzw0zF9VmvU2FqNDq6Ob6), [Miror B](https://open.spotify.com/artist/5TKJo6EbWOLwqjI1dyh21v) | [Canzoni Tristi](https://open.spotify.com/album/3CTeModerQqhSZjSNa4DxS) | 1:57 |
 | 35 | [Abitudini](https://open.spotify.com/track/7asR4ToYYfndk0b8csnNh4) | [Gaia Morelli](https://open.spotify.com/artist/3tgCaL6JQGlCnLmNyjs84B) | [Abitudini](https://open.spotify.com/album/6DKpOcTwP2WTLevxEfJ1jY) | 3:14 |
-| 36 | [Monotonia](https://open.spotify.com/track/2RCoNmcaXEYOxOScu52gzU) | [Niccolo Cimini](https://open.spotify.com/artist/0JlM2Ji5YwTiQPq7NJnLR4) | [Monotonia](https://open.spotify.com/album/4rboiq6Azy2tAWieFdUasZ) | 3:26 |
+| 36 | [Monotonia](https://open.spotify.com/track/2RCoNmcaXEYOxOScu52gzU) | [Niccolò Cimini](https://open.spotify.com/artist/0JlM2Ji5YwTiQPq7NJnLR4) | [Monotonia](https://open.spotify.com/album/4rboiq6Azy2tAWieFdUasZ) | 3:26 |
 | 37 | [DISORDINE](https://open.spotify.com/track/2CKmKxtBMPqCyuflb1dgly) | [Dolens](https://open.spotify.com/artist/0s8BTHCXvTPpSClXrhAr4l) | [DISORDINE](https://open.spotify.com/album/4JcTUMrLZMzqYQervVkxxO) | 2:52 |
 | 38 | [Brindiamo alla vita](https://open.spotify.com/track/6Q3kBpr0RpRNZU6pXBVlHv) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe), [kOkeshi](https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj), [caucci](https://open.spotify.com/artist/4JCm5zNz6ojA0y6tXod5OM) | [Brindiamo alla vita](https://open.spotify.com/album/5NP9j4yZuJKYqdNqtCLj99) | 2:52 |
 | 39 | [SIAMO IN TANTI](https://open.spotify.com/track/364ibCiSbnQT8qUfUf1zI4) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [SIAMO IN TANTI](https://open.spotify.com/album/3CJKiitPJKBKnqTUVGAt1M) | 3:14 |

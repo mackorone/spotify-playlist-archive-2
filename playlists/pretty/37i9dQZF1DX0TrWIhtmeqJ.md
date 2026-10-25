@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Bricknasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,612 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,610 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Target](https://open.spotify.com/track/12TuFEojfVYzPAt0cdyfad) | [Catch](https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [The Elephant In The Room](https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru) | 3:31 |
 | 70 | [And Still](https://open.spotify.com/track/4nbQjkvexJoMH5zTlWrCX1) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [And Still](https://open.spotify.com/album/1AD4VBxzDRis7Yi8ssjP3l) | 2:51 |
 
-Snapshot ID: `AAAAAOuaJJg4Gm6x+vPdtdyrGC0Ay2OH`
+Snapshot ID: `AAAAADRtnhus68/y/lgHdc3RXrCMnHrc`

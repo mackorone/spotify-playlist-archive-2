@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Tasché, Andriette, Steve Hofmeyr, Ruhan Du Toit, Dewald Wasserfall en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,797 likes - 61 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,806 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 9 | [Lyntjies](https://open.spotify.com/track/7j1ccXk9AmuU5xtY63aKuu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Lyntjies](https://open.spotify.com/album/4CfHkz7nIum5wLQiK0rn5j) | 2:37 |
 | 10 | [My Tyd Is Nou](https://open.spotify.com/track/2h8bXFBzwkAHNqNDuvUoFc) | [Nicah](https://open.spotify.com/artist/2cU78ufbMk9dyeiGPZy3ue) | [My Tyd Is Nou](https://open.spotify.com/album/5DmkWJMxh2PxaA74m2aE3r) | 3:30 |
 | 11 | [Ek Het Nie](https://open.spotify.com/track/2qFGofak5JHOwBu4VE5vgc) | [Liza Nel](https://open.spotify.com/artist/2A972WrIIrzfdsI5IeSS3z), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ek Het Nie](https://open.spotify.com/album/0xWj8090lCgOARoQVxdSqh) | 3:21 |
-| 12 | [Jakarandastad](https://open.spotify.com/track/2Vv1eLQ9JpLeGpKPAgfZIg) | [Jacques Not Jack](https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw), [Lucia!](https://open.spotify.com/artist/0onBb0KP2oD3RMaCFvY85X) | [Jakarandastad](https://open.spotify.com/album/2rca6igPvTOZRQHWhSrJ36) | 3:23 |
+| 12 | [Jakarandastad](https://open.spotify.com/track/2Vv1eLQ9JpLeGpKPAgfZIg) | [Jacques Not Jack](https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw), [Lucia](https://open.spotify.com/artist/3E7teiyvOlz9haxrHmIB2D) | [Jakarandastad](https://open.spotify.com/album/2rca6igPvTOZRQHWhSrJ36) | 3:23 |
 | 13 | [Die Reënmasjien](https://open.spotify.com/track/15zECs6Gbi1MFSKdxEUZ1F) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Kleiner](https://open.spotify.com/album/1LYVEZzgNtSpZKK4k4xOnS) | 3:13 |
 | 14 | [Swart Zambuca](https://open.spotify.com/track/5msHx0hUJB7lTnexr3Bki1) | [Eric Streso](https://open.spotify.com/artist/3EBdDrA15qA8un8O3pXsFi) | [Swart Zambuca](https://open.spotify.com/album/1TirRWejpGTCagf9iwhtDu) | 2:27 |
 | 15 | [Stadig](https://open.spotify.com/track/0CYKkA90kXsGRV5xLrWX6L) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Stadig](https://open.spotify.com/album/7Edw5GZL5izoP3VbDyewf3) | 3:45 |

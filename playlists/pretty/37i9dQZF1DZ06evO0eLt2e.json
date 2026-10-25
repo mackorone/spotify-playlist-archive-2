@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 32454,
+  "num_followers": 32459,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAAQranr7U/Zi/4NynME2Ooz",
+  "snapshot_id": "atqjgAAAAAC4/Kod5EY4+52ryHJORtNI",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Silver Tongued Devil and I",
         "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 230757,
       "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
       "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
     },
     {
       "added_at": null,
@@ -527,30 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 206796,
-      "name": "Roll Me Up",
-      "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
+      "duration_ms": 178440,
+      "name": "From the Bottle to the Bottom",
+      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
     },
     {
       "added_at": null,
@@ -599,6 +587,34 @@
       "duration_ms": 192301,
       "name": "The Pilgrim, Chapter 33",
       "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "Roll Me Up",
+      "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 191667,
       "name": "The Last Cowboy Song",
       "url": "https://open.spotify.com/track/2zfK1yLW1HzHGbmYx6X9F8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "From the Bottle to the Bottom",
-      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
     },
     {
       "added_at": null,
@@ -955,34 +955,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
+        "name": "On My Way to Heaven",
+        "url": "https://open.spotify.com/album/33cycgV7UVqjr7S4qxGRXP"
       },
       "artists": [
         {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         },
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Dennis Quaid",
+          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
         },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 154436,
-      "name": "One Too Many Mornings",
-      "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
+      "duration_ms": 249711,
+      "name": "On My Way to Heaven",
+      "url": "https://open.spotify.com/track/3jxm3qgTSupK8sjlqgqPl6"
     },
     {
       "added_at": null,
@@ -1019,26 +1011,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Way to Heaven",
-        "url": "https://open.spotify.com/album/33cycgV7UVqjr7S4qxGRXP"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
       "artists": [
         {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
         },
         {
-          "name": "Dennis Quaid",
-          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 249711,
-      "name": "On My Way to Heaven",
-      "url": "https://open.spotify.com/track/3jxm3qgTSupK8sjlqgqPl6"
+      "duration_ms": 154436,
+      "name": "One Too Many Mornings",
+      "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 260687,
+      "name": "The Silver Tongued Devil and I",
+      "url": "https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW"
     },
     {
       "added_at": null,
@@ -1075,6 +1091,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1103,38 +1135,6 @@
       "duration_ms": 263986,
       "name": "Help Me Make It Through the Night - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6LVPKE3YlFHPWtYJJ4YWHm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 260687,
-      "name": "The Silver Tongued Devil and I",
-      "url": "https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1207,18 +1223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+        "name": "Ralph Emery's Country Legends Series (Vol. 2 / Live)",
+        "url": "https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3"
       },
       "artists": [
         {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
         }
       ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+      "duration_ms": 204253,
+      "name": "Help Me Make It Through The Night - Live",
+      "url": "https://open.spotify.com/track/4QClPXF2xUraplS3mHHPck"
     },
     {
       "added_at": null,
@@ -1251,30 +1275,6 @@
       "duration_ms": 219173,
       "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ralph Emery's Country Legends Series (Vol. 2 / Live)",
-        "url": "https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3"
-      },
-      "artists": [
-        {
-          "name": "Gaither",
-          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "Help Me Make It Through The Night - Live",
-      "url": "https://open.spotify.com/track/4QClPXF2xUraplS3mHHPck"
     },
     {
       "added_at": null,

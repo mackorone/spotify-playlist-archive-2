@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Roosevelt Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,079 likes - 70 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,119 likes - 70 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

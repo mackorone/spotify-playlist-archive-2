@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 224126,
+  "num_followers": 224141,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Midnight Dreamer",
-        "url": "https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK"
+        "name": "Alexandre Tharaud: Baroque",
+        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
       },
       "artists": [
         {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
         }
       ],
-      "duration_ms": 186476,
-      "name": "Midnight Dreamer",
-      "url": "https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv"
+      "duration_ms": 253413,
+      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Alexandre Tharaud: Baroque",
-        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
+        "name": "Midnight Dreamer",
+        "url": "https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 253413,
-      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
-      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
+      "duration_ms": 186476,
+      "name": "Midnight Dreamer",
+      "url": "https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Sinfonie Napolitane",
+        "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Battista Pergolesi",
+          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
+        },
+        {
+          "name": "Orchestra da Camera di Napoli",
+          "url": "https://open.spotify.com/artist/3Xvs8dfAyr88DYUupSLITc"
+        },
+        {
+          "name": "Enzo Amato",
+          "url": "https://open.spotify.com/artist/4hqWKF9i5qQvlPA3UpuTIN"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Lo frate 'nnamorato: II. Andante",
+      "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/09TIZ4XM46PFxq133GoFMq"
       },
@@ -1243,30 +1267,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Sinfonie Napolitane",
-        "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Battista Pergolesi",
-          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
-        },
-        {
-          "name": "Orchestra da Camera di Napoli",
-          "url": "https://open.spotify.com/artist/3Xvs8dfAyr88DYUupSLITc"
-        },
-        {
-          "name": "Enzo Amato",
-          "url": "https://open.spotify.com/artist/4hqWKF9i5qQvlPA3UpuTIN"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Lo frate 'nnamorato: II. Andante",
-      "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
         "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
       },
@@ -1331,22 +1311,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
         }
       ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1375,6 +1355,26 @@
       "duration_ms": 391480,
       "name": "Piano Concerto No. 23 in A Major, K. 488: II. Adagio - Cadenza by Dejan Lazi\u0107",
       "url": "https://open.spotify.com/track/3RhdzDEdatnpY2hocjxrj5"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
+        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
+      },
+      "artists": [
+        {
+          "name": "Snorri Sigf\u00fas Birgisson",
+          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
+      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1999,26 +2019,6 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
-        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
-      },
-      "artists": [
-        {
-          "name": "Snorri Sigf\u00fas Birgisson",
-          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
-      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2431,6 +2431,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
+      },
+      "artists": [
+        {
+          "name": "Peter Sculthorpe",
+          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
+        },
+        {
+          "name": "Richard Narroway",
+          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
+        }
+      ],
+      "duration_ms": 147429,
+      "name": "Requiem for Cello Alone: IV. Lacrimosa",
+      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "A Lionel Tertis Celebration",
         "url": "https://open.spotify.com/album/6PQmsEvXXCMSTjxkFyqcS2"
       },
@@ -2451,26 +2471,6 @@
       "duration_ms": 163173,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/3z7waGD32zmOs9ndMqPhPl"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
-      },
-      "artists": [
-        {
-          "name": "Peter Sculthorpe",
-          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
-        },
-        {
-          "name": "Richard Narroway",
-          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
-        }
-      ],
-      "duration_ms": 147429,
-      "name": "Requiem for Cello Alone: IV. Lacrimosa",
-      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
     },
     {
       "added_at": "2026-09-25 04:01:33",

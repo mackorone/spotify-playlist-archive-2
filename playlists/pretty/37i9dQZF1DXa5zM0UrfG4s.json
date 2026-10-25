@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118403,
+  "num_followers": 118409,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,18 @@
     {
       "added_at": "2026-10-22 22:00:31",
       "album": {
-        "name": "Drekke d\u00e6 fin",
-        "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
+        "name": "F\u00f8r du g\u00e5r",
+        "url": "https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 119183,
-      "name": "Drekke d\u00e6 fin",
-      "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
+      "duration_ms": 276493,
+      "name": "N\u00e5r t\u00e5rer fell",
+      "url": "https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE"
     },
     {
       "added_at": "2026-10-22 22:00:31",
@@ -707,18 +703,22 @@
     {
       "added_at": "2026-10-22 22:00:31",
       "album": {
-        "name": "F\u00f8r du g\u00e5r",
-        "url": "https://open.spotify.com/album/3ESeJbRLVfkCkQRCHo2Za2"
+        "name": "Drekke d\u00e6 fin",
+        "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 276493,
-      "name": "N\u00e5r t\u00e5rer fell",
-      "url": "https://open.spotify.com/track/3INwh9Vs7vPkqs5UVQFgBE"
+      "duration_ms": 119183,
+      "name": "Drekke d\u00e6 fin",
+      "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
     },
     {
       "added_at": "2026-10-22 22:00:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-10-22 22:00:31",
       "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
-    },
-    {
-      "added_at": "2026-10-22 22:00:31",
-      "album": {
         "name": "St\u00f8gg melodi",
         "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 141750,
       "name": "St\u00f8gg melodi",
       "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
+    },
+    {
+      "added_at": "2026-10-22 22:00:31",
+      "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
     },
     {
       "added_at": "2026-10-22 22:00:31",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-22 22:00:31",
       "album": {
-        "name": "Er det lov \u00e5 leva",
-        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 131835,
-      "name": "Er det lov \u00e5 leva",
-      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
-    },
-    {
-      "added_at": "2026-10-22 22:00:31",
-      "album": {
         "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
         "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 199920,
       "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
       "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
+    },
+    {
+      "added_at": "2026-10-22 22:00:31",
+      "album": {
+        "name": "Er det lov \u00e5 leva",
+        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 131835,
+      "name": "Er det lov \u00e5 leva",
+      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
     },
     {
       "added_at": "2026-10-22 22:00:31",

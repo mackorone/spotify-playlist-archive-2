@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 11187,
+  "num_followers": 11194,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAAB+Dvu/WGBcbD7bsnuSCUbB",
+  "snapshot_id": "atqjgAAAAADrSuPyxSUJfleg+KmGCjJM",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 51306,
-      "name": "Partita, Op. 2: I. Toccatina",
-      "url": "https://open.spotify.com/track/3t1ehEZp3HVWB9ae9uDueL"
+      "duration_ms": 209773,
+      "name": "Variations for the Healing of Arinushka",
+      "url": "https://open.spotify.com/track/524E2l95o8aWYX1HdVWJJU"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RENDEZ-VOUS - MIRRORS",
-        "url": "https://open.spotify.com/album/5gSmATnfYnOS1SqyP18Pbw"
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
       "artists": [
         {
@@ -324,17 +324,21 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Camille Thomas",
-          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+          "name": "Susan Bickley",
+          "url": "https://open.spotify.com/artist/525YYvT2o5JaJjaHYu9FnY"
         },
         {
-          "name": "Julien Brocal",
-          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Vladimir Mendelssohn",
+          "url": "https://open.spotify.com/artist/2p9DzY7yWnB8nvuMQQgQ3r"
         }
       ],
-      "duration_ms": 611813,
-      "name": "Spiegel im Spiegel (Arr. C.Thomas for Cello and Piano)",
-      "url": "https://open.spotify.com/track/17rSNhhcPePVmKxRHjcyrY"
+      "duration_ms": 350626,
+      "name": "Es sang vor langen Jahren",
+      "url": "https://open.spotify.com/track/3TauBOYLjym8k2aVkDi0f0"
     },
     {
       "added_at": null,
@@ -376,15 +380,15 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 209773,
-      "name": "Variations for the Healing of Arinushka",
-      "url": "https://open.spotify.com/track/524E2l95o8aWYX1HdVWJJU"
+      "duration_ms": 51306,
+      "name": "Partita, Op. 2: I. Toccatina",
+      "url": "https://open.spotify.com/track/3t1ehEZp3HVWB9ae9uDueL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+        "name": "RENDEZ-VOUS - MIRRORS",
+        "url": "https://open.spotify.com/album/5gSmATnfYnOS1SqyP18Pbw"
       },
       "artists": [
         {
@@ -392,21 +396,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Susan Bickley",
-          "url": "https://open.spotify.com/artist/525YYvT2o5JaJjaHYu9FnY"
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
         },
         {
-          "name": "Gidon Kremer",
-          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
-        },
-        {
-          "name": "Vladimir Mendelssohn",
-          "url": "https://open.spotify.com/artist/2p9DzY7yWnB8nvuMQQgQ3r"
+          "name": "Julien Brocal",
+          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
         }
       ],
-      "duration_ms": 350626,
-      "name": "Es sang vor langen Jahren",
-      "url": "https://open.spotify.com/track/3TauBOYLjym8k2aVkDi0f0"
+      "duration_ms": 611813,
+      "name": "Spiegel im Spiegel (Arr. C.Thomas for Cello and Piano)",
+      "url": "https://open.spotify.com/track/17rSNhhcPePVmKxRHjcyrY"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Arvo (Extended Edition)",
+        "url": "https://open.spotify.com/album/3omibSzla1z5BaCxnMUOnz"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "F\u00fcr Alina - Live from The Martha Argerich Festival in Hamburg",
+      "url": "https://open.spotify.com/track/0UkFJggFUn5L70uoApKjGp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -527,6 +547,26 @@
       "duration_ms": 239206,
       "name": "Kleine Litanei",
       "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 87173,
+      "name": "F\u00fcr Anna Maria",
+      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
     },
     {
       "added_at": null,
@@ -555,28 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 87173,
-      "name": "F\u00fcr Anna Maria",
-      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Arvo (Extended Edition)",
-        "url": "https://open.spotify.com/album/3omibSzla1z5BaCxnMUOnz"
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
       "artists": [
         {
@@ -584,13 +604,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 253426,
-      "name": "F\u00fcr Alina - Live from The Martha Argerich Festival in Hamburg",
-      "url": "https://open.spotify.com/track/0UkFJggFUn5L70uoApKjGp"
+      "duration_ms": 348080,
+      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
+      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
     },
     {
       "added_at": null,
@@ -643,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+        "name": "P\u00e4rt: Passacaglia",
+        "url": "https://open.spotify.com/album/4eB08qgfzPIpGQqQEpXQOX"
       },
       "artists": [
         {
@@ -652,17 +676,25 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
         },
         {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Geneva Lewis",
+          "url": "https://open.spotify.com/artist/62RVu9bBwlW3wQMu3TqOIH"
+        },
+        {
+          "name": "Andrei Pushkarev",
+          "url": "https://open.spotify.com/artist/3U6kv439aTb2ce6pCgsen3"
+        },
+        {
+          "name": "Kremerata Baltica",
+          "url": "https://open.spotify.com/artist/0ect9tEgQI3kYRdAshny5a"
         }
       ],
-      "duration_ms": 348080,
-      "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
-      "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
+      "duration_ms": 277029,
+      "name": "Passacaglia",
+      "url": "https://open.spotify.com/track/4xLZnZ2uewP67g0cOvu1iZ"
     },
     {
       "added_at": null,
@@ -747,86 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Choral Music",
-        "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
-        },
-        {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Da pacem, Domine",
-      "url": "https://open.spotify.com/track/4EuTv7LzGp2cFpOIaW1e3U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 296986,
-      "name": "Most Holy Mother of God",
-      "url": "https://open.spotify.com/track/1dfc3iE4B7OTMAwLYFYYCU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: Passacaglia",
-        "url": "https://open.spotify.com/album/4eB08qgfzPIpGQqQEpXQOX"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Gidon Kremer",
-          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
-        },
-        {
-          "name": "Geneva Lewis",
-          "url": "https://open.spotify.com/artist/62RVu9bBwlW3wQMu3TqOIH"
-        },
-        {
-          "name": "Andrei Pushkarev",
-          "url": "https://open.spotify.com/artist/3U6kv439aTb2ce6pCgsen3"
-        },
-        {
-          "name": "Kremerata Baltica",
-          "url": "https://open.spotify.com/artist/0ect9tEgQI3kYRdAshny5a"
-        }
-      ],
-      "duration_ms": 277029,
-      "name": "Passacaglia",
-      "url": "https://open.spotify.com/track/4xLZnZ2uewP67g0cOvu1iZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Symphonies",
         "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
@@ -875,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
       "artists": [
         {
@@ -884,37 +836,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Kanon Pokajanen: Kondakion",
-      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "55",
-        "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/0lZQdRWPHaaKw5Voj2zkbE"
+      "duration_ms": 296986,
+      "name": "Most Holy Mother of God",
+      "url": "https://open.spotify.com/track/1dfc3iE4B7OTMAwLYFYYCU"
     },
     {
       "added_at": null,
@@ -947,6 +879,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/0lZQdRWPHaaKw5Voj2zkbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Choral Music",
+        "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Da pacem, Domine",
+      "url": "https://open.spotify.com/track/4EuTv7LzGp2cFpOIaW1e3U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Kanon Pokajanen: Kondakion",
+      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e4rt: Mommy\u2019s Kiss",
         "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
       },
@@ -963,50 +963,6 @@
       "duration_ms": 71613,
       "name": "Mommy\u2019s Kiss",
       "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
-        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Hymn to a Great City for 2 Pianos",
-      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "P\u00e4rt: F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
     },
     {
       "added_at": null,
@@ -1079,6 +1035,50 @@
       "duration_ms": 490920,
       "name": "And One of the Pharisees...",
       "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
+        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Hymn to a Great City for 2 Pianos",
+      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "P\u00e4rt: F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
     },
     {
       "added_at": null,

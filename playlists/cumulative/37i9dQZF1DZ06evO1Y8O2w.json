@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "After the Silence",
+        "url": "https://open.spotify.com/album/6xYs6k8MqiIDK8mMG7en1j"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176608,
+      "name": "After the Silence",
+      "url": "https://open.spotify.com/track/07y44cyGJnb5TiduAtdSLx"
+    },
+    {
+      "album": {
         "name": "Living All Alone",
         "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 350520,
       "name": "Just Another Face In the Crowd",
       "url": "https://open.spotify.com/track/4PbatvH2aKPvZ8cF15892v"

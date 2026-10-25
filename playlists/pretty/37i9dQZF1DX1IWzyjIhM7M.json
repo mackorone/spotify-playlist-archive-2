@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10526,
+  "num_followers": 10527,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 242581,
-      "name": "Flow State",
-      "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 242581,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "rocketship",
-        "url": "https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE"
+        "name": "taste of u",
+        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
       },
       "artists": [
         {
-          "name": "Adriel",
-          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
-        },
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
         }
       ],
-      "duration_ms": 159226,
-      "name": "rocketship",
-      "url": "https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc"
+      "duration_ms": 179358,
+      "name": "taste of u",
+      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "taste of u",
-        "url": "https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco"
+        "name": "rocketship",
+        "url": "https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE"
       },
       "artists": [
         {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
         }
       ],
-      "duration_ms": 179358,
-      "name": "taste of u",
-      "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
+      "duration_ms": 159226,
+      "name": "rocketship",
+      "url": "https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Maddest Hoes",
         "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 154105,
       "name": "Maddest Hoes",
       "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
-      },
-      "artists": [
-        {
-          "name": "FiFi Zhang",
-          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
-        }
-      ],
-      "duration_ms": 182828,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Infinite Spring",
         "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 234500,
       "name": "Big Songbirds Don't Cry",
       "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
+      },
+      "artists": [
+        {
+          "name": "FiFi Zhang",
+          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
+        }
+      ],
+      "duration_ms": 182828,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "autotunelove",
-        "url": "https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e"
-      },
-      "artists": [
-        {
-          "name": "Azuleja",
-          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
-        }
-      ],
-      "duration_ms": 159349,
-      "name": "autotunelove",
-      "url": "https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "nou",
         "url": "https://open.spotify.com/album/06jwpQC21cgnHAOeQ5EJ2k"
       },
@@ -1651,18 +1635,34 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/3PJTDfyI9qJW5cqFwjrKji"
+        "name": "autotunelove",
+        "url": "https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e"
       },
       "artists": [
         {
-          "name": "The Life",
-          "url": "https://open.spotify.com/artist/6nVF2Zqiojv0BRHTiYMkHP"
+          "name": "Azuleja",
+          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
         }
       ],
-      "duration_ms": 229559,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0E1esyvvslZTNOjBb8ew4x"
+      "duration_ms": 159349,
+      "name": "autotunelove",
+      "url": "https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Czuj\u0119, wi\u0119c jestem?",
+        "url": "https://open.spotify.com/album/0watoDNiZdQSkbNesj21rq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 190206,
+      "name": "Czuj\u0119, wi\u0119c jestem?",
+      "url": "https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2023",

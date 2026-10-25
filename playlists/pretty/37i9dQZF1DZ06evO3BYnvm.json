@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Young. The essential tracks, all in one playlist.",
-  "num_followers": 53605,
+  "num_followers": 53620,
   "original_name": "This Is Lola Young",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAACz0TWIgD2O7Bh5YJLbB0Uc",
+  "snapshot_id": "atqjgAAAAACZ1RzdUPbdJ5q5rS49//+u",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 225110,
+      "name": "Same Bed",
+      "url": "https://open.spotify.com/track/0Khhft9qOXfvpEbg7Vn2jF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outta My Mind pt. 2",
         "url": "https://open.spotify.com/album/5LSKV2loSaO06efMk8hzED"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 164400,
       "name": "Outta My Mind pt. 2",
       "url": "https://open.spotify.com/track/1oyU5HNnNiANItI7DOudPb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 225110,
-      "name": "Same Bed",
-      "url": "https://open.spotify.com/track/0Khhft9qOXfvpEbg7Vn2jF"
     },
     {
       "added_at": null,

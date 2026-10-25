@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-188 songs - 11 hr 5 min
+189 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Tough Break, Kid](https://open.spotify.com/track/41qZd7CdsZfUkmepv2Kh6r) | [BLUUM](https://open.spotify.com/artist/0xDzbSKeVo7PNMUYWjHzyy) | [BLUUM](https://open.spotify.com/album/25Vbkajnx5j1erzMf4YQlj) | 2:04 | 2026-10-13 |  |
 | [TRICK and TREAT](https://open.spotify.com/track/71wsNbnZ7S3NiOStYg8DVY) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [TRICK and TREAT](https://open.spotify.com/album/1WPgTdmt0CCN1Ff81i4igu) | 1:30 | 2025-10-31 |  |
 | [Tu Imagen](https://open.spotify.com/track/2B5sxX32qVMWoEGYWMsykh) | [Enriclinare](https://open.spotify.com/artist/1qyUOKbIpa41amJCkeiAtP), [David SweetLow](https://open.spotify.com/artist/1dTDy7r7rI380Qnt5G9m5B) | [Tu Imagen](https://open.spotify.com/album/3P2oAZDMdDWzX6dMoNSEXM) | 3:01 | 2025-04-02 | 2025-12-17 |
+| [TU MAGIA](https://open.spotify.com/track/0d5tKmy9AJ9Zf1ne4RC9Km) | [Medianoche](https://open.spotify.com/artist/5nyQgG5dI24PwJg61FYa6V) | [TU MAGIA](https://open.spotify.com/album/4JYpJwc3ylcnYgpFpsFTuo) | 4:25 | 2026-10-24 |  |
 | [Unknown destinies](https://open.spotify.com/track/3NOVahQAgF72ycqqORcrMl) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Unknown destinies](https://open.spotify.com/album/1uvJnCKi7u0SmBVEzVb6OU) | 3:01 | 2025-04-11 | 2025-12-06 |
 | [Up & Down](https://open.spotify.com/track/684NwcQYvTJx8IcHX0ypX8) | [Biernacki](https://open.spotify.com/artist/1uPEP1OPYU5FmVjv64zv1g) | [Up & Down](https://open.spotify.com/album/0JPabOkFfoioyJkk5DXl9N) | 3:21 | 2026-10-13 |  |
 | [Viva la Vida](https://open.spotify.com/track/1whnB4vFffnfO0fQuEK1L0) | [Florin Gindu](https://open.spotify.com/artist/7tK6mIokWaz9Awj8pc2c2k) | [Viva La Vida](https://open.spotify.com/album/2bSnktFkFQqkll69XFdC7K) | 4:04 | 2023-10-13 |  |

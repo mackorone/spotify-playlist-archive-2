@@ -2419,6 +2419,36 @@
     },
     {
       "album": {
+        "name": "How You Move (Age of Acid Remix)",
+        "url": "https://open.spotify.com/album/0bbmqxl95e7qJHGmiuv77Z"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "GMS",
+          "url": "https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt"
+        },
+        {
+          "name": "Age of Acid",
+          "url": "https://open.spotify.com/artist/0YogsXKqBux48FK5lqYY9F"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419154,
+      "name": "How You Move - Age of Acid Remix",
+      "url": "https://open.spotify.com/track/5sNwFhrJfNsAZIL0JhX76h"
+    },
+    {
+      "album": {
         "name": "How You Move",
         "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
       },
@@ -3298,7 +3328,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"

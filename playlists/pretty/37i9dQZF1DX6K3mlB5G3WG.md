@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Mida in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,329 likes - 111 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,326 likes - 111 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 10 | [Amateur \(feat\. Salmo\)](https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Amateur](https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t) | 4:25 |
 | 11 | [Close my eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close my eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 |
 | 12 | [OMBRE](https://open.spotify.com/track/0RanD45tjNfmAZ516XHIIF) | [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [LA TAVOLA DELL'UMORE](https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra) | 2:16 |
-| 13 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
+| 13 | [Piove anche dai diavoli](https://open.spotify.com/track/6frLuCSGCMkZcmqlhJqRAO) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Piove anche dai diavoli](https://open.spotify.com/album/1WnBh3SWnqu9gcUg6hGTbY) | 2:42 |
 | 14 | [Nascondino](https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Nascondino](https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy) | 3:01 |
 | 15 | [ELETTRICA](https://open.spotify.com/track/6u0f1DLzQgPr3ZJEvo8vpx) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [ELETTRICA](https://open.spotify.com/album/1bsBvoofX4HS7kVuSUSwmP) | 3:00 |
 | 16 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |

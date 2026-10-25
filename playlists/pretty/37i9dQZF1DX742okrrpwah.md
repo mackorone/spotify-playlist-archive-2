@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ino Casablanca, La Fève x Theodora, LISA & The Rolling Stones au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,337 likes - 106 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,298 likes - 106 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 72 | [Dance It Out](https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Endless Summer](https://open.spotify.com/album/6YDXIYzh182auw0avklzbq) | 3:14 |
 | 73 | [I try my best](https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [I try my best](https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS) | 3:49 |
 | 74 | [.com](https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [WayWard](https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C) | 3:37 |
-| 75 | [NOT ALL MEN](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
+| 75 | [PAS TOUS LES HOMMES](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
 | 76 | [Gas](https://open.spotify.com/track/2XlS3xEvc3YOQi4SSBVU1K) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l), [SOARR](https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl) | [Gas / Ultra / Equarium](https://open.spotify.com/album/1Ur1wF6EXdDnUw2mpIWTJL) | 3:38 |
 | 77 | [Même bois](https://open.spotify.com/track/4EHRdbCLmRnW2jTvaoozh5) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [Même bois](https://open.spotify.com/album/2pwLtHjerpGX67oFV2GWTE) | 2:36 |
 | 78 | [AFFECTION](https://open.spotify.com/track/16HcZnsLVs8wIZSrvK5lL5) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [AFFECTION](https://open.spotify.com/album/6ViIWL9rtfyeMNCXnN8vbg) | 2:48 |
 | 79 | [Drip](https://open.spotify.com/track/1D7smZeZjSzSqg1Vcb6BRA) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Drip](https://open.spotify.com/album/3P1U5x9BIVnAni87LRNtpn) | 3:01 |
-| 80 | [Oreiller froid](https://open.spotify.com/track/0eloccyjeMx4sOfVcNGuS4) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Oreiller froid](https://open.spotify.com/album/1dWWUkcGsFJJzkotmAEjLP) | 2:25 |
+| 80 | [oreiller froid](https://open.spotify.com/track/0eloccyjeMx4sOfVcNGuS4) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [oreiller froid](https://open.spotify.com/album/1dWWUkcGsFJJzkotmAEjLP) | 2:25 |
 | 81 | [The Basement](https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [The Basement / Spilt](https://open.spotify.com/album/6LQR9ywQxcxq992e9h2mU5) | 3:33 |
 | 82 | [Bring Some Acid](https://open.spotify.com/track/0FeVfJULLFzARZb1TvZroq) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Bring Some Acid](https://open.spotify.com/album/2zcQ4bAMsYEXtZQyvyRsZr) | 2:16 |
 | 83 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |

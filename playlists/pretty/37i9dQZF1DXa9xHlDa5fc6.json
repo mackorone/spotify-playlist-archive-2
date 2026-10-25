@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 485013,
+  "num_followers": 485008,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "WIRED",
-        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 206780,
-      "name": "Head Alight",
-      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 158946,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "WIRED",
+        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 206780,
+      "name": "Head Alight",
+      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 185740,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "leaving is easy",
-        "url": "https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "leaving is easy",
-      "url": "https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Perspective",
         "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "leaving is easy",
+        "url": "https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "leaving is easy",
+      "url": "https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Before the Waves",
+        "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
+      },
+      "artists": [
+        {
+          "name": "Magic Man",
+          "url": "https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv"
+        }
+      ],
+      "duration_ms": 223529,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "Get Hurt",
         "url": "https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj"
       },
@@ -2139,18 +2155,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Before the Waves",
-        "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
       },
       "artists": [
         {
-          "name": "Magic Man",
-          "url": "https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 223529,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
+      "duration_ms": 221373,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2171,22 +2187,6 @@
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Better If Worse",
-        "url": "https://open.spotify.com/album/3I5qADFdhRpGymlPg6eP3d"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "Better If Worse",
-      "url": "https://open.spotify.com/track/4MduHHf1IuHCh6Gl5cVL31"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Better ft. Cuco",
         "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Better If Worse",
+        "url": "https://open.spotify.com/album/3I5qADFdhRpGymlPg6eP3d"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Better If Worse",
+      "url": "https://open.spotify.com/track/4MduHHf1IuHCh6Gl5cVL31"
     },
     {
       "added_at": "2026-06-17 20:08:40",

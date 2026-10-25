@@ -11043,6 +11043,24 @@
     },
     {
       "album": {
+        "name": "EI V\u00c4LII",
+        "url": "https://open.spotify.com/album/2RyEQlxdem6Iox3bJlyb10"
+      },
+      "artists": [
+        {
+          "name": "Dw",
+          "url": "https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179487,
+      "name": "EI V\u00c4LII",
+      "url": "https://open.spotify.com/track/2cfEKyniE8r223DjBP27vR"
+    },
+    {
+      "album": {
         "name": "Ei yksin tarvii uskaltaa",
         "url": "https://open.spotify.com/album/3QJnuJUcwmRJkX0MX6c7Kk"
       },
@@ -12333,6 +12351,24 @@
     },
     {
       "album": {
+        "name": "Ens kev\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/4mlZR8tJbh7p7RN5iV7J6i"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190877,
+      "name": "Ens kev\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/4gINmu87CKGHD5ziQ4YIeR"
+    },
+    {
+      "album": {
         "name": "Ensi-ilta (feat. Aliisa Syrj\u00e4)",
         "url": "https://open.spotify.com/album/58B91ucwMPqrJO6bqptwTN"
       },
@@ -13102,7 +13138,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 185356,
       "name": "Everest",
       "url": "https://open.spotify.com/track/1LF1fGMaubONQUGWKFlP5v"
@@ -21711,6 +21747,28 @@
     },
     {
       "album": {
+        "name": "Jackpot (feat. uu$er)",
+        "url": "https://open.spotify.com/album/5i9SeaXgSoQLJnPH9fZjv4"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "uu$er",
+          "url": "https://open.spotify.com/artist/6gjoxzAPNFDOiBp7UcJTNS"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154368,
+      "name": "Jackpot (feat. uu$er)",
+      "url": "https://open.spotify.com/track/1rWGNKmdnjRqygIFMAl16K"
+    },
+    {
+      "album": {
         "name": "Klondike",
         "url": "https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl"
       },
@@ -22044,7 +22102,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 216773,
       "name": "Join Me - Razorblade Mix",
       "url": "https://open.spotify.com/track/0d510tdfPL5wEdjUDe9CjH"
@@ -22062,7 +22120,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 216744,
       "name": "Join Me In Death",
       "url": "https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS"
@@ -22707,6 +22765,28 @@
     },
     {
       "album": {
+        "name": "Jos s\u00e4 tahdot niin (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/0r9KljWL9fPuhRD1TmtYtL"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        },
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Jos s\u00e4 tahdot niin - Vain el\u00e4m\u00e4\u00e4 kausi 17",
+      "url": "https://open.spotify.com/track/4TEltpKDSVEWsUOgsGndk2"
+    },
+    {
+      "album": {
         "name": "Jos t\u00e4\u00e4 ei oo se",
         "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
       },
@@ -22968,7 +23048,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 222108,
       "name": "Juhannusvalssi",
       "url": "https://open.spotify.com/track/2f6Qvft2X7XzTQeXCPvfKb"
@@ -23648,6 +23728,24 @@
       "duration_ms": 181115,
       "name": "J\u00e4\u00e4karhu (feat. Jore & Zpoppa)",
       "url": "https://open.spotify.com/track/6ZIqKl5HcLzZyvsAWTilcu"
+    },
+    {
+      "album": {
+        "name": "Koviksen kyyneleet",
+        "url": "https://open.spotify.com/album/1N9EcgDXoI9kEj7gMBT5rr"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147706,
+      "name": "J\u00e4\u00e4prinsessa",
+      "url": "https://open.spotify.com/track/4nDyacdMsQcB08fi4R57xW"
     },
     {
       "album": {
@@ -26526,7 +26624,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 150152,
       "name": "Kirja",
       "url": "https://open.spotify.com/track/0s94cGujeBrKrFp5QUQ7Em"
@@ -27680,7 +27778,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 202693,
       "name": "Koviksen kyyneleet",
       "url": "https://open.spotify.com/track/1yxnYOzBnnnmPQjbmWlzXy"
@@ -27742,7 +27840,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 114937,
       "name": "Kui paljon",
       "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
@@ -30738,7 +30836,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 204255,
       "name": "Liekki",
       "url": "https://open.spotify.com/track/7uSLZt4hBYlNaM2sOdqSp6"
@@ -35664,7 +35762,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 238495,
       "name": "Mik\u00e4 muutti kaiken",
       "url": "https://open.spotify.com/track/3Gk51KzdIrYiH1fYA8SSKk"
@@ -37006,7 +37104,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 193578,
       "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
       "url": "https://open.spotify.com/track/5y08hzaQKn64LXde19zY5i"
@@ -38728,6 +38826,28 @@
       "duration_ms": 246095,
       "name": "Mustelmilla (Mi Amor)",
       "url": "https://open.spotify.com/track/5IDtGlr611RZQANLY5HFys"
+    },
+    {
+      "album": {
+        "name": "Mut m\u00e4 pelk\u00e4\u00e4 en (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/7qvSnkeST7tLSbtzD8MRZQ"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        },
+        {
+          "name": "Kausti",
+          "url": "https://open.spotify.com/artist/384q2iR3LMMr7AIaOsxLAz"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250401,
+      "name": "Mut m\u00e4 pelk\u00e4\u00e4 en (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/0sAkozDC4F2igTgTRpfTIT"
     },
     {
       "album": {
@@ -42594,7 +42714,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 153681,
       "name": "Onneks (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
       "url": "https://open.spotify.com/track/3FTPxbABxijoFE6qPobXEo"
@@ -42664,6 +42784,28 @@
       "duration_ms": 221912,
       "name": "Onnellinen 2.0",
       "url": "https://open.spotify.com/track/4I449JXcbtG29y76wlyb8i"
+    },
+    {
+      "album": {
+        "name": "Onnellinen ilman mua (feat. costee)",
+        "url": "https://open.spotify.com/album/7N39g3x4WYqnVmL4uhX6w4"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        },
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "Onnellinen ilman mua (feat. costee)",
+      "url": "https://open.spotify.com/track/1V4LaGMmmc5jtzVBn1FI98"
     },
     {
       "album": {
@@ -51262,6 +51404,24 @@
       "duration_ms": 152967,
       "name": "Se kes\u00e4",
       "url": "https://open.spotify.com/track/3tRSvQB3E7sxHIgJBcUqIm"
+    },
+    {
+      "album": {
+        "name": "Se kuuluu kaduille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/4MIes6nf6Mlj5sRre1gcDx"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213675,
+      "name": "Se kuuluu kaduille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/4zqW9oxHZf6tAUQTenozpI"
     },
     {
       "album": {
@@ -61453,6 +61613,28 @@
     },
     {
       "album": {
+        "name": "Ty\u00f6mies (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/4ZBAzLWrW4AEKvWEh5oYAY"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163239,
+      "name": "Ty\u00f6mies (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/6PwzNGH8pMFMe6gsnKsLNn"
+    },
+    {
+      "album": {
         "name": "Sextape II",
         "url": "https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR"
       },
@@ -63122,6 +63304,24 @@
       "duration_ms": 214733,
       "name": "Vahinko",
       "url": "https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT"
+    },
+    {
+      "album": {
+        "name": "Vaihe",
+        "url": "https://open.spotify.com/album/46so9PutFHYGb4VHKS7VMO"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191100,
+      "name": "Vaihe",
+      "url": "https://open.spotify.com/track/46RU6bMFpK7OTOoxbt1zNZ"
     },
     {
       "album": {
@@ -65882,7 +66082,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 180120,
       "name": "Vois kelle vaan tapahtuu",
       "url": "https://open.spotify.com/track/2U6dhhbgRZM5vOJjELLlcH"

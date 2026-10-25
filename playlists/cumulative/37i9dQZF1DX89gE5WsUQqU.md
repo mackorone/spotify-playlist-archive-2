@@ -4,7 +4,7 @@
 
 > 9월 10\-13일, \[SPOTIFY HOUSE 서울\] 열기 그대로, 라이브 퍼포먼스 영상과 함께 라인업 아티스트의 셋리스트를 감상해보세요!
 
-319 songs - 17 hr 48 min
+320 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 | 2025-11-03 | 2026-08-11 |
 | [NA B YA](https://open.spotify.com/track/7DvFR2dvSF7YIZf947yhwn) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WALKIN', Vol.2](https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc) | 3:59 | 2025-11-19 | 2026-08-11 |
 | [NAIL \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [NAIL](https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4) | 2:42 | 2026-08-11 |  |
+| [NAIL \- Spotify House Seoul 2026](https://open.spotify.com/track/6RMAqihFAkOODlkFgOA2Xd) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [NAIL \- Spotify House Seoul 2026](https://open.spotify.com/album/3jcXZnjaCjrMy1RaFv5QHN) | 3:02 | 2026-10-23 |  |
 | [namchin](https://open.spotify.com/track/2CrkQ1GeZJWbdPqK6wUIRz) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [glow forever](https://open.spotify.com/album/2igar5ui3UzhSPl6DsO1O2) | 3:12 | 2026-08-11 | 2026-09-16 |
 | [NARAGAZA \(Live 2023\)](https://open.spotify.com/track/4hjaRQ4AcreUaepw231ul9) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 4:05 | 2025-11-03 | 2026-08-11 |
 | [Need To Know](https://open.spotify.com/track/4rhBZa7qzjfiftMyUSo6ow) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 2:49 | 2025-11-19 | 2026-08-11 |

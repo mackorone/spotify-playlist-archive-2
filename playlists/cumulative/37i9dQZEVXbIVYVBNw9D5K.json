@@ -6822,7 +6822,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 137704,
       "name": "Bulamazs\u0131n",
       "url": "https://open.spotify.com/track/0IZ2qKKg9xwYrur7N4kjyT"
@@ -8344,6 +8344,24 @@
       "duration_ms": 174154,
       "name": "Dayanam\u0131yorum",
       "url": "https://open.spotify.com/track/1iv9A5Rvjff0T5I9pcJJpL"
+    },
+    {
+      "album": {
+        "name": "Yetmez Mi?",
+        "url": "https://open.spotify.com/album/2QrB1VRiarQJoM6Q2XnUAY"
+      },
+      "artists": [
+        {
+          "name": "\u0130brahim Tatl\u0131ses",
+          "url": "https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222080,
+      "name": "Da\u011flar",
+      "url": "https://open.spotify.com/track/2cFuJ5YRtCKWldHc3h2gVf"
     },
     {
       "album": {
@@ -20188,7 +20206,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 213906,
       "name": "Maraton",
       "url": "https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh"
@@ -25206,7 +25224,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 106105,
       "name": "Sakin Ol Champ",
       "url": "https://open.spotify.com/track/3USULTYXtx9vdFAgG6KfnY"
@@ -25492,7 +25510,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 210275,
       "name": "Sana Ra\u011fmen",
       "url": "https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH"
@@ -32316,7 +32334,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 162745,
       "name": "\u00c7\u0131kmaz Bir Sokakta",
       "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"

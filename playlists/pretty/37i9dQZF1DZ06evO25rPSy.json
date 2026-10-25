@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25272,
+  "num_followers": 25274,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atgAgAAAAABomt63zirex+wujjeF9ORV",
+  "snapshot_id": "atqjgAAAAAA2/vnBFJ3K3fGhsrg+oRYj",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "T\u00fanel del Tiempo",
+      "url": "https://open.spotify.com/track/7v4L5nSPEKVqIhQMVHu3SB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 256453,
-      "name": "T\u00fanel del Tiempo",
-      "url": "https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD"
+      "duration_ms": 238133,
+      "name": "Se te parar\u00edan los pelos",
+      "url": "https://open.spotify.com/track/0KyizZMOBT02NiF1YPd4Rk"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

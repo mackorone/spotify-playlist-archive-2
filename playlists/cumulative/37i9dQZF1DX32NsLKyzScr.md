@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,501 songs - 3 day 9 hr 44 min
+1,502 songs - 3 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,6 +947,7 @@
 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-04-19 | 2024-11-02 |
 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 | 2022-01-28 | 2022-06-11 |
 | [Over Now](https://open.spotify.com/track/606Z051kpzw0rrcBCYCTtR) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Opposite the Other](https://open.spotify.com/artist/3YPzVOVeAXdzhmnffu1WjZ) | [Over Now](https://open.spotify.com/album/7udk1qiys7QiEPKN9lY8a4) | 2:55 | 2023-10-02 | 2023-11-14 |
+| [Overclock](https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Overclock](https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR) | 3:07 | 2026-10-23 |  |
 | [Own Limit](https://open.spotify.com/track/3IFdP5tYK2Yv6x338C36dV) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ) | [Erased](https://open.spotify.com/album/3B8ZoBF45Gtw1AURybKZP4) | 6:22 | 2020-09-21\* | 2020-10-10 |
 | [Pacifier](https://open.spotify.com/track/0pPUMuFksoTrHXywZYmXi8) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Pacifier](https://open.spotify.com/album/1RtvebFYu7lNoCPD7i4SEW) | 2:30 | 2020-09-21\* | 2021-01-23 |
 | [PACMAN](https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [PACMAN](https://open.spotify.com/album/78smiyLXB1YjwnTSZ2U6jB) | 3:52 | 2022-07-15 | 2022-08-17 |
@@ -1393,7 +1394,7 @@
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-06-26 | 2021-09-18 |
 | [Vibe \(If I Back It Up\) \- Majestic Remix](https://open.spotify.com/track/1NkZiKrhiBeqGrTeYz3QGs) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Vibe \(If I Back It Up\) \[Majestic Remix\]](https://open.spotify.com/album/29gbZxe1JARSl91Bz7s3db) | 4:08 | 2020-09-21\* | 2021-01-23 |
 | [VISIONS](https://open.spotify.com/track/2ynp3xX9DVxUpZEZIMvYiO) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [VISIONS](https://open.spotify.com/album/0yG0Z8DBUK71NVxtSIUI5e) | 3:37 | 2026-10-09 |  |
-| [Voices In My Head](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Voices In My Head](https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef) | 2:26 | 2025-02-14 |  |
+| [Voices In My Head](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Voices In My Head](https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef) | 2:26 | 2025-02-14 | 2026-10-25 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-04-21 | 2024-07-13 |
 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 | 2025-09-22 | 2026-05-09 |
 | [Vorozhyla](https://open.spotify.com/track/1k7CJjdUHWs67jHcAMDCvo) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP), [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x), [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF) | [Vorozhyla](https://open.spotify.com/album/5EFiqpyEjYIGzQj2B5qFLu) | 3:05 | 2024-09-13 | 2025-01-18 |

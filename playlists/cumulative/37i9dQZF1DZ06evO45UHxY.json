@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 176467,
       "name": "Desde Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1qjjMQibRv39gb4WAn0oaP"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 151458,
       "name": "El Gato Del Vecindario",
       "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
@@ -2542,6 +2542,24 @@
       "duration_ms": 142693,
       "name": "Voy a Decirle",
       "url": "https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k"
+    },
+    {
+      "album": {
+        "name": "Voy A Llorar Por Ti",
+        "url": "https://open.spotify.com/album/1UXS1QevTITs2Fa1SppJn1"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170752,
+      "name": "Voy A Llorar Por Ti",
+      "url": "https://open.spotify.com/track/1icGFqAggWyxrBtRVq7kRE"
     },
     {
       "album": {

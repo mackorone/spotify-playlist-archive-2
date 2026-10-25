@@ -1,12 +1,12 @@
 {
   "description": "\u2757\ufe0fNieuwe tracks: Qlas, Kevin & Idaly, Momi, Equalz, Lange Frans & MocroManiac en meer..",
-  "num_followers": 701464,
+  "num_followers": 701426,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQJOnSVnvSRDSdTuweI3+4IjLva",
+  "snapshot_id": "AAAAANHIRpvi3B3Dn5ySEVUAr07+HHOG",
   "tracks": [
     {
       "added_at": "2026-10-22 22:01:00",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823"
     },
     {
+      "added_at": "2026-10-22 22:01:00",
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "duration_ms": 133584,
+      "name": "Spaarpot",
+      "url": "https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM"
+    },
+    {
       "added_at": "2026-10-15 22:00:20",
       "album": {
         "name": "Safi",
@@ -103,38 +123,18 @@
     {
       "added_at": "2026-10-22 22:01:00",
       "album": {
-        "name": "Qlassiek",
-        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+        "name": "Leuven Centraal",
+        "url": "https://open.spotify.com/album/6VQfUztdwVJhQxP9BMCL8U"
       },
       "artists": [
         {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+          "name": "Chardy",
+          "url": "https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa"
         }
       ],
-      "duration_ms": 144166,
-      "name": "FaceTime Sparta",
-      "url": "https://open.spotify.com/track/0jLUdTtetXUO1FVO91UvfH"
-    },
-    {
-      "added_at": "2026-10-22 22:01:00",
-      "album": {
-        "name": "20 Backshot",
-        "url": "https://open.spotify.com/album/32FUI6C5zKeboWI6Bt2hch"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
-        }
-      ],
-      "duration_ms": 155253,
-      "name": "20 Backshot",
-      "url": "https://open.spotify.com/track/5R1tJMXJ5Sq0lelx4VOgRI"
+      "duration_ms": 218437,
+      "name": "Leuven Centraal",
+      "url": "https://open.spotify.com/track/1wKT1jTCw9J2yja5SvPT8I"
     },
     {
       "added_at": "2026-10-15 22:00:20",
@@ -157,26 +157,6 @@
       "url": "https://open.spotify.com/track/28bjLDVYB7Eu7S1zDYEBTY"
     },
     {
-      "added_at": "2026-10-22 22:01:00",
-      "album": {
-        "name": "Qlassiek",
-        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        },
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        }
-      ],
-      "duration_ms": 133584,
-      "name": "Spaarpot",
-      "url": "https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM"
-    },
-    {
       "added_at": "2026-10-15 22:00:20",
       "album": {
         "name": "Volwassen Mannen Dingen",
@@ -195,22 +175,6 @@
       "duration_ms": 133980,
       "name": "Volwassen Mannen Dingen",
       "url": "https://open.spotify.com/track/0Lkj781QAkBk8ClCu5QxFC"
-    },
-    {
-      "added_at": "2026-10-22 22:01:00",
-      "album": {
-        "name": "Leuven Centraal",
-        "url": "https://open.spotify.com/album/6VQfUztdwVJhQxP9BMCL8U"
-      },
-      "artists": [
-        {
-          "name": "Chardy",
-          "url": "https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Leuven Centraal",
-      "url": "https://open.spotify.com/track/1wKT1jTCw9J2yja5SvPT8I"
     },
     {
       "added_at": "2026-10-15 22:00:20",
@@ -241,6 +205,38 @@
       "url": "https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85"
     },
     {
+      "added_at": "2026-10-22 22:01:00",
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "FaceTime Sparta",
+      "url": "https://open.spotify.com/track/0jLUdTtetXUO1FVO91UvfH"
+    },
+    {
+      "added_at": "2026-10-22 22:01:00",
+      "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/1ayXkZaFuKzhmAVDRYiddp"
+      },
+      "artists": [
+        {
+          "name": "Jordymone9",
+          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+        }
+      ],
+      "duration_ms": 171158,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/0nm6OqyUU5yBdB9yDQWExx"
+    },
+    {
       "added_at": "2026-10-15 22:00:20",
       "album": {
         "name": "HVB",
@@ -263,18 +259,22 @@
     {
       "added_at": "2026-10-22 22:01:00",
       "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/1ayXkZaFuKzhmAVDRYiddp"
+        "name": "20 Backshot",
+        "url": "https://open.spotify.com/album/32FUI6C5zKeboWI6Bt2hch"
       },
       "artists": [
         {
-          "name": "Jordymone9",
-          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
         }
       ],
-      "duration_ms": 171158,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/0nm6OqyUU5yBdB9yDQWExx"
+      "duration_ms": 155253,
+      "name": "20 Backshot",
+      "url": "https://open.spotify.com/track/5R1tJMXJ5Sq0lelx4VOgRI"
     },
     {
       "added_at": "2026-10-15 22:00:20",

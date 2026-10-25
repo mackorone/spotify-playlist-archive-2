@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 42 min
+86 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Amazing Grace](https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Amazing Grace](https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb) | 2:56 | 2025-07-15 | 2026-02-05 |
 | [Away](https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:28 | 2025-07-15 | 2026-09-14 |
 | [Away](https://open.spotify.com/track/2vaoIwtz1wOrP6DUEPhgn5) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 2:58 | 2025-12-30 | 2025-12-31 |
-| [Ayaya](https://open.spotify.com/track/3K1l0KooYDvmpQtv1sj8Ih) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Father's Love](https://open.spotify.com/album/3vS3r8d3EWBo9AD9qqMlm0) | 3:44 | 2026-09-29 |  |
+| [Ayaya](https://open.spotify.com/track/1L1TEAUIblOiW7MSkjZQFO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Ayaya](https://open.spotify.com/album/5txYtOz5OSkeGelJHLffWs) | 3:44 | 2026-10-25 |  |
+| [Ayaya](https://open.spotify.com/track/3K1l0KooYDvmpQtv1sj8Ih) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Father's Love](https://open.spotify.com/album/3vS3r8d3EWBo9AD9qqMlm0) | 3:44 | 2026-09-29 | 2026-10-25 |
 | [Billion Words](https://open.spotify.com/track/7fk2maOyYbRVEM9UL4QhmH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/2ua3yE01TSHBvZ8aAMywD2) | 7:44 | 2025-07-15 | 2025-09-13 |
 | [Blow My Mind](https://open.spotify.com/track/0vQc3gUbXHAF4FDlzhfaJL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Blow My Mind](https://open.spotify.com/album/4fyl086gcUeMo0euTMYWde) | 3:07 | 2025-07-15 | 2026-04-01 |
 | [Brighter Day](https://open.spotify.com/track/3IQGgI3YOn3HGlrZECYs0K) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pilgrim's Road](https://open.spotify.com/album/3NtuWd8mZObFRl6JyIhyy0) | 2:35 | 2025-07-15 |  |

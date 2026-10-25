@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-448 songs - 1 day 2 hr 50 min
+449 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Distance](https://open.spotify.com/track/1PlyiUyljQJmnopGshRJSU) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:35 | 2026-01-17 | 2026-02-25 |
 | [Doc Holliday](https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Doc Holliday](https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro) | 4:49 | 2026-05-06 | 2026-05-26 |
 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 | 2026-08-11 | 2026-10-16 |
+| [Don't Get Attached](https://open.spotify.com/track/6EJB14lIIQSh7QfELPfZGQ) | [Cordelia Harding](https://open.spotify.com/artist/1yKmcWiEDJPW3Cb45W5qmR) | [Don't Get Attached](https://open.spotify.com/album/0NbXJdlDojMCum9cv0E51F) | 2:44 | 2026-10-24 |  |
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-04 | 2025-12-06 |
 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-11 | 2026-05-26 |
 | [Drugstore Cowboy](https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI) | [Krooked Tongue](https://open.spotify.com/artist/1KURu1cYKhnrpZ8W1sGynh) | [Drugstore Cowboy](https://open.spotify.com/album/30lF61DTj8x7Ep1htMWuyw) | 3:41 | 2025-10-31 | 2025-12-06 |
@@ -156,7 +157,7 @@
 | [Hate Is a Drug](https://open.spotify.com/track/7rjOW14JcKKC9L3ufr7iF6) | [Strange Demons](https://open.spotify.com/artist/1voQLX4eaaC2KEb0ACbSGT) | [Hate Is a Drug](https://open.spotify.com/album/551lQlzabSmzFQjC2edsAw) | 3:24 | 2026-06-05 | 2026-08-08 |
 | [headnoise](https://open.spotify.com/track/4YiD4uZY0vAYYYktsVLho7) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [headnoise](https://open.spotify.com/album/6WrlzrcGmFuduE71cI8di2) | 2:50 | 2025-10-18 |  |
 | [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 | 2025-12-18 | 2026-01-21 |
-| [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-02-13 |  |
+| [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-02-13 | 2026-10-25 |
 | [HELLO DENIAL](https://open.spotify.com/track/2pUc5A4RRllfzi3vqzH5gl) | [Quentin](https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi) | [HELLO DENIAL](https://open.spotify.com/album/6F5VM9VZj7ZEcYSMV3tRNd) | 3:24 | 2026-03-14 | 2026-04-15 |
 | [help](https://open.spotify.com/track/0GL1VRnWrizG4gRqEA6bFN) | [1bed](https://open.spotify.com/artist/4u3OTdGtad4UJc5nKD15oq) | [help](https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7) | 1:26 | 2025-12-13 | 2026-01-05 |
 | [HERO](https://open.spotify.com/track/6qhp3xbHvTOars63ilniHO) | [YOUR PERSONAL VENDETTA](https://open.spotify.com/artist/2PpRod27I2pxzn70VkdDJn) | [HERO](https://open.spotify.com/album/2menXSxj3dacUu08KPRyIT) | 4:02 | 2026-02-01 | 2026-02-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 170236,
+  "num_followers": 170255,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
-        "name": "Do It Yourself (New Bossa Remix)",
-        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
-      },
-      "artists": [
-        {
-          "name": "Markko Mendes",
-          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
-        },
-        {
-          "name": "DJ Hum",
-          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
-        }
-      ],
-      "duration_ms": 252142,
-      "name": "Do It Yourself - New Bossa Remix",
-      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
         "name": "Urucungo",
         "url": "https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 311590,
       "name": "Alquimias",
       "url": "https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
+        "name": "Do It Yourself (New Bossa Remix)",
+        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
+      },
+      "artists": [
+        {
+          "name": "Markko Mendes",
+          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+        }
+      ],
+      "duration_ms": 252142,
+      "name": "Do It Yourself - New Bossa Remix",
+      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
     },
     {
       "added_at": "2026-07-27 16:20:33",

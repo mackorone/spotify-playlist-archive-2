@@ -523,6 +523,22 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Santo Pra Sempre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Meu Deus \u00c9 Grande",
         "url": "https://open.spotify.com/album/0MPV6iVIQRJwlXjCwi9UaK"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 338625,
       "name": "Meu Deus \u00c9 Grande",
       "url": "https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Santo Pra Sempre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Chegou Um Tempo Novo",
         "url": "https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 286293,
       "name": "Chegou Um Tempo Novo",
       "url": "https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Me Atraiu (Reimagined)",
-        "url": "https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 264220,
-      "name": "Me Atraiu (Reimagined)",
-      "url": "https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Tudo Que Eu Mais Quero (Ao Vivo)",
         "url": "https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 255207,
       "name": "Tudo Que Eu Mais Quero - Ao Vivo",
       "url": "https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Me Atraiu (Reimagined)",
+        "url": "https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 264220,
+      "name": "Me Atraiu (Reimagined)",
+      "url": "https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1083,6 +1083,38 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Plano Melhor",
+        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "Plano Melhor",
+      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RyOM2VBjuXp7PAwuhiMJS"
       },
@@ -1103,22 +1135,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Plano Melhor",
-        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
-      },
-      "artists": [
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "Plano Melhor",
-      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Em Todo Tempo",
         "url": "https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 360709,
       "name": "Em Todo Tempo",
       "url": "https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
-        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Sobrevivi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Xdm2ulL3hyc32DEKOg8Cu"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Sobrevivi (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5glKBEULK9ouNoetw3xOhN"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Vem Fluir (Fall Like Rain)",
         "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 387779,
       "name": "Vem Fluir (Fall Like Rain)",
       "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Sobrevivi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Xdm2ulL3hyc32DEKOg8Cu"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Sobrevivi (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5glKBEULK9ouNoetw3xOhN"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Cadeias Quebrar (Break Every Chain) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz"
-      },
-      "artists": [
-        {
-          "name": "Carol Oliveira",
-          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
-        }
-      ],
-      "duration_ms": 430948,
-      "name": "Cadeias Quebrar (Break Every Chain) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Manso E Humilde",
         "url": "https://open.spotify.com/album/6mQAsRSwFHCe48QvStlUDw"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Cadeias Quebrar (Break Every Chain) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz"
+      },
+      "artists": [
+        {
+          "name": "Carol Oliveira",
+          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
+        }
+      ],
+      "duration_ms": 430948,
+      "name": "Cadeias Quebrar (Break Every Chain) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Faz Chover de Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2yOsWfVwLaGeiqpSqUWSak"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 385890,
       "name": "Faz Chover de Novo (Ao Vivo)",
       "url": "https://open.spotify.com/track/4Nky8gQp0YnoakdjVlkVQL"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
-        "name": "T\u00e3o Bom Pra Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV"
-      },
-      "artists": [
-        {
-          "name": "Nathalia Valencia",
-          "url": "https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK"
-        }
-      ],
-      "duration_ms": 496326,
-      "name": "T\u00e3o Bom Pra Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1415,6 +1399,22 @@
       "duration_ms": 215294,
       "name": "Levarei a Minha Cruz - Ao Vivo",
       "url": "https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "T\u00e3o Bom Pra Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV"
+      },
+      "artists": [
+        {
+          "name": "Nathalia Valencia",
+          "url": "https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK"
+        }
+      ],
+      "duration_ms": 496326,
+      "name": "T\u00e3o Bom Pra Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8"
     },
     {
       "added_at": "2026-08-07 14:18:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Horse Vision
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,613 likes - 199 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,609 likes - 199 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

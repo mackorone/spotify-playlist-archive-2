@@ -1,6 +1,6 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 372318,
+  "num_followers": 372362,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-10-23 03:00:46",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "La Modelo",
-      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
-    },
-    {
-      "added_at": "2026-10-23 03:00:46",
-      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 228960,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
+    },
+    {
+      "added_at": "2026-10-23 03:00:46",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
     },
     {
       "added_at": "2026-10-23 03:00:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-23 03:00:46",
       "album": {
-        "name": "Goteo",
-        "url": "https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B"
-    },
-    {
-      "added_at": "2026-10-23 03:00:46",
-      "album": {
         "name": "Na' Personal",
         "url": "https://open.spotify.com/album/3Nq8ogKH4JChsuGhBoCEdz"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 225509,
       "name": "Na' Personal",
       "url": "https://open.spotify.com/track/16fZpc0Md2q1SGu8FMTo6x"
+    },
+    {
+      "added_at": "2026-10-23 03:00:46",
+      "album": {
+        "name": "Goteo",
+        "url": "https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Goteo",
+      "url": "https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B"
     },
     {
       "added_at": "2026-10-23 03:00:46",

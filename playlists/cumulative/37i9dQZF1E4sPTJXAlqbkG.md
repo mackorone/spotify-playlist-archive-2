@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Frank Ocean, Bryson Tiller and more
+> 
 
 724 songs - 1 day 17 hr 15 min
 

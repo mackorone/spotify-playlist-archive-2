@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-25",
       "duration_ms": 170796,
       "name": "Drifting Through Birdsong",
       "url": "https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm"
@@ -2048,6 +2048,24 @@
       "duration_ms": 148947,
       "name": "Morning Countryside with Birds",
       "url": "https://open.spotify.com/track/4q0yUiKbX6wQpX403QfnDr"
+    },
+    {
+      "album": {
+        "name": "Morning Forest Bird Calls",
+        "url": "https://open.spotify.com/album/7JjPaGUESw3nPrSHqCJMI3"
+      },
+      "artists": [
+        {
+          "name": "Lakoustiks",
+          "url": "https://open.spotify.com/artist/3D8fqVzEmlJnUq50MV3aJl"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186776,
+      "name": "Morning Forest Bird Calls",
+      "url": "https://open.spotify.com/track/6ISuISPeuhegLGrs2uDYN3"
     },
     {
       "album": {

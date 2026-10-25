@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Unbound and Dangerous (Live)",
+        "url": "https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107671,
+      "name": "Dead Cats, Dead Rats (Live, 1970) - 2026 Mix",
+      "url": "https://open.spotify.com/track/7BZuIdyEVEcK3pvRw1yHJt"
+    },
+    {
+      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },

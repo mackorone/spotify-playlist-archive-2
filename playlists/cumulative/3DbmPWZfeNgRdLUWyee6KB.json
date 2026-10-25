@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "A trav\u00e9s del cristal",
+        "url": "https://open.spotify.com/album/6U60rrrl1hn7ucgxZqRVqM"
+      },
+      "artists": [
+        {
+          "name": "Raquel L\u00faa",
+          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
+        },
+        {
+          "name": "Berenice",
+          "url": "https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153205,
+      "name": "A trav\u00e9s del cristal",
+      "url": "https://open.spotify.com/track/4S7srjyyrvjKbDpof9Wd76"
+    },
+    {
+      "album": {
         "name": "A veces",
         "url": "https://open.spotify.com/album/28C1L8wW4OUjs8uj52x5RE"
       },
@@ -12836,6 +12858,28 @@
       "duration_ms": 258000,
       "name": "Judas",
       "url": "https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8"
+    },
+    {
+      "album": {
+        "name": "Judy Joan & Buffy",
+        "url": "https://open.spotify.com/album/7bAUDNCF8yrz0YAfdUqwSR"
+      },
+      "artists": [
+        {
+          "name": "Marvin Conan",
+          "url": "https://open.spotify.com/artist/5mNwzKcw5pJsCw9F9hZdrk"
+        },
+        {
+          "name": "Victoria Bebee",
+          "url": "https://open.spotify.com/artist/2yT9qgdKWBDf5V08wu3kpZ"
+        }
+      ],
+      "date_added": "2026-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197831,
+      "name": "Judy Joan & Buffy",
+      "url": "https://open.spotify.com/track/36hIAapeAhnxCpnPNYvnPe"
     },
     {
       "album": {

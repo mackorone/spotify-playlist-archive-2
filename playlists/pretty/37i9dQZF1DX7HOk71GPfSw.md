@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > TIFF X GLAIVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,638 likes - 120 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,749 likes - 120 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

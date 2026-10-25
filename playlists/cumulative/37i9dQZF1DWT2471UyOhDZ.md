@@ -4,14 +4,14 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Hot Chip
 
-544 songs - 1 day 10 hr 59 min
+546 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Wanna\) Be Your Girl](https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [\(I Wanna\) Be Your Girl](https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx) | 3:36 | 2025-09-04 | 2025-12-06 |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-28 | 2026-06-19 |
 | [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-09-04 | 2026-08-08 |
-| [143](https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [143](https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI) | 4:16 | 2026-09-25 |  |
+| [143](https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [143](https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI) | 4:16 | 2026-09-25 | 2026-10-25 |
 | [1K!](https://open.spotify.com/track/3bDle84REug8PQJdREswFG) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 2:52 | 2024-08-14 | 2024-09-21 |
 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 | 2025-02-14 |
 | [33](https://open.spotify.com/track/1L1qrIhU58MlisUGxUL5ub) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [False Dogs](https://open.spotify.com/album/4TlM69gj3kHdIqCuq9kT9K) | 2:33 | 2026-10-15 | 2026-10-20 |
@@ -27,7 +27,7 @@
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-11-15 | 2025-04-21 |
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 | 2025-05-09 |
 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 | 2025-03-21 | 2025-05-09 |
-| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 |  |
+| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 | 2026-10-25 |
 | [All That School For Nothing](https://open.spotify.com/track/1Gn11B0GFzjUvFMe03rP0w) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [The Art of the Lie](https://open.spotify.com/album/7doTp70QkWb5synkUpOdHf) | 5:20 | 2024-06-14 | 2024-08-27 |
 | [All The People \(所有人\)](https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [All The People \(所有人\)](https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2) | 3:33 | 2026-02-20 | 2026-05-30 |
 | [Allbarone](https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/4TO7Aq1Rx4tHk9evwzxtUA) | 4:28 | 2025-05-08 | 2026-06-19 |
@@ -88,6 +88,7 @@
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-14 | 2025-01-17 |
 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-01-31 | 2026-06-19 |
 | [But You Just Woke Me Up](https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 2:10 | 2026-01-12 | 2026-10-16 |
+| [California](https://open.spotify.com/track/3meidwPTWoJ5SwszG5jm6S) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [FUDGE](https://open.spotify.com/album/4Qy4QeE6QL941JsIyEVqF2) | 5:28 | 2026-10-22 |  |
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 | 2025-05-09 |
 | [Cameos](https://open.spotify.com/track/0bdEpK83erx3mPwSqxGGNP) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Cameos](https://open.spotify.com/album/1Uts53saLs17xjrNjZ1STw) | 2:55 | 2026-08-13 | 2026-09-25 |
 | [Cameos](https://open.spotify.com/track/6q1og9CkTnFTTYqOSN9ed3) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Cameos](https://open.spotify.com/album/1KtLF0mP4It7MNhJSmE0Yc) | 2:55 | 2026-06-25 | 2026-08-14 |
@@ -362,6 +363,7 @@
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-21 | 2026-06-19 |
 | [On Video](https://open.spotify.com/track/2Flb8QXjKZKq3rWgWDmqq5) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [On Video](https://open.spotify.com/album/0e3lfMyRxV0sPgM8ItYuUA) | 3:31 | 2026-10-01 |  |
 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-08-14 | 2025-10-24 |
+| [One Car Hits Another](https://open.spotify.com/track/2eCTdjEiWw5d1BH1GCvotP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [One Car Hits Another](https://open.spotify.com/album/52M9CYJhNksfE3v5RTRxlL) | 3:09 | 2026-10-22 |  |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-10-02 |  |
 | [One Thing At A Time](https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Creature of Habit](https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2) | 4:42 | 2026-04-30 |  |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-18 | 2026-08-10 |
