@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 479261,
+  "num_followers": 479295,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAAB4/YpbaLW5fXT0vOlLp73",
+  "snapshot_id": "atv1AAAAAABt9I4DjPt1gm1LA77nefPk",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Ministro (Version Deluxe)",
-        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Soy De Durango",
-      "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
+      "duration_ms": 248453,
+      "name": "Angeles O Demonios",
+      "url": "https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "El Primer Ministro (Version Deluxe)",
+        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 248453,
-      "name": "Angeles O Demonios",
-      "url": "https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83"
+      "duration_ms": 159133,
+      "name": "Soy De Durango",
+      "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
     },
     {
       "added_at": null,

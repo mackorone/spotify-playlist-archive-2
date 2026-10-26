@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,806 songs - 9 day 23 hr 19 min
+3,807 songs - 9 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,6 +889,7 @@
 | [Dragonfly](https://open.spotify.com/track/2RKXaYI00vF1YpzRBWPpEd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Like Crying: The Songs of Danny Kirwan](https://open.spotify.com/album/0lSd1hZaG62VvH2XZSmWg6) | 2:45 | 2025-05-16 | 2025-06-14 |
 | [Drama](https://open.spotify.com/track/4MAecdSxsaqoU42m1XpdYH) | [Base Hollow](https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1), [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [LEOPARD](https://open.spotify.com/album/5CrbyV9qg9Lnl2INWAZNvF) | 1:57 | 2026-01-23 | 2026-01-31 |
 | [Drama Queen](https://open.spotify.com/track/5wCrP8GA3lRH3ppITSWaPU) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Drama Queen](https://open.spotify.com/album/3XdUhlpyGPHEGCNuI4InfH) | 2:11 | 2023-06-16 | 2023-07-16 |
+| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-23 |  |
 | [Dream Drops](https://open.spotify.com/track/5ySdE6NWLnL5SsaDHzHt8B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [At Capolinea \(Remastered\)](https://open.spotify.com/album/0KoYmJEWsOq1kJ6Z6eSQ1r) | 4:26 | 2023-03-17 | 2023-04-16 |
 | [Dream State](https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Dream State](https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK) | 8:39 | 2024-04-05 | 2024-04-13 |
 | [Dreamer](https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9) | [Elly Cooke](https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe) | [Dreamer](https://open.spotify.com/album/6LOA0Gl0GSJEaHykCpStXH) | 3:26 | 2023-06-16 | 2023-07-16 |
@@ -2625,7 +2626,7 @@
 | [Raw!](https://open.spotify.com/track/5CLmYVbQ5KVYJlssmWFnzT) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Slant Face Killah](https://open.spotify.com/album/0yWMIfdeeQntE7kssx1BwZ) | 4:55 | 2024-06-07 | 2024-06-09 |
 | [RDV](https://open.spotify.com/track/1Dg3BWfcM1pE7YPmzMkjET) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [RDV](https://open.spotify.com/album/6akYqv2xiUKwSG6mu9AFJm) | 3:25 | 2025-03-21 | 2025-04-12 |
 | [Re: Inkarnation \- Deutsche Version](https://open.spotify.com/track/503FNJRbw5jyO23OVET5vJ) | [Flex Barker](https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Re: Inkarnation \(Deutsche Version\)](https://open.spotify.com/album/2Erx77qpP3eKBdd2D8ky8h) | 3:33 | 2025-10-10 | 2025-10-26 |
-| [Reach For The Stars](https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [PITCOIN](https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM) | 2:59 | 2026-10-23 |  |
+| [Reach For The Stars](https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [PITCOIN](https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM) | 2:59 | 2026-10-23 | 2026-10-26 |
 | [Read the Room](https://open.spotify.com/track/4SUFYzuSOqqVIwZJrkGD1W) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Nintindo Soul](https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR) | 2:54 | 2024-09-13 | 2024-09-21 |
 | [Ready For Love](https://open.spotify.com/track/3BTaJdl0s9anWsJs7AUTcY) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Ready For Love](https://open.spotify.com/album/6oIDwMTYpYNoycGvpN4glq) | 4:44 | 2025-10-31 | 2025-11-22 |
 | [Ready To Go \(Metal Version\)](https://open.spotify.com/track/409n98170wq7DrxvE2C8nJ) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Ready To Go \(Metal Version\)](https://open.spotify.com/album/00Dtdx1GSFzbT3wyTREuEB) | 3:14 | 2024-06-07 | 2024-06-30 |

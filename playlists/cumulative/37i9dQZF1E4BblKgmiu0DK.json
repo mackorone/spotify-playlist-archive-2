@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, The Nearly Deads, Cherri Bomb and more",
+  "description": "With Die Mannequin, Cherri Bomb, Morningwood and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 214889,
       "name": "Deal with Me",
       "url": "https://open.spotify.com/track/3080vWpFKHjG0ismpaQbOg"
@@ -3514,6 +3514,24 @@
       "duration_ms": 197320,
       "name": "Don't You Wanna Feel",
       "url": "https://open.spotify.com/track/2MxvlboakUTeqVPamhUNcM"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Call",
+        "url": "https://open.spotify.com/album/4EUlddyfcg56N9eLy3ZXy2"
+      },
+      "artists": [
+        {
+          "name": "Dance Hall Crashers",
+          "url": "https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "Don\u2019t Call",
+      "url": "https://open.spotify.com/track/19VttHBs6U42hGOXirLmfE"
     },
     {
       "album": {
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 205311,
       "name": "Get By",
       "url": "https://open.spotify.com/track/11dav0PkNPDaOLeIJYzIvZ"
@@ -5776,7 +5794,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -5848,7 +5866,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 214706,
       "name": "How You Know It\u2019s Love",
       "url": "https://open.spotify.com/track/3L8o36BnvWlXJ1j9tLJbjG"
@@ -8534,7 +8552,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -8570,7 +8588,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 136240,
       "name": "neon pink letters",
       "url": "https://open.spotify.com/track/77FlUKFr8vzOlISyjsgcKR"
@@ -9132,7 +9150,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 211291,
       "name": "Not Listening",
       "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
@@ -10000,7 +10018,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 160800,
       "name": "pencil skirt (40f)",
       "url": "https://open.spotify.com/track/704nPmPurS7Dnyna9qfZAl"
@@ -11258,7 +11276,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 234442,
       "name": "Shot to the Heart",
       "url": "https://open.spotify.com/track/4uoSBgdA5GDqpN6LN8SoPF"
@@ -11730,7 +11748,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 169181,
       "name": "Starting Over Again",
       "url": "https://open.spotify.com/track/6qw1pf05lD4EAUofujvtUZ"
@@ -11820,7 +11838,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -11856,7 +11874,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -12040,7 +12058,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -12530,7 +12548,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -12620,7 +12638,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 224941,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/2xSOFVWNePNlM0GBrhcAFS"
@@ -13492,7 +13510,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 214365,
       "name": "Watch Your Back",
       "url": "https://open.spotify.com/track/3ZJ0WxCCmaNT21AH1irYZQ"
@@ -13528,7 +13546,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 253136,
       "name": "We Should Never Be Alone",
       "url": "https://open.spotify.com/track/4brZGwllzw61JLPFM7hnbt"
@@ -13780,7 +13798,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 143900,
       "name": "Where You Need Me",
       "url": "https://open.spotify.com/track/0vrkCtlj9xIrFGTGaTqdx9"

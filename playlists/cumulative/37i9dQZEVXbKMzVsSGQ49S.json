@@ -9182,7 +9182,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 169848,
       "name": "B\u00edb\u00ed",
       "url": "https://open.spotify.com/track/4jNjLk69DFOfzNiKgCfRNb"
@@ -12526,7 +12526,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -15080,7 +15080,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 191564,
       "name": "Dragt",
       "url": "https://open.spotify.com/track/3czGwpPGHm3z2jPp8RYeNv"
@@ -17412,7 +17412,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 138430,
       "name": "Elli Egils",
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
@@ -18698,7 +18698,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -23865,6 +23865,24 @@
     },
     {
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "Go With The Flow",
+      "url": "https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -26862,7 +26880,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 207911,
       "name": "Hj\u00e1 \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
@@ -33898,7 +33916,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 156250,
       "name": "K\u00f3k\u00f3mj\u00f3lk",
       "url": "https://open.spotify.com/track/33RGJpw7j9BaLGNhLGaolR"
@@ -35298,7 +35316,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 220588,
       "name": "Lies (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
@@ -37234,7 +37252,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 194021,
       "name": "L\u00edf 2",
       "url": "https://open.spotify.com/track/2FHcj9Z7NVwSJfpBX0BAhE"
@@ -42655,6 +42673,24 @@
     },
     {
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "album": {
         "name": "No Painkiller",
         "url": "https://open.spotify.com/album/7GjkPUBcbbPtZqnxt0OdTp"
       },
@@ -46262,7 +46298,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 181433,
       "name": "Perlur",
       "url": "https://open.spotify.com/track/19fHxTAFfjIvy6Z4p7naAA"
@@ -50472,7 +50508,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -54236,6 +54272,24 @@
       "duration_ms": 153163,
       "name": "Son of a Gun",
       "url": "https://open.spotify.com/track/6TCiqKpdCHRGzwSYvv8sGU"
+    },
+    {
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "album": {

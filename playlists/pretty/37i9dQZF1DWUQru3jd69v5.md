@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > BATTISTA in cover della playlist con il futuro del rap italiano 🐎
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,420 likes - 82 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,418 likes - 82 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

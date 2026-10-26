@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2410742,
+  "num_followers": 2410452,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Saksi Ang Langit",
-        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
+        "name": "Umaasa",
+        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
       },
       "artists": [
         {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
         }
       ],
-      "duration_ms": 259058,
-      "name": "Saksi Ang Langit",
-      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
+      "duration_ms": 335624,
+      "name": "Umaasa",
+      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -107,34 +107,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Umaasa",
-        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
+        "name": "Saksi Ang Langit",
+        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
       },
       "artists": [
         {
-          "name": "Calein",
-          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 335624,
-      "name": "Umaasa",
-      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Grandma",
-        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
-      },
-      "artists": [
-        {
-          "name": "Unique Salonga",
-          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Sino",
-      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
+      "duration_ms": 259058,
+      "name": "Saksi Ang Langit",
+      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -155,6 +139,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Grandma",
+        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
+      },
+      "artists": [
+        {
+          "name": "Unique Salonga",
+          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Sino",
+      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 195428,
       "name": "Tahanan",
       "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 270233,
-      "name": "Bulong",
-      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -203,18 +187,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+      "duration_ms": 270233,
+      "name": "Bulong",
+      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -247,6 +231,22 @@
       "duration_ms": 196693,
       "name": "Tensionado",
       "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Sagip",
-        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Sagip",
-      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "RD Covers (Live)",
         "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Sagip",
+        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Sagip",
+      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Misteryoso",
         "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
       },
@@ -495,26 +495,6 @@
       "duration_ms": 221641,
       "name": "Misteryoso",
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "sining (feat. Jay R)",
-        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Jay R",
-          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "sining (feat. Jay R)",
-      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -551,6 +531,26 @@
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Oksihina",
-        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 204051,
-      "name": "Oksihina",
-      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 249080,
       "name": "Huwag Na Huwag Mong Sasabihin",
       "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Oksihina",
+        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 204051,
+      "name": "Oksihina",
+      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Ang Wakas (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ang Wakas (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Ang Wakas (feat. Trisha Macapagal)",
-        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        },
-        {
-          "name": "Trisha Macapagal",
-          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ang Wakas (feat. Trisha Macapagal)",
-      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "added_at": "2026-10-02 03:23:34",

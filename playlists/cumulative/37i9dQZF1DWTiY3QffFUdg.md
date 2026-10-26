@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-362 songs - 18 hr 48 min
+363 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,11 +52,12 @@
 | [Blow Your Whistle](https://open.spotify.com/track/4hGIQWbnx6IDi88FvcnHvC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [WUJACKERS](https://open.spotify.com/artist/37UIFkd2hsMkSS4hkQIc6r) | [Blow Your Whistle](https://open.spotify.com/album/1RqRHieebQwK9rdIuOx14W) | 3:08 | 2026-06-19 | 2026-07-09 |
 | [Body](https://open.spotify.com/track/0QNzoNLS7s579XX3foNwKi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Body](https://open.spotify.com/album/69b1aa87cmfovEf5iSspgc) | 2:05 | 2024-08-16 | 2024-09-23 |
 | [Body Move \- Hardwell Edit](https://open.spotify.com/track/0UeG9M5O1rs2cSXnaz8ZKl) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Body Move \(Hardwell Edit\)](https://open.spotify.com/album/3GflBh1GlyZnJciPDsGwph) | 2:38 | 2025-01-24 | 2025-02-28 |
-| [Bounce Like That](https://open.spotify.com/track/4vxyrMlFHBmIFHEHwgcRqR) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Bounce Like That](https://open.spotify.com/album/2x3EqTw9pWYRZn88Kx9rJy) | 2:51 | 2026-01-30 |  |
+| [Bounce Like That](https://open.spotify.com/track/4vxyrMlFHBmIFHEHwgcRqR) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Bounce Like That](https://open.spotify.com/album/2x3EqTw9pWYRZn88Kx9rJy) | 2:51 | 2026-01-30 | 2026-10-26 |
 | [Bouncing Ball](https://open.spotify.com/track/6vRFwAcJORICksCg3NNSxY) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Bouncing Ball](https://open.spotify.com/album/0KbRzjlCzX7w8yiMmPnOEq) | 3:56 | 2024-05-17 | 2024-05-27 |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-08-11 |  |
 | [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 | 2024-03-29 | 2025-11-15 |
 | [Breathe In](https://open.spotify.com/track/3qM2JuYrffLMLtwx8YOWxj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In](https://open.spotify.com/album/4FjkGcjCasHkfTJjkBnCfA) | 6:38 | 2023-08-11 | 2023-08-26 |
+| [Bring Some Acid](https://open.spotify.com/track/0FeVfJULLFzARZb1TvZroq) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Bring Some Acid](https://open.spotify.com/album/2zcQ4bAMsYEXtZQyvyRsZr) | 2:16 | 2026-10-23 |  |
 | [Broken Heart](https://open.spotify.com/track/5mhBny3BFk4oqfbMoW3kEy) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Broken Heart](https://open.spotify.com/album/1r39o5Bh3sL0n0qLG00qbM) | 2:33 | 2025-12-05 | 2026-02-25 |
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2024-01-26 | 2024-03-12 |
 | [Can't Fight The Moonlight](https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Can't Fight The Moonlight](https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK) | 1:56 | 2024-07-12 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, JUST LIZZY, Rue Oberkampf and more",
+  "description": "With NUDNIK, JUST LIZZY, A Shrine to Failure and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 313240,
       "name": "./Bob&Alice",
       "url": "https://open.spotify.com/track/2wA63JqLYbJWozhx532IVv"
@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 265072,
       "name": "C.L.C",
       "url": "https://open.spotify.com/track/79nGNGEJExUcBT80MajWOT"
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 197000,
       "name": "CLAW MACHINE",
       "url": "https://open.spotify.com/track/7rHOkT1T72TEQYBduComAY"
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 194639,
       "name": "Conformity Cutter",
       "url": "https://open.spotify.com/track/4BCeAjoCxbaerQU7WnaN6b"
@@ -6229,6 +6229,24 @@
     },
     {
       "album": {
+        "name": "Dragula",
+        "url": "https://open.spotify.com/album/3dbeLSmbBdvasvcYeN7tW2"
+      },
+      "artists": [
+        {
+          "name": "Melodicka Bros",
+          "url": "https://open.spotify.com/artist/7emGv8Z2rl2VteK12FRyTe"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/41LoiUC9BIusEAlctY9Dx7"
+    },
+    {
+      "album": {
         "name": "DREAMERS",
         "url": "https://open.spotify.com/album/2tBMlGXP8QUA9tR5MJu40J"
       },
@@ -6777,6 +6795,24 @@
     },
     {
       "album": {
+        "name": "The Close",
+        "url": "https://open.spotify.com/album/2DGQWLqh8urI4z6HRtPnl5"
+      },
+      "artists": [
+        {
+          "name": "Comfort Module",
+          "url": "https://open.spotify.com/artist/4iJxGGAsqsDxGNFJNUTbv8"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276166,
+      "name": "End of the Rope",
+      "url": "https://open.spotify.com/track/7vXek6Cvm35qLY5NDXMgrD"
+    },
+    {
+      "album": {
         "name": "End of the Rope",
         "url": "https://open.spotify.com/album/1h7lWXgvRcpzCE6qvEJkDC"
       },
@@ -6860,7 +6896,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 236160,
       "name": "Energy Redirected",
       "url": "https://open.spotify.com/track/5fW5oX67ZcclTeIkPix0CK"
@@ -9022,7 +9058,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 152706,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/6PxlE8rSywCxfviSU57dQv"
@@ -9094,7 +9130,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 205514,
       "name": "Hard to Tell",
       "url": "https://open.spotify.com/track/63zYJ6p5qCf70llx7FSiGN"
@@ -10538,7 +10574,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 189558,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
@@ -11386,7 +11422,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -14472,7 +14508,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 239496,
       "name": "My Pain",
       "url": "https://open.spotify.com/track/6rXmUDj5JyOIgcfzZoU9Lk"
@@ -16704,7 +16740,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -17588,7 +17624,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -18176,7 +18212,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 255061,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1QLuJqkt0fObDTJvR1k0md"
@@ -19974,6 +20010,28 @@
     {
       "album": {
         "name": "Suffocating",
+        "url": "https://open.spotify.com/album/0NKEgHmV5MhonChiYs96kK"
+      },
+      "artists": [
+        {
+          "name": "Angie Kuske",
+          "url": "https://open.spotify.com/artist/1g7DWBaMmSNhOAjLBV1vJe"
+        },
+        {
+          "name": "Ataraxia Music",
+          "url": "https://open.spotify.com/artist/41IMfnAbSRMOw4izYmjOru"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/1MAOQ4HLZT62wDsrXsQ1tq"
+    },
+    {
+      "album": {
+        "name": "Suffocating",
         "url": "https://open.spotify.com/album/0HfLy82qS63G6rXXphE2Td"
       },
       "artists": [
@@ -20477,6 +20535,24 @@
     },
     {
       "album": {
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/2aZ5fjqE8kCDH8FTCvFBF0"
+      },
+      "artists": [
+        {
+          "name": "Rene Helene",
+          "url": "https://open.spotify.com/artist/13rc49MXTiayoX4uGSyMUR"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268597,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/07DdqETZ6hTXaMLwrLQP7q"
+    },
+    {
+      "album": {
         "name": "Tear The Cloth",
         "url": "https://open.spotify.com/album/6raIyfdeP1x7MokSF6VRHN"
       },
@@ -20578,7 +20654,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 265511,
       "name": "Template",
       "url": "https://open.spotify.com/track/2U3ZCVEM5t3V2kgfBgJAFa"
@@ -21350,7 +21426,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 263656,
       "name": "The Last Song",
       "url": "https://open.spotify.com/track/7HVk4Edz6QEeKalkqyHCPF"
@@ -22328,7 +22404,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -22750,7 +22826,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -24068,7 +24144,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
@@ -24658,7 +24734,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 213818,
       "name": "Where do you go to cry",
       "url": "https://open.spotify.com/track/6CBkhjCkc5SKpF515dSgTr"

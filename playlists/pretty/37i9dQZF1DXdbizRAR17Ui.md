@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,912 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,916 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 |
-| 2 | [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 |
+| 2 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
 | 3 | [Learning By The Morning](https://open.spotify.com/track/1k2XPQ8AZcQtLsT4wiiIlf) | [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Learning By The Morning](https://open.spotify.com/album/4pxgX6fkvQcNT03ZMsGSc6) | 2:42 |
-| 4 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
+| 4 | [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 |
 | 5 | [Take U There](https://open.spotify.com/track/6J7ER0h5t1of0KIrr1UBY8) | [Isaac Carter](https://open.spotify.com/artist/1wp5fYOou3912NRzGN28E8) | [Take U There](https://open.spotify.com/album/1YLgvvyRpDZ3LJAV8rOWd1) | 4:54 |
 | 6 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
 | 7 | [Little Little Voice](https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Tyber](https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT) | 4:08 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 38 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 39 | [drifting \- Remix](https://open.spotify.com/track/2kUxI4WRjr49CpWpRCwVyj) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [drifting \(Remix\)](https://open.spotify.com/album/5fjc9zxDU43XNdOCIHAMhg) | 3:43 |
 | 40 | [Think Tomorrow](https://open.spotify.com/track/6mw92ldgNYOy1EupraEGI5) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Think Tomorrow](https://open.spotify.com/album/0Y4RcSfy7TOVDyuQFvU2dk) | 4:40 |
-| 41 | [Places](https://open.spotify.com/track/2dr6p6VsU7KCrieQDluQDp) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU) | [Places](https://open.spotify.com/album/5fcULuIOwaVQwKys7H70f9) | 3:49 |
+| 41 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 |
 | 42 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
 | 43 | [I Can't Be Without You](https://open.spotify.com/track/5F2c4QTmRCblmf1KjDH5pG) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I Can't Be Without You](https://open.spotify.com/album/7whFnxDw9myMntEQ4BVjjc) | 2:12 |
 | 44 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 |
 | 45 | [retrograde](https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [retrograde](https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE) | 2:55 |
-| 46 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 |
-| 47 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
-| 48 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
-| 49 | [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 |
+| 46 | [Places](https://open.spotify.com/track/2dr6p6VsU7KCrieQDluQDp) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU) | [Places](https://open.spotify.com/album/5fcULuIOwaVQwKys7H70f9) | 3:49 |
+| 47 | [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 |
+| 48 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
+| 49 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
 | 50 | [Tensoon](https://open.spotify.com/track/6owwP7F0J5AjtYwMplYsMR) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Tensoon](https://open.spotify.com/album/5rmVFzFZ2rwZDwrVg5HVfj) | 3:57 |
 
 Snapshot ID: `AAAAAEdYilMAjpDvP8AzwZD7pu3pkPAI`

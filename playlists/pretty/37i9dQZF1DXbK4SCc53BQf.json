@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 108605,
+  "num_followers": 108610,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Perfecto Amor",
-        "url": "https://open.spotify.com/album/0S37j8K0vG6NCFkgV53cnO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        }
-      ],
-      "duration_ms": 199525,
-      "name": "Perfecto Amor",
-      "url": "https://open.spotify.com/track/4FWQs284A7woj3d5hxACxC"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
@@ -711,6 +691,26 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
+        "name": "Perfecto Amor",
+        "url": "https://open.spotify.com/album/0S37j8K0vG6NCFkgV53cnO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "duration_ms": 199525,
+      "name": "Perfecto Amor",
+      "url": "https://open.spotify.com/track/4FWQs284A7woj3d5hxACxC"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Dios nos am\u00f3",
-        "url": "https://open.spotify.com/album/4LVemL7KUplqZu3QEIJaKK"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Dios nos am\u00f3",
-      "url": "https://open.spotify.com/track/46nG55qxILEKoEigxYOMis"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Dios nos am\u00f3",
+        "url": "https://open.spotify.com/album/4LVemL7KUplqZu3QEIJaKK"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Dios nos am\u00f3",
+      "url": "https://open.spotify.com/track/46nG55qxILEKoEigxYOMis"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Todo Lo Puedo",
-        "url": "https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Todo Lo Puedo",
-      "url": "https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 147672,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Todo Lo Puedo",
+        "url": "https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Todo Lo Puedo",
+      "url": "https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Morales",
-          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Abr\u00e1zame M\u00e1s",
         "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 172560,
       "name": "Abr\u00e1zame M\u00e1s",
       "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Morales",
+          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1003,42 +1003,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Donde Sea",
-        "url": "https://open.spotify.com/album/5lIGGVvLnCq4gYu2SupAaM"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        }
-      ],
-      "duration_ms": 153033,
-      "name": "Donde Sea",
-      "url": "https://open.spotify.com/track/4Kryd7zf5qRwSx8yx3S4O3"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
-        "name": "Faltabas T\u00fa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2IYqfznGFbFRWUMJ8bcLcy"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 162469,
-      "name": "Faltabas T\u00fa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7rXpwYiIurQJjcAq6ay71h"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Lleg\u00f3 el Culto (Remix)",
         "url": "https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY"
       },
@@ -1067,6 +1031,22 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
+        "name": "Faltabas T\u00fa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2IYqfznGFbFRWUMJ8bcLcy"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 162469,
+      "name": "Faltabas T\u00fa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7rXpwYiIurQJjcAq6ay71h"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
         "name": "CARTAGENA",
         "url": "https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 164877,
       "name": "CARTAGENA",
       "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Donde Sea",
+        "url": "https://open.spotify.com/album/5lIGGVvLnCq4gYu2SupAaM"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        }
+      ],
+      "duration_ms": 153033,
+      "name": "Donde Sea",
+      "url": "https://open.spotify.com/track/4Kryd7zf5qRwSx8yx3S4O3"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 185528,
-      "name": "Nada Sin Ti",
-      "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Salvame",
         "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 201633,
       "name": "Salvame",
       "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 185528,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
-        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Todo Y Nada - En Vivo",
-      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "CONMIGO VA",
         "url": "https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn"
       },
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
+        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
+        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Todo Y Nada - En Vivo",
+      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -1267,26 +1267,6 @@
       "duration_ms": 268613,
       "name": "Sinceridad",
       "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
-      },
-      "artists": [
-        {
-          "name": "Unified Sound",
-          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
-        },
-        {
-          "name": "Abraham Velazquez",
-          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
-        }
-      ],
-      "duration_ms": 201002,
-      "name": "Agua Viva",
-      "url": "https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1307,6 +1287,26 @@
       "duration_ms": 221588,
       "name": "Consejos",
       "url": "https://open.spotify.com/track/68Jf7rJm0abIMKXBNO1og6"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
+      },
+      "artists": [
+        {
+          "name": "Unified Sound",
+          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+        },
+        {
+          "name": "Abraham Velazquez",
+          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
+        }
+      ],
+      "duration_ms": 201002,
+      "name": "Agua Viva",
+      "url": "https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
+        "name": "Hay Una Fuente en M\u00ed",
+        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Hay Una Fuente en M\u00ed",
+      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 179286,
       "name": "Oye",
       "url": "https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
-        "name": "Hay Una Fuente en M\u00ed",
-        "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Hay Una Fuente en M\u00ed",
-      "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
     },
     {
       "added_at": "2026-09-25 05:51:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-09-25 05:51:55",
       "album": {
-        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
-        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
-      },
-      "artists": [
-        {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
-        }
-      ],
-      "duration_ms": 249576,
-      "name": "Coritos Medley 2.0",
-      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
-    },
-    {
-      "added_at": "2026-09-25 05:51:55",
-      "album": {
         "name": "Confiado / Olas del Mar (Live)",
         "url": "https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 242000,
       "name": "Confiado",
       "url": "https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl"
+    },
+    {
+      "added_at": "2026-09-25 05:51:55",
+      "album": {
+        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
+        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
+      },
+      "artists": [
+        {
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+        }
+      ],
+      "duration_ms": 249576,
+      "name": "Coritos Medley 2.0",
+      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
     },
     {
       "added_at": "2026-09-25 05:51:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,256 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,291 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 44 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 |
 | 45 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 |
 | 46 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
-| 47 | [insideout](https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [insideout](https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW) | 2:25 |
-| 48 | [Clutch](https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC) | [CO\-MA](https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [A Journey Beyond Time](https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq) | 2:15 |
-| 49 | [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 |
-| 50 | [Time goes by](https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Time goes by](https://open.spotify.com/album/3BGcymZGetozixza8RWiAv) | 1:55 |
+| 47 | [Clutch](https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC) | [CO\-MA](https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [A Journey Beyond Time](https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq) | 2:15 |
+| 48 | [insideout](https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [insideout](https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW) | 2:25 |
+| 49 | [Time goes by](https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Time goes by](https://open.spotify.com/album/3BGcymZGetozixza8RWiAv) | 1:55 |
+| 50 | [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 |
 
 Snapshot ID: `AAAAAEJm1RZ5hpBTIEynmHTFYA2g80//`

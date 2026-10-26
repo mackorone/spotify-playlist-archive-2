@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38516,
+  "num_followers": 38520,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAB06nq142u3HNCtqQun/Fbo",
+  "snapshot_id": "atv1AAAAAAA0qbDth3RXus00gXP7i7ST",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MSMSMSM",
-        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
         }
       ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
+      "duration_ms": 232374,
+      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+      "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
     },
     {
       "added_at": null,
@@ -295,26 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+        "name": "MSMSMSM",
+        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
         }
       ],
-      "duration_ms": 232374,
-      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
-      "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 126686,
-      "name": "UNISIL",
-      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1,2,3 dayz up",
         "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 213678,
       "name": "1,2,3 dayz up",
       "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 126686,
+      "name": "UNISIL",
+      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
     },
     {
       "added_at": null,

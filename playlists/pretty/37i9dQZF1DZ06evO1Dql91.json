@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 3095,
+  "num_followers": 3096,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAAWRMKsFq4XfkTioX+0mRtH",
+  "snapshot_id": "atv1AAAAAAC7da0xClewAq1kqo38MWn4",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 629333,
-      "name": "Dreams - Live",
-      "url": "https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metamorphosis Complete",
         "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 234563,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 629333,
+      "name": "Dreams - Live",
+      "url": "https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF"
     },
     {
       "added_at": null,

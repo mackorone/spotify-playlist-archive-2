@@ -4,7 +4,7 @@
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 1 min
+63 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:53 | 2024-10-14 |  |
 | [Easy Sunday Living](https://open.spotify.com/track/6JUXtFaAUMFX0q1rP7Kg4b) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 3:03 | 2025-11-21 | 2025-12-14 |
 | [Forever \(feat\. 6LACK\)](https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 3:12 | 2025-11-17 |  |
+| [Gorgeous](https://open.spotify.com/track/4yBofFU6RdztFsyffEFwIp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Nobody Wants This: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b) | 3:04 | 2026-10-26 |  |
 | [Gotta Hold](https://open.spotify.com/track/7c03FKl3V9wffosgIEN2Co) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:51 | 2024-09-08 | 2024-10-14 |
 | [Gucci Mane](https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Gucci Mane](https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW) | 2:46 | 2025-04-06 | 2025-08-11 |
 | [Gucci Mane](https://open.spotify.com/track/09VVtxc7My0NTuo7mf90gU) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:46 | 2025-08-11 | 2026-01-15 |

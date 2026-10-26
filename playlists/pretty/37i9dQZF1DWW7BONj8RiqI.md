@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,242 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,246 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 47 | [PARDY](https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [PARDY](https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL) | 3:42 |
 | 48 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
 | 49 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
-| 50 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
+| 50 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 |
 | 51 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 |
-| 52 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 |
+| 52 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
 | 53 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 54 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 55 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 59 | [Move Out D Way](https://open.spotify.com/track/4XKEKCOyl0aAIuG3n8aD1A) | [Paris Coutain](https://open.spotify.com/artist/57EGf3uPUy2maRE9G2kpRS), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Move Out D Way](https://open.spotify.com/album/1uRHuI74AGg69bsLhzlV3G) | 3:16 |
 | 60 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
 | 61 | [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 |
-| 62 | [Anxiety](https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Anxiety](https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq) | 3:40 |
+| 62 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
 | 63 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
-| 64 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
+| 64 | [Anxiety](https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Anxiety](https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq) | 3:40 |
 | 65 | [Fling It Up](https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [One Degree Hotter](https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG) | 2:38 |
 | 66 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
 | 67 | [One For The Team](https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Blockbuster Riddim](https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Babehoven",
-  "num_followers": 1329167,
+  "num_followers": 1329101,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Monoflora",
         "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223400,
       "name": "Michigan Cherry",
       "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+        "name": "what we are",
+        "url": "https://open.spotify.com/album/3Ql8S9InptqOYlkxWyydqz"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
+      "duration_ms": 156459,
+      "name": "sweet heart",
+      "url": "https://open.spotify.com/track/44PaL2Ttjz5ZJSzRGFaqWA"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "what we are",
-        "url": "https://open.spotify.com/album/3Ql8S9InptqOYlkxWyydqz"
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 156459,
-      "name": "sweet heart",
-      "url": "https://open.spotify.com/track/44PaL2Ttjz5ZJSzRGFaqWA"
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "My Light, My Destroyer",
+        "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/0Bq9VjpPqkP3Mbq4Ui2mbo"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Constantinople",
         "url": "https://open.spotify.com/album/7ErjZ7TCyUNUkoD9vYdJgd"
       },
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "My Light, My Destroyer",
-        "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/0Bq9VjpPqkP3Mbq4Ui2mbo"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "The Explorer",
-        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "The Explorer",
-      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "The Explorer",
+        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "The Explorer",
+      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 249813,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Nothing to Lose",
-        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Nothing to Lose",
-      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Hadsel",
         "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 294835,
       "name": "Hadsel",
       "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 285320,
-      "name": "Dizzy Spin",
-      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 203235,
       "name": "Lonely Cowboy - Radio Edit",
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 285320,
+      "name": "Dizzy Spin",
+      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "My Maker",
-        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "My Maker",
-      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "My Maker",
+        "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 259842,
+      "name": "My Maker",
+      "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Fish Eyes EP",
         "url": "https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 194808,
       "name": "Drinking Song",
       "url": "https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "say it back",
         "url": "https://open.spotify.com/album/7d95ZxlAPbUBuGAra8qgF1"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 152000,
       "name": "say it back",
       "url": "https://open.spotify.com/track/2P8nDGw1KiCeCh4ZS2iA7y"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Sleep Paralysis",
+        "url": "https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ"
+      },
+      "artists": [
+        {
+          "name": "Liam Creamer",
+          "url": "https://open.spotify.com/artist/1OgQ0kvZcMUVtWB71o0lkY"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Sleep Paralysis",
+      "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Drop Cherries",
         "url": "https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh"
       },
@@ -2527,34 +2543,18 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9"
+        "name": "New Mythology",
+        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         }
       ],
-      "duration_ms": 209837,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Sleep Paralysis",
-        "url": "https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ"
-      },
-      "artists": [
-        {
-          "name": "Liam Creamer",
-          "url": "https://open.spotify.com/artist/1OgQ0kvZcMUVtWB71o0lkY"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Sleep Paralysis",
-      "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
+      "duration_ms": 291762,
+      "name": "Mecca",
+      "url": "https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm"
     }
   ],
   "unique_name": "Infinite Indie Folk",

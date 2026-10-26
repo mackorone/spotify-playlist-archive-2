@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 103224,
+  "num_followers": 103237,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAADdCyMciweZFVPKG4m5GAtg",
+  "snapshot_id": "atv1AAAAAABVrYD99G1bwPB+Aa6XTEDj",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Dolly (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memories in My Head",
         "url": "https://open.spotify.com/album/78hRaefit0PBhkcXmFmZL2"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 191703,
       "name": "Memories in My Head",
       "url": "https://open.spotify.com/track/6FQtgWGaP23uTMtjfIs2tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Dolly (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
     },
     {
       "added_at": null,

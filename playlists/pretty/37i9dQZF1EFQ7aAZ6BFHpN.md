@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668 likes - 158 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 668 likes - 159 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 68 | [The Like In I Love You](https://open.spotify.com/track/3S9sqZLQ1hles7b8aF4qU3) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:19 |
 | 69 | [Why Do I Love You \- Live At The Royal Rooster, New York, September 4, 1948 / Remastered](https://open.spotify.com/track/5NZ0z31vwGvlYw2Xad67US) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Birth Of The Cool](https://open.spotify.com/album/2mth0Fzczu9JHVzoaAEucl) | 3:41 |
 | 70 | [Overture \(From "Strike Up the Band"\) \[Arr\. D\. Rose for Orchestra\]](https://open.spotify.com/track/6yBrb7hUWluJo6CD5kuESc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row](https://open.spotify.com/album/3owlNK1vsCil0p3D94jT6n) | 6:52 |
-| 71 | [Aren't You Kind Of Glad We Did?](https://open.spotify.com/track/7DBDV2YRRotPuaBFwPM6ds) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 3:30 |
+| 71 | [Aren't You Kind of Glad We Did](https://open.spotify.com/track/0acfwjSFdKS5jgbjBtkCzB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Milestones of a Jazz Legend Ella Fitzgerald sings the Song Book, Vol\. 4](https://open.spotify.com/album/4CClh122thIxpHHtaeSQiR) | 3:32 |
 | 72 | [Catfish Row \(Arr\. S\. Bowen for Orchestra\): I\. Catfish Row](https://open.spotify.com/track/1Fe9DX4qKX7Tmgf9hvjfiK) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row](https://open.spotify.com/album/3owlNK1vsCil0p3D94jT6n) | 6:52 |
 | 73 | [Lonely Boy](https://open.spotify.com/track/6emQ1WjX5cYHPOxlwjSVfo) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Complete Swing Time and Down Beat Recordings 1949\-1952](https://open.spotify.com/album/5Wjc13isw4ALxbnl3lpOYw) | 2:52 |
 | 74 | [Two Waltzes in C](https://open.spotify.com/track/2dGlBRZK9mmMCQYxcQp8UM) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 4:13 |
@@ -166,5 +166,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 156 | [Oh the Train Is at the Station](https://open.spotify.com/track/5zJs9aamF3W922XtZaLxqo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:47 |
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
+| 159 | [Porgy and Bess Pt\. 1: No, No, Brother, Porgy Ain't Soft On No Woman...](https://open.spotify.com/track/4nFEmhdLvwgkC0bTiVjzve) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Milestones of Jazz Legends \- Duke Ellington and the His Vocalists, Vol\. 5](https://open.spotify.com/album/1602dgfqYNYgL15Sd2cd2h) | 6:56 |
 
-Snapshot ID: `Acf1UAAAAAAy7Y59/zHlM2W+44QkKozd`
+Snapshot ID: `Acf68AAAAAAYlCtqd046AMAEnyh5eFK/`

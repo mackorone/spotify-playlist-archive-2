@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 164307,
       "name": "Argent Sale - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
@@ -9782,7 +9782,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 183813,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
@@ -24732,7 +24732,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 172786,
       "name": "Je pense \u00e0 toi",
       "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
@@ -42008,7 +42008,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 101287,
       "name": "Pr\u00e9cipices",
       "url": "https://open.spotify.com/track/1jRBZIoOhzuFUZOHzsCaHk"
@@ -42894,6 +42894,24 @@
       "duration_ms": 137520,
       "name": "Ragnar",
       "url": "https://open.spotify.com/track/4MHaurDWomyTeQ1HuZh59W"
+    },
+    {
+      "album": {
+        "name": "Ragnar 2",
+        "url": "https://open.spotify.com/album/1BG4MKsWTJvsYB0cyVF6I7"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414666,
+      "name": "Ragnar 2",
+      "url": "https://open.spotify.com/track/4hEum3F9ASQVMqRm7VgcbW"
     },
     {
       "album": {
@@ -45694,7 +45712,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -47580,7 +47598,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 198120,
       "name": "Soir\u00e9e mondaine",
       "url": "https://open.spotify.com/track/1XThNi0UIim6K9GLcouamU"
@@ -49862,6 +49880,24 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+    },
+    {
+      "album": {
+        "name": "Te rencontrer encore",
+        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Te rencontrer encore",
+      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
     },
     {
       "album": {

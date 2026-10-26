@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 505674,
+  "num_followers": 505803,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAABGozk+6LDGO45mZbYB8ywN",
+  "snapshot_id": "atv1AAAAAAAu6dZxC7qbyriH3ToqP0J5",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -59,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
       "artists": [
         {
@@ -68,25 +52,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Your Love Is King",
-      "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": null,
@@ -107,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Your Love Is King",
+      "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 381133,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 332133,
       "name": "Cherish the Day",
       "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 381133,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "Keep Looking",
-      "url": "https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
       "artists": [
         {
@@ -260,57 +244,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 274266,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/5BhdjbSvgGUwf2I2flmf11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/0qU806xTLhuZ5kCrex2x4r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "Still in Love with You",
-      "url": "https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "I Couldn't Love You More",
-      "url": "https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17"
+      "duration_ms": 321600,
+      "name": "Keep Looking",
+      "url": "https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb"
     },
     {
       "added_at": null,
@@ -340,15 +276,15 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 237560,
-      "name": "Never as Good as the First Time",
-      "url": "https://open.spotify.com/track/1OefsOF4JwGjOeLiWuUKTI"
+      "duration_ms": 234666,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/0qU806xTLhuZ5kCrex2x4r"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
       "artists": [
         {
@@ -356,9 +292,57 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 283426,
-      "name": "I Will Be Your Friend",
-      "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ"
+      "duration_ms": 228293,
+      "name": "I Couldn't Love You More",
+      "url": "https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "Still in Love with You",
+      "url": "https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/5BhdjbSvgGUwf2I2flmf11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Never as Good as the First Time",
+      "url": "https://open.spotify.com/track/1OefsOF4JwGjOeLiWuUKTI"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 309200,
       "name": "Feel No Pain",
       "url": "https://open.spotify.com/track/3r0Q8oUYyHjViM43bAUP3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 283426,
+      "name": "I Will Be Your Friend",
+      "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 328333,
-      "name": "Why Can't We Live Together",
-      "url": "https://open.spotify.com/track/7pd7fTNMtn4jRv80CSdgcq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 171360,
       "name": "Mr Wrong",
       "url": "https://open.spotify.com/track/68fAZuqk7syp8Dvqj4KPCn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 328333,
+      "name": "Why Can't We Live Together",
+      "url": "https://open.spotify.com/track/7pd7fTNMtn4jRv80CSdgcq"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 378733,
-      "name": "Cherry Pie",
-      "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 238400,
       "name": "Tar Baby",
       "url": "https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 378733,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "When Am I Going to Make a Living",
-      "url": "https://open.spotify.com/track/5DYD5pUUnf3MT6LafqPqOt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 260066,
       "name": "Maureen",
       "url": "https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "When Am I Going to Make a Living",
+      "url": "https://open.spotify.com/track/5DYD5pUUnf3MT6LafqPqOt"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 278306,
-      "name": "Frankie's First Affair",
-      "url": "https://open.spotify.com/track/67r1nqpzlKj3x0khmvdFoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 407866,
       "name": "War of the Hearts",
       "url": "https://open.spotify.com/track/1s7cklguCg0rkLeBGA7quh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 278306,
+      "name": "Frankie's First Affair",
+      "url": "https://open.spotify.com/track/67r1nqpzlKj3x0khmvdFoD"
     },
     {
       "added_at": null,

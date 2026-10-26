@@ -13843,6 +13843,42 @@
     },
     {
       "album": {
+        "name": "Troubled Lovers",
+        "url": "https://open.spotify.com/album/7gbZbtBtccoguWh8CVE7sL"
+      },
+      "artists": [
+        {
+          "name": "LilY\u016bgen",
+          "url": "https://open.spotify.com/artist/0rIFFUGNSGAfQulpcZ97Zv"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "Troubled Lovers",
+      "url": "https://open.spotify.com/track/0HjRA1qtAxd2TBbSY5gSFa"
+    },
+    {
+      "album": {
+        "name": "Tugo moja",
+        "url": "https://open.spotify.com/album/33f2LsO2mkOdHMgB9uU7df"
+      },
+      "artists": [
+        {
+          "name": "Samyron",
+          "url": "https://open.spotify.com/artist/2kaPeoxWMhGb5qwlRI62Ka"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190399,
+      "name": "Tugo moja",
+      "url": "https://open.spotify.com/track/4tEfv3mo0KqTO2BdYN9kQx"
+    },
+    {
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt"
       },

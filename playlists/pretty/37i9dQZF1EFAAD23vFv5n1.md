@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 197 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 198 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 24 | [Un buen inicio](https://open.spotify.com/track/3DbXzMU0jhSn4iEZ8Ogqyq) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:10 |
 | 25 | [Filippo Leroy](https://open.spotify.com/track/2rHgWF0mR7l63nUgGLuZvB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q) | 3:03 |
 | 26 | [Tutto inutile](https://open.spotify.com/track/1ETtrQG9E9HQ6kjjzqEwcV) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q) | 2:50 |
-| 27 | [Non Sono Cool](https://open.spotify.com/track/4UDHBaPYDu6zI0sva3Yn26) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 2:41 |
-| 28 | [scs](https://open.spotify.com/track/1SaKgMxGgsh5uOTud5YeqR) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:06 |
+| 27 | [scs](https://open.spotify.com/track/1SaKgMxGgsh5uOTud5YeqR) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:06 |
+| 28 | [Non Sono Cool](https://open.spotify.com/track/4UDHBaPYDu6zI0sva3Yn26) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 2:41 |
 | 29 | [Radical](https://open.spotify.com/track/2dk6mSHg6VUT7nFfmgGJVa) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:59 |
 | 30 | [Fuck You Vincenzo](https://open.spotify.com/track/4Y6eSG3Zl01ixdi8hjpPP3) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:13 |
 | 31 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/2eSUkPPlvV0SxVk65skDbJ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:03 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 87 | [MARGHERITA v11](https://open.spotify.com/track/3rsFDYxfupH9kXBnHSZJsx) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:31 |
 | 88 | [Paradiso](https://open.spotify.com/track/3xoTmAPceMAHGRFe9HKV4m) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Paradiso](https://open.spotify.com/album/7E4Wy23cEvWIrJZOjjX5h0) | 3:35 |
 | 89 | [Meme](https://open.spotify.com/track/0HDd2Dr0EgG4OTscPj0j8b) | [Pit](https://open.spotify.com/artist/1XYLhPfCgCrK5pwlWw0yv5) | [Meme](https://open.spotify.com/album/3rMPypJTVchGYNBUdu7kJM) | 2:27 |
-| 90 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
-| 91 | [ko musica](https://open.spotify.com/track/4PHNOUxmjBotWtAlaFVaZd) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:11 |
+| 90 | [ko musica](https://open.spotify.com/track/4PHNOUxmjBotWtAlaFVaZd) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:11 |
+| 91 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
 | 92 | [ILY](https://open.spotify.com/track/3xNSenRNckAgpYwgUmCraR) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 2:50 |
 | 93 | [ok \*\_\*](https://open.spotify.com/track/1rzc3WkmCWkcUTLxC9Q1KW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz) | 2:42 |
 | 94 | [Persi da un po’](https://open.spotify.com/track/4Gzp0NEQyFu41MmC2ig7EG) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 4:33 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 98 | [ko soli](https://open.spotify.com/track/2Wn7bPhofDscBEwvNQkZHw) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:39 |
 | 99 | [Limonare](https://open.spotify.com/track/0hJJgXpm0nBjfE3U8EIXec) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Limonare](https://open.spotify.com/album/3XGu4Uha6uqbOrhzm17AuP) | 2:17 |
 | 100 | [LUNA NERA](https://open.spotify.com/track/7GDtPLktomNn5oQrD26aKj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [LUNA NERA](https://open.spotify.com/album/6xA7Wo1jDgIoGWZaCjx176) | 3:24 |
-| 101 | [ICONA](https://open.spotify.com/track/4J0KAFyrq0uibV9WxW2aRM) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [ICONA](https://open.spotify.com/album/2tnspppLpd17wrWXaBT45p) | 2:45 |
-| 102 | [ko tempo](https://open.spotify.com/track/0f1A2w2tdYJsrHKP2qXw2W) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:39 |
+| 101 | [ko tempo](https://open.spotify.com/track/0f1A2w2tdYJsrHKP2qXw2W) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:39 |
+| 102 | [ICONA](https://open.spotify.com/track/4J0KAFyrq0uibV9WxW2aRM) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [ICONA](https://open.spotify.com/album/2tnspppLpd17wrWXaBT45p) | 2:45 |
 | 103 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 |
 | 104 | [Sad Love](https://open.spotify.com/track/3dln34GJ0WsCKixaM1ZoDV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:24 |
 | 105 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
@@ -205,5 +205,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 195 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 196 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
+| 198 | [Victoria's Secret](https://open.spotify.com/track/0qlfvwLYOxLs0pPktzqSmV) | [John's Saxophone](https://open.spotify.com/artist/5017jdzBcgvmdHLGkWwRZY) | [My Favorite Songs, International Hits 2025](https://open.spotify.com/album/6j1ufpqyRZqJp84UMigIXc) | 3:20 |
 
-Snapshot ID: `Acf1RgAAAAC9epiXxi7hDG1ziSVF+5VG`
+Snapshot ID: `Acf65gAAAAAEIiu6nME77pH+B2wOWH5C`

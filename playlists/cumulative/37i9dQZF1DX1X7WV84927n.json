@@ -7856,7 +7856,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 192000,
       "name": "Digital Hell",
       "url": "https://open.spotify.com/track/5T86WkjtNukA0HZGwg4XPq"
@@ -9718,6 +9718,24 @@
       "duration_ms": 217189,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
+    },
+    {
+      "album": {
+        "name": "Everything Is Moving On",
+        "url": "https://open.spotify.com/album/1Q9dwXtXPd8nJk48pmuF54"
+      },
+      "artists": [
+        {
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Everything Is Moving On",
+      "url": "https://open.spotify.com/track/5DgzlTJ7OTvnnkjZPx2TtW"
     },
     {
       "album": {
@@ -14284,6 +14302,24 @@
       "duration_ms": 212413,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/4cLCbUjCGAo6Ln1dhnTwxT"
+    },
+    {
+      "album": {
+        "name": "Hollywood Blvd",
+        "url": "https://open.spotify.com/album/4MWF6tlVstrIzd9D712Wx3"
+      },
+      "artists": [
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207797,
+      "name": "Hollywood Blvd",
+      "url": "https://open.spotify.com/track/1lMDTKqkGxUiaJM4SKPTzh"
     },
     {
       "album": {
@@ -33150,7 +33186,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 210954,
       "name": "TRENCHES (feat. Switchfoot)",
       "url": "https://open.spotify.com/track/1DheMAjBqmAr56xzCpoCmm"

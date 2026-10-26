@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,700 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,715 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [El Soltero](https://open.spotify.com/track/5Sw1yWgCX5pNmubcZgIUwt) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Sin Miedo a Lo Nuevo](https://open.spotify.com/album/1uf2UUnk1JURqncmsHvey3) | 2:19 |
 | 50 | [NO SOMOS IGUALES](https://open.spotify.com/track/5UQJnZD47O3Zldwy3p6sgY) | [El Filly Y Sus Aliados](https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [NO SOMOS IGUALES](https://open.spotify.com/album/4uhdB3fEGr3wtPAUCTA3JD) | 2:05 |
 
-Snapshot ID: `atqjgAAAAADSXU8Bc7U8kvCZ2XgQ+eMz`
+Snapshot ID: `atv1AAAAAADggOPeI5hRONALEXEAdINW`

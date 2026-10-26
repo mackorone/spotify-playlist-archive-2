@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 30 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
 | 31 | [Echoes](https://open.spotify.com/track/3UXZT8ySbWDR5lwD9MS2KM) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Atmosphere](https://open.spotify.com/album/483EKCZkSrdOZ5dEsew7sV) | 3:20 |
 | 32 | [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 |
-| 33 | [Let It Lie](https://open.spotify.com/track/3dlmZ4lh7sO8wBim2WAXdB) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let It Lie](https://open.spotify.com/album/5dYrpC2YbiBkNHFMWk8zqW) | 2:32 |
-| 34 | [Inside Voice](https://open.spotify.com/track/1BU3gLVXz7lHaftCuv0id3) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Inside Voice](https://open.spotify.com/album/7DhO9UDCoPpRoOuwqxKmKd) | 3:12 |
+| 33 | [Inside Voice](https://open.spotify.com/track/1BU3gLVXz7lHaftCuv0id3) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Inside Voice](https://open.spotify.com/album/7DhO9UDCoPpRoOuwqxKmKd) | 3:12 |
+| 34 | [Let It Lie](https://open.spotify.com/track/3dlmZ4lh7sO8wBim2WAXdB) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let It Lie](https://open.spotify.com/album/5dYrpC2YbiBkNHFMWk8zqW) | 2:32 |
 | 35 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 |
 | 36 | [Talk Of The Town](https://open.spotify.com/track/4um31MUXi9Ba2cwG9FjXMp) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus](https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG) | 3:05 |
 | 37 | [Faccio un casino](https://open.spotify.com/track/02Nlg4nlYcjCrbpbb0EnjL) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/5J34Sii8VACcv7xISev3rO) | 2:53 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 46 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
 | 47 | [Proof](https://open.spotify.com/track/1RpDQeE8kXFIrvoRzlWi5G) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:46 |
 | 48 | [To The Girl That Gets Him Next](https://open.spotify.com/track/5tfY4sv86EelJYS14Qm8Lj) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [I'd Step On Lego For You.](https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG) | 2:33 |
-| 49 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TIPI\-TAP](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 |
-| 50 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 49 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 50 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TIPI\-TAP](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 |
 | 51 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |
 | 52 | [Baby Steps](https://open.spotify.com/track/7gLXI82Kksv9Q1OgojzScn) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:47 |
 | 53 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 85 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 | 86 | [Heartbeat](https://open.spotify.com/track/6nkOj0akF4rZt4c7MCxKpx) | [Sandro Soro](https://open.spotify.com/artist/00XA2DHpsl0JYh0LCywnhx) | [Heartbeat](https://open.spotify.com/album/6YSYvAlysBgSUJAJQpnhfK) | 2:30 |
 
-Snapshot ID: `Acf1RgAAAAD+nM9bCbyc0BcyNgL7atLW`
+Snapshot ID: `Acf65gAAAAD7HonUmmLDSCShxk7LERip`

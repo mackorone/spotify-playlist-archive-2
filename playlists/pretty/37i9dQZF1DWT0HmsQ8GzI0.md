@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Дeva
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,094 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,096 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 38 | [Várok Rád](https://open.spotify.com/track/5ilhxSrCOfJSQNYfC022mT) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Várok Rád](https://open.spotify.com/album/2zr6C54DVZWC8pPmPuOThx) | 2:49 |
 | 39 | [Ütött kopott](https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [Tegnapról](https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ) | 2:59 |
 | 40 | [Úszunk az árral](https://open.spotify.com/track/6nHlJ0Iq3lGzggoQ3v1OHj) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Úszunk az árral](https://open.spotify.com/album/1EtIyDqDAdNQc7LbZmGrku) | 2:49 |
-| 41 | [Vadvirág](https://open.spotify.com/track/3KH2XUm2Zybsd5Nt1l6vjW) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Vadvirág](https://open.spotify.com/album/1Gw3DCeIDdhIBPv3TtRdFV) | 3:45 |
+| 41 | [Érkezős Induló](https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Érkezős Induló](https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ) | 4:07 |
 | 42 | [plusz egy \(+1\)](https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [plusz egy \(+1\)](https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv) | 3:29 |
 | 43 | [Nem Ismerlek](https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Nem Ismerlek](https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O) | 2:17 |
-| 44 | [Érkezős Induló](https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Érkezős Induló](https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ) | 4:07 |
+| 44 | [Vadvirág](https://open.spotify.com/track/3KH2XUm2Zybsd5Nt1l6vjW) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Vadvirág](https://open.spotify.com/album/1Gw3DCeIDdhIBPv3TtRdFV) | 3:45 |
 | 45 | [Cricket](https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr) | [Lil Frakk](https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev), [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET), [SOMODY](https://open.spotify.com/artist/0fPUO5A7hBvmZMQG7RNKCB) | [Harmadnap](https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy) | 2:36 |
 | 46 | [Jerikó](https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Jerikó](https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7) | 2:42 |
 | 47 | [SÖRSEGGŰ LÁNY](https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 3:26 |
 | 48 | [DONEKIRK](https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n) | [cibi](https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf), [ROSE MAY](https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I) | [LAKKATLAN SZEEGET](https://open.spotify.com/album/5AtXdTEllUA0nbKhC1iyQI) | 2:45 |
-| 49 | [Az a szerelem](https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Az a szerelem](https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh) | 4:53 |
-| 50 | [A szív vezet](https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q) | [Zaporozsec](https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP), [Blansch](https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED) | [A szív vezet](https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm) | 2:46 |
+| 49 | [A szív vezet](https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q) | [Zaporozsec](https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP), [Blansch](https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED) | [A szív vezet](https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm) | 2:46 |
+| 50 | [Az a szerelem](https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Az a szerelem](https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh) | 4:53 |
 | 51 | [1%](https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [1%](https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n) | 3:38 |
 | 52 | [Én vagyok az aki nem jó](https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [TRANSFORMANIA](https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO) | 3:51 |
 | 53 | [Escondites](https://open.spotify.com/track/3eaTbDqn8wAbKvhbK2j0Nd) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD) | [Jazzbois Around The World](https://open.spotify.com/album/0NckwWyCO69wyU3JM7v3PN) | 2:32 |

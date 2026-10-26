@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 72 songs - 4 hr 1 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 70 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 |
 | 71 | [Craigslist](https://open.spotify.com/track/1drv4FMcCNrhBCL6S0vxjz) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:53 |
 | 72 | [Living Lo\-Fi](https://open.spotify.com/track/3YCLqUEnvuOcIv3pRx0AXY) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Middle Spoon](https://open.spotify.com/album/2I66US2IlW5AVBgiIMCSIg) | 2:54 |
+| 73 | [I Feel So Weird!](https://open.spotify.com/track/77mq1sH79ZrnFz4X9AjQ5s) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Too Much to Ask](https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6) | 2:36 |
+| 74 | [Grad School](https://open.spotify.com/track/1pACd2ocKROPvoyc0MhFa1) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 4:49 |
 
-Snapshot ID: `AAAAU2Rk3Fy3epozIuPsWrvDcAM/MX7W`
+Snapshot ID: `AAAAVdZwRe3xHZS00rUR4iRoakoH20T3`

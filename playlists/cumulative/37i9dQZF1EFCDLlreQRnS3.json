@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Distant By Our Own Design",
+        "url": "https://open.spotify.com/album/4M0bhvxaxXgFHRjWSm0kIV"
+      },
+      "artists": [
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188974,
+      "name": "Please Don't Leave",
+      "url": "https://open.spotify.com/track/7lVHDkxezj1y0LegZ5jDPX"
+    },
+    {
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY"
       },

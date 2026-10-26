@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "the responsibility of being in love",
+        "url": "https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195560,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/07FbWGD3iIIkYBVeUVSEvv"
+    },
+    {
+      "album": {
         "name": "I Found You EP",
         "url": "https://open.spotify.com/album/5h5ux1uJHaRo82sDyhNOin"
       },

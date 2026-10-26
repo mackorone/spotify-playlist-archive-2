@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,322 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,359 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 39 | [Monkey Man](https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Sirens of Song](https://open.spotify.com/album/6V2rjEdJenqFpZDug9maSA) | 2:45 |
 | 40 | [Tenderly \- Live On Later..\. With Jools Holland / 2006](https://open.spotify.com/track/2RtYWELB3znKy86yd9VTfI) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 1:13 |
 | 41 | [Brother](https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 4:13 |
-| 42 | [What It Is](https://open.spotify.com/track/79dmkAahkE4zQfAWtk3hhF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Stronger Than Me](https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7) | 4:43 |
-| 43 | [Close To The Front](https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:35 |
+| 42 | [Do Me Good](https://open.spotify.com/track/3EwxNAUKvuH5pmsTtXbo4Z) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:19 |
+| 43 | [What It Is](https://open.spotify.com/track/79dmkAahkE4zQfAWtk3hhF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Stronger Than Me](https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7) | 4:43 |
 | 44 | [Don't Go To Strangers \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/3kt92YozPwnpnE5yQziJ60) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 4:36 |
 | 45 | [You Sent Me Flying / Cherry](https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 6:50 |
-| 46 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 |
-| 47 | [Monkey Man \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/11RwX2XrkrduAwdmug89ja) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:19 |
-| 48 | [He Can Only Hold Her](https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:44 |
+| 46 | [Close To The Front](https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:35 |
+| 47 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 |
+| 48 | [Monkey Man \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/11RwX2XrkrduAwdmug89ja) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:19 |
+| 49 | [He Can Only Hold Her](https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:44 |
 
-Snapshot ID: `atqjgAAAAAAyp3B1IicXOS6hLxlvKc6f`
+Snapshot ID: `atv1AAAAAAC640l5qTwbrlFcsU3/cY3i`

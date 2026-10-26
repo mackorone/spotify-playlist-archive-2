@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,837 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,836 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 49 | [Mother and Child Reunion \(with Jimmy Cliff\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4fCRtHg9p2Tt2lBPKBDluO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 3:43 |
 | 50 | [Shelter Of Your Love \- Single Version](https://open.spotify.com/track/5I0uW8EgQSxLT8F596lwfB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of](https://open.spotify.com/album/0J3Cyyl9KU4RxGiaDHLBmd) | 3:32 |
 
-Snapshot ID: `atqjgAAAAAB/2klapgHQAS92YNqjQu4t`
+Snapshot ID: `atv1AAAAAADbOnJChQr2khg3ZYDv7D5/`

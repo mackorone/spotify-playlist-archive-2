@@ -4,7 +4,7 @@
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-160 songs - 8 hr 36 min
+161 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Battlefield 2042](https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io) | [Battlefield 2042 \(Official Soundtrack\)](https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1) | 2:32 | 2023-02-01 | 2026-10-10 |
 | [Birting](https://open.spotify.com/track/7eP0N3IZDKixbjZPp4fIak) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 2:53 | 2026-07-04 | 2026-07-05 |
 | [Birting \(Version for Orchestra\)](https://open.spotify.com/track/2SElxp6XNMljhlH6LujqIy) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q) | [This Will Be Us](https://open.spotify.com/album/2QQrvgTX9dLwUTycq6gi2N) | 2:58 | 2026-10-25 |  |
+| [Blind Sarabande](https://open.spotify.com/track/2QQI1Qv4rQ6aU9U4Atz5Ec) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q) | [This Will Be Us](https://open.spotify.com/album/2QQrvgTX9dLwUTycq6gi2N) | 4:40 | 2026-10-26 |  |
 | [Boys](https://open.spotify.com/track/5DKdRHCZpJb93JZzQYurzE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 2:26 | 2023-02-01 | 2023-05-06 |
 | [Bridge of Death](https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 4:44 | 2023-02-01 |  |
 | [Building Temple](https://open.spotify.com/track/7mPq8xBuK6uMGRHcpX3iIz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [28 Years Later: The Bone Temple \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy) | 1:49 | 2026-01-22 | 2026-04-04 |
@@ -87,7 +88,7 @@
 | [Love Theme \#1 / You Have an Amazing Vocabulary](https://open.spotify.com/track/50urucdTEs0Fi3038dscuo) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [The Bride! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S) | 1:03 | 2026-03-15 | 2026-04-05 |
 | [Love Theme \#2 / I Don’t Know Where I Live](https://open.spotify.com/track/2z1sa91UooeXW2VIYwVonp) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [The Bride! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S) | 1:25 | 2026-03-14 | 2026-03-25 |
 | [Líður \- Chernobyl Version](https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:48 | 2023-02-01 |  |
-| [Make Space](https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Where to From](https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa) | 2:20 | 2025-11-14 |  |
+| [Make Space](https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Where to From](https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa) | 2:20 | 2025-11-14 | 2026-10-26 |
 | [Make Space](https://open.spotify.com/track/62TE5ldKv2uFe3RCy2zQ2w) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Make Space](https://open.spotify.com/album/2qrBIpQX8L5mDhu34DEUsG) | 2:20 | 2025-09-21 | 2025-11-14 |
 | [Maundy](https://open.spotify.com/track/16ohNOWQrwHCTjyjoGXIJ8) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 2:26 | 2023-06-05 | 2026-09-07 |
 | [Meeting Bruce Wayne](https://open.spotify.com/track/5HaKAODFS4Md49bVyYSp1y) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 4:35 | 2024-04-11 |  |

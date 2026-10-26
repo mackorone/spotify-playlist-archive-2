@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "Typologie eines Lebens",
         "url": "https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 181546,
       "name": "Neues Leben",
       "url": "https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS"
     },
     {
       "added_at": "2026-10-07 22:00:17",

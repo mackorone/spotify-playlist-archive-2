@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -10794,7 +10794,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 216000,
       "name": "One Of My Life",
       "url": "https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj"
@@ -10846,7 +10846,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -17824,7 +17824,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 356500,
       "name": "\u0e02\u0e2d (WARM EYES)",
       "url": "https://open.spotify.com/track/5MZe9NqyaSvtoaZKCeyGee"
@@ -18680,7 +18680,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 235946,
       "name": "\u0e04\u0e37\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/5G9QIsPENzaSjyipcQQAqL"
@@ -19937,6 +19937,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e15\u0e23\u0e07\u0e19\u0e31\u0e49\u0e19\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/4RZlePF5nPnV08HVBJmQgg"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323769,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e15\u0e23\u0e07\u0e19\u0e31\u0e49\u0e19\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/7rPAFVsc1sbEwL8gz1JWiY"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
         "url": "https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE"
       },
@@ -20878,7 +20896,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 196187,
       "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
       "url": "https://open.spotify.com/track/1x0rPOZKfNKkfWETw4nB6K"
@@ -22250,7 +22268,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"

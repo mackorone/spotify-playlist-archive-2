@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,135 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,229 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 36 | [Tu Mere Samne](https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr](https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS) | 6:06 |
 | 37 | [Do Pal](https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 4:25 |
 | 38 | [Ruk Ja O Dil Deewane](https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:10 |
-| 39 | [Ek Din Aap](https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:26 |
-| 40 | [Aaj Ki Raat](https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 6:08 |
+| 39 | [Aaj Ki Raat](https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 6:08 |
+| 40 | [Ek Din Aap](https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:26 |
 | 41 | [Tumhi Dekho Naa](https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 5:47 |
 | 42 | [Mehndi Laga Ke Rakhna](https://open.spotify.com/track/1bqMVta76huBpSIzTIrDM0) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 4:46 |
 | 43 | [Mere Mehboob Mere Sanam](https://open.spotify.com/track/77QP3sduboWcEh7aypoz66) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Duplicate](https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc) | 6:59 |

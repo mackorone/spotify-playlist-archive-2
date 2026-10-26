@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8186,
+  "num_followers": 8185,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAABHFaivdHoOI+H8l19+QeHI",
+  "snapshot_id": "atv1AAAAAAAwK+UhKJ5QUJDFX0q8HYZU",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Priv\u00ea",
-        "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Priv\u00ea",
-      "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TUDO \u00c9 SOBRE M\u00daSICA",
         "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 206106,
       "name": "TUDO \u00c9 SOBRE M\u00daSICA",
       "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Priv\u00ea",
+        "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Priv\u00ea",
+      "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corpo Quente",
         "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
       },
@@ -947,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZyZy",
-        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        }
-      ],
-      "duration_ms": 149833,
-      "name": "ZyZy",
-      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resumo",
         "url": "https://open.spotify.com/album/3lzIJ9gBamGfS2iEQw63Mg"
       },
@@ -987,26 +987,6 @@
       "duration_ms": 142279,
       "name": "Resumo",
       "url": "https://open.spotify.com/track/60VIiC7hY10xz8QT3NSQek"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afroculture",
-        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 165630,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/0Jf8KRqmVUTlYFpJHQahbP"
     },
     {
       "added_at": null,
@@ -1047,30 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agi Igual Homem",
-        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
+        "name": "Afroculture",
+        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
       },
       "artists": [
         {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 164204,
-      "name": "Agi Igual Homem",
-      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
+      "duration_ms": 165630,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/0Jf8KRqmVUTlYFpJHQahbP"
     },
     {
       "added_at": null,
@@ -1095,6 +1067,34 @@
       "duration_ms": 151737,
       "name": "Dona de Mim - Novela",
       "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agi Igual Homem",
+        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 164204,
+      "name": "Agi Igual Homem",
+      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
     },
     {
       "added_at": null,
@@ -1303,34 +1303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
-      },
-      "artists": [
-        {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Efeito Borboleta",
         "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
       },
@@ -1367,22 +1339,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma Rapper Gangster",
-        "url": "https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM"
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
       },
       "artists": [
         {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Dom do Toque",
-      "url": "https://open.spotify.com/track/3l83Ti1Y8r8kBe9EOiz1R9"
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
     },
     {
       "added_at": null,
@@ -1407,6 +1387,26 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/3kSdh13BSy0Is3c0yq185D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Rapper Gangster",
+        "url": "https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Dom do Toque",
+      "url": "https://open.spotify.com/track/3l83Ti1Y8r8kBe9EOiz1R9"
     },
     {
       "added_at": null,

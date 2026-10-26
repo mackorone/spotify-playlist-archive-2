@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1105674,
+  "num_followers": 1105523,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Bare",
-      "url": "https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "the death of you & i - EP",
         "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 224812,
       "name": "love (ain\u0092t always so good)",
       "url": "https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Bare",
+      "url": "https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Last Line",
-        "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
         }
       ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv"
+      "duration_ms": 317266,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
+        "name": "Last Line",
+        "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
       },
       "artists": [
         {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 317266,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 256282,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 256282,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Famous Men",
-        "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
-      },
-      "artists": [
-        {
-          "name": "Magnolian",
-          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "The Bride & The Bachelor",
-      "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3FCtsJuZCiozE6mV2Bgjfc"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/7GaolPg6f0qNwZPDXSriR0"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Famous Men",
+        "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
+      },
+      "artists": [
+        {
+          "name": "Magnolian",
+          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
+        }
+      ],
+      "duration_ms": 250399,
+      "name": "The Bride & The Bachelor",
+      "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
     },
     {
       "added_at": "2024-08-23 15:12:14",

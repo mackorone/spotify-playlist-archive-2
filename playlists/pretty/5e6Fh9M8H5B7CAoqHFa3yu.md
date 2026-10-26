@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 357 likes - 2,783 songs - 6 day 18 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,784 songs - 6 day 18 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2791,5 +2791,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2781 | [Tricked Out](https://open.spotify.com/track/4Zirs5TtsAEC9Gc9Pc4Dju) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 6:43 |
 | 2782 | [Sick Streets](https://open.spotify.com/track/7zVmHW9RwxkJN5QhWEWMgx) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 5:47 |
 | 2783 | [No Way Back](https://open.spotify.com/track/2NpztJ7N8D9Zi62bnd5QHZ) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 6:59 |
+| 2784 | [The Last Spark](https://open.spotify.com/track/5QCLcyF4VDCj0O2JzMK1Ji) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Pada Akhirnya](https://open.spotify.com/album/4K6BgEtFRGjqQqultRC6Qb) | 2:54 |
 
-Snapshot ID: `AAAL5CT/UtECacBND0GbR7B7mCUJFACE`
+Snapshot ID: `AAAL5UWxJn4OHCWlkN0REK1F7w+mTJMw`

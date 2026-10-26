@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,158 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,231 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 29 | [Äiti Varjo](https://open.spotify.com/track/4bNvxOrJbtB59wZ6KCpbJA) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Äiti Varjo](https://open.spotify.com/album/6NhNoFTwVOVve3x9rDn9sy) | 4:09 |
 | 30 | [Meri](https://open.spotify.com/track/73ToXpajvWBjFlGg0ND3pE) | [Ínkar](https://open.spotify.com/artist/3mdSsyIBntdGgvdbCf2Ebh) | [Meri](https://open.spotify.com/album/4Tt4jvL29pPmIeTvYy5d6B) | 3:33 |
 | 31 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
-| 32 | [Verjugarðar / Walls](https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Verjugarðar / Walls](https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K) | 4:34 |
-| 33 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
+| 32 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
+| 33 | [Verjugarðar / Walls](https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Verjugarðar / Walls](https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K) | 4:34 |
 | 34 | [Belladonna](https://open.spotify.com/track/01CBGRKQ7BGothCG4buKEE) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [HEX](https://open.spotify.com/album/2T6UM5iM0cDeVnr7XVaam4) | 4:53 |
 | 35 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
 | 36 | [I Riden Så](https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV) | [Helisir](https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw) | [Sårbare](https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H) | 5:13 |
 | 37 | [Der Himmel muss warten](https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Der Himmel muss warten](https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF) | 2:23 |
-| 38 | [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 |
-| 39 | [Avalon](https://open.spotify.com/track/3tjdZcAXVu6tqmKBtshy4G) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Cyning](https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo) | 2:01 |
+| 38 | [Avalon](https://open.spotify.com/track/3tjdZcAXVu6tqmKBtshy4G) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Cyning](https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo) | 2:01 |
+| 39 | [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 |
 | 40 | [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 |
 | 41 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
 | 42 | [Hibjørnen](https://open.spotify.com/track/0rsnV9QHbRw30pDKNeIAfz) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/5clP0vXvX350quRCTw248H) | 3:02 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 59 | [SÁLA](https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Karl Seglem](https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Umbra](https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S), [Emilie Lorentzen](https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd) | [SÁLA](https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53) | 6:47 |
 | 60 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 |
 | 61 | [Två Systrar](https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Två Systrar](https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB) | 5:52 |
-| 62 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 |
-| 63 | [The Green Knight](https://open.spotify.com/track/3a6eoJDZAEW7TtH5KsVljC) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Cyning](https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo) | 3:29 |
+| 62 | [The Green Knight](https://open.spotify.com/track/3a6eoJDZAEW7TtH5KsVljC) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Cyning](https://open.spotify.com/album/7rovqzFc7Vtb0XQBJiEgbo) | 3:29 |
+| 63 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 |
 | 64 | [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 |
 | 65 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
 | 66 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |

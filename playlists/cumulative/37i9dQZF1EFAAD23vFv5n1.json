@@ -4227,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Songs, International Hits 2025",
+        "url": "https://open.spotify.com/album/6j1ufpqyRZqJp84UMigIXc"
+      },
+      "artists": [
+        {
+          "name": "John's Saxophone",
+          "url": "https://open.spotify.com/artist/5017jdzBcgvmdHLGkWwRZY"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Victoria's Secret",
+      "url": "https://open.spotify.com/track/0qlfvwLYOxLs0pPktzqSmV"
+    },
+    {
+      "album": {
         "name": "Voglia di vivere",
         "url": "https://open.spotify.com/album/43JfFH8IVf0q2jRzzE9JNG"
       },

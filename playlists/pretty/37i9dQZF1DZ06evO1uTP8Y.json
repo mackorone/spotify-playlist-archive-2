@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 16846,
+  "num_followers": 16871,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAADMoIQtMEnQBkgDv/hdqF8G",
+  "snapshot_id": "atv1AAAAAAAyu3RLAmb370lDUnc/knP2",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
         },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 197720,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
+      "duration_ms": 227298,
+      "name": "Wish I Knew - feat. Odeal",
+      "url": "https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2"
     },
     {
       "added_at": null,
@@ -299,22 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MACHIKO",
-        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
       "artists": [
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 227298,
-      "name": "Wish I Knew - feat. Odeal",
-      "url": "https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2"
+      "duration_ms": 197720,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
     },
     {
       "added_at": null,
@@ -639,6 +639,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Tapes",
         "url": "https://open.spotify.com/album/1SRzm4ROUSaOaPIRzHg4EC"
       },
@@ -663,26 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
+        "name": "Cry On You",
+        "url": "https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 142135,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
+      "duration_ms": 120521,
+      "name": "Cry On You",
+      "url": "https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry On You",
-        "url": "https://open.spotify.com/album/7cfEcyYmVJPp2qF6vSuy99"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 120521,
-      "name": "Cry On You",
-      "url": "https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holier (SHOWBIZ)",
         "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 146165,
       "name": "Holier (SHOWBIZ)",
       "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w"
     }
   ],
   "unique_name": "This Is Odeal",

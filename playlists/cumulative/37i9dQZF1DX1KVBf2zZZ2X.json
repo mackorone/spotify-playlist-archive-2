@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Ashoka",
+        "url": "https://open.spotify.com/album/1hStx6RtGqzTbxliOUKELd"
+      },
+      "artists": [
+        {
+          "name": "Apollo Vision",
+          "url": "https://open.spotify.com/artist/0S54IVxCmJNc6FN8wLIC5v"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165450,
+      "name": "Ashoka",
+      "url": "https://open.spotify.com/track/3llugqcAKCMBYjUM3E0kfK"
+    },
+    {
+      "album": {
         "name": "At Dawn",
         "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
       },
@@ -4784,7 +4802,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 156800,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf"

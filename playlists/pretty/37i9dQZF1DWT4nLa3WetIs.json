@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Tems' debut \" For Broken Ears\"",
-  "num_followers": 271459,
+  "num_followers": 271544,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-09-08 10:54:33",
       "album": {
+        "name": "Magixx",
+        "url": "https://open.spotify.com/album/2YqFVhYSVuZXXZMJSvOTTh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Love Don't Cost A Dime",
+      "url": "https://open.spotify.com/track/3Yfo7S9svHWWvy5kd02C3U"
+    },
+    {
+      "added_at": "2026-09-08 10:54:33",
+      "album": {
         "name": "Vision 2020",
         "url": "https://open.spotify.com/album/4CnDciicu0ZYCnLgFHtJIe"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 221902,
       "name": "Vision 2020",
       "url": "https://open.spotify.com/track/3YPwsrdTzdnDOBCTl4d71e"
-    },
-    {
-      "added_at": "2026-09-08 10:54:33",
-      "album": {
-        "name": "Magixx",
-        "url": "https://open.spotify.com/album/2YqFVhYSVuZXXZMJSvOTTh"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Love Don't Cost A Dime",
-      "url": "https://open.spotify.com/track/3Yfo7S9svHWWvy5kd02C3U"
     },
     {
       "added_at": "2026-09-08 10:54:33",

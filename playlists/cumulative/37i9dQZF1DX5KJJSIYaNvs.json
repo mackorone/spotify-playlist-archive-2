@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 230192,
       "name": "Chhaila (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk"
@@ -7692,6 +7692,32 @@
       "duration_ms": 234166,
       "name": "Kaise Hum",
       "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
+    },
+    {
+      "album": {
+        "name": "Kaise Kahoon",
+        "url": "https://open.spotify.com/album/2xqBJ25q6lQiMMnSNfbzJx"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168599,
+      "name": "Kaise Kahoon",
+      "url": "https://open.spotify.com/track/6qlZ1V2PSqcS7QrdJ6GpH0"
     },
     {
       "album": {

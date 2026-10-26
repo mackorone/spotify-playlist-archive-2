@@ -1523,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323933,
+      "name": "Mahini Me - feat. Taj Mahal",
+      "url": "https://open.spotify.com/track/2w0DCVSEypFyNuIJINmk4A"
+    },
+    {
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
       },
@@ -1810,7 +1832,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 498666,
       "name": "Roucky - feat.Taj Mahal",
       "url": "https://open.spotify.com/track/0M8IIFrmeUonCdKb7WN9lm"

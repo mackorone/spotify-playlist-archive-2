@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,632 songs - 3 day 23 hr 15 min
+1,633 songs - 3 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Daylight](https://open.spotify.com/track/3JaGKnVSjLcb1vIqd3vM2R) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Türker Dinletir](https://open.spotify.com/artist/3AMFuyddNOacTR1XVAx8b2) | [Daylight](https://open.spotify.com/album/2fSnPDUWF2bYTbiPjHNgUS) | 3:35 | 2026-05-22 | 2026-07-19 |
 | [Days go by \(Lost\)](https://open.spotify.com/track/6moyAEoIcPqI8HPVkVKTcn) | [TeoT](https://open.spotify.com/artist/4IVsxJI83GRiIx0S2qWV6E) | [Days go by \(Lost\)](https://open.spotify.com/album/0lssnlmSTX50erZ6CLv30s) | 3:32 | 2026-06-01 | 2026-07-03 |
 | [days like this](https://open.spotify.com/track/26XminzCDpGt5DUHEGZSMA) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [lindsay elizabeth](https://open.spotify.com/artist/0Xkg8TCB0Xfqypnz559jat) | [days like this](https://open.spotify.com/album/4fxU7HuDwMiVlbHPL9afNU) | 2:20 | 2026-09-21 | 2026-10-23 |
+| [De ti](https://open.spotify.com/track/0G3RpCIyrivV1Iwslpd4sr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 2:29 | 2026-10-25 |  |
 | [Dear Daddy](https://open.spotify.com/track/3LTumOY6zNgvKuNGaRsE1I) | [A Beautiful Tomorrow](https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm) | [11 songs](https://open.spotify.com/album/1uka3AOh5UDbFWQiUvYpum) | 3:00 | 2025-12-24 | 2026-01-24 |
 | [Dear X \- Acoustic](https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Dear X \(Acoustic\)](https://open.spotify.com/album/5vDMnPvS72yhtFzzd9BNcC) | 2:02 | 2026-01-26 | 2026-02-28 |
 | [Decirte](https://open.spotify.com/track/1XdhfKIz7UaziPl5sIXYyg) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Decirte](https://open.spotify.com/album/3h8r22CVKJPz8S1RA2jnkZ) | 2:55 | 2026-01-14 | 2026-02-20 |

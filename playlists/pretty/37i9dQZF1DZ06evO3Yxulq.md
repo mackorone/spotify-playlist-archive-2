@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,971 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,974 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 29 | [Tu Presencia Es el Cielo](https://open.spotify.com/track/3q8nKaROEYFKAqJX9IwXMx) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:53 |
 | 30 | [Respirar del Cielo](https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 5:46 |
 | 31 | [Más Alto Honor](https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:50 |
-| 32 | [Promesas No Fallarán \(En Vivo\)](https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 5:05 |
-| 33 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 10:12 |
+| 32 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn) | 10:12 |
+| 33 | [Promesas No Fallarán \(En Vivo\)](https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 5:05 |
 | 34 | [Mi Necesidad \- Live](https://open.spotify.com/track/4ax8W4nFT6r5QfK1hxnXRj) | [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Mi Necesidad \(Live\)](https://open.spotify.com/album/3AG8OFmIegy0XtJsyptbFZ) | 10:16 |
 | 35 | [Eterno \(Con Cuando los Santos Marchen Ya\)](https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 6:02 |
 | 36 | [Magnifico](https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:08 |

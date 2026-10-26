@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184413,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/4yBofFU6RdztFsyffEFwIp"
+    },
+    {
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },

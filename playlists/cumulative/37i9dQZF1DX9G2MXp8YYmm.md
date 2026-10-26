@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Emre Fel
 
-773 songs - 1 day 15 hr 23 min
+774 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Boş Şişeler](https://open.spotify.com/track/3esm1rSFlCsORZIXanv5je) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Seda Tripkolic](https://open.spotify.com/artist/2aNkBNOpoEwJlRpDLzJ6hZ) | [Boş Şişeler](https://open.spotify.com/album/3xOsXdaxLXOiFg2r9kAvOY) | 2:15 | 2025-08-07 | 2025-10-19 |
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 | 2024-11-29 |
 | [Bu Aşk](https://open.spotify.com/track/04IZuGEpJ6u1CZfwzGnGtj) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşk](https://open.spotify.com/album/42LQvEF6eV6CPVQDuy9t5V) | 2:21 | 2025-01-23 | 2025-02-11 |
-| [Bu Defa Başka](https://open.spotify.com/track/6EVr51QfMgxOPHRU7EAxyC) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bu Defa Başka](https://open.spotify.com/album/5C0S20dqu127a97KCXKzvQ) | 3:37 | 2025-10-16 |  |
+| [Bu Defa Başka](https://open.spotify.com/track/6EVr51QfMgxOPHRU7EAxyC) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bu Defa Başka](https://open.spotify.com/album/5C0S20dqu127a97KCXKzvQ) | 3:37 | 2025-10-16 | 2026-10-26 |
 | [Bu Defa Başka](https://open.spotify.com/track/3cdSx77FBFq9v1ev47rdi9) | [Özcan Deniz](https://open.spotify.com/artist/4VU1nemTk5QFsrclcN8VFl) | [Bu Defa Başka](https://open.spotify.com/album/2vhfEzHDlOLfxbi9Cda1oO) | 3:45 | 2025-12-11 | 2026-01-05 |
 | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/track/3X9TAWJhrQtpQHqDoCLv76) | [Rober Hatemo](https://open.spotify.com/artist/3aYxHPDvu8SETLVJBEUqld), [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/album/7BgY2YD3RX33jCY6LYqWD4) | 3:05 | 2024-12-19 | 2025-01-14 |
 | [bu dünya yıkılsa üzülmem](https://open.spotify.com/track/22oFULHjHaJlw3miDQq4bj) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bu dünya yıkılsa üzülmem](https://open.spotify.com/album/3zrNyzQ8fKINUxIraf0uhM) | 3:34 | 2026-08-27 | 2026-09-30 |
@@ -201,6 +201,7 @@
 | [Bıçak](https://open.spotify.com/track/5XYPcsaR7a1rTqTOHc99LN) | [İntizar](https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0) | [Bıçak](https://open.spotify.com/album/4tA43nNgYDybyFQaEWNFIO) | 3:05 | 2026-02-19 | 2026-05-09 |
 | [Can İzi](https://open.spotify.com/track/026lcxlgR9NvkT0A4bMerG) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m) | [Can İzi](https://open.spotify.com/album/6756MQg4QXyZGCFCBa98JQ) | 2:43 | 2025-03-27 | 2025-04-28 |
 | [Canavarlar](https://open.spotify.com/track/0HzGVnvya5XFgceBPptZiy) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Canavarlar](https://open.spotify.com/album/6C9MQlOIK19IR0sKbgNCFT) | 3:02 | 2026-08-20 | 2026-09-30 |
+| [Canım Sevgilim \- Bahçeden Akustik](https://open.spotify.com/track/6d8ll1cH4rSy6yv0R72BLo) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Baha](https://open.spotify.com/artist/2vB0YxchGzK7GpfMp4JX3w) | [Konuk: Baha \(Bahçeden Akustik\)](https://open.spotify.com/album/2s3iNMjtcLWQtNGbBtscoR) | 5:07 | 2026-10-20 |  |
 | [Canımın Sultanı](https://open.spotify.com/track/1yrF7zirmHKdsNuh8jSWiC) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Canımın Sultanı](https://open.spotify.com/album/1rIRMeTPk9YfSSPhmzwbCb) | 2:51 | 2026-08-27 | 2026-10-14 |
 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 | 2024-09-26 | 2025-06-16 |
 | [Casanova \- Sefo Remix](https://open.spotify.com/track/4kEk9tPt6fUxroVxT3V2ka) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Casanova \- Sefo Remix](https://open.spotify.com/album/5ZlDiqJEaX5r95hnAwwq9g) | 3:09 | 2024-09-05 | 2024-10-09 |

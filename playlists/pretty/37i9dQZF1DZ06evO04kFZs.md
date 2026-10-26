@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,915 likes - 46 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,926 likes - 46 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 45 | [More Time](https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 2:00 |
 | 46 | [Coupe](https://open.spotify.com/track/7AMsqVsxf8mnKbmRfXrLeu) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 2:03 |
 
-Snapshot ID: `atqjgAAAAABzVxZwRFNjZdoL6L+nvxxO`
+Snapshot ID: `atv1AAAAAADV6VAO6MRJnDv26J3NcWhM`

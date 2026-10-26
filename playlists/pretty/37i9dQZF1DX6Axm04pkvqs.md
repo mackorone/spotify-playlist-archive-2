@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,136 likes - 80 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,197 likes - 80 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 17 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
 | 18 | [Elohim Adonai](https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Elohim Adonai](https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN) | 3:47 |
 | 19 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
-| 20 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 |
-| 21 | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/album/7zoquBJfRRJ9CDJ7YYaGtr) | 9:55 |
+| 20 | [Agbara Olorun po](https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy) | [Clement whyte](https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT) | [Agbara Olorun po](https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA) | 5:01 |
+| 21 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 |
 | 22 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
-| 23 | [Agbara Olorun po](https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy) | [Clement whyte](https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT) | [Agbara Olorun po](https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA) | 5:01 |
+| 23 | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Ah Eh Eh Eh Ah Ah Ah \(Chant\)](https://open.spotify.com/album/7zoquBJfRRJ9CDJ7YYaGtr) | 9:55 |
 | 24 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 |
 | 25 | [See How Far: Gratitude \(Reflections\)](https://open.spotify.com/track/7IOvxvfah1YyRBRkZzIjgg) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [See How Far: Gratitude \(Reflections\)](https://open.spotify.com/album/7dct7NWxi1IAV9K1kXkqAW) | 19:56 |
 | 26 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 56 | [Bowels of the Spirit \(Prayer Chant\)](https://open.spotify.com/track/09NtOUOldnVP8Me3DSaus5) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 46:05 |
 | 57 | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/album/6iLpI8vsGEnpCyEzTYRAuV) | 11:08 |
 | 58 | [Elohim Adonai \(Live\)](https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Deep Wells](https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z) | 3:21 |
-| 59 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 |
-| 60 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 |
+| 59 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 |
+| 60 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 |
 | 61 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
 | 62 | [Eze Mmuo](https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Eze Mmuo](https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn) | 5:33 |
 | 63 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |

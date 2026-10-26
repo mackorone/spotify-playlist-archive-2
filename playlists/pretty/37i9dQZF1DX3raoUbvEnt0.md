@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 
 > Music from "GOLDEN KAMUY"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,098 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,103 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,198 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,268 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 40 | [Alghalem](https://open.spotify.com/track/2CGi0kPFzrErHlYjzQpLAh) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Aratan n Azawad](https://open.spotify.com/album/0MnMc9NEsJcHjsUv2GXqb9) | 3:41 |
 | 41 | [Taryet](https://open.spotify.com/track/3mVFTZGjfus9XbxQhNai4y) | [Tarwa N\-Tiniri](https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez) | [Taryet](https://open.spotify.com/album/0hkzlHUqNYoMrdRcTFllJf) | 5:41 |
 | 42 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
-| 43 | [Amtten](https://open.spotify.com/track/5MXzZkpE5nsFE3opObETpZ) | [Kel Dades](https://open.spotify.com/artist/78F4JH9dNT2bBVEzRgvFW7) | [Egharmenw](https://open.spotify.com/album/0kWLXcsPvATAWq9XCEORTn) | 4:48 |
-| 44 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
+| 43 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
+| 44 | [Amtten](https://open.spotify.com/track/5MXzZkpE5nsFE3opObETpZ) | [Kel Dades](https://open.spotify.com/artist/78F4JH9dNT2bBVEzRgvFW7) | [Egharmenw](https://open.spotify.com/album/0kWLXcsPvATAWq9XCEORTn) | 4:48 |
 | 45 | [Soixante Trois](https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Idrache \(Traces Of The Past\)](https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ) | 5:13 |
 | 46 | [Mirage](https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Sequana](https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN) | 4:17 |
 | 47 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |

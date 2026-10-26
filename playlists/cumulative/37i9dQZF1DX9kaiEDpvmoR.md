@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-649 songs - 1 day 14 hr 23 min
+650 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Ett Glas Till](https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Dom Sa – Ett glas till](https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74) | 4:25 | 2024-06-27 | 2024-08-16 |
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-15 |
 | [Everything's wasted](https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Everything's wasted](https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA) | 4:22 | 2026-05-28 | 2026-10-11 |
-| [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 | 2025-08-07 |  |
+| [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 | 2025-08-07 | 2026-10-26 |
 | [F\-Bomb](https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [F\-Bomb](https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3) | 3:47 | 2025-08-14 | 2026-04-21 |
 | [Face The Unknown](https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Face The Unknown](https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz) | 3:30 | 2026-03-05 | 2026-04-10 |
 | [Fading Like A Rose \(Original +2 bpm\)](https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [ROX RMX Vol\. 1 \(Remixes From The Roxette Vaults\)](https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S) | 3:59 | 2024-09-06 | 2024-12-24 |
@@ -323,6 +323,7 @@
 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 | 2024-06-27 | 2024-08-16 |
 | [Know You've Been Loved](https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Know You've Been Loved](https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI) | 3:36 | 2025-01-30 | 2026-02-13 |
 | [Knowing Me, Knowing You \(7th Heaven Radio Edit\)](https://open.spotify.com/track/1UDh3ZtVpSKjpVarF47xIB) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB), [7th Heaven](https://open.spotify.com/artist/5pflJc47McwW2cNXOKCtSi) | [Knowing Me, Knowing You](https://open.spotify.com/album/0RsOlovI5yQnhnPPjQLzmZ) | 4:07 | 2024-10-10 | 2024-10-18 |
+| [Kolmården](https://open.spotify.com/track/6cnnQYWX1oe4pGabrvqxVg) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Noll personlig utveckling](https://open.spotify.com/album/27s0zZKUi93wyJaGvx6h2J) | 3:25 | 2026-10-22 |  |
 | [Kom hem till mej](https://open.spotify.com/track/7AStGTdtHTUx2iiA6jIGU2) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Kom hem till mej](https://open.spotify.com/album/2WhuwEfXgDqfhtGZyyA6pj) | 3:25 | 2026-10-15 |  |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-27 | 2024-08-09 |
 | [Kontrollen & förlusten av den](https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Kontrollen & förlusten av den](https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7) | 3:03 | 2026-09-24 |  |

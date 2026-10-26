@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pushing pop forwards <3!! <br/>cover: kim petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,454 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,428 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "compare, prenda el asador y destape otra cheve.",
-  "num_followers": 1320772,
+  "num_followers": 1320765,
   "original_name": "Carnita Asada ",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
-    },
-    {
-      "added_at": "2026-10-16 18:43:56",
-      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": "2026-10-16 18:43:56",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
     },
     {
       "added_at": "2026-10-16 18:43:56",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2026-10-16 18:43:56",
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 213333,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
+    },
+    {
+      "added_at": "2026-10-16 18:43:56",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2026-10-16 18:43:56",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
-    },
-    {
-      "added_at": "2026-10-16 18:43:56",
-      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 161226,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2026-10-16 18:43:56",
+      "album": {
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2026-10-16 18:43:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "La Concentraci\u00f3n, Vol. XXV",
-        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
-      },
-      "artists": [
-        {
-          "name": "La Concentracion",
-          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
-        }
-      ],
-      "duration_ms": 154097,
-      "name": "La Mini Mini",
-      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
-    },
-    {
-      "added_at": "2026-10-16 18:43:56",
-      "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+        "name": "La Concentraci\u00f3n, Vol. XXV",
+        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "La Concentracion",
+          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
         }
       ],
-      "duration_ms": 206400,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC"
+      "duration_ms": 154097,
+      "name": "La Mini Mini",
+      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
     },
     {
       "added_at": "2026-10-16 18:43:56",
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
       "artists": [
         {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 178293,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+      "duration_ms": 206400,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC"
     },
     {
       "added_at": "2026-10-16 18:43:56",
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+    },
+    {
+      "added_at": "2026-10-16 18:43:56",
+      "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 143426,
       "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
-    },
-    {
-      "added_at": "2026-10-16 18:43:56",
-      "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 181968,
-      "name": "Sal con Lim\u00f3n",
-      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
       "added_at": "2026-10-16 18:43:56",
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 188653,
-      "name": "No necesitas a Carlo",
-      "url": "https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18"
+      "duration_ms": 181968,
+      "name": "Sal con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
       "added_at": "2026-10-16 18:43:56",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "No necesitas a Carlo",
+      "url": "https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18"
+    },
+    {
+      "added_at": "2026-10-16 18:43:56",
+      "album": {
         "name": "Soy El Aventurero",
         "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-16 18:43:56",
       "album": {
-        "name": "El Peor De Mis Fracasos",
-        "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "El Peor De Mis Fracasos",
-      "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
-    },
-    {
-      "added_at": "2026-10-16 18:43:56",
-      "album": {
         "name": "Recu\u00e9rdame Y Ven A M\u00ed",
         "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 171413,
       "name": "Mi Golondrina",
       "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
+    },
+    {
+      "added_at": "2026-10-16 18:43:56",
+      "album": {
+        "name": "El Peor De Mis Fracasos",
+        "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
     },
     {
       "added_at": "2026-10-16 18:43:56",

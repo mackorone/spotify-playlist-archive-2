@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,839 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,867 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 19 | [Oku](https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:29 |
 | 20 | [Bra](https://open.spotify.com/track/2enxlrBiKpWhiazVAzsJlq) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:59 |
 | 21 | [Turbulent Fellow](https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [IRON ORE II](https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy) | 2:30 |
-| 22 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
-| 23 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
+| 22 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
+| 23 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 24 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
 | 25 | [Power House](https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:30 |
 | 26 | [Aimoye](https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Aimoye](https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf) | 2:14 |
-| 27 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 |
-| 28 | [Major League](https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Major League](https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy) | 2:57 |
+| 27 | [Major League](https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Major League](https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy) | 2:57 |
+| 28 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 |
 | 29 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |
 | 30 | [Gaou la \(feat\. 6uff\)](https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Gaou la \(feat\. 6uff\)](https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp) | 2:27 |
 | 31 | [No Days Off](https://open.spotify.com/track/4Wp5CGnsDETGQBXLrNfEv4) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:20 |

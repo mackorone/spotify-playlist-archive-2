@@ -1,12 +1,12 @@
 {
   "description": "Photo : Theodora",
-  "num_followers": 1152940,
+  "num_followers": 1152851,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQBZt7H53wVCXvy2QASHBaGhPjk",
+  "snapshot_id": "AAAAAB6A0yDzp4iUpEIDBDKTSjBa9XjG",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:42",
@@ -299,22 +299,6 @@
       "duration_ms": 185359,
       "name": "Nous deux",
       "url": "https://open.spotify.com/track/3yXOtAnjSEMjhIVhxmmdIC"
-    },
-    {
-      "added_at": "2026-10-22 22:01:33",
-      "album": {
-        "name": "KITOKO",
-        "url": "https://open.spotify.com/album/6UnaWANlYGNtTm25Fxbhyq"
-      },
-      "artists": [
-        {
-          "name": "Danilo",
-          "url": "https://open.spotify.com/artist/0nztDFQzc7SwCIGZnvDIJ7"
-        }
-      ],
-      "duration_ms": 161397,
-      "name": "KITOKO",
-      "url": "https://open.spotify.com/track/5UDo5qYZzgyhH69Ywt6KhI"
     },
     {
       "added_at": "2026-10-15 22:00:42",

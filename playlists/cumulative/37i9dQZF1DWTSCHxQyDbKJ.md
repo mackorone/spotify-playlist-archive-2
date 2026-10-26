@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Joesef
 
-298 songs - 16 hr 22 min
+299 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 | 2024-06-10 | 2025-03-08 |
 | [Hex So Heavy](https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Hex So Heavy](https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4) | 3:05 | 2024-09-09 | 2026-08-02 |
 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 | 2025-05-29 |  |
+| [HISTORY](https://open.spotify.com/track/7I4IHmxQRONtR34JQF5Pae) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa), [Tiiva](https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF) | [HISTORY](https://open.spotify.com/album/3UXLBqcmeadho9ewOdbwwn) | 2:24 | 2026-10-22 |  |
 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 | 2025-02-14 | 2026-10-05 |
 | [Humanity](https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [STARFACE](https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL) | 3:20 | 2024-12-04 | 2025-01-14 |
 | [Humanity](https://open.spotify.com/track/7IjLwKOvFCNxy59yZ5sVRb) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Humanity](https://open.spotify.com/album/46K0JxHJHa6jRwd0tZGwCo) | 3:20 | 2024-06-10 | 2024-08-20 |
@@ -172,7 +173,7 @@
 | [lalalalala](https://open.spotify.com/track/2thc5F5x0tRomE9bIQT8hd) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [lalalalala](https://open.spotify.com/album/1wpB6e4J6uy6XRgEvrM4OB) | 2:56 | 2026-10-22 |  |
 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-09-09 |  |
 | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 | 2024-09-09 |  |
-| [Let Me In](https://open.spotify.com/track/2UTcMOGxRez2fwpGIoPVhp) | [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Formula OneDa](https://open.spotify.com/album/40v1KTsfP8RwBS1dpfZqTy) | 3:39 | 2026-02-10 |  |
+| [Let Me In](https://open.spotify.com/track/2UTcMOGxRez2fwpGIoPVhp) | [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Formula OneDa](https://open.spotify.com/album/40v1KTsfP8RwBS1dpfZqTy) | 3:39 | 2026-02-10 | 2026-10-26 |
 | [let them know they're on your mind](https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [let them know they're on your mind](https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp) | 3:43 | 2024-06-10 | 2026-02-11 |
 | [Liar \(Re: Romy\)](https://open.spotify.com/track/6eiY2tu7EKFVGf2ZyCD1wy) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Romy](https://open.spotify.com/artist/5Gk7oe06A3tJc0IgIaPcuT) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 4:36 | 2024-06-10 | 2026-02-11 |
 | [Lighter](https://open.spotify.com/track/54nbpgiyNwFh6uG5EfZbqM) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Lighter](https://open.spotify.com/album/5DIKYxgZ1Js1zpjZmL4n6c) | 3:24 | 2026-10-12 |  |

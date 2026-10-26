@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,151 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,155 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 44 | [Poema Sujo](https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Poema Sujo](https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy) | 3:02 |
 | 45 | [Ouvir Você \(Remix\)](https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Ouvir Você \(Remix\)](https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0) | 4:33 |
 | 46 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 |
-| 47 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
-| 48 | [Logo Eu](https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Logo Eu](https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6) | 2:59 |
-| 49 | [Meio Discreto](https://open.spotify.com/track/1VcM9djJwsXkoSL2enR3Kk) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 2:57 |
+| 47 | [Meio Discreto](https://open.spotify.com/track/1VcM9djJwsXkoSL2enR3Kk) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 2:57 |
+| 48 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
+| 49 | [Logo Eu](https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Logo Eu](https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6) | 2:59 |
 | 50 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 51 | [Novehoras](https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu) | [João Loroza](https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [DJ TamY](https://open.spotify.com/artist/78BI41VSButcqEG7ptvi17) | [Novehoras](https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw) | 3:31 |
 | 52 | [Anjo](https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 2:32 |

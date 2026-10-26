@@ -1,12 +1,12 @@
 {
   "description": "pov: minhas favs / Foto: Olivia Rodrigo, Chappel Roan",
-  "num_followers": 1059380,
+  "num_followers": 1059332,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAeyNIjyHOtIgqNa1x67kk5PeLVM",
+  "snapshot_id": "AAAAANkBlW2oThS6eZ41FkYxy+tdCUmd",
   "tracks": [
     {
       "added_at": "2026-10-16 11:30:24",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-10-16 11:30:24",
-      "album": {
         "name": "Mi Chico (Official - Jason Derulo x Melody)",
         "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 125357,
       "name": "Mi Chico - Official - Jason Derulo x Melody",
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
+    },
+    {
+      "added_at": "2026-10-16 11:30:24",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-10-16 11:30:24",

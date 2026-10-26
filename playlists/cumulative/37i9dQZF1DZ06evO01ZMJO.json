@@ -123,6 +123,32 @@
     },
     {
       "album": {
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
+    },
+    {
+      "album": {
         "name": "Break The Rules",
         "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
       },
@@ -932,7 +958,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 150000,
       "name": "KUTMUZIEK",
       "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"

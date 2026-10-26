@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,846 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,844 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Where Would We Be](https://open.spotify.com/track/3fOwL9J2sfldnnKixtXVhX) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be](https://open.spotify.com/album/5WsU4FMPu2LfxwmXxuFbtj) | 3:28 |
 | 50 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
 
-Snapshot ID: `atqjgAAAAADUfceX+D4jMVA+YIAc5y6/`
+Snapshot ID: `atv1AAAAAABDda37Tcv6ANXiGf9Ghqee`

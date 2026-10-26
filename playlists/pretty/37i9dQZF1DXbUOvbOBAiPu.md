@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from LISA, Ino Casablanca, Qlas, La Fève x Theodora  and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,575 likes - 118 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,574 likes - 118 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

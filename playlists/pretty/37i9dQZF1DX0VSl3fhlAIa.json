@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 11011,
+  "num_followers": 11030,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-20 15:37:24",
       "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7"
+      },
+      "artists": [
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
+        }
+      ],
+      "duration_ms": 346426,
+      "name": "I'll be there",
+      "url": "https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd"
+    },
+    {
+      "added_at": "2026-10-20 15:37:24",
+      "album": {
         "name": "two thirty (feat. Jua)",
         "url": "https://open.spotify.com/album/6XZdMscKy5HYIZpuRbJu61"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 158109,
       "name": "two thirty - feat. Jua",
       "url": "https://open.spotify.com/track/6uJysOI5hXQP6WmTs9rjUK"
-    },
-    {
-      "added_at": "2026-10-20 15:37:24",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7"
-      },
-      "artists": [
-        {
-          "name": "Tina",
-          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
-        }
-      ],
-      "duration_ms": 346426,
-      "name": "I'll be there",
-      "url": "https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd"
     },
     {
       "added_at": "2026-10-20 15:37:24",

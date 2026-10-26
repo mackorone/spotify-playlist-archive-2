@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,062 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,064 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 49 | [Delibes: Lakmé, Act 2: Aria delle campanelle\. "Dov'è l'indiana bruna?" \(Lakmé\)](https://open.spotify.com/track/0GZxR9KIOhRoxSuyhIP1t8) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Tullio Serafin](https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Traduttore..\. traditore?](https://open.spotify.com/album/4sjcSuwvOuZWrlOC0T21jJ) | 8:05 |
 | 50 | [Saint\-Saëns: Samson et Dalila, Op\. 47, Act 1: "Printemps qui commence" \(Dalila\)](https://open.spotify.com/track/4m6ytPVequobQIcSBAwuHH) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Georges Prêtre](https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r), [French National Radio Orchestra](https://open.spotify.com/artist/32qnav8uyfq88NUle7CnhZ) | [Callas sings Great Arias from French Operas \- Callas Remastered](https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc) | 5:18 |
 
-Snapshot ID: `atqjgAAAAAAaaVHhtba2Tkkc3rcPot1H`
+Snapshot ID: `atv1AAAAAADOSgq/SrIs3B8WEWoWKar5`

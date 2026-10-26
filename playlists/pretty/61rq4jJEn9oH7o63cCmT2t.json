@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAU2Rk3Fy3epozIuPsWrvDcAM/MX7W",
+  "snapshot_id": "AAAAVdZwRe3xHZS00rUR4iRoakoH20T3",
   "tracks": [
     {
       "added_at": "2022-05-07 03:41:15",
@@ -1191,6 +1191,38 @@
       "duration_ms": 174360,
       "name": "Living Lo-Fi",
       "url": "https://open.spotify.com/track/3YCLqUEnvuOcIv3pRx0AXY"
+    },
+    {
+      "added_at": "2026-10-25 12:23:33",
+      "album": {
+        "name": "Too Much to Ask",
+        "url": "https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "I Feel So Weird!",
+      "url": "https://open.spotify.com/track/77mq1sH79ZrnFz4X9AjQ5s"
+    },
+    {
+      "added_at": "2026-10-25 12:25:27",
+      "album": {
+        "name": "It's Sorted",
+        "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Grad School",
+      "url": "https://open.spotify.com/track/1pACd2ocKROPvoyc0MhFa1"
     }
   ],
   "unique_name": "I Don't Want to Adult This Week",

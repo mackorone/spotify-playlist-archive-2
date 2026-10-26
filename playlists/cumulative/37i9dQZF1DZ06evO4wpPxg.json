@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "Bad Company Brought Me Here",
       "url": "https://open.spotify.com/track/23pc5z695dfH4exrOdpIDp"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 429053,
       "name": "Children of Zion",
       "url": "https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 326493,
       "name": "Civil War Parade",
       "url": "https://open.spotify.com/track/3nV0GzOPB5m2ezF8BeUYLj"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 154253,
       "name": "Darktown Strutters Ball",
       "url": "https://open.spotify.com/track/78HrAH7k0oIe0hBsOi1X4F"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 289134,
       "name": "I Will Do My Last Singing In This Land Somewhere - Live",
       "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 230826,
       "name": "Mornin' Train",
       "url": "https://open.spotify.com/track/7GjgmGyUHn1GiLLGkYKwuO"
@@ -5150,6 +5150,24 @@
       "duration_ms": 256186,
       "name": "St James Infirmary #2",
       "url": "https://open.spotify.com/track/2NUfKkpZYVAquCL2k1H0c8"
+    },
+    {
+      "album": {
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340586,
+      "name": "Steal Away and Pray",
+      "url": "https://open.spotify.com/track/7sXcHlfKfEwPSGDrLmDbfB"
     },
     {
       "album": {
@@ -6616,7 +6634,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 199160,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"

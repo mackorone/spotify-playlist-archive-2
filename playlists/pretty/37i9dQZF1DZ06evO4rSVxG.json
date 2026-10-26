@@ -1,6 +1,6 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15880,
+  "num_followers": 15881,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jason\u2019s Lyric (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1z5rSJMkLJgx2P07vS9VOC"
+        "name": "More than Flowers",
+        "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
       },
       "artists": [
+        {
+          "name": "Iam Astro",
+          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 223906,
-      "name": "Just Like My Papa",
-      "url": "https://open.spotify.com/track/15M2mCwZQWPXACPhyFrRkj"
+      "duration_ms": 187052,
+      "name": "More than Flowers",
+      "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
     },
     {
       "added_at": null,
@@ -595,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "More than Flowers",
-        "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
+        "name": "Jason\u2019s Lyric (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1z5rSJMkLJgx2P07vS9VOC"
       },
       "artists": [
-        {
-          "name": "Iam Astro",
-          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 187052,
-      "name": "More than Flowers",
-      "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
+      "duration_ms": 223906,
+      "name": "Just Like My Papa",
+      "url": "https://open.spotify.com/track/15M2mCwZQWPXACPhyFrRkj"
     },
     {
       "added_at": null,

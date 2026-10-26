@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 10 hr 9 min
+183 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Nice To Meet Ya \- Live From Łódź](https://open.spotify.com/track/06tUtiMJXBPVsZtxUdgahX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: Live On Tour](https://open.spotify.com/album/64JEkvnwjoxGqdrrSVoqVQ) | 4:39 | 2024-10-12 |  |
 | [No Control](https://open.spotify.com/track/4JaLkM90MJutDAl5jD9BZX) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:19 | 2024-03-01 |  |
 | [No Place Like Home](https://open.spotify.com/track/4L5meqHGYtxZnVMtcLvMrE) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:56 | 2024-03-01 |  |
-| [Nothing Lasts Forever](https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Nothing Lasts Forever](https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE) | 2:45 | 2026-09-27 |  |
+| [Nothing Lasts Forever](https://open.spotify.com/track/2y1k0hI8lTDkQHZJDvMK5M) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Levi Did It](https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au) | 2:45 | 2026-10-25 |  |
+| [Nothing Lasts Forever](https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [RØAM](https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC) | [Nothing Lasts Forever](https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE) | 2:45 | 2026-09-27 | 2026-10-26 |
 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 | 2024-03-01 |  |
 | [OFF MY FACE](https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:29 | 2024-03-01 |  |
 | [Older](https://open.spotify.com/track/5qU6s2uoqo04r9eybogpCL) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Older](https://open.spotify.com/album/6xkMPth0a930GPAuHvLWpZ) | 2:49 | 2026-10-18 |  |

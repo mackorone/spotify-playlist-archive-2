@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 43 | [Hannett and Delia synth exchanges track 11](https://open.spotify.com/track/7zI2Db1hwQbfoCcyeiXSS4) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti) | 1:07 |
 | 44 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
 
-Snapshot ID: `atqjgAAAAAAXMxD6K0GM15HLQJIiRaQE`
+Snapshot ID: `atv1AAAAAAB20XkwFsHRtRLtSLJUkacZ`

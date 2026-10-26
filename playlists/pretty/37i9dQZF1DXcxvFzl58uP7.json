@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Ghostly Kisses",
-  "num_followers": 1150523,
+  "num_followers": 1150518,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Hot in NY",
-        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 118787,
-      "name": "Hot in NY",
-      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "Years Roll By",
         "url": "https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "&SCENE",
-        "url": "https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "blue salvia",
-      "url": "https://open.spotify.com/track/5g8C2rOTtUCX5GebDsnYgL"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "be mine",
         "url": "https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL"
       },
@@ -879,22 +863,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Husk",
-        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "Husk",
-      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "Art House",
         "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 177142,
       "name": "Art House",
       "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "&SCENE",
+        "url": "https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "blue salvia",
+      "url": "https://open.spotify.com/track/5g8C2rOTtUCX5GebDsnYgL"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 189514,
       "name": "coogie",
       "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
+        "name": "Deep Divine",
+        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 220767,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/71577VPbqC5hlUpJE5iCrM"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 191095,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/29ucXsuXKkb6IWjuEvkEmz"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
-        "name": "Deep Divine",
-        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 220767,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 245496,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "Cherry Red Balloon",
         "url": "https://open.spotify.com/album/2gEE29RM7xDqWrhFcEio9P"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 157567,
       "name": "Cherry Red Balloon",
       "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 245496,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Technicolour",
-        "url": "https://open.spotify.com/album/5J2IzDKKr8p5A9elzedpqn"
-      },
-      "artists": [
-        {
-          "name": "Jia",
-          "url": "https://open.spotify.com/artist/68heyqN7ygVGuO0DqJjsDf"
-        }
-      ],
-      "duration_ms": 238129,
-      "name": "Hotel Swimming Pool",
-      "url": "https://open.spotify.com/track/5LqcqOHr7Mu8KoLsNTCuYd"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "Superfan",
         "url": "https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 268801,
       "name": "Superfan",
       "url": "https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "Technicolour",
+        "url": "https://open.spotify.com/album/5J2IzDKKr8p5A9elzedpqn"
+      },
+      "artists": [
+        {
+          "name": "Jia",
+          "url": "https://open.spotify.com/artist/68heyqN7ygVGuO0DqJjsDf"
+        }
+      ],
+      "duration_ms": 238129,
+      "name": "Hotel Swimming Pool",
+      "url": "https://open.spotify.com/track/5LqcqOHr7Mu8KoLsNTCuYd"
     },
     {
       "added_at": "2026-10-23 20:48:23",

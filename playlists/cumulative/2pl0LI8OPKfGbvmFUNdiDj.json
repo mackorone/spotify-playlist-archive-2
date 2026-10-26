@@ -8449,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Somewhere In Texas",
+        "url": "https://open.spotify.com/album/7wxDvaNOlrM0vHXUxKwogm"
+      },
+      "artists": [
+        {
+          "name": "The Taproots",
+          "url": "https://open.spotify.com/artist/2DZgNVKc5uxU5dNysNplKm"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207123,
+      "name": "Somewhere In Texas",
+      "url": "https://open.spotify.com/track/1KFYveqqdozgCZqgsIbK0H"
+    },
+    {
+      "album": {
         "name": "Cornbread and Whiskey",
         "url": "https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg"
       },

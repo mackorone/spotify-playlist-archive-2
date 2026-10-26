@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445 likes - 168 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 445 likes - 169 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 55 | [Lemme Know](https://open.spotify.com/track/1u1VcXquBfZfu7dc8PVYVc) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:42 |
 | 56 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
 | 57 | [BULLIES](https://open.spotify.com/track/5Ow3QqHeeA78Q3nSnbUbkL) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 3:14 |
-| 58 | [Sheezus](https://open.spotify.com/track/7ExcclQypkEukgHqC40JNp) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:54 |
-| 59 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
+| 58 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
+| 59 | [Sheezus](https://open.spotify.com/track/7ExcclQypkEukgHqC40JNp) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:54 |
 | 60 | [Lucky Me](https://open.spotify.com/track/6wVnQMRXd1z2iPEo24f9db) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 4:08 |
 | 61 | [MISS ME?](https://open.spotify.com/track/2eRMWLSNBS6yvxNcEbstRJ) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:06 |
 | 62 | [Cruisin' \(feat\. Yeat\)](https://open.spotify.com/track/1CJO1NdPdtnkJBrEx6As65) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:58 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 116 | [Rawks](https://open.spotify.com/track/6PVdjT8BYxFFGiAFDhjNVM) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [What If It Is](https://open.spotify.com/album/0xGl3nw6WV1k2Ysqbn2j01) | 3:52 |
 | 117 | [Blood](https://open.spotify.com/track/3E1q57YmMqnpdcRu9ASuly) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:28 |
 | 118 | [El Pleito](https://open.spotify.com/track/03tGrmMB0dvXPIflRCE8qL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 2:34 |
-| 119 | [Miserable Without Your Love](https://open.spotify.com/track/0BzuQrmm8Ko3ageOau60kX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Special Edition\)](https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX) | 3:23 |
-| 120 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 119 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 120 | [Miserable Without Your Love](https://open.spotify.com/track/0BzuQrmm8Ko3ageOau60kX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Special Edition\)](https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX) | 3:23 |
 | 121 | [Life in a Box](https://open.spotify.com/track/4WTVDq3QSaQYR8C2ry06bd) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [You're a Man Now, Boy \(Deluxe\)](https://open.spotify.com/album/50EXi4hlRIPF7fLQcWCXyp) | 4:22 |
 | 122 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 |
 | 123 | [War Against Love](https://open.spotify.com/track/2hF4sKG55HlGpUIsoNFfLG) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes 2](https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS) | 3:47 |
@@ -173,8 +173,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 163 | [Save Your Soul](https://open.spotify.com/track/7E3fkUiPNGnSGi91ViISV7) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 2:45 |
 | 164 | [Dreams](https://open.spotify.com/track/6wjQqganLZrqmBgqfiH9BX) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 2:19 |
 | 165 | [Keep Counting](https://open.spotify.com/track/60uDyT4PCPfI8nP7SnYPyv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 2:38 |
-| 166 | [Y U Lying](https://open.spotify.com/track/2EsJunQJAPYsems22NWwAV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:17 |
-| 167 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
-| 168 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
+| 166 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 |
+| 167 | [Y U Lying](https://open.spotify.com/track/2EsJunQJAPYsems22NWwAV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:17 |
+| 168 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
+| 169 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `Acf1RgAAAABpi4MZxULASfk08xwzVlkA`
+Snapshot ID: `Acf65gAAAABKB1rPkDaFZY8pk6F1ISya`

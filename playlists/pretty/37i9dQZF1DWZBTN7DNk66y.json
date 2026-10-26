@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29771,
+  "num_followers": 29768,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "BOBO",
-        "url": "https://open.spotify.com/album/1zcbSlABsZt7PrVXr09Ydi"
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
       "artists": [
         {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 194705,
-      "name": "BOBO",
-      "url": "https://open.spotify.com/track/64mT33V9Mfxr1ogdRzQpYj"
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -611,18 +607,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/1zcbSlABsZt7PrVXr09Ydi"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+      "duration_ms": 194705,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/64mT33V9Mfxr1ogdRzQpYj"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Matilda",
         "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 160696,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
-      },
-      "artists": [
-        {
-          "name": "Micaela Basadoni",
-          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
-        },
-        {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
-        }
-      ],
-      "duration_ms": 139952,
-      "name": "Siesta rosa",
-      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Traviarca",
         "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
       },
@@ -1383,6 +1363,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
+      },
+      "artists": [
+        {
+          "name": "Micaela Basadoni",
+          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
+        },
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        }
+      ],
+      "duration_ms": 139952,
+      "name": "Siesta rosa",
+      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "S\u00e1banas Azules",
         "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 177000,
       "name": "S\u00e1banas Azules",
       "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1415,22 +1431,6 @@
       "duration_ms": 299000,
       "name": "Shangril\u00e1",
       "url": "https://open.spotify.com/track/7D9vbNoGjTDBZlqFVnUT5m"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Cortina",
-        "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 191118,
-      "name": "Cortina",
-      "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Cortina",
+        "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 191118,
+      "name": "Cortina",
+      "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
+        "name": "El rey del yuyal",
+        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
       },
       "artists": [
         {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+          "name": "Pens\u00e9 que era viernes",
+          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
         }
       ],
-      "duration_ms": 245968,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
+      "duration_ms": 174857,
+      "name": "El rey del yuyal",
+      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "El rey del yuyal",
-        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
       },
       "artists": [
         {
-          "name": "Pens\u00e9 que era viernes",
-          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
         }
       ],
-      "duration_ms": 174857,
-      "name": "El rey del yuyal",
-      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
+      "duration_ms": 245968,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Empez\u00e1",
         "url": "https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 199429,
       "name": "Empez\u00e1",
       "url": "https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
+      },
+      "artists": [
+        {
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Otras Bocas, Otras Lenguas",
-        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
-      },
-      "artists": [
-        {
-          "name": "Alejo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 285375,
-      "name": "Otras Bocas, Otras Lenguas",
-      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
         "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 264000,
       "name": "SERENATA - En Vivo en Anfitri\u00f3n - TV P\u00fablica",
       "url": "https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Otras Bocas, Otras Lenguas",
+        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
+      },
+      "artists": [
+        {
+          "name": "Alejo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "Otras Bocas, Otras Lenguas",
+      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "VIEJO LOCO",
-        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Tor",
-          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
-        }
-      ],
-      "duration_ms": 174144,
-      "name": "TE DE TILO",
-      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "D\u00eda tras d\u00eda",
         "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
       },
@@ -1883,18 +1867,38 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "FR\u00c1GIL",
-        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
+        "name": "VIEJO LOCO",
+        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
       },
       "artists": [
         {
-          "name": "Juan Cottet",
-          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
+          "name": "Juli\u00e1n Tor",
+          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
         }
       ],
-      "duration_ms": 209482,
-      "name": "Frascuelo",
-      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
+      "duration_ms": 174144,
+      "name": "TE DE TILO",
+      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/1zKHdPX9wNsGranXOknj4a"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ezquiaga",
+          "url": "https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 191245,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/4yqC8seNrokRL0vkYy43ow"
     }
   ],
   "unique_name": "Voces del Sur",

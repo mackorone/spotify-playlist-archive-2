@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Dear Joanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,011 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,008 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 20 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
 | 21 | [Vámonos de aquí](https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Indiara Sfair](https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh) | [Vámonos de aquí](https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt) | 2:32 |
 | 22 | [LA LUZ QUE NO SE APAGA](https://open.spotify.com/track/1a0ub8scX8B2lRiVUocBpQ) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [LA LUZ QUE NO SE APAGA](https://open.spotify.com/album/5q2QkhiEkL0dVpjOxyLbtJ) | 3:14 |
-| 23 | [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 |
-| 24 | [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 |
+| 23 | [Pendiente De Mí](https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pendiente De Mí](https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK) | 4:02 |
+| 24 | [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 |
 | 25 | [Romántico](https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Romántico](https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT) | 2:50 |
 | 26 | [PARA QUÉ](https://open.spotify.com/track/1Yu0uAHAsHnYXMKtoY9rQV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [PARA QUÉ](https://open.spotify.com/album/5MhOQMyrw34fVfYaTncudp) | 2:41 |
 | 27 | [Los rumores eran ciertos](https://open.spotify.com/track/2znmQg6PhbUBgvlUASFAyY) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Los rumores eran ciertos](https://open.spotify.com/album/1UzLV5aqowdADpEGM99AkU) | 2:43 |

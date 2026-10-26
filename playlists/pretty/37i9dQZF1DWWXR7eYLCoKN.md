@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,255 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,266 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 3 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 |
 | 4 | [Meu Lugar](https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 4:52 |
 | 5 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
-| 6 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
-| 7 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Voz Do Samba](https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4) | 4:26 |
+| 6 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Voz Do Samba](https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4) | 4:26 |
+| 7 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
 | 8 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
 | 9 | [Tiro Ao Álvaro](https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Vento De Maio](https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8) | 2:44 |
 | 10 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
-| 11 | [Saudosa Maloca](https://open.spotify.com/track/2lWmqGC70SKMebW1HgPGkA) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Adoniran Barbosa](https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4) | 2:23 |
-| 12 | [Sufoco](https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alerta Geral](https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra) | 4:05 |
+| 11 | [Sufoco](https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alerta Geral](https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra) | 4:05 |
+| 12 | [Saudosa Maloca](https://open.spotify.com/track/2lWmqGC70SKMebW1HgPGkA) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Adoniran Barbosa](https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4) | 2:23 |
 | 13 | [Deixa pra Lá](https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3) | [Bossacucanova](https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW), [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Nossa Onda É Essa!](https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74) | 3:46 |
 | 14 | [Tô Voltando](https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Pedaços](https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj) | 3:58 |
 | 15 | [Conto De Areia](https://open.spotify.com/track/3dEfGt5Ml97FQBeHngn4YA) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Alvorecer](https://open.spotify.com/album/0qUIkMMgwIfJGNazMU8Ux4) | 3:42 |

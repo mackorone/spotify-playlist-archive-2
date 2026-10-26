@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,977 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,981 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 21 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 |
 | 22 | [Special Day](https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS) | 3:18 |
 | 23 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
-| 24 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
-| 25 | [Love Smile](https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu) | [YUNAH](https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2), [MINJU](https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO) | [Love Smile \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe) | 2:49 |
+| 24 | [Love Smile](https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu) | [YUNAH](https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2), [MINJU](https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO) | [Love Smile \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe) | 2:49 |
+| 25 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
 | 26 | [45.7cm \(feat.OOHYO\)](https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [WOOHYO](https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9) | [Pit a Pat](https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4) | 3:32 |
 | 27 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
 | 28 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 46 | [Would You Hold My Hand?](https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Would You Hold My Hand?](https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd) | 2:46 |
 | 47 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
 | 48 | [hamster wheel](https://open.spotify.com/track/0YAGYWY8I7Fa5P4ezujroO) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [hamster wheel](https://open.spotify.com/album/6eDBJswzAS09PHpKovcLGJ) | 2:49 |
-| 49 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
-| 50 | [Fall In Love](https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Fall In Love](https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90) | 3:22 |
+| 49 | [Fall In Love](https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Fall In Love](https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90) | 3:22 |
+| 50 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 
 Snapshot ID: `AAAAAPne7qU77dEVKxcvhVdeaFXY1oXW`

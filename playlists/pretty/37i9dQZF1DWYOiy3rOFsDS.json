@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Valdo Rodr\u00edguez y Wuicho Kun en portada.",
-  "num_followers": 535357,
+  "num_followers": 535278,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,42 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Piensa en M\u00ed (with Vicentico)",
+      "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Mis Romances",
+        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 206173,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Nombre y Apellido",
         "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
       },
@@ -367,42 +403,6 @@
       "duration_ms": 271208,
       "name": "Nombre y Apellido",
       "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Mis Romances",
-        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Piensa en M\u00ed (with Vicentico)",
-      "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183033,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/1w49nmizmQFX1XvH1O35i8"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 208555,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2pTis5JV0JjZsAyLtUvPma"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Aprend\u00ed",
-        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183033,
-      "name": "Aprend\u00ed",
-      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Tu Aprendiz",
-        "url": "https://open.spotify.com/album/3IbsSb1NMSRUlkBMPrYq0L"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Tu Aprendiz",
-      "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 272213,
       "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
       "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Tu Aprendiz",
+        "url": "https://open.spotify.com/album/3IbsSb1NMSRUlkBMPrYq0L"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Tu Aprendiz",
+      "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 201401,
-      "name": "La Voz",
-      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
       },
       "artists": [
         {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+      "duration_ms": 201401,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Sabor A Llanto",
         "url": "https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 202200,
       "name": "Mi Alma Llorar\u00e1",
       "url": "https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1175,22 +1191,6 @@
       "duration_ms": 247790,
       "name": "SER AMIGOS (olvida)",
       "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Maria Bonita",
         "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
       },
       "artists": [
         {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 164798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "La Apuesta",
         "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
       },
@@ -1479,6 +1479,42 @@
       "duration_ms": 173250,
       "name": "La Apuesta",
       "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "L\u00e1grimas Negras",
+        "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        },
+        {
+          "name": "Reynier Limonta",
+          "url": "https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy"
+        }
+      ],
+      "duration_ms": 318893,
+      "name": "L\u00e1grimas Negras",
+      "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+      },
+      "artists": [
+        {
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1519,42 +1555,6 @@
       "duration_ms": 177000,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
-      },
-      "artists": [
-        {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "L\u00e1grimas Negras",
-        "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        },
-        {
-          "name": "Reynier Limonta",
-          "url": "https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy"
-        }
-      ],
-      "duration_ms": 318893,
-      "name": "L\u00e1grimas Negras",
-      "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cuervos",
-        "url": "https://open.spotify.com/album/49skjf3CjwWrZK7NjdiG7K"
-      },
-      "artists": [
-        {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
-        }
-      ],
-      "duration_ms": 249790,
-      "name": "Cuervos",
-      "url": "https://open.spotify.com/track/3xIDI8AEo4Ll8NHwCGC6XB"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1643,6 +1627,38 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Cuervos",
+        "url": "https://open.spotify.com/album/49skjf3CjwWrZK7NjdiG7K"
+      },
+      "artists": [
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "duration_ms": 249790,
+      "name": "Cuervos",
+      "url": "https://open.spotify.com/track/3xIDI8AEo4Ll8NHwCGC6XB"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1679,22 +1695,6 @@
       "duration_ms": 189346,
       "name": "Caso Cerrado",
       "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
     },
     {
       "added_at": "2026-10-02 06:00:21",

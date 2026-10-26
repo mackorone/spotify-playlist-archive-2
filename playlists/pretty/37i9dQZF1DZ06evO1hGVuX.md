@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 27 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 305 likes - 27 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 4 | [Fallen Angel](https://open.spotify.com/track/4QOiPaaNTDXqk4SAVWGFDV) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:00 |
 | 5 | [\- \- \-](https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:15 |
 | 6 | [It's a Rainy Day On The Cosmic Shore](https://open.spotify.com/track/1j5rkmHiuDWtEK513AORvL) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/5N6kyq6w51apGqPwgC09I2) | 5:20 |
-| 7 | [Keepsake](https://open.spotify.com/track/1O1Qmb9eZYK6lAU9EWpTpQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 4:38 |
+| 7 | [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 |
 | 8 | [Clear](https://open.spotify.com/track/4avwTdJWkAQIX2ZpK4n75k) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:04 |
 | 9 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
 | 10 | [I'm Every Sparkly Woman](https://open.spotify.com/track/6XvIqIXGNsN3LQMWVAkAbB) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/5N6kyq6w51apGqPwgC09I2) | 2:23 |
-| 11 | [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 |
+| 11 | [Keepsake](https://open.spotify.com/track/1O1Qmb9eZYK6lAU9EWpTpQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 4:38 |
 | 12 | [Wicked Game](https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Wicked Game](https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu) | 4:22 |
 | 13 | [A Study in Vastness](https://open.spotify.com/track/2efXjd2d8PRQPFkoiPwwyS) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 6:50 |
 | 14 | [Nocturne](https://open.spotify.com/track/2GiOjw02ZleuAGLXKmg2fS) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/5N6kyq6w51apGqPwgC09I2) | 5:36 |

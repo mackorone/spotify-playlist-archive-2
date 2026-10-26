@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 233803,
+  "num_followers": 233828,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAABeSaVojktKTpCHJT6noOJ4",
+  "snapshot_id": "atv1AAAAAAD3SCcAP1bkEYy46tJOGkRk",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213028,
-      "name": "Gave It All I Got",
-      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 198109,
       "name": "Patty Cake",
       "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 213028,
+      "name": "Gave It All I Got",
+      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistolz & Pearlz",
-        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 305618,
-      "name": "No Love For A Thug",
-      "url": "https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 214781,
       "name": "Coolin and Booted",
       "url": "https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 305618,
+      "name": "No Love For A Thug",
+      "url": "https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 215954,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 168312,
       "name": "Day for Day",
       "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 215954,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
     },
     {
       "added_at": null,

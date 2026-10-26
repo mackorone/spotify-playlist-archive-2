@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 10807,
+  "num_followers": 10821,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Yaw Burger",
-        "url": "https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq"
-      },
-      "artists": [
-        {
-          "name": "George Jahraa",
-          "url": "https://open.spotify.com/artist/5sxAvf3rRFLHabyhuvKl7T"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Ashikele",
-      "url": "https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "ABC Of Love",
         "url": "https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 337773,
       "name": "ABC",
       "url": "https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Yaw Burger",
+        "url": "https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq"
+      },
+      "artists": [
+        {
+          "name": "George Jahraa",
+          "url": "https://open.spotify.com/artist/5sxAvf3rRFLHabyhuvKl7T"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Ashikele",
+      "url": "https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -976,9 +960,25 @@
           "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
         }
       ],
-      "duration_ms": 338720,
-      "name": "Rakia",
-      "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"
+      "duration_ms": 357346,
+      "name": "Odo nwom",
+      "url": "https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
         }
       ],
-      "duration_ms": 351346,
-      "name": "Wodo Enda",
-      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
+      "duration_ms": 322481,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Dompe",
-        "url": "https://open.spotify.com/album/3IjgTD6lXJ2hSmHePnDYZ5"
-      },
-      "artists": [
-        {
-          "name": "Adane Best",
-          "url": "https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn"
-        }
-      ],
-      "duration_ms": 345887,
-      "name": "Zamunyamunya Mu",
-      "url": "https://open.spotify.com/track/4pMXc5qYuBOEIUWpAMUOdo"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -1064,9 +1048,25 @@
           "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
         }
       ],
-      "duration_ms": 357346,
-      "name": "Odo nwom",
-      "url": "https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB"
+      "duration_ms": 338720,
+      "name": "Rakia",
+      "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Dompe",
+        "url": "https://open.spotify.com/album/3IjgTD6lXJ2hSmHePnDYZ5"
+      },
+      "artists": [
+        {
+          "name": "Adane Best",
+          "url": "https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn"
+        }
+      ],
+      "duration_ms": 345887,
+      "name": "Zamunyamunya Mu",
+      "url": "https://open.spotify.com/track/4pMXc5qYuBOEIUWpAMUOdo"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
         }
       ],
-      "duration_ms": 322481,
-      "name": "Still I Love You",
-      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
+      "duration_ms": 351346,
+      "name": "Wodo Enda",
+      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Osobro Kyee: The Greatest Mix of Dr. Paa Bobo",
-        "url": "https://open.spotify.com/album/4aPJjX5wc5UWe960uokVCw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Paa Bobo",
-          "url": "https://open.spotify.com/artist/1yofXmMXChlG0r3oNsqZx6"
-        }
-      ],
-      "duration_ms": 457640,
-      "name": "Osobro Kyee",
-      "url": "https://open.spotify.com/track/5TP7GHvqG0XU9oMXrOZw20"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Rakia",
         "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 306906,
       "name": "Atweetan",
       "url": "https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Osobro Kyee: The Greatest Mix of Dr. Paa Bobo",
+        "url": "https://open.spotify.com/album/4aPJjX5wc5UWe960uokVCw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Paa Bobo",
+          "url": "https://open.spotify.com/artist/1yofXmMXChlG0r3oNsqZx6"
+        }
+      ],
+      "duration_ms": 457640,
+      "name": "Osobro Kyee",
+      "url": "https://open.spotify.com/track/5TP7GHvqG0XU9oMXrOZw20"
     },
     {
       "added_at": "2026-02-20 08:28:52",

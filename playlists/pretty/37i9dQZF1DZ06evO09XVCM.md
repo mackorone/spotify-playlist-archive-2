@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,484 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,482 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [I Get Up \(feat\. Cedella Marley\)](https://open.spotify.com/track/6SEimrKNMh0ep0of8X34St) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:38 |
 | 50 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Toots Hibbert](https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:18 |
 
-Snapshot ID: `atqjgAAAAADbyO0vRC/KS3Yhf0jYuYrT`
+Snapshot ID: `atv1AAAAAACwbpymaEm1W4RKkd+woU8r`

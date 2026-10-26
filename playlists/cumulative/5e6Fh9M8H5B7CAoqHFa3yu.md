@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,721 songs - 6 day 14 hr 33 min
+2,722 songs - 6 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2320,6 +2320,7 @@
 | [the hurt](https://open.spotify.com/track/6F2GU9SM1JQ3uBejjIb5OF) | [Yero](https://open.spotify.com/artist/0fg9iwioD0AdBPMfaR613d) | [the hurt](https://open.spotify.com/album/2SUyhNm27ecW9aCgzoLnNp) | 1:55 | 2025-09-11 |  |
 | [The Kickin' Mule](https://open.spotify.com/track/6kf2DGMDx3DIeiVrPJR2An) | [Sleep Donaji.](https://open.spotify.com/artist/6bkErFgyIFCbAhSLdcKuPS) | [Leland](https://open.spotify.com/album/7LmarOqyFT5AhMYo8IQgzj) | 4:09 | 2025-06-05 |  |
 | [The Kindling Starts it All](https://open.spotify.com/track/5whyJ4wKqDjaQmxx3mg1QI) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 3:30 | 2026-01-05 |  |
+| [The Last Spark](https://open.spotify.com/track/5QCLcyF4VDCj0O2JzMK1Ji) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Pada Akhirnya](https://open.spotify.com/album/4K6BgEtFRGjqQqultRC6Qb) | 2:54 | 2026-10-25 |  |
 | [The Library](https://open.spotify.com/track/4uCWphfePonUJLKgYaYKMn) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 2](https://open.spotify.com/album/0tOrDAjykvsIiqMzQiaM22) | 3:51 | 2025-07-27 |  |
 | [The Machine](https://open.spotify.com/track/3MC6OOjEQtYqvWSjbwJS51) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [The Machine](https://open.spotify.com/album/33W5jxMfOpoU5wVnabJc88) | 4:20 | 2024-06-16 |  |
 | [The Man of Many Faces](https://open.spotify.com/track/6tgY6AA1lmQbIS4N0KYaB1) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Man of Many Faces](https://open.spotify.com/album/3sfrbRSz5BBuWSVY2c3oZ0) | 3:03 | 2026-02-10 |  |

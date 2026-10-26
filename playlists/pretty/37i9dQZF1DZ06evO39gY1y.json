@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 262814,
+  "num_followers": 262855,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAAfhrR3BEbYT7Zrpwpjczxq",
+  "snapshot_id": "atv1AAAAAADxFdbOGgPjygN0qEeilKn3",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 313500,
+      "name": "D\u00e9jame en Paz",
+      "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Compas",
         "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 262269,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/4I9MoG4cjf4TsStLNiqSmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 313500,
-      "name": "D\u00e9jame en Paz",
-      "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 277714,
-      "name": "D\u00eda de Suerte",
-      "url": "https://open.spotify.com/track/5fKE6fY8iByvEyOHEnsYAl"
+      "duration_ms": 243711,
+      "name": "Burbuja de Amor",
+      "url": "https://open.spotify.com/track/1SrihVjSmP9pvBheOR9grI"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 243711,
-      "name": "Burbuja de Amor",
-      "url": "https://open.spotify.com/track/1SrihVjSmP9pvBheOR9grI"
+      "duration_ms": 277714,
+      "name": "D\u00eda de Suerte",
+      "url": "https://open.spotify.com/track/5fKE6fY8iByvEyOHEnsYAl"
     },
     {
       "added_at": null,
@@ -1103,30 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "400 Estrellas",
-        "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 223875,
-      "name": "400 Estrellas",
-      "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
@@ -1151,8 +1127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendita Vida",
-        "url": "https://open.spotify.com/album/0LKCTISwaQ1uwXfD1AIgkP"
+        "name": "400 Estrellas",
+        "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
       "artists": [
         {
@@ -1160,17 +1136,41 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
         },
         {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Bendita Vida",
-      "url": "https://open.spotify.com/track/7f9vfmovJ8L8zHgFkWGzt8"
+      "duration_ms": 223875,
+      "name": "400 Estrellas",
+      "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00daltimo Tango",
+        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 250382,
+      "name": "El \u00daltimo Tango",
+      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
     }
   ],
   "unique_name": "This Is Charles Ans",

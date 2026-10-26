@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31597,
+  "num_followers": 31602,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAACcv0oR7qf0n8HtPB33aC5R",
+  "snapshot_id": "atv1AAAAAABva/I3f4a65N1Rq+c+mXPB",
   "tracks": [
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Three Hundred Pounds Of Joy",
-      "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
+      "duration_ms": 186733,
+      "name": "Three Hundred Pounds Of Joy",
+      "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Best, Vol.2",
-        "url": "https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb"
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
       },
       "artists": [
         {
@@ -620,25 +636,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 174666,
-      "name": "New Crawlin' King Snake - Single Version",
-      "url": "https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Can't Stay Here",
-      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
+        "name": "His Best, Vol.2",
+        "url": "https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
+      "duration_ms": 174666,
+      "name": "New Crawlin' King Snake - Single Version",
+      "url": "https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX"
     },
     {
       "added_at": null,

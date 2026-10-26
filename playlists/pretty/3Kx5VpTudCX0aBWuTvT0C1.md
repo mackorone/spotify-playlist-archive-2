@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,306 likes - 103 songs - 6 hr 13 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,311 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 101 | [Ill Prepared](https://open.spotify.com/track/0jSvYQyCBmtVcXb8uSUGvm) | [Aquarius Blue](https://open.spotify.com/artist/1wDJPxelLABSCLlS39l5Y0) | [Black & Blue 4u](https://open.spotify.com/album/6kEDZDoPcsW1oAL5sK5UzT) | 3:54 |
 | 102 | [Who whatever](https://open.spotify.com/track/4cA8Ezw2mxVgYI4hi0ml0G) | [maryann connolly](https://open.spotify.com/artist/1Kfx404oSvrK7zHM8m68Tq) | [Who whatever](https://open.spotify.com/album/0PdZuDVoUbsZ6Z126mvdnp) | 3:09 |
 | 103 | [Analog Soul](https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Analog Soul](https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK) | 3:13 |
+| 104 | [Mask](https://open.spotify.com/track/0T0W7REraxmyOy98PjPOXv) | [Gemma Schito](https://open.spotify.com/artist/5azfm1NUGsCpZS6PeVhISA) | [Mask](https://open.spotify.com/album/3cXQCj7PZk1eb4YZkkIVFR) | 3:00 |
 
-Snapshot ID: `AAAC2xTpYDeS5eQQObBKsvJkXwRYDugf`
+Snapshot ID: `AAAC3GSDTbv1COlPSqAwPplqvOHUO9jf`

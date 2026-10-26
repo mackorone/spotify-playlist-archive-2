@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 126086,
+  "num_followers": 126094,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Power - Acoustic",
+      "url": "https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
@@ -1263,18 +1279,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Meditations",
-        "url": "https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk"
+        "name": "Hope Builds (Live)",
+        "url": "https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD"
       },
       "artists": [
         {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Jess Steer",
+          "url": "https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4"
         }
       ],
-      "duration_ms": 198058,
-      "name": "Power - Acoustic",
-      "url": "https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb"
+      "duration_ms": 343592,
+      "name": "Hope Builds - Live",
+      "url": "https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1295,26 +1315,6 @@
       "duration_ms": 295882,
       "name": "Makes My Day",
       "url": "https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Hope Builds (Live)",
-        "url": "https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Jess Steer",
-          "url": "https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4"
-        }
-      ],
-      "duration_ms": 343592,
-      "name": "Hope Builds - Live",
-      "url": "https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE"
     },
     {
       "added_at": "2026-07-29 15:45:01",

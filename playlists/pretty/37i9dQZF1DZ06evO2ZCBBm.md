@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,858 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,855 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 49 | [Born to Quit](https://open.spotify.com/track/35GqUDMKUtbuNyh0YQDmtV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:33 |
 | 50 | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA) | [NEED](https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN) | 2:28 |
 
-Snapshot ID: `atqjgAAAAAChW/j236u/R/VlnDiPpgpb`
+Snapshot ID: `atv1AAAAAABRuErk6tF9z9u84g078UoC`

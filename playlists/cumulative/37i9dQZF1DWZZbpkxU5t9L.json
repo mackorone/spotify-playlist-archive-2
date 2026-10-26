@@ -13555,6 +13555,40 @@
     },
     {
       "album": {
+        "name": "RAPSTAR 2026 SELECTION CYPHER",
+        "url": "https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ"
+      },
+      "artists": [
+        {
+          "name": "BabyNyca",
+          "url": "https://open.spotify.com/artist/5W803C69kmkFBpVLXkWRap"
+        },
+        {
+          "name": "jellyy",
+          "url": "https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt"
+        },
+        {
+          "name": "Joe Cupertino",
+          "url": "https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe"
+        },
+        {
+          "name": "Nust B",
+          "url": "https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5"
+        },
+        {
+          "name": "Almond_Eye",
+          "url": "https://open.spotify.com/artist/5kCr5QAbsKB84QfRBhAgIp"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "Cypher A 2026",
+      "url": "https://open.spotify.com/track/2wkgWtZ46V0FjMMxUR1K0o"
+    },
+    {
+      "album": {
         "name": "THE BEST 2020 - 2025",
         "url": "https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp"
       },

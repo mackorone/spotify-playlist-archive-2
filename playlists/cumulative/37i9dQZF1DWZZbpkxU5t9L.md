@@ -4,7 +4,7 @@
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Olivia Rodrigo, Chappell Roan
 
-5,617 songs - 13 day 18 hr 14 min
+5,618 songs - 13 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Curtain Call \(feat\. KEIJU, Ryohu & IO\)](https://open.spotify.com/track/53bGUdj88QxmpuFnjc3YUx) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Curtain Call \(feat\. KEIJU, Ryohu & IO\)](https://open.spotify.com/album/6RAISYWCOPi2y7E3EMYNWP) | 3:42 | 2023-03-10 | 2023-03-18 |
 | [Cut the Bridge](https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:48 | 2024-11-22 | 2024-11-30 |
 | [CYM](https://open.spotify.com/track/1YkmFVXNwCsLkKRvSiYmkq) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/65mSxA3nkN5r3iOTSYooWO) | 4:09 | 2025-03-28 | 2025-05-17 |
+| [Cypher A 2026](https://open.spotify.com/track/2wkgWtZ46V0FjMMxUR1K0o) | [BabyNyca](https://open.spotify.com/artist/5W803C69kmkFBpVLXkWRap), [jellyy](https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt), [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe), [Nust B](https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5), [Almond\_Eye](https://open.spotify.com/artist/5kCr5QAbsKB84QfRBhAgIp) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 6:15 | 2026-10-25 |  |
 | [D.D.](https://open.spotify.com/track/1aUuEO2zNz6HQfoeXwV5c0) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 4:37 | 2025-04-11 | 2025-04-26 |
 | [D.U.N.K.](https://open.spotify.com/track/2BfdSKHBrKLwwOe9bp8q5z) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [D.U.N.K.](https://open.spotify.com/album/4Bhrbt1F8fbtn1DiFBpn5q) | 3:37 | 2023-02-03 | 2023-02-18 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-19 | 2026-09-19 |

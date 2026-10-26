@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: LAILA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,564 likes - 273 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,531 likes - 273 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

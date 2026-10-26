@@ -2351,6 +2351,28 @@
     },
     {
       "album": {
+        "name": "HISTORY",
+        "url": "https://open.spotify.com/album/3UXLBqcmeadho9ewOdbwwn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Di Giovanni",
+          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+        },
+        {
+          "name": "Tiiva",
+          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "HISTORY",
+      "url": "https://open.spotify.com/track/7I4IHmxQRONtR34JQF5Pae"
+    },
+    {
+      "album": {
         "name": "Hot and Stupid",
         "url": "https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW"
       },
@@ -3112,7 +3134,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 219782,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/2UTcMOGxRez2fwpGIoPVhp"

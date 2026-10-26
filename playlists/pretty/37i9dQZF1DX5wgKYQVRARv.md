@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Progressive Metal\. Cover: Enslaved
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,251 likes - 150 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,255 likes - 150 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 70 | [A Broken Man](https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A Broken Man](https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq) | 8:29 |
 | 71 | [The Stargate \[Tablet I\]](https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [The Stargate](https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP) | 8:20 |
 | 72 | [Vitrun](https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Múr](https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU) | 9:37 |
-| 73 | [Rick Ranch](https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Rick Ranch](https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2) | 3:48 |
-| 74 | [Hug My Death](https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu) | [Hand of Juno](https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj) | [Psychotic Banana](https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw) | 3:49 |
+| 73 | [Hug My Death](https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu) | [Hand of Juno](https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj) | [Psychotic Banana](https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw) | 3:49 |
+| 74 | [Rick Ranch](https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Rick Ranch](https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2) | 3:48 |
 | 75 | [Clawing out](https://open.spotify.com/track/2vDnLjOWF85p72c1t40oe5) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Clawing out](https://open.spotify.com/album/2kyqjgvv8NNFF8ulOY0sYW) | 3:41 |
-| 76 | [Ophelia \- feat\. SHAOLIN G](https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Ophelia \(feat\. SHAOLIN G\)](https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc) | 4:48 |
-| 77 | [A World Without Heroes](https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [A World Without Heroes](https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4) | 2:46 |
+| 76 | [A World Without Heroes](https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [A World Without Heroes](https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4) | 2:46 |
+| 77 | [Ophelia \- feat\. SHAOLIN G](https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Ophelia \(feat\. SHAOLIN G\)](https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc) | 4:48 |
 | 78 | [A Lesser King](https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP) | [Words Of Farewell](https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO) | [Stories to Forget](https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY) | 4:41 |
 | 79 | [Heathen](https://open.spotify.com/track/2CLuyyy4gpFNqgonHsDg8C) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Ether Metal](https://open.spotify.com/album/1aCMDGPNGjPR1LkxYu7wSO) | 4:07 |
 | 80 | [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 97 | [PowerNerd](https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd](https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY) | 3:28 |
 | 98 | [Winds of Time](https://open.spotify.com/track/7piaXNn95jDeesxcdLca7E) | [Wings of Steel](https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T) | [Winds of Time](https://open.spotify.com/album/5fR2dtNeHgvBVawwNz1c0N) | 10:40 |
 | 99 | [Phantom Void](https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [The Phantom Void](https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E) | 7:53 |
-| 100 | [Skinwalker](https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo) | [Artificial Language](https://open.spotify.com/artist/10Mmz2UngxRjkZmz0a1H32) | [Skinwalker](https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f) | 4:40 |
-| 101 | [The Portal](https://open.spotify.com/track/6ZuM7o6mvG0BQvwrpY75Cg) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Through The Hourglass](https://open.spotify.com/album/6pkmDDMEz21BQY74lll71l) | 6:35 |
+| 100 | [The Portal](https://open.spotify.com/track/6ZuM7o6mvG0BQvwrpY75Cg) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Through The Hourglass](https://open.spotify.com/album/6pkmDDMEz21BQY74lll71l) | 6:35 |
+| 101 | [Skinwalker](https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo) | [Artificial Language](https://open.spotify.com/artist/10Mmz2UngxRjkZmz0a1H32) | [Skinwalker](https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f) | 4:40 |
 | 102 | [+ ? regnet, the ? + \- instrumentaal](https://open.spotify.com/track/2GAOWwCjEncxfvrHBFm1bw) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ där skogen sjunger under evighetens granar + \(instrumentaal\)](https://open.spotify.com/album/62Q8NsEi1gxJrd1ZRwRAkM) | 3:30 |
 | 103 | [Castle In The Sky](https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Castle In The Sky](https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl) | 5:04 |
 | 104 | [Causality's Grip](https://open.spotify.com/track/4LAnkpI6JW7bB4hRwMYF3y) | [Fractal Universe](https://open.spotify.com/artist/4xP1ALrFSYLVCUiRA0xzMy) | [The Great Filters](https://open.spotify.com/album/6DI4rXauRX4BzzPAnKo8Nu) | 3:35 |

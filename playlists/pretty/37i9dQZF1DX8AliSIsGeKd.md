@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Sylvie Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,661 likes - 90 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,728 likes - 90 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

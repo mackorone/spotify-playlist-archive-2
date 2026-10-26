@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/6LchyI3DOmqz4oyUMGuv1v"
@@ -15550,7 +15550,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 204827,
       "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
       "url": "https://open.spotify.com/track/6JK4DeLPHmdpwP8uuKeu4r"
@@ -17976,7 +17976,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -19024,7 +19024,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 187280,
       "name": "FIRESTARTER",
       "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
@@ -28050,7 +28050,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 188861,
       "name": "kawa i papierosy",
       "url": "https://open.spotify.com/track/3KrzdqVHQIR0bvq0yLi9AX"
@@ -30095,6 +30095,24 @@
     },
     {
       "album": {
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+      },
+      "artists": [
+        {
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
+    },
+    {
+      "album": {
         "name": "REKLAMACJA'47",
         "url": "https://open.spotify.com/album/5EA3ZymI8Vh9bv8DwUogNL"
       },
@@ -30298,7 +30316,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 154285,
       "name": "Kto ile jest wart",
       "url": "https://open.spotify.com/track/3NKQYiu4UQpCd45N85B1ds"
@@ -38104,7 +38122,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 244948,
       "name": "Na Szczycie",
       "url": "https://open.spotify.com/track/7aQViYYpIkpJwyCHPysCo4"
@@ -66706,7 +66724,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 266840,
       "name": "ZAKOCHA\u0141EM SI\u0118 POD APTEK\u0104",
       "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
@@ -66724,7 +66742,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 270120,
       "name": "Zamki na piasku",
       "url": "https://open.spotify.com/track/4F5zFaOhAVkf7sywxrdt8o"

@@ -5961,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "Verso de amor",
+        "url": "https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149026,
+      "name": "De ti",
+      "url": "https://open.spotify.com/track/0G3RpCIyrivV1Iwslpd4sr"
+    },
+    {
+      "album": {
         "name": "11 songs",
         "url": "https://open.spotify.com/album/1uka3AOh5UDbFWQiUvYpum"
       },

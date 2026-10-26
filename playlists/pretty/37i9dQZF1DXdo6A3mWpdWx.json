@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1495953,
+  "num_followers": 1496326,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "The Bad Touch",
-      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Very Necessary",
-        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Shoop",
-      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
         "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 240866,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Another Night",
-        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
-      },
-      "artists": [
-        {
-          "name": "Real McCoy",
-          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
+      },
+      "artists": [
+        {
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hey Mr. D.J.",
-      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 240706,
       "name": "Who Do You Think You Are",
       "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hey Mr. D.J.",
+      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "We've Got It Goin' On - Radio Edit",
-      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "We've Got It Goin' On - Radio Edit",
+      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
       },
       "artists": [
         {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
         }
       ],
-      "duration_ms": 293106,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
+      "duration_ms": 337093,
+      "name": "Get Up (Before The Night Is Over)",
+      "url": "https://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2239,18 +2239,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
       "artists": [
         {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
         }
       ],
-      "duration_ms": 337093,
-      "name": "Get Up (Before The Night Is Over)",
-      "url": "https://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY"
+      "duration_ms": 293106,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
     },
     {
       "added_at": "2024-07-12 16:20:49",

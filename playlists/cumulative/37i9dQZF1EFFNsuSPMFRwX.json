@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "American Reject",
+        "url": "https://open.spotify.com/album/0tXpXRy8Zems3BQMoDh8mf"
+      },
+      "artists": [
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137079,
+      "name": "American Reject",
+      "url": "https://open.spotify.com/track/4pmKjbBezddEs2Ctw3G2F6"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL"
       },

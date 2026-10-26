@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 43680,
+  "num_followers": 43681,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 238560,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+      "duration_ms": 238560,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 191146,
       "name": "Here (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Kindness, A Rebel",
-        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 195126,
-      "name": "Motel 6",
-      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Kindness, A Rebel",
+        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 195126,
+      "name": "Motel 6",
+      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Oneida",
-        "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 278213,
-      "name": "Oneida",
-      "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Shine On Rainy Day",
         "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 270413,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Oneida",
+        "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 278213,
+      "name": "Oneida",
+      "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "The Frost",
-      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 215744,
       "name": "$10 Cowboy",
       "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "The Frost",
+      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Goodbye California",
-        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
-      },
-      "artists": [
-        {
-          "name": "Rose Betts",
-          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
-        }
-      ],
-      "duration_ms": 163010,
-      "name": "Goodbye California",
-      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 211124,
       "name": "Drivin",
       "url": "https://open.spotify.com/track/1pFonXiErvubBcA4VQtFUF"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Goodbye California",
+        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "duration_ms": 163010,
+      "name": "Goodbye California",
+      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "White River",
         "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 213888,
       "name": "White River",
       "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2026-06-05 20:49:32",

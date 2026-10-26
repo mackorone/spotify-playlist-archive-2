@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 155356,
+  "num_followers": 155585,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAC+i3Z/29Bt/37sPoJa3JTs",
+  "snapshot_id": "atv1AAAAAAAibMOjWJWUi0dCuHk6/Z0e",
   "tracks": [
     {
       "added_at": null,
@@ -135,18 +135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "still hungover",
-        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/6KL0RD0DeUK2nwjpOzBdPm"
       },
       "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 184706,
-      "name": "girl you're taking home",
-      "url": "https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl"
+      "duration_ms": 185169,
+      "name": "Jaded (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/0j7cf4wWPAvvvLPbCA6nBC"
     },
     {
       "added_at": null,
@@ -171,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/6KL0RD0DeUK2nwjpOzBdPm"
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
       },
       "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 185169,
-      "name": "Jaded (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/0j7cf4wWPAvvvLPbCA6nBC"
+      "duration_ms": 184706,
+      "name": "girl you're taking home",
+      "url": "https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl"
     },
     {
       "added_at": null,

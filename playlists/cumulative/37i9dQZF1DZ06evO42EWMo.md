@@ -4,7 +4,7 @@
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 49 min
+66 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cherry Wine](https://open.spotify.com/track/4K7jd5Wm09iF9xum3gfExb) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Life Is Good](https://open.spotify.com/album/4tpG2K3nqcrFNGBikX3dc0) | 5:56 | 2025-10-28 |  |
 | [Close To The Front](https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:35 | 2026-10-25 |  |
 | [Cupid \- Deluxe Edition Version](https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:48 | 2026-03-06 |  |
+| [Do Me Good](https://open.spotify.com/track/3EwxNAUKvuH5pmsTtXbo4Z) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:19 | 2026-10-26 |  |
 | [Don't Go To Strangers \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/3kt92YozPwnpnE5yQziJ60) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 4:36 | 2025-10-28 |  |
 | [Fuck Me Pumps](https://open.spotify.com/track/1FLzTxrNNgqrAEsQvHJ9Gx) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:20 | 2025-10-28 |  |
 | [Fuckery \- Me & Mr Jones / Original Demo](https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Fuckery \(Me & Mr Jones \- Original Demo\)](https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp) | 2:31 | 2026-10-04 |  |

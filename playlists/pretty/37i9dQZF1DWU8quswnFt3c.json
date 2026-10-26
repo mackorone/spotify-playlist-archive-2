@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume with Thoom from Lebanon.",
-  "num_followers": 1022510,
+  "num_followers": 1022423,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-21 04:00:17",
       "album": {
+        "name": "Labio Inferior",
+        "url": "https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 175420,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh"
+    },
+    {
+      "added_at": "2026-10-21 04:00:17",
+      "album": {
         "name": "Armor",
         "url": "https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-10-21 04:00:17",
       "album": {
-        "name": "Labio Inferior",
-        "url": "https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M"
-      },
-      "artists": [
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 175420,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh"
-    },
-    {
-      "added_at": "2026-10-21 04:00:17",
-      "album": {
         "name": "te odio",
         "url": "https://open.spotify.com/album/6j7QHBlPi3gdLeMOqiTZAT"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-21 04:00:17",
       "album": {
-        "name": "Bangs N Braces",
-        "url": "https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt"
-      },
-      "artists": [
-        {
-          "name": "iKeda",
-          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
-        }
-      ],
-      "duration_ms": 165708,
-      "name": "Tiger Tiger",
-      "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
-    },
-    {
-      "added_at": "2026-10-21 04:00:17",
-      "album": {
         "name": "i Music Listen",
         "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 198545,
       "name": "t escucho al pensar",
       "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
+    },
+    {
+      "added_at": "2026-10-21 04:00:17",
+      "album": {
+        "name": "Bangs N Braces",
+        "url": "https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt"
+      },
+      "artists": [
+        {
+          "name": "iKeda",
+          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+        }
+      ],
+      "duration_ms": 165708,
+      "name": "Tiger Tiger",
+      "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
     },
     {
       "added_at": "2026-10-21 04:00:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-21 04:00:17",
       "album": {
-        "name": "Sonsuza Kadar",
-        "url": "https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi"
-      },
-      "artists": [
-        {
-          "name": "\u015eenceylik",
-          "url": "https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i"
-        }
-      ],
-      "duration_ms": 160481,
-      "name": "Sonsuza Kadar",
-      "url": "https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO"
-    },
-    {
-      "added_at": "2026-10-21 04:00:17",
-      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 226400,
       "name": "Te Mereces Un Amor",
       "url": "https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7"
+    },
+    {
+      "added_at": "2026-10-21 04:00:17",
+      "album": {
+        "name": "Sonsuza Kadar",
+        "url": "https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi"
+      },
+      "artists": [
+        {
+          "name": "\u015eenceylik",
+          "url": "https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i"
+        }
+      ],
+      "duration_ms": 160481,
+      "name": "Sonsuza Kadar",
+      "url": "https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO"
     },
     {
       "added_at": "2026-10-21 04:00:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,283 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,275 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 11 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/4vWPjX6JEKTgpkExdqEGZ2) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:45 |
 | 12 | [Minha Riqueza \- Ao Vivo](https://open.spotify.com/track/4DXszgxhpBHcCIfBQprXfv) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Só Vvamo na Ilha \(Ao Vivo\)](https://open.spotify.com/album/1q3K1MYoCr97RFIwVNvGWL) | 3:24 |
 | 13 | [Bloco \#01 \- Jeito Sexy / Deixa em Off / So Sick](https://open.spotify.com/track/002DY6zVBD6MyNvGxrTknQ) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Bloco \#01 \- Jeito Sexy / Deixa em Off / So Sick](https://open.spotify.com/album/2QjUJrDA0KS0JYwSbl7LFc) | 6:55 |
-| 14 | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC) | 2:30 |
-| 15 | [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 |
+| 14 | [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 |
+| 15 | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC) | 2:30 |
 | 16 | [Fogueira de uma Paixão \- Ao Vivo](https://open.spotify.com/track/0iwQvF7iYRyIIp5gLW91kG) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Eu Sou Assim \(Ao Vivo\)](https://open.spotify.com/album/1qroRvkXKaPUrUU3glucgN) | 3:24 |
 | 17 | [Casa de Noca](https://open.spotify.com/track/2CNz3RMSyPMb9OWaPLU6CS) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:10 |
 | 18 | [De Pouco a Pouco \- Ao Vivo](https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS) | [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [De Pouco a Pouco \(Ao Vivo\)](https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY) | 4:48 |

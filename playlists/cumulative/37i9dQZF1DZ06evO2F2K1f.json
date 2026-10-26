@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 258292,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/78xcyHVAJbwzksemi1Rjlb"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 152493,
       "name": "Happy Rainbow",
       "url": "https://open.spotify.com/track/1tYbWJz9YEpJM7ExleZHAA"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 329789,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25"
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -3643,6 +3643,32 @@
     },
     {
       "album": {
+        "name": "Alternatives",
+        "url": "https://open.spotify.com/album/1YgqqVwkdfyYiHfmvOHcvP"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "De Wolfe Music",
+          "url": "https://open.spotify.com/artist/2CIYXJTMc2WH7XVlqZ5IrC"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168170,
+      "name": "The Difference",
+      "url": "https://open.spotify.com/track/6AxpVceiCrTFcM9FK41wKr"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Synthesis",
         "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
       },
@@ -3706,7 +3732,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 181666,
       "name": "The Hawk Shuffle",
       "url": "https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ"

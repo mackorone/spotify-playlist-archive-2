@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 497063,
+  "num_followers": 497177,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAAe5Ni3f5udZKrBZJ3Bf3gS",
+  "snapshot_id": "atv1AAAAAADPnw7dL0L/C6Z/+GNfKtHN",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 182724,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lose Control (Alt. Versions)",
         "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 232153,
       "name": "Only Love Can Hurt Like This (feat. Teddy Swims) - Remix",
       "url": "https://open.spotify.com/track/0LCkj8JSa3pahuphDXiOwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 182724,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 173361,
-      "name": "Dirty (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy People (with Teddy Swims & Jac Ross)",
         "url": "https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 295000,
       "name": "Happy People (with Teddy Swims & Jac Ross)",
       "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
     }
   ],
   "unique_name": "This Is Teddy Swims",

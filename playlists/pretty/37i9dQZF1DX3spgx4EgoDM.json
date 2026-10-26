@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 1756,
+  "num_followers": 1774,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "El Noveno Mandamiento",
+      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "El Noveno Mandamiento",
-      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 190800,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Los Extranos",
-        "url": "https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 223426,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1239,6 +1223,38 @@
       "duration_ms": 219800,
       "name": "Quiereme",
       "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Los Extranos",
+        "url": "https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Latino",
         "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 247613,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/78iEnVk4OmYctV5syJPtif"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
-      },
-      "artists": [
-        {
-          "name": "Sonora Tropicana",
-          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Qu\u00e9 Bello",
-      "url": "https://open.spotify.com/track/0UAWp3NVL40XQ43ZPSRv2o"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 204520,
       "name": "De Mi Te Vas A Enamorar",
       "url": "https://open.spotify.com/track/6Ea63VAoVJyvXgi2XQyCk2"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Qu\u00e9 Bello",
+      "url": "https://open.spotify.com/track/0UAWp3NVL40XQ43ZPSRv2o"
     },
     {
       "added_at": "2025-07-14 16:04:01",

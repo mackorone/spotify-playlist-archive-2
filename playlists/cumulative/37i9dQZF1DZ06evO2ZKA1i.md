@@ -4,7 +4,7 @@
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-141 songs - 11 hr 11 min
+142 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Sacred Land](https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [SPLAT!](https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny) | 3:32 | 2026-07-05 |  |
 | [Sail Away \- Remastered 2004](https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 5:52 | 2022-10-12 |  |
 | [Scriblin' Gib'rish](https://open.spotify.com/track/2ZAcXcDeRHP4MxH1r8gFiX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [SPLAT!](https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny) | 3:34 | 2026-07-05 | 2026-08-01 |
+| [Scriblin' Gib'rish \- Live at Montreux Jazz Festival 2026](https://open.spotify.com/track/3MQ29u8e50ntZ0j5FBMcwP) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Splat!](https://open.spotify.com/album/6mnQMrgn3NW8PX4DQjW7Cp) | 3:47 | 2026-10-26 |  |
 | [Sharp Shooter](https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:44 | 2024-07-21 | 2025-02-24 |
 | [Show Me](https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:59 | 2024-07-22 | 2025-07-02 |
 | [Simple Folk](https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 1:15 | 2022-10-12 | 2024-10-15 |
@@ -138,7 +139,7 @@
 | [Uncommon Man \- Instrumental Version](https://open.spotify.com/track/2qMrO5n4RgUpHA17HlUPt9) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 6:58 | 2022-09-25 | 2022-09-29 |
 | [Uncommon Man \- Live in Milan 2022](https://open.spotify.com/track/3ftndNxqfHApb1Ui29pZJc) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Pictures of You](https://open.spotify.com/album/5EC1eyGZyHGTTMQzO4YqSl) | 6:46 | 2024-06-28 | 2024-07-05 |
 | [Under The Gun](https://open.spotify.com/track/3tWcr1XvZumZ8a6MenaEq3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:38 | 2022-09-17 | 2025-12-27 |
-| [Vavoom: Ted The Mechanic](https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 4:16 | 2023-05-18 |  |
+| [Vavoom: Ted The Mechanic](https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 4:16 | 2023-05-18 | 2026-10-26 |
 | [Wasted Sunsets](https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 3:55 | 2022-09-18 |  |
 | [When A Blind Man Cries \(1997 Remix\)](https://open.spotify.com/track/1KYLDfzlWrcBlAbwi4DDLN) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \- 25th Anniversary Edition](https://open.spotify.com/album/3XXboc1gvm976jCATDdunA) | 3:32 | 2025-07-28 |  |
 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 | 2022-09-17 | 2025-07-28 |

@@ -4,7 +4,7 @@
 
 > 
 
-147 songs - 10 hr 17 min
+148 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Suffering](https://open.spotify.com/track/21oMo9u8Nca3FugaVXFGvu) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w) | [EPIC: The Thunder Saga \(Official Concept Album\)](https://open.spotify.com/album/0DsMhU0ERzMt6xvtGpgXvW) | 2:30 | 2026-03-30 | 2026-05-03 |
 | [Sugar](https://open.spotify.com/track/6kxSspYgCP6DmpLwqmrZ3O) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:52 | 2026-01-03 |  |
 | [Take Me Back To Eden](https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 8:20 | 2025-07-13 |  |
+| [Taswell](https://open.spotify.com/track/5nvrEMlT3kq34aTj8Bk4pk) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK) | 8:35 | 2026-10-25 |  |
 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:29 | 2026-03-30 | 2026-07-25 |
 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2026-03-30 | 2026-10-08 |
 | [Ten Duel Commandments](https://open.spotify.com/track/3lXyAQ0kekAvY5LodpWmUs) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Jon Rua](https://open.spotify.com/artist/69NsP4MC1JbfvKMwpx2oy8), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 1:46 | 2025-10-27 | 2025-11-05 |

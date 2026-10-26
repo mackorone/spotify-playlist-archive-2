@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,335 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,314 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 32 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
 | 33 | [Is It Happening Right Now?](https://open.spotify.com/track/1iaTJl9hntAmATs8gKryNn) | [Girls In Hawaii](https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib) | [Eldorado](https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW) | 4:48 |
 | 34 | [pas assez](https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [tout à la fois](https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z) | 2:44 |
-| 35 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
-| 36 | [le président s'en balek](https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [le président s'en balek](https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8) | 3:04 |
+| 35 | [le président s'en balek](https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [le président s'en balek](https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8) | 3:04 |
+| 36 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |
 | 37 | [Bizarre](https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs) | [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Bizarre](https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU) | 2:48 |
 | 38 | [100S](https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb) | [Milhan](https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2) | [100S](https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC) | 3:21 |
 | 39 | [All Mine \(with Hatsune Miku, MOLIY, & jon\-YAKITORY\)](https://open.spotify.com/track/0q9RzA7nCzsa8fQX7myDYw) | [BEYOND BORDERs](https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [EMERGE M♡DE MIKU](https://open.spotify.com/album/3MdoJyoaOOzh2rDxxK6ehQ) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,990,781 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,990,795 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 |
 | 50 | [Keep Yourself Alive](https://open.spotify.com/track/4DU4NgVlTkdS9Ce9o8lsZ6) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition\)](https://open.spotify.com/album/16br4ndsgOTnBQTjV0W5aB) | 3:46 |
 
-Snapshot ID: `atqjgAAAAADVdtW+JSTQ/5M/88ccPRy+`
+Snapshot ID: `atv1AAAAAAD/X4E1jjviR7CfDUmpHq5w`

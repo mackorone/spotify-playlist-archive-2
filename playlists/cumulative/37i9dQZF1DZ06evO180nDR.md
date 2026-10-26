@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-171 songs - 8 hr 48 min
+172 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Vivir Sin Aire](https://open.spotify.com/track/1kPds8OapQhPuFZQ9mnyXi) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:32 | 2022-06-01 | 2022-11-27 |
 | [VVS](https://open.spotify.com/track/2IESJGeddbtwiVr4ug0SN3) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:42 | 2023-06-24 | 2023-07-11 |
 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2023-07-10 |  |
-| [WA SA BI](https://open.spotify.com/track/2wTFTwX7CeKVwRDHD4GoOR) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [WA SA BI](https://open.spotify.com/album/1iKMgTVCqAqQBJiKATiwrL) | 3:15 | 2026-10-18 |  |
+| [WA SA BI](https://open.spotify.com/track/1RlPZ11yk37DeOEAySwTvB) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [SABIA DELUXE](https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7) | 3:15 | 2026-10-26 |  |
+| [WA SA BI](https://open.spotify.com/track/2wTFTwX7CeKVwRDHD4GoOR) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [WA SA BI](https://open.spotify.com/album/1iKMgTVCqAqQBJiKATiwrL) | 3:15 | 2026-10-18 | 2026-10-26 |
 | [WHISKEY DE PIÑA](https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 3:00 | 2026-04-20 | 2026-08-01 |
 | [Yo Soy Iván](https://open.spotify.com/track/6q6b2yBPsEbitjEVeHvWCd) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:31 | 2025-03-30 | 2025-10-02 |
 | [Yo Te Quise Amar](https://open.spotify.com/track/5hSEPgls5rYRCQCb0ooiVP) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:06 | 2022-06-07 | 2022-12-18 |

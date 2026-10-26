@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 134513,
+  "num_followers": 134519,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1551,74 +1551,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Hora de Adorar",
-        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "DJ Albery",
-          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Hora de Adorar",
-      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 151945,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Festa de Crente",
-        "url": "https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Bruninho Music",
-          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Festa de Crente",
-      "url": "https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/6lXJdvuPnJl7T3dN2ctPws"
       },
@@ -1659,6 +1591,74 @@
       "duration_ms": 140625,
       "name": "YOU ARE GOOD",
       "url": "https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Festa de Crente",
+        "url": "https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Bruninho Music",
+          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Festa de Crente",
+      "url": "https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 151945,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Hora de Adorar",
+        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "DJ Albery",
+          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Hora de Adorar",
+      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
     }
   ],
   "unique_name": "Balada Gospel",

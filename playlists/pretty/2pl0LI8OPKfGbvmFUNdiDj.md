@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,272 likes - 45 songs - 2 hr 24 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,276 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 43 | [Beautiful Child](https://open.spotify.com/track/0QncGNao6DPCIaZsBErbeL) | [Sejung Go](https://open.spotify.com/artist/6okUWvbqHW03Yr6W1nEx9Q) | [Beautiful Child](https://open.spotify.com/album/7pz0Zlobeu8fVttJpxEtxg) | 3:06 |
 | 44 | [I wish](https://open.spotify.com/track/3L3FHxCCEX4CuDDR1OsQNV) | [ËRRÄ](https://open.spotify.com/artist/0JEioRiCYOk5ris1hGqIiE) | [I wish](https://open.spotify.com/album/2Uv1oGETqSBICJefqrwZj7) | 2:23 |
 | 45 | [Infinity](https://open.spotify.com/track/6pPe9uz0EzSQ2bLeNyXimB) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Infinity](https://open.spotify.com/album/79hfXejPfxPxshntSaHAvA) | 3:10 |
+| 46 | [Somewhere In Texas](https://open.spotify.com/track/1KFYveqqdozgCZqgsIbK0H) | [The Taproots](https://open.spotify.com/artist/2DZgNVKc5uxU5dNysNplKm) | [Somewhere In Texas](https://open.spotify.com/album/7wxDvaNOlrM0vHXUxKwogm) | 3:27 |
 
-Snapshot ID: `AAAEjGhEmiN+DQXAnHjTRBQa3tJ1ahaM`
+Snapshot ID: `AAAEjX0VCd/9gNM3Xmltpt3pUDHy7tj4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838 likes - 41 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 839 likes - 43 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 33 | [siren calling](https://open.spotify.com/track/0VWfoM5mnhtLMFoKofXjxF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 2:42 |
 | 34 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
 | 35 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
-| 36 | [Cooler](https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:30 |
-| 37 | [1+1](https://open.spotify.com/track/7wLTVMt6OJcJ8Iolz8aIof) | [Just Jayne](https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE) | [1+1](https://open.spotify.com/album/3EJ4fhSJyGNCBCxjqYcA9w) | 2:35 |
-| 38 | [What happened](https://open.spotify.com/track/74P8DaIcSSbf3c7uazt7ky) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/2GQmoPrApLdw9oMW5J4XI3) | 3:38 |
-| 39 | [16 Seconds](https://open.spotify.com/track/0JfTfkLKYqXYPOZSa5Mdw4) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 2:48 |
-| 40 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
-| 41 | [together](https://open.spotify.com/track/2WxusqCab3SktOzhF9zokI) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [together](https://open.spotify.com/album/1bj28j1ekZiErCx33YIoMn) | 2:12 |
+| 36 | [Peace & Patience](https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Peace & Patience](https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd) | 3:29 |
+| 37 | [Cooler](https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:30 |
+| 38 | [1+1](https://open.spotify.com/track/7wLTVMt6OJcJ8Iolz8aIof) | [Just Jayne](https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE) | [1+1](https://open.spotify.com/album/3EJ4fhSJyGNCBCxjqYcA9w) | 2:35 |
+| 39 | [What happened](https://open.spotify.com/track/74P8DaIcSSbf3c7uazt7ky) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/2GQmoPrApLdw9oMW5J4XI3) | 3:38 |
+| 40 | [16 Seconds](https://open.spotify.com/track/0JfTfkLKYqXYPOZSa5Mdw4) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 2:48 |
+| 41 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
+| 42 | [together](https://open.spotify.com/track/2WxusqCab3SktOzhF9zokI) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [together](https://open.spotify.com/album/1bj28j1ekZiErCx33YIoMn) | 2:12 |
+| 43 | [Fantasy](https://open.spotify.com/track/0oehQ2YpDyRZA2x332jGrx) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Peace & Patience](https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd) | 3:18 |
 
-Snapshot ID: `Acf1PAAAAAAWouh0wXkmXQMS72Awvrvv`
+Snapshot ID: `Acf63AAAAADCSHjmqty27wjIuCmRvkIr`

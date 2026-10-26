@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,593 likes - 50 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,596 likes - 50 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 49 | [Actual Proof](https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 9:41 |
 | 50 | [Fat Albert Rotunda](https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 6:29 |
 
-Snapshot ID: `atqjgAAAAACViRcUvoVRFk6pvtdioEMS`
+Snapshot ID: `atv1AAAAAADOUkFq2AulFayT1UcvNjxK`

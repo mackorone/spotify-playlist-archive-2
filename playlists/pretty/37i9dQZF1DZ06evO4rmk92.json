@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 127119,
+  "num_followers": 127124,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAB7RSKzFzeWOOGX+7xGHSNG",
+  "snapshot_id": "atv1AAAAAABexeyINATWoiqefWtiWgDj",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely",
-        "url": "https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 168826,
-      "name": "Cappuccina",
-      "url": "https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BD Music & Cabu Present Nat King Cole",
         "url": "https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 189560,
       "name": "\u2019Tis Autumn",
       "url": "https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168826,
+      "name": "Cappuccina",
+      "url": "https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Just You, Just Me - Remastered 1999",
-      "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 163933,
       "name": "Love Letters - Remastered",
       "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Just You, Just Me - Remastered 1999",
+      "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
     },
     {
       "added_at": null,

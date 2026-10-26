@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,271 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,276 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [PILLS](https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9) | 3:07 |
 | 50 | [TOXICONICA](https://open.spotify.com/track/7vFRSrW3nGsmggKMAOBUof) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [TOXICONICA](https://open.spotify.com/album/3Eo5FBKcl9wxiviyeYNxHz) | 2:29 |
 
-Snapshot ID: `atqjgAAAAABGugXxGo2bQHAgxRrT3p3G`
+Snapshot ID: `atv1AAAAAAAFML1rb4Cg91FugQb1Py8+`

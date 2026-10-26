@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, The Wild Wind, VICTORS and more",
+  "description": "With Rhineland, The Wild Wind, Laureline and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -1024,6 +1024,24 @@
       "duration_ms": 266527,
       "name": "all about you!",
       "url": "https://open.spotify.com/track/6irxfK85zCwjuTgtj9Nemu"
+    },
+    {
+      "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/09M7E8iVLPwRdImsQCNCbx"
+      },
+      "artists": [
+        {
+          "name": "Far West",
+          "url": "https://open.spotify.com/artist/1pqSEnnaGkpWQji0DjPjML"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207577,
+      "name": "All at Once",
+      "url": "https://open.spotify.com/track/1g031hRYRU1hq428lg2nAC"
     },
     {
       "album": {
@@ -2954,7 +2972,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Big City",
       "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
@@ -5270,7 +5288,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 221624,
       "name": "Craving",
       "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
@@ -7700,7 +7718,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 217996,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/5T8a0Zg9oceeIbkDD9mRDo"
@@ -11514,7 +11532,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 266202,
       "name": "I Want You Close",
       "url": "https://open.spotify.com/track/1u55xtADWRwoOLzMZx0vTx"
@@ -11568,7 +11586,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 243187,
       "name": "I Wish That You Would",
       "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
@@ -14682,7 +14700,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 282354,
       "name": "Loving Like You Lost",
       "url": "https://open.spotify.com/track/0bSE852Jyc3H1koMeCOjaG"
@@ -14808,7 +14826,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 233467,
       "name": "Magic",
       "url": "https://open.spotify.com/track/5Z4DxvV4ifNFpJIyvuZBcx"
@@ -14844,7 +14862,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 237272,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6Pij7wPMJHDgpaq4ooqoit"
@@ -15323,6 +15341,24 @@
     },
     {
       "album": {
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/6Im2PYFghij3VxnLwhit4u"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Station",
+          "url": "https://open.spotify.com/artist/3YzSTFCY3tfQSydfk0JfYE"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226329,
+      "name": "Memories in a Photograph",
+      "url": "https://open.spotify.com/track/1Afthn0HsbOm1Wf0kxWTJC"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7heBUz2kwgoidiFcaplSqF"
       },
@@ -15460,7 +15496,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -18116,7 +18152,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -18890,7 +18926,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 264672,
       "name": "Radio Wave",
       "url": "https://open.spotify.com/track/1sYjoqDQnZSM55boArF4w2"
@@ -21954,7 +21990,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 225000,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/5QTDDCZytU2evkFhaMSYus"
@@ -22196,7 +22232,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 224302,
       "name": "Swimming Pools at Night",
       "url": "https://open.spotify.com/track/3vsgY23GQhwTd3B2xMDH3R"
@@ -23388,7 +23424,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 229685,
       "name": "Things I Can't Explain",
       "url": "https://open.spotify.com/track/4He5mRLW0X0FHC3kc5HlZH"

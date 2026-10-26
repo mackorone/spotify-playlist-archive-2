@@ -4,7 +4,7 @@
 
 > pov: ur that ANGEL 🪽
 
-421 songs - 22 hr 40 min
+422 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [PLAY WITH A KISS!](https://open.spotify.com/track/4g3Lp2lNFEipx4kmhyuLBs) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [PLAY WITH A KISS!](https://open.spotify.com/album/3S2mohNLPT8riWEoyP8iBw) | 3:18 | 2026-07-31 | 2026-08-28 |
 | [POP](https://open.spotify.com/track/6NBbY5HUuowO9cS4lcFHNn) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [POP](https://open.spotify.com/album/3DeFHwLhCLfhhg6GwDhMjX) | 2:37 | 2025-05-08 | 2025-05-22 |
 | [POP GIRL](https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [POP GIRL](https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d) | 2:34 | 2025-07-17 | 2025-08-01 |
+| [Pretty girls](https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I think I spoke too soon](https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL) | 3:35 | 2026-10-23 |  |
 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 | 2025-05-08 | 2025-08-16 |
 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 | 2026-04-30 | 2026-05-28 |
 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2025-09-12 |  |
@@ -356,7 +357,7 @@
 | [Summerboy](https://open.spotify.com/track/1c31md8UrbHONSycrFi3Jy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:13 | 2025-06-16 | 2025-07-18 |
 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 | 2026-07-10 |  |
 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 | 2025-05-08 | 2025-07-18 |
-| [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 | 2025-05-08 |  |
+| [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 | 2025-05-08 | 2026-10-26 |
 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 | 2026-01-16 | 2026-06-20 |
 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 | 2025-05-08 | 2025-09-26 |
 | [Superscar](https://open.spotify.com/track/1UymCJrYWtsFFg70YUvh6K) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 3:14 | 2026-08-21 |  |

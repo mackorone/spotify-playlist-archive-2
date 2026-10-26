@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 52 | [So Much Love](https://open.spotify.com/track/6zT36vy0KSwsPlHEFhmtJq) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 3:27 |
 | 53 | [Send For Me](https://open.spotify.com/track/4AeiLoSgIv80l67HpfsFxe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Looking Back](https://open.spotify.com/album/6gzNGsaj4xf5mpvPqB7hTh) | 2:29 |
 | 54 | [Swing Guitars](https://open.spotify.com/track/2j7X2seHp179dgy0c0PxhB) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [The Indispensible Django Reinhardt \(1949\-1950\)](https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH) | 2:51 |
-| 55 | [Corazón](https://open.spotify.com/track/0v1qlRKi0ZwlQn4zK3kM4N) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 4:05 |
-| 56 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 |
+| 55 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 |
+| 56 | [Corazón](https://open.spotify.com/track/0v1qlRKi0ZwlQn4zK3kM4N) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 4:05 |
 | 57 | [Don't Forget About Me](https://open.spotify.com/track/4t3JszDMGnKP2W8xElXe2n) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:47 |
 | 58 | [Don't Bring Me Down](https://open.spotify.com/track/29NWGi7yfwFk11PBEMoNyE) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals: The Mickie Most Years And More](https://open.spotify.com/album/2deJO9RGJYw2HVO4k1HPz9) | 3:16 |
 | 59 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Acf1RgAAAABqtKcer1tiPZ6IXlhaQV22`
+Snapshot ID: `Acf65gAAAABP6NoQ/drE+nxOIoJwdtTE`

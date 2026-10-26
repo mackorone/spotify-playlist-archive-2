@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,011 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,030 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 38 | [FAKE](https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [FAKE feat． 安室奈美恵](https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U) | 4:15 |
 | 39 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 |
 | 40 | [14](https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 3:21 |
-| 41 | [two thirty \- feat\. Jua](https://open.spotify.com/track/6uJysOI5hXQP6WmTs9rjUK) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [two thirty \(feat\. Jua\)](https://open.spotify.com/album/6XZdMscKy5HYIZpuRbJu61) | 2:38 |
-| 42 | [I'll be there](https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:46 |
+| 41 | [I'll be there](https://open.spotify.com/track/45wOY8aMv3FgERrGaFxWOd) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:46 |
+| 42 | [two thirty \- feat\. Jua](https://open.spotify.com/track/6uJysOI5hXQP6WmTs9rjUK) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [two thirty \(feat\. Jua\)](https://open.spotify.com/album/6XZdMscKy5HYIZpuRbJu61) | 2:38 |
 | 43 | [Kirakuni \- DK Remix](https://open.spotify.com/track/1VRg90rpRv7usFnOQTqDKE) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Do Hyun Kim](https://open.spotify.com/artist/4v0r2FTwARi4Fq8KCV3YQg) | [REFRESH: One](https://open.spotify.com/album/4Umn1iYWkLNEY9S2Fvd2qk) | 3:56 |
 | 44 | [Love / Hate](https://open.spotify.com/track/2dr0U0kEHfZv19o0lESsPO) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Love / Hate](https://open.spotify.com/album/7IVEMKNDRehODrCp0owdds) | 4:36 |
 | 45 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 |

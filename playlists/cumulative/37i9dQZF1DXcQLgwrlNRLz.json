@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 164312,
       "name": "C pas normal",
       "url": "https://open.spotify.com/track/01BN8m09yMyhKHJL3PDUzC"
@@ -922,6 +922,24 @@
       "duration_ms": 208484,
       "name": "Le succ\u00e8s",
       "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
+    },
+    {
+      "album": {
+        "name": "Lib\u00e9rer Pij",
+        "url": "https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5"
+      },
+      "artists": [
+        {
+          "name": "JP N'DA",
+          "url": "https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Lib\u00e9rer Pij",
+      "url": "https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD"
     },
     {
       "album": {

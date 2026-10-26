@@ -1,6 +1,6 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 60933,
+  "num_followers": 60961,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+        "name": "Natural Law",
+        "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
       },
       "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 144631,
-      "name": "Means Something",
-      "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
+      "duration_ms": 147346,
+      "name": "Natural Law (ft. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
     },
     {
       "added_at": null,
@@ -475,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural Law",
-        "url": "https://open.spotify.com/album/6FRRLZqX4W9ug4Qt9dgtgQ"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 147346,
-      "name": "Natural Law (ft. Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
+      "duration_ms": 144631,
+      "name": "Means Something",
+      "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
     },
     {
       "added_at": null,

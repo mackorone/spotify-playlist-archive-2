@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,680 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,666 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 52 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 53 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
 | 54 | [DRIVE](https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [DRIVE](https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M) | 4:15 |
-| 55 | [By The Lake](https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:57 |
-| 56 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
+| 55 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
+| 56 | [By The Lake](https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:57 |
 | 57 | [Cold Paris Vogue](https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Pleasure Is Everything](https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52) | 2:47 |
 | 58 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
 | 59 | [Go Go Chaos](https://open.spotify.com/track/7EW6U2Qiikd51ApDZmllMx) | [Bonjah](https://open.spotify.com/artist/3SGCwaCfLxx2axpPq9J5LC) | [Go Go Chaos](https://open.spotify.com/album/0oAyuLmkpzcLXKTAK2Ne7Y) | 4:04 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 65 | [Little Queenie \(2023 Remastered Version\)](https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Deluxe Edition](https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M) | 2:50 |
 | 66 | [Hypnotherapy](https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Hypnotherapy](https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB) | 3:25 |
 | 67 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
-| 68 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
-| 69 | [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 |
+| 68 | [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 |
+| 69 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
 | 70 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
 | 71 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
 | 72 | [Hymn for a Dragonfly](https://open.spotify.com/track/2jkzij7wooU3mU0EO1XFkY) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [I Know A Garden](https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb) | 3:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 96 | [Retrograde](https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Retrograde](https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd) | 3:05 |
 | 97 | [High](https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:44 |
 | 98 | [Dream Of You](https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Holy Waters](https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy) | 3:03 |
-| 99 | [TEENAGE FEVER](https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Cerulean Tapes](https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M) | 4:16 |
-| 100 | [Flowers & Honey Interlude](https://open.spotify.com/track/6DsvXic2O817vrPB0btljC) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 1:36 |
+| 99 | [Flowers & Honey Interlude](https://open.spotify.com/track/6DsvXic2O817vrPB0btljC) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 1:36 |
+| 100 | [TEENAGE FEVER](https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Cerulean Tapes](https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M) | 4:16 |
 
 Snapshot ID: `AAAAAHdnJpMPhlDt2CJ/LqG3JdezCUnA`

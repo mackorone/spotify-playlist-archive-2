@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: ん・フェニ N\-FENI
 
-1,790 songs - 4 day 16 hr 3 min
+1,791 songs - 4 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-10-01 | 2026-02-12 |
 | [Bunny Girl \- Natural](https://open.spotify.com/track/7CfCkFCM17K2oyjtV5pHLM) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl \(Natural\)](https://open.spotify.com/album/0dAUkKPIVmGMkZJUaTKrMK) | 3:35 | 2024-11-13 | 2025-02-19 |
 | [Burial Sea](https://open.spotify.com/track/500KbENTYkGTrCHp4E8md6) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [Burial Sea](https://open.spotify.com/album/5k61bP1qLkituDoEMtXR6T) | 4:54 | 2025-11-25 | 2025-12-03 |
+| [Butter](https://open.spotify.com/track/4oDkcyR28qZS9pfU5BxdtX) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [Butter](https://open.spotify.com/album/5VW7VeqLHjtz6lH9mMlD2l) | 2:58 | 2026-10-21 |  |
 | [by my side](https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt) | [by my side](https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6) | 4:49 | 2025-07-29 | 2025-10-22 |
 | [By your side](https://open.spotify.com/track/59ElHgKBjJBTai1T9CpBsY) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [By your side](https://open.spotify.com/album/2HffAb7fGgmYIsNtoU3e46) | 4:02 | 2026-09-22 |  |
 | [BYEMYLOVER](https://open.spotify.com/track/62wvTxDYOaEXMkCJl7V3Wb) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [BYEMYLOVER](https://open.spotify.com/album/7B5qQByru2ofkOY2Beimea) | 3:25 | 2024-07-26 | 2024-07-31 |
@@ -1610,7 +1611,7 @@
 | [烏瓜](https://open.spotify.com/track/1k6zAv3dXddw8Q8M3Afs6c) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [烏瓜](https://open.spotify.com/album/7wDSLAVo8tWSfEasUHauco) | 2:53 | 2025-05-07 | 2025-05-21 |
 | [無垢](https://open.spotify.com/track/72yhUDCkFBQz08gZJeEhhX) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [無垢](https://open.spotify.com/album/17dxysEvaGC8MSipko2xdm) | 3:22 | 2026-10-20 |  |
 | [無敵すぎてZERO](https://open.spotify.com/track/1VNKcVqJYatjD3HS587309) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [無敵すぎてZERO](https://open.spotify.com/album/419XdvQweIIFSX7JHATxvq) | 3:04 | 2025-10-21 | 2025-11-05 |
-| [無機質](https://open.spotify.com/track/63la9ShAib2e1s80hOCQ2a) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [無機質](https://open.spotify.com/album/4xUJTwmwemjf0r6dv0GqUs) | 2:53 | 2026-09-22 |  |
+| [無機質](https://open.spotify.com/track/63la9ShAib2e1s80hOCQ2a) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [無機質](https://open.spotify.com/album/4xUJTwmwemjf0r6dv0GqUs) | 2:53 | 2026-09-22 | 2026-10-26 |
 | [煌めきワンダー](https://open.spotify.com/track/1yZSXbYPKxVRVsxXpQy7oy) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [煌めきワンダー](https://open.spotify.com/album/5AOaSW7Qss5cfmmgPAlDVF) | 4:03 | 2025-10-08 | 2025-12-24 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2024-07-02 | 2024-12-25 |
 | [燈「独唱」](https://open.spotify.com/track/5S81ZEgJnL7htOyYRBPaF9) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [燈「独唱」](https://open.spotify.com/album/2o0ObU3yAIpgxumW5ewbGN) | 4:55 | 2024-10-08 | 2024-11-06 |

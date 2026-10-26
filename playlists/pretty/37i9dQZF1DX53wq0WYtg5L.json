@@ -1,6 +1,6 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 548666,
+  "num_followers": 548536,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-03-26 21:33:05",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
-      },
-      "artists": [
-        {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
-        }
-      ],
-      "duration_ms": 105293,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
-    },
-    {
-      "added_at": "2026-03-26 21:33:05",
-      "album": {
         "name": "La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez",
         "url": "https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 216026,
       "name": "Mi Jalisco",
       "url": "https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg"
+    },
+    {
+      "added_at": "2026-03-26 21:33:05",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        }
+      ],
+      "duration_ms": 105293,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
     },
     {
       "added_at": "2026-03-26 21:33:05",
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
         }
       ],
-      "duration_ms": 178386,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+      "duration_ms": 163346,
+      "name": "La Charreada",
+      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
     },
     {
       "added_at": "2026-03-26 21:33:05",
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
         }
       ],
-      "duration_ms": 163346,
-      "name": "La Charreada",
-      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
+      "duration_ms": 178386,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
     },
     {
       "added_at": "2026-03-26 21:33:05",

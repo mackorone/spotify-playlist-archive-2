@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 348048,
+  "num_followers": 348127,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "M\u00fasica Sin Limites - Tropical",
-        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
-      },
-      "artists": [
-        {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "La Del Vestido Rojo",
         "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 221733,
       "name": "La del Vestido Rojo",
       "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "M\u00fasica Sin Limites - Tropical",
+        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Eva Mar\u00eda",
-        "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
-      },
-      "artists": [
-        {
-          "name": "Tropical Panam\u00e1",
-          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Tan Bella Y Tan Presumida",
-      "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
         "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+        "name": "Eva Mar\u00eda",
+        "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
       "artists": [
         {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+          "name": "Tropical Panam\u00e1",
+          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
         }
       ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
+      "duration_ms": 185280,
+      "name": "Tan Bella Y Tan Presumida",
+      "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -715,6 +699,22 @@
       "duration_ms": 146146,
       "name": "Cangrejito Playero",
       "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Lucho Perez",
-          "url": "https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 155946,
-      "name": "Se Me Perdi\u00f3 la Cadenita",
-      "url": "https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4"
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Lucho Perez",
+          "url": "https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj"
         }
       ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+      "duration_ms": 155946,
+      "name": "Se Me Perdi\u00f3 la Cadenita",
+      "url": "https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Serie 20 Exitos Los Yes Yes",
-        "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 313613,
-      "name": "El Verde De Tus Ojos",
-      "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 249079,
       "name": "Capullo y Sorullo",
       "url": "https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Serie 20 Exitos Los Yes Yes",
+        "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 313613,
+      "name": "El Verde De Tus Ojos",
+      "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
-        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
-      },
-      "artists": [
-        {
-          "name": "Perla Colombiana",
-          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Agua de vida",
-      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Sonido La Conga \u201cForever\u201d",
         "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
       },
@@ -1779,6 +1763,54 @@
       "duration_ms": 196573,
       "name": "Embrujo De Cumbia",
       "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
+        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
+        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
+      },
+      "artists": [
+        {
+          "name": "Perla Colombiana",
+          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
+        }
+      ],
+      "duration_ms": 218853,
+      "name": "Agua de vida",
+      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1847,22 +1879,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
-        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 207266,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Los Reyes de la Cumbia",
-        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Rumba Cha Cha",
-      "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9"
       },
@@ -1939,22 +1923,6 @@
       "duration_ms": 225720,
       "name": "Suavecito Suavecito",
       "url": "https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1979,6 +1947,38 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Los Reyes de la Cumbia",
+        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Rumba Cha Cha",
+      "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Historia Musical de Lisandro Meza",
         "url": "https://open.spotify.com/album/0V8RCVW3lYuvm85lPDmhi9"
       },
@@ -1991,22 +1991,6 @@
       "duration_ms": 253082,
       "name": "Te Llevar\u00e9",
       "url": "https://open.spotify.com/track/2cn3mFX1JMuas2e41ZEbP1"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Los Reyes de la Cumbia",
-        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Las Mujeres No Se Acaban",
-      "url": "https://open.spotify.com/track/76JtOI0FWWI1KhM0Gyj3rJ"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -2031,18 +2015,34 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+        "name": "Tequendama de Oro, Vol. 4",
+        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Rodolfo y Su Tipica",
+          "url": "https://open.spotify.com/artist/2DK0wzOXYf0g4mpObDAgjN"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Alma De Acero",
-      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
+      "duration_ms": 221835,
+      "name": "El Aguajal",
+      "url": "https://open.spotify.com/track/2D9qZLgia46dk5BqOuulnL"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Los Reyes de la Cumbia",
+        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Las Mujeres No Se Acaban",
+      "url": "https://open.spotify.com/track/76JtOI0FWWI1KhM0Gyj3rJ"
     }
   ],
   "unique_name": "Cumbias Viejitas",

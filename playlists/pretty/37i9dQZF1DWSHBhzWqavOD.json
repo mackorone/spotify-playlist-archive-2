@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 31379,
+  "num_followers": 31450,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -491,42 +491,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Iskaba",
-        "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Iskaba",
-      "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "BAD BOY LOVESTORY",
-        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 184988,
-      "name": "FASHION DESIGNA",
-      "url": "https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Bengicela (feat. JAZZWRLD)",
         "url": "https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6"
       },
@@ -555,6 +519,42 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 184988,
+      "name": "FASHION DESIGNA",
+      "url": "https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Iskaba",
+        "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Iskaba",
+      "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -575,54 +575,6 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "99 (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -663,6 +615,38 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "99 (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 148656,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g"
+        "name": "Da Revolution",
+        "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6mSjg7wEv4MLKtc2KqgJAE"
+      "duration_ms": 268213,
+      "name": "Kiss Your Hand (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1303,22 +1303,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Da Revolution",
-        "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Kiss Your Hand (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6mSjg7wEv4MLKtc2KqgJAE"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 152824,
-      "name": "Kilometre",
-      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Kurhula",
         "url": "https://open.spotify.com/album/552Kxk9MJl4M0WNvst18xH"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 408014,
       "name": "Khawleza (feat. Makhanj)",
       "url": "https://open.spotify.com/track/7N0ymLLWoUCe9kAvMOzYba"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 152824,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Sewe",
+        "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        }
+      ],
+      "duration_ms": 404634,
+      "name": "Bala (feat. SYKES)",
+      "url": "https://open.spotify.com/track/1mourdmaqv51JvXKTjuFCP"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Mamma",
         "url": "https://open.spotify.com/album/6PqWSEZXJzG9Tn6Q5vQgLQ"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 420190,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/5aM14CNo9Xezodbx0TUZRD"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Sewe",
-        "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Sykes",
-          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
-        }
-      ],
-      "duration_ms": 404634,
-      "name": "Bala (feat. SYKES)",
-      "url": "https://open.spotify.com/track/1mourdmaqv51JvXKTjuFCP"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Ivy League",
+        "url": "https://open.spotify.com/album/4BBkjAHKLbwB6IdFHWzr4n"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Mhaw Keys",
+          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
+        }
+      ],
+      "duration_ms": 411468,
+      "name": "Song Cry (feat. Mhaw Keys)",
+      "url": "https://open.spotify.com/track/0497mayuEADTcP2TBzkH7Y"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "B.O.A.T.S",
         "url": "https://open.spotify.com/album/4t9ZrRyO7t5Mh357L14CJh"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 339823,
       "name": "Beyonc\u00e9 Baby",
       "url": "https://open.spotify.com/track/1pTzmXKH3AgzFH8ehiOUQr"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Ivy League",
-        "url": "https://open.spotify.com/album/4BBkjAHKLbwB6IdFHWzr4n"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Mhaw Keys",
-          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
-        }
-      ],
-      "duration_ms": 411468,
-      "name": "Song Cry (feat. Mhaw Keys)",
-      "url": "https://open.spotify.com/track/0497mayuEADTcP2TBzkH7Y"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1795,18 +1795,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "R2Bees, Vol. 2",
-        "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
+        "name": "66",
+        "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
         }
       ],
-      "duration_ms": 220474,
-      "name": "Life (Walaahi)",
-      "url": "https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7"
+      "duration_ms": 430714,
+      "name": "66",
+      "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1839,22 +1843,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "66",
-        "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
+        "name": "R2Bees, Vol. 2",
+        "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
       },
       "artists": [
         {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "Myztro",
-          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         }
       ],
-      "duration_ms": 430714,
-      "name": "66",
-      "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
+      "duration_ms": 220474,
+      "name": "Life (Walaahi)",
+      "url": "https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1907,6 +1907,58 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
+        "url": "https://open.spotify.com/album/5JVea7nRHkduLTq7fS1Q92"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        }
+      ],
+      "duration_ms": 401384,
+      "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
+      "url": "https://open.spotify.com/track/0Mi3Cg5UohmGOHiOnA0jje"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Q0ZhHamM2wNlydtCGgpra"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/3CPl4hi57GXwG5R7xXKMR8"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "AmaGlobe (feat. Pcee, Scotts Maphuma, Mpho Spizzy, Infinity Musiq & 031 Choppa)",
         "url": "https://open.spotify.com/album/23Lh4eUshuf6DzMR9wcvg0"
       },
@@ -1943,58 +1995,6 @@
       "duration_ms": 416421,
       "name": "AmaGlobe (feat. Pcee, Scotts Maphuma, Mpho Spizzy, Infinity Musiq & 031 Choppa)",
       "url": "https://open.spotify.com/track/3CJJ9hZYgRFqGmEr1o2VVE"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Q0ZhHamM2wNlydtCGgpra"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
-        },
-        {
-          "name": "Sbuda Maleather",
-          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
-        }
-      ],
-      "duration_ms": 326048,
-      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
-      "url": "https://open.spotify.com/track/3CPl4hi57GXwG5R7xXKMR8"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
-        "url": "https://open.spotify.com/album/5JVea7nRHkduLTq7fS1Q92"
-      },
-      "artists": [
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "Dladla Mshunqisi",
-          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
-        }
-      ],
-      "duration_ms": 401384,
-      "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
-      "url": "https://open.spotify.com/track/0Mi3Cg5UohmGOHiOnA0jje"
     },
     {
       "added_at": "2026-06-30 14:51:43",

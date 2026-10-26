@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Shallipopi
 
-244 songs - 11 hr 47 min
+245 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-10-24 |  |
 | [Cash Rules Everything Around Us](https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Cash Rules Everything Around Us](https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK) | 2:36 | 2026-10-16 | 2026-10-23 |
 | [Chaser](https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Chaser](https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx) | 2:28 | 2026-08-28 | 2026-09-27 |
+| [Cinderella](https://open.spotify.com/track/4oMLmQyX1VubCpDGSZJhhr) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [A$TRA](https://open.spotify.com/artist/76Lm1HmUL1LDTRoP0za2qi), [Prohibeats](https://open.spotify.com/artist/6heZ8Pfr4lqfDADLtrBqkn) | [Cinderella](https://open.spotify.com/album/1wh2tpER5kDqXXF3qjIo5y) | 3:00 | 2026-10-23 |  |
 | [Coachella](https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Coachella](https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2) | 3:07 | 2026-10-09 |  |
 | [Coco Samba](https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Coco Samba](https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5) | 3:09 | 2025-12-19 | 2026-03-17 |
 | [Color](https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Color / Wulo](https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56) | 2:02 | 2026-06-19 | 2026-07-16 |
@@ -87,7 +88,7 @@
 | [Figure 8 \(feat\. Pozer\)](https://open.spotify.com/track/4VlH3TF54MCxHTiWSxal5n) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [HYBRID](https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa) | 2:32 | 2026-02-06 | 2026-03-17 |
 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 | 2026-04-24 |  |
 | [Follow My Lead](https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Follow My Lead](https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z) | 2:20 | 2026-05-22 |  |
-| [For You](https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [For You](https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP) | 2:46 | 2026-08-21 |  |
+| [For You](https://open.spotify.com/track/0Cn0RxpysoQYWvjHmoR1Px) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [For You](https://open.spotify.com/album/5gu7XDn325yHFlVxAGZJlP) | 2:46 | 2026-08-21 | 2026-10-26 |
 | [Forex Boys](https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Forex Boys](https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg) | 2:17 | 2025-10-24 | 2026-01-15 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2025-10-24 | 2026-05-22 |
 | [Fuji Fusion](https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [K1 De Ultimate](https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 3:15 | 2025-10-24 | 2025-12-05 |

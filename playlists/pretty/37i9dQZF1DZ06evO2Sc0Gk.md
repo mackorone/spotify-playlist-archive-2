@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,615 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,619 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 10 | [Arcoíris](https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:06 |
 | 11 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
 | 12 | [Bad Vibe](https://open.spotify.com/track/70eehEqNug7oAhozjhG21t) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Bad Vibe](https://open.spotify.com/album/0gLjyIohhJ5LxXPRJhIOtq) | 3:34 |
-| 13 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
-| 14 | [Falling For U](https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:03 |
+| 13 | [Falling For U](https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:03 |
+| 14 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
 | 15 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
 | 16 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
 | 17 | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 2:53 |
 | 50 | [Never Walk Alone](https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Les Teriba](https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG), [Jessi Selm](https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq) | [Never Walk Alone](https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9) | 3:34 |
 
-Snapshot ID: `atqjgAAAAADK1a0G1xp/NS8+Wz0V3k7L`
+Snapshot ID: `atv1AAAAAADHbqPAU+MU9qO28ePx5RkY`

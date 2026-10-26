@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 154705,
       "name": "2FRESH",
       "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
@@ -8834,7 +8834,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 140916,
       "name": "For Me",
       "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
@@ -10426,7 +10426,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 129391,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
@@ -22168,6 +22168,28 @@
       "duration_ms": 146165,
       "name": "SHEGE",
       "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
+    },
+    {
+      "album": {
+        "name": "Shenk Me",
+        "url": "https://open.spotify.com/album/5yNwyn1a11z9XW46Nlm1kI"
+      },
+      "artists": [
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Shenk Me",
+      "url": "https://open.spotify.com/track/0Zuc6Ez9Y9qVt5Sp6AfoUK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Qlas, The Opposites, LISA, Bente, Jan Smit en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,240 likes - 88 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,229 likes - 88 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

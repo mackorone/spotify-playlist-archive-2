@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 24 | [It Only Bothers You](https://open.spotify.com/track/5AJps1PW2mre1T6W2OvLq2) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:03 |
 | 25 | [412](https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:54 |
 | 26 | [Boy](https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh) | 3:21 |
-| 27 | [Start out with Differences](https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:49 |
-| 28 | [Stick to Silence](https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8) | 3:46 |
+| 27 | [Stick to Silence](https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8) | 3:46 |
+| 28 | [Start out with Differences](https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:49 |
 | 29 | [Mike + Susan](https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:01 |
 | 30 | [Marcel and the Prince](https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Marcel and the Prince](https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl) | 3:27 |
 | 31 | [Adriatic](https://open.spotify.com/track/7aagL2vRScO72Jb7YNRixX) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 2:57 |
 | 32 | [Swamp Monsters of Malibu](https://open.spotify.com/track/3MZTTI3u2j16Lq8F3Dn0AD) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 3:42 |
 
-Snapshot ID: `atqjgAAAAABgkdBJbrbnGpo0X40SCKNv`
+Snapshot ID: `atv1AAAAAADZvYYAkPr0HjPJxkUtM0z/`

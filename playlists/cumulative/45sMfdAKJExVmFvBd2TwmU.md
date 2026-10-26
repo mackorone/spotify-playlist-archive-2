@@ -4,7 +4,7 @@
 
 > LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional, Love, Pyaar, 2025, 2024, Old, Retro, Classic, Top Hits, Bollywood, Arijit Singh , Hindi , Lofi, Soothing, Night, Romance, Bollywood, 1am Feels, BEST SONG'S FOREVER, Sad Love,  Metro
 
-189 songs - 14 hr 26 min
+190 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chale Jaana Phir \(Humko Tere Bina\)](https://open.spotify.com/track/0ELwxG13ijfCPEWi2pAKrO) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Chale Jaana Phir \(Humko Tere Bina\)](https://open.spotify.com/album/72Moe2qRkjV00sSpdvDy1W) | 3:28 | 2024-11-08 | 2025-02-22 |
 | [Chan Kithan](https://open.spotify.com/track/3DJVLBNKQi8fzhTWFxAzS6) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chan Kithan](https://open.spotify.com/album/4BWqJqgYMTHT8SJfIriqzz) | 3:53 | 2024-09-13 | 2025-02-22 |
 | [Chandni Raat](https://open.spotify.com/track/1pVdPY6jzjTFRwk1sXu3G7) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chandni Raat](https://open.spotify.com/album/4p089B9MpULeI6pdez7XEe) | 3:45 | 2024-09-13 | 2025-02-22 |
+| [Chann \(From "Udta Teer"\)](https://open.spotify.com/track/2oxJR1QaLRhLMDVZGhf2y2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Udta Teer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5w8BWgvkabp4eWuP0YgR3A) | 3:37 | 2026-10-25 |  |
 | [Channa Mereya](https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:49 | 2021-10-19 |  |
 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 | 2022-05-10 | 2025-02-27 |
 | [Chaudhary](https://open.spotify.com/track/4QSF0d4ENvMXA03ARpMfaP) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Coke Studio @ MTV Season 2: Episode 3](https://open.spotify.com/album/6gkukpPq6e1QVHfeVk90wN) | 7:03 | 2022-05-23 | 2024-04-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 315805,
+  "num_followers": 315861,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 265840,
       "name": "Como Tu Mujer - Banda",
       "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Por Eso...Gracias",
-        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 204160,
       "name": "Hasta Cuando",
       "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Por Eso...Gracias",
+        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1100,8 +1100,8 @@
       },
       "artists": [
         {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+          "name": "V\u00edctor Garc\u00eda",
+          "url": "https://open.spotify.com/artist/078M0vNpNlDO8WxHEkXYwz"
         }
       ],
       "duration_ms": 234586,
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 191426,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2026-07-16 23:50:42",

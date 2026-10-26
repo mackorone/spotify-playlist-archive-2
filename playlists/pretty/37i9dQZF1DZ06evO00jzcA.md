@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,498 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,503 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [Rock And Roll All Nite \- MOONLGHT Remix](https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Rock And Roll All Nite \(MOONLGHT Remix\)](https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn) | 2:15 |
 | 50 | [See You Tonight \- Live From MTV Unplugged/1995](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 |
 
-Snapshot ID: `atqjgAAAAAAGJO40CAJ5i15ZzImVjgTB`
+Snapshot ID: `atv1AAAAAAAEjnVh97QLv6ddMKk0RcdM`

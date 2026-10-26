@@ -6159,6 +6159,32 @@
     },
     {
       "album": {
+        "name": "Dame Hombro",
+        "url": "https://open.spotify.com/album/3jQsz4uZDT3oZJEzcxKUjq"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Kevin Wai",
+          "url": "https://open.spotify.com/artist/51juLUSUPiiS1aWyVPbd2o"
+        },
+        {
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124068,
+      "name": "Dame Hombro",
+      "url": "https://open.spotify.com/track/1FXksRH3lFxHPlBauolc3C"
+    },
+    {
+      "album": {
         "name": "Dandy Hats",
         "url": "https://open.spotify.com/album/2PaQhEbysv44gT3PRJ5XRs"
       },
@@ -6188,7 +6214,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 170736,
       "name": "Dandy Hats",
       "url": "https://open.spotify.com/track/3XtzisizPzb5ednIuoyVAM"
@@ -6718,7 +6744,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
@@ -8458,7 +8484,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -8502,7 +8528,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -9484,7 +9510,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 190702,
       "name": "Estoy Pa' Ti",
       "url": "https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn"
@@ -11088,7 +11114,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 262079,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/6QTckciPQ3qzXGnjrvVNbn"
@@ -12018,7 +12044,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"

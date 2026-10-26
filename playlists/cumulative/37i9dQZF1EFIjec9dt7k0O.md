@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-298 songs - 17 hr 43 min
+299 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Starstruck](https://open.spotify.com/track/4AqEceMyT2kzRegDlsfsxm) | [ak47](https://open.spotify.com/artist/4BYkUFkq0giCcrS9GHs2hl) | [Starstruck](https://open.spotify.com/album/3L1SIwyoupxEtYfuJScCwV) | 4:25 | 2026-09-04 | 2026-09-13 |
 | [Starstruck](https://open.spotify.com/track/5Fw7yraHVaSBqXjB0EL8J5) | [ak47](https://open.spotify.com/artist/4BYkUFkq0giCcrS9GHs2hl) | [Starstruck](https://open.spotify.com/album/6qZVGtjFKLoiAB6kZvkLSQ) | 4:25 | 2026-03-11 | 2026-08-20 |
 | [Starstruck \(OG\)](https://open.spotify.com/track/4HqIYdeTAklTMCLgyFVkt4) | [MacGrath](https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW) | [Starstruck \(OG\)](https://open.spotify.com/album/7zgNIJKcTA0R0tbJwOkLSP) | 4:23 | 2026-09-12 | 2026-10-20 |
+| [Starstruck \- OG](https://open.spotify.com/track/61u0ZxFzST17v7hkgk06VX) | [Alohomora](https://open.spotify.com/artist/36LShJFPPPGyK0yEEju96B), [novanitys](https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP) | [Starstruck \(OG\)](https://open.spotify.com/album/0YKaHzekWyhVVKQndHGJs7) | 4:20 | 2026-10-25 |  |
 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 | 2025-04-10 | 2025-04-12 |
 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 | 2025-04-10 |  |
 | [Straight to Hell](https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 3:45 | 2025-04-10 |  |

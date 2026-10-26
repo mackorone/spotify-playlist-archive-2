@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Chris Nolan, 333 Mob, BATTISTA, Frezza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,351 likes - 109 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,348 likes - 109 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

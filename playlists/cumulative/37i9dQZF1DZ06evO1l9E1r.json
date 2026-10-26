@@ -497,6 +497,32 @@
     },
     {
       "album": {
+        "name": "This Will Be Us",
+        "url": "https://open.spotify.com/album/2QQrvgTX9dLwUTycq6gi2N"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Robert Ames",
+          "url": "https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280120,
+      "name": "Blind Sarabande",
+      "url": "https://open.spotify.com/track/2QQI1Qv4rQ6aU9U4Atz5Ec"
+    },
+    {
+      "album": {
         "name": "Women Talking (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
       },
@@ -1698,7 +1724,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 140909,
       "name": "Make Space",
       "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"

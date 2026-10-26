@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,008 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,003 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

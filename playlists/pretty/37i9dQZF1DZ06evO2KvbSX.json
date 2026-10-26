@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 811577,
+  "num_followers": 811574,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAA6rsMNOHajd1vRNFbBqE3v",
+  "snapshot_id": "atv1AAAAAAD3ggpOc/wLTqApAP3TiBiq",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 220779,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
+      "duration_ms": 218900,
+      "name": "Before You Go - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 218900,
-      "name": "Before You Go - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
+      "duration_ms": 220779,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 32459,
+  "num_followers": 32461,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAC4/Kod5EY4+52ryHJORtNI",
+  "snapshot_id": "atv1AAAAAABBslS4gxWOsarJVuAs4UmX",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 230457,
-      "name": "Against the Wind",
-      "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
+      "duration_ms": 147453,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
     },
     {
       "added_at": null,
@@ -363,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -420,9 +388,41 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 169326,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+      "duration_ms": 230457,
+      "name": "Against the Wind",
+      "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 305506,
-      "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
+      "duration_ms": 169326,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 192301,
+      "name": "The Pilgrim, Chapter 33",
+      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 296586,
       "name": "Me and Bobby McGee - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/0Hb9GMc1lWt8FTnBCzELtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 192301,
-      "name": "The Pilgrim, Chapter 33",
-      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Was a Capricorn",
+        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 206728,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joyful Noise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
       },
@@ -799,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Was a Capricorn",
-        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
       "artists": [
         {
@@ -808,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 206728,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
+      "duration_ms": 157733,
+      "name": "Please Don't Tell Me How the Story Ends",
+      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 277927,
       "name": "Desperados Waiting for a Train",
       "url": "https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Please Don't Tell Me How the Story Ends",
-      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,
@@ -979,38 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman 2",
-        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157150,
-      "name": "Two Stories Wide",
-      "url": "https://open.spotify.com/track/673LeigxlaoCkxPaIyv5Sc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 154436,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 157150,
+      "name": "Two Stories Wide",
+      "url": "https://open.spotify.com/track/673LeigxlaoCkxPaIyv5Sc"
     },
     {
       "added_at": null,
@@ -1139,6 +1139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Who's to Bless and Who's to Blame",
+      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Who's to Bless and Who's to Blame",
-      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Closer to the Bone",
         "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
@@ -1187,6 +1187,30 @@
       "duration_ms": 170920,
       "name": "Good Morning John",
       "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ralph Emery's Country Legends Series (Vol. 2 / Live)",
+        "url": "https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "Help Me Make It Through The Night - Live",
+      "url": "https://open.spotify.com/track/4QClPXF2xUraplS3mHHPck"
     },
     {
       "added_at": null,
@@ -1219,30 +1243,6 @@
       "duration_ms": 177638,
       "name": "Songs That Make a Difference",
       "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ralph Emery's Country Legends Series (Vol. 2 / Live)",
-        "url": "https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3"
-      },
-      "artists": [
-        {
-          "name": "Gaither",
-          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "Help Me Make It Through The Night - Live",
-      "url": "https://open.spotify.com/track/4QClPXF2xUraplS3mHHPck"
     },
     {
       "added_at": null,
@@ -1379,18 +1379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/1bqeVjo54gj4BjjOH8dC97"
       },
       "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Mark Lanegan",
+          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Nobody Wins",
-      "url": "https://open.spotify.com/track/7FpRYdpA3Qg3c0Q1ZXN905"
+      "duration_ms": 342857,
+      "name": "The Lonely Night - Reprise Version",
+      "url": "https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

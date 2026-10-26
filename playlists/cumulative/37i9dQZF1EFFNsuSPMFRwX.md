@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-86 songs - 4 hr 45 min
+87 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Addicted \(ਆਦੀ\)](https://open.spotify.com/track/7CsARx4aBRnx7r76rPMuuL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted \(ਆਦੀ\)](https://open.spotify.com/album/2mb6o5BhEvbO4ma4hf6hcy) | 2:58 | 2024-10-30 | 2024-11-09 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2024-10-17 |  |
 | [All I Got](https://open.spotify.com/track/4WUTu2622TEAFR4TlrjIjV) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:33 | 2025-10-15 |  |
+| [American Reject](https://open.spotify.com/track/4pmKjbBezddEs2Ctw3G2F6) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [American Reject](https://open.spotify.com/album/0tXpXRy8Zems3BQMoDh8mf) | 2:17 | 2026-10-25 |  |
 | [AMERIICAN REQUIEM](https://open.spotify.com/track/6ocGUvvzNkvf4hAV9VFb4P) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 5:25 | 2024-10-22 |  |
 | [Back To Love](https://open.spotify.com/track/2HDqP1ao45k1t7mPe7lo4C) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:40 | 2022-05-25 |  |
 | [Back To Love](https://open.spotify.com/track/5ieTob4Bbn9DF97YakQUO9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To Love \(Official Video\)](https://open.spotify.com/album/3QnR1AJ8ejS2E9RRTnaW62) | 4:54 | 2023-12-17 | 2024-02-02 |

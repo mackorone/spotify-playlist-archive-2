@@ -7964,7 +7964,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 227175,
       "name": "GALA",
       "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
@@ -27588,6 +27588,24 @@
       "duration_ms": 204581,
       "name": "\u3042\u3093\u3057\u3093",
       "url": "https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176594,
+      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
     },
     {
       "album": {

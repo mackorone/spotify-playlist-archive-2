@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 22163,
+  "num_followers": 22174,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
       "artists": [
         {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -259,22 +263,18 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -371,30 +371,18 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Dont Come Too Close II",
-        "url": "https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Okese1",
-          "url": "https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Sista Afia",
-          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 186932,
-      "name": "Dont Come Too Close II",
-      "url": "https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE"
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -423,18 +411,30 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+        "name": "Dont Come Too Close II",
+        "url": "https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Okese1",
+          "url": "https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 186932,
+      "name": "Dont Come Too Close II",
+      "url": "https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "WALK WITH ME",
+        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 154335,
+      "name": "Adu the Borga",
+      "url": "https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "365 Days",
         "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 188041,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "WALK WITH ME",
-        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
-      },
-      "artists": [
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 154335,
-      "name": "Adu the Borga",
-      "url": "https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Major League",
-        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Major League",
-      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "NO DAYS OFF",
         "url": "https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w"
       },
@@ -739,22 +719,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Biggest Nathaniel",
-        "url": "https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf"
+        "name": "Major League",
+        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
       },
       "artists": [
         {
-          "name": "N.E records",
-          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
         }
       ],
-      "duration_ms": 171483,
-      "name": "Biggest Nathaniel",
-      "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
+      "duration_ms": 177931,
+      "name": "Major League",
+      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -771,6 +751,26 @@
       "duration_ms": 149543,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "Biggest Nathaniel",
+        "url": "https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf"
+      },
+      "artists": [
+        {
+          "name": "N.E records",
+          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 171483,
+      "name": "Biggest Nathaniel",
+      "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Their Back",
-        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 161320,
-      "name": "Their Back",
-      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "The Interface (Shatta Music Genre)",
         "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 151288,
       "name": "Yawa Ni (shatta music)",
       "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "Their Back",
+        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "Their Back",
+      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "VOICE OF THE CROWN (African Dancehall)",
+        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 175682,
+      "name": "STREET CROWN (African Dancehall)",
+      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
@@ -935,18 +951,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "VOICE OF THE CROWN (African Dancehall)",
-        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
+        "name": "Y3 Guy",
+        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 175682,
-      "name": "STREET CROWN (African Dancehall)",
-      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
+      "duration_ms": 145146,
+      "name": "Y3 Guy",
+      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -971,22 +991,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Y3 Guy",
-        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
+        "name": "Bendova",
+        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
       },
       "artists": [
         {
-          "name": "Ypee",
-          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 145146,
-      "name": "Y3 Guy",
-      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
+      "duration_ms": 162941,
+      "name": "Bendova",
+      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1019,26 +1039,6 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Bendova",
-        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
-      },
-      "artists": [
-        {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 162941,
-      "name": "Bendova",
-      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 167067,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "Catching Glory",
         "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 106997,
       "name": "Catching Glory",
       "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 167067,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "Your Body (Crazy)",
+        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Your Body (Crazy)",
+      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Your Body (Crazy)",
-        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Your Body (Crazy)",
-      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Stopit",
-        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
+        "name": "MIX MIX (KINGSIZE)",
+        "url": "https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
         }
       ],
-      "duration_ms": 150545,
-      "name": "Stopit",
-      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
+      "duration_ms": 180007,
+      "name": "MIX MIX (KINGSIZE)",
+      "url": "https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1327,26 +1323,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "Sweet Songs 4 You",
         "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
       },
@@ -1367,6 +1343,46 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "Stopit",
+        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "Stopit",
+      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "TREASURE",
         "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 132000,
       "name": "TREASURE",
       "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "MIX MIX (KINGSIZE)",
-        "url": "https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9"
-      },
-      "artists": [
-        {
-          "name": "Gonaboy",
-          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
-        }
-      ],
-      "duration_ms": 180007,
-      "name": "MIX MIX (KINGSIZE)",
-      "url": "https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 157388,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     }
   ],
   "unique_name": "Troski Rhythms",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,590 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,624 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 64 | [Shauq](https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 4:16 |
 | 65 | [Kitni Haseen Zindagi](https://open.spotify.com/track/7x5gwdWM7oc6aJ7ZXy9Vnw) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:15 |
 | 66 | [Feeka](https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [NEVERSOBER](https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO) | [Feeka](https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A) | 2:43 |
-| 67 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabaat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
-| 68 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 |
+| 67 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 |
+| 68 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabaat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
 | 69 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
 | 70 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 71 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |

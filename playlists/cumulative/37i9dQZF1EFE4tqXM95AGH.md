@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-278 songs - 15 hr 4 min
+281 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cool](https://open.spotify.com/track/0pJObmIY6LQTvZEuE6MLa2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:34 | 2022-11-25 | 2024-07-01 |
 | [Cool](https://open.spotify.com/track/4Ab4qiJwF34AREVIpjiBeF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:34 | 2024-06-30 |  |
 | [Corsetry](https://open.spotify.com/track/3d73BWUcr64uukiqb5Rjjq) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:33 | 2026-09-30 |  |
+| [Credit](https://open.spotify.com/track/6kRjueIue1jSnNZ39XsnnP) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still Look Pretty \(10 Year Anniversary Deluxe Edition\)](https://open.spotify.com/album/1TZUQVQW6dMSdqexGLBdwq) | 3:36 | 2026-10-25 |  |
 | [Cruel](https://open.spotify.com/track/3ZxtQyBPlRDQmffv7KfKCP) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 4:26 | 2021-12-27 |  |
 | [Dance To This](https://open.spotify.com/track/11ccL8XCsPc55IwGJLZxV4) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dance To This](https://open.spotify.com/album/2lTiv0EG3nVfpuCpcI5Z43) | 4:08 | 2023-12-16 | 2024-01-30 |
 | [Dance To This \(feat\. Ariana Grande\)](https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:51 | 2021-12-27 |  |
@@ -83,9 +84,10 @@
 | [Going Down Tonight](https://open.spotify.com/track/7b1X67lWMeRBc4YlODBtgW) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [Going Down Tonight](https://open.spotify.com/album/4N5Hh3zfIpllkeZspmqh7s) | 2:28 | 2021-12-27 |  |
 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 | 2021-12-27 |  |
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-12-13 |  |
-| [Got the Feeling](https://open.spotify.com/track/3Z3U4m3C7WUoRf0lctIzfx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:37 | 2024-06-30 |  |
+| [Got the Feeling](https://open.spotify.com/track/3Z3U4m3C7WUoRf0lctIzfx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:37 | 2024-06-30 | 2026-10-26 |
 | [Got the Feeling](https://open.spotify.com/track/4FfF7wNcXnqDPxO8t8dwJM) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:37 | 2022-11-25 | 2024-07-01 |
 | [Got the Feeling](https://open.spotify.com/track/4KwKkFH6jndP7Cyz4eBsps) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:37 | 2021-12-27 | 2022-11-26 |
+| [Got the Feeling](https://open.spotify.com/track/4xyZtd2AlgGcv8MqeWj4ov) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still Look Pretty \(10 Year Anniversary Deluxe Edition\)](https://open.spotify.com/album/1TZUQVQW6dMSdqexGLBdwq) | 3:37 | 2026-10-25 |  |
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2021-12-27 | 2022-02-21 |
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/5MYsn6ZeNgax3SFoqUlqz0) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:31 | 2022-02-19 |  |
 | [Half of You](https://open.spotify.com/track/30H1zqTlhaPLlbGyTD21n6) | [Bram Inscore](https://open.spotify.com/artist/0Utgbb1Imx2ujqQafJU3h9), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:40 | 2021-12-27 |  |
@@ -161,6 +163,7 @@
 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 | 2021-12-27 |  |
 | [Never Getting Away](https://open.spotify.com/track/0Ztoe7sRtkPPjV3s0l419z) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:54 | 2026-10-18 |  |
 | [New](https://open.spotify.com/track/4tERsdVCLtLtrGdFBf9DGC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [New](https://open.spotify.com/album/2d0gY2dVxHmpcOLvQqQ7NL) | 3:50 | 2021-12-27 |  |
+| [Next Plane Out](https://open.spotify.com/track/7aVp6jiAK8aEIhNH0UniNX) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still Look Pretty \(10 Year Anniversary Deluxe Edition\)](https://open.spotify.com/album/1TZUQVQW6dMSdqexGLBdwq) | 3:41 | 2026-10-25 |  |
 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 | 2021-12-27 |  |
 | [Not Today](https://open.spotify.com/track/2RZCuOGKcbo7o6EOwZXhRA) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:47 | 2022-11-03 |  |
 | [Obsessed](https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Obsessed](https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s) | 2:14 | 2021-12-27 |  |

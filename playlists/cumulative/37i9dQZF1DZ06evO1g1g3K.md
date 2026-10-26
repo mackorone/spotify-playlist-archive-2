@@ -4,7 +4,7 @@
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 26 min
+70 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,13 +67,14 @@
 | [SHARP!](https://open.spotify.com/track/03uiW6i8PvidJ8zTHrIKKn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:47 | 2026-05-03 | 2026-05-09 |
 | [sleep](https://open.spotify.com/track/1GEvQvw4CY8qski1ziNFCK) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:12 | 2026-05-03 | 2026-05-11 |
 | [Sleepwalking \(+ Durand Bernarr\)](https://open.spotify.com/track/3lHS33KwhJWbDNyB3DNUwu) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [LK99+ DELUXE](https://open.spotify.com/album/5hUAbUCIJngR91GstQaBNZ) | 3:45 | 2026-10-11 |  |
-| [soft.](https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 | 2026-05-09 |  |
+| [soft.](https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 | 2026-05-09 | 2026-10-26 |
 | [STUCK.](https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:21 | 2026-02-26 |  |
 | [Sugar Family](https://open.spotify.com/track/6KuFyZVksTe1W0yKWtFRci) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:47 | 2026-05-03 | 2026-05-08 |
 | [Undivided](https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:52 | 2026-05-03 |  |
 | [Unknown](https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:50 | 2026-02-26 |  |
 | [Vacancy \(feat\. Just Liv\)](https://open.spotify.com/track/0CS4UnPB1EoMWGB0DFjUy4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Just Liv](https://open.spotify.com/artist/0TkJwaDSQ3kVhCxEPX0wey) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 4:03 | 2026-02-26 | 2026-05-03 |
 | [Volume](https://open.spotify.com/track/1C7a5e3KDgbBuVnmZJKTX0) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 3:38 | 2026-02-26 |  |
+| [Waiting](https://open.spotify.com/track/6ObpVLf935hlJOIEpr70cx) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:03 | 2026-10-26 |  |
 | [Weird \(feat\. Durand Bernarr\)](https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:27 | 2026-02-26 |  |
 | [Whisper \(Want My Luv\)](https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Allen Love](https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [If I Fail Are We Still Cool?](https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB) | 3:49 | 2026-02-26 |  |
 | [Wild Ride](https://open.spotify.com/track/41X89JT5axSqQYozs2op40) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Wild Ride](https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY) | 4:02 | 2026-03-22 | 2026-05-18 |

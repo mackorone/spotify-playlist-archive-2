@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47052,
+  "num_followers": 47056,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "FIORI MORTI",
-        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
-      },
-      "artists": [
-        {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
-        }
-      ],
-      "duration_ms": 136313,
-      "name": "FIORI MORTI",
-      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 176259,
       "name": "Resta Vivo",
       "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "FIORI MORTI",
+        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
+      },
+      "artists": [
+        {
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+        }
+      ],
+      "duration_ms": 136313,
+      "name": "FIORI MORTI",
+      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
-      },
-      "artists": [
-        {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Per starci in due",
-        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Per starci in due",
-      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "PERCH\u00c9 NON TI CAPIVO",
         "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
       },
@@ -1115,6 +1083,38 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Per starci in due",
+        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Per starci in due",
+      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+      },
+      "artists": [
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1455,26 +1455,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "non sto bene, va bene cos\u00ec",
+        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+      "duration_ms": 113816,
+      "name": "Ho perso il cuore,",
+      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1511,18 +1503,26 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "non sto bene, va bene cos\u00ec",
-        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
       "artists": [
         {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
         }
       ],
-      "duration_ms": 113816,
-      "name": "Ho perso il cuore,",
-      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1631,42 +1631,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "PARADISO PERDUTO",
         "url": "https://open.spotify.com/album/5jCQvGz0p5yv2vjcmPmA1S"
       },
@@ -1687,6 +1651,42 @@
       "duration_ms": 144000,
       "name": "Passaporto (feat. Dimawhite)",
       "url": "https://open.spotify.com/track/2G2kU72RuO80kLecvjp0MZ"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2026-07-30 22:02:52",

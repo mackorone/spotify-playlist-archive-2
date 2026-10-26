@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 228470,
+  "num_followers": 228482,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Hollow Earth",
-        "url": "https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 311836,
-      "name": "Hollow Earth",
-      "url": "https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Gold Fiction Loop Garden",
         "url": "https://open.spotify.com/album/1xuprH46uojeEL4YAPx6YG"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 150045,
       "name": "Yellow Calcite",
       "url": "https://open.spotify.com/track/5eTpf3MIpOMYDbrrJNfTZQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Hollow Earth",
+        "url": "https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 311836,
+      "name": "Hollow Earth",
+      "url": "https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
-      },
-      "artists": [
-        {
-          "name": "Saloli",
-          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Barcarolle",
-      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Nothing Is Objective",
         "url": "https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 386853,
       "name": "Nothing Ends 2018",
       "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
+      },
+      "artists": [
+        {
+          "name": "Saloli",
+          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Barcarolle",
+      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
     },
     {
-      "added_at": "2024-09-06 00:00:04",
-      "album": {
-        "name": "All These Worlds, Pt. II",
-        "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "All These Worlds, Pt. II",
-      "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Illusion Of Time",
@@ -543,6 +527,22 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA"
+    },
+    {
+      "added_at": "2024-09-06 00:00:04",
+      "album": {
+        "name": "All These Worlds, Pt. II",
+        "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 239967,
+      "name": "All These Worlds, Pt. II",
+      "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Land III",
-        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        },
-        {
-          "name": "Carmen Ruiz",
-          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
-        }
-      ],
-      "duration_ms": 284684,
-      "name": "Land III - Vocal Mix",
-      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 299892,
       "name": "Our New Order",
       "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Land III",
+        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        },
+        {
+          "name": "Carmen Ruiz",
+          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
+        }
+      ],
+      "duration_ms": 284684,
+      "name": "Land III - Vocal Mix",
+      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
     },
     {
       "added_at": "2023-12-12 18:06:55",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Picnic",
-        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
-      },
-      "artists": [
-        {
-          "name": "Picnic",
-          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
-        }
-      ],
-      "duration_ms": 436796,
-      "name": "Plush Hooves",
-      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 386000,
       "name": "Labyrinth (Exit)",
       "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+      },
+      "artists": [
+        {
+          "name": "Picnic",
+          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+        }
+      ],
+      "duration_ms": 436796,
+      "name": "Plush Hooves",
+      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos"
     },
     {
+      "added_at": "2024-05-30 01:04:31",
+      "album": {
+        "name": "Even Stars Explode",
+        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Even Stars Explode",
+      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
+    },
+    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Lost Transmissions From the Off-World Territories",
@@ -1075,22 +1091,6 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
-    },
-    {
-      "added_at": "2024-05-30 01:04:31",
-      "album": {
-        "name": "Even Stars Explode",
-        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Even Stars Explode",
-      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
     },
     {
       "added_at": "2024-01-11 03:32:09",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Return Forever",
+        "url": "https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT"
+      },
+      "artists": [
+        {
+          "name": "Innere Tueren",
+          "url": "https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y"
+        }
+      ],
+      "duration_ms": 281228,
+      "name": "Return Forever",
+      "url": "https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Haust",
         "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1391,38 +1391,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Long Count",
-        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
-      },
-      "artists": [
-        {
-          "name": "Debit",
-          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "1st Day",
-      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Return Forever",
-        "url": "https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT"
-      },
-      "artists": [
-        {
-          "name": "Innere Tueren",
-          "url": "https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y"
-        }
-      ],
-      "duration_ms": 281228,
-      "name": "Return Forever",
-      "url": "https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "E2-XO",
         "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
       },
@@ -1435,6 +1403,38 @@
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "The Long Count",
+        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
+      },
+      "artists": [
+        {
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "1st Day",
+      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Forget The Curse",
-        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
-      },
-      "artists": [
-        {
-          "name": "Troth",
-          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
-        }
-      ],
-      "duration_ms": 379573,
-      "name": "Phare",
-      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Overlay (KMRU Remix)",
         "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 305353,
       "name": "Overlay - KMRU Remix",
       "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Forget The Curse",
+        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+      },
+      "artists": [
+        {
+          "name": "Troth",
+          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+        }
+      ],
+      "duration_ms": 379573,
+      "name": "Phare",
+      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Birthmark",
-        "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
-      },
-      "artists": [
-        {
-          "name": "Minotauro",
-          "url": "https://open.spotify.com/artist/25adRravBvCxFrjrs3527m"
-        }
-      ],
-      "duration_ms": 189525,
-      "name": "Birthmark",
-      "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Paisajes en Saturno",
         "url": "https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 384000,
       "name": "Tit\u00e1n",
       "url": "https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Birthmark",
+        "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
+      },
+      "artists": [
+        {
+          "name": "Minotauro",
+          "url": "https://open.spotify.com/artist/25adRravBvCxFrjrs3527m"
+        }
+      ],
+      "duration_ms": 189525,
+      "name": "Birthmark",
+      "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Spheres (Original Score)",
-        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 223898,
-      "name": "Accretion Disk",
-      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Soundtracks: Capri-Revolution",
         "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 195317,
       "name": "Licidana",
       "url": "https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Spheres (Original Score)",
+        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 223898,
+      "name": "Accretion Disk",
+      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
     },
     {
       "added_at": "2023-04-21 14:41:23",

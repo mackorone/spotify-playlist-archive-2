@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,789 songs - 4 day 12 hr 12 min
+1,790 songs - 4 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-03-06 |
 | [Gacha Gacha](https://open.spotify.com/track/6dpzlQqI1Ngp4zsO3aw3Fr) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Gacha Gacha](https://open.spotify.com/album/2ad11ILhJNc7LKjEbOwzBu) | 2:24 | 2024-01-16 | 2024-02-14 |
 | [gadja](https://open.spotify.com/track/3WACxt3lwEqbY472GCnK34) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [gadja](https://open.spotify.com/album/7EdCjLHar1xl5sOaJ18l9f) | 2:26 | 2022-07-12 | 2022-08-10 |
-| [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-18 |  |
+| [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-18 | 2026-10-26 |
 | [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 | 2024-11-13 | 2025-01-29 |
 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 | 2023-03-05 | 2023-03-08 |
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2023-06-06 | 2024-04-19 |
@@ -1385,6 +1385,7 @@
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 | 2024-07-31 |
 | [ありふれた世界の果てに \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/7HNGIBi7xkcN1YGyhdjPkA) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [ありふれた世界の果てに \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/6KTsZEbfsMrOl60ApHL7hK) | 3:54 | 2026-09-16 |  |
 | [あんしん](https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あんしん](https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO) | 3:24 | 2023-10-31 | 2023-11-02 |
+| [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 | 2026-10-20 |  |
 | [いい湯だな](https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [いい湯だな](https://open.spotify.com/album/51pzkf8OJNPjGHHN8uyqnW) | 2:11 | 2024-10-23 | 2024-11-23 |
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-10 | 2023-01-18 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 | 2023-09-13 |

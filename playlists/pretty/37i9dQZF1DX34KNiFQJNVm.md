@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  Raphaela Santos, Tz da Coronel com Matuê, Jorge & Mateus, John Mayer, Alok e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318,013 likes - 68 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,761 likes - 68 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

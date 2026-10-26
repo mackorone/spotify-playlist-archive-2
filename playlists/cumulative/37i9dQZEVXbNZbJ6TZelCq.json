@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 138274,
       "name": "Are basul big",
       "url": "https://open.spotify.com/track/5288pWStsdWkmd6nHwQbue"
@@ -8468,7 +8468,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 165910,
       "name": "Cash sau card",
       "url": "https://open.spotify.com/track/2Qx7HVYNfiKBDFQekaoZN3"
@@ -10826,7 +10826,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 154998,
       "name": "Countup",
       "url": "https://open.spotify.com/track/0Avd3IwLnCDp3HErwUIsjA"
@@ -23472,7 +23472,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "Inima fara noroc",
       "url": "https://open.spotify.com/track/5DwFy1Hh4B6Net4HTuznM6"
@@ -31564,7 +31564,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "M\u0103 sun\u0103 nebunele",
       "url": "https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7"
@@ -44087,6 +44087,24 @@
     },
     {
       "album": {
+        "name": "Stau bine pe cascavalos",
+        "url": "https://open.spotify.com/album/1q0H2kdwctgXD5xbmynfl5"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173947,
+      "name": "Stau bine pe cascavalos",
+      "url": "https://open.spotify.com/track/189IUeKV4xXMKNwtNIjfLJ"
+    },
+    {
+      "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
@@ -45742,7 +45760,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 196285,
       "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
       "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
@@ -49666,7 +49684,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/4xqcdWSI76WcQBottrpm1Z"
@@ -49684,7 +49702,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 216804,
       "name": "ultima noapte de dragoste",
       "url": "https://open.spotify.com/track/0oXZ3qfucx429EeoUDbXhK"
@@ -50366,7 +50384,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 120024,
       "name": "Vb Frumos",
       "url": "https://open.spotify.com/track/52WSv1pJToTwF8qCZbHBHG"

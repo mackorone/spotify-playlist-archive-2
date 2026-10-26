@@ -16210,7 +16210,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 223173,
       "name": "Big Tipper (feat. Lil Keed)",
       "url": "https://open.spotify.com/track/2lcJWXNJUjjL3ycoZrpU2g"
@@ -20678,7 +20678,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 159226,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
@@ -129536,7 +129536,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 202133,
       "name": "Tell Me What It Is",
       "url": "https://open.spotify.com/track/4UddKz4WBKn5b9tDB6tq2L"
@@ -148508,6 +148508,24 @@
       "duration_ms": 151539,
       "name": "Who You Foolin",
       "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
+    },
+    {
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
     },
     {
       "album": {

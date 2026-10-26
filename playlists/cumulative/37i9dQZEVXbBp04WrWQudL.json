@@ -314,7 +314,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 188988,
       "name": "Animal - Live From The WILDWORLD Tour",
       "url": "https://open.spotify.com/track/5yvV1RkJk6TW8Q2pqEsDOq"
@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/2FGr02yaJ0ngS7bUPCfxhs"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110378,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/5zTWPAxPMRdV7dMWXXih2n"
+    },
+    {
+      "album": {
         "name": "Bartender In Destin (Acoustic)",
         "url": "https://open.spotify.com/album/3zkcthMLpxoxnfOoqQDi1Z"
       },
@@ -630,7 +648,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 196788,
       "name": "Coast 2 Coast",
       "url": "https://open.spotify.com/track/5a6y1a2SYr5M3ZK5A8Yxwi"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 204202,
       "name": "DOGGY",
       "url": "https://open.spotify.com/track/2SIo1Il9lJuM9yc2lBYnwd"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 159040,
       "name": "Flash (Minha Mente) \ud83d\udca0 - Ao Vivo",
       "url": "https://open.spotify.com/track/1I1MPJrUB2A2zdQRp2A91f"
@@ -3221,6 +3239,28 @@
     },
     {
       "album": {
+        "name": "Meu Sil\u00eancio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4raBGRZlCY0DlUJiAFsgl3"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183524,
+      "name": "Meu Sil\u00eancio - Ao Vivo",
+      "url": "https://open.spotify.com/track/1B3DrO9PIwoVhqOtRRIQvG"
+    },
+    {
+      "album": {
         "name": "Mi Chico (Official - Jason Derulo x Melody)",
         "url": "https://open.spotify.com/album/05oqu1s0LI6FeTJWbOwo6Y"
       },
@@ -3262,6 +3302,24 @@
       "duration_ms": 187583,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6KizolNUQTu8P0wLIhA6GC"
+    },
+    {
+      "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/7LgITyXKhSDvVOeD6glY9a"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/1yDEde77H60RnzDMH28dd1"
     },
     {
       "album": {
@@ -3968,7 +4026,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 161090,
       "name": "Pour La Famille (Live) | presented by OFFCULT",
       "url": "https://open.spotify.com/track/5qOdPm2fCDmAPhSxwXN3SO"
@@ -4630,7 +4688,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 208298,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
@@ -4890,7 +4948,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 157802,
       "name": "The Happy Song",
       "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
@@ -5052,7 +5110,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 229183,
       "name": "TRALALA",
       "url": "https://open.spotify.com/track/1DviBWXzR8j4JktAcHCAeT"
@@ -5128,7 +5186,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 244502,
       "name": "Unloveu - Official Visual",
       "url": "https://open.spotify.com/track/6kAsEs1uckPjz41spirAda"

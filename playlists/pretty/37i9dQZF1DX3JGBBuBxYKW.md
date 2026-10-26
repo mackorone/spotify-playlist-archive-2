@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,485 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,487 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 18 | [Y Así Se Dió \- Versión Cumbia](https://open.spotify.com/track/799GVpb5UfjY5FH0QPWpBy) | [Gabriela Flores](https://open.spotify.com/artist/0yZ5OMnbNJgGRpLiD32nrs) | [Y Así Se Dió](https://open.spotify.com/album/2fHsY4UjYtJfawvHvYhR38) | 3:24 |
 | 19 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
 | 20 | [Tal Vez](https://open.spotify.com/track/0FjwCoow8qR8XTavdBG48z) | [Grupo Europa](https://open.spotify.com/artist/1nmR8qemtRdHtpuN4IYIeO), [Flor Cazzuchelli](https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH) | [Tal Vez](https://open.spotify.com/album/2uZ1VaFkTWkDGh3QJRz3E8) | 3:42 |
-| 21 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 |
+| 21 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 |
 | 22 | [Frente a Frente](https://open.spotify.com/track/1BPay9AmvLAAVaShW3YU8a) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Frente a Frente](https://open.spotify.com/album/4VYKH1Hd5X53WoWpxgE0gg) | 3:25 |
 | 23 | [Porfa Te Pido](https://open.spotify.com/track/677fgjeX2es8NplsXYERXu) | [More Con Flow](https://open.spotify.com/artist/5NS2B9GuroT6TrPoxRKd4t) | [Porfa Te Pido](https://open.spotify.com/album/38tIaE05XirgnoS3IewTlT) | 2:27 |
-| 24 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 |
+| 24 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 |
 | 25 | [POR TI](https://open.spotify.com/track/6I1hlGt5m9PP1WLITfUwSG) | [Karla Melo](https://open.spotify.com/artist/61gIbdm4Yrxnomgkr9SrDw) | [POR TI](https://open.spotify.com/album/4or3HMLEPoR58uKAekYbOj) | 3:02 |
 | 26 | [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 |
 | 27 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |

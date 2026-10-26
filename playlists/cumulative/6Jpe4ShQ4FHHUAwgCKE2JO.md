@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-57 songs - 3 hr 25 min
+58 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Vote 'Em Out](https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Vote 'Em Out](https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb) | 2:20 | 2026-07-30 |  |
 | [Which Side are You On?](https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:09 | 2023-05-22 |  |
 | [WWIII Revisited](https://open.spotify.com/track/5Y7Ks0U3IXUe3jRESgbLIf) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Adventure Club](https://open.spotify.com/album/03a7pTsqnal3eE7QuntVo9) | 1:23 | 2025-07-30 |  |
+| [You Always Want to Bomb the Middle East](https://open.spotify.com/track/69bEOna47yZgFx2vO1E73N) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Too Much to Ask](https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6) | 3:47 | 2026-10-25 |  |
 | [Your Flag Decal Won't Get You into Heaven Anymore](https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 2:52 | 2023-05-10 |  |
 | [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 | 2024-11-28 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 545095,
+  "num_followers": 545229,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
-    },
-    {
-      "added_at": "2026-10-23 07:55:55",
-      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2026-10-23 07:55:55",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Line For Lyons",
-      "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
-    },
-    {
-      "added_at": "2026-10-23 07:55:55",
-      "album": {
         "name": "My Kinda Swing",
         "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Line For Lyons",
+      "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
     },
     {
       "added_at": "2026-10-23 07:55:55",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
-    },
-    {
-      "added_at": "2026-10-23 07:55:55",
-      "album": {
         "name": "How Love Begins (Extended Edition)",
         "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 316987,
       "name": "Two Fish - Alt Take",
       "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2026-10-23 07:55:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2026-10-23 07:55:55",
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 263444,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2026-10-23 07:55:55",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-23 07:55:55",
       "album": {
-        "name": "Delightfulee",
-        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
-    },
-    {
-      "added_at": "2026-10-23 07:55:55",
-      "album": {
         "name": "Love for Sale",
         "url": "https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 331666,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
+        "name": "Delightfulee",
+        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
     },
     {
       "added_at": "2026-10-23 07:55:55",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-10-23 07:55:55",
       "album": {
+        "name": "Easy come easy go (Edit)",
+        "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
+      },
+      "artists": [
+        {
+          "name": "Laurent De Wilde",
+          "url": "https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj"
+        }
+      ],
+      "duration_ms": 314306,
+      "name": "Easy come easy go - Edit",
+      "url": "https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
         "name": "Skamento",
         "url": "https://open.spotify.com/album/71uoYHx7cGdN8XHAvElVg5"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 264200,
       "name": "Skamento",
       "url": "https://open.spotify.com/track/2oQNyvZn0oDSWn73zf7FJ7"
-    },
-    {
-      "added_at": "2026-10-23 07:55:55",
-      "album": {
-        "name": "Easy come easy go (Edit)",
-        "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
-      },
-      "artists": [
-        {
-          "name": "Laurent De Wilde",
-          "url": "https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj"
-        }
-      ],
-      "duration_ms": 314306,
-      "name": "Easy come easy go - Edit",
-      "url": "https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie"
     },
     {
       "added_at": "2026-10-23 07:55:55",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-10-23 07:55:55",
       "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
+    },
+    {
+      "added_at": "2026-10-23 07:55:55",
+      "album": {
         "name": "Sextan Bucket",
         "url": "https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 190000,
       "name": "Sextan Bucket",
       "url": "https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx"
-    },
-    {
-      "added_at": "2026-10-23 07:55:55",
-      "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2026-10-23 07:55:55",

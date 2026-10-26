@@ -11844,6 +11844,28 @@
     {
       "album": {
         "name": "Vem de Golpe",
+        "url": "https://open.spotify.com/album/5qWn94B1uEHjL7fQNN824G"
+      },
+      "artists": [
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        },
+        {
+          "name": "Daniel Caon",
+          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161158,
+      "name": "Vem de Golpe",
+      "url": "https://open.spotify.com/track/36iXvyqwu5uyCI0XVYCMDz"
+    },
+    {
+      "album": {
+        "name": "Vem de Golpe",
         "url": "https://open.spotify.com/album/1f8K33BOZRgtwrreySnLvR"
       },
       "artists": [
@@ -11858,7 +11880,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 161158,
       "name": "Vem de Golpe",
       "url": "https://open.spotify.com/track/6iDb28CJfSjPo7dFbFcAUv"

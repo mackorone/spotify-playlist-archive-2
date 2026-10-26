@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,398 likes - 48 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,385 likes - 48 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 47 | [No Es Cierto](https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [No Es Cierto](https://open.spotify.com/album/6EQfZS6wgjOXRCWYn0oJmg) | 3:45 |
 | 48 | [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 |
 
-Snapshot ID: `atqjgAAAAAC2hTc5MReyPjekpPuiigg5`
+Snapshot ID: `atv1AAAAAAC1s4L07AWmyGaBeLt1thza`

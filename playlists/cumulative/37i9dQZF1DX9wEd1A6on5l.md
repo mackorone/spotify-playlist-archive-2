@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-961 songs - 1 day 21 hr 13 min
+962 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [GOLIATH](https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp) | 2:34 | 2025-07-18 | 2026-01-23 |
 | [Gon Gon](https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Gon Gon / No Forget](https://open.spotify.com/album/212j8iS52QLabW553im5hM) | 2:49 | 2024-08-02 | 2024-09-21 |
 | [Goodbye](https://open.spotify.com/track/6tFDS5LKWQbUFm0vZrhmvO) | [Shilexy](https://open.spotify.com/artist/7syExwVSn7jcM9VWQNU33d), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Goodbye](https://open.spotify.com/album/11Um6mbX3Mi0syR6IpDKqm) | 3:06 | 2023-02-24 | 2023-03-04 |
+| [Goyard](https://open.spotify.com/track/2Ts1hFAQq5k7sJFPiqt9Ff) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Goyard](https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS) | 2:00 | 2026-10-23 |  |
 | [Gratitude](https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:49 | 2026-05-18 |  |
 | [Greatest Lover](https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:10 | 2026-05-08 | 2026-05-19 |
 | [GTA](https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GTA](https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN) | 2:35 | 2026-07-31 |  |
@@ -788,7 +789,7 @@
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 | 2024-11-22 |
 | [shadow](https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [shadow](https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU) | 2:40 | 2024-04-12 | 2024-04-26 |
 | [Shagara](https://open.spotify.com/track/0yxmn9m8srZL6Ood6LVXfl) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Shagara](https://open.spotify.com/album/40blKlB4Hlfh19dHcoSoai) | 3:21 | 2024-09-13 | 2024-09-20 |
-| [Shakabulizzy \- Remix](https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shakabulizzy \(Remix\)](https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM) | 2:55 | 2025-10-24 |  |
+| [Shakabulizzy \- Remix](https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shakabulizzy \(Remix\)](https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM) | 2:55 | 2025-10-24 | 2026-10-26 |
 | [Shake](https://open.spotify.com/track/2Tnj5scf4WyR54SNu3pb9T) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:21 | 2025-10-03 | 2025-10-19 |
 | [Shake](https://open.spotify.com/track/6e5vqhKj1M5X02ocoxiPCH) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Don't Get Used To This](https://open.spotify.com/album/3v5qsWRB3qTlbd5RNXO3Be) | 3:34 | 2024-01-26 | 2024-02-11 |
 | [Shake Body](https://open.spotify.com/track/36G89SJXnRgcXtwl9HOzB3) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [GIVANO](https://open.spotify.com/artist/5qsyvtRCMdpOpq7s5uetZ4) | [Shake Body](https://open.spotify.com/album/7FUcwqHZEqvdy3ZRikJcTc) | 2:05 | 2026-05-25 | 2026-06-16 |

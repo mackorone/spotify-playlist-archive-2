@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 524833,
+  "num_followers": 524880,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAAvzt38aAGcvIvIGTbwDdWk",
+  "snapshot_id": "atv1AAAAAADyQN02ErfviNoafu29qJ0g",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "sugar honey ice & tea",
-      "url": "https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
         "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 274133,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "sugar honey ice & tea",
+      "url": "https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 185200,
-      "name": "sTr4nG3r5.vsn0",
-      "url": "https://open.spotify.com/track/5OjkJMfEVBAVgoYshwZuRt"
+      "duration_ms": 209611,
+      "name": "followU.bnd",
+      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
     },
     {
       "added_at": null,
@@ -844,13 +844,17 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
         }
       ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
+      "duration_ms": 162946,
+      "name": "canyoufeelmy<3.tmpx",
+      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
     },
     {
       "added_at": null,
@@ -864,13 +868,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 309218,
-      "name": "med!cine.fbk",
-      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
+      "duration_ms": 185200,
+      "name": "sTr4nG3r5.vsn0",
+      "url": "https://open.spotify.com/track/5OjkJMfEVBAVgoYshwZuRt"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1541163,
+  "num_followers": 1540920,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 191107,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Suzuki (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 111655,
       "name": "Suzuki (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "62 GANG",
-        "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 87058,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "si",
         "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 151624,
       "name": "si",
       "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "62 GANG",
+        "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 87058,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "todav\u00eda no vuelvo",
         "url": "https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
-      },
-      "artists": [
-        {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
-        }
-      ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 127616,
       "name": "2000",
       "url": "https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "algo me gusta de ti",
-        "url": "https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV"
-      },
-      "artists": [
-        {
-          "name": "MYF",
-          "url": "https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "algo me gusta de ti",
-      "url": "https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+        "name": "algo me gusta de ti",
+        "url": "https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV"
       },
       "artists": [
         {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+          "name": "MYF",
+          "url": "https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K"
         }
       ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+      "duration_ms": 156000,
+      "name": "algo me gusta de ti",
+      "url": "https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -1039,6 +1023,22 @@
       "duration_ms": 149291,
       "name": "INTER\u00c9S HACIA TI",
       "url": "https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "added_at": "2026-10-21 21:02:34",

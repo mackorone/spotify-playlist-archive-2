@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-602 songs - 1 day 10 hr 5 min
+603 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Solos tú y yo](https://open.spotify.com/track/2oXDydAuDS6F88LMwnqELE) | [Chaplin](https://open.spotify.com/artist/0NRtBBSool3NhHpi6WPHkI), [Drumglass](https://open.spotify.com/artist/5TV3jKC1INn5xO2MLgdDSw) | [Solos tú y yo](https://open.spotify.com/album/4d8ImOKjPHKYKLEaOX439d) | 3:20 | 2025-11-22 | 2026-01-05 |
 | [Sombra](https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto III](https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq) | 5:14 | 2026-09-03 | 2026-10-14 |
 | [Something You Know](https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [Something You Know](https://open.spotify.com/album/3eUa3PiDZCRCZGgwDzvpHC) | 3:17 | 2026-02-19 | 2026-04-25 |
+| [Somewhere In Texas](https://open.spotify.com/track/1KFYveqqdozgCZqgsIbK0H) | [The Taproots](https://open.spotify.com/artist/2DZgNVKc5uxU5dNysNplKm) | [Somewhere In Texas](https://open.spotify.com/album/7wxDvaNOlrM0vHXUxKwogm) | 3:27 | 2026-10-25 |  |
 | [Song of the Week \- \(Album Version\)](https://open.spotify.com/track/4Hh3cYCCSHebeaHB49YGsB) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 2:39 | 2025-11-01 | 2025-12-01 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-05-13 | 2026-06-14 |
 | [Sotto la Pioggia](https://open.spotify.com/track/1E5cfhHQzQEGFrkCLCoJYK) | [Vacant Age](https://open.spotify.com/artist/4oRYX3WgCNT4BzcKXxLXPq) | [Sotto la Pioggia](https://open.spotify.com/album/2P2iK8WQH5ziCz9z91QcaC) | 3:16 | 2025-12-24 | 2026-01-15 |

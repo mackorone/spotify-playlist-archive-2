@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAABRN5v01OUq0xISKwfkKQiQ",
+  "snapshot_id": "atv1AAAAAAD5/8ozlIeOxHiqLJe+djOT",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 221801,
-      "name": "Perfeito \u00c9 o Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3shUMU2J7zVI8Bsvr3Pxc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/4N6Ps2F2pA3yHKRTwLpwJn"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 196990,
       "name": "Boxok\u00ea",
       "url": "https://open.spotify.com/track/2c9w7HlmwbZzSSRNoMO5ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 221801,
+      "name": "Perfeito \u00c9 o Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3shUMU2J7zVI8Bsvr3Pxc3"
     },
     {
       "added_at": null,
@@ -467,30 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquele Tipo de Som",
-        "url": "https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV"
-      },
-      "artists": [
-        {
-          "name": "Pinotti",
-          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        }
-      ],
-      "duration_ms": 155926,
-      "name": "Aquele Tipo de Som",
-      "url": "https://open.spotify.com/track/1HWfIMdhK7JYrZa6iW5mUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 163275,
       "name": "Dia Bom",
       "url": "https://open.spotify.com/track/7o35M1PKUo9d2idHDoDIKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquele Tipo de Som",
+        "url": "https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV"
+      },
+      "artists": [
+        {
+          "name": "Pinotti",
+          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        }
+      ],
+      "duration_ms": 155926,
+      "name": "Aquele Tipo de Som",
+      "url": "https://open.spotify.com/track/1HWfIMdhK7JYrZa6iW5mUd"
     },
     {
       "added_at": null,
@@ -791,22 +791,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yin & Yang",
-        "url": "https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS"
+        "name": "Frequ\u00eancia Tropical",
+        "url": "https://open.spotify.com/album/2Y4HnY79Rwq5TmFMYzCZMT"
       },
       "artists": [
         {
-          "name": "Slim Rimografia",
-          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
         },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Bia Trindade",
+          "url": "https://open.spotify.com/artist/7l8w6DIaC0D9ioT6CvmVTT"
         }
       ],
-      "duration_ms": 202402,
-      "name": "Yin & Yang",
-      "url": "https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE"
+      "duration_ms": 203520,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/3JhNkfCNxZGyAgywEtP6By"
     },
     {
       "added_at": null,
@@ -867,26 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frequ\u00eancia Tropical",
-        "url": "https://open.spotify.com/album/2Y4HnY79Rwq5TmFMYzCZMT"
+        "name": "Yin & Yang",
+        "url": "https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS"
       },
       "artists": [
         {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+          "name": "Slim Rimografia",
+          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
         },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Bia Trindade",
-          "url": "https://open.spotify.com/artist/7l8w6DIaC0D9ioT6CvmVTT"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/3JhNkfCNxZGyAgywEtP6By"
+      "duration_ms": 202402,
+      "name": "Yin & Yang",
+      "url": "https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE"
     },
     {
       "added_at": null,

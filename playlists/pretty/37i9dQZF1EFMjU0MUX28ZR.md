@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 115 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 116 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 59 | [lucky star](https://open.spotify.com/track/0Vmqffk8xvREgRCdUf3yfG) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 1:23 |
 | 60 | [Overrated](https://open.spotify.com/track/30H8g9GniJtRGNvIyXGtK4) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [No Brakes](https://open.spotify.com/album/72abK2vIKvsudMypl89dX3) | 3:06 |
 | 61 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 |
-| 62 | [i hope i never fall in love](https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 3:36 |
-| 63 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
+| 62 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
+| 63 | [i hope i never fall in love](https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 3:36 |
 | 64 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
 | 65 | [Holly!](https://open.spotify.com/track/4zxQeZ8bwNnYHhPqYGtl6i) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 2\)](https://open.spotify.com/album/3qE3tGZxXzTvhhI92csWfN) | 3:10 |
 | 66 | [Move On](https://open.spotify.com/track/5U8w6VEEWziplSyWHaQoO5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:11 |
@@ -107,21 +107,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 97 | [Internet Junkie](https://open.spotify.com/track/2a0fitf8tonP7KbQ9KrSDs) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Wallow in It](https://open.spotify.com/album/4X5cguwixSn1TppGbxdGRG) | 3:04 |
 | 98 | [Warp Speed Suzie](https://open.spotify.com/track/5jPVo9EQxBvKl6IXBQLnKU) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/2js3B0SkEoyXrEzJLArKt4) | 2:56 |
 | 99 | [Falling](https://open.spotify.com/track/1tFfGNNJpuIEuaidufcNZe) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:12 |
-| 100 | [New Eyes](https://open.spotify.com/track/7iMfuQDXKZW27BzTbqcoP5) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [New Eyes](https://open.spotify.com/album/6Ts3DkmshODnrh3AuDlvHC) | 3:29 |
-| 101 | [Joy of Missing Out](https://open.spotify.com/track/0pNBvEYh2khOnyu6OtfNj5) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Sugarcoat](https://open.spotify.com/album/7rOUvjZLw3Nwp90KthdpKL) | 3:11 |
-| 102 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
-| 103 | [Last Yr Rly Sucked](https://open.spotify.com/track/4jK6fPZa7ul8PSc0ekgsly) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Last Yr Rly Sucked](https://open.spotify.com/album/3b5jgWe63pMvAM8CGQjsk1) | 2:47 |
-| 104 | [Stay Single](https://open.spotify.com/track/33VBeE2AuU9sbVnZYncmVm) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:27 |
-| 105 | [Liquid Courage](https://open.spotify.com/track/0fuLYP5x6NvYjowORYssbs) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Liquid Courage](https://open.spotify.com/album/43vbxovedhrL0jriQY0tN7) | 3:25 |
-| 106 | [Quiet](https://open.spotify.com/track/0pdy9TNHfsWpSI0eXp2VPh) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/74luwDXlGZxoWauo9xccVn) | 3:02 |
-| 107 | [Sleepwalker](https://open.spotify.com/track/7IgvOvEB4cCglY2oJg56iQ) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Sleepwalker](https://open.spotify.com/album/5w5oCdohszretuVfRpKpwt) | 3:17 |
-| 108 | [The Ride](https://open.spotify.com/track/46oYNSOKeoaQ5arxVaYAjt) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/2MrP7x7PfhUqqvf6WYrHO4) | 2:42 |
-| 109 | [Survive Myself](https://open.spotify.com/track/00a8GwYo65nEaJ4kiJBlrb) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Survive Myself](https://open.spotify.com/album/0Q5waDpLbmoKH20bRup6xv) | 3:20 |
-| 110 | [Make My Bed](https://open.spotify.com/track/3PRW28gQllBqdsF6lyDrqu) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/3GfAVqWHtGROgcjyCs1EV5) | 2:56 |
-| 111 | [Anxiety](https://open.spotify.com/track/2shf8g7HxaCQmjDRrCpxuc) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Anxiety](https://open.spotify.com/album/65Pcs1fJfZOGYyzSggylMc) | 5:15 |
-| 112 | [Noisemaker](https://open.spotify.com/track/3d5HDupfBJGeouKyCZoTOC) | [Daisy Dash](https://open.spotify.com/artist/23S6D2jw3bHpWdNYuXptHl) | [Noisemaker](https://open.spotify.com/album/4zpo6ZPZ1pplC3quxVNu7K) | 3:09 |
-| 113 | [No Grave](https://open.spotify.com/track/4eirknkEeaxiiA3GeCGzVX) | [The Hot Damns](https://open.spotify.com/artist/3fCcyHknrTOcEsWrEQJXY3) | [No Grave](https://open.spotify.com/album/5eiiZJEm7CegCgmD83IwHz) | 2:33 |
-| 114 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
-| 115 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
+| 100 | [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 |
+| 101 | [New Eyes](https://open.spotify.com/track/7iMfuQDXKZW27BzTbqcoP5) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [New Eyes](https://open.spotify.com/album/6Ts3DkmshODnrh3AuDlvHC) | 3:29 |
+| 102 | [Joy of Missing Out](https://open.spotify.com/track/0pNBvEYh2khOnyu6OtfNj5) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Sugarcoat](https://open.spotify.com/album/7rOUvjZLw3Nwp90KthdpKL) | 3:11 |
+| 103 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
+| 104 | [Last Yr Rly Sucked](https://open.spotify.com/track/4jK6fPZa7ul8PSc0ekgsly) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Last Yr Rly Sucked](https://open.spotify.com/album/3b5jgWe63pMvAM8CGQjsk1) | 2:47 |
+| 105 | [Stay Single](https://open.spotify.com/track/33VBeE2AuU9sbVnZYncmVm) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:27 |
+| 106 | [Liquid Courage](https://open.spotify.com/track/0fuLYP5x6NvYjowORYssbs) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Liquid Courage](https://open.spotify.com/album/43vbxovedhrL0jriQY0tN7) | 3:25 |
+| 107 | [Quiet](https://open.spotify.com/track/0pdy9TNHfsWpSI0eXp2VPh) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/74luwDXlGZxoWauo9xccVn) | 3:02 |
+| 108 | [Sleepwalker](https://open.spotify.com/track/7IgvOvEB4cCglY2oJg56iQ) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Sleepwalker](https://open.spotify.com/album/5w5oCdohszretuVfRpKpwt) | 3:17 |
+| 109 | [The Ride](https://open.spotify.com/track/46oYNSOKeoaQ5arxVaYAjt) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/2MrP7x7PfhUqqvf6WYrHO4) | 2:42 |
+| 110 | [Survive Myself](https://open.spotify.com/track/00a8GwYo65nEaJ4kiJBlrb) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Survive Myself](https://open.spotify.com/album/0Q5waDpLbmoKH20bRup6xv) | 3:20 |
+| 111 | [Make My Bed](https://open.spotify.com/track/3PRW28gQllBqdsF6lyDrqu) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/3GfAVqWHtGROgcjyCs1EV5) | 2:56 |
+| 112 | [Anxiety](https://open.spotify.com/track/2shf8g7HxaCQmjDRrCpxuc) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Anxiety](https://open.spotify.com/album/65Pcs1fJfZOGYyzSggylMc) | 5:15 |
+| 113 | [Noisemaker](https://open.spotify.com/track/3d5HDupfBJGeouKyCZoTOC) | [Daisy Dash](https://open.spotify.com/artist/23S6D2jw3bHpWdNYuXptHl) | [Noisemaker](https://open.spotify.com/album/4zpo6ZPZ1pplC3quxVNu7K) | 3:09 |
+| 114 | [No Grave](https://open.spotify.com/track/4eirknkEeaxiiA3GeCGzVX) | [The Hot Damns](https://open.spotify.com/artist/3fCcyHknrTOcEsWrEQJXY3) | [No Grave](https://open.spotify.com/album/5eiiZJEm7CegCgmD83IwHz) | 2:33 |
+| 115 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
+| 116 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Acf1UAAAAAC41635bG+K4tpt1ueaAGOW`
+Snapshot ID: `Acf68AAAAADuSGxf6TGLVjbFlZpX1j7g`

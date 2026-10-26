@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
-  "num_followers": 368374,
+  "num_followers": 368379,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
+        "name": "El Culpable",
+        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "El Culpable",
+      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
         "name": "Sin Despedida",
         "url": "https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 230980,
       "name": "Sin Despedida",
       "url": "https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
-        "name": "El Culpable",
-        "url": "https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 213575,
-      "name": "El Culpable",
-      "url": "https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "La De Rogar",
-        "url": "https://open.spotify.com/album/04tJv2qM3ieLbvxtaMgiLP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 180865,
-      "name": "La De Rogar",
-      "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Por Un Mal Amor",
         "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 193998,
       "name": "Por Un Mal Amor",
       "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "La De Rogar",
+        "url": "https://open.spotify.com/album/04tJv2qM3ieLbvxtaMgiLP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180865,
+      "name": "La De Rogar",
+      "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Jalisco",
-        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
-      },
-      "artists": [
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Cuando Ya No Me Quieras",
-      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
@@ -703,6 +687,38 @@
       "duration_ms": 183993,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Voz De Mi Sangre",
+        "url": "https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "Me Declaro Culpable",
+      "url": "https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Jalisco",
+        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Cuando Ya No Me Quieras",
+      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -811,22 +827,6 @@
       "duration_ms": 221848,
       "name": "Emilia",
       "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
-        "name": "Voz De Mi Sangre",
-        "url": "https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Me Declaro Culpable",
-      "url": "https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Caballero",
         "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 227338,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Ya Es Muy Tarde",
-        "url": "https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy"
-      },
-      "artists": [
-        {
-          "name": "Ximena Ocampo",
-          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 184167,
       "name": "Antes",
       "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Ya Es Muy Tarde",
+        "url": "https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p"
     },
     {
       "added_at": "2026-10-23 06:00:35",

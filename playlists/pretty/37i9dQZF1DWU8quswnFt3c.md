@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Thoom from Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,510 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,423 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Bottle](https://open.spotify.com/track/46qTAm0OtOb9xhXoftlyCT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:18 |
 | 29 | [Vertigo](https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:36 |
 | 30 | [DUSTY](https://open.spotify.com/track/5mllbepsjuNZPax6LX1tuW) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DUST](https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV) | 3:00 |
-| 31 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
-| 32 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
+| 31 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
+| 32 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
 | 33 | [te odio](https://open.spotify.com/track/2xyCkGYkYIrbi5JwzCjcH8) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/6j7QHBlPi3gdLeMOqiTZAT) | 2:50 |
-| 34 | [Tiger Tiger](https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Bangs N Braces](https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt) | 2:45 |
-| 35 | [t escucho al pensar](https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:18 |
+| 34 | [t escucho al pensar](https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:18 |
+| 35 | [Tiger Tiger](https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Bangs N Braces](https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt) | 2:45 |
 | 36 | [LOBO](https://open.spotify.com/track/6iOQKeQA9IQWlheCgtiXon) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Pop Pesado](https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4) | 2:27 |
 | 37 | [Que Culpa tengo Yo](https://open.spotify.com/track/3D640imXQ08xT9HCg75bpk) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Que Culpa tengo Yo](https://open.spotify.com/album/5GDMBaYJ41vu67yDkQFusv) | 3:11 |
 | 38 | [Thisavros Mou](https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Thisavros Mou](https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7) | 3:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
 | 46 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
 | 47 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
-| 48 | [Sonsuza Kadar](https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Sonsuza Kadar](https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi) | 2:40 |
-| 49 | [Te Mereces Un Amor](https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:46 |
+| 48 | [Te Mereces Un Amor](https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:46 |
+| 49 | [Sonsuza Kadar](https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Sonsuza Kadar](https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi) | 2:40 |
 | 50 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
 
 Snapshot ID: `AAAAAMoUNmRHJblX8ZlJTiLC5uUj5OU5`

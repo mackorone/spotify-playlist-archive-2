@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > ヒップホップの最新トレンドをここで体感しよう Cover: Creepy Nuts \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,434 likes - 110 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,443 likes - 110 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

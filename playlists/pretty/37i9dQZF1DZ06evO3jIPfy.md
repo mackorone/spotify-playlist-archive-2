@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jIPfy.md) - [plain]
 
 > This is Yo\-Yo Ma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,882 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,899 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jIPfy.md) - [plain]
 | 49 | [Attaboy](https://open.spotify.com/track/2Y0tFR4iYR57EnBK4mf34l) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [The Goat Rodeo Sessions](https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa) | 5:41 |
 | 50 | [Concerto in G Minor for 2 Cellos, Strings and Basso continuo, RV 531: I\. Allegro](https://open.spotify.com/track/6sbBnPHG4PgfoX46CPboOX) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Amsterdam Baroque Orchestra](https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA), [Ton Koopman](https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM), [Jonathan Manson](https://open.spotify.com/artist/3hPsx41tkf5gD2pkVLqDAw) | [Vivaldi's Cello](https://open.spotify.com/album/6WFCQU65XzVnQThVceeuqb) | 3:19 |
 
-Snapshot ID: `atqjgAAAAAA7t3tmfgehOaqNgptUfs8m`
+Snapshot ID: `atv1AAAAAABDn0M1X6gzKVxgRQQXb2Z6`

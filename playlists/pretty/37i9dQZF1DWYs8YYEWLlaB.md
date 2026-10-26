@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: KARM6
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,362 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,370 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 40 | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Onurr](https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac), [Serhat Karadag](https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk) | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO) | 3:47 |
 | 41 | [kozzy](https://open.spotify.com/track/04d7aMynHFsfWOhJo4gFIf) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [kozzy](https://open.spotify.com/album/1tfEQVJsIqwsI0cs6qKV2q) | 2:46 |
 | 42 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 |
-| 43 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |
-| 44 | [EĞLEN](https://open.spotify.com/track/6IIXirTrL8ueg7a0jTAc9t) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [BLEND](https://open.spotify.com/album/6P9u2ip7gJ0UBhW6w9ivWt) | 2:55 |
+| 43 | [EĞLEN](https://open.spotify.com/track/6IIXirTrL8ueg7a0jTAc9t) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [BLEND](https://open.spotify.com/album/6P9u2ip7gJ0UBhW6w9ivWt) | 2:55 |
+| 44 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |
 | 45 | [Seninle Başlar](https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Seninle Başlar](https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl) | 2:31 |
 | 46 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 |
 | 47 | [Vursunlar \- Roman Version](https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [ROMANESA](https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny) | 2:37 |

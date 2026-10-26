@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-315 songs - 15 hr 50 min
+316 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,10 +273,11 @@
 | [Southern Blues](https://open.spotify.com/track/2yD08y5p6GCybLkJeXxmbu) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 2:52 | 2024-09-10 | 2025-09-11 |
 | [Southern Blues](https://open.spotify.com/track/2NTE4NBycWoz5j56O6nkFc) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:54 | 2022-11-16 | 2024-09-10 |
 | [Southern Blues](https://open.spotify.com/track/5zeFs3tJsUxWYrDE4GcLOC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:54 | 2022-09-24 |  |
-| [Stack O' Lee Blues](https://open.spotify.com/track/2qURbl8qIIRlNwTxMZIbYE) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 2:52 | 2026-10-11 |  |
+| [Stack O' Lee Blues](https://open.spotify.com/track/2qURbl8qIIRlNwTxMZIbYE) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 2:52 | 2026-10-11 | 2026-10-26 |
 | [Stack O' Lee Blues](https://open.spotify.com/track/2mFgUOrezBPYhfiEtc1VLX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 2:55 | 2026-01-15 | 2026-02-11 |
 | [Stack O' Lee Blues](https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:57 | 2022-08-05 | 2026-10-11 |
 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 | 2022-08-05 | 2026-08-27 |
+| [Stack O'Lee Blues \- Alternate Take](https://open.spotify.com/track/0FqnXmy6Zfpdve9CYzwsZF) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 2:55 | 2026-10-26 |  |
 | [Stack O'Lee Blues \- Alternate Take](https://open.spotify.com/track/0XgKLbFxVt0LT3CnsxgWVg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 2:55 | 2025-03-28 | 2026-01-15 |
 | [Stormy Sea Blues](https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:43 | 2022-08-08 | 2026-08-16 |
 | [Stormy Sea Blues](https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 2:43 | 2023-12-13 | 2025-11-06 |

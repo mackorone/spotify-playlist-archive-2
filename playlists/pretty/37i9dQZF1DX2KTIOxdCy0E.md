@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > First comes love, then comes life\. Listen to the music from Nobody Wants This, curated by The Core, Interscope and Aperture Music, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,816 likes - 161 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,400 likes - 161 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

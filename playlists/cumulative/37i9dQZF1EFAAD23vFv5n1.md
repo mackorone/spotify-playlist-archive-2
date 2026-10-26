@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-234 songs - 11 hr 25 min
+235 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2026-07-27 |  |
 | [Universo](https://open.spotify.com/track/1l3WQM4gqyzywyrc0AYrFi) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:43 | 2024-04-29 |  |
 | [VAMPIRO](https://open.spotify.com/track/1n4es6teVTXY4TbSSOzekf) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [VAMPIRO](https://open.spotify.com/album/2vDG7La75UyjOy7jJ4UOU4) | 2:48 | 2026-08-20 |  |
+| [Victoria's Secret](https://open.spotify.com/track/0qlfvwLYOxLs0pPktzqSmV) | [John's Saxophone](https://open.spotify.com/artist/5017jdzBcgvmdHLGkWwRZY) | [My Favorite Songs, International Hits 2025](https://open.spotify.com/album/6j1ufpqyRZqJp84UMigIXc) | 3:20 | 2026-10-25 |  |
 | [Voglia di vivere](https://open.spotify.com/track/7x4JF2p31MBdOv922q7ClU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/43JfFH8IVf0q2jRzzE9JNG) | 2:24 | 2024-04-29 |  |
 | [Wah Wah](https://open.spotify.com/track/4ENsfBs38JiwX96HasFH78) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Wah Wah](https://open.spotify.com/album/7hW0lNWIc1ll7RjjCn0k64) | 2:28 | 2024-04-29 |  |
 | [WOW](https://open.spotify.com/track/523Bm7ywcol4A4FdQrpWvi) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:27 | 2024-06-07 |  |

@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover: Chella
 
-871 songs - 1 day 19 hr 56 min
+872 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2021-12-02 | 2022-05-25 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 | 2024-09-10 |
 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 | 2022-11-18 | 2023-03-04 |
+| [Melody](https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Melody](https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx) | 3:07 | 2026-10-23 |  |
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-11 | 2022-12-09 |
 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 | 2026-02-26 |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 | 2024-06-14 |
@@ -769,7 +770,7 @@
 | [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 | 2021-09-27 | 2023-02-28 |
 | [Sundress](https://open.spotify.com/track/5TMZ2IjHlZgKth7v2wp9YK) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Sunset Stories: A Mixtape](https://open.spotify.com/album/2onOtERxl33g3YfbhGJ4ci) | 3:31 | 2022-09-29 | 2022-10-14 |
 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2024-08-02 | 2025-07-05 |
-| [SUNSET IN PARIS](https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [SUNSET IN PARIS](https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3) | 2:20 | 2026-06-05 |  |
+| [SUNSET IN PARIS](https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [SUNSET IN PARIS](https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3) | 2:20 | 2026-06-05 | 2026-10-26 |
 | [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 | 2026-05-29 | 2026-08-20 |
 | [Sweet](https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Sweet](https://open.spotify.com/album/1GosMCPkYYZnd4m4cN54RS) | 3:07 | 2023-05-04 | 2023-05-12 |
 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-08 | 2024-05-11 |

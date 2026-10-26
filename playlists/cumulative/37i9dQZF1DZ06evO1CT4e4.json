@@ -1737,6 +1737,32 @@
     },
     {
       "album": {
+        "name": "Live in Venice",
+        "url": "https://open.spotify.com/album/4djvt3tWKN7RyFWi4n0hao"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "The Tallis Scholars",
+          "url": "https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358839,
+      "name": "Nunc dimittis - Live",
+      "url": "https://open.spotify.com/track/1R25hCwOSVpgya0cW0fqju"
+    },
+    {
+      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -2684,7 +2710,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 343440,
       "name": "The Woman with the Alabaster Box",
       "url": "https://open.spotify.com/track/7uiSEQHpyLRiCnu9lHPxhv"

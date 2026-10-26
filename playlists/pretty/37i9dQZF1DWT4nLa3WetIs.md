@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating Tems' debut " For Broken Ears"
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,459 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,544 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 41 | [FEM](https://open.spotify.com/track/71EKIFqUvCAT1WK1g4tnBa) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FEM](https://open.spotify.com/album/2vt6tirj8PxYErbB7GpkBG) | 3:22 |
 | 42 | [MJ \(Remix\)](https://open.spotify.com/track/2QQizmVmA2HiEX7U3I1wgu) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MJ \(Remix\)](https://open.spotify.com/album/0IS0JTlNXY8nlrmZuEOEp3) | 3:09 |
 | 43 | [Follow You](https://open.spotify.com/track/36VdEEK16VisbEnBM71e7d) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Man](https://open.spotify.com/album/2jYuXSwfh6qdqhrcRrplbO) | 3:11 |
-| 44 | [Vision 2020](https://open.spotify.com/track/3YPwsrdTzdnDOBCTl4d71e) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Vision 2020](https://open.spotify.com/album/4CnDciicu0ZYCnLgFHtJIe) | 3:41 |
-| 45 | [Love Don't Cost A Dime](https://open.spotify.com/track/3Yfo7S9svHWWvy5kd02C3U) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/2YqFVhYSVuZXXZMJSvOTTh) | 3:25 |
+| 44 | [Love Don't Cost A Dime](https://open.spotify.com/track/3Yfo7S9svHWWvy5kd02C3U) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/2YqFVhYSVuZXXZMJSvOTTh) | 3:25 |
+| 45 | [Vision 2020](https://open.spotify.com/track/3YPwsrdTzdnDOBCTl4d71e) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Vision 2020](https://open.spotify.com/album/4CnDciicu0ZYCnLgFHtJIe) | 3:41 |
 | 46 | [Skoin Skoin \(feat\. Bianca Costa\)](https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:53 |
 | 47 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 |
 | 48 | [Celebration](https://open.spotify.com/track/7cwCQuoy7273J4XUr05OCR) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko) | 2:39 |

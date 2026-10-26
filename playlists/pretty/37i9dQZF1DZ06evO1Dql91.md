@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,095 likes - 44 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,096 likes - 44 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 23 | [She's A Sweetheart](https://open.spotify.com/track/7atvuaadSawmTPCDLUkYcR) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:35 |
 | 24 | [Deja Vu](https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:08 |
 | 25 | [No One Comes Close](https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:13 |
-| 26 | [Dreams \- Live](https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 10:29 |
-| 27 | [Comedy](https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:54 |
+| 26 | [Comedy](https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:54 |
+| 27 | [Dreams \- Live](https://open.spotify.com/track/1zCrGe8QtFRb8yPapiHJxF) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 10:29 |
 | 28 | [Far Away](https://open.spotify.com/track/7AbL7KSgbtPTT6iNTwSif0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 2:54 |
 | 29 | [I Don't Feel No Ways Tired](https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:15 |
 | 30 | [Promise Keeper](https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Feels Like Home, Vol\. 1](https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc) | 6:19 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 43 | [Becoming](https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:10 |
 | 44 | [We Are The Light](https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:27 |
 
-Snapshot ID: `atqjgAAAAAAWRMKsFq4XfkTioX+0mRtH`
+Snapshot ID: `atv1AAAAAAC7da0xClewAq1kqo38MWn4`

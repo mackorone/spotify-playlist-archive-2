@@ -4,7 +4,7 @@
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 22 min
+65 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ain't Worth the Powder](https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:12 | 2026-05-02 |  |
 | [Another Pretty Country Song](https://open.spotify.com/track/3ftt7udG1maQvpSTzzb0Ra) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:19 | 2026-05-02 |  |
 | [Blue Grass Morning](https://open.spotify.com/track/0DswKH36OANJJuRNlDXMLl) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:27 | 2026-05-02 |  |
-| [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 | 2026-05-02 |  |
+| [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 | 2026-05-02 | 2026-10-26 |
 | [Cocaine Carolina](https://open.spotify.com/track/35kvOewUqIxHMf8Djyk4IC) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:46 | 2026-05-02 |  |
 | [D\-R\-U\-N\-K](https://open.spotify.com/track/7rT2HkehkqoRVZ5Qjoz40C) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Tennessee Whiskey](https://open.spotify.com/album/6IfnaToHWFzLoU1DD1ZjmG) | 2:34 | 2026-05-02 |  |
 | [Dakota the Dancing Bear, Pt\. II](https://open.spotify.com/track/6YMUxXTDmU5ROJVGdZVxt0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:57 | 2026-05-02 |  |
@@ -45,6 +45,7 @@
 | [Mona Lisa Lost Her Smile](https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:39 | 2026-05-02 |  |
 | [Need a Little Time off for Bad Behavior](https://open.spotify.com/track/2XuG6qXo9WZHn9O2QUxeTM) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Matter of Life and Death](https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e) | 3:00 | 2026-05-02 |  |
 | [Now I Lay Me Down to Cheat](https://open.spotify.com/track/1gqUTY7qAR1tJhbL5BpG9Y) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Rough Rider](https://open.spotify.com/album/7jnYqANbi5sSSCnBeUSfZg) | 3:22 | 2026-08-26 | 2026-08-27 |
+| [Only God Knows Why](https://open.spotify.com/track/4oKdGZ4lgKm4euJghFrdzr) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Million Reasons](https://open.spotify.com/album/1bfjEyZsT3daZv9quo6XMo) | 3:44 | 2026-10-26 |  |
 | [Piece of Wood and Steel](https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 4:02 | 2026-05-02 |  |
 | [Please Come to Boston](https://open.spotify.com/track/47ctsEbmgRRHXcFOfeeUVe) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 4:18 | 2026-05-02 |  |
 | [Revenge](https://open.spotify.com/track/1TEFS1ROLeWKVShocGy8Vw) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 2:29 | 2026-05-02 |  |

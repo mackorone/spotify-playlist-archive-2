@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-633 songs - 1 day 6 hr 9 min
+634 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,7 +619,8 @@
 | [Valeu Demais \- Ao Vivo](https://open.spotify.com/track/15bcje0dA3mzgQiqjvhssH) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:38 | 2024-01-29 |  |
 | [Vapo pra Todo Mundo](https://open.spotify.com/track/5rLUQYhTuAQKjqc3yFCVC7) | [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d), [Nêgo Jhá](https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ) | [Arraiá pra Paredão](https://open.spotify.com/album/5xEbRqLDdit7s5UKngEOze) | 2:16 | 2024-01-29 |  |
 | [Veja Bem](https://open.spotify.com/track/2KSNWkprFRJH7wh0HQLm9S) | [Alex de Oliveira](https://open.spotify.com/artist/0i9Fo62GoHxhB4OaF8Ua1U) | [Veja Bem](https://open.spotify.com/album/60fUbQM29nXHK7MEbYRHVI) | 4:28 | 2024-01-29 | 2025-06-28 |
-| [Vem de Golpe](https://open.spotify.com/track/6iDb28CJfSjPo7dFbFcAUv) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Vem de Golpe](https://open.spotify.com/album/1f8K33BOZRgtwrreySnLvR) | 2:41 | 2024-01-29 |  |
+| [Vem de Golpe](https://open.spotify.com/track/36iXvyqwu5uyCI0XVYCMDz) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Vem de Golpe](https://open.spotify.com/album/5qWn94B1uEHjL7fQNN824G) | 2:41 | 2026-10-25 |  |
+| [Vem de Golpe](https://open.spotify.com/track/6iDb28CJfSjPo7dFbFcAUv) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Vem de Golpe](https://open.spotify.com/album/1f8K33BOZRgtwrreySnLvR) | 2:41 | 2024-01-29 | 2026-10-26 |
 | [Viajante de Corações](https://open.spotify.com/track/1f9qtqV7NfcPeGPSujrxEy) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Viajante de Corações](https://open.spotify.com/album/6lLM4NDNxEHBNHeYE7OrZk) | 2:53 | 2024-01-29 |  |
 | [Vida de Solteiro \- Ao Vivo](https://open.spotify.com/track/0gFuMjx6xR1zHxrcPwfdrz) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:50 | 2024-01-29 |  |
 | [Vingativa](https://open.spotify.com/track/3FTh7gH5UVcMeyYVRBxCYK) | [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Vingativa](https://open.spotify.com/album/30JdLyBkxuWujhxWBLNpDp) | 2:44 | 2024-01-29 | 2025-07-10 |

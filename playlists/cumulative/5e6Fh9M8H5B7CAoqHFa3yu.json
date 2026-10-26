@@ -43941,6 +43941,24 @@
     },
     {
       "album": {
+        "name": "Pada Akhirnya",
+        "url": "https://open.spotify.com/album/4K6BgEtFRGjqQqultRC6Qb"
+      },
+      "artists": [
+        {
+          "name": "Ekpra",
+          "url": "https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "The Last Spark",
+      "url": "https://open.spotify.com/track/5QCLcyF4VDCj0O2JzMK1Ji"
+    },
+    {
+      "album": {
         "name": "The Lofi Tape Vol 2",
         "url": "https://open.spotify.com/album/0tOrDAjykvsIiqMzQiaM22"
       },

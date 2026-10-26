@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,078 songs - 2 day 3 hr 49 min
+1,079 songs - 2 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,7 +745,7 @@
 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 | 2024-11-22 | 2025-04-24 |
 | [Onji](https://open.spotify.com/track/7rAaSPUwRJ79wMw19391tU) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Laeorx](https://open.spotify.com/artist/42zckcHlrUoJQHqFQV2fjq) | [Onji](https://open.spotify.com/album/7hq98PeM25enyZHrg6sxo0) | 2:21 | 2025-03-14 | 2025-04-13 |
 | [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 | 2025-02-28 |  |
-| [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 | 2025-10-03 |  |
+| [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 | 2025-10-03 | 2026-10-26 |
 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 | 2023-02-24 |
 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 | 2024-06-14 | 2025-02-10 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 | 2024-02-13 | 2024-02-16 |
@@ -816,6 +816,7 @@
 | [Pressure \(feat\. Leon Thomas\)](https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:24 | 2026-08-21 | 2026-10-16 |
 | [Pressure II](https://open.spotify.com/track/1lu5gxuLEmX27Jivnzy2Vc) | [WLR](https://open.spotify.com/artist/5OUSeRjRJmhGoeZ3iYYKfT), [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Pressure II](https://open.spotify.com/album/0UGn6SKerPlUVGfBcvr0rH) | 3:18 | 2026-05-01 | 2026-05-21 |
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-22 | 2024-06-01 |
+| [Pretty Nun](https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Pretty Nun](https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB) | 3:31 | 2026-10-23 |  |
 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 | 2025-04-01 |
 | [Princess Treatment](https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Love & Hustle](https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7) | 3:00 | 2025-03-28 | 2026-04-30 |
 | [Promise Me](https://open.spotify.com/track/0twg9NJUL3jrJ562iBnoSo) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Sweet Boy](https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs) | 2:46 | 2026-05-01 | 2026-06-12 |

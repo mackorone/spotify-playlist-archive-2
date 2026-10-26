@@ -1,12 +1,12 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 354784,
+  "num_followers": 354734,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKs2GsEmqO8ceoGj+3HHj94C13u",
+  "snapshot_id": "AAAAALMqVLD1XlOJmt2lWg10kg74EQqQ",
   "tracks": [
     {
       "added_at": "2026-10-16 14:02:19",
@@ -399,22 +399,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "L\u00f3tus",
-        "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
       },
       "artists": [
         {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "outro lado",
-          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
         }
       ],
-      "duration_ms": 163571,
-      "name": "Banho de Sol",
-      "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
+      "duration_ms": 187578,
+      "name": "A Estrela",
+      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -447,18 +443,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+        "name": "L\u00f3tus",
+        "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
       },
       "artists": [
         {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "outro lado",
+          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
         }
       ],
-      "duration_ms": 187578,
-      "name": "A Estrela",
-      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
+      "duration_ms": 163571,
+      "name": "Banho de Sol",
+      "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "NUVEM NEGRA",
         "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 294570,
       "name": "NUVEM NEGRA",
       "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "GRAZI",
-        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
-      },
-      "artists": [
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "NAVII",
-          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "L\u00c1 DE CIMA (1999)",
-      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "MAMBO!",
         "url": "https://open.spotify.com/album/53tObxaCQ5XZz40SZgRRny"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 222115,
       "name": "MAMBO!",
       "url": "https://open.spotify.com/track/38tkiigAExeU9qIrfss5o4"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "=P (Melissa Loss Remix)",
+        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
+      },
+      "artists": [
+        {
+          "name": "loopcinema",
+          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "DANCE!",
+      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "=P (Melissa Loss Remix)",
-        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
       },
       "artists": [
         {
-          "name": "loopcinema",
-          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
         }
       ],
-      "duration_ms": 193280,
-      "name": "DANCE!",
-      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -811,22 +827,6 @@
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "Tento",
+        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Tento",
+      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "COVARDIA",
         "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 157186,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Tento",
-        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Tento",
-      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
         }
       ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1271,6 +1267,26 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "Eu N\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 192857,
       "name": "Eu N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     }
   ],
   "unique_name": "Palco POP",

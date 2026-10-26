@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: عمر
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,301 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

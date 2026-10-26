@@ -1,6 +1,6 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5789,
+  "num_followers": 5790,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turning My Money Over (Quadruple Album)",
-        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 172165,
-      "name": "Sucka Ducking",
-      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 155571,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turning My Money Over (Quadruple Album)",
+        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 172165,
+      "name": "Sucka Ducking",
+      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
     },
     {
       "added_at": null,
@@ -579,30 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Vault",
-        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Nef The Pharaoh",
-          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 199508,
-      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
-      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUMBLR (feat. E-40 & Kreayshawn)",
         "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 164549,
       "name": "DUMBLR (feat. E-40 & Kreayshawn)",
       "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Vault",
+        "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Nef The Pharaoh",
+          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 199508,
+      "name": "Power (feat. Nef The Pharaoh & P-Lo)",
+      "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 140708,
-      "name": "AWW YEAH",
-      "url": "https://open.spotify.com/track/4eWfppMhjvuxsHE96UMsRB"
+      "duration_ms": 137237,
+      "name": "S/O ALYSA LIU",
+      "url": "https://open.spotify.com/track/1gNHo2uwmvGYAu907PGKgE"
     },
     {
       "added_at": null,
@@ -791,38 +791,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respectfully",
-        "url": "https://open.spotify.com/album/5hVS87XMV1UBHMdPQtLPOn"
+        "name": "Feel Me?",
+        "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
       "artists": [
         {
-          "name": "Grand Nationxl",
-          "url": "https://open.spotify.com/artist/4fMApbC6SARLscJza8qtxn"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Mani Draper",
-          "url": "https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k"
-        },
-        {
-          "name": "Kevin Allen",
-          "url": "https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B"
-        },
-        {
-          "name": "Brookfield Duece",
-          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
-        },
-        {
-          "name": "Passwurdz",
-          "url": "https://open.spotify.com/artist/5wTcjhNkm9cEGjzRad9ZUV"
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
         }
       ],
-      "duration_ms": 165957,
-      "name": "Respectfully",
-      "url": "https://open.spotify.com/track/5LaFUm8RJq7ULiVd0JdKV8"
+      "duration_ms": 139427,
+      "name": "Feel Me?",
+      "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
     },
     {
       "added_at": null,
@@ -871,26 +859,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Me?",
-        "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
+        "name": "Respectfully",
+        "url": "https://open.spotify.com/album/5hVS87XMV1UBHMdPQtLPOn"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+          "name": "Grand Nationxl",
+          "url": "https://open.spotify.com/artist/4fMApbC6SARLscJza8qtxn"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "DaBoii",
-          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+          "name": "Mani Draper",
+          "url": "https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k"
+        },
+        {
+          "name": "Kevin Allen",
+          "url": "https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B"
+        },
+        {
+          "name": "Brookfield Duece",
+          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
+        },
+        {
+          "name": "Passwurdz",
+          "url": "https://open.spotify.com/artist/5wTcjhNkm9cEGjzRad9ZUV"
         }
       ],
-      "duration_ms": 139427,
-      "name": "Feel Me?",
-      "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
+      "duration_ms": 165957,
+      "name": "Respectfully",
+      "url": "https://open.spotify.com/track/5LaFUm8RJq7ULiVd0JdKV8"
     },
     {
       "added_at": null,

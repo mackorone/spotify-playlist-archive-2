@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 141160,
       "name": "Cherry Pies Ought to Be You (with Rosemary Clooney)",
       "url": "https://open.spotify.com/track/6eNRJ9yrEg4o6ZxWVhAz8a"
@@ -4421,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "Frank Sinatra Sings the Songbooks, Vol. 5",
+        "url": "https://open.spotify.com/album/1qWlA1lgQ33tGspMUH8wD1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "From This Moment On: Out of This World: Cherry Pies Ought to Be You",
+      "url": "https://open.spotify.com/track/33gqmLQZkxIsqqgB8RJQjV"
+    },
+    {
+      "album": {
         "name": "From This Very Moment On",
         "url": "https://open.spotify.com/album/1oAC3LOWfi9ZTHdgoKsDXu"
       },
@@ -5020,6 +5038,24 @@
       "duration_ms": 171693,
       "name": "High Society Calypso - Live 1960",
       "url": "https://open.spotify.com/track/4HkA3LQ3Y1ibz09G6CFBuM"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra Sings the Songbooks, Vol. 5",
+        "url": "https://open.spotify.com/album/1qWlA1lgQ33tGspMUH8wD1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129160,
+      "name": "High Society: Who Wants to Be a Millionaire?",
+      "url": "https://open.spotify.com/track/0TxO7yP07lBlbw5NWmIbIh"
     },
     {
       "album": {
@@ -14884,7 +14920,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 127360,
       "name": "Who Wants To Be A Millionaire",
       "url": "https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3"
@@ -15462,10 +15498,46 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 169533,
       "name": "You Don't Remind Me",
       "url": "https://open.spotify.com/track/0myKUjAqkq7ChI1Fm8hd9c"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra Sings the Songbooks, Vol. 5",
+        "url": "https://open.spotify.com/album/1qWlA1lgQ33tGspMUH8wD1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173106,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/28cu5WpGZRqDAtFUGRjQ4N"
+    },
+    {
+      "album": {
+        "name": "Billie Holiday - Album Nr. 3: Studio Highlights and the Legendary Cologne Concert (1954) [2015 Digital Remaster]",
+        "url": "https://open.spotify.com/album/4g4v5ZQ8TFG66UIu9wluf0"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173869,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/5W4AX4iOO3d3L5YmRV65DJ"
     },
     {
       "album": {
@@ -15480,7 +15552,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 174866,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"

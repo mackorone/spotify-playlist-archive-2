@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 331445,
+  "num_followers": 331491,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
+      "added_at": "2023-03-30 13:21:39",
+      "album": {
+        "name": "Whatever Happened to Benny Santini?",
+        "url": "https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 284533,
+      "name": "Fool (If You Think It's Over)",
+      "url": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV"
+    },
+    {
       "added_at": "2023-03-29 17:34:27",
       "album": {
         "name": "Ambrosia",
@@ -719,22 +735,6 @@
       "duration_ms": 256160,
       "name": "Holdin' on to Yesterday",
       "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
-    },
-    {
-      "added_at": "2023-03-30 13:21:39",
-      "album": {
-        "name": "Whatever Happened to Benny Santini?",
-        "url": "https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 284533,
-      "name": "Fool (If You Think It's Over)",
-      "url": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV"
     },
     {
       "added_at": "2023-03-29 17:34:27",

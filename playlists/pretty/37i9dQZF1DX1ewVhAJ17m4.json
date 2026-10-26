@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604581,
+  "num_followers": 604569,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Over My Head",
-        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
-      },
-      "artists": [
-        {
-          "name": "Not My Weekend",
-          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
-        }
-      ],
-      "duration_ms": 182956,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "WONKY",
         "url": "https://open.spotify.com/album/7wz0tB8ek3ZiW0H2mY6yEa"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 175109,
       "name": "WONKY",
       "url": "https://open.spotify.com/track/56mDUvJ6kBQoO5XEEKVeuB"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
+      },
+      "artists": [
+        {
+          "name": "Not My Weekend",
+          "url": "https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 158406,
-      "name": "See Through",
-      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Under Construction Forever",
         "url": "https://open.spotify.com/album/2njmow8kVfBytRC2cUAAkv"
       },
@@ -683,6 +667,38 @@
       "duration_ms": 119600,
       "name": "Sundial",
       "url": "https://open.spotify.com/track/78ueIcsp0xxMpPHP1d9pQH"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/6sAFuESQLtvrhSdBSsIuz7"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 159727,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/6MiF7VuncGIcEoVzzBeWIT"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 158406,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Panic Attack",
-        "url": "https://open.spotify.com/album/6sAFuESQLtvrhSdBSsIuz7"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 159727,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/6MiF7VuncGIcEoVzzBeWIT"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Big Couch",
         "url": "https://open.spotify.com/album/63AHpXbfKdMuJlzZpCTujr"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Moments Before The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Phoenix Down",
-      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/0LxegpHfZguBMHYKM5oVFK"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 190000,
       "name": "Deadbeat",
       "url": "https://open.spotify.com/track/0HekjtwjtV06N95r56zLmA"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Phoenix Down",
+      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -927,6 +927,22 @@
       "duration_ms": 223416,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Back To One",
+        "url": "https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Listen Up!",
-        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "A Love Song",
-      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Burst & Decay (Volume III)",
         "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Still There\u2019s a Glow",
-        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 168365,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "FAKE FEELINGS",
         "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
       },
@@ -1063,6 +1047,38 @@
       "duration_ms": 185741,
       "name": "FAKE FEELINGS",
       "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Still There\u2019s a Glow",
+        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 168365,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1115,6 +1131,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Sad",
         "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
       },
@@ -1163,18 +1195,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Back To One",
-        "url": "https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp"
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
       },
       "artists": [
         {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Back To One",
-      "url": "https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY"
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1195,18 +1227,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+        "name": "WASTED",
+        "url": "https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "Pushing Veronica",
+          "url": "https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40"
         }
       ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
+      "duration_ms": 177573,
+      "name": "WASTED",
+      "url": "https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1227,34 +1259,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "WASTED",
-        "url": "https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G"
+        "name": "Ray Hawthorne Can't Be Trusted",
+        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
       },
       "artists": [
         {
-          "name": "Pushing Veronica",
-          "url": "https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40"
+          "name": "Ray Hawthorne",
+          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
         }
       ],
-      "duration_ms": 177573,
-      "name": "WASTED",
-      "url": "https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX"
-      },
-      "artists": [
-        {
-          "name": "Go For Gold",
-          "url": "https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ"
-        }
-      ],
-      "duration_ms": 209625,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu"
+      "duration_ms": 178119,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Ray Hawthorne Can't Be Trusted",
-        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX"
       },
       "artists": [
         {
-          "name": "Ray Hawthorne",
-          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
+          "name": "Go For Gold",
+          "url": "https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ"
         }
       ],
-      "duration_ms": 178119,
-      "name": "Bummer",
-      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 201081,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
+      "duration_ms": 209625,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Like Me Less",
-        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
-      },
-      "artists": [
-        {
-          "name": "Harrison Gordon",
-          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
-        }
-      ],
-      "duration_ms": 172351,
-      "name": "Like Me Less",
-      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Nice to Know Ya",
         "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "I Feel Like Shit And It's All Your Fault",
-        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+        "name": "Like Me Less",
+        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
       },
       "artists": [
         {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+          "name": "Harrison Gordon",
+          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
         }
       ],
-      "duration_ms": 177236,
-      "name": "Hate My Mom",
-      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
+      "duration_ms": 172351,
+      "name": "Like Me Less",
+      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1483,6 +1467,22 @@
       "duration_ms": 146703,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "I Feel Like Shit And It's All Your Fault",
+        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 177236,
+      "name": "Hate My Mom",
+      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Resuscitate",
         "url": "https://open.spotify.com/album/3dGbExijwdYk5AjKQnH0SW"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 186124,
       "name": "Resuscitate",
       "url": "https://open.spotify.com/track/72IQ4ulGN7L9e2WA92SXdK"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "LANDSLIDE",
-        "url": "https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF"
+        "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
       },
       "artists": [
         {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Sumerian Pictures",
+          "url": "https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW"
         }
       ],
-      "duration_ms": 149943,
-      "name": "LANDSLIDE",
-      "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
+      "duration_ms": 222550,
+      "name": "Not The Doctor - 'Mile End Kicks' - Music Inspired by the Motion Picture",
+      "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1731,22 +1735,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
+        "name": "LANDSLIDE",
+        "url": "https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Sumerian Pictures",
-          "url": "https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW"
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
         }
       ],
-      "duration_ms": 222550,
-      "name": "Not The Doctor - 'Mile End Kicks' - Music Inspired by the Motion Picture",
-      "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
+      "duration_ms": 149943,
+      "name": "LANDSLIDE",
+      "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3WRLRzAkTcrrGemtia8jxF"
+      },
+      "artists": [
+        {
+          "name": "Fluorescents",
+          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2YcUWBymYJzYYumtJPMJE4"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
         "url": "https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 222460,
       "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
       "url": "https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3WRLRzAkTcrrGemtia8jxF"
-      },
-      "artists": [
-        {
-          "name": "Fluorescents",
-          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/2YcUWBymYJzYYumtJPMJE4"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7m2IJzqPeQui16xleWRW0R"
-      },
-      "artists": [
-        {
-          "name": "Bukowski",
-          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
-        }
-      ],
-      "duration_ms": 138628,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/23HKdRHL7scRmncCyzrUSw"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Here in This Crazy",
         "url": "https://open.spotify.com/album/04NVpBsdEGpCwmhbfvV2l5"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 221756,
       "name": "Here in This Crazy",
       "url": "https://open.spotify.com/track/148KOFeRMqre2RdKYPxnHr"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/7m2IJzqPeQui16xleWRW0R"
+      },
+      "artists": [
+        {
+          "name": "Bukowski",
+          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
+        }
+      ],
+      "duration_ms": 138628,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/23HKdRHL7scRmncCyzrUSw"
     },
     {
       "added_at": "2026-10-23 04:01:58",

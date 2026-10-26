@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 594873,
+  "num_followers": 594874,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Santiago",
         "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
       },
@@ -1463,22 +1447,18 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
-        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 235136,
-      "name": "Camas Separadas - ft. Disco Bah\u00eda",
-      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1495,6 +1475,26 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
+        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 235136,
+      "name": "Camas Separadas - ft. Disco Bah\u00eda",
+      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
         "name": "Porvenir",
         "url": "https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 180388,
       "name": "Porvenir",
       "url": "https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
     },
     {
       "added_at": "2026-09-30 22:47:28",

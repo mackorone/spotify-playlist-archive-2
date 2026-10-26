@@ -1,12 +1,12 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 2832,
+  "num_followers": 2835,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAADUqLgs3wnD82sQ+6pasd93",
+  "snapshot_id": "atv1AAAAAADgIv7yxv+yhRmDmQcGCanu",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 187120,
-      "name": "G Song",
-      "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
+      "duration_ms": 131213,
+      "name": "M - Music I - Inside C - Curved E-Entrances",
+      "url": "https://open.spotify.com/track/6cQsVzglHpnfzQ5fuHeUEw"
     },
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church of Anthrax",
-        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 545480,
-      "name": "Church of Anthrax",
-      "url": "https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm"
+      "duration_ms": 187120,
+      "name": "G Song",
+      "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
     },
     {
       "added_at": null,
@@ -247,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+        "name": "Church of Anthrax",
+        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 131213,
-      "name": "M - Music I - Inside C - Curved E-Entrances",
-      "url": "https://open.spotify.com/track/6cQsVzglHpnfzQ5fuHeUEw"
+      "duration_ms": 545480,
+      "name": "Church of Anthrax",
+      "url": "https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 174893,
-      "name": "The Protege",
-      "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
+      "duration_ms": 481320,
+      "name": "The Hall of Mirrors In the Palace of Versailles",
+      "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 481320,
-      "name": "The Hall of Mirrors In the Palace of Versailles",
-      "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
+      "duration_ms": 174893,
+      "name": "The Protege",
+      "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
     },
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILLIN' LOVERS",
-        "url": "https://open.spotify.com/album/1dQIMYoRsYFzE2hMEWX5mJ"
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
       "artists": [
-        {
-          "name": "Alaine",
-          "url": "https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc"
-        },
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 233893,
-      "name": "FOREVER MORE",
-      "url": "https://open.spotify.com/track/3UQNQ36DXe77h3CzrhS2Va"
+      "duration_ms": 276146,
+      "name": "Llanto",
+      "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
     },
     {
       "added_at": null,
@@ -583,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+        "name": "CHILLIN' LOVERS",
+        "url": "https://open.spotify.com/album/1dQIMYoRsYFzE2hMEWX5mJ"
       },
       "artists": [
+        {
+          "name": "Alaine",
+          "url": "https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc"
+        },
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 276146,
-      "name": "Llanto",
-      "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
+      "duration_ms": 233893,
+      "name": "FOREVER MORE",
+      "url": "https://open.spotify.com/track/3UQNQ36DXe77h3CzrhS2Va"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
       "duration_ms": 400306,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Krishna Bhatt",
+          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Medusa's Refrain - part 1",
+      "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
     },
     {
       "added_at": null,
@@ -667,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Man's Land",
-        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Krishna Bhatt",
-          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Medusa's Refrain - part 1",
-      "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
       },
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 364960,
-      "name": "Remember This",
-      "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
+      "duration_ms": 561226,
+      "name": "The Crucifixion Of My Humble Self",
+      "url": "https://open.spotify.com/track/0JsGHAmk4OjhalNLJJTktU"
     },
     {
       "added_at": null,
@@ -787,6 +787,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 364960,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1293666,
+      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
+      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Padova Concert",
         "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
       },
@@ -819,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1293666,
-      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
-      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROPICAL ESCAPE riddim",
         "url": "https://open.spotify.com/album/1AencwAAJl9a5xjIllNiZB"
       },
@@ -847,74 +863,6 @@
       "duration_ms": 174482,
       "name": "GIMME LIKKLE ONE DROP",
       "url": "https://open.spotify.com/track/3VUsvV12pqwrdqkpKooFS6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Incontri & Reuniones",
-        "url": "https://open.spotify.com/album/319JrYd245icZ0icSx6kmZ"
-      },
-      "artists": [
-        {
-          "name": "Stefano Scodanibbio",
-          "url": "https://open.spotify.com/artist/6UDoms7Gb8Ej8prwwGBAl3"
-        },
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 470986,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/7pTYvpbBDk14NjA1KmSUcb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 448026,
-      "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
-      "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Introduction To Amiata's New Music Series Vol1",
-        "url": "https://open.spotify.com/album/7xYZP2kzAXxUGEWueXBSw3"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Land's End",
-      "url": "https://open.spotify.com/track/1yYwD8sKQy9ZKz3lgZ0pDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riley: Songs for the Ten Voices of the Two Prophets",
-        "url": "https://open.spotify.com/album/1VZ8fH3tI616b9sUhqQowD"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 688000,
-      "name": "Eastern Man",
-      "url": "https://open.spotify.com/track/3Q7D0QzlUFi90KQBhSbqaQ"
     },
     {
       "added_at": null,
@@ -939,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lion's Throne",
+        "url": "https://open.spotify.com/album/5gHeA1IYYEDZoGMPoNgmjP"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Amelia Cuni",
+          "url": "https://open.spotify.com/artist/7caCvnanZCHvcoPslDOGkW"
+        }
+      ],
+      "duration_ms": 590426,
+      "name": "Tarana in Hindol",
+      "url": "https://open.spotify.com/track/4mLCDBrUnCOoKQif9ucuHH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
@@ -951,6 +919,46 @@
       "duration_ms": 592026,
       "name": "Zamorra",
       "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Krishna Bhatt",
+          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
+        }
+      ],
+      "duration_ms": 519000,
+      "name": "Blue Anthem",
+      "url": "https://open.spotify.com/track/6LLSaICqGSFPi6TYaYT6au"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Way Out Yonder",
+        "url": "https://open.spotify.com/album/5m94wx3KAPf5yh5shKaqwJ"
+      },
+      "artists": [
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 324680,
+      "name": "The Lake",
+      "url": "https://open.spotify.com/track/0Sfb6rEf6GSuYvt20kcmNM"
     }
   ],
   "unique_name": "This Is Terry Riley",

@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 87136,
+  "num_followers": 87197,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Agbara Olorun po",
+        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
+      },
+      "artists": [
+        {
+          "name": "Clement whyte",
+          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
+        }
+      ],
+      "duration_ms": 301141,
+      "name": "Agbara Olorun po",
+      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Chants of Ascension",
         "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 570070,
       "name": "Chants of Ascension",
       "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
-    },
-    {
-      "added_at": "2025-10-17 00:01:26",
-      "album": {
-        "name": "Ah Eh Eh Eh Ah Ah Ah (Chant)",
-        "url": "https://open.spotify.com/album/7zoquBJfRRJ9CDJ7YYaGtr"
-      },
-      "artists": [
-        {
-          "name": "Minstrel Myra",
-          "url": "https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1"
-        }
-      ],
-      "duration_ms": 595916,
-      "name": "Ah Eh Eh Eh Ah Ah Ah (Chant)",
-      "url": "https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -389,20 +389,20 @@
       "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-10-17 00:01:26",
       "album": {
-        "name": "Agbara Olorun po",
-        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
+        "name": "Ah Eh Eh Eh Ah Ah Ah (Chant)",
+        "url": "https://open.spotify.com/album/7zoquBJfRRJ9CDJ7YYaGtr"
       },
       "artists": [
         {
-          "name": "Clement whyte",
-          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
+          "name": "Minstrel Myra",
+          "url": "https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1"
         }
       ],
-      "duration_ms": 301141,
-      "name": "Agbara Olorun po",
-      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
+      "duration_ms": 595916,
+      "name": "Ah Eh Eh Eh Ah Ah Ah (Chant)",
+      "url": "https://open.spotify.com/track/2pkRtgefK3gkFM8I06MCLa"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
     },
     {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Kadosh",
+        "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
+      },
+      "artists": [
+        {
+          "name": "Pv Idemudia",
+          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
+        }
+      ],
+      "duration_ms": 337711,
+      "name": "Kadosh (Live)",
+      "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
+    },
+    {
       "added_at": "2026-09-18 00:01:33",
       "album": {
         "name": "More Than Life (Spontaneous Worship)",
@@ -1051,22 +1067,6 @@
       "duration_ms": 404749,
       "name": "More Than Life (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Kadosh",
-        "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
-      },
-      "artists": [
-        {
-          "name": "Pv Idemudia",
-          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
-        }
-      ],
-      "duration_ms": 337711,
-      "name": "Kadosh (Live)",
-      "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
     },
     {
       "added_at": "2024-07-26 00:01:00",

@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Unbound and Dangerous (Live)",
+        "url": "https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209495,
+      "name": "Build Me a Woman (Live, 1970) - 2026 Mix",
+      "url": "https://open.spotify.com/track/6nGfm3MCxGWCj9qYgHa6z4"
+    },
+    {
+      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -847,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Unbound and Dangerous (Live)",
+        "url": "https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45670,
+      "name": "Petition the Lord With Prayer (Live, 1970) - 2026 Mix",
+      "url": "https://open.spotify.com/track/7DBosfu3dVeI2Yzvb8KAJX"
+    },
+    {
+      "album": {
         "name": "Strange Nights of Stone",
         "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
       },
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 117066,
       "name": "Unhappy Girl",
       "url": "https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8"
@@ -1366,10 +1402,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 659266,
       "name": "When the Music's Over",
       "url": "https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl"
+    },
+    {
+      "album": {
+        "name": "Unbound and Dangerous (Live)",
+        "url": "https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 879533,
+      "name": "When the Music's Over (Live, 1970) - 2026 Mix",
+      "url": "https://open.spotify.com/track/0z6u4SbK6hJ9WuceoYwdjX"
     },
     {
       "album": {

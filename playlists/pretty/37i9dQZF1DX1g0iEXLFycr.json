@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1065527,
+  "num_followers": 1065456,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Eliza Doolittle",
+        "url": "https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe"
+      },
+      "artists": [
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Pack Up",
+      "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Timber",
         "url": "https://open.spotify.com/album/77AM9Aaav9TwicABfOJ0W2"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 204280,
       "name": "Timber",
       "url": "https://open.spotify.com/track/40ia0VswpL9SUuPdfLyabK"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Eliza Doolittle",
-        "url": "https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe"
-      },
-      "artists": [
-        {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Pack Up",
-      "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6IH6co1QUS7uXoyPDv0rIr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/3g86N0SqyfxEVNMHlmW3RE"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 175333,
       "name": "Classic",
       "url": "https://open.spotify.com/track/5x9VIW2fS21JMswOt6AORI"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6IH6co1QUS7uXoyPDv0rIr"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181772,
-      "name": "Busy Earnin'",
-      "url": "https://open.spotify.com/track/3g86N0SqyfxEVNMHlmW3RE"
     },
     {
       "added_at": "2024-03-22 16:40:22",

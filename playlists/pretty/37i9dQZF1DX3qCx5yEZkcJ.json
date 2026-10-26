@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1462614,
+  "num_followers": 1462532,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Flute Echoes",
         "url": "https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 147747,
       "name": "Flute Echoes",
       "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Smrti",
         "url": "https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 200109,
       "name": "Smrti",
       "url": "https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Ripples",
-        "url": "https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "\u6ce2\u7d0b",
         "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 189878,
       "name": "\u6ce2\u7d0b",
       "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Ripples",
+        "url": "https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Syn Fonia I",
         "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
@@ -867,26 +851,18 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
       },
       "artists": [
         {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        },
-        {
-          "name": "dryhope",
-          "url": "https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t"
-        },
-        {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Woodstock",
-      "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -967,6 +943,30 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
+      },
+      "artists": [
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "dryhope",
+          "url": "https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -999,18 +1015,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
+        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
       },
       "artists": [
         {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+      "duration_ms": 181931,
+      "name": "Yosei",
+      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1035,26 +1055,6 @@
       "duration_ms": 132152,
       "name": "Flow Motion",
       "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
-        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
-        }
-      ],
-      "duration_ms": 181931,
-      "name": "Yosei",
-      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Yugure",
-        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
-      },
-      "artists": [
-        {
-          "name": "Komachi",
-          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "Yugure",
-      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Light Breeze EP",
         "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 120000,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Yugure",
+        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
+      },
+      "artists": [
+        {
+          "name": "Komachi",
+          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "Yugure",
+      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/2Egb08QJgAFtk3SwQvrPeI"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 165189,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+      },
+      "artists": [
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Tarde Invernal",
-        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
-      },
-      "artists": [
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        },
-        {
-          "name": "Fourth Dogma",
-          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
-        }
-      ],
-      "duration_ms": 142004,
-      "name": "Tarde Invernal",
-      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "A Journey Beyond Time",
         "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 135000,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Tarde Invernal",
+        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
+      },
+      "artists": [
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        },
+        {
+          "name": "Fourth Dogma",
+          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
+        }
+      ],
+      "duration_ms": 142004,
+      "name": "Tarde Invernal",
+      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
     },
     {
       "added_at": "2026-10-20 15:32:21",

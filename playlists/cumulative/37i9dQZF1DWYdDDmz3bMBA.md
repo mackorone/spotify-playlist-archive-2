@@ -4,7 +4,7 @@
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-73 songs - 3 day 0 hr 57 min
+73 songs - 3 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [I Tried To Summarize Every NBA Team In 45 Minutes](https://open.spotify.com/episode/1VcPEF8oJoPO7oNzHHHXor) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 49:00 | 2024-10-03 | 2025-10-15 |
 | [I Wouldn’t Feel the Need to Hold Your Hand with David Kushner](https://open.spotify.com/episode/7fFPnc3bHjIJJ9Z5l2ClbH) | [My Favorite Lyrics with Devon Walker](https://open.spotify.com/show/27nqdtzqOw0WYcFz0bYey3) | [My Favorite Lyrics with Devon Walker](https://open.spotify.com/album/27nqdtzqOw0WYcFz0bYey3) | 57:55 | 2026-10-21 |  |
 | [I'm Single\. Again.](https://open.spotify.com/episode/7BHn9T7O3W62Lsi5HLob9r) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:08:11 | 2024-10-03 | 2025-10-15 |
-| [Just Go Be Crazy feat\. Reign Judge](https://open.spotify.com/episode/10TIRmo3utt3Bh2WQOSGri) | [Upstairs Neighbors](https://open.spotify.com/show/79DTRMDiDdAfkViCViYcJj) | [Upstairs Neighbors](https://open.spotify.com/album/79DTRMDiDdAfkViCViYcJj) | 1:22:37 | 2026-10-21 |  |
+| [Just Go Be Crazy feat\. Reign Judge](https://open.spotify.com/episode/10TIRmo3utt3Bh2WQOSGri) | [Upstairs Neighbors](https://open.spotify.com/show/79DTRMDiDdAfkViCViYcJj) | [Upstairs Neighbors](https://open.spotify.com/album/79DTRMDiDdAfkViCViYcJj) | 1:20:39 | 2026-10-21 |  |
 | [Khalid is Unapologetically Embracing His Truth](https://open.spotify.com/episode/2igB1FaHL6c8eRQcCbx5rh) | [House Guest](https://open.spotify.com/show/04A7siemGWqKh1ihsl6Due) | [House Guest](https://open.spotify.com/album/04A7siemGWqKh1ihsl6Due) | 1:16:08 | 2025-12-16 | 2026-10-22 |
 | [Love Is Blind SZN 7 FT\. Garrick Bernard](https://open.spotify.com/episode/7a8Kx5gvf0xNq1uRKLq4m8) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 1:13:02 | 2024-11-13 | 2025-10-15 |
 | [Micky & Tanner Crashed the Pod](https://open.spotify.com/episode/3s82rS3IDhdKhnrJGkmyyW) | [Upstairs Neighbors](https://open.spotify.com/show/79DTRMDiDdAfkViCViYcJj) | [Upstairs Neighbors](https://open.spotify.com/album/79DTRMDiDdAfkViCViYcJj) | 59:06 | 2026-10-21 |  |

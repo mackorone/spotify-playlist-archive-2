@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 111 songs - 6 hr 42 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 112 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 109 | [We Might As Well](https://open.spotify.com/track/3vgR3WEPLoe3BiDSEDejio) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Tsunami](https://open.spotify.com/album/3vEEDi3eoXun3rU13XpAvb) | 4:32 |
 | 110 | [A través del cristal](https://open.spotify.com/track/4S7srjyyrvjKbDpof9Wd76) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU), [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc) | [A través del cristal](https://open.spotify.com/album/6U60rrrl1hn7ucgxZqRVqM) | 2:33 |
 | 111 | [Judy Joan & Buffy](https://open.spotify.com/track/36hIAapeAhnxCpnPNYvnPe) | [Marvin Conan](https://open.spotify.com/artist/5mNwzKcw5pJsCw9F9hZdrk), [Victoria Bebee](https://open.spotify.com/artist/2yT9qgdKWBDf5V08wu3kpZ) | [Judy Joan & Buffy](https://open.spotify.com/album/7bAUDNCF8yrz0YAfdUqwSR) | 3:17 |
+| 112 | [De ti](https://open.spotify.com/track/0G3RpCIyrivV1Iwslpd4sr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 2:29 |
 
-Snapshot ID: `AAAZF5DwVrHILwX3nOd/ZK0OZQRdFgpJ`
+Snapshot ID: `AAAZGGKjfLxp7Hgi+Qk8XmsdXSum2fy+`

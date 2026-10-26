@@ -1,6 +1,6 @@
 {
   "description": "Hot songs for the hot summer.",
-  "num_followers": 502000,
+  "num_followers": 501964,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 234933,
       "name": "Hold You - Hold Yuh",
       "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Talibans",
-      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Talibans",
+      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Infinity (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
         "name": "Exotisch (Sangria)",
         "url": "https://open.spotify.com/album/168cUsH1xYOtXelbsh7U00"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 142439,
       "name": "Exotisch (Sangria)",
       "url": "https://open.spotify.com/track/0wETChJmZMcTIaFpi685x9"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Infinity (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Sashimi Flow",
-        "url": "https://open.spotify.com/album/71w4G7wJ9kVJELGLcOhty6"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 134604,
-      "name": "Bewijsdrang",
-      "url": "https://open.spotify.com/track/1XqKbfd79F00Kba5HFXKMc"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 186153,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Sashimi Flow",
+        "url": "https://open.spotify.com/album/71w4G7wJ9kVJELGLcOhty6"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 134604,
+      "name": "Bewijsdrang",
+      "url": "https://open.spotify.com/track/1XqKbfd79F00Kba5HFXKMc"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "BOSS UP",
         "url": "https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 151320,
       "name": "BOSS UP",
       "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 141891,
-      "name": "Solar",
-      "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "Talibans II",
         "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 141891,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
     },
     {
       "added_at": "2026-10-12 12:57:14",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2026-10-12 12:57:14",
       "album": {
-        "name": "Big Thug Boys (Dj Yo! Remix)",
-        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        },
-        {
-          "name": "Dj Yo!",
-          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
-        }
-      ],
-      "duration_ms": 174774,
-      "name": "Big Thug Boys (Dj Yo! Remix)",
-      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
-    },
-    {
-      "added_at": "2026-10-12 12:57:14",
-      "album": {
         "name": "B. D\u2019OR (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
@@ -2095,6 +2075,26 @@
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "added_at": "2026-10-12 12:57:14",
+      "album": {
+        "name": "Big Thug Boys (Dj Yo! Remix)",
+        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        },
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        }
+      ],
+      "duration_ms": 174774,
+      "name": "Big Thug Boys (Dj Yo! Remix)",
+      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
     },
     {
       "added_at": "2026-10-12 12:57:14",

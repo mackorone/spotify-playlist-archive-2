@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "The Fragile Beauty (Of New Morning Hopes)",
+        "url": "https://open.spotify.com/album/56ooh2IxvuvMA9xKg04OLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Henry Foster",
+          "url": "https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402645,
+      "name": "Blue as the Rain",
+      "url": "https://open.spotify.com/track/6ie8KdzMFEZxKUpDmD2pSD"
+    },
+    {
+      "album": {
         "name": "WHY ALWAYS MUSIC?",
         "url": "https://open.spotify.com/album/0AaHsyohFkudAoCGmCmOYb"
       },
@@ -6114,7 +6132,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 177000,
       "name": "l'amour aux temps des samoura\u00efs",
       "url": "https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg"

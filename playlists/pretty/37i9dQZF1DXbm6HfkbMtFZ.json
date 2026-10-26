@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 845568,
+  "num_followers": 845590,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235870,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Soundtrack For A Movie That Has Not Been Written Yet",
         "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 173640,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235870,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
         "name": "Autoflower",
         "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 209106,
       "name": "Cool Cat - Remastered 2011",
       "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Moodie",
+        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
+      },
+      "artists": [
+        {
+          "name": "Yuno",
+          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "No Going Back",
+      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Moodie",
-        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
-      },
-      "artists": [
-        {
-          "name": "Yuno",
-          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "No Going Back",
-      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Miel de Montagne",
         "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
+        "name": "Fish in the Reeds",
+        "url": "https://open.spotify.com/album/1Dd5rfQyybKrHArWw6ktG6"
       },
       "artists": [
         {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 197573,
-      "name": "People Settle Down",
-      "url": "https://open.spotify.com/track/4Bz4E8HofJLXXP9qvYZCUH"
+      "duration_ms": 240253,
+      "name": "Fish in the Reeds",
+      "url": "https://open.spotify.com/track/3oVnq5uKXr5HQUW3Lt6AfH"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Fish in the Reeds",
-        "url": "https://open.spotify.com/album/1Dd5rfQyybKrHArWw6ktG6"
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
         }
       ],
-      "duration_ms": 240253,
-      "name": "Fish in the Reeds",
-      "url": "https://open.spotify.com/track/3oVnq5uKXr5HQUW3Lt6AfH"
+      "duration_ms": 197573,
+      "name": "People Settle Down",
+      "url": "https://open.spotify.com/track/4Bz4E8HofJLXXP9qvYZCUH"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "New Slack",
-        "url": "https://open.spotify.com/album/4c7xiN0CIGQFbdqO7KwMKj"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 216577,
-      "name": "New Slack",
-      "url": "https://open.spotify.com/track/1baFNFi82Bj5vwv39ugtJn"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
-        "name": "Thrill Seekers",
-        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
-      },
-      "artists": [
-        {
-          "name": "Petite League",
-          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
-        }
-      ],
-      "duration_ms": 170075,
-      "name": "Pantone Karaoke",
-      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
@@ -1347,6 +1315,22 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
+        "name": "New Slack",
+        "url": "https://open.spotify.com/album/4c7xiN0CIGQFbdqO7KwMKj"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 216577,
+      "name": "New Slack",
+      "url": "https://open.spotify.com/track/1baFNFi82Bj5vwv39ugtJn"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Thrill Seekers",
+        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
+      },
+      "artists": [
+        {
+          "name": "Petite League",
+          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+        }
+      ],
+      "duration_ms": 170075,
+      "name": "Pantone Karaoke",
+      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Sun & Moon",
         "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 165712,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Maybe Later",
-        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
-      },
-      "artists": [
-        {
-          "name": "Neighbor Lady",
-          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 202720,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Maybe Later",
+        "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
+      },
+      "artists": [
+        {
+          "name": "Neighbor Lady",
+          "url": "https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "My Dirty Desire / Dreaming In Slow Motion",
-        "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 206963,
-      "name": "My Dirty Desire",
-      "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Favorite Kind of People",
         "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 125962,
       "name": "Late Night Morning Light",
       "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "My Dirty Desire / Dreaming In Slow Motion",
+        "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 206963,
+      "name": "My Dirty Desire",
+      "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
     },
     {
       "added_at": "2026-10-13 21:47:39",

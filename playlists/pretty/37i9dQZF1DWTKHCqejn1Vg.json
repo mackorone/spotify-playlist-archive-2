@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34749,
+  "num_followers": 34748,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Truth Be Told",
-      "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 205999,
       "name": "Infrared Camera",
       "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "AFTER UPSET",
-        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "muah",
-      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "Not my fault",
         "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 214319,
       "name": "I wonder (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "AFTER UPSET",
+        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "muah",
+      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
     },
     {
       "added_at": "2026-09-03 07:18:48",

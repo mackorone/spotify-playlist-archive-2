@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: AD\u00c9LA",
-  "num_followers": 4329643,
+  "num_followers": 4329282,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Hide Away (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
+        "name": "Evolve (CLUBSOS VOL. 1)",
+        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 137538,
-      "name": "Hide Away - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
+      "duration_ms": 194649,
+      "name": "Evolve - CLUBSOS VOL. 1",
+      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
     },
     {
       "added_at": "2026-08-22 02:04:33",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Evolve (CLUBSOS VOL. 1)",
-        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
+        "name": "Hide Away (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 194649,
-      "name": "Evolve - CLUBSOS VOL. 1",
-      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
+      "duration_ms": 137538,
+      "name": "Hide Away - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 123214,
+      "name": "CAN'T TOUCH THIS - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "Me & U (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 427881,
       "name": "Danceteria - Harry Romero Remix",
       "url": "https://open.spotify.com/track/6oFNBxTVpYNpNCRehH05Ly"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 123214,
-      "name": "CAN'T TOUCH THIS - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
     }
   ],
   "unique_name": "Pop Remix",

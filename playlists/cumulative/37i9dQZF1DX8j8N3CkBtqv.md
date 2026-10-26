@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Shreya Jain, The F16s and other exciting artists.
 
-1,647 songs - 3 day 18 hr 49 min
+1,648 songs - 3 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 | 2025-11-14 | 2026-01-24 |
 | [Avadhu Mera Mann Matwara](https://open.spotify.com/track/7gotKqm3LlGZ79VoVyzDsv) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Avadhu Mera Mann Matwara](https://open.spotify.com/album/227EEQ9GIH8BrmTuf4HDMl) | 4:52 | 2023-12-15 | 2024-02-03 |
 | [Awaaz De](https://open.spotify.com/track/7IoHsgosn84V7GSHUh4esd) | [Chayan](https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U) | [Layla](https://open.spotify.com/album/5xQugUos41LTOBMLLno8e2) | 3:47 | 2026-03-06 | 2026-06-12 |
-| [Awaaz Hai](https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Awaaz Hai](https://open.spotify.com/album/4Wts4h7CDUEfXv36DrrVfY) | 2:48 | 2026-09-11 |  |
+| [Awaaz Hai](https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Awaaz Hai](https://open.spotify.com/album/4Wts4h7CDUEfXv36DrrVfY) | 2:48 | 2026-09-11 | 2026-10-26 |
 | [Awara](https://open.spotify.com/track/7bTwiyIvTfHVcK7K8IwobP) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Awara](https://open.spotify.com/album/1U0TEHs3g5krkngr6ZA8xW) | 3:01 | 2023-11-17 | 2023-12-09 |
 | [Azaad](https://open.spotify.com/track/5BjV0cBPXAJJEAAW4JNb6r) | [Prabhash Joshi](https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0), [Zenxae](https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP) | [Azaad](https://open.spotify.com/album/2gmUnXKrtzsaFQaaQAacHb) | 3:51 | 2023-08-18 | 2023-09-16 |
 | [Azaad](https://open.spotify.com/track/4oX4eA8ThoYJpKjpbZBNRn) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Azaad](https://open.spotify.com/album/6SJRwxlxxhUlEoz9IuJIuM) | 3:54 | 2024-09-20 | 2024-11-09 |
@@ -696,6 +696,7 @@
 | [Kaash](https://open.spotify.com/track/3QRE57ecyZLkMGwziBq5dl) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [Kaash](https://open.spotify.com/album/6B66bHV1ibylL8HpXxjdJJ) | 4:21 | 2023-10-06 | 2023-11-11 |
 | [Kaash](https://open.spotify.com/track/1G4XshPewCjRieTkCMn4UU) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anmol Sharma](https://open.spotify.com/artist/5o4y4N0OQXr9O60xaHe6mZ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Kaash](https://open.spotify.com/album/6aH1G7aQdvLzsjO3ejHHAC) | 2:58 | 2024-10-11 | 2025-01-18 |
 | [Kaash](https://open.spotify.com/track/6BWXTsLhxCzGygFbhfilzI) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Kaash](https://open.spotify.com/album/0lc99amF6gyQb0vwmX7wuv) | 2:23 | 2024-01-19 | 2024-01-27 |
+| [Kab aaoge?](https://open.spotify.com/track/0RSG7ttBWb9gevPhigBuXT) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM), [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [Kab aaoge?](https://open.spotify.com/album/7vYxNtj8fEeHG4zPRpRLb1) | 3:33 | 2026-10-16 |  |
 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 | 2025-03-14 | 2025-06-28 |
 | [Kab Se Baithe](https://open.spotify.com/track/3Sz8CDyUEvRMHxie8BAtwH) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kab Se Baithe](https://open.spotify.com/album/2VxDG6ZXzlR34nxaF4oQUf) | 2:49 | 2026-10-02 |  |
 | [Kabhi Kabhi](https://open.spotify.com/track/3kAZuFJanuYz4qiNhR9BA9) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Kabhi Kabhi](https://open.spotify.com/album/00WKhN1cptNUJOwlig6k1A) | 2:35 | 2025-08-08 | 2025-10-21 |

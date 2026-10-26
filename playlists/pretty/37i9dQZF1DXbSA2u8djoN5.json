@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: M.G.L., Alessandra",
-  "num_followers": 23736,
+  "num_followers": 23733,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,18 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
-        "name": "Complicat",
-        "url": "https://open.spotify.com/album/5gIwB4ELoUEOaWaBkajJNa"
+        "name": "Zece Zile",
+        "url": "https://open.spotify.com/album/7GgBqWI0jrODYlGWyG6KES"
       },
       "artists": [
         {
           "name": "Sami G",
           "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        },
-        {
-          "name": "VANILLA",
-          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Complicat",
-      "url": "https://open.spotify.com/track/5M8RZLWYRdVjhjhr0raySE"
+      "duration_ms": 197812,
+      "name": "Zece Zile",
+      "url": "https://open.spotify.com/track/64ssajATpkzcxp9lUJWCKu"
     },
     {
       "added_at": "2026-10-22 21:00:21",
@@ -279,18 +275,22 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
-        "name": "Zece Zile",
-        "url": "https://open.spotify.com/album/7GgBqWI0jrODYlGWyG6KES"
+        "name": "Complicat",
+        "url": "https://open.spotify.com/album/5gIwB4ELoUEOaWaBkajJNa"
       },
       "artists": [
         {
           "name": "Sami G",
           "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
         }
       ],
-      "duration_ms": 197812,
-      "name": "Zece Zile",
-      "url": "https://open.spotify.com/track/64ssajATpkzcxp9lUJWCKu"
+      "duration_ms": 151875,
+      "name": "Complicat",
+      "url": "https://open.spotify.com/track/5M8RZLWYRdVjhjhr0raySE"
     },
     {
       "added_at": "2026-10-22 21:00:21",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
+        "name": "Sa MM Care Pleaca",
+        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 119343,
+      "name": "Sa MM Care Pleaca",
+      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
+    },
+    {
+      "added_at": "2026-10-22 21:00:21",
+      "album": {
         "name": "Reggaeton",
         "url": "https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
-    },
-    {
-      "added_at": "2026-10-22 21:00:21",
-      "album": {
-        "name": "Sa MM Care Pleaca",
-        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 119343,
-      "name": "Sa MM Care Pleaca",
-      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
       "added_at": "2026-10-22 21:00:21",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
-        "name": "Antidot",
-        "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
-      },
-      "artists": [
-        {
-          "name": "Pepy",
-          "url": "https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Antidot",
-      "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
-    },
-    {
-      "added_at": "2026-10-22 21:00:21",
-      "album": {
         "name": "Arunca-ma La Lei",
         "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 152144,
       "name": "Arunca-ma La Lei",
       "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
+    },
+    {
+      "added_at": "2026-10-22 21:00:21",
+      "album": {
+        "name": "Antidot",
+        "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
+      },
+      "artists": [
+        {
+          "name": "Pepy",
+          "url": "https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Antidot",
+      "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
     },
     {
       "added_at": "2026-10-22 21:00:21",
@@ -815,8 +815,8 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
-        "name": "CALIFORNIA",
-        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
+        "name": "HE$OYAM",
+        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
       },
       "artists": [
         {
@@ -824,13 +824,13 @@
           "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
         }
       ],
-      "duration_ms": 139354,
-      "name": "CALIFORNIA",
-      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
+      "duration_ms": 183428,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     },
     {
       "added_at": "2026-10-22 21:00:21",
@@ -911,8 +911,8 @@
     {
       "added_at": "2026-10-22 21:00:21",
       "album": {
-        "name": "HE$OYAM",
-        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
       },
       "artists": [
         {
@@ -920,13 +920,13 @@
           "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 183428,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
+      "duration_ms": 139354,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
     },
     {
       "added_at": "2026-10-22 21:00:21",

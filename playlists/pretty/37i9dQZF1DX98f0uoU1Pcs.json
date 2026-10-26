@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295261,
+  "num_followers": 295256,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "viagr aboys (Japanese Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "Therapy II",
-      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 247166,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "viagr aboys (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "Therapy II",
+      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "On the Intricate Inner Workings of the System",
-        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
-      },
-      "artists": [
-        {
-          "name": "The Bug Club",
-          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "We Don't Care About That",
-      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "No One Was Driving The Car",
         "url": "https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 198541,
       "name": "Man with Hands and Ankles Bound",
       "url": "https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "On the Intricate Inner Workings of the System",
+        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "We Don't Care About That",
+      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Like I Do",
-        "url": "https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19"
-      },
-      "artists": [
-        {
-          "name": "Cashier",
-          "url": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
-        }
-      ],
-      "duration_ms": 219810,
-      "name": "Like I Do",
-      "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "EELS",
         "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19"
+      },
+      "artists": [
+        {
+          "name": "Cashier",
+          "url": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
+        }
+      ],
+      "duration_ms": 219810,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Party Lines",
-        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 179110,
-      "name": "Party Lines",
-      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Cherry Picker",
         "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 180469,
       "name": "Cherry Picker",
       "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Party Lines",
+        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 179110,
+      "name": "Party Lines",
+      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Cowards",
-        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 231677,
-      "name": "Building 650",
-      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 201236,
       "name": "GUTS",
       "url": "https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Cowards",
+        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Who's Gonna Love You Now?",
-        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
-      },
-      "artists": [
-        {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
-        }
-      ],
-      "duration_ms": 175050,
-      "name": "Who's Gonna Love You Now?",
-      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 283160,
       "name": "In For a\u2026 Pound!",
       "url": "https://open.spotify.com/track/61eB7URzZDMWNywmlda4HX"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Who's Gonna Love You Now?",
+        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "I'm The Outside",
-        "url": "https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS"
-      },
-      "artists": [
-        {
-          "name": "Angel Du$t",
-          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
-        }
-      ],
-      "duration_ms": 111666,
-      "name": "I'm The Outside",
-      "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Slippers 08",
         "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 108169,
       "name": "Castaways",
       "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "I'm The Outside",
+        "url": "https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS"
+      },
+      "artists": [
+        {
+          "name": "Angel Du$t",
+          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        }
+      ],
+      "duration_ms": 111666,
+      "name": "I'm The Outside",
+      "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
     },
     {
       "added_at": "2026-07-17 17:28:38",

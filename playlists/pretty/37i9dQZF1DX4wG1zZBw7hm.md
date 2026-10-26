@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,372 likes - 100 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,395 likes - 100 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 39 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
 | 40 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 |
 | 41 | [Montego Bay](https://open.spotify.com/track/5eQV0AvbqNHJnpcjCwMRfx) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:12 |
-| 42 | [First Narrows](https://open.spotify.com/track/1LDQpmzXg5ZFfdqdBQFw03) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [First Narrows](https://open.spotify.com/album/40DIozF4oXPydyjLVqnFQj) | 10:19 |
-| 43 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 |
+| 42 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 |
+| 43 | [First Narrows](https://open.spotify.com/track/1LDQpmzXg5ZFfdqdBQFw03) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [First Narrows](https://open.spotify.com/album/40DIozF4oXPydyjLVqnFQj) | 10:19 |
 | 44 | [Lucrezia](https://open.spotify.com/track/5fQrCXdKizySUZDgd0htNB) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 9:45 |
 | 45 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
 | 46 | [Outward](https://open.spotify.com/track/0Plyt46jf3XYgAO7ItZDRc) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 5:46 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 77 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 |
 | 78 | [Machine Food](https://open.spotify.com/track/2pwd3D0xp09vaQLLerDMfW) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Machine Food](https://open.spotify.com/album/2RPmQRsg1A9vMhnpwdiV08) | 4:26 |
 | 79 | [Game Over \( e 1 \)](https://open.spotify.com/track/2WrtP0IBtd6WL7RnfhVVHX) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Game Over \( e 1 \)](https://open.spotify.com/album/0uH5IgHeTFznjqRtkNrhFR) | 3:15 |
-| 80 | [Nova](https://open.spotify.com/track/0iGz5ZGVwlpE02BM1oCSjn) | [Leftover](https://open.spotify.com/artist/2Fsi18jBmBaSxBTYGiDLSt) | [Der Kirschbaum EP](https://open.spotify.com/album/13LquI8N4khxKLRwoByVEu) | 6:19 |
-| 81 | [Satellite](https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK) | [Father OhmikRon](https://open.spotify.com/artist/7hSnuuKcrmPv3E1oH8e8p9) | [Dub Systems](https://open.spotify.com/album/43DhDXjmMqGFsxyXxLsesZ) | 8:40 |
-| 82 | [Erode](https://open.spotify.com/track/6D66z28IfGVXjLSzgL6pRM) | [Erosion](https://open.spotify.com/artist/5lIeMv0yYXUfoFW3kiuniK) | [Decay Product](https://open.spotify.com/album/2Mntwro0WavIGHWAtiwOhX) | 9:19 |
-| 83 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |
+| 80 | [Satellite](https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK) | [Father OhmikRon](https://open.spotify.com/artist/7hSnuuKcrmPv3E1oH8e8p9) | [Dub Systems](https://open.spotify.com/album/43DhDXjmMqGFsxyXxLsesZ) | 8:40 |
+| 81 | [Nova](https://open.spotify.com/track/0iGz5ZGVwlpE02BM1oCSjn) | [Leftover](https://open.spotify.com/artist/2Fsi18jBmBaSxBTYGiDLSt) | [Der Kirschbaum EP](https://open.spotify.com/album/13LquI8N4khxKLRwoByVEu) | 6:19 |
+| 82 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |
+| 83 | [Erode](https://open.spotify.com/track/6D66z28IfGVXjLSzgL6pRM) | [Erosion](https://open.spotify.com/artist/5lIeMv0yYXUfoFW3kiuniK) | [Decay Product](https://open.spotify.com/album/2Mntwro0WavIGHWAtiwOhX) | 9:19 |
 | 84 | [Oktember](https://open.spotify.com/track/49MosPm9tMO3Xzzs2nzokf) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Oktember](https://open.spotify.com/album/6Dafde7J7kH2MQeyplCGVk) | 15:13 |
 | 85 | [Empyrean](https://open.spotify.com/track/32hGR5QuiPmhAdBxsmEUxw) | [Deepchord Presents: Echospace](https://open.spotify.com/artist/6mw8tTkjJtQs6kT1V8G5fI) | [The Coldest Season](https://open.spotify.com/album/6inU6drg77x3bgkN2OpDq6) | 5:25 |
-| 86 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
-| 87 | [Delicately in the Sunlight](https://open.spotify.com/track/6wwJpnx8QOlKhooSOp4I8I) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [An Act of Love](https://open.spotify.com/album/7iVg6RDW5EdYQ6zs0BzGzl) | 3:07 |
-| 88 | [Outpost](https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf), [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ) | [Distances](https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB) | 5:37 |
+| 86 | [Delicately in the Sunlight](https://open.spotify.com/track/6wwJpnx8QOlKhooSOp4I8I) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [An Act of Love](https://open.spotify.com/album/7iVg6RDW5EdYQ6zs0BzGzl) | 3:07 |
+| 87 | [Outpost](https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf), [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ) | [Distances](https://open.spotify.com/album/5tukJUioJ8GmhIpJW9ZccB) | 5:37 |
+| 88 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
 | 89 | [Draught](https://open.spotify.com/track/4MQZjU6uaFobbj5MaxtAGe) | [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q), [Ordo Sakhna](https://open.spotify.com/artist/3SnKKOKMywsI29DK4qoIIe) | [Moritz Von Oswald & Ordo Sakhna](https://open.spotify.com/album/0GWKJ6ct7XkaD7KwDYPJk4) | 4:44 |
 | 90 | [Becoming](https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Becoming](https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ) | 5:44 |
 | 91 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |

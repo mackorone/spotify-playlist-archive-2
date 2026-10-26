@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 47 | [Left Me with a Broken Heart \- Remastered](https://open.spotify.com/track/31ni5tgexPPHyNKrmTY9U8) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:54 |
 | 48 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 
-Snapshot ID: `atqjgAAAAACInwIbGsxJNuCfck22Lb7v`
+Snapshot ID: `atv1AAAAAAC0Nttfj0HFDT+h7J0O1XJx`

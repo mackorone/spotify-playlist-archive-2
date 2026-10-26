@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Too Much to Ask",
+        "url": "https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "You Always Want to Bomb the Middle East",
+      "url": "https://open.spotify.com/track/69bEOna47yZgFx2vO1E73N"
+    },
+    {
+      "album": {
         "name": "John Prine",
         "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
       },

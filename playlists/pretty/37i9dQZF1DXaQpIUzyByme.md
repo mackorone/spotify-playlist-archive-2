@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,722 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,730 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 10 | [Het Regent Zonnestralen](https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb) | 3:45 |
 | 11 | [Hou me vast](https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 3:44 |
 | 12 | [Wereld Zonder Jou](https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [De Waarheid](https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT) | 3:55 |
-| 13 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
-| 14 | [Blauw](https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 4:36 |
+| 13 | [Blauw](https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 4:36 |
+| 14 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
 | 15 | [Lopen Tot De Zon Komt](https://open.spotify.com/track/6svNJ2WPO69uhVOgyBr2VF) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 3:25 |
 | 16 | [Afscheid](https://open.spotify.com/track/2h1jMOkIDg1RmYaTdh8RcL) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 4:35 |
 | 17 | [Margherita](https://open.spotify.com/track/1pJmdIiTYfGtYRKXCnM5S5) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Als Geen Ander](https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7) | 4:10 |

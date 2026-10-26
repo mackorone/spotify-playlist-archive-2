@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59415,
+  "num_followers": 59405,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "Yksin",
-        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
-      },
-      "artists": [
-        {
-          "name": "F",
-          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
-        },
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Yksin",
-      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
         "name": "Hei Supermario (feat. Samuell)",
         "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 114206,
       "name": "Hei Supermario (feat. Samuell)",
       "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
+        "name": "Yksin",
+        "url": "https://open.spotify.com/album/78X9lcpGUp8iT210pk4SFx"
+      },
+      "artists": [
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Yksin",
+      "url": "https://open.spotify.com/track/3PzFskVKU7F9GF48V0Nja3"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "M\u00c4KI OON",
-        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
-      },
-      "artists": [
-        {
-          "name": "LEWI",
-          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "M\u00c4KI OON",
-      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
         "name": "Pilvenpiirt\u00e4j\u00e4t",
         "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
       },
@@ -711,22 +695,6 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
-        "name": "Mustikkamaa",
-        "url": "https://open.spotify.com/album/3iWUlUxAFnH2tBCLj8aPTl"
-      },
-      "artists": [
-        {
-          "name": "Haavat",
-          "url": "https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo"
-        }
-      ],
-      "duration_ms": 213961,
-      "name": "Mustikkamaa",
-      "url": "https://open.spotify.com/track/3T0WQKTqMhe7RnA3m0im20"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
         "name": "Tytt\u00f6 vaihtopenkill\u00e4",
         "url": "https://open.spotify.com/album/1mQjFFYbcBSKt4SONGFerO"
       },
@@ -739,6 +707,38 @@
       "duration_ms": 200453,
       "name": "Tytt\u00f6 vaihtopenkill\u00e4",
       "url": "https://open.spotify.com/track/4vTyUCs9WKZ0FeR3Vxwgdr"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
+        "name": "M\u00c4KI OON",
+        "url": "https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18"
+      },
+      "artists": [
+        {
+          "name": "LEWI",
+          "url": "https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "M\u00c4KI OON",
+      "url": "https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
+        "name": "Mustikkamaa",
+        "url": "https://open.spotify.com/album/3iWUlUxAFnH2tBCLj8aPTl"
+      },
+      "artists": [
+        {
+          "name": "Haavat",
+          "url": "https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo"
+        }
+      ],
+      "duration_ms": 213961,
+      "name": "Mustikkamaa",
+      "url": "https://open.spotify.com/track/3T0WQKTqMhe7RnA3m0im20"
     },
     {
       "added_at": "2026-10-22 21:00:19",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-22 21:00:19",
       "album": {
+        "name": "Satan ja Tsiisus",
+        "url": "https://open.spotify.com/album/13FIE6novaZEP4fxxmL71e"
+      },
+      "artists": [
+        {
+          "name": "Tuure Boelius",
+          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "Satan ja Tsiisus",
+      "url": "https://open.spotify.com/track/7IExBx42fyw2q7gBKGew5d"
+    },
+    {
+      "added_at": "2026-10-22 21:00:19",
+      "album": {
         "name": "DANTE",
         "url": "https://open.spotify.com/album/2l3EUC4Q5ddiwS6PEiBKKm"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 180000,
       "name": "Menett\u00e4\u00e4",
       "url": "https://open.spotify.com/track/0yiVrczxmpT6B12fG8Zhfw"
-    },
-    {
-      "added_at": "2026-10-22 21:00:19",
-      "album": {
-        "name": "Satan ja Tsiisus",
-        "url": "https://open.spotify.com/album/13FIE6novaZEP4fxxmL71e"
-      },
-      "artists": [
-        {
-          "name": "Tuure Boelius",
-          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
-        }
-      ],
-      "duration_ms": 185770,
-      "name": "Satan ja Tsiisus",
-      "url": "https://open.spotify.com/track/7IExBx42fyw2q7gBKGew5d"
     },
     {
       "added_at": "2026-10-22 21:00:19",

@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 146000,
       "name": "All We Really Need",
       "url": "https://open.spotify.com/track/15CYXXQTfyDdmR8HEsuWFg"
@@ -1558,6 +1558,24 @@
       "duration_ms": 148104,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/13r46dyuKC0N5Dby8SKTHr"
+    },
+    {
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/1bxWzcQQK0aGi9yluC4BI3"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/1lFJKYiWq9AQnAcvIS5uha"
     },
     {
       "album": {
@@ -2654,7 +2672,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 144390,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/0bKiB6VQEnHUDpDXD7y2RN"
@@ -21833,6 +21851,28 @@
     },
     {
       "album": {
+        "name": "Oh My Love",
+        "url": "https://open.spotify.com/album/5QnouZ1hHF7DwenRM0SZTr"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146039,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/6D0U9m9KwSCbxYIpnPGIAO"
+    },
+    {
+      "album": {
         "name": "OH NA NA",
         "url": "https://open.spotify.com/album/3opmli2Ssaope8qcxm2UG4"
       },
@@ -22082,6 +22122,36 @@
       "duration_ms": 162148,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/4Le5KyIsbNLPODIzRVbov3"
+    },
+    {
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/7kEoT2UKO6l865nFb68nqZ"
+      },
+      "artists": [
+        {
+          "name": "melting patterns",
+          "url": "https://open.spotify.com/artist/4xrhkSjibAMZuDhDGZ7Lb7"
+        },
+        {
+          "name": "Juli Mala",
+          "url": "https://open.spotify.com/artist/0VcXNI2SfCf0RDBNsKDkcU"
+        },
+        {
+          "name": "rawrbaby",
+          "url": "https://open.spotify.com/artist/5ZVSk8gAtJwh5a8IkmbXSP"
+        },
+        {
+          "name": "Brunette Drive",
+          "url": "https://open.spotify.com/artist/0mUntOdsZg21k8143AH9N3"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162304,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/75EegpGbQLEVXxv3kI6W8N"
     },
     {
       "album": {
@@ -28554,7 +28624,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 155000,
       "name": "Sweet Child Of My Heart",
       "url": "https://open.spotify.com/track/1XbwNBjJJDZfL1BJOhUcxh"
@@ -29138,7 +29208,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 133392,
       "name": "Team",
       "url": "https://open.spotify.com/track/4uBWetp9KqvRz4ZCPuGfJf"
@@ -30256,6 +30326,32 @@
       "duration_ms": 133548,
       "name": "Tide",
       "url": "https://open.spotify.com/track/1ylZ3oKGwvhqQElyZBc8M0"
+    },
+    {
+      "album": {
+        "name": "Tide Between Our Hands",
+        "url": "https://open.spotify.com/album/2rl8ktK4359UBNgkApMvD6"
+      },
+      "artists": [
+        {
+          "name": "Tropical Tide",
+          "url": "https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW"
+        },
+        {
+          "name": "Keen Champ",
+          "url": "https://open.spotify.com/artist/7t2zhoxHv0k3ddI01x4TS1"
+        },
+        {
+          "name": "Stefan Celar",
+          "url": "https://open.spotify.com/artist/1wmwcxFDIQAAyvruXGy3SL"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Tide Between Our Hands",
+      "url": "https://open.spotify.com/track/3MExvjnJ5kIwMtyQYDxv8B"
     },
     {
       "album": {

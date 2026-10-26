@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 155328,
+  "num_followers": 155339,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Easy Skanking In Boston '78",
-        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 335466,
-      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
-      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
         "name": "Proibiram as Flores (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 238687,
       "name": "Proibiram as Flores - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
+        "name": "Easy Skanking In Boston '78",
+        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 335466,
+      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
+      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
     },
     {
       "added_at": "2026-07-02 21:47:25",

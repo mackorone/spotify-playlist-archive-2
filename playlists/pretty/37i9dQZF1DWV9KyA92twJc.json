@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05da. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e7\u05d0\u05d1\u05e8: \u05e4\u05d5\u05dc \u05d8\u05e8\u05d0\u05e0\u05e7",
-  "num_followers": 25717,
+  "num_followers": 25716,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2026-10-01 21:00:22",
       "album": {
-        "name": "THE LAST EPISODE",
-        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
+        "name": "\u05d2\u05d9\u05d8\u05e8\u05d4 \u05d5\u05dc\u05e0\u05e9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw"
       },
       "artists": [
         {
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 201080,
-      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
-      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
+      "duration_ms": 178339,
+      "name": "\u05de\u05d0\u05d7\u05dc \u05dc\u05da \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T"
     },
     {
       "added_at": "2026-10-01 21:00:22",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2026-10-01 21:00:22",
       "album": {
-        "name": "\u05d2\u05d9\u05d8\u05e8\u05d4 \u05d5\u05dc\u05e0\u05e9\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw"
+        "name": "THE LAST EPISODE",
+        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 178339,
-      "name": "\u05de\u05d0\u05d7\u05dc \u05dc\u05da \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T"
+      "duration_ms": 201080,
+      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
+      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
     },
     {
       "added_at": "2026-10-01 21:00:22",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2026-10-01 21:00:22",
       "album": {
-        "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN"
+        "name": "PENNY LAME",
+        "url": "https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5"
       },
       "artists": [
         {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "\u05e9\u05e8\u05e7\u05d9",
-          "url": "https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 189000,
-      "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
-      "url": "https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC"
+      "duration_ms": 180352,
+      "name": "PENNY LAME",
+      "url": "https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX"
     }
   ],
   "unique_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 
 > This is Every Time I Die\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,089 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,094 likes - 43 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 | 16 | [Decayin' With The Boys](https://open.spotify.com/track/3Q3cy31OBjPkh2ABnHANtr) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 2:32 |
 | 17 | [INRIhab](https://open.spotify.com/track/6U6CQjaqOtYTLNDsnze4qO) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 4:04 |
 | 18 | [Glitches](https://open.spotify.com/track/0tb3aXvK8lHNJbMuTOnKya) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:45 |
-| 19 | [Hostile Architecture](https://open.spotify.com/track/0YQQn6gBg1qXABJR9bVBkD) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 2:36 |
+| 19 | [Thing With Feathers](https://open.spotify.com/track/4me59RjZINq8IDzrLrHaDE) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:38 |
 | 20 | [Underwater Bimbos From Outer Space](https://open.spotify.com/track/2jBFDAmXYvioX2unGiQbtk) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:43 |
 | 21 | [Apocalypse Now And Then](https://open.spotify.com/track/0wf2lzz8vlri3yU1QpgGzO) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:33 |
 | 22 | [Off Broadway](https://open.spotify.com/track/6D8kUiY6MGiBXUIUkyknXw) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:28 |
-| 23 | [Thing With Feathers](https://open.spotify.com/track/4me59RjZINq8IDzrLrHaDE) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:38 |
+| 23 | [Hostile Architecture](https://open.spotify.com/track/0YQQn6gBg1qXABJR9bVBkD) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 2:36 |
 | 24 | [C++ \(Love Will Get You Killed\)](https://open.spotify.com/track/2OXDvstZF7AI6XZwRfrIIg) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:46 |
 | 25 | [Cities And Years](https://open.spotify.com/track/04rAZqkDPyHoPFhvq5BAKY) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 2:56 |
 | 26 | [The Marvelous Slut](https://open.spotify.com/track/0pdZXrH0pvXYDoofSq7NmJ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 1:43 |
 | 27 | [I Been Gone a Long Time](https://open.spotify.com/track/7zD3M5MSB3FlDVcu7djZPi) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 3:02 |
 | 28 | [Gloom And How It Gets That Way](https://open.spotify.com/track/1esc6EuXlZmtPcSaEolqiU) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 1:57 |
 | 29 | [Leatherneck](https://open.spotify.com/track/0Slixd3mfdLlfx5twxD1DZ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 2:08 |
-| 30 | [Who Invited The Russian Soldier?](https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:45 |
+| 30 | [For The Record](https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:59 |
 | 31 | [Godspeed Us to Sea](https://open.spotify.com/track/6o3VSp7O542Le38TpHDQtg) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:32 |
 | 32 | [Kill The Music](https://open.spotify.com/track/3V7sCNSTdkMW8C0SF3XEcT) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 3:14 |
 | 33 | [Typical Miracle](https://open.spotify.com/track/0GAtTt7CgIdiRoq1GnsXMt) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:25 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 | 35 | [Romeo A Go\-Go](https://open.spotify.com/track/3GtRGprAx1HdtQBV8v2guA) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Hot Damn!](https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo) | 2:40 |
 | 36 | [Moor](https://open.spotify.com/track/1GhJWxdqTNlU6zrl1o1NXd) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 3:26 |
 | 37 | [Easy Tiger](https://open.spotify.com/track/2MObD1EfIVb300KaYHrFyR) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 3:02 |
-| 38 | [For The Record](https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:59 |
+| 38 | [Who Invited The Russian Soldier?](https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:45 |
 | 39 | [Revival Mode](https://open.spotify.com/track/33Pr2Mpw6XoQ19zUEZHXfQ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 3:46 |
 | 40 | [Pelican Of The Desert](https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 1:58 |
 | 41 | [Bored Stiff](https://open.spotify.com/track/15Ui1PgTVpDqAu8W9fBvLk) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:18 |
 | 42 | [The Sweet Life](https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:52 |
 | 43 | [I Suck \(Blood\)](https://open.spotify.com/track/6PIltGJHvV1bfAwl4JhMk4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:55 |
 
-Snapshot ID: `atqjgAAAAACsQqK6ZsB4nP38n5a8mTOB`
+Snapshot ID: `atv1AAAAAADmxJNAyFurIE1N80T7RJER`

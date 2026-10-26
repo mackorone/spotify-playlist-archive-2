@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 467852,
+  "num_followers": 468191,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,22 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
-        "name": "Dressed To Chill",
-        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
       "artists": [
         {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 241386,
-      "name": "Dressed To Chill",
-      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
+      "duration_ms": 292120,
+      "name": "Never Without You",
+      "url": "https://open.spotify.com/track/7G212RN10A9CTozYwBXbNq"
     },
     {
       "added_at": "2026-09-18 08:10:32",
@@ -307,22 +311,18 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+        "name": "Dressed To Chill",
+        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
         }
       ],
-      "duration_ms": 292120,
-      "name": "Never Without You",
-      "url": "https://open.spotify.com/track/7G212RN10A9CTozYwBXbNq"
+      "duration_ms": 241386,
+      "name": "Dressed To Chill",
+      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
     },
     {
       "added_at": "2026-09-18 08:10:32",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
-    },
-    {
-      "added_at": "2026-09-18 08:10:32",
-      "album": {
         "name": "Playin' Favorites",
         "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
       },
@@ -563,22 +547,6 @@
       "duration_ms": 269800,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
-    },
-    {
-      "added_at": "2026-09-18 08:10:32",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Straight to the Heart",
-      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
     },
     {
       "added_at": "2026-09-18 08:10:32",
@@ -599,6 +567,22 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+    },
+    {
+      "added_at": "2026-09-18 08:10:32",
+      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 244874,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+    },
+    {
+      "added_at": "2026-09-18 08:10:32",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Straight to the Heart",
+      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
     },
     {
       "added_at": "2026-09-18 08:10:32",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
+        "name": "Love and Paragraphs",
+        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Have Your Cake And Eat It",
+      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+    },
+    {
+      "added_at": "2026-09-18 08:10:32",
+      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 253815,
       "name": "Just One Wish",
       "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
-    },
-    {
-      "added_at": "2026-09-18 08:10:32",
-      "album": {
-        "name": "Love and Paragraphs",
-        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Have Your Cake And Eat It",
-      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
     },
     {
       "added_at": "2026-09-18 08:10:32",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
+        "name": "Sea Mist",
+        "url": "https://open.spotify.com/album/6fLdKesHkBK25UZ9aMGhf3"
+      },
+      "artists": [
+        {
+          "name": "Amber Skyline",
+          "url": "https://open.spotify.com/artist/3gpevXdRR0fMWy13RZYJUq"
+        }
+      ],
+      "duration_ms": 231215,
+      "name": "Sea Mist",
+      "url": "https://open.spotify.com/track/20sWNc5wIeri6hAdEUJM6Z"
+    },
+    {
+      "added_at": "2026-09-18 08:10:32",
+      "album": {
         "name": "Southend Sunset",
         "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
-        "name": "Sea Mist",
-        "url": "https://open.spotify.com/album/6fLdKesHkBK25UZ9aMGhf3"
-      },
-      "artists": [
-        {
-          "name": "Amber Skyline",
-          "url": "https://open.spotify.com/artist/3gpevXdRR0fMWy13RZYJUq"
-        }
-      ],
-      "duration_ms": 231215,
-      "name": "Sea Mist",
-      "url": "https://open.spotify.com/track/20sWNc5wIeri6hAdEUJM6Z"
-    },
-    {
-      "added_at": "2026-09-18 08:10:32",
-      "album": {
         "name": "Chesterfield",
         "url": "https://open.spotify.com/album/3t0D1c9i4CSbrI0d02PdTE"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
-        "name": "What\u2019s The Score?",
-        "url": "https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H"
-      },
-      "artists": [
-        {
-          "name": "Charles Rudy",
-          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
-        }
-      ],
-      "duration_ms": 264640,
-      "name": "What\u2019s The Score?",
-      "url": "https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L"
-    },
-    {
-      "added_at": "2026-09-18 08:10:32",
-      "album": {
         "name": "Backseat Romance",
         "url": "https://open.spotify.com/album/2rQHi14GepxBeBkB1l9jMp"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 150155,
       "name": "Backseat Romance",
       "url": "https://open.spotify.com/track/7EqnDxQXOpCxTGyPvB0P3G"
+    },
+    {
+      "added_at": "2026-09-18 08:10:32",
+      "album": {
+        "name": "What\u2019s The Score?",
+        "url": "https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H"
+      },
+      "artists": [
+        {
+          "name": "Charles Rudy",
+          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+        }
+      ],
+      "duration_ms": 264640,
+      "name": "What\u2019s The Score?",
+      "url": "https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L"
     },
     {
       "added_at": "2026-09-18 08:10:32",
@@ -1419,38 +1419,6 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
-        "name": "Echoes Of Hollywood",
-        "url": "https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ"
-      },
-      "artists": [
-        {
-          "name": "Duke Washington",
-          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
-        }
-      ],
-      "duration_ms": 184875,
-      "name": "Echoes Of Hollywood",
-      "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
-    },
-    {
-      "added_at": "2026-09-18 08:10:32",
-      "album": {
-        "name": "The Dubble",
-        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
-      },
-      "artists": [
-        {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "The Dubble",
-      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
-    },
-    {
-      "added_at": "2026-09-18 08:10:32",
-      "album": {
         "name": "Sunset Love",
         "url": "https://open.spotify.com/album/2JWMThtGv3GxgdUKaDeACQ"
       },
@@ -1467,6 +1435,22 @@
     {
       "added_at": "2026-09-18 08:10:32",
       "album": {
+        "name": "Echoes Of Hollywood",
+        "url": "https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ"
+      },
+      "artists": [
+        {
+          "name": "Duke Washington",
+          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
+        }
+      ],
+      "duration_ms": 184875,
+      "name": "Echoes Of Hollywood",
+      "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
+    },
+    {
+      "added_at": "2026-09-18 08:10:32",
+      "album": {
         "name": "Golden Hour Groove",
         "url": "https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 196017,
       "name": "Golden Hour Groove",
       "url": "https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt"
+    },
+    {
+      "added_at": "2026-09-18 08:10:32",
+      "album": {
+        "name": "The Dubble",
+        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The Dubble",
+      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
     },
     {
       "added_at": "2026-09-18 08:10:32",

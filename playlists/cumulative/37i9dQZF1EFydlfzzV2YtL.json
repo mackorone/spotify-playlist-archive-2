@@ -2118,10 +2118,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2xJCMIJfcNYDc5iR0sAm2O"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/3SXqs6UQiQyIOnk1TeodLo"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/5fVcK4ibJpRsjvG5aIYTb7"
     },
     {
       "album": {

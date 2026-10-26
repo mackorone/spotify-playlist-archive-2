@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190025,
+  "num_followers": 190028,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Wither",
-        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Wither",
-      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "What Takes You Back",
         "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "All That We Are",
-        "url": "https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i"
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
       },
       "artists": [
         {
-          "name": "tjels",
-          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
         }
       ],
-      "duration_ms": 204250,
-      "name": "All That We Are",
-      "url": "https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW"
+      "duration_ms": 180173,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -447,18 +431,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Play With Fire",
-        "url": "https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG"
+        "name": "All That We Are",
+        "url": "https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i"
       },
       "artists": [
         {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
         }
       ],
-      "duration_ms": 255885,
-      "name": "Play With Fire",
-      "url": "https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI"
+      "duration_ms": 204250,
+      "name": "All That We Are",
+      "url": "https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -475,6 +459,22 @@
       "duration_ms": 157248,
       "name": "Wallflower - Acoustic",
       "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Play With Fire",
+        "url": "https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "duration_ms": 255885,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Shadowplay",
-        "url": "https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 269549,
-      "name": "Shadowplay",
-      "url": "https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Pass Through Time",
         "url": "https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "Shadowplay",
+        "url": "https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 269549,
+      "name": "Shadowplay",
+      "url": "https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Vacuum",
-      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "sunflower boy",
         "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 146605,
       "name": "sunflower boy",
       "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+        }
+      ],
+      "duration_ms": 215078,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Something Ain't Right (Acoustic)",
-        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 160523,
-      "name": "Something Ain't Right - Acoustic",
-      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 199542,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Dark Sky Reserve",
-        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 173343,
-      "name": "Tree-lined Lanes",
-      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "U&I",
         "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 153164,
       "name": "U&I",
       "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Dark Sky Reserve",
+        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "duration_ms": 173343,
+      "name": "Tree-lined Lanes",
+      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Rush Hour Traffic",
-        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+        "name": "An Hour Per Day",
+        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
       },
       "artists": [
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
         }
       ],
-      "duration_ms": 264346,
-      "name": "Rush Hour Traffic",
-      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+      "duration_ms": 217646,
+      "name": "An Hour Per Day",
+      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "An Hour Per Day",
-        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
       "artists": [
         {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
         }
       ],
-      "duration_ms": 217646,
-      "name": "An Hour Per Day",
-      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Silver Linings (Unplugged)",
-        "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
-      },
-      "artists": [
-        {
-          "name": "Roufaida",
-          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Silver Linings - Unplugged",
-      "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Kaleidoscope Eyes",
         "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 238542,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Silver Linings (Unplugged)",
+        "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
+      },
+      "artists": [
+        {
+          "name": "Roufaida",
+          "url": "https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Silver Linings - Unplugged",
+      "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Mr. Beckett (Alternate Version)",
-        "url": "https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi"
-      },
-      "artists": [
-        {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
-        }
-      ],
-      "duration_ms": 227605,
-      "name": "Mr. Beckett - Alternate Version",
-      "url": "https://open.spotify.com/track/4OrpNXuXJ3ppL1MqY326ht"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 173766,
       "name": "Everything Bends Towards You",
       "url": "https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Mr. Beckett (Alternate Version)",
+        "url": "https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi"
+      },
+      "artists": [
+        {
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+        }
+      ],
+      "duration_ms": 227605,
+      "name": "Mr. Beckett - Alternate Version",
+      "url": "https://open.spotify.com/track/4OrpNXuXJ3ppL1MqY326ht"
     },
     {
       "added_at": "2026-10-15 22:00:37",

@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 477440,
+  "num_followers": 477444,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Senta braba",
-        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        }
-      ],
-      "duration_ms": 149615,
-      "name": "Senta braba",
-      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Finalidade Era Ficar em Casa",
         "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 185652,
       "name": "Finalidade Era Ficar em Casa",
       "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Senta braba",
+        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 149615,
+      "name": "Senta braba",
+      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
-        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
-      },
-      "artists": [
-        {
-          "name": "MC Bruna Alves",
-          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
-        },
-        {
-          "name": "Dj Digo Beat",
-          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
-      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Espirra o Lan\u00e7a",
         "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
+        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
+      },
+      "artists": [
+        {
+          "name": "MC Bruna Alves",
+          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
+        },
+        {
+          "name": "Dj Digo Beat",
+          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
+      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
     },
     {
       "added_at": "2023-06-26 14:06:50",

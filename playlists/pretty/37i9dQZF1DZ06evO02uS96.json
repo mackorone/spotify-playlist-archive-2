@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169518,
+  "num_followers": 169516,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAD7W8MVA5+4pthKJqMFn1XL",
+  "snapshot_id": "atv1AAAAAAAPuX+3dXOAiegxVnJessJe",
   "tracks": [
     {
       "added_at": null,
@@ -595,38 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 235202,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ninelie EP",
-        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Through My Blood <AM>",
-      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
@@ -639,22 +607,6 @@
       "duration_ms": 285826,
       "name": "STAND-ALONE",
       "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 371426,
-      "name": "\u82b1\u306e\u5504",
-      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
     },
     {
       "added_at": null,
@@ -675,6 +627,54 @@
       "duration_ms": 305346,
       "name": "ninelie <cry-v>",
       "url": "https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ninelie EP",
+        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Through My Blood <AM>",
+      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 235202,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 215490,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
         "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 350933,
       "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
       "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 215490,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
     },
     {
       "added_at": null,

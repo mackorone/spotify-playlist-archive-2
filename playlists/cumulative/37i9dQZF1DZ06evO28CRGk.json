@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 180036,
       "name": "Fro Armstrong",
       "url": "https://open.spotify.com/track/0Dj6QsaAEkO1iUvB545pYm"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 196691,
       "name": "Heat Of The Moment - Instrumental",
       "url": "https://open.spotify.com/track/4sQ3BHy4OvKw1MoW4EQKhc"
@@ -2605,6 +2605,32 @@
     },
     {
       "album": {
+        "name": "Richmond Hill (Instrumentals)",
+        "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188406,
+      "name": "Jordan Theory - Instrumental",
+      "url": "https://open.spotify.com/track/2443HWnuqYLqmrLrCRnjrB"
+    },
+    {
+      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -2668,7 +2694,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 102000,
       "name": "Keep It Moving - Sprite Anthem",
       "url": "https://open.spotify.com/track/4f6MpUEFDQL3zteExKKDx1"
@@ -3162,7 +3188,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 239887,
       "name": "Low Budget Allstars",
       "url": "https://open.spotify.com/track/7BoOgKHYSccK4riG6Dg7hp"
@@ -3559,6 +3585,32 @@
     },
     {
       "album": {
+        "name": "Richmond Hill (Instrumentals)",
+        "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194579,
+      "name": "Money Problems - Instrumental",
+      "url": "https://open.spotify.com/track/0PktrDnxjrrtXH9RKUyqmK"
+    },
+    {
+      "album": {
         "name": "Midnight Run",
         "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
@@ -3758,7 +3810,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 221626,
       "name": "Nonstante Tutto",
       "url": "https://open.spotify.com/track/5SB9INtcGjzZIkUCDv04Fm"
@@ -4102,7 +4154,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 154237,
       "name": "Plant Based - Instrumental",
       "url": "https://open.spotify.com/track/3269qcj2dkN7GQgnIQNmMK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 > This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,191 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,236 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 49 | [Gimme That Remix \(feat\. Lil' Wayne\)](https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:57 |
 | 50 | [Hustler Musik](https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39) | 5:03 |
 
-Snapshot ID: `atqjgAAAAAD1Twer0gYbsaxH252lm5YI`
+Snapshot ID: `atv1AAAAAACkRI9vUlrlQ0H5V1XcyopC`

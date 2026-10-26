@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 26554,
+  "num_followers": 26563,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "izi 1\uc9d1",
-        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
-        }
-      ],
-      "duration_ms": 226548,
-      "name": "\uc751\uae09\uc2e4",
-      "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Difference",
         "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 238880,
       "name": "\uc0ac\ub791\ud588\ub098\ubd10",
       "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "izi 1\uc9d1",
+        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
+        }
+      ],
+      "duration_ms": 226548,
+      "name": "\uc751\uae09\uc2e4",
+      "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Why Be?",
         "url": "https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 253026,
       "name": "\uc0ac\ub791 \uc548\ud574",
       "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Pretty Girl (2nd Mini Album)",
-        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
+        "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "\ud654\uc7a5\uc744 \uace0\uce58\uace0",
+      "url": "https://open.spotify.com/track/0e70x113268aBzaBaNHmrR"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Honey (Special Edition)",
         "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 244128,
       "name": "\ubcf4\uace0\uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
-        "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
-      },
-      "artists": [
-        {
-          "name": "WAX",
-          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "\ud654\uc7a5\uc744 \uace0\uce58\uace0",
-      "url": "https://open.spotify.com/track/0e70x113268aBzaBaNHmrR"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "A bicycle Ride",
-        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
-      },
-      "artists": [
-        {
-          "name": "Jatanpung",
-          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Me to You, You to Me",
-      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 299426,
       "name": "\uccb4\ub150",
       "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "A bicycle Ride",
+        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
+      },
+      "artists": [
+        {
+          "name": "Jatanpung",
+          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Me to You, You to Me",
+      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "SOUL FOOD",
         "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Enter The Dragon",
         "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 283786,
       "name": "\uc0b4\ub2e4\uac00",
       "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Cheerful Sensibility",
-        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Cheerful Sensibility",
+        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "S.E.S. - The 1st Album",
         "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 225560,
       "name": "(\u2032Cause) I\u2032m Your Girl",
       "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Just Listen.......",
-        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Exhibition",
         "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 313106,
       "name": "Etude of Memory",
       "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Just Listen.......",
+        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "WHISPERS OF LOVE",
-        "url": "https://open.spotify.com/album/6IPStm5DZgYsitK37MoH3F"
-      },
-      "artists": [
-        {
-          "name": "The NuTs",
-          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "\uc794\uc18c\ub9ac",
-      "url": "https://open.spotify.com/track/2BWtvTeKwOJ0h0tdgUncyv"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Fine Killing Liberty : Blue Rain",
         "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 244927,
       "name": "So Fresh",
       "url": "https://open.spotify.com/track/7h2JM9Sp1lAtXXyOpBiHMR"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "WHISPERS OF LOVE",
+        "url": "https://open.spotify.com/album/6IPStm5DZgYsitK37MoH3F"
+      },
+      "artists": [
+        {
+          "name": "The NuTs",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "\uc794\uc18c\ub9ac",
+      "url": "https://open.spotify.com/track/2BWtvTeKwOJ0h0tdgUncyv"
     },
     {
       "added_at": "2024-08-05 16:59:31",

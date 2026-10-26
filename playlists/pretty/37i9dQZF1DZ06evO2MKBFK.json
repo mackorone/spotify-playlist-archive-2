@@ -1,6 +1,6 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 636537,
+  "num_followers": 636565,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+      "duration_ms": 210240,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 210240,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

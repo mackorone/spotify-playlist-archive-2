@@ -1,6 +1,6 @@
 {
   "description": "To everything there is a season so let these faith-filled songs be the soundtrack to your Fall!",
-  "num_followers": 34425,
+  "num_followers": 34436,
   "original_name": "Fall Spirit",
   "owner": {
     "name": "Spotify",
@@ -487,30 +487,6 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "Every Good Thing",
-        "url": "https://open.spotify.com/album/750SKuZ1H4oRSAWy987LT1"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "Zo Ross-Waddell",
-          "url": "https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N"
-        },
-        {
-          "name": "Evie Loose",
-          "url": "https://open.spotify.com/artist/6Kt7lrynpgilnMKpy90x1G"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "Every Good Thing",
-      "url": "https://open.spotify.com/track/5HoBbFCyFU7qDdjCK8FYY6"
-    },
-    {
-      "added_at": "2025-11-16 03:48:58",
-      "album": {
         "name": "Something You Can Be Proud Of",
         "url": "https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 208172,
       "name": "Something You Can Be Proud Of",
       "url": "https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc"
+    },
+    {
+      "added_at": "2025-11-16 03:48:58",
+      "album": {
+        "name": "Every Good Thing",
+        "url": "https://open.spotify.com/album/750SKuZ1H4oRSAWy987LT1"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Zo Ross-Waddell",
+          "url": "https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N"
+        },
+        {
+          "name": "Evie Loose",
+          "url": "https://open.spotify.com/artist/6Kt7lrynpgilnMKpy90x1G"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "Every Good Thing",
+      "url": "https://open.spotify.com/track/5HoBbFCyFU7qDdjCK8FYY6"
     },
     {
       "added_at": "2025-11-16 03:48:58",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "back to life",
-        "url": "https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "back to life",
-      "url": "https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu"
-    },
-    {
-      "added_at": "2025-11-16 03:48:58",
-      "album": {
         "name": "take me up",
         "url": "https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "Sparrows (Acoustic)",
-        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
+        "name": "back to life",
+        "url": "https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Sparrows - Acoustic",
-      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
+      "duration_ms": 138400,
+      "name": "back to life",
+      "url": "https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu"
     },
     {
       "added_at": "2025-11-16 03:48:58",
@@ -771,6 +755,22 @@
       "duration_ms": 212891,
       "name": "Where the Living is Deep",
       "url": "https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5"
+    },
+    {
+      "added_at": "2025-11-16 03:48:58",
+      "album": {
+        "name": "Sparrows (Acoustic)",
+        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Sparrows - Acoustic",
+      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
     },
     {
       "added_at": "2025-11-16 03:48:58",

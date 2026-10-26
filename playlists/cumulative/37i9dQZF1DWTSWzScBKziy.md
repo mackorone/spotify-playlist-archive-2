@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Matt Crocker
 
-1,649 songs - 4 day 6 hr 30 min
+1,650 songs - 4 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [It Is Well](https://open.spotify.com/track/0cKZ96VfjE9Ay6kuhSusn9) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [It Is Well](https://open.spotify.com/album/7L43akka38rICHpCWMXuXC) | 3:53 | 2026-02-20 | 2026-03-22 |
 | [It's all in your hands.](https://open.spotify.com/track/74Zpl141MODeMJAmBvm9oD) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Living is proof.](https://open.spotify.com/album/2QxadJqq23PW6kuVAY0S7k) | 4:52 | 2025-04-30 | 2025-06-07 |
 | [It's been you.](https://open.spotify.com/track/4cbeTyHnSHNdHBYFflv6JO) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [m us eum \(Deluxe\)](https://open.spotify.com/album/6fDhMmivNXb7ZCG55dHqjh) | 2:58 | 2026-03-21 | 2026-04-18 |
+| [It's My Joy](https://open.spotify.com/track/1zfD9XS6TDXZjogoANNfn3) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [It's My Joy](https://open.spotify.com/album/4WHv3PnWt6f0kqY3tFwyGq) | 5:52 | 2026-10-23 |  |
 | [It's So Good to Need You](https://open.spotify.com/track/3QVm9Y5wLCsVBHfK2D6HpE) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [It's So Good to Need You](https://open.spotify.com/album/24uTX01x4LqhTnb9YlX6Ly) | 4:03 | 2025-06-21 | 2025-08-05 |
 | [It's Time](https://open.spotify.com/track/3oxjv64jCXPAOPQPrHkwVQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [It's Time](https://open.spotify.com/album/7lGdBj36Sswo10f0e5NPlw) | 4:13 | 2024-07-26 | 2024-10-12 |
 | [It's Your Love](https://open.spotify.com/track/301ZW9eoGJUBVYRtnmHg3A) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [It's Your Love](https://open.spotify.com/album/7gKTOlZOlb8F6Dc6rewOMd) | 3:43 | 2026-02-07 | 2026-03-22 |
@@ -1519,7 +1520,7 @@
 | [We Won't](https://open.spotify.com/track/08iD9hk9hArTboAsVIWR84) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [We Won't](https://open.spotify.com/album/3XeXEDG7iLPyvZDWPqBoiL) | 3:59 | 2026-05-29 | 2026-07-04 |
 | [Weight of Your World](https://open.spotify.com/track/0TplBuPb2Op7U38QlhHX3F) | [Jillian Warman](https://open.spotify.com/artist/1ADnGh2KezhGKJKtxvqIQs) | [Weight of Your World](https://open.spotify.com/album/3Qbb1iDjiVOkl5bnp9fFcA) | 3:27 | 2024-06-07 | 2024-08-10 |
 | [Welcome \(House Of God\)](https://open.spotify.com/track/5Qudnu5h1WWebAJk6BaTE2) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Welcome \(House of God\)](https://open.spotify.com/album/08JlTO0MZ8h8pHKik0Q9Ss) | 3:53 | 2026-10-02 |  |
-| [Welcome Home \- Live in Los Angeles](https://open.spotify.com/track/1eIcZ4F1r76UK6kMGAykzb) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Travis Malloy](https://open.spotify.com/artist/2L0ZzKX7bCTF0Z44HfUuV1) | [Live in Los Angeles](https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3) | 3:43 | 2026-10-23 |  |
+| [Welcome Home \- Live in Los Angeles](https://open.spotify.com/track/1eIcZ4F1r76UK6kMGAykzb) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Travis Malloy](https://open.spotify.com/artist/2L0ZzKX7bCTF0Z44HfUuV1) | [Live in Los Angeles](https://open.spotify.com/album/7DM79fT2KVHuw4uuS8x4C3) | 3:43 | 2026-10-23 | 2026-10-26 |
 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 | 2022-05-27 | 2023-09-17 |
 | [Well Done](https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Well Done](https://open.spotify.com/album/71FvmMr5uZoUuYSaRHwSo3) | 2:46 | 2026-02-20 | 2026-04-18 |
 | [Well Water](https://open.spotify.com/track/4fpoIB1b6pA0K41UTpvxqW) | [Micah Christopher](https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi) | [Well Water](https://open.spotify.com/album/3Xvch3VWF9z7LE5Pl2cF4c) | 3:41 | 2026-04-17 | 2026-05-20 |

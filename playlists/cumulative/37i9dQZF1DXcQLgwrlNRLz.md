@@ -4,7 +4,7 @@
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-88 songs - 4 hr 30 min
+89 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bouwéy](https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Theomaa](https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:37 | 2026-06-26 |  |
 | [Buku Jero](https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Buku Jero](https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL) | 2:49 | 2026-10-09 |  |
 | [C Komen ?](https://open.spotify.com/track/3Ra075Q3EScqTP5xr5z0Fk) | [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [C Komen ?](https://open.spotify.com/album/0vUMWwABXMTf5YBHGxB4CA) | 3:59 | 2026-06-26 |  |
-| [C pas normal](https://open.spotify.com/track/01BN8m09yMyhKHJL3PDUzC) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [C pas normal](https://open.spotify.com/album/3uUgzic021PoofEn1wD2NK) | 2:44 | 2026-06-26 |  |
+| [C pas normal](https://open.spotify.com/track/01BN8m09yMyhKHJL3PDUzC) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [C pas normal](https://open.spotify.com/album/3uUgzic021PoofEn1wD2NK) | 2:44 | 2026-06-26 | 2026-10-26 |
 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 | 2026-06-26 |  |
 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:48 | 2026-06-26 |  |
 | [Champagne](https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx) | [Champagne](https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg) | 3:34 | 2026-06-26 |  |
@@ -52,6 +52,7 @@
 | [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 | 2026-06-26 |  |
 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2026-06-26 |  |
 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 | 2026-06-26 |  |
+| [Libérer Pij](https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD) | [JP N'DA](https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d) | [Libérer Pij](https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5) | 2:14 | 2026-10-23 |  |
 | [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 | 2026-06-26 |  |
 | [M3lo](https://open.spotify.com/track/7ELft1cx8anhsXE405kckI) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:18 | 2026-06-26 |  |
 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 | 2026-06-26 | 2026-10-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Joesef",
-  "num_followers": 34960,
+  "num_followers": 34962,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
+        "name": "Hyst\u00e9rique",
+        "url": "https://open.spotify.com/album/5AkgK92mW3dC9RH5cXwThx"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 229101,
+      "name": "Hyst\u00e9rique",
+      "url": "https://open.spotify.com/track/4CKWUf6UfYvMsR3m0RRhHO"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
         "name": "Love Is A Stillness",
         "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 114637,
       "name": "Love Is A Stillness",
       "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
-        "name": "The Chapel",
-        "url": "https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
-        }
-      ],
-      "duration_ms": 182900,
-      "name": "The Chapel",
-      "url": "https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "Hyst\u00e9rique",
-        "url": "https://open.spotify.com/album/5AkgK92mW3dC9RH5cXwThx"
+        "name": "The Chapel",
+        "url": "https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
         }
       ],
-      "duration_ms": 229101,
-      "name": "Hyst\u00e9rique",
-      "url": "https://open.spotify.com/track/4CKWUf6UfYvMsR3m0RRhHO"
+      "duration_ms": 182900,
+      "name": "The Chapel",
+      "url": "https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "Focus Is Power",
-        "url": "https://open.spotify.com/album/5fMeoQB68BWbz9gP2Y9WDg"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 186511,
-      "name": "Focus Is Power",
-      "url": "https://open.spotify.com/track/4GROaskNd81jnetKAkRYXI"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
         "name": "It\u2019s not my fault (it\u2019s yours)",
         "url": "https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 180962,
       "name": "It\u2019s not my fault (it\u2019s yours)",
       "url": "https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
+        "name": "Focus Is Power",
+        "url": "https://open.spotify.com/album/5fMeoQB68BWbz9gP2Y9WDg"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 186511,
+      "name": "Focus Is Power",
+      "url": "https://open.spotify.com/track/4GROaskNd81jnetKAkRYXI"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/4wmKWqt9VDleEkn68D2ret"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/5J5TFaezewttgaKDsI9MLd"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
         "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
         "url": "https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
       "url": "https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/4wmKWqt9VDleEkn68D2ret"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5J5TFaezewttgaKDsI9MLd"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
+        "name": "lalalalala",
+        "url": "https://open.spotify.com/album/1wpB6e4J6uy6XRgEvrM4OB"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        },
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 176253,
+      "name": "lalalalala",
+      "url": "https://open.spotify.com/track/2thc5F5x0tRomE9bIQT8hd"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
         "name": "Recognise",
         "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 183826,
       "name": "Friends In Low Places",
       "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
-        "name": "lalalalala",
-        "url": "https://open.spotify.com/album/1wpB6e4J6uy6XRgEvrM4OB"
-      },
-      "artists": [
-        {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
-        },
-        {
-          "name": "Lynks",
-          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
-        }
-      ],
-      "duration_ms": 176253,
-      "name": "lalalalala",
-      "url": "https://open.spotify.com/track/2thc5F5x0tRomE9bIQT8hd"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "Crying The Neck",
-        "url": "https://open.spotify.com/album/3VOr1lxA6TQoijVvgIC1LL"
+        "name": "ACT ALIVE",
+        "url": "https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a"
       },
       "artists": [
         {
-          "name": "Patrick Wolf",
-          "url": "https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE"
+          "name": "emily jeffri",
+          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
         }
       ],
-      "duration_ms": 317278,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/3fDyWXe1JbCU6AgL7Z6soQ"
+      "duration_ms": 252652,
+      "name": "ACT ALIVE",
+      "url": "https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1183,18 +1183,34 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "ACT ALIVE",
-        "url": "https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a"
+        "name": "Crying The Neck",
+        "url": "https://open.spotify.com/album/3VOr1lxA6TQoijVvgIC1LL"
       },
       "artists": [
         {
-          "name": "emily jeffri",
-          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
+          "name": "Patrick Wolf",
+          "url": "https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE"
         }
       ],
-      "duration_ms": 252652,
-      "name": "ACT ALIVE",
-      "url": "https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4"
+      "duration_ms": 317278,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/3fDyWXe1JbCU6AgL7Z6soQ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
+        "name": "BABY DON'T MOVE",
+        "url": "https://open.spotify.com/album/7nlr2Ln63ZUnX1Bc3zb1OR"
+      },
+      "artists": [
+        {
+          "name": "Leah Cleaver",
+          "url": "https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM"
+        }
+      ],
+      "duration_ms": 179029,
+      "name": "UMA",
+      "url": "https://open.spotify.com/track/0rLZWVzNqEot2fpyXID4vP"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1247,6 +1263,22 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
+        "name": "you can have it, i don\u2019t want it no more",
+        "url": "https://open.spotify.com/album/6Yxblo6AxNfg35koGtUaAX"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "duration_ms": 127529,
+      "name": "fuck you",
+      "url": "https://open.spotify.com/track/3cRzAs7xGgfoiJAjdGeIw9"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
         "name": "PROCESS",
         "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
       },
@@ -1259,22 +1291,6 @@
       "duration_ms": 158167,
       "name": "PROCESS",
       "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 65519,
-      "name": "Sex Metal",
-      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "BABY DON'T MOVE",
-        "url": "https://open.spotify.com/album/7nlr2Ln63ZUnX1Bc3zb1OR"
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
       "artists": [
         {
-          "name": "Leah Cleaver",
-          "url": "https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 179029,
-      "name": "UMA",
-      "url": "https://open.spotify.com/track/0rLZWVzNqEot2fpyXID4vP"
+      "duration_ms": 65519,
+      "name": "Sex Metal",
+      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "you can have it, i don\u2019t want it no more",
-        "url": "https://open.spotify.com/album/6Yxblo6AxNfg35koGtUaAX"
-      },
-      "artists": [
-        {
-          "name": "su i think",
-          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
-        }
-      ],
-      "duration_ms": 127529,
-      "name": "fuck you",
-      "url": "https://open.spotify.com/track/3cRzAs7xGgfoiJAjdGeIw9"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "Wahoo",
-        "url": "https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 125400,
-      "name": "Wahoo",
-      "url": "https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
         "name": "2 Year Itch",
         "url": "https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 165068,
       "name": "2 Year Itch",
       "url": "https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
+        "name": "Wahoo",
+        "url": "https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 125400,
+      "name": "Wahoo",
+      "url": "https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "Carnal",
-        "url": "https://open.spotify.com/album/4wUzF46CYbhDC1IqSYgdUz"
-      },
-      "artists": [
-        {
-          "name": "FLAVIA",
-          "url": "https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA"
-        },
-        {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
-        }
-      ],
-      "duration_ms": 214308,
-      "name": "Carnal",
-      "url": "https://open.spotify.com/track/2wnnMeISG1gM0vXhsSQGeR"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
         "name": "Everything Is Beautiful",
         "url": "https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 130772,
       "name": "C'MON",
       "url": "https://open.spotify.com/track/2aRM1BlAXZgMulkRBhj7py"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
+        "name": "Carnal",
+        "url": "https://open.spotify.com/album/4wUzF46CYbhDC1IqSYgdUz"
+      },
+      "artists": [
+        {
+          "name": "FLAVIA",
+          "url": "https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA"
+        },
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "duration_ms": 214308,
+      "name": "Carnal",
+      "url": "https://open.spotify.com/track/2wnnMeISG1gM0vXhsSQGeR"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
+        "name": "Hearts Ain\u2019t Gonna Lie 2024",
+        "url": "https://open.spotify.com/album/64c5ZxsjekifKiHGAhKhVW"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "duration_ms": 195606,
+      "name": "Hearts Ain\u2019t Gonna Lie 2024",
+      "url": "https://open.spotify.com/track/3nvPRRE12tv4AL180tALJj"
+    },
+    {
+      "added_at": "2026-10-22 23:00:39",
+      "album": {
         "name": "Exhilarate (feat. Bibi Bourelly)",
         "url": "https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 263122,
       "name": "Exhilarate (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N"
-    },
-    {
-      "added_at": "2026-10-22 23:00:39",
-      "album": {
-        "name": "Hearts Ain\u2019t Gonna Lie 2024",
-        "url": "https://open.spotify.com/album/64c5ZxsjekifKiHGAhKhVW"
-      },
-      "artists": [
-        {
-          "name": "Arlissa",
-          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
-        }
-      ],
-      "duration_ms": 195606,
-      "name": "Hearts Ain\u2019t Gonna Lie 2024",
-      "url": "https://open.spotify.com/track/3nvPRRE12tv4AL180tALJj"
     },
     {
       "added_at": "2026-10-22 23:00:39",
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
-        "name": "Formula OneDa",
-        "url": "https://open.spotify.com/album/40v1KTsfP8RwBS1dpfZqTy"
+        "name": "HISTORY",
+        "url": "https://open.spotify.com/album/3UXLBqcmeadho9ewOdbwwn"
       },
       "artists": [
         {
-          "name": "OneDa",
-          "url": "https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr"
+          "name": "Andrea Di Giovanni",
+          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+        },
+        {
+          "name": "Tiiva",
+          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
         }
       ],
-      "duration_ms": 219782,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/2UTcMOGxRez2fwpGIoPVhp"
+      "duration_ms": 144705,
+      "name": "HISTORY",
+      "url": "https://open.spotify.com/track/7I4IHmxQRONtR34JQF5Pae"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

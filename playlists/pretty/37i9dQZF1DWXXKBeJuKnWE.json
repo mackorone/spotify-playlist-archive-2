@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Polyphia",
-  "num_followers": 486977,
+  "num_followers": 486932,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Landfall",
-        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 222418,
-      "name": "Landfall",
-      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Axis Mundi",
         "url": "https://open.spotify.com/album/2lMWLzBdhNZ6asnZRLsitT"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 226796,
       "name": "The Sword That Never Bends",
       "url": "https://open.spotify.com/track/7mBYmdiG36atwh62cCUAIn"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Landfall",
+        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 222418,
+      "name": "Landfall",
+      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Zero Day",
-        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 145129,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "DOOM LOOP",
-        "url": "https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC"
+        "name": "Zero Day",
+        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
       },
       "artists": [
         {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 240973,
-      "name": "DOOM LOOP",
-      "url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT"
+      "duration_ms": 145129,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -623,6 +607,22 @@
       "duration_ms": 181018,
       "name": "House Of Matches",
       "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "DOOM LOOP",
+        "url": "https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "DOOM LOOP",
+      "url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "dark heaven",
-        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 212272,
-      "name": "dark heaven",
-      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Crestfallen",
         "url": "https://open.spotify.com/album/4Gh2aBuvIo91syfV3IaeYb"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 244064,
       "name": "Crestfallen",
       "url": "https://open.spotify.com/track/15tdjaSaSNFxjrKtj52kDZ"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "dark heaven",
+        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 212272,
+      "name": "dark heaven",
+      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Lay Cold",
-        "url": "https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx"
-      },
-      "artists": [
-        {
-          "name": "Overgrown",
-          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
-        }
-      ],
-      "duration_ms": 220705,
-      "name": "Lay Cold",
-      "url": "https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "If Not Now, When",
         "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
       },
@@ -783,22 +767,6 @@
       "duration_ms": 237384,
       "name": "If Not Now, When",
       "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
-        "name": "split",
-        "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "split",
-      "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -819,22 +787,34 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "OUTBREAK (feat. Cory Brandan)",
-        "url": "https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x"
+        "name": "split",
+        "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 292549,
-      "name": "OUTBREAK (feat. Cory Brandan)",
-      "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
+      "duration_ms": 131004,
+      "name": "split",
+      "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Lay Cold",
+        "url": "https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx"
+      },
+      "artists": [
+        {
+          "name": "Overgrown",
+          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
+        }
+      ],
+      "duration_ms": 220705,
+      "name": "Lay Cold",
+      "url": "https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -851,6 +831,26 @@
       "duration_ms": 436850,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "OUTBREAK (feat. Cory Brandan)",
+        "url": "https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 292549,
+      "name": "OUTBREAK (feat. Cory Brandan)",
+      "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "From A Distance",
-        "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
-      },
-      "artists": [
-        {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
-        }
-      ],
-      "duration_ms": 203314,
-      "name": "Swept From Under (Call of the Void)",
-      "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Last One Here",
         "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 200493,
       "name": "Last One Here",
       "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 203314,
+      "name": "Swept From Under (Call of the Void)",
+      "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Nerv(e)",
-        "url": "https://open.spotify.com/album/4PTPoytSPlZZSwWTlXwFLF"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Nerv(e)",
-      "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "No Place For Me",
         "url": "https://open.spotify.com/album/3mBFreN8RPwTvFRjwkCZAa"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
+        "name": "Nerv(e)",
+        "url": "https://open.spotify.com/album/4PTPoytSPlZZSwWTlXwFLF"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Nerv(e)",
+      "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
         "name": "Armour Of Angels",
         "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 228000,
       "name": "One By One",
       "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
-        "name": "Song Of The Swamp",
-        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 198118,
-      "name": "Song Of The Swamp",
-      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1095,6 +1079,22 @@
       "duration_ms": 242805,
       "name": "Sx",
       "url": "https://open.spotify.com/track/1ruMyUArnbPivLRjeHyOWH"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Song Of The Swamp",
+        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 198118,
+      "name": "Song Of The Swamp",
+      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Modern Life Is Lonely",
-        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+        "name": "do or die",
+        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 282726,
-      "name": "Modern Life Is Lonely",
-      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
+      "duration_ms": 204714,
+      "name": "do or die",
+      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "do or die",
-        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 204714,
-      "name": "do or die",
-      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Death To Something",
-        "url": "https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4"
-      },
-      "artists": [
-        {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Death To Something",
-      "url": "https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
       },
@@ -1295,38 +1279,6 @@
       "duration_ms": 262784,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
-        "name": "dna",
-        "url": "https://open.spotify.com/album/07xvPNFtCyHEmgvg2KDrfc"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "dna",
-      "url": "https://open.spotify.com/track/7LygYLu2lZQ45dlhGrQUbW"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1347,18 +1299,50 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Black & Blue (2026 Repented)",
-        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 272967,
-      "name": "Black & Blue - 2026 Repented",
-      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Death To Something",
+        "url": "https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Death To Something",
+      "url": "https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "dna",
+        "url": "https://open.spotify.com/album/07xvPNFtCyHEmgvg2KDrfc"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "dna",
+      "url": "https://open.spotify.com/track/7LygYLu2lZQ45dlhGrQUbW"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1375,6 +1359,22 @@
       "duration_ms": 255166,
       "name": "haunted",
       "url": "https://open.spotify.com/track/70gWe4I2nBmb5zo0Wa5Uv0"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Black & Blue (2026 Repented)",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Live by the Sword",
-        "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 219665,
-      "name": "Live by the Sword",
-      "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Kill Count Increase",
         "url": "https://open.spotify.com/album/4lsum4LQdOPJ8r29s3eqAW"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 148946,
       "name": "Kill Count Increase",
       "url": "https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Live by the Sword",
+        "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 219665,
+      "name": "Live by the Sword",
+      "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
     },
     {
       "added_at": "2026-10-23 00:00:24",

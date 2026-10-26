@@ -1,6 +1,6 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4896,
+  "num_followers": 4895,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 168225,
-      "name": "Feign",
-      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
+      "duration_ms": 110333,
+      "name": "Home Away from Here",
+      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 110333,
-      "name": "Home Away from Here",
-      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 44418,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
+      "duration_ms": 63000,
+      "name": "Swimming with Sharks",
+      "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 63000,
-      "name": "Swimming with Sharks",
-      "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
+      "duration_ms": 44418,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
     },
     {
       "added_at": null,

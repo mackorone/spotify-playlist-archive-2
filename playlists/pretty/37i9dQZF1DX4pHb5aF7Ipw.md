@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Pavitar Lassoi,  BAD Junkie, Amantej Hundal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,353 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,365 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 16 | [CHAMPION](https://open.spotify.com/track/6Ani0jLhiparVEG4Tkkwjq) | [Deputy](https://open.spotify.com/artist/0Vciimc2gW6apoJhGNnPqh), [Trxppy](https://open.spotify.com/artist/69klT1vBrFrVOy4zPBYjwJ) | [CHAMPION](https://open.spotify.com/album/0rNbi60WR3EkYiItCLo9PM) | 3:27 |
 | 17 | [Cullinun](https://open.spotify.com/track/1Qh3AZptFlwA87hvdJ5Cb8) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo) | [Unspoken](https://open.spotify.com/album/4cEhNW8qcMiebtRcVYzLVQ) | 2:17 |
 | 18 | [Jhanjar](https://open.spotify.com/track/3KvY6Hlnmy32FhJi9CIg6j) | [Rabaab PB31](https://open.spotify.com/artist/7K3XGyHHso6JQQj0CaWbNU), [Veera Takker](https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD) | [Jhanjar](https://open.spotify.com/album/5TQsk81jiqBVY7RdW7U2hv) | 2:41 |
-| 19 | [Lalkaare](https://open.spotify.com/track/6uVYsYfccBncDY7Z9qShjf) | [a.s\. kullar](https://open.spotify.com/artist/38YHl4CUr7IFtVUPKEtiU1), [Harry Pannu](https://open.spotify.com/artist/1xmr68bCt2GSPLoRje33dA), [Sun.E Rai](https://open.spotify.com/artist/0B7909Q9WKe78LbTpDxp0B) | [Once Upon a Time in Panjab](https://open.spotify.com/album/73tM3MNKpEHfeTyfvJ0LOz) | 2:52 |
+| 19 | [Lalkaare](https://open.spotify.com/track/6uVYsYfccBncDY7Z9qShjf) | [a.s\. kullar](https://open.spotify.com/artist/38YHl4CUr7IFtVUPKEtiU1), [Harry Pannu](https://open.spotify.com/artist/1xmr68bCt2GSPLoRje33dA), [Sun.E Rai](https://open.spotify.com/artist/7bBUmnfU1OCxnuKN846M0P) | [Once Upon a Time in Panjab](https://open.spotify.com/album/73tM3MNKpEHfeTyfvJ0LOz) | 2:52 |
 | 20 | [Jxtt Da Crew](https://open.spotify.com/track/4eyV0GGrVGL8xgVrMtsSUm) | [Ghaint Jxtt](https://open.spotify.com/artist/4SqdNKmklP2by2TdUEzEZ3) | [Scrap Talks, Pt\. 1](https://open.spotify.com/album/573VEjkmJ1YjsZnH6Wc859) | 2:18 |
 | 21 | [Double Barrel](https://open.spotify.com/track/0nvEQHAHMaEzMjz8i0hl4Z) | [Anaad](https://open.spotify.com/artist/3j00oVBQe9qT8ISIBrd9jK), [Realkdmusic](https://open.spotify.com/artist/4fwF6E3rQ2hAO1CuYD4PKF) | [Double Barrel](https://open.spotify.com/album/4xuJKIKznxzUfjPsSdRRrU) | 2:58 |
 | 22 | [No Fukri](https://open.spotify.com/track/1vSwDtwBbudNFDuscYlKxs) | [PRFKT](https://open.spotify.com/artist/7ILaOyCcPhZR17UoE6zqVt), [Khare Ala Gopi](https://open.spotify.com/artist/674LjTj3KKjrDNl9m8d6QC) | [No Fukri](https://open.spotify.com/album/122IT1uONsD1HREthT2uZO) | 2:57 |

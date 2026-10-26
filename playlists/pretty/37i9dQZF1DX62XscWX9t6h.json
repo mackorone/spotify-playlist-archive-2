@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 229128,
+  "num_followers": 229169,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 174882,
-      "name": "PERLA",
-      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 174882,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -743,6 +743,34 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Cosas Del Universo",
+        "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
+      },
+      "artists": [
+        {
+          "name": "Cumbiasound",
+          "url": "https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv"
+        },
+        {
+          "name": "Jos\u00e9 Pereelanga",
+          "url": "https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO"
+        },
+        {
+          "name": "Lis Flores Varela",
+          "url": "https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C"
+        },
+        {
+          "name": "Boogie Castillo",
+          "url": "https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
       },
@@ -775,34 +803,6 @@
       "duration_ms": 184864,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Cosas Del Universo",
-        "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
-      },
-      "artists": [
-        {
-          "name": "Cumbiasound",
-          "url": "https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv"
-        },
-        {
-          "name": "Jos\u00e9 Pereelanga",
-          "url": "https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO"
-        },
-        {
-          "name": "Lis Flores Varela",
-          "url": "https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C"
-        },
-        {
-          "name": "Boogie Castillo",
-          "url": "https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Vaiv\u00e9n",
-      "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 445816,
+      "name": "Afrique Victime",
+      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Feira De Mangaio",
         "url": "https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 156600,
       "name": "Feira De Mangaio",
       "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 445816,
-      "name": "Afrique Victime",
-      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 338108,
+      "name": "Tala Tannam",
+      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Worldly World (Ohaa Uha Uha)",
         "url": "https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 186173,
       "name": "Worldly World (Ohaa Uha Uha)",
       "url": "https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 338108,
-      "name": "Tala Tannam",
-      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Gur\u00fa",
-        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
-      },
-      "artists": [
-        {
-          "name": "Pony Bravo",
-          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Totomami",
-      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
         "name": "A\u015fk",
         "url": "https://open.spotify.com/album/3dynzqPHUqyPPnGGs8STcI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 220142,
       "name": "Rakiya Su Katamam",
       "url": "https://open.spotify.com/track/2SGrsMd6uJXhVVwS9ScG42"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
+        "name": "Gur\u00fa",
+        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
+      },
+      "artists": [
+        {
+          "name": "Pony Bravo",
+          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Totomami",
+      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
         "name": "Enkaz",
         "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 200121,
       "name": "Enkaz",
       "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Jos\u00e9 Louis And The Paradox Of Love",
         "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
+        "name": "Hrudja",
+        "url": "https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl"
+      },
+      "artists": [
+        {
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Jev\u00e2",
+      "url": "https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
         "name": "Dejate Llevar",
         "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 301723,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
-        "name": "Hrudja",
-        "url": "https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl"
-      },
-      "artists": [
-        {
-          "name": "Massimo Silverio",
-          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "Jev\u00e2",
-      "url": "https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-        "url": "https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        }
-      ],
-      "duration_ms": 216443,
-      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-      "url": "https://open.spotify.com/track/10W29dzZ0hjJbf4SvCSQw2"
-    },
-    {
-      "added_at": "2026-09-25 04:01:46",
-      "album": {
         "name": "Mogoya Remixed",
         "url": "https://open.spotify.com/album/6TJC6eLskTBntkr9uP8O0x"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2026-09-25 04:01:46",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/2sgrnOpb8LLj9wKfiycqZu"
+        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+        "url": "https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
         }
       ],
-      "duration_ms": 216820,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/5yyERzShStDBpcmYMzU5xz"
+      "duration_ms": 216443,
+      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+      "url": "https://open.spotify.com/track/10W29dzZ0hjJbf4SvCSQw2"
     },
     {
       "added_at": "2026-09-25 04:01:46",
@@ -1731,6 +1715,22 @@
       "duration_ms": 242400,
       "name": "Binbo\u011fa",
       "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+    },
+    {
+      "added_at": "2026-09-25 04:01:46",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/2sgrnOpb8LLj9wKfiycqZu"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 216820,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/5yyERzShStDBpcmYMzU5xz"
     },
     {
       "added_at": "2026-09-25 04:01:46",

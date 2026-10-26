@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8775,
+  "num_followers": 8781,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
         "name": "Every Day Will Be Like A Holiday",
         "url": "https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
-        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 143909,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -391,6 +375,22 @@
       "duration_ms": 213693,
       "name": "More Than Christmas",
       "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 143909,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
+        "name": "Christmas Time's A-Comin'",
+        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Christmas Time's A-Comin' - Live",
+      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 191959,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
-        "name": "Christmas Time's A-Comin'",
-        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
-      },
-      "artists": [
-        {
-          "name": "Jerry Garcia Acoustic Band",
-          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Christmas Time's A-Comin' - Live",
-      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
-        "name": "Merry Christmas Asshole",
-        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
-      },
-      "artists": [
-        {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
-        }
-      ],
-      "duration_ms": 185056,
-      "name": "Merry Christmas Asshole",
-      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
+        "name": "Merry Christmas Asshole",
+        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 185056,
+      "name": "Merry Christmas Asshole",
+      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
-        "name": "The Sound of Christmas",
-        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 278409,
-      "name": "Don't Go Leaving Me (It's Christmas Eve)",
-      "url": "https://open.spotify.com/track/6mWR4jxmxFMTOxxN38mSnN"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
         "name": "Kid On Christmas",
         "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 245293,
       "name": "Kid On Christmas",
       "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
+        "name": "The Sound of Christmas",
+        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 278409,
+      "name": "Don't Go Leaving Me (It's Christmas Eve)",
+      "url": "https://open.spotify.com/track/6mWR4jxmxFMTOxxN38mSnN"
     },
     {
       "added_at": "2026-10-23 04:01:33",

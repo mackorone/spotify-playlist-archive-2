@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1011680,
+  "num_followers": 1011666,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Bewilderment",
         "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 177882,
       "name": "By The Lake",
       "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Above Me",
-        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Hang Up the Lights",
-        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
-      },
-      "artists": [
-        {
-          "name": "White China",
-          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
-        }
-      ],
-      "duration_ms": 160437,
-      "name": "Hang Up The Lights",
-      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Big Crown Vaults Vol. 3 - Holy Hive",
         "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 132750,
       "name": "This Is My Story",
       "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Hang Up the Lights",
+        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "duration_ms": 160437,
+      "name": "Hang Up The Lights",
+      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Cerulean Tapes",
-        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 256142,
-      "name": "TEENAGE FEVER",
-      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Hundred Fifty Roses",
         "url": "https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 96525,
       "name": "Flowers & Honey Interlude",
       "url": "https://open.spotify.com/track/6DsvXic2O817vrPB0btljC"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Cerulean Tapes",
+        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 256142,
+      "name": "TEENAGE FEVER",
+      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
     }
   ],
   "unique_name": "late night vibes",

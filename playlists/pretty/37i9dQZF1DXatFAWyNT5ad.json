@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153625,
+  "num_followers": 153624,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Dislocate",
-        "url": "https://open.spotify.com/album/3Zneuvz5t1O7cZ0NuTCIfd"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Dislocate",
-      "url": "https://open.spotify.com/track/4KKh6w0WLsV5wO87gQJMF4"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 200010,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Dislocate",
+        "url": "https://open.spotify.com/album/3Zneuvz5t1O7cZ0NuTCIfd"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Dislocate",
+      "url": "https://open.spotify.com/track/4KKh6w0WLsV5wO87gQJMF4"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Silverline",
         "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Loving and Losing",
-        "url": "https://open.spotify.com/album/3vq2VF9ZyCVqnE7Apciczd"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
       },
       "artists": [
         {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 174334,
-      "name": "Sorry Much",
-      "url": "https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC"
+      "duration_ms": 204613,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+        "name": "Loving and Losing",
+        "url": "https://open.spotify.com/album/3vq2VF9ZyCVqnE7Apciczd"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
+      "duration_ms": 174334,
+      "name": "Sorry Much",
+      "url": "https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -687,6 +671,22 @@
       "duration_ms": 187596,
       "name": "spite",
       "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "I'm So Good At Being Alone?",
+        "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 190154,
       "name": "delusional darling (ft. Ella Red)",
       "url": "https://open.spotify.com/track/4PhwBlT0m3gPbp2SQZ9rPI"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "I'm So Good At Being Alone?",
-        "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Mascara Masquerade",
-        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
-      },
-      "artists": [
-        {
-          "name": "VANITY",
-          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
-        }
-      ],
-      "duration_ms": 236527,
-      "name": "LSD (Love, Sex & Diamonds)",
-      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "California Girl",
         "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 173836,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Mascara Masquerade",
+        "url": "https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "duration_ms": 236527,
+      "name": "LSD (Love, Sex & Diamonds)",
+      "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Earthquakes",
-        "url": "https://open.spotify.com/album/3ScqhQjKIyFTlTQc952HHm"
-      },
-      "artists": [
-        {
-          "name": "Niis",
-          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
-        }
-      ],
-      "duration_ms": 185936,
-      "name": "Earthquakes",
-      "url": "https://open.spotify.com/track/2DrFa280vB8m54TYGzaEts"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Earthquakes",
+        "url": "https://open.spotify.com/album/3ScqhQjKIyFTlTQc952HHm"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "duration_ms": 185936,
+      "name": "Earthquakes",
+      "url": "https://open.spotify.com/track/2DrFa280vB8m54TYGzaEts"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Afterthought",
-        "url": "https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 260435,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Bando Stone and The New World",
         "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 154072,
       "name": "Running Around (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 260435,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Day Job",
         "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
@@ -1979,6 +1963,38 @@
       "duration_ms": 158423,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
+      },
+      "artists": [
+        {
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2011,22 +2027,6 @@
       "duration_ms": 196748,
       "name": "Stepper",
       "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
-      },
-      "artists": [
-        {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "love that kills",
-        "url": "https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 184655,
-      "name": "love that kills",
-      "url": "https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Wisconsin",
         "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 128906,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "love that kills",
+        "url": "https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 184655,
+      "name": "love that kills",
+      "url": "https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
-      },
-      "artists": [
-        {
-          "name": "The Foxies",
-          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
-        }
-      ],
-      "duration_ms": 224504,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 208450,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
+      },
+      "artists": [
+        {
+          "name": "The Foxies",
+          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
+        }
+      ],
+      "duration_ms": 224504,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Forgiving Spree",
-        "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
-      },
-      "artists": [
-        {
-          "name": "Slowly Slowly",
-          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Death Grip",
         "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 191292,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Forgiving Spree",
+        "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
+      },
+      "artists": [
+        {
+          "name": "Slowly Slowly",
+          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
     },
     {
       "added_at": "2026-09-25 04:03:07",

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15713,
+  "num_followers": 15718,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
+        "name": "More ASH",
+        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
-        "name": "More ASH",
-        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "AURA (feat. pH-1)",
-        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "AURA (feat. pH-1) (Prod. GXXD)",
-      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 249317,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "AURA (feat. pH-1)",
+        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "AURA (feat. pH-1) (Prod. GXXD)",
+      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -771,6 +771,26 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "BE'O (\ube44\uc624)",
+          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
+        }
+      ],
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 247718,
       "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
       "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
-        }
-      ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "2 Little Bites From [Fatal Album \u2162]",
         "url": "https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 178573,
       "name": "Eul (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 186019,
-      "name": "Candy (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
-    },
-    {
-      "added_at": "2026-10-08 07:16:06",
-      "album": {
         "name": "The Movie Star",
         "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
       },
@@ -983,26 +963,42 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Welcome to the Kicako House",
-        "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
       "artists": [
         {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Jayci yucca",
-          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
-        },
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 269000,
-      "name": "It's Gone",
-      "url": "https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh"
+      "duration_ms": 186019,
+      "name": "Candy (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+    },
+    {
+      "added_at": "2026-10-08 07:16:06",
+      "album": {
+        "name": "20th Anniversary Edition \u2018Dark Hole\u2019",
+        "url": "https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        },
+        {
+          "name": "Jamie",
+          "url": "https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Sick enough to die (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

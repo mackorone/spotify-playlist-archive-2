@@ -10815,6 +10815,28 @@
     },
     {
       "album": {
+        "name": "Jesus is Life (JIL)",
+        "url": "https://open.spotify.com/album/7shBQ7fCgyMPcApzz5HBu9"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263810,
+      "name": "Jesus is Life (JIL)",
+      "url": "https://open.spotify.com/track/1mSEK1rRQoejMU2ckPVoXf"
+    },
+    {
+      "album": {
         "name": "Jesus Made (JM)",
         "url": "https://open.spotify.com/album/23ic4HHTsaT6dW4R3GH3Py"
       },
@@ -13982,7 +14004,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 461634,
       "name": "MY PRAISE",
       "url": "https://open.spotify.com/track/2ZGP7KnF359WArpZhifwDW"

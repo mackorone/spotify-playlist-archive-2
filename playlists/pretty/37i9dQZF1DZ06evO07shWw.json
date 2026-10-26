@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAB+Em2WX0fSvPGQfUiE/5/q",
+  "snapshot_id": "atv1AAAAAAAGb1Ipuktab+Cd5G/hsvO0",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "On Fire (Ingrid Andress Version)",
-      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 183591,
       "name": "Here for It (feat. Ingrid Andress)",
       "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "On Fire (Ingrid Andress Version)",
+      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
     },
     {
       "added_at": null,

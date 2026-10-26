@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 8 hr 58 min
+173 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Overthinking](https://open.spotify.com/track/3WfYsJulANxzQdOj5CvlKR) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:01 | 2024-01-29 |  |
 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 | 2024-01-29 |  |
 | [Playing With My Heart](https://open.spotify.com/track/3hMpunBF4cTJybNRSBMU3t) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Playing With My Heart](https://open.spotify.com/album/0S6XfMEhF99rXMBubMqJp3) | 2:44 | 2024-01-29 |  |
+| [Please Don't Leave](https://open.spotify.com/track/7lVHDkxezj1y0LegZ5jDPX) | [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [Distant By Our Own Design](https://open.spotify.com/album/4M0bhvxaxXgFHRjWSm0kIV) | 3:08 | 2026-10-25 |  |
 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 | 2024-11-08 |  |
 | [Pretty When You Lie](https://open.spotify.com/track/0RoJ8XDwJgvaafBfBXs64e) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/6qmnLg5ChVKBKDYyO9nJO4) | 2:15 | 2026-06-12 |  |
 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 | 2024-06-20 | 2026-06-13 |

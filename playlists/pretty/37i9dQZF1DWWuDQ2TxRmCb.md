@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,840 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,854 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 31 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |
 | 32 | [Maarag](https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Salim Khan](https://open.spotify.com/artist/3y8bArrNsmocFZGkIiVG4n) | [Maarag](https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw) | 7:42 |
 | 33 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
-| 34 | [Mauj Kasheer](https://open.spotify.com/track/4DVz2TzPa5Oi8zngm53vHk) | [ĀDAM](https://open.spotify.com/artist/045CvZOttpV5fYta0MrCE3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shivani Matyal](https://open.spotify.com/artist/7mDEXPflEFqaHkJFnv77NH) | [Mauj Kasheer](https://open.spotify.com/album/2JXBaRO4HVReZ8IW0aumtj) | 4:08 |
-| 35 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 34 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 35 | [Mauj Kasheer](https://open.spotify.com/track/4DVz2TzPa5Oi8zngm53vHk) | [ĀDAM](https://open.spotify.com/artist/045CvZOttpV5fYta0MrCE3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shivani Matyal](https://open.spotify.com/artist/7mDEXPflEFqaHkJFnv77NH) | [Mauj Kasheer](https://open.spotify.com/album/2JXBaRO4HVReZ8IW0aumtj) | 4:08 |
 | 36 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
 | 37 | [Maniyara](https://open.spotify.com/track/6P4iBQHUdjUIq0LmIakVb1) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Maniyara](https://open.spotify.com/album/2cXwQQsZFpgbNJQ90hv3VU) | 3:19 |
 | 38 | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Gulzar Ahmad Ganaie](https://open.spotify.com/artist/4gB0ajRtDQXc2Vdp02A1pJ) | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH) | 5:06 |

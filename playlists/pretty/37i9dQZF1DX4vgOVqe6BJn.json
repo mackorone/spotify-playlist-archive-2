@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 437422,
+  "num_followers": 437481,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4"
     },
     {
+      "added_at": "2026-10-22 20:40:27",
+      "album": {
+        "name": "Ghosts (100 Days of Morning)",
+        "url": "https://open.spotify.com/album/3F9ZnOWuIZZpf3oV1SvRTy"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 230328,
+      "name": "Waist 36 Leg 32",
+      "url": "https://open.spotify.com/track/3IPLwU2d6nETANRwM5OoLb"
+    },
+    {
       "added_at": "2026-09-25 16:48:56",
       "album": {
         "name": "COME CLOSER",
@@ -471,22 +487,6 @@
       "duration_ms": 251373,
       "name": "SOMEWHERE ELSE",
       "url": "https://open.spotify.com/track/4ROFunSkVUlXqU0cMi6vYJ"
-    },
-    {
-      "added_at": "2026-10-22 20:40:27",
-      "album": {
-        "name": "Ghosts (100 Days of Morning)",
-        "url": "https://open.spotify.com/album/3F9ZnOWuIZZpf3oV1SvRTy"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 230328,
-      "name": "Waist 36 Leg 32",
-      "url": "https://open.spotify.com/track/3IPLwU2d6nETANRwM5OoLb"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Husband",
-        "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Husband",
-      "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Dreaming Alone",
         "url": "https://open.spotify.com/album/5FG03fYagxoMeS2vMZ8U4W"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 215040,
       "name": "Dreaming Alone",
       "url": "https://open.spotify.com/track/5treW7XuiAbiHfNwNpnYHP"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Husband",
+        "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Husband",
+      "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Cancel Me (I'm Tired)",
-        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 222596,
-      "name": "Cancel Me (I\u2019m Tired)",
-      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "NAIKI",
         "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 131489,
       "name": "SHEITE",
       "url": "https://open.spotify.com/track/3WrwSAIs1jAZml3iRD6zDP"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 222596,
+      "name": "Cancel Me (I\u2019m Tired)",
+      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Sign (Revision)",
-        "url": "https://open.spotify.com/album/2TkQVRexDHiRU7YPCHqKt1"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        },
-        {
-          "name": "Nohr",
-          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
-        }
-      ],
-      "duration_ms": 186340,
-      "name": "Sign (Revision)",
-      "url": "https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "FITNESS FIRST",
         "url": "https://open.spotify.com/album/62FuCq483syEgtWTFD03zP"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 165931,
       "name": "FITNESS FIRST",
       "url": "https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Sign (Revision)",
+        "url": "https://open.spotify.com/album/2TkQVRexDHiRU7YPCHqKt1"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "duration_ms": 186340,
+      "name": "Sign (Revision)",
+      "url": "https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Adult DVD",
+        "url": "https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7"
+      },
+      "artists": [
+        {
+          "name": "Adult DVD",
+          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
+        }
+      ],
+      "duration_ms": 205099,
+      "name": "Do As I Please",
+      "url": "https://open.spotify.com/track/0750whlQFm7r6nN3RTKcif"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "WAY UP",
         "url": "https://open.spotify.com/album/47FynGHTV7VUYqAGfnZm9q"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Adult DVD",
-        "url": "https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7"
-      },
-      "artists": [
-        {
-          "name": "Adult DVD",
-          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
-        }
-      ],
-      "duration_ms": 205099,
-      "name": "Do As I Please",
-      "url": "https://open.spotify.com/track/0750whlQFm7r6nN3RTKcif"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/39i5d3bQBuVnOd2kTwflPw"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 124372,
       "name": "Joga Bonito",
       "url": "https://open.spotify.com/track/2UHYoi6pW9N29YGXwWjhCb"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Aguar\u00e1chate",
-        "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 156714,
-      "name": "Aguar\u00e1chate",
-      "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1399,6 +1383,38 @@
       "duration_ms": 221804,
       "name": "Too On",
       "url": "https://open.spotify.com/track/3Q4TgCU3WopMMQFgs3iutO"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Aguar\u00e1chate",
+        "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 156714,
+      "name": "Aguar\u00e1chate",
+      "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Le Summerlove",
+        "url": "https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Le Summerlove",
+      "url": "https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Le Summerlove",
-        "url": "https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Le Summerlove",
-      "url": "https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Venus & Blue - RMX",
         "url": "https://open.spotify.com/album/12C8BSEBff8Ksh0GNlyrL6"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "ANGIE",
-        "url": "https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 161644,
-      "name": "Assis",
-      "url": "https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 155186,
       "name": "Lemon Squeeze",
       "url": "https://open.spotify.com/track/1bXf8lGXz9mkTOcELttDoH"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "ANGIE",
+        "url": "https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 161644,
+      "name": "Assis",
+      "url": "https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "R\u00e9alit\u00e9 Rap Musique, Vol. 1",
-        "url": "https://open.spotify.com/album/0EuYtJkLsYXxsLfpSU38rF"
-      },
-      "artists": [
-        {
-          "name": "BEN plg",
-          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Nickel",
-      "url": "https://open.spotify.com/track/2Tc7jb3EkwCFYtyt0TwuDr"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "The Runner",
         "url": "https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh"
       },
@@ -1835,22 +1819,18 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "BOP",
-        "url": "https://open.spotify.com/album/6w1Dq46a5GjDEcVCmgnYrv"
+        "name": "R\u00e9alit\u00e9 Rap Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/0EuYtJkLsYXxsLfpSU38rF"
       },
       "artists": [
         {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
-        },
-        {
-          "name": "Jolie P",
-          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
         }
       ],
-      "duration_ms": 255617,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/55B7h4UVKWsKG5prz7xRr3"
+      "duration_ms": 186090,
+      "name": "Nickel",
+      "url": "https://open.spotify.com/track/2Tc7jb3EkwCFYtyt0TwuDr"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1875,6 +1855,26 @@
       "duration_ms": 145609,
       "name": "GARDEL EN EL AVI\u00d3N",
       "url": "https://open.spotify.com/track/3jjFnrNEplIuYPf8qH5yUf"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "BOP",
+        "url": "https://open.spotify.com/album/6w1Dq46a5GjDEcVCmgnYrv"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "duration_ms": 255617,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/55B7h4UVKWsKG5prz7xRr3"
     },
     {
       "added_at": "2026-09-25 16:48:56",

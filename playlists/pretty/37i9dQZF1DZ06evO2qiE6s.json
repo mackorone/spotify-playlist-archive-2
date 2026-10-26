@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 129501,
+  "num_followers": 129516,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAB4cfPJhnDPGYOZWM3CSFsp",
+  "snapshot_id": "atv1AAAAAAAijttiOcU7IIwLcM8+9QLR",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
-      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 141920,
       "name": "Buona Sera - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
+      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 8 (1957-1958)",
+        "url": "https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Goodnight Sweetheart",
-      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
+      "duration_ms": 136493,
+      "name": "Good Mornin' Life",
+      "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 8 (1957-1958)",
-        "url": "https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK"
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 136493,
-      "name": "Good Mornin' Life",
-      "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
+      "duration_ms": 190000,
+      "name": "Goodnight Sweetheart",
+      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Dean Martin TV Show",
+        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "The One I Love (Belongs to Somebody Else)",
+      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 186466,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Dean Martin TV Show",
-        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "The One I Love (Belongs to Somebody Else)",
-      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
     },
     {
       "added_at": null,

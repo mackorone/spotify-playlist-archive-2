@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-201 songs - 10 hr 58 min
+202 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [My Type](https://open.spotify.com/track/6V9kwssTrwkKT72imgowj9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:37 | 2024-02-27 |  |
 | [Naked](https://open.spotify.com/track/4h5m6VrCEHBW5yU8Eye5Fr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:00 | 2024-02-27 |  |
 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 | 2024-02-27 |  |
-| [New Rules](https://open.spotify.com/track/2xJCMIJfcNYDc5iR0sAm2O) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:29 | 2024-02-27 |  |
+| [New Rules](https://open.spotify.com/track/2xJCMIJfcNYDc5iR0sAm2O) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:29 | 2024-02-27 | 2026-10-26 |
+| [New Rules](https://open.spotify.com/track/5fVcK4ibJpRsjvG5aIYTb7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/3SXqs6UQiQyIOnk1TeodLo) | 3:32 | 2026-10-25 |  |
 | [New Rules x Are You That Somebody?](https://open.spotify.com/track/0M2ASyWJhjvc4AzneR7sG6) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 2:58 | 2024-02-27 | 2025-10-15 |
 | [New Rules x Are You That Somebody?](https://open.spotify.com/track/2TJvkHwLyvTV8v87eJNgQM) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [New Rules x Are You That Somebody?](https://open.spotify.com/album/57qvsk9xWdaqC9uEvV0KWT) | 2:58 | 2025-10-14 |  |
 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 | 2024-10-18 |  |

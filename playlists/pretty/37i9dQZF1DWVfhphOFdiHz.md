@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,787 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,798 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 31 | [THIS TIME OF THE YEAR](https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [THIS TIME OF THE YEAR](https://open.spotify.com/album/5qkkmIxIqKuU1RrF1s0dvY) | 3:36 |
 | 32 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
 | 33 | [LIL SOMETHIN LIKE](https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [LIL SOMETHIN LIKE](https://open.spotify.com/album/54pkbBc7GdYwAGIk2Zerqe) | 2:58 |
-| 34 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
-| 35 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
-| 36 | [mon chéri…](https://open.spotify.com/track/4BWRbNcTnJpHL47hlY8Ntl) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [CANINES](https://open.spotify.com/album/7jRVnXlOfv9qoj5nM4OBOC) | 3:18 |
+| 34 | [mon chéri…](https://open.spotify.com/track/4BWRbNcTnJpHL47hlY8Ntl) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [CANINES](https://open.spotify.com/album/7jRVnXlOfv9qoj5nM4OBOC) | 3:18 |
+| 35 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
+| 36 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
 | 37 | [2 GIRLS](https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [2 GIRLS](https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X) | 2:09 |
 | 38 | [Devour](https://open.spotify.com/track/3hScgyOQVhK2Ibi9FpTQnq) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Devour](https://open.spotify.com/album/2X8HaYgiIcd3FMuT2TEWxn) | 2:37 |
 | 39 | [LOLLIPOP](https://open.spotify.com/track/7E3UP6YUTplvpnBfaSjEiG) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [LOLLIPOP](https://open.spotify.com/album/5jFlusJ45Ma9q9yXfunAUT) | 3:05 |
 | 40 | [good things come in two's](https://open.spotify.com/track/3iA9oRCn2Gx9Qq55eQkUB9) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [good things come in two's](https://open.spotify.com/album/1amirJFqrFDzvjLrRQqqbk) | 2:20 |
 | 41 | [Hometown Letdown](https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Hometown Letdown](https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W) | 2:57 |
 | 42 | [August](https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [August](https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB) | 3:33 |
-| 43 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
-| 44 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
+| 43 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
+| 44 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
 | 45 | [LEZ GO!](https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [LEZ GO!](https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv) | 2:44 |
 | 46 | [Meryl](https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/2ydzJRCV5HBV1hMbwzEWsm) | 2:43 |
 | 47 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |

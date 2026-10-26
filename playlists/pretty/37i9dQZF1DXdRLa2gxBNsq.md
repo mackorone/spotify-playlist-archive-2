@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,543 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,563 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 69 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
 | 70 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 |
 | 71 | [El Espiritu del Oi!](https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [N.S.A\. La Santa Familia](https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF) | 5:13 |
-| 72 | [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 |
-| 73 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
+| 72 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
+| 73 | [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 |
 | 74 | [Salve](https://open.spotify.com/track/3A5g4sFwzahqS2B3NeqNV2) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/1XCAxFWUmdLpI0WEtfBYmU) | 3:06 |
 | 75 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 |
 | 76 | [Corona de espinas](https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corona de espinas](https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB) | 3:37 |

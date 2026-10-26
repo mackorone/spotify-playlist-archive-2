@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,193 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,177 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 17 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 |
 | 18 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 19 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
-| 20 | [I Love Life \(feat\. RANI\)](https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [I Love Life \(feat\. RANI\)](https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO) | 2:36 |
-| 21 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
-| 22 | [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 |
-| 23 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
-| 24 | [Boogie's in My Soul](https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Boogie's in My Soul](https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ) | 3:42 |
-| 25 | [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 |
+| 20 | [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 |
+| 21 | [I Love Life \(feat\. RANI\)](https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [I Love Life \(feat\. RANI\)](https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO) | 2:36 |
+| 22 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
+| 23 | [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 |
+| 24 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
+| 25 | [Boogie's in My Soul](https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Boogie's in My Soul](https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ) | 3:42 |
 | 26 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 |
 | 27 | [satellite](https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [satellite](https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX) | 3:13 |
 | 28 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 31 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
 | 32 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 33 | [Miyazaki](https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Miyazaki](https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9) | 3:24 |
-| 34 | [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 |
-| 35 | [What a View](https://open.spotify.com/track/55rppVJPliy2tnox54mJ1f) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [What a View](https://open.spotify.com/album/5FWMIuW6Ii9GoYDIEiGQ3T) | 2:38 |
+| 34 | [What a View](https://open.spotify.com/track/55rppVJPliy2tnox54mJ1f) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [What a View](https://open.spotify.com/album/5FWMIuW6Ii9GoYDIEiGQ3T) | 2:38 |
+| 35 | [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 |
 | 36 | [the one](https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [the one](https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P) | 2:26 |
 | 37 | [Gentleman Blue](https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Gentleman Blue](https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2) | 3:28 |
 | 38 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=qRGgP9VyQ5K94cbE8yXDNw">Josiah Queen</a> Halloween fall music  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,113 likes - 147 songs - 9 hr 12 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,145 likes - 147 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

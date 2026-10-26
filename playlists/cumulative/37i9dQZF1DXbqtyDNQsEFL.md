@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-834 songs - 2 day 23 hr 27 min
+835 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 | 2024-06-10 | 2024-07-27 |
 | [FREEDOM](https://open.spotify.com/track/3zbnmDcgr1stnp7VMecPTL) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [FREEDOM](https://open.spotify.com/album/4eVHpFE3L70YsFRW7bTEcL) | 2:32 | 2025-04-25 | 2025-05-16 |
 | [Freedom](https://open.spotify.com/track/5PEWr3EyHJPp0Ii8OpmT1B) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Freedom](https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f) | 2:43 | 2024-09-27 | 2024-11-12 |
+| [freefall](https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [pilgrim](https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV) | 3:41 | 2026-10-16 |  |
 | [Fresh Wind](https://open.spotify.com/track/03dRFCBePUxmKYrL9im8v0) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [These Same Skies](https://open.spotify.com/album/162JpkoDVC2fowwp1pQ912) | 4:33 | 2026-01-09 | 2026-02-06 |
 | [Gallant](https://open.spotify.com/track/1Lmjh3qhOwibSlsrBmkUsx) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gallant](https://open.spotify.com/album/7kR0lwEA2gncJV1NJill1K) | 5:16 | 2023-12-05 | 2023-12-11 |
 | [Garden](https://open.spotify.com/track/26fP6qORAEPTbeKxLKGORh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Garden](https://open.spotify.com/album/4li2lNlTmWPKTLKz0droR8) | 2:10 | 2026-08-07 | 2026-08-28 |
@@ -598,7 +599,7 @@
 | [Praise You](https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Praise You](https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV) | 1:59 | 2024-06-14 | 2024-07-05 |
 | [Praise Your Name](https://open.spotify.com/track/4HE0C1QJPhX9vzBqbJg5oT) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Praise Your Name](https://open.spotify.com/album/0OZoD6xavZhIqeJblkeasq) | 4:47 | 2024-01-19 | 2024-02-09 |
 | [Pray](https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pray](https://open.spotify.com/album/3F6vpAXVJVrQwQGL6pDFdi) | 2:50 | 2025-06-13 | 2025-10-03 |
-| [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 | 2025-05-30 |  |
+| [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 | 2025-05-30 | 2026-10-26 |
 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 | 2024-10-25 | 2025-07-04 |
 | [Prayer](https://open.spotify.com/track/6kESTNY3rhbE5yDFQJ0kEh) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Prayer](https://open.spotify.com/album/6RsJ8zdUYTTUZ2OVavjxpb) | 2:26 | 2025-06-13 | 2025-07-04 |
 | [Prepare the Way](https://open.spotify.com/track/7uW9MM84wg65ODHwMTL5Fc) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Prepare the Way](https://open.spotify.com/album/3DZGhQN7bHZeQ62egNvQST) | 2:27 | 2025-06-27 | 2025-07-04 |

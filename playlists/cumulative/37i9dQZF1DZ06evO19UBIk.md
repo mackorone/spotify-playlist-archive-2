@@ -4,7 +4,7 @@
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 9 min
+84 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2022-01-11 |  |
 | [Break on Through \(To the Other Side\) \- New Stereo Mix](https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 2:26 | 2025-08-31 |  |
 | [Breakn' a Sweat](https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 5:01 | 2022-01-11 |  |
+| [Build Me a Woman \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/6nGfm3MCxGWCj9qYgHa6z4) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 3:29 | 2026-10-26 |  |
 | [Cars Hiss by My Window](https://open.spotify.com/track/2Sjez1CwJv8Pz018CxKjWa) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:09 | 2022-10-09 | 2024-07-24 |
 | [Dead Cats, Dead Rats \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/7BZuIdyEVEcK3pvRw1yHJt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 1:47 | 2026-10-25 |  |
 | [End of the Night](https://open.spotify.com/track/09ezgACZuwWZt6CtQSSLRG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:50 | 2022-01-20 | 2024-07-04 |
@@ -53,6 +54,7 @@
 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 | 2022-11-20 | 2025-07-25 |
 | [Peace Frog](https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:50 | 2022-01-11 |  |
 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2022-01-11 |  |
+| [Petition the Lord With Prayer \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/7DBosfu3dVeI2Yzvb8KAJX) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 0:45 | 2026-10-26 |  |
 | [Petition the Lord with Prayer \- Live in Vancouver, 1970](https://open.spotify.com/track/7FPHpesUZ791sGiYKQpQG4) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:39 | 2023-08-09 | 2024-08-03 |
 | [Queen of the Highway](https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:47 | 2022-10-28 | 2025-03-22 |
 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 | 2022-01-11 |  |
@@ -77,11 +79,12 @@
 | [The WASP \(Texas Radio and the Big Beat\)](https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:13 | 2022-01-11 | 2024-07-13 |
 | [Touch Me](https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:10 | 2022-01-11 |  |
 | [Twentieth Century Fox](https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:31 | 2023-06-18 | 2024-07-23 |
-| [Unhappy Girl](https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:57 | 2022-10-15 | 2025-02-25 |
+| [Unhappy Girl](https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:57 | 2022-10-15 |  |
 | [Universal Mind \- Live](https://open.spotify.com/track/26ZF6lHwjmb9Peq8jdbKUi) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Absolutely Live](https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul) | 4:54 | 2022-10-01 | 2022-10-03 |
 | [Verdillac \- Live 1972](https://open.spotify.com/track/0Bsm78b7ixlm4XP07MBImt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Spirits \(Live 1972\)](https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw) | 7:10 | 2022-06-12 | 2022-06-16 |
 | [Waiting for the Sun](https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 3:58 | 2022-01-11 |  |
-| [When the Music's Over](https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 10:59 | 2022-01-11 |  |
+| [When the Music's Over](https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 10:59 | 2022-01-11 | 2026-10-26 |
+| [When the Music's Over \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/0z6u4SbK6hJ9WuceoYwdjX) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 14:39 | 2026-10-26 |  |
 | [Who Do You Love \- Live](https://open.spotify.com/track/4qNwlHuX0fsUggSaJkNf2q) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Absolutely Live](https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul) | 6:02 | 2022-05-13 | 2022-10-12 |
 | [Wild Child](https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:35 | 2022-01-11 |  |
 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 | 2022-01-11 |  |

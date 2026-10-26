@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 6106,
+  "num_followers": 6107,
   "original_name": "All New Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA9dPKnQpIPfxbQ6SlWO8pckeKMA+e/",
+  "snapshot_id": "AAA9eidUWqhM/wdJ8OxehHHxTP/2FfbT",
   "tracks": [
     {
       "added_at": "2026-07-04 10:16:45",
@@ -3469,22 +3469,6 @@
       "url": "https://open.spotify.com/track/50ITvByrLfsjGspXWjd3mT"
     },
     {
-      "added_at": "2026-10-20 08:36:47",
-      "album": {
-        "name": "Messi I Love You",
-        "url": "https://open.spotify.com/album/2Swpri5nb565sX09jMkvU0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Wind",
-          "url": "https://open.spotify.com/artist/3GROm6mceRWx5O1EGZTNnD"
-        }
-      ],
-      "duration_ms": 147509,
-      "name": "Messi I Love You",
-      "url": "https://open.spotify.com/track/19GDhoy8WMIvwkLpENcf2F"
-    },
-    {
       "added_at": "2026-10-20 08:37:04",
       "album": {
         "name": "Coffee in the Rain",
@@ -4131,6 +4115,86 @@
       "duration_ms": 142758,
       "name": "Final Destination",
       "url": "https://open.spotify.com/track/5ACrEUvL3pVksyGCZZm62Q"
+    },
+    {
+      "added_at": "2026-10-25 09:23:45",
+      "album": {
+        "name": "Gallop",
+        "url": "https://open.spotify.com/album/039YldH5772GSxeXIFGdEu"
+      },
+      "artists": [
+        {
+          "name": "Western Jaguar",
+          "url": "https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Gallop",
+      "url": "https://open.spotify.com/track/0nkhyqYMkv7ca9HdR0PaD3"
+    },
+    {
+      "added_at": "2026-10-25 09:26:16",
+      "album": {
+        "name": "Olle dans",
+        "url": "https://open.spotify.com/album/1etCzfbaesBKSyOUtBrxjM"
+      },
+      "artists": [
+        {
+          "name": "Astrid Pflaum",
+          "url": "https://open.spotify.com/artist/30q7EKGQD9fRamv3ZrSa6z"
+        }
+      ],
+      "duration_ms": 207781,
+      "name": "Heb ab",
+      "url": "https://open.spotify.com/track/4zMuSTXtbo6RlGd3OtrZcf"
+    },
+    {
+      "added_at": "2026-10-25 09:26:59",
+      "album": {
+        "name": "Messi I Love You",
+        "url": "https://open.spotify.com/album/2Swpri5nb565sX09jMkvU0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Wind",
+          "url": "https://open.spotify.com/artist/3GROm6mceRWx5O1EGZTNnD"
+        }
+      ],
+      "duration_ms": 147509,
+      "name": "Messi I Love You",
+      "url": "https://open.spotify.com/track/19GDhoy8WMIvwkLpENcf2F"
+    },
+    {
+      "added_at": "2026-10-25 09:27:41",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/6H8brGBEdD6QkJSVSBx0yF"
+      },
+      "artists": [
+        {
+          "name": "Anton Johnson",
+          "url": "https://open.spotify.com/artist/1KysZrrs5MqlAnR7BnjZ76"
+        }
+      ],
+      "duration_ms": 148054,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/7pjlqfI9Zu5hbceqCAu6q6"
+    },
+    {
+      "added_at": "2026-10-25 15:26:48",
+      "album": {
+        "name": "Where It All Begins",
+        "url": "https://open.spotify.com/album/0aG0YJfdwJMt3lb60BmkdC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Abnett",
+          "url": "https://open.spotify.com/artist/4lgAJ2J4Y396e8lYcZJzDK"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "War on the Inside",
+      "url": "https://open.spotify.com/track/1GcY0sqbUzgmlbReC8hazK"
     }
   ],
   "unique_name": "All New Music",

@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 230261,
       "name": "Bright Shadows",
       "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 195607,
       "name": "Fallen Arches",
       "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
@@ -3448,10 +3448,32 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-26",
       "duration_ms": 236733,
       "name": "The Boy - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/0WXqcuo8IUsuS8ILuFovpA"
+    },
+    {
+      "album": {
+        "name": "The Boy (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/5aSqni49YrVFjkq9leIfux"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236733,
+      "name": "The Boy - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/38A81IdOrrnEloxySASkUr"
     },
     {
       "album": {

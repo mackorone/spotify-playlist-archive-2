@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 645241,
+  "num_followers": 645251,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAACSVxLkI9o6iualY0pM8bIl",
+  "snapshot_id": "atv1AAAAAADLVWIJ5shtx25UxD6Slw5D",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 203553,
-      "name": "Million Dollar Bill",
-      "url": "https://open.spotify.com/track/78Liq9m8u6xjuamJIeznTd"
+      "duration_ms": 253076,
+      "name": "Call You Tonight",
+      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 253076,
-      "name": "Call You Tonight",
-      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+      "duration_ms": 203553,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/78Liq9m8u6xjuamJIeznTd"
     },
     {
       "added_at": null,

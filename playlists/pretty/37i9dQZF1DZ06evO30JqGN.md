@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,536 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,557 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 49 | [Wasted](https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR](https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY) | 2:34 |
 | 50 | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/track/5jN3vA2ChJqtaybZ1SfocT) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [KILL THE KING](https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd) | 3:14 |
 
-Snapshot ID: `atqjgAAAAABwV3RRIP9X9SEeRQ8qaftl`
+Snapshot ID: `atv1AAAAAAANztmaNnSHqY6WpRDz3U/H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,985 songs - 11 day 6 hr 39 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,996 songs - 11 day 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4993,5 +4993,16 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4983 | [Cannario Bisco](https://open.spotify.com/track/1cYhtOc8hdFFx5AodhyA1x) | [Triste Malcriado](https://open.spotify.com/artist/4RxXaieb6PizszJex4m4qZ) | [Cannario Bisco](https://open.spotify.com/album/7Git9f4vwAdt21CVMDga9y) | 3:09 |
 | 4984 | [Versó Celestial](https://open.spotify.com/track/0BLTqvFGdV57cP17F41ozM) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Versó Celestial](https://open.spotify.com/album/6x1FGWS8AQnWeShzbW8Vua) | 4:09 |
 | 4985 | [I Don't Care](https://open.spotify.com/track/4CtGdAHpJ9WZTxfu6d2HT8) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [I Don't Care](https://open.spotify.com/album/5AG9FVn7kNhARQbqxICDBu) | 4:48 |
+| 4986 | [Nothing to Say](https://open.spotify.com/track/1GvY7c6dA9irp4hbVHnEgX) | [Feathers'n'Fray](https://open.spotify.com/artist/2SinXgoUnZe8H6pWtOYOH3) | [Nothing to Say](https://open.spotify.com/album/5bW7ZoHATCFfN39AzxEaBv) | 2:47 |
+| 4987 | [Voices In My Head](https://open.spotify.com/track/1WNXPmTiJTEkmYXnRTr5Vm) | [Mindscape Lab](https://open.spotify.com/artist/62CykolqF4eLYT5Q01D236) | [Deep Pression II – Relapse](https://open.spotify.com/album/35boMnlPM2sKvgjmM6aoe4) | 2:58 |
+| 4988 | [Hellbent on Going to Hell](https://open.spotify.com/track/5E6RxVizoey3gwmkszp3rT) | [Amani](https://open.spotify.com/artist/6WkvVGZzw4uJR3nHdeVYD3) | [Amani](https://open.spotify.com/album/71yWtMsY4WhtHU7OPsHBqG) | 3:56 |
+| 4989 | [This Place Of Mine](https://open.spotify.com/track/7rJs0YiwTMzAa97sNMPPx8) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [This Place Of Mine](https://open.spotify.com/album/43VFVU4zuFFDsAgd7O8hyJ) | 4:44 |
+| 4990 | [Ghost](https://open.spotify.com/track/1PlW8pf8vVQYyu3odw3bcW) | [Saveani FM](https://open.spotify.com/artist/1LqIJeEVcbjk3vnpM9SJ6O), [Zerx](https://open.spotify.com/artist/7AzbHRcmLUTr7vhoOY9c2k) | [Ghost](https://open.spotify.com/album/178erKnBQwrn9k6QOLodSa) | 2:31 |
+| 4991 | [El Horizonte parece tan Lejano](https://open.spotify.com/track/57ftWQOOkjTmaOVjlPEN1N) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm) | [El Horizonte parece tan Lejano](https://open.spotify.com/album/2c8PvtjHSZ8rsUqD1Bngwt) | 2:54 |
+| 4992 | [Deep](https://open.spotify.com/track/61GvCFVmG7kxX67kF2wiLQ) | [Hightown Crow](https://open.spotify.com/artist/1WFZSxmb9moAtkPc4NJi8C), [Staff Brett](https://open.spotify.com/artist/6RAuTr2xMTYEmn8XP1tmYJ) | [Hightown Crow](https://open.spotify.com/album/5Lkvu61mRu35cAJ2jt5R1b) | 2:35 |
+| 4993 | [Minha Terra, Minha Herança](https://open.spotify.com/track/58XddiyL6PEqeB6LqrDhaJ) | [Akayama João](https://open.spotify.com/artist/3ElN1hJYpFJ3hPwu5tVLDZ) | [Minha Terra, Minha Herança](https://open.spotify.com/album/6W78otyKyrKrnKEDODEthI) | 3:14 |
+| 4994 | [Mean it at all](https://open.spotify.com/track/0H4xd2FKtWYgrH7uxMBw9S) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Mean it at all](https://open.spotify.com/album/7wcubevLDln9Wi0WxasZGG) | 3:43 |
+| 4995 | [De Ronningen](https://open.spotify.com/track/7L0W9O54AlUUZYeXTrQuhS) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [LUME](https://open.spotify.com/artist/6xc8tjyFxxVYmBlp2slFuW), [Dizzy Espeche](https://open.spotify.com/artist/0nTJK9mCj9n4TljZiuAqAl) | [Rompecabezas](https://open.spotify.com/album/33hE0PlE1qdcaM767ZZ8zr) | 1:28 |
+| 4996 | [Come On California](https://open.spotify.com/track/4XYuAWnpSZs6qIV1CzCbzH) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Come On California](https://open.spotify.com/album/7AktV6uVnjl284AXdQDPYy) | 2:57 |
 
-Snapshot ID: `AAAKwVXzGPAqhr2/XrDxyUIlzDKgdZX4`
+Snapshot ID: `AAAKzCZfFhRimNHHABlXMx4sT2Z/YUuX`

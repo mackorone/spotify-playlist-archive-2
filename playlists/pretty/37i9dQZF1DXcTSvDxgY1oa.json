@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2153,
+  "num_followers": 2157,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "In Times of Absolute Endings",
+        "url": "https://open.spotify.com/album/1aGsfs58XYBl7zAbrrikd0"
+      },
+      "artists": [
+        {
+          "name": "Gabbi Lieve",
+          "url": "https://open.spotify.com/artist/3h37iYeabo7qndCteCW9E6"
+        }
+      ],
+      "duration_ms": 192393,
+      "name": "In Times of Absolute Endings",
+      "url": "https://open.spotify.com/track/1n5CMJWzV9OimSjkoroBXB"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "In Times of Absolute Endings",
-        "url": "https://open.spotify.com/album/1aGsfs58XYBl7zAbrrikd0"
-      },
-      "artists": [
-        {
-          "name": "Gabbi Lieve",
-          "url": "https://open.spotify.com/artist/3h37iYeabo7qndCteCW9E6"
-        }
-      ],
-      "duration_ms": 192393,
-      "name": "In Times of Absolute Endings",
-      "url": "https://open.spotify.com/track/1n5CMJWzV9OimSjkoroBXB"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Wie weet",
         "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Sanguine",
-        "url": "https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H"
-      },
-      "artists": [
-        {
-          "name": "Doris Vosters",
-          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
-        }
-      ],
-      "duration_ms": 226117,
-      "name": "Sanguine",
-      "url": "https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "okaydokay_",
         "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 160517,
       "name": "okaydokay_",
       "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H"
+      },
+      "artists": [
+        {
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+        }
+      ],
+      "duration_ms": 226117,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Kermis",
+        "url": "https://open.spotify.com/album/43lAZ9WsCUHPozo3EWo04j"
+      },
+      "artists": [
+        {
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Kermis",
+      "url": "https://open.spotify.com/track/5vhsP08xaieLY2GFHPS7CT"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Holes",
         "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 163147,
       "name": "Half As Cool",
       "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Kermis",
-        "url": "https://open.spotify.com/album/43lAZ9WsCUHPozo3EWo04j"
-      },
-      "artists": [
-        {
-          "name": "De Plaag",
-          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Kermis",
-      "url": "https://open.spotify.com/track/5vhsP08xaieLY2GFHPS7CT"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Comfort on its Knees",
-        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
-      },
-      "artists": [
-        {
-          "name": "In Good Spirit",
-          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
-        }
-      ],
-      "duration_ms": 288952,
-      "name": "Brother Please",
-      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Cowboy",
         "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Comfort on its Knees",
+        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
+      },
+      "artists": [
+        {
+          "name": "In Good Spirit",
+          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
+        }
+      ],
+      "duration_ms": 288952,
+      "name": "Brother Please",
+      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/5gQxxMdJzf5mNQWDX1Daw1"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 216000,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/1byGTZVTR9oQkgIapiLsLu"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
-      },
-      "artists": [
-        {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -607,6 +591,22 @@
       "duration_ms": 139000,
       "name": "Blijf Daar",
       "url": "https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+      },
+      "artists": [
+        {
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "ik wil verliefd zijn op mijn tijd",
-        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
+        "name": "TWISTED",
+        "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
       },
       "artists": [
         {
-          "name": "Else Lena",
-          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+          "name": "F.I.X.",
+          "url": "https://open.spotify.com/artist/4NWDPe87t2vGT8IpC1XGrv"
         }
       ],
-      "duration_ms": 180000,
-      "name": "ik wil verliefd zijn op mijn tijd",
-      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
+      "duration_ms": 122000,
+      "name": "TWISTED",
+      "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "TWISTED",
-        "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
+        "name": "ik wil verliefd zijn op mijn tijd",
+        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
       },
       "artists": [
         {
-          "name": "F.I.X.",
-          "url": "https://open.spotify.com/artist/4NWDPe87t2vGT8IpC1XGrv"
+          "name": "Else Lena",
+          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
         }
       ],
-      "duration_ms": 122000,
-      "name": "TWISTED",
-      "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
+      "duration_ms": 180000,
+      "name": "ik wil verliefd zijn op mijn tijd",
+      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -751,6 +751,22 @@
       "duration_ms": 149479,
       "name": "Red Car",
       "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/7mdwr2Z15JcrnW29fdbqFM"
+      },
+      "artists": [
+        {
+          "name": "Amani",
+          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/0G8yVV48qL5TDgfUE2zvFR"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -803,38 +819,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Fabienne",
-          "url": "https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv"
-        }
-      ],
-      "duration_ms": 187787,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/7mdwr2Z15JcrnW29fdbqFM"
-      },
-      "artists": [
-        {
-          "name": "Amani",
-          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/0G8yVV48qL5TDgfUE2zvFR"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "see-through",
         "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Please you",
-        "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
       },
       "artists": [
         {
-          "name": "Angelo Benson",
-          "url": "https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs"
+          "name": "Lucy Fabienne",
+          "url": "https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv"
         }
       ],
-      "duration_ms": 242474,
-      "name": "Please you",
-      "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
+      "duration_ms": 187787,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -883,50 +867,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "leave the party . \u0741\u208a \u22b9 .",
-        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
+        "name": "Please you",
+        "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
       "artists": [
         {
-          "name": "Nelles",
-          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
+          "name": "Angelo Benson",
+          "url": "https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs"
         }
       ],
-      "duration_ms": 201434,
-      "name": "leave the party . \u0741\u208a \u22b9 .",
-      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Crane",
-        "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
-      },
-      "artists": [
-        {
-          "name": "Post Ella",
-          "url": "https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Crane",
-      "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "GYL",
-        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 171023,
-      "name": "GYL",
-      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
+      "duration_ms": 242474,
+      "name": "Please you",
+      "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -951,6 +903,54 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Crane",
+        "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
+      },
+      "artists": [
+        {
+          "name": "Post Ella",
+          "url": "https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Crane",
+      "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "leave the party . \u0741\u208a \u22b9 .",
+        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
+      },
+      "artists": [
+        {
+          "name": "Nelles",
+          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
+        }
+      ],
+      "duration_ms": 201434,
+      "name": "leave the party . \u0741\u208a \u22b9 .",
+      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "GYL",
+        "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 171023,
+      "name": "GYL",
+      "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "deadbeat (how long)",
         "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 240233,
       "name": "deadbeat (how long)",
       "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "ireallylikeboys",
-        "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
-      },
-      "artists": [
-        {
-          "name": "KUZKO",
-          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "ireallylikeboys",
-      "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -999,18 +983,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Odesa Twilight Session (live)",
-        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
+        "name": "ireallylikeboys",
+        "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
       },
       "artists": [
         {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+          "name": "KUZKO",
+          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
         }
       ],
-      "duration_ms": 190083,
-      "name": "In My Arms - live",
-      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
+      "duration_ms": 149163,
+      "name": "ireallylikeboys",
+      "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1031,6 +1015,22 @@
       "duration_ms": 546499,
       "name": "Acid to Fascists",
       "url": "https://open.spotify.com/track/7J38jvMFpESlnq2sEmg9gH"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Odesa Twilight Session (live)",
+        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
+      },
+      "artists": [
+        {
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+        }
+      ],
+      "duration_ms": 190083,
+      "name": "In My Arms - live",
+      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Heart on the line",
-        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
-      },
-      "artists": [
-        {
-          "name": "LAHAYE",
-          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
-        }
-      ],
-      "duration_ms": 215485,
-      "name": "Heart on the line",
-      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Consistent",
         "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 175483,
       "name": "Consistent",
       "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Heart on the line",
+        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+      },
+      "artists": [
+        {
+          "name": "LAHAYE",
+          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+        }
+      ],
+      "duration_ms": 215485,
+      "name": "Heart on the line",
+      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
-      },
-      "artists": [
-        {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Vallen",
         "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 161226,
       "name": "Vallen",
       "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Make A Wish",
+        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
+      },
+      "artists": [
+        {
+          "name": "SWANSLAUGHTER",
+          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
+        }
+      ],
+      "duration_ms": 114260,
+      "name": "Nothing Means Anything",
+      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Snakes and Heartbreak(er)s",
         "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 298693,
       "name": "Snakes and Heartbreak(er)s",
       "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Make A Wish",
-        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
-      },
-      "artists": [
-        {
-          "name": "SWANSLAUGHTER",
-          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
-        }
-      ],
-      "duration_ms": 114260,
-      "name": "Nothing Means Anything",
-      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
-      },
-      "artists": [
-        {
-          "name": "Vonder",
-          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
-        }
-      ],
-      "duration_ms": 310015,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "dislocated .",
         "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 255120,
       "name": "ozempic tears",
       "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
+      },
+      "artists": [
+        {
+          "name": "Vonder",
+          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
+        }
+      ],
+      "duration_ms": 310015,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z",
-        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
-      },
-      "artists": [
-        {
-          "name": "Duygu Alkan",
-          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
-        }
-      ],
-      "duration_ms": 194925,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "CAH",
         "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 228500,
       "name": "Polder",
       "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "\u0130kimiz Bir Fidan\u0131z",
+        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
+      },
+      "artists": [
+        {
+          "name": "Duygu Alkan",
+          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
+        }
+      ],
+      "duration_ms": 194925,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
     },
     {
       "added_at": "2026-10-20 11:45:56",

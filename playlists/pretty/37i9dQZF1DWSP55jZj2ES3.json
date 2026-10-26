@@ -1,6 +1,6 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 530373,
+  "num_followers": 530356,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "EVERYTHING",
-        "url": "https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        },
-        {
-          "name": "Alex Banin",
-          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
-        }
-      ],
-      "duration_ms": 252778,
-      "name": "Long Beach",
-      "url": "https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 213622,
       "name": "I Know There's Gonna Be (Good Times)",
       "url": "https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "EVERYTHING",
+        "url": "https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        },
+        {
+          "name": "Alex Banin",
+          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+        }
+      ],
+      "duration_ms": 252778,
+      "name": "Long Beach",
+      "url": "https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 286061,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1msgEd8W5hBZAOmd3s9hC0"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 286061,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1msgEd8W5hBZAOmd3s9hC0"
     },
     {
       "added_at": "2026-01-20 16:17:11",

@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 BR\u00cdET, Birnir og m\u00f6rgum fleirum!",
-  "num_followers": 9728,
+  "num_followers": 9729,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/5bX6fQe78SeDHwYvbrWDrh"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/6zpeQpV1meY5BVLKYlmgwX"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
         "name": "Open Late",
         "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
       },
@@ -303,34 +319,22 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Pandora's Box",
-        "url": "https://open.spotify.com/album/5bX6fQe78SeDHwYvbrWDrh"
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "Pandora's Box",
-      "url": "https://open.spotify.com/track/6zpeQpV1meY5BVLKYlmgwX"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
-        "name": "FUDGE",
-        "url": "https://open.spotify.com/album/4Qy4QeE6QL941JsIyEVqF2"
-      },
-      "artists": [
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
         }
       ],
-      "duration_ms": 328169,
-      "name": "California",
-      "url": "https://open.spotify.com/track/3meidwPTWoJ5SwszG5jm6S"
+      "duration_ms": 228563,
+      "name": "Bodies On The Floor (feat. Clipse)",
+      "url": "https://open.spotify.com/track/58MoSwpvzOxZAgk7dMb3ci"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -351,22 +355,18 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
+        "name": "FUDGE",
+        "url": "https://open.spotify.com/album/4Qy4QeE6QL941JsIyEVqF2"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 228563,
-      "name": "Bodies On The Floor (feat. Clipse)",
-      "url": "https://open.spotify.com/track/58MoSwpvzOxZAgk7dMb3ci"
+      "duration_ms": 328169,
+      "name": "California",
+      "url": "https://open.spotify.com/track/3meidwPTWoJ5SwszG5jm6S"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Aldehydes and Ketones",
-        "url": "https://open.spotify.com/album/5Tpa6kBE6UJSDo6r6mX4sH"
-      },
-      "artists": [
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 242002,
-      "name": "Aldehydes and Ketones",
-      "url": "https://open.spotify.com/track/6n9heLkoKbQu2uOQFDRPaj"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
         "name": "The Calm",
         "url": "https://open.spotify.com/album/0hIUOteR2XPKT11weRpjh3"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
+        "name": "Aldehydes and Ketones",
+        "url": "https://open.spotify.com/album/5Tpa6kBE6UJSDo6r6mX4sH"
+      },
+      "artists": [
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "duration_ms": 242002,
+      "name": "Aldehydes and Ketones",
+      "url": "https://open.spotify.com/track/6n9heLkoKbQu2uOQFDRPaj"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
         "name": "SOVEREIGN LAND",
         "url": "https://open.spotify.com/album/6nedzUexHeu5kEYuRmD4PU"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 133359,
       "name": "SOVEREIGN LAND",
       "url": "https://open.spotify.com/track/3akNcl19u2UUXBtXmRWLxe"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 190216,
+      "name": "clean slate",
+      "url": "https://open.spotify.com/track/4goxmr5LoUfcJCOikYZKj0"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -491,22 +507,6 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "BLUE",
-        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 190216,
-      "name": "clean slate",
-      "url": "https://open.spotify.com/track/4goxmr5LoUfcJCOikYZKj0"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
         "name": "Jazz dreams",
         "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 218000,
       "name": "If you wanna come down",
       "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -539,18 +555,18 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "the 5 stages of heartbreak",
-        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6YDXIYzh182auw0avklzbq"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 181769,
-      "name": "the 5 stages of heartbreak",
-      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+      "duration_ms": 194431,
+      "name": "Dance It Out",
+      "url": "https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -587,22 +603,6 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6YDXIYzh182auw0avklzbq"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 194431,
-      "name": "Dance It Out",
-      "url": "https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
         "name": "Skin To Skin",
         "url": "https://open.spotify.com/album/1KgKToGhVrqfJPifL98Agi"
       },
@@ -619,42 +619,6 @@
       "duration_ms": 192700,
       "name": "Skin To Skin",
       "url": "https://open.spotify.com/track/0Jx2lddkneaMPRH650RNMO"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
-        "name": "Black Stars",
-        "url": "https://open.spotify.com/album/7kQnxXjUyVp8zpJjWQiI8c"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        },
-        {
-          "name": "The Hunger Games",
-          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
-        }
-      ],
-      "duration_ms": 207090,
-      "name": "Black Stars - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "url": "https://open.spotify.com/track/15KQWusfsjxDI9I67inPqK"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
-        "name": "meet me in my head",
-        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "i won't see you anymore",
-      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -691,6 +655,22 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
+        "name": "meet me in my head",
+        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "i won't see you anymore",
+      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/3S2u5fv2cIUi8a3ByngJ5G"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 143502,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/1cwsPU0nmZE7fllF580Xdt"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Black Stars",
+        "url": "https://open.spotify.com/album/7kQnxXjUyVp8zpJjWQiI8c"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 207090,
+      "name": "Black Stars - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/15KQWusfsjxDI9I67inPqK"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
+        "name": "The Man Who Lost it All",
+        "url": "https://open.spotify.com/album/7eKe6XQHMlm9g5lsqSuEj8"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 226971,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4C2wWvIHwW3fMiD2l5VPXz"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
         "name": "Lonely by Another Name",
         "url": "https://open.spotify.com/album/7zGuV7WxIznZ5dxithXlvN"
       },
@@ -739,6 +755,22 @@
       "duration_ms": 184436,
       "name": "Lonely by Another Name",
       "url": "https://open.spotify.com/track/2QXjZJP4MBo3EnM8HK8lOP"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 174088,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -771,38 +803,6 @@
       "duration_ms": 140616,
       "name": "Pretty Toes",
       "url": "https://open.spotify.com/track/4ATxKuVhO2m7TmvZsGy567"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
-        "name": "The Man Who Lost it All",
-        "url": "https://open.spotify.com/album/7eKe6XQHMlm9g5lsqSuEj8"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 226971,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4C2wWvIHwW3fMiD2l5VPXz"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 174088,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Want You More",
-        "url": "https://open.spotify.com/album/6wRhGRWh7mHerr3VT6x2mT"
-      },
-      "artists": [
-        {
-          "name": "Maria Petra",
-          "url": "https://open.spotify.com/artist/7ozwKwvNxzQzlgsD1TNG65"
-        }
-      ],
-      "duration_ms": 206990,
-      "name": "Want You More",
-      "url": "https://open.spotify.com/track/09iNPNZu7z1WHtWn4l7CUk"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
         "name": "Goblin's Head",
         "url": "https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
+        "name": "Want You More",
+        "url": "https://open.spotify.com/album/6wRhGRWh7mHerr3VT6x2mT"
+      },
+      "artists": [
+        {
+          "name": "Maria Petra",
+          "url": "https://open.spotify.com/artist/7ozwKwvNxzQzlgsD1TNG65"
+        }
+      ],
+      "duration_ms": 206990,
+      "name": "Want You More",
+      "url": "https://open.spotify.com/track/09iNPNZu7z1WHtWn4l7CUk"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
         "name": "Benjamin",
         "url": "https://open.spotify.com/album/5YoD2IL272Cl7rWY64sOjq"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 144936,
       "name": "Benjamin",
       "url": "https://open.spotify.com/track/4v7NvcYqZrlfmWmH8ZYUsz"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
-        "name": "Superteam",
-        "url": "https://open.spotify.com/album/0HSjMJTVrsyI4mjuz9pKTg"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "Superteam",
-      "url": "https://open.spotify.com/track/57Bdu0WSwNhwqU2YtVprvR"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Chosen One",
-        "url": "https://open.spotify.com/album/6KiJHWnUx7PC0luCoNhIMN"
+        "name": "Superteam",
+        "url": "https://open.spotify.com/album/0HSjMJTVrsyI4mjuz9pKTg"
       },
       "artists": [
         {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Chosen One",
-      "url": "https://open.spotify.com/track/4CbORVOeuig8BjedYybW4g"
+      "duration_ms": 160773,
+      "name": "Superteam",
+      "url": "https://open.spotify.com/track/57Bdu0WSwNhwqU2YtVprvR"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -1007,18 +991,34 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Andersson Funeral Home",
-        "url": "https://open.spotify.com/album/4LVy5KnKjaN6h6DBC8lVVD"
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/6KiJHWnUx7PC0luCoNhIMN"
       },
       "artists": [
         {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
         }
       ],
-      "duration_ms": 225687,
-      "name": "Good timing (Good girl) - Bonus Track",
-      "url": "https://open.spotify.com/track/6cVIIAFjpYkNH5slgvYIOh"
+      "duration_ms": 368000,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/4CbORVOeuig8BjedYybW4g"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Win Win",
+        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 163479,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/1Jl5HcTkOOKKLQ4IiT7odi"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Win Win",
-        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f"
+        "name": "Andersson Funeral Home",
+        "url": "https://open.spotify.com/album/4LVy5KnKjaN6h6DBC8lVVD"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
         }
       ],
-      "duration_ms": 163479,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/1Jl5HcTkOOKKLQ4IiT7odi"
+      "duration_ms": 225687,
+      "name": "Good timing (Good girl) - Bonus Track",
+      "url": "https://open.spotify.com/track/6cVIIAFjpYkNH5slgvYIOh"
     },
     {
       "added_at": "2026-10-23 00:00:25",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "BUILD A BEAR",
-        "url": "https://open.spotify.com/album/5kOkThWQPWMB0YPP1phezJ"
-      },
-      "artists": [
-        {
-          "name": "Claar",
-          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
-        }
-      ],
-      "duration_ms": 172962,
-      "name": "BUILD A BEAR",
-      "url": "https://open.spotify.com/track/0Iq6K0oNPgy8FdYlx0w6Mx"
-    },
-    {
-      "added_at": "2026-10-23 00:00:25",
-      "album": {
         "name": "Whole World Round / Fly",
         "url": "https://open.spotify.com/album/65SPqtCF6eAsVVigq6cRdO"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 179294,
       "name": "Fly",
       "url": "https://open.spotify.com/track/1TWxiU8jL0blI5oxWfMgBq"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "BUILD A BEAR",
+        "url": "https://open.spotify.com/album/5kOkThWQPWMB0YPP1phezJ"
+      },
+      "artists": [
+        {
+          "name": "Claar",
+          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
+        }
+      ],
+      "duration_ms": 172962,
+      "name": "BUILD A BEAR",
+      "url": "https://open.spotify.com/track/0Iq6K0oNPgy8FdYlx0w6Mx"
     },
     {
       "added_at": "2026-10-23 00:00:25",

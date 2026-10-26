@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,158 songs - 3 day 4 hr 58 min
+1,159 songs - 3 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Jesus Has Won](https://open.spotify.com/track/2Zs2RddCnSBPQJXZyVXCSB) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Jesus Has Won](https://open.spotify.com/album/2C9WtoYZCIoZgOeDrTP0XG) | 3:26 | 2026-06-19 | 2026-09-25 |
 | [Jesus is Here](https://open.spotify.com/track/1Yom3J7GN8Br9G7eME6blJ) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi), [Ackhim](https://open.spotify.com/artist/0b1sRWMoNA6mOxm9Nhbdcx) | [Jesus is Here](https://open.spotify.com/album/5iEX891IxCvC4tAHLrT9F7) | 1:34 | 2025-03-14 | 2025-05-09 |
 | [Jesus Is King](https://open.spotify.com/track/7nOj6HWJnAoJ8zP7JsLDZl) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Jesus Is King](https://open.spotify.com/album/6LFJUTzIRS3xcdb1bE875i) | 7:46 | 2026-02-13 | 2026-03-27 |
+| [Jesus is Life \(JIL\)](https://open.spotify.com/track/1mSEK1rRQoejMU2ckPVoXf) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Jesus is Life \(JIL\)](https://open.spotify.com/album/7shBQ7fCgyMPcApzz5HBu9) | 4:23 | 2026-10-23 |  |
 | [Jesus Made \(JM\)](https://open.spotify.com/track/3Zow6vtdrl7POvw0ihW2LA) | [Feezeh](https://open.spotify.com/artist/1mON6A1qqbSP8RUgJWHzRA), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Jesus Made \(JM\)](https://open.spotify.com/album/23ic4HHTsaT6dW4R3GH3Py) | 2:22 | 2024-10-25 | 2025-02-28 |
 | [Jesus Party](https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [More Life](https://open.spotify.com/album/1VJ9UkV3ladKpeJUAFEUca) | 2:08 | 2025-09-26 | 2025-10-17 |
 | [Jesus Power](https://open.spotify.com/track/41hM7dA3npzIv7bhtHpIdh) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [Lydia Lifted](https://open.spotify.com/artist/1YvQlV2o6z5XvcAeKCHvZX) | [Jesus Power](https://open.spotify.com/album/5p3mZ98ws7KXGf9CZsF5ae) | 2:52 | 2025-08-15 | 2025-10-10 |
@@ -675,7 +676,7 @@
 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 | 2024-12-13 | 2025-11-14 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 | 2024-08-26 |
 | [My Papa](https://open.spotify.com/track/2EZdxvhQQ4TM4bpSCNKJVy) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [My Papa](https://open.spotify.com/album/0y57n4C6UaDIhNZRFK3fhL) | 6:30 | 2025-11-07 | 2026-01-15 |
-| [MY PRAISE](https://open.spotify.com/track/2ZGP7KnF359WArpZhifwDW) | [Joshua Israel PF](https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F) | [MY PRAISE](https://open.spotify.com/album/5b2gLVsnN2F0zEw6BqF9hB) | 7:41 | 2026-09-18 |  |
+| [MY PRAISE](https://open.spotify.com/track/2ZGP7KnF359WArpZhifwDW) | [Joshua Israel PF](https://open.spotify.com/artist/0orGfqicES8VglKwgfIN7F) | [MY PRAISE](https://open.spotify.com/album/5b2gLVsnN2F0zEw6BqF9hB) | 7:41 | 2026-09-18 | 2026-10-26 |
 | [My Praise \- Live Recording](https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Muyiwa Riversongz](https://open.spotify.com/artist/5ZNX2ftHqEekKBVpRfv5BX) | [My Praise \(Live Recording\)](https://open.spotify.com/album/3tMwkJ4APzjfk7qziJUxYY) | 10:28 | 2026-04-17 |  |
 | [My Soul Sings](https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Hallelu](https://open.spotify.com/album/0ZIZgcU4bji9Dlp8Bkd7Xt) | 2:35 | 2026-07-24 | 2026-09-25 |
 | [My Story](https://open.spotify.com/track/6M3Vq3UN385Ds5OQS0T7BY) | [Signum Music](https://open.spotify.com/artist/0IXW4mIchkyX10H9rGo2rZ), [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [My Story](https://open.spotify.com/album/3JxyZ8fua0OYL06p4eRsoY) | 2:33 | 2026-04-24 | 2026-06-26 |

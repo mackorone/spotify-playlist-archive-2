@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 20891,
+  "num_followers": 20894,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAAKKl8nqXEWdMe8pB1NV9Zq",
+  "snapshot_id": "atv1AAAAAADKjjLJvJy6490TmicJ6+am",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOT AS A BIC",
-        "url": "https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "HOT AS A BIC",
-      "url": "https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embrace It (Remix) (feat. Sexyy Red, Flo Milli, RJ Pasin)",
         "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 202434,
       "name": "Embrace It (feat. Sexyy Red, Flo Milli) - Remix",
       "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOT AS A BIC",
+        "url": "https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "HOT AS A BIC",
+      "url": "https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 168451,
+      "name": "Bed Time",
+      "url": "https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bando Stone and The New World",
         "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 225906,
       "name": "Talk My Shit (feat. Amaarae & Flo Milli)",
       "url": "https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 168451,
-      "name": "Bed Time",
-      "url": "https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.T.W",
-        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 124808,
-      "name": "B.T.W",
-      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ho, why is you here ?",
         "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 203043,
       "name": "Like That Bitch",
       "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B.T.W",
+        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 124808,
+      "name": "B.T.W",
+      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
     },
     {
       "added_at": null,

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 39 likes - 11 songs - 39 min 43 sec
+[royva06](https://open.spotify.com/user/royva06) - 39 likes - 11 songs - 42 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [fuck u](https://open.spotify.com/track/0Y0JQ4O6GPbMJrfuhOA4mY) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [pockets](https://open.spotify.com/album/38IMPXGLJgku1bA3zwSCrn) | 2:53 |
-| 2 | [Birdseed](https://open.spotify.com/track/29CNPcHQnpnc00lbPIV1Dw) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:02 |
-| 3 | [Dumb Feeling](https://open.spotify.com/track/4HPd9WMnQqp3xXAOYeGexw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:10 |
-| 4 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 |
-| 5 | [Purple Heather](https://open.spotify.com/track/6HOEvcvvRU6eMtI96SA2Es) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Hard Nose the Highway](https://open.spotify.com/album/2F6h5yYUVNcqqeCG55O8Rw) | 5:43 |
-| 6 | [Lonesome, On'ry and Mean](https://open.spotify.com/track/5Y2Tn6xgdV4R3BWEX9URaX) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Lonesome, On'ry & Mean \(Expanded Edition\)](https://open.spotify.com/album/53lbB7LYjPft3wNHshbgon) | 3:41 |
-| 7 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
-| 8 | [Danger \- Keep Away](https://open.spotify.com/track/3muqbu7Pc3iwtafZc6Oymw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3 The Subliminal Verses](https://open.spotify.com/album/3kVZ0rQgW6yZpiTmDP2Bpm) | 3:13 |
-| 9 | [Here Today](https://open.spotify.com/track/7MIwZph61NqaneMo5DEpZW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(40th Anniversary Edition\)](https://open.spotify.com/album/1yMPDqzYuQ4TI10ICKlbzW) | 3:07 |
-| 10 | [Splanky](https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:37 |
-| 11 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
+| 1 | [Crying Laughing Loving Lying \(From "The Holdovers"\)](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 |
+| 2 | [Mountain Queen](https://open.spotify.com/track/7B3vlydTgi16aYoGokv0qX) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 2:57 |
+| 3 | [Try Again](https://open.spotify.com/track/54uLTcjNraWuwjqLrDhG23) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/1ftUEfy0whqUibQrUY6wNT) | 4:44 |
+| 4 | [Ra Ra Etc.](https://open.spotify.com/track/6FzhD1qFwYfzgVfY7ECni5) | [Me Like Bees](https://open.spotify.com/artist/6b0G9aPXmaLLDWJHhCrv1Q) | [The Ides](https://open.spotify.com/album/2UC6E2eFp6ixqvbe4oVjex) | 3:24 |
+| 5 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 |
+| 6 | [Stories up High](https://open.spotify.com/track/4QiL2el2iAfbToqtmrgPqb) | [Laney Jones](https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS) | [Stories up High](https://open.spotify.com/album/2Obbm5E6IR6nNBmvSKrcl9) | 2:58 |
+| 7 | [Washer](https://open.spotify.com/track/3oNP9Gh1NY4sjqaVUaNjTQ) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 8:50 |
+| 8 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |
+| 9 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 |
+| 10 | [Canyon](https://open.spotify.com/track/1Hf2JdAVewsNTWKumoo67k) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Wish You Were Here](https://open.spotify.com/album/7d0SVeZ9lBZ83EBAn6DgWu) | 2:44 |
+| 11 | [Blue \(Da Ba Dee\) \- Gabry Ponte Video Edit](https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 3:39 |
 
-Snapshot ID: `AAAMoejN8VgoSKW6Bs+7zDeykzKHScr4`
+Snapshot ID: `AAAMtygTeL7hYejOzA0NbOdmbAhYHwI5`

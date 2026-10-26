@@ -1,12 +1,12 @@
 {
   "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
-  "num_followers": 21875,
+  "num_followers": 21876,
   "original_name": "This Is Eir Aoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAD8W2Lv9XA86SEsL7S6KIqt",
+  "snapshot_id": "atv1AAAAAACDcdbYG42SRRXw+76Nk1hL",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 260693,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
         "url": "https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ"
       },
@@ -247,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLAU",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+        "name": "Walk on your way",
+        "url": "https://open.spotify.com/album/2xvNbAscHnJSTrggMk98vG"
       },
       "artists": [
         {
@@ -256,9 +272,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 260693,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM"
+      "duration_ms": 185371,
+      "name": "Walk on your way",
+      "url": "https://open.spotify.com/track/7zqoPFIlmZpFZMKhhHFXSo"
     },
     {
       "added_at": null,
@@ -275,22 +291,6 @@
       "duration_ms": 214453,
       "name": "\u5fc3\u81d3",
       "url": "https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walk on your way",
-        "url": "https://open.spotify.com/album/2xvNbAscHnJSTrggMk98vG"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Walk on your way",
-      "url": "https://open.spotify.com/track/7zqoPFIlmZpFZMKhhHFXSo"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST -E-",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+        "name": "\u9752\u304f\u3001\u9752\u304f",
+        "url": "https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 380653,
-      "name": "\u30af\u30ed\u30a4\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8"
+      "duration_ms": 272300,
+      "name": "\u9752\u304f\u3001\u9752\u304f",
+      "url": "https://open.spotify.com/track/4x8y91an0erARwUUTifXWP"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9752\u304f\u3001\u9752\u304f",
-        "url": "https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc"
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 272300,
-      "name": "\u9752\u304f\u3001\u9752\u304f",
-      "url": "https://open.spotify.com/track/4x8y91an0erARwUUTifXWP"
+      "duration_ms": 380653,
+      "name": "\u30af\u30ed\u30a4\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 253826,
-      "name": "\u30bf\u30a4\u30e0\u30c8\u30e9\u30d9\u30e9\u30fc",
-      "url": "https://open.spotify.com/track/4dd3qCZduUPVNX4gC1k4YF"
+      "duration_ms": 217013,
+      "name": "\u9749\u9746",
+      "url": "https://open.spotify.com/track/0DgWkTYzwn7PryhJIYWTrW"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 217013,
-      "name": "\u9749\u9746",
-      "url": "https://open.spotify.com/track/0DgWkTYzwn7PryhJIYWTrW"
+      "duration_ms": 253826,
+      "name": "\u30bf\u30a4\u30e0\u30c8\u30e9\u30d9\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/4dd3qCZduUPVNX4gC1k4YF"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IGNITE",
-        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 300960,
-      "name": "\u6ce1\u6cab",
-      "url": "https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FRAGMENT \uff08Special Edition\uff09",
         "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 252533,
       "name": "FROATIN'",
       "url": "https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 300960,
+      "name": "\u6ce1\u6cab",
+      "url": "https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd"
     },
     {
       "added_at": null,

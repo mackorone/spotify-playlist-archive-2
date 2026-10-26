@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,674 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,677 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 30 | [September](https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4) | 4:16 |
 | 31 | [Be Ever Wonderful](https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:08 |
 | 32 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 |
-| 33 | [Brazilian Rhyme](https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Live in Rio](https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM) | 2:09 |
-| 34 | [Fall in Love with Me](https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:52 |
+| 33 | [Fall in Love with Me](https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:52 |
+| 34 | [Would You Mind](https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Constellations: The Universe of Earth, Wind & Fire](https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf) | 2:21 |
 | 35 | [I'll Write a Song for You](https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:24 |
-| 36 | [Would You Mind](https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Constellations: The Universe of Earth, Wind & Fire](https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf) | 2:21 |
+| 36 | [Brazilian Rhyme](https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Live in Rio](https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM) | 2:09 |
 | 37 | [Saturday Nite](https://open.spotify.com/track/1XCt27nKEY66dBkvBWBmnV) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 4:02 |
 | 38 | [Sun Goddess \(feat\. Ramsey Lewis\)](https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Sun Goddess](https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5) | 8:29 |
 | 39 | [Gratitude](https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 3:26 |

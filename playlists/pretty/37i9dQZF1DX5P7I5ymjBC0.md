@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,706 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,726 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 39 | [Natkhat Nadiya \- From "Song of the Rive Ganga"](https://open.spotify.com/track/4la89hn6yNlbm2jcBXliY1) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Natkhat Nadiya \(From "Song of the Rive Ganga"\)](https://open.spotify.com/album/22jn06qdCRudAJi5lciG6G) | 5:39 |
 | 40 | [Mannde Ji Mala](https://open.spotify.com/track/1Wf25igBukyJcb684oEYvY) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Vela Ghana Bhil](https://open.spotify.com/artist/2riag1dR98hqvRbTagutOg), [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Mannde Ji Mala](https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh) | 5:29 |
 | 41 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
-| 42 | [Milan \- Live](https://open.spotify.com/track/4WLwUAMqUPm59jvu7hQauG) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Unison \(Live at the Oddbird Theatre\)](https://open.spotify.com/album/1erFgdErlAtz13XDglgzbh) | 7:37 |
+| 42 | [Kaadambari](https://open.spotify.com/track/0CIftzAZ6bp9I3UbjgZ1J8) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Kaadambari](https://open.spotify.com/album/4FGpHVQk0L8BaVZZRON3h5) | 6:26 |
 | 43 | [Nayi Bhor](https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 6:05 |
-| 44 | [Kaadambari](https://open.spotify.com/track/0CIftzAZ6bp9I3UbjgZ1J8) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Kaadambari](https://open.spotify.com/album/4FGpHVQk0L8BaVZZRON3h5) | 6:26 |
+| 44 | [Milan \- Live](https://open.spotify.com/track/4WLwUAMqUPm59jvu7hQauG) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Unison \(Live at the Oddbird Theatre\)](https://open.spotify.com/album/1erFgdErlAtz13XDglgzbh) | 7:37 |
 | 45 | [Sajna Barse](https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Arpita Chatterjee](https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm), [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Chandrani Ganguli](https://open.spotify.com/artist/1axbRUQFlCwbAeDIeONhM8) | [Bapi Bari Jaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt) | 4:24 |
 | 46 | [Ae Re Chanda, Pt\. 4 \(Tillana\)](https://open.spotify.com/track/4lcm5mQMmq6EypLVSnn3aq) | [Shankar Tucker](https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR), [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Filament](https://open.spotify.com/album/7dF6lWNssoGEMoWEaJexor) | 3:39 |
 | 47 | [Dream](https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp) | [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Vari](https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI) | 3:44 |

@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: comment debord
 
-718 songs - 1 day 16 hr 42 min
+719 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ) | [teen\*](https://open.spotify.com/artist/0rippXAXb6jSyQIc8BnEtd), [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [Bleed Me Back to Yesterday](https://open.spotify.com/album/37OwUtKhUtSDdKeSaNu0Um) | 3:11 | 2026-01-02 | 2026-03-21 |
 | [Blonde à personne](https://open.spotify.com/track/3kvaIljDaI3rGbUkHfRd6r) | [Alice Bro](https://open.spotify.com/artist/2EgU3uf1M88Fz6Iz7HHk4o) | [Blonde à personne](https://open.spotify.com/album/2AfLb4XJFWhiFs3ODg1SbI) | 3:01 | 2025-12-12 | 2026-03-14 |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 | 2025-10-11 |
+| [Blue as the Rain](https://open.spotify.com/track/6ie8KdzMFEZxKUpDmD2pSD) | [Alex Henry Foster](https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY) | [The Fragile Beauty \(Of New Morning Hopes\)](https://open.spotify.com/album/56ooh2IxvuvMA9xKg04OLg) | 6:42 | 2026-10-23 |  |
 | [boucan à l'étage](https://open.spotify.com/track/2cU2yboOs2Cyzc1RlOu3fy) | [Peypo](https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc), [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [WHY ALWAYS MUSIC?](https://open.spotify.com/album/0AaHsyohFkudAoCGmCmOYb) | 1:52 | 2026-03-27 | 2026-04-25 |
 | [Boulet](https://open.spotify.com/track/5GOae0JQzudKXWayFPmbqj) | [Patche](https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1) | [Mode](https://open.spotify.com/album/7IpOclL2Ol5dVGhOufaqjI) | 4:03 | 2026-09-18 |  |
 | [Boys Will Be Boys](https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Contre\-sens](https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX) | 3:53 | 2024-05-24 | 2025-10-11 |
@@ -339,7 +340,7 @@
 | [Kill](https://open.spotify.com/track/4WN5VZDsmxViXaBqEhkCvJ) | [17sport](https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT) | [Kill](https://open.spotify.com/album/0cDEyMaf68HsTOGte8PJZz) | 4:06 | 2026-03-20 | 2026-03-28 |
 | [KINDAWRONG](https://open.spotify.com/track/556NI5YjQJOSHFr2e94j4i) | [XLOWW](https://open.spotify.com/artist/1qmIFE8RjQ2TK6N1oJ4p9Y), [Ose V](https://open.spotify.com/artist/1CqiILmNa0jj9nNMuMGFzM) | [throw awayy](https://open.spotify.com/album/6fc1gNcrwyHvMIeRZHWRma) | 2:22 | 2026-05-01 | 2026-05-30 |
 | [L'abomination](https://open.spotify.com/track/62NFnzUA3hD4X76idybBEg) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [L'abomination](https://open.spotify.com/album/3pm7felj4C6KzFa2LslxxL) | 2:57 | 2026-03-13 | 2026-05-16 |
-| [l'amour aux temps des samouraïs](https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [un](https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc) | 2:57 | 2026-08-21 |  |
+| [l'amour aux temps des samouraïs](https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [un](https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc) | 2:57 | 2026-08-21 | 2026-10-26 |
 | [L'amour en sang](https://open.spotify.com/track/61QLuj5GO0mhBjgBHhITeb) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [L'amour en sang](https://open.spotify.com/album/5JqRJVt3j6ObdQQMWKRLUJ) | 3:07 | 2026-02-06 | 2026-07-18 |
 | [L'amour ici](https://open.spotify.com/track/11vTk0GPbXFT5lOVbFh9pN) | [Alexandra Moreno](https://open.spotify.com/artist/4rbYig3C1deu91CnhylYvZ) | [Ancrage](https://open.spotify.com/album/2xYihRjyr2oTrHO65B7P0z) | 3:25 | 2026-09-25 | 2026-10-03 |
 | [l'avenir et moi](https://open.spotify.com/track/1QOlHb6o44ke1EYGTmGn1s) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 3:39 | 2026-06-05 |  |

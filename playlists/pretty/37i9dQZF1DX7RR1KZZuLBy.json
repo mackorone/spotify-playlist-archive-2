@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 69711,
+  "num_followers": 69740,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -201,24 +201,20 @@
       "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 312254,
-      "name": "The Blood (Live)",
-      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -249,20 +245,24 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+      "duration_ms": 312254,
+      "name": "The Blood (Live)",
+      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -673,6 +673,30 @@
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
+      "added_at": "2026-03-06 00:01:08",
+      "album": {
+        "name": "Imisebenzi Yakho",
+        "url": "https://open.spotify.com/album/4ZyZ3EgwP2c15JSB13tmqf"
+      },
+      "artists": [
+        {
+          "name": "INNOVATIVE DJz",
+          "url": "https://open.spotify.com/artist/1SHpF8TvU1p95Yqh0iQje6"
+        },
+        {
+          "name": "Icon Lamaf",
+          "url": "https://open.spotify.com/artist/39EBQatJevxUioe4lnkNym"
+        },
+        {
+          "name": "Wade Yarrow",
+          "url": "https://open.spotify.com/artist/0MpdjMIaFstNet9fbWNh6Y"
+        }
+      ],
+      "duration_ms": 276192,
+      "name": "Imisebenzi Yakho",
+      "url": "https://open.spotify.com/track/0TUOxZgbRalGJJP9jbknEf"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
@@ -711,30 +735,6 @@
       "duration_ms": 298878,
       "name": "In The Name of Jesus (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
-    },
-    {
-      "added_at": "2026-03-06 00:01:08",
-      "album": {
-        "name": "Imisebenzi Yakho",
-        "url": "https://open.spotify.com/album/4ZyZ3EgwP2c15JSB13tmqf"
-      },
-      "artists": [
-        {
-          "name": "INNOVATIVE DJz",
-          "url": "https://open.spotify.com/artist/1SHpF8TvU1p95Yqh0iQje6"
-        },
-        {
-          "name": "Icon Lamaf",
-          "url": "https://open.spotify.com/artist/39EBQatJevxUioe4lnkNym"
-        },
-        {
-          "name": "Wade Yarrow",
-          "url": "https://open.spotify.com/artist/0MpdjMIaFstNet9fbWNh6Y"
-        }
-      ],
-      "duration_ms": 276192,
-      "name": "Imisebenzi Yakho",
-      "url": "https://open.spotify.com/track/0TUOxZgbRalGJJP9jbknEf"
     },
     {
       "added_at": "2024-08-16 00:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2584635,
+  "num_followers": 2584521,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -715,30 +715,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Close My Eyes (feat. SACHA)",
-        "url": "https://open.spotify.com/album/4HzK5mBjKIXKmOHFZDxgoA"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 163018,
-      "name": "Close My Eyes (feat. SACHA)",
-      "url": "https://open.spotify.com/track/4Kv3BQhoqR0YboA8xvTyWC"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "World Away",
         "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 187686,
       "name": "World Away",
       "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Close My Eyes (feat. SACHA)",
+        "url": "https://open.spotify.com/album/4HzK5mBjKIXKmOHFZDxgoA"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 163018,
+      "name": "Close My Eyes (feat. SACHA)",
+      "url": "https://open.spotify.com/track/4Kv3BQhoqR0YboA8xvTyWC"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "Going Existential In The Rave",
+        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Going Existential In The Rave",
+      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "Dracula (with JENNIE) [Boys Noize Disko Version]",
         "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 187384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Going Existential In The Rave",
-        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Going Existential In The Rave",
-      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
+        "name": "Enjoy the Silence (Don Diablo Version)",
+        "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "MONO|CHROME",
+          "url": "https://open.spotify.com/artist/2XPEDEcSl9yBGtTnPjg2Ms"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Enjoy the Silence - Don Diablo Version",
+      "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
         "name": "On My Own (Feat. Darla Jade)",
         "url": "https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 220439,
       "name": "On My Own (Feat. Darla Jade)",
       "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Enjoy the Silence (Don Diablo Version)",
-        "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "MONO|CHROME",
-          "url": "https://open.spotify.com/artist/2XPEDEcSl9yBGtTnPjg2Ms"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Enjoy the Silence - Don Diablo Version",
-      "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -1955,30 +1955,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Gravity (feat. SACHA)",
-        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 180849,
-      "name": "Gravity (feat. SACHA)",
-      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Every Single Day (feat. Dhany)",
         "url": "https://open.spotify.com/album/5qH7ySbYFHOaB50ZiQNurO"
       },
@@ -1999,6 +1975,30 @@
       "duration_ms": 192461,
       "name": "Every Single Day (feat. Dhany)",
       "url": "https://open.spotify.com/track/4zcpFctawL6csNjqjkiQML"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Gravity (feat. SACHA)",
+        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 180849,
+      "name": "Gravity (feat. SACHA)",
+      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2119,26 +2119,18 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
+        "name": "Reckless 69",
+        "url": "https://open.spotify.com/album/4jJOoFJHVqN2Qnohqe9bZP"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        },
-        {
-          "name": "Binary Finary",
-          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
         }
       ],
-      "duration_ms": 218482,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb"
+      "duration_ms": 153529,
+      "name": "Reckless 69",
+      "url": "https://open.spotify.com/track/1E0ZDpi7dXbZAM5LuSG5uk"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2159,6 +2151,30 @@
       "duration_ms": 184615,
       "name": "The Realm",
       "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2187,18 +2203,22 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Reckless 69",
-        "url": "https://open.spotify.com/album/4jJOoFJHVqN2Qnohqe9bZP"
+        "name": "Do Our Thing",
+        "url": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF"
       },
       "artists": [
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
         }
       ],
-      "duration_ms": 153529,
-      "name": "Reckless 69",
-      "url": "https://open.spotify.com/track/1E0ZDpi7dXbZAM5LuSG5uk"
+      "duration_ms": 178295,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/5GXyDd4l7oO8qVrnOd5WSd"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2279,22 +2299,6 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Risk Everything",
-        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Risk Everything",
-      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
         "name": "Motel",
         "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
       },
@@ -2311,22 +2315,18 @@
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
-        "name": "Do Our Thing",
-        "url": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF"
+        "name": "Risk Everything",
+        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Mark Reeve",
-          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 178295,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/5GXyDd4l7oO8qVrnOd5WSd"
+      "duration_ms": 153230,
+      "name": "Risk Everything",
+      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2379,6 +2379,26 @@
       "duration_ms": 181035,
       "name": "ALL OVER AGAIN",
       "url": "https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Overclock",
+        "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "duration_ms": 187998,
+      "name": "Overclock",
+      "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
     },
     {
       "added_at": "2026-10-23 04:00:50",
@@ -2459,26 +2479,6 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Overclock",
-        "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "DAMEN",
-          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
-        }
-      ],
-      "duration_ms": 187998,
-      "name": "Overclock",
-      "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
     },
     {
       "added_at": "2026-10-23 04:00:50",

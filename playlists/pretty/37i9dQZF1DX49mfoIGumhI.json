@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 288228,
+  "num_followers": 288289,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Seda",
-      "url": "https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Seda",
+      "url": "https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -607,8 +607,8 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Salvaje! 88",
-        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
+        "name": "Dueno del Soneo",
+        "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
         }
       ],
-      "duration_ms": 389840,
-      "name": "Amame en Camara Lenta",
-      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
+      "duration_ms": 338840,
+      "name": "A Mi",
+      "url": "https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -691,8 +691,8 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Dueno del Soneo",
-        "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
+        "name": "Salvaje! 88",
+        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
         }
       ],
-      "duration_ms": 338840,
-      "name": "A Mi",
-      "url": "https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU"
+      "duration_ms": 389840,
+      "name": "Amame en Camara Lenta",
+      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
     },
     {
       "added_at": "2024-07-11 00:51:42",

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77078,
+  "num_followers": 77088,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
+        "name": "DRACULA",
+        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         },
         {
-          "name": "SUUNE",
-          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+          "name": "B-Line",
+          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
         }
       ],
-      "duration_ms": 186751,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
+      "duration_ms": 182400,
+      "name": "DRACULA",
+      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -491,6 +487,30 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "SUUNE",
+          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 186751,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Planet Dust (Latte Remix)",
         "url": "https://open.spotify.com/album/6lveuYxSFFgdgL1VMOGiJT"
       },
@@ -511,6 +531,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "CLOSE2U",
+        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 224657,
+      "name": "CLOSE2U",
+      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Here For You",
         "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
       },
@@ -527,22 +563,6 @@
       "duration_ms": 202971,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "CLOSE2U",
-        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 224657,
-      "name": "CLOSE2U",
-      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -615,26 +635,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "DRACULA",
-        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "B-Line",
-          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "DRACULA",
-      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Yapa Yapa (Shut It Pls) [Serum Remix]",
         "url": "https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 198857,
       "name": "Yapa Yapa (Shut It Pls) - Serum Remix",
       "url": "https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Onslaught / Shufflin\u2019",
+        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -723,22 +739,6 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Onslaught / Shufflin\u2019",
-        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -839,22 +839,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
       },
       "artists": [
         {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
         },
         {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
         }
       ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -875,22 +875,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
       "artists": [
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
         },
         {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
         }
       ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Feel My Love",
-        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
       },
       "artists": [
         {
-          "name": "Eskei83",
-          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
         }
       ],
-      "duration_ms": 224827,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
     }
   ],
   "unique_name": "Jump Up!",
