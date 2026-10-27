@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Camilo",
-  "num_followers": 107288,
+  "num_followers": 107306,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,22 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
+        "name": "Juntos Otra Vez",
+        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
       "artists": [
         {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        },
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+      "duration_ms": 157176,
+      "name": "Odio Gitano",
+      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -331,22 +335,18 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Juntos Otra Vez",
-        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
       },
       "artists": [
         {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        },
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
         }
       ],
-      "duration_ms": 157176,
-      "name": "Odio Gitano",
-      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Bolero Triste",
-        "url": "https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Bolero Triste",
-      "url": "https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Ojos de Serpiente",
         "url": "https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 171145,
       "name": "Ojos de Serpiente",
       "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Bolero Triste",
+        "url": "https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Bolero Triste",
+      "url": "https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv"
     },
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 184461,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Agua por el rio",
         "url": "https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 188150,
       "name": "Agua por el rio",
       "url": "https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 184461,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
     },
     {
       "added_at": "2026-09-25 04:03:05",

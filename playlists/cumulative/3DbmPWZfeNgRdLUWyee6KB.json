@@ -22455,6 +22455,24 @@
     },
     {
       "album": {
+        "name": "Ser\u00e1 El Futuro",
+        "url": "https://open.spotify.com/album/6oKluKihoosfoRV7et1q3S"
+      },
+      "artists": [
+        {
+          "name": "Dakerons",
+          "url": "https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Ser\u00e1 El Futuro",
+      "url": "https://open.spotify.com/track/6PUj3A7seDMYewKxmwIUMW"
+    },
+    {
+      "album": {
         "name": "SET APART",
         "url": "https://open.spotify.com/album/00n26sNAHM2F0KMenRBrEz"
       },

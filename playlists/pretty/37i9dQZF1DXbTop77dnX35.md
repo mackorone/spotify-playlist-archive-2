@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Mavo, Olamide, King Promise,  Magixx, Shallipopi, Chella, TUFF KING and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,777 likes - 58 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,827 likes - 58 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

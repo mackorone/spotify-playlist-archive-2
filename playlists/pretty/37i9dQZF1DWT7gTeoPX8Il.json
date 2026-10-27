@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 173506,
+  "num_followers": 173556,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Cinta Mati",
-        "url": "https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M"
-      },
-      "artists": [
-        {
-          "name": "Apau Qhaliff",
-          "url": "https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Cinta Mati",
-      "url": "https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "masih ada waktunya",
         "url": "https://open.spotify.com/album/6s0GsQTvbGxhUw4YqN2LW4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 247463,
       "name": "masih ada waktunya",
       "url": "https://open.spotify.com/track/35ycHFidHC9uMvSfcQcUzg"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Cinta Mati",
+        "url": "https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M"
+      },
+      "artists": [
+        {
+          "name": "Apau Qhaliff",
+          "url": "https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Cinta Mati",
+      "url": "https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy"
     },
     {
       "added_at": "2026-09-18 00:19:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Oreozin, Meno Tody
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,113 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,060 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 11 | [Mundo Fashion](https://open.spotify.com/track/52EfPNdYLQDbv2OHOuoUue) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Mundo Fashion](https://open.spotify.com/album/0h2u1ikVqnFckItpMMVl58) | 4:01 |
 | 12 | [D&G](https://open.spotify.com/track/5eXYtjeneWaSQImbsEhroG) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [D&G](https://open.spotify.com/album/1QzAMBv8rJE1kgQK9Zs29v) | 2:15 |
 | 13 | [ODEIO SHOW PARADO](https://open.spotify.com/track/2nv5UkE1FoFrqwwO1DY7PH) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [MKULTRA](https://open.spotify.com/artist/62q4VhTETdekmQYoyws6Dl) | [ODEIO SHOW PARADO](https://open.spotify.com/album/3cYT0k8gOTEpLGX6lkh2sg) | 3:19 |
-| 14 | [QUERIA UMA CORRENTE](https://open.spotify.com/track/64Ms3HVGK9XkAWL4brW1vP) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [A FÓRMULA](https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W) | [QUERIA UMA CORRENTE](https://open.spotify.com/album/2mYZmqu4SGczKWTfhNbrhI) | 2:14 |
+| 14 | [QUERIA UMA CORRENTE](https://open.spotify.com/track/64Ms3HVGK9XkAWL4brW1vP) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [A FÓRMULA](https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W), [Canosa](https://open.spotify.com/artist/66Ybc7VR12qg2BXR0sNEEP) | [QUERIA UMA CORRENTE](https://open.spotify.com/album/2mYZmqu4SGczKWTfhNbrhI) | 2:14 |
 | 15 | [UHUM](https://open.spotify.com/track/0slzabiVhe9m7kFBbzsKHk) | [OGCapitu](https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [UHUM](https://open.spotify.com/album/1kQed3eFH2KBffsDVj56KO) | 2:09 |
 | 16 | [SHAWTY ME DEU <3](https://open.spotify.com/track/5CvFIOEsQbHyp2SIMW47r3) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [ANTES DO MENINO NASCER,](https://open.spotify.com/album/1nsEopJn7iyOY2tlzoJeI5) | 2:10 |
 | 17 | [Vamos Pro Caribe \(Antes Que Acabe Meu Dinheiro\)](https://open.spotify.com/track/4j2bbTF0aNShE6BhByUIj7) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Vamos Pro Caribe \(Antes Que Acabe Meu Dinheiro\)](https://open.spotify.com/album/2EBOq3o76cQQVVnbsSHRxG) | 2:36 |

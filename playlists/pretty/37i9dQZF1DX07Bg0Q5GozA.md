@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Zimmer90
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,900 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,873 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 44 | [Paris Worldwide](https://open.spotify.com/track/0ZKT7SvligG7WRzPSiYUjk) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv) | [Paris Worldwide](https://open.spotify.com/album/4wGaridxAfo5wH67JBLyw1) | 4:07 |
 | 45 | [Leviathan](https://open.spotify.com/track/5aszFyUeoKHAI4FxaQ7lPy) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Leviathan](https://open.spotify.com/album/41f1PgklBN9dmuc3FHfobl) | 3:01 |
 | 46 | [We Could Be Lost](https://open.spotify.com/track/5u6GURxX3K8eDWpUw2envj) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [We Could Be Lost](https://open.spotify.com/album/6BhIPqjTvWExNpJGwqTSsL) | 3:51 |
-| 47 | [Barely \- KANTEREIT Remix](https://open.spotify.com/track/0g6TY6TbXdTSQNguXVyto9) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms), [Aaron Ahrends](https://open.spotify.com/artist/5LYOADaXOeHCQIbjJAYEFn), [Severin Kantereit](https://open.spotify.com/artist/1mLRHb8iE7rNpgQbV1dNcg) | [Barely \(KANTEREIT Remix\)](https://open.spotify.com/album/5kAP7YT8Z8EqSJJ69KzEvq) | 2:59 |
+| 47 | [Barely \- KANTEREIT Remix](https://open.spotify.com/track/0g6TY6TbXdTSQNguXVyto9) | [Aaron Ahrends](https://open.spotify.com/artist/5LYOADaXOeHCQIbjJAYEFn), [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [Barely \(KANTEREIT Remix\)](https://open.spotify.com/album/5kAP7YT8Z8EqSJJ69KzEvq) | 2:59 |
 | 48 | [Needed You](https://open.spotify.com/track/7sHoawcWnNN260DCwpzAJk) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Theon Bower](https://open.spotify.com/artist/45FiG9FmVUViZtiGnYgN8M) | [Needed You](https://open.spotify.com/album/6DklTH8fcfkAqcNDkuP2HJ) | 2:48 |
 | 49 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
 | 50 | [You \- Edit](https://open.spotify.com/track/4ud0ZHYg6I2es1H2u0R997) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [You \(Edit\)](https://open.spotify.com/album/6VBP7Le7on5v806LjgHqmI) | 3:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,411 likes - 58 songs - 3 hr 27 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,423 likes - 62 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 56 | [Floating](https://open.spotify.com/track/18xRCY2rI66SvQZSLxHBlL) | [English Budgies](https://open.spotify.com/artist/3iokGJkvqXeARdkndKZbuR) | [Floating](https://open.spotify.com/album/64HM2fKH4wtLimUq6bz4kI) | 2:29 |
 | 57 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 |
 | 58 | [Rhoads](https://open.spotify.com/track/7HoeaXhjgR8M9rd6B6vD9R) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 3:03 |
+| 59 | [Colliding Into Space](https://open.spotify.com/track/367Pbr28bYyIGqWs93miSd) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Colliding Into Space](https://open.spotify.com/album/1lokk5aTuMMv3qwSCBsZLb) | 3:58 |
+| 60 | [Armour Hill](https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Armour Hill](https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw) | 4:19 |
+| 61 | [Butterfly](https://open.spotify.com/track/16O07dMipBszv1IXqPO3Bl) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [Butterfly](https://open.spotify.com/album/6fAmumUIB9Xcne6enUXwCD) | 4:31 |
+| 62 | [Hole In The Page](https://open.spotify.com/track/0YnttbLpSAZxLWF0TqYZw0) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 3:06 |
 
-Snapshot ID: `AAAHRFKq+UZ+RSKVj7n7L1AA15sy52y6`
+Snapshot ID: `AAAHSDKmh58evi591PcWNn4KuE1jIkPs`

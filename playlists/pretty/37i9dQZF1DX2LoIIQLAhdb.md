@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,497 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,502 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 5 | [Titanic](https://open.spotify.com/track/6Z7tzt8vD8pVgy58IOUKoj) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Titanic](https://open.spotify.com/album/76mqpNEK8FRHzOMZUxwDaK) | 2:59 |
 | 6 | [Hot](https://open.spotify.com/track/01Gccj2VR5W5eZMg9h8Bmi) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Hot](https://open.spotify.com/album/5FNjUU3YrOLgc09fqV9Dq7) | 2:44 |
 | 7 | [face2face \(feat\. Ronisia\)](https://open.spotify.com/track/5b5xwjnYDRatDTe3l75MON) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [HHHH²](https://open.spotify.com/album/5StEA77WBVD37guZmDD87f) | 3:24 |
-| 8 | [Yumi](https://open.spotify.com/track/1ModDRltX1IIxurk9eVLX8) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Music Monday \- Archive 001](https://open.spotify.com/album/0dUqku7bCPbLMovYBFj6k4) | 2:40 |
+| 8 | [Yumi](https://open.spotify.com/track/1ModDRltX1IIxurk9eVLX8) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Yumi \- Music Monday](https://open.spotify.com/album/0dUqku7bCPbLMovYBFj6k4) | 2:40 |
 | 9 | [Textile](https://open.spotify.com/track/5QbQdRn2FqNimyxMSr9RIR) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [Studio Session](https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda) | 2:38 |
 | 10 | [KISS ME](https://open.spotify.com/track/1bcaEVdwPEu8EoliRy8hOa) | [REA](https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ), [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE) | [KISS ME](https://open.spotify.com/album/45asXR0NIeCRKnJdt5CBVh) | 2:37 |
 | 11 | [POSITION](https://open.spotify.com/track/03PUBNIQ75G1EoQVWyn2i2) | [JEUDI](https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd) | [POSITION](https://open.spotify.com/album/6zSfpaNnuyRnKwiXXo3IsD) | 2:53 |

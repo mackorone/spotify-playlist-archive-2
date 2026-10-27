@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 211210,
+  "num_followers": 211258,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
+        "name": "Verdadeira Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Lima",
+          "url": "https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 367167,
+      "name": "Verdadeira Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
-        "name": "Verdadeira Adora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Lima",
-          "url": "https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 367167,
-      "name": "Verdadeira Adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE"
     },
     {
       "added_at": "2026-10-19 15:46:46",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
         "name": "Como Flecha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 356403,
       "name": "Como Flecha - Ao Vivo",
       "url": "https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2026-10-19 15:46:46",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
+        "name": "Azeite de Reserva",
+        "url": "https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA"
+      },
+      "artists": [
+        {
+          "name": "Thalita Roberta",
+          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
+        }
+      ],
+      "duration_ms": 213548,
+      "name": "Azeite de Reserva",
+      "url": "https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
         "name": "Hebreus 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 625714,
       "name": "Hebreus 1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
-        "name": "Azeite de Reserva",
-        "url": "https://open.spotify.com/album/7t1pm0qHvyeaJQEP2VFiXA"
-      },
-      "artists": [
-        {
-          "name": "Thalita Roberta",
-          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
-        }
-      ],
-      "duration_ms": 213548,
-      "name": "Azeite de Reserva",
-      "url": "https://open.spotify.com/track/6APGkiewBw2JUNKvnIoYDJ"
     },
     {
       "added_at": "2026-10-19 15:46:46",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
         "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 383466,
       "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
       "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": "2026-10-19 15:46:46",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar",
-        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 340411,
-      "name": "Voc\u00ea N\u00e3o Vai Parar",
-      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
         "name": "Fara\u00f3 ou Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/2EGueMHMVDoJsShvZpXrIZ"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 325026,
       "name": "Fara\u00f3 ou Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0ZeQCW8kf6jcRkv0J9TTrQ"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Vai Parar",
+        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 340411,
+      "name": "Voc\u00ea N\u00e3o Vai Parar",
+      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
     },
     {
       "added_at": "2026-10-19 15:46:46",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
+        "name": "Existe Um Deus",
+        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
+      },
+      "artists": [
+        {
+          "name": "Larissa Santos",
+          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Existe Um Deus",
+      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
         "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 647185,
       "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
-        "name": "Existe Um Deus",
-        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
-      },
-      "artists": [
-        {
-          "name": "Larissa Santos",
-          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Existe Um Deus",
-      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
     },
     {
       "added_at": "2026-10-19 15:46:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 792 songs - 2 day 3 hr 23 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 796 songs - 2 day 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -800,5 +800,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 790 | [raindrops \(an angel cried\)](https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 0:37 |
 | 791 | [Bird](https://open.spotify.com/track/5LtqJkOoeaAjN2vwLXldcC) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr) | 3:22 |
 | 792 | [Goodbye to All That](https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [A Mile South of Heaven](https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7) | 3:19 |
+| 793 | [NO QUITTER](https://open.spotify.com/track/7M5u29tvNh3MjbL2EFhjXn) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [CITIZEN'S ARREST](https://open.spotify.com/album/6X8fv6u0sNuubwuev2M1eg) | 1:58 |
+| 794 | [Fidelity](https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh) | 3:46 |
+| 795 | [Only Girl](https://open.spotify.com/track/1IjFsLye5xTyYD3UkMXPCR) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 3:36 |
+| 796 | [Posters](https://open.spotify.com/track/7CSEImi7wq3uzOIg1go5Yj) | [Jeffrey Lewis DNU](https://open.spotify.com/artist/4HAZsKeTudGsYd978p7BKy), [Jack Lewis](https://open.spotify.com/artist/6RTpX8f2rtG20Z7GAyZbfq) | [City & Eastern Songs](https://open.spotify.com/album/6LprZiFVkf1egB6zr0W2SZ) | 2:55 |
 
-Snapshot ID: `AAAJ3J1dv/rVZpNQOE47Y90isSgFpiV7`
+Snapshot ID: `AAAJ4livkxX4hvny2RgBfQrujyaba3RT`

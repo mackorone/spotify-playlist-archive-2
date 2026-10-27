@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1540920,
+  "num_followers": 1540708,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 191107,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Peli De Terror",
         "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 162857,
       "name": "Peli De Terror",
       "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "Malas Ma\u00f1as",
         "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "La Falda",
-        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "La Falda",
-      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "After (feat. Young Miko)",
         "url": "https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 159528,
-      "name": "For Eva",
-      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "mosca",
         "url": "https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 278005,
       "name": "Ghost In The Shell",
       "url": "https://open.spotify.com/track/5lBvNgYIUMxlfLPaUXELMx"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 159528,
+      "name": "For Eva",
+      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Detective",
         "url": "https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ"
       },
@@ -459,6 +443,38 @@
       "duration_ms": 165786,
       "name": "Detective",
       "url": "https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "Amarillo nena",
+        "url": "https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 148694,
+      "name": "Amarillo nena",
+      "url": "https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -491,22 +507,6 @@
       "duration_ms": 133142,
       "name": "Con Esos Celos",
       "url": "https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "Amarillo nena",
-        "url": "https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 148694,
-      "name": "Amarillo nena",
-      "url": "https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "Calendario",
-        "url": "https://open.spotify.com/album/3pVOUcRchfwRRkmgQMoFzX"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "Calendario",
-      "url": "https://open.spotify.com/track/21nJ85XhAOf40a4I8S2zxa"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "DR. STRANGE",
         "url": "https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 163909,
       "name": "DR. STRANGE",
       "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "Calendario",
+        "url": "https://open.spotify.com/album/3pVOUcRchfwRRkmgQMoFzX"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "Calendario",
+      "url": "https://open.spotify.com/track/21nJ85XhAOf40a4I8S2zxa"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "si",
+        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 151624,
+      "name": "si",
+      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "La gravedad y el tiempo.",
         "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 162333,
       "name": "La gravedad y el tiempo.",
       "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "si",
-        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 151624,
-      "name": "si",
-      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "LOS CISNES",
-        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
-      },
-      "artists": [
-        {
-          "name": "Melanie Santiler",
-          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
-        }
-      ],
-      "duration_ms": 177215,
-      "name": "CARI\u00d1O",
-      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Bashiata",
         "url": "https://open.spotify.com/album/52B2HnetcclvWedmBU9aQc"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 252000,
       "name": "Bashiata",
       "url": "https://open.spotify.com/track/1sxTOfJebwCInle9Wc0YGt"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "duration_ms": 177215,
+      "name": "CARI\u00d1O",
+      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
     },
     {
       "added_at": "2026-10-21 21:02:34",

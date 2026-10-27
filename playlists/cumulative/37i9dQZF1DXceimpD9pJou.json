@@ -6461,24 +6461,6 @@
     },
     {
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/2WMi7GmKrFxbVCCnDdSOj7"
-      },
-      "artists": [
-        {
-          "name": "Janaimar",
-          "url": "https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV"
-        }
-      ],
-      "date_added": "2026-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 300000,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/4JllXz6QpYn3B7eAJZYhon"
-    },
-    {
-      "album": {
         "name": "ANSIEDAD",
         "url": "https://open.spotify.com/album/6fAAICMzT5QerZVryuniNL"
       },
@@ -6494,6 +6476,24 @@
       "duration_ms": 170000,
       "name": "ANSIEDAD",
       "url": "https://open.spotify.com/track/7u0Zt9ItaDvAG1GaE6JoxX"
+    },
+    {
+      "album": {
+        "name": "Ansiedad (Live)",
+        "url": "https://open.spotify.com/album/2WMi7GmKrFxbVCCnDdSOj7"
+      },
+      "artists": [
+        {
+          "name": "Janaimar",
+          "url": "https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Ansiedad - Live",
+      "url": "https://open.spotify.com/track/4JllXz6QpYn3B7eAJZYhon"
     },
     {
       "album": {

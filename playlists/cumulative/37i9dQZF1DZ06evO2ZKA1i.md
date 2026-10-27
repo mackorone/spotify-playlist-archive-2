@@ -4,7 +4,7 @@
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-142 songs - 11 hr 15 min
+143 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Girls Like That \- 20th Anniversary Remix](https://open.spotify.com/track/5hppjSURxXHlxVYwm6jfDB) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Rapture of the Deep \(20th Anniversary Remix\)](https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO) | 3:56 | 2025-09-09 | 2025-10-19 |
 | [Green Onions / Hush \- Live in Gaevle](https://open.spotify.com/track/0AaHIhvJoQJK1EwTi52gH3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 7:59 | 2022-09-19 | 2022-10-13 |
 | [Guilt Trippin'](https://open.spotify.com/track/6E0gNcF1Y1ZMF6OVUx0Ulu) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Guilt Trippin'](https://open.spotify.com/album/2dHEbnyZ0obevooCvNJNZ1) | 4:52 | 2026-06-26 | 2026-07-23 |
+| [Guinnesis \- Live at Montreux Jazz Festival 2026](https://open.spotify.com/track/15ObPideH9gbaXb3zYe6ZV) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Splat!](https://open.spotify.com/album/6mnQMrgn3NW8PX4DQjW7Cp) | 3:35 | 2026-10-27 |  |
 | [Hallelujah](https://open.spotify.com/track/0yJRRuMuKkV9kMlDDcdKX7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of \(Special Edition\)](https://open.spotify.com/album/0XmL85owcwkhqvKLgJObQx) | 3:43 | 2022-09-17 | 2022-10-13 |
 | [Hard Lovin' Man \- 1995 Remaster](https://open.spotify.com/track/7vre86aecrNXYdqCaLCiCb) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 7:10 | 2022-09-18 | 2022-10-13 |
 | [Hard Lovin' Woman](https://open.spotify.com/track/1p2rdOyJKHLuqJR9S3uevx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 3:25 | 2022-09-17 | 2022-12-01 |
@@ -128,7 +129,7 @@
 | [Strange Kind of Woman \- 2002 Remaster](https://open.spotify.com/track/3T6TEPxUsMFw9SejwRFe6z) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Platinum Collection](https://open.spotify.com/album/6ivsgcVBWi6Etm2EldytF4) | 3:51 | 2025-08-11 |  |
 | [The Battle Rages On \- Live in 95](https://open.spotify.com/track/5NysoJPYsqu2CSNQZMQ1rn) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Bombay Calling \(Live in 95\)](https://open.spotify.com/album/1jtvoaDptF8n966xLCqmvV) | 6:36 | 2022-09-17 | 2022-11-04 |
 | [The Beating of Wings](https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [SPLAT!](https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny) | 4:00 | 2026-07-05 |  |
-| [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 | 2023-03-22 |  |
+| [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 | 2023-03-22 | 2026-10-27 |
 | [The Lunatic](https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [SPLAT!](https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny) | 3:47 | 2026-07-05 |  |
 | [The Only Horse in Town](https://open.spotify.com/track/0lhdngV98D9kCOkKvInA41) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [SPLAT!](https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny) | 4:41 | 2026-07-05 |  |
 | [The Rider](https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [SPLAT!](https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny) | 3:56 | 2026-07-05 | 2026-10-06 |

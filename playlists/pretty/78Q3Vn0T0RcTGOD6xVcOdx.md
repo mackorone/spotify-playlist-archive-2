@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 540 likes - 50 songs - 2 hr 53 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 540 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 48 | [Nuje Sotto ’O Cielo](https://open.spotify.com/track/2CgWhoeovLTH3G9KezqLjG) | [Nero Vesuvio](https://open.spotify.com/artist/6K0PlJ1GGgfIsqYaNKO0uT) | [Nuje Sotto ’O Cielo](https://open.spotify.com/album/7LCODKwjudnuXVQcR6YXtD) | 3:18 |
 | 49 | [Lucid dream](https://open.spotify.com/track/3KoN7jKYERFVQ6SUCjTQdB) | [Hugh](https://open.spotify.com/artist/4RpdpXGxT38XtAGHjjf3Im) | [Lucid dream](https://open.spotify.com/album/7qw076AzODOqCEgjrHog2b) | 3:00 |
 | 50 | [Presença](https://open.spotify.com/track/6NfoaNC3F12ucmVtiLoDV2) | [Moacir Sader](https://open.spotify.com/artist/4XnU7oi3AKqJwOrFY0Cd6w) | [Presença](https://open.spotify.com/album/5202vgV2cGnn2Ih8xcxt89) | 4:56 |
+| 51 | [Light Up](https://open.spotify.com/track/22rvo6iIanBsteVmbWoeMB) | [H\. 4Real](https://open.spotify.com/artist/6VaTWoMnz7WhncBc4zgrKm) | [Dend Down Low](https://open.spotify.com/album/6GqaXCRPLLLBTWwZkj2Rzo) | 3:47 |
 
-Snapshot ID: `AAAClPcIihUxvxpUOoTjugD1P5hVlVzM`
+Snapshot ID: `AAACldl8Z2QvW/yl2d5GjniX1ay+wXrM`

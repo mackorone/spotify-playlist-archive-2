@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604569,
+  "num_followers": 604577,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
-        "url": "https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
-      "url": "https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "So Much To Say",
         "url": "https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 155664,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
+        "url": "https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
+      "url": "https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -555,22 +555,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Evil Is Contagious",
-        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
+        "name": "I Only Let You Down Now",
+        "url": "https://open.spotify.com/album/54jVCGB1tNcY9LGIPLWKQD"
       },
       "artists": [
         {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        },
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
         }
       ],
-      "duration_ms": 196097,
-      "name": "Evil Is Contagious",
-      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
+      "duration_ms": 198200,
+      "name": "I Only Let You Down Now",
+      "url": "https://open.spotify.com/track/2paGtGSGmvg24yEf6z4rVX"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -591,6 +587,26 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Evil Is Contagious",
+        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 196097,
+      "name": "Evil Is Contagious",
+      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Over My Head",
         "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
       },
@@ -603,70 +619,6 @@
       "duration_ms": 182956,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "I Only Let You Down Now",
-        "url": "https://open.spotify.com/album/54jVCGB1tNcY9LGIPLWKQD"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "I Only Let You Down Now",
-      "url": "https://open.spotify.com/track/2paGtGSGmvg24yEf6z4rVX"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "There's A Whole World Out There",
-        "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 250172,
-      "name": "Fatal Flaw",
-      "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
-      },
-      "artists": [
-        {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
-        }
-      ],
-      "duration_ms": 208168,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Under Construction Forever",
-        "url": "https://open.spotify.com/album/2njmow8kVfBytRC2cUAAkv"
-      },
-      "artists": [
-        {
-          "name": "wakelee",
-          "url": "https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6"
-        }
-      ],
-      "duration_ms": 119600,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/78ueIcsp0xxMpPHP1d9pQH"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -687,6 +639,54 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "There's A Whole World Out There",
+        "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 250172,
+      "name": "Fatal Flaw",
+      "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Under Construction Forever",
+        "url": "https://open.spotify.com/album/2njmow8kVfBytRC2cUAAkv"
+      },
+      "artists": [
+        {
+          "name": "wakelee",
+          "url": "https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6"
+        }
+      ],
+      "duration_ms": 119600,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/78ueIcsp0xxMpPHP1d9pQH"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
+      },
+      "artists": [
+        {
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
+        }
+      ],
+      "duration_ms": 208168,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "A.R.S.O.N.",
         "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 158406,
       "name": "See Through",
       "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 176381,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -735,6 +719,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 176381,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Rejects",
         "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Burn Me Out",
-        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 191010,
-      "name": "Burn Me Out",
-      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Live Laugh Toaster Bath",
         "url": "https://open.spotify.com/album/3boNiIc5Mcyx9nl2WlbWKp"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 142769,
       "name": "Live Laugh Toaster Bath",
       "url": "https://open.spotify.com/track/2zjP51ExLSOA9bP9fdw6nS"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 191010,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Back To One",
+        "url": "https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Vodka Soda",
         "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Moments Before The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Phoenix Down",
-      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "77 (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 173842,
       "name": "77 - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Phoenix Down",
+      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -931,22 +947,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Back To One",
-        "url": "https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp"
-      },
-      "artists": [
-        {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Back To One",
-      "url": "https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E"
       },
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "So Happy",
         "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
       },
@@ -991,6 +1007,22 @@
       "duration_ms": 173783,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "FAKE FEELINGS",
+        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
+      },
+      "artists": [
+        {
+          "name": "all in ur head",
+          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "FAKE FEELINGS",
+      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1031,22 +1063,6 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "FAKE FEELINGS",
-        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
-      },
-      "artists": [
-        {
-          "name": "all in ur head",
-          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "FAKE FEELINGS",
-      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
+        "name": "That's So True",
+        "url": "https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4"
       },
       "artists": [
         {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+          "name": "Jack The Underdog",
+          "url": "https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A"
         }
       ],
-      "duration_ms": 201081,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
+      "duration_ms": 167142,
+      "name": "That's So True",
+      "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1159,22 +1175,6 @@
       "duration_ms": 218583,
       "name": "Under My Sweater",
       "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "That's So True",
-        "url": "https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4"
-      },
-      "artists": [
-        {
-          "name": "Jack The Underdog",
-          "url": "https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "That's So True",
-      "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Ray Hawthorne Can't Be Trusted",
         "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 209625,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Right Place, Wrong Timing",
-        "url": "https://open.spotify.com/album/3ghkOYTOyYQFjI83YpDpEn"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 178270,
-      "name": "Right Place, Wrong Timing",
-      "url": "https://open.spotify.com/track/6CkPEo3j7XXNlNluwrMfYO"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1339,6 +1323,22 @@
       "duration_ms": 165106,
       "name": "Right Thing, Wrong Time (feat. State Champs)",
       "url": "https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Right Place, Wrong Timing",
+        "url": "https://open.spotify.com/album/3ghkOYTOyYQFjI83YpDpEn"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 178270,
+      "name": "Right Place, Wrong Timing",
+      "url": "https://open.spotify.com/track/6CkPEo3j7XXNlNluwrMfYO"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Like Me Less",
-        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
-      },
-      "artists": [
-        {
-          "name": "Harrison Gordon",
-          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
-        }
-      ],
-      "duration_ms": 172351,
-      "name": "Like Me Less",
-      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Don't Let Me Get Too Low",
         "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 146703,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Like Me Less",
+        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
+      },
+      "artists": [
+        {
+          "name": "Harrison Gordon",
+          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
+        }
+      ],
+      "duration_ms": 172351,
+      "name": "Like Me Less",
+      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Fields Behind The House",
-        "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
-      },
-      "artists": [
-        {
-          "name": "Oakwood",
-          "url": "https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Fields Behind the House",
-      "url": "https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "F.O.M.O.",
         "url": "https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Fields Behind The House",
+        "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
+      },
+      "artists": [
+        {
+          "name": "Oakwood",
+          "url": "https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Fields Behind the House",
+      "url": "https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Who Will Look After The Dogs?",
         "url": "https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 119481,
       "name": "No Hope",
       "url": "https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Extremely Fragile Human Being",
-        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
-      },
-      "artists": [
-        {
-          "name": "Good Hangs",
-          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
-        }
-      ],
-      "duration_ms": 190673,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Extremely Fragile Human Being",
+        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "duration_ms": 190673,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/7hlgWv92V8NLFNoY2K2x1z"
       },
@@ -1631,22 +1631,6 @@
       "duration_ms": 159786,
       "name": "Cherry Chapstick",
       "url": "https://open.spotify.com/track/7k9z20CcZWLWMFJI72r3vm"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "One Zero Zero",
         "url": "https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv"
       },
@@ -1695,6 +1695,22 @@
       "duration_ms": 166800,
       "name": "One Zero Zero",
       "url": "https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "LANDSLIDE",
+        "url": "https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 149943,
+      "name": "LANDSLIDE",
+      "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1719,38 +1735,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Give or Take",
-        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Give or Take",
-      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "LANDSLIDE",
-        "url": "https://open.spotify.com/album/7MUzrLfPEFJ1am5ZAoWkLF"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 149943,
-      "name": "LANDSLIDE",
-      "url": "https://open.spotify.com/track/4X5KLpeHYDFBwwhoOkN2q2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/6kBAu1edenkAwpaZL4iKCP"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 217536,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/1pJYGgke026xAayyy2hUO3"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Give or Take",
+        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Give or Take",
+      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Sense of Humor",
-        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 195865,
-      "name": "Sense of Humor",
-      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "NORTHERN LIGHTS//",
         "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 280065,
       "name": "NORTHERN LIGHTS//",
       "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Sense of Humor",
+        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 195865,
+      "name": "Sense of Humor",
+      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 188336,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
         "url": "https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 173093,
       "name": "Intrepid",
       "url": "https://open.spotify.com/track/4Z1oDdcxC0AXpQlRKsLMrd"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 188336,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain](/playlists/plain/56cov9xwW00rgProJEHERp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/56cov9xwW00rgProJEHERp)
 
-### [But First Coffee](https://open.spotify.com/playlist/56cov9xwW00rgProJEHERp)
+### [But First..\. Coffee](https://open.spotify.com/playlist/56cov9xwW00rgProJEHERp)
 
 > Tunes from your favourite coffee shop.
 
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 99 | [J’imagine que tu sais](https://open.spotify.com/track/0dr1pbRZF2xB5pFxv8jsuQ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6XZTzOjOjYoHAnGV7dzJnS) | 3:29 |
 | 100 | [Cinder Block](https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Cinder Block](https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6) | 3:42 |
 
-Snapshot ID: `AAAW7yRxvzF7pbcmFyeyMC+GNBthvZYk`
+Snapshot ID: `AAAW8D0ztZgMzP32MVD+GnXL+VWdIQQm`

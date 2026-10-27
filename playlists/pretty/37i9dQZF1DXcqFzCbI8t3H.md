@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqFzCbI8t3H.md) - [plain]
 
 > Enter at your own risk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 613 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

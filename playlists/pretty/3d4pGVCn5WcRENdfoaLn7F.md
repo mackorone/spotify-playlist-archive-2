@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 914 likes - 50 songs - 2 hr 51 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 917 likes - 52 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 48 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
 | 49 | [No Win](https://open.spotify.com/track/2mdVQXwWx1ALhwfBHhilLt) | [New Delta](https://open.spotify.com/artist/26cx8jdskWxVHoySlTAA7k) | [No Win](https://open.spotify.com/album/7wCVj35diIeT3JWVsEY9rC) | 3:01 |
 | 50 | [Analog Soul](https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Analog Soul](https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK) | 3:13 |
+| 51 | [Ten](https://open.spotify.com/track/5t59VwPR2S9GZ2zyo3kPao) | [Siobhan Bodrug](https://open.spotify.com/artist/7txaNJjUA1XAkxkY3dOGoD) | [Ten](https://open.spotify.com/album/5seyyPvGsQfMlf7L51Oadx) | 3:14 |
+| 52 | [Damnation](https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Hail Saturn / Damnation](https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD) | 2:36 |
 
-Snapshot ID: `AAAEEsWjy96NP9CtQNTmLnMcYRo2fGAG`
+Snapshot ID: `AAAEFGeayu4MUIKsrCxkpZhUUddwKiLM`

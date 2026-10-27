@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, JUST LIZZY, A Shrine to Failure and more",
+  "description": "With NUDNIK, JUST LIZZY, Forwardman and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 313240,
       "name": "./Bob&Alice",
       "url": "https://open.spotify.com/track/2wA63JqLYbJWozhx532IVv"
@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 300466,
       "name": "Come on Moon",
       "url": "https://open.spotify.com/track/4PsrTSuZWI93sOFsX0NMnf"
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 194639,
       "name": "Conformity Cutter",
       "url": "https://open.spotify.com/track/4BCeAjoCxbaerQU7WnaN6b"
@@ -6175,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "Don't Cry",
+        "url": "https://open.spotify.com/album/52uWNqvXM7jZUdLc0QoQH1"
+      },
+      "artists": [
+        {
+          "name": "Vandal Moon",
+          "url": "https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248151,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/35RXFqaEm1jkQwoZ5wXFb9"
+    },
+    {
+      "album": {
         "name": "Don't You Tell Me",
         "url": "https://open.spotify.com/album/0glCNdvdVS7lQAJ2nYSvrm"
       },
@@ -6240,7 +6258,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 184320,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/41LoiUC9BIusEAlctY9Dx7"
@@ -6316,6 +6334,24 @@
       "duration_ms": 275078,
       "name": "Drive All Night (Still Leave Me Breathless)",
       "url": "https://open.spotify.com/track/2EMbZwqrhzWSkqy8gUhJ9j"
+    },
+    {
+      "album": {
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/6Ef9nmoKEHetZoCHfv5bk6"
+      },
+      "artists": [
+        {
+          "name": "Eidetic Dreams",
+          "url": "https://open.spotify.com/artist/67I4GVTOFCKsOf6Bs6Y47I"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234881,
+      "name": "Drive Me Far",
+      "url": "https://open.spotify.com/track/3xITmk4oLCcSV2iOWmEXHy"
     },
     {
       "album": {
@@ -6424,6 +6460,24 @@
       "duration_ms": 227746,
       "name": "Dying to Stay Young",
       "url": "https://open.spotify.com/track/4TwKZv8WEb5X4BeRHUjyyG"
+    },
+    {
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1LJeG6flfJpO3vMuxTPGa0"
+      },
+      "artists": [
+        {
+          "name": "the clumps",
+          "url": "https://open.spotify.com/artist/6ts17Klq80P86pj2w7LDjg"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209508,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/7cE4nII6k2ehC7PUetz5lR"
     },
     {
       "album": {
@@ -6806,7 +6860,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 276166,
       "name": "End of the Rope",
       "url": "https://open.spotify.com/track/7vXek6Cvm35qLY5NDXMgrD"
@@ -8000,7 +8054,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 314943,
       "name": "Follow the Body - 2026 Version",
       "url": "https://open.spotify.com/track/3PpF5Vl3TKbmnaVCsN4LTA"
@@ -9058,7 +9112,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 152706,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/6PxlE8rSywCxfviSU57dQv"
@@ -9130,7 +9184,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 205514,
       "name": "Hard to Tell",
       "url": "https://open.spotify.com/track/63zYJ6p5qCf70llx7FSiGN"
@@ -10574,7 +10628,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 189558,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
@@ -10982,7 +11036,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -11422,7 +11476,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -14497,6 +14551,24 @@
     },
     {
       "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/2dSF7vtOr2UO8CRuef4uew"
+      },
+      "artists": [
+        {
+          "name": "John Lutrario",
+          "url": "https://open.spotify.com/artist/2on9iMyecN2ArUH3mpJA7T"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277408,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/7M3sWPlXhf3w2hWtLeFSom"
+    },
+    {
+      "album": {
         "name": "My Pain",
         "url": "https://open.spotify.com/album/5TJ5fGSkJp24Jx3Q0ig0nb"
       },
@@ -16740,7 +16812,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -17444,7 +17516,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 300951,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/6hZlvOrSSquPmmPK51Ju29"
@@ -17624,7 +17696,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -18212,10 +18284,28 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 255061,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1QLuJqkt0fObDTJvR1k0md"
+    },
+    {
+      "album": {
+        "name": "Sharehouse Blues",
+        "url": "https://open.spotify.com/album/6WZwcDI83nCLJtMrZK0Qha"
+      },
+      "artists": [
+        {
+          "name": "Red Hill",
+          "url": "https://open.spotify.com/artist/3OqlGX7gDuFvMHDULh1siW"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197824,
+      "name": "Sharehouse Blues",
+      "url": "https://open.spotify.com/track/4AG2vjhfDzudK7KKQNLgyM"
     },
     {
       "album": {
@@ -19262,7 +19352,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 162063,
       "name": "Sou1/Spiri7",
       "url": "https://open.spotify.com/track/1QIG4U1pHWp4DU9bNFNoF8"
@@ -20546,7 +20636,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 268597,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/07DdqETZ6hTXaMLwrLQP7q"
@@ -20640,6 +20730,24 @@
       "duration_ms": 169217,
       "name": "Teenage Dark Love",
       "url": "https://open.spotify.com/track/6CtyUN9Q1itXkFaWKGHKnT"
+    },
+    {
+      "album": {
+        "name": "Tell The Leaves Not To Turn",
+        "url": "https://open.spotify.com/album/10IpzfeJGY09tplI7vXUqW"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271590,
+      "name": "Tell The Leaves Not To Turn",
+      "url": "https://open.spotify.com/track/6hn3YfzZe35Y0MoAxJMNL9"
     },
     {
       "album": {
@@ -21426,7 +21534,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 263656,
       "name": "The Last Song",
       "url": "https://open.spotify.com/track/7HVk4Edz6QEeKalkqyHCPF"
@@ -21480,7 +21588,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 198504,
       "name": "The low",
       "url": "https://open.spotify.com/track/6plhzudEeMjal1cTj1MqaV"
@@ -22404,7 +22512,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -22826,7 +22934,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -23262,7 +23370,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 237888,
       "name": "Undead",
       "url": "https://open.spotify.com/track/5KA1lM5sdwMzuKn386tb1Q"
@@ -24144,7 +24252,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
@@ -25142,7 +25250,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,170 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,175 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 47 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 48 | [Sambung](https://open.spotify.com/track/3uUJsNW9TAYqqq1rBZDy1o) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [Sambung](https://open.spotify.com/album/1dz1xknOVdVX0LqfzJNxkX) | 4:58 |
 | 49 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
-| 50 | [笑ったり転んだり](https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [笑ったり転んだり](https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V) | 3:14 |
+| 50 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 |
 
 Snapshot ID: `AAAAAN7uR8IO8eGro2xKajG75rTn2swc`

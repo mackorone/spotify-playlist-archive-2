@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-862 songs - 1 day 17 hr 32 min
+863 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-17 | 2023-03-31 |
 | [BLKN](https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [BLKN](https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9) | 2:07 | 2024-11-29 | 2025-03-05 |
 | [Blue Film](https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C) | [DJ Yamz](https://open.spotify.com/artist/7r7jLkop1QhNvbiD9iWG5D), [Prince Hakeem Matthews](https://open.spotify.com/artist/3VR8K8yMdHiA5lmKKMSCCt), [Rama Brew](https://open.spotify.com/artist/21UP1AGVLvaDd2bNaHnpRf) | [27 in Accra Town](https://open.spotify.com/album/45b0DqkIiLicB6YcNHea52) | 4:44 | 2022-10-13 | 2022-10-31 |
-| [BMF ​\(f​eat​\. Byron Messia, Fireboy DML​\)](https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:09 | 2025-09-26 |  |
+| [BMF ​\(f​eat​\. Byron Messia, Fireboy DML​\)](https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:09 | 2025-09-26 | 2026-10-27 |
 | [BO NOR NI.](https://open.spotify.com/track/6zKC1raq5XpWCeMHqoG4Mq) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [BO NOR NI.](https://open.spotify.com/album/22C8cDxD6rjO80nVuvFu3f) | 2:54 | 2025-08-01 | 2025-09-05 |
 | [Bobo](https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Bobo](https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL) | 3:02 | 2025-09-05 | 2026-09-11 |
 | [Body Bad \(Freestyle\)](https://open.spotify.com/track/31G0EfE6cXWrkCna86YGyD) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Body Bad \(Freestyle\)](https://open.spotify.com/album/3cQuh41tifUA3Zl8OiiydG) | 3:32 | 2026-01-14 | 2026-02-08 |
@@ -591,6 +591,7 @@
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2023-09-29 |
 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-20 | 2026-05-15 |
 | [Popo](https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 2:50 | 2023-11-17 | 2024-01-30 |
+| [POSITION](https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [POSITION](https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu) | 2:51 | 2026-10-23 |  |
 | [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-06-27 | 2025-09-05 |
 | [Power Ranger](https://open.spotify.com/track/40Mvw8xX6BVwzvkLY2hD9l) | [Y.D.A](https://open.spotify.com/artist/45Kik1HKtVxnaeajZtYozL), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Till They See Me](https://open.spotify.com/album/6VvHofU4p3n23UBCUrod72) | 2:38 | 2024-05-24 | 2024-06-15 |
 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 | 2023-12-01 | 2023-12-08 |

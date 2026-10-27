@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 88 songs - 5 hr 3 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,157 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 86 | [Everything's Gonna Be Alright](https://open.spotify.com/track/47XL1VF5cVwppq82wLVTrV) | [Moon Date](https://open.spotify.com/artist/7vGCqLKfI5izQkJSa4aRCh) | [Everything's Gonna Be Alright](https://open.spotify.com/album/203Yzx47gvCPrerlLxZUhb) | 4:15 |
 | 87 | [Hell Has a Garden with Angels](https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 2:46 |
 | 88 | [ANOTHER LIFE](https://open.spotify.com/track/1GW9wygil2jJKDdiYJ3PCR) | [ANIQO](https://open.spotify.com/artist/3q7baflM8Rtj29ckEnKAgB) | [ANOTHER LIFE](https://open.spotify.com/album/3AnunbIHnDq8C2fpzd9guG) | 5:42 |
+| 89 | [Ghost Hound](https://open.spotify.com/track/2EkcswWiL2GPEM7RlF3Lpw) | [Ajla](https://open.spotify.com/artist/444HERfjhWqQi0ebUM4cs7) | [Ghost Hound](https://open.spotify.com/album/5lOcrHGSBKWs2zrlk5gyXT) | 3:09 |
+| 90 | [Point of View](https://open.spotify.com/track/7GnGgSnrc2ViUKH4bv80P7) | [SonderJewlz](https://open.spotify.com/artist/1MvoCEOVnydwYl2W7mbvCb) | [Sincerely, Sonder](https://open.spotify.com/album/5OCtmv3vbyJMER7fRt6WoZ) | 3:17 |
 
-Snapshot ID: `AAAQPEJ/u/VNklFEXGZppkvOJ7Z0BdBi`
+Snapshot ID: `AAAQPhLnKz5kk4y152rrYf9G9YlbP2uW`

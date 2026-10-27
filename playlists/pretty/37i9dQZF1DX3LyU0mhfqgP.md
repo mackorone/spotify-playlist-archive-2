@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Vũ Cát Tường
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Joesef
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,054 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,995 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
+| 1 | [Separate](https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Separate](https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv) | 4:16 |
 | 2 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |
-| 3 | [Separate](https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Separate](https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv) | 4:16 |
+| 3 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
 | 4 | [Mind ur Business](https://open.spotify.com/track/7G8dSzF2rrAJxEqVqE7QdP) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Rebirth is Necessary](https://open.spotify.com/album/4vNOmPNBvBqlflXnUShL99) | 5:30 |
 | 5 | [The Beautiful Is Still Alive](https://open.spotify.com/track/1z1ifIyxEkfFOxAIPQLUpD) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [The Beautiful Is Still Alive](https://open.spotify.com/album/4klz1SGohyGzazmGT25hZ8) | 3:15 |
 | 6 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Call Me Babe](https://open.spotify.com/track/2st8BBJ0YcYi6eA5xOBv5U) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Call Me Babe](https://open.spotify.com/album/5UXzmRcanpxe6r8mVEcokz) | 2:41 |
 | 50 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 
-Snapshot ID: `AAAAAGME8AlFubTxkSbzR+8ycZ9eNlkh`
+Snapshot ID: `AAAAAFX/X6Db6hXvZZ40ubpGI4x5OyFU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 8,113 likes - 265 songs - 1 day 1 hr 31 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 8,114 likes - 265 songs - 1 day 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 17 | [Butterfly Effect](https://open.spotify.com/track/6nvkGpQpm3JAHNAJOCiQmG) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Butterfly Effect](https://open.spotify.com/album/4W49zKXch3TonDtup1x7yS) | 11:52 |
 | 18 | [Verschwinden](https://open.spotify.com/track/4fH0LLI9qdRpNCPwhW2md1) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 140](https://open.spotify.com/album/4LcYcxVFcdWfoSxydSQBlP) | 4:58 |
 | 19 | [Geffen \- 2026 Remaster](https://open.spotify.com/track/2ATaLtohp3BrjSowlSYoUZ) | [Barnt](https://open.spotify.com/artist/5UwHHsEQqO6OiQCtYHDpn9) | [Geffen](https://open.spotify.com/album/0MnPo3GOy1qxFvJzuc3BLx) | 8:00 |
-| 20 | [Rock A Lott](https://open.spotify.com/track/3n29QIJuWwWtKN8HDELmN3) | [Frankey & Sandrino](https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk) | [Rock A Lott](https://open.spotify.com/album/7pqi6b6mNYHr5jhCURDRud) | 5:50 |
+| 20 | [Rock A Lott](https://open.spotify.com/track/3n29QIJuWwWtKN8HDELmN3) | [Frankey & Sandrino](https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk), [Charlotte Riby](https://open.spotify.com/artist/6tRNqaEXYfiX4KYOqQE6Uu) | [Rock A Lott](https://open.spotify.com/album/7pqi6b6mNYHr5jhCURDRud) | 5:50 |
 | 21 | [Theme 1](https://open.spotify.com/track/2NrqLkS1x30MkwFrhM5X2F) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Psychick Youth](https://open.spotify.com/album/4L7DNXZntuiA379FulMvXM) | 6:19 |
 | 22 | [Good Magic](https://open.spotify.com/track/4HjwsWCoCJLsZrSqKeb9SN) | [LA MARR](https://open.spotify.com/artist/4sgfef0Om7y4OdyOmbOxDS), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Mood Programs \(Extended Play\)](https://open.spotify.com/album/1Xs6QrzxJtUUY6qyfwGw4j) | 12:46 |
 | 23 | [Note of Mothership](https://open.spotify.com/track/7ibY5Yov1KhuEtmRprS421) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Yours Sincerely](https://open.spotify.com/album/2DtAm3khT9GqoYOJCM9vas) | 2:58 |

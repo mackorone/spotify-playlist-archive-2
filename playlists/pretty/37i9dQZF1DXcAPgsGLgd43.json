@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 123026,
+  "num_followers": 123052,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 223731,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
-    },
-    {
-      "added_at": "2026-10-16 04:00:53",
-      "album": {
         "name": "Playa Y Arena",
         "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 179512,
       "name": "Playa Y Arena",
       "url": "https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF"
+    },
+    {
+      "added_at": "2026-10-16 04:00:53",
+      "album": {
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 223731,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
     },
     {
       "added_at": "2026-10-16 04:00:53",

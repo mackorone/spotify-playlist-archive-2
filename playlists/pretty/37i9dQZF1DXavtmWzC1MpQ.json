@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154875,
+  "num_followers": 154878,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Bird Life",
-        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
-      },
-      "artists": [
-        {
-          "name": "Beyond North",
-          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bird Life",
-      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "3D Audio Textures of Birds & Water",
         "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
       },
@@ -811,18 +795,34 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Soothing Jungle Sounds",
-        "url": "https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p"
+        "name": "Bird Life",
+        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
       "artists": [
         {
-          "name": "Sounds of the Jungle",
-          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+          "name": "Beyond North",
+          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
         }
       ],
-      "duration_ms": 185756,
-      "name": "Rain on the Leaves",
-      "url": "https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB"
+      "duration_ms": 146000,
+      "name": "Bird Life",
+      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Tropical wet forest in Columbia",
+        "url": "https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp"
+      },
+      "artists": [
+        {
+          "name": "Nicoguga",
+          "url": "https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS"
+        }
+      ],
+      "duration_ms": 126375,
+      "name": "Tropical wet forest in Columbia",
+      "url": "https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc"
     }
   ],
   "unique_name": "Sons da Natureza",

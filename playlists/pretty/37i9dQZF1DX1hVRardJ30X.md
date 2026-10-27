@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Victor Mendivi, Myke Towers, Xavi,Rubí and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,615 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,662 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [La Gozadera en Navidad](https://open.spotify.com/track/1ybtXSZXqmq682V41AaSZx) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [La Gozadera en Navidad](https://open.spotify.com/album/7gIkEyW1RkoorV3ZtQP3Fq) | 3:21 |
 | 22 | [Karpe Diem](https://open.spotify.com/track/7hkVzMHYeoOp1NACDB6rKp) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Karpe Diem](https://open.spotify.com/album/0GLwhdYcDSdPJIxOcl5KEF) | 3:20 |
 | 23 | [El Que Se La Queda Pierde](https://open.spotify.com/track/2UQ6NBMAT6PlUv8TDrOcmm) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [El Que Se La Queda Pierde](https://open.spotify.com/album/74DiRJoIUGeRdXAgXa38dp) | 2:44 |
-| 24 | [Otra Vez](https://open.spotify.com/track/5FQ4SrsvTToga95IFyZf0q) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [LAYAN](https://open.spotify.com/artist/4LiAzozVB7WdJgquSwEH9a) | [Otra Vez](https://open.spotify.com/album/452e6diVPDNtxXIYpCVeZr) | 4:18 |
+| 24 | [Otra Vez](https://open.spotify.com/track/5FQ4SrsvTToga95IFyZf0q) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [LAYAN](https://open.spotify.com/artist/4LiAzozVB7WdJgquSwEH9a) | [Otra Vez](https://open.spotify.com/album/452e6diVPDNtxXIYpCVeZr) | 4:18 |
 | 25 | [Aunque Digan](https://open.spotify.com/track/6eFAHAO2SCdssipP2xrMYC) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [GTA \(Gotay The Autentiko\), Vol\. 2](https://open.spotify.com/album/0Y8PV5mFjtHxj3APbYNMMS) | 2:21 |
 | 26 | [TA TE TI](https://open.spotify.com/track/4QHSNccFDmGBseFy2mFeDw) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [TA TE TI](https://open.spotify.com/album/4TFCAMAtiNAFdynRGvl9v8) | 2:24 |
 | 27 | [Carnaval](https://open.spotify.com/track/4GtV7LofvLjXPv73vu6pOH) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [soy un fatalista](https://open.spotify.com/album/5Ggkzq2WtTf1EV1yFWTWmd) | 2:01 |

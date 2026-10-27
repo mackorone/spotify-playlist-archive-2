@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 86726,
+  "num_followers": 86745,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
+        "name": "Filament",
+        "url": "https://open.spotify.com/album/7dF6lWNssoGEMoWEaJexor"
+      },
+      "artists": [
+        {
+          "name": "Shankar Tucker",
+          "url": "https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR"
+        },
+        {
+          "name": "Devenderpal Singh",
+          "url": "https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T"
+        }
+      ],
+      "duration_ms": 219365,
+      "name": "Ae Re Chanda, Pt. 4 (Tillana)",
+      "url": "https://open.spotify.com/track/4lcm5mQMmq6EypLVSnn3aq"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
         "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 264053,
       "name": "Sajna Barse",
       "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
-        "name": "Filament",
-        "url": "https://open.spotify.com/album/7dF6lWNssoGEMoWEaJexor"
-      },
-      "artists": [
-        {
-          "name": "Shankar Tucker",
-          "url": "https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR"
-        },
-        {
-          "name": "Devenderpal Singh",
-          "url": "https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T"
-        }
-      ],
-      "duration_ms": 219365,
-      "name": "Ae Re Chanda, Pt. 4 (Tillana)",
-      "url": "https://open.spotify.com/track/4lcm5mQMmq6EypLVSnn3aq"
     },
     {
       "added_at": "2026-09-29 11:47:09",

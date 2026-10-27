@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,607 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,592 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [Ich versteh es jetzt](https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ich versteh es jetzt](https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr) | 2:35 |
 | 27 | [Colours](https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Colours](https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp) | 3:02 |
 | 28 | [AMG](https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE) | [Drei Geile Chayas](https://open.spotify.com/artist/17wFC9W0Gg4SQu02LbdDq9), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [AMG](https://open.spotify.com/album/6j1LFvHglLSVGl8TTyzlfo) | 2:50 |
-| 29 | [bad taste](https://open.spotify.com/track/4d2t86B0mgOwm2hUbnFFLF) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [bad taste](https://open.spotify.com/album/0f31DxqbFb3KaZLvfOMK19) | 2:43 |
+| 29 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
 | 30 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
-| 31 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
+| 31 | [bad taste](https://open.spotify.com/track/4d2t86B0mgOwm2hUbnFFLF) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [bad taste](https://open.spotify.com/album/0f31DxqbFb3KaZLvfOMK19) | 2:43 |
 | 32 | [Le Vol](https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Le Vol](https://open.spotify.com/album/5Qzl6dr6ufoO2LTUVjodsR) | 3:51 |
 | 33 | [Cette fille](https://open.spotify.com/track/2L7ztl8IsIqV8gqT5aC9K6) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Cette fille](https://open.spotify.com/album/0Q6XIIxtQPNCREd3RlA2ks) | 2:42 |
 | 34 | [Neues Leben](https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Typologie eines Lebens](https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB) | 3:01 |

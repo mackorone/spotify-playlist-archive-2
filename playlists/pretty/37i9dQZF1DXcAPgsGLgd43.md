@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,026 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,052 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 74 | [Pegado](https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Pegado](https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA) | 2:05 |
 | 75 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 |
 | 76 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 |
-| 77 | [Cuando Te Veo](https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Cuando Te Veo](https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e) | 3:43 |
-| 78 | [Playa Y Arena](https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Playa Y Arena](https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez) | 2:59 |
+| 77 | [Playa Y Arena](https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Playa Y Arena](https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez) | 2:59 |
+| 78 | [Cuando Te Veo](https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Cuando Te Veo](https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e) | 3:43 |
 | 79 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 |
 | 80 | [Bandolera](https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Junior Black](https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa) | [Bandolera](https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp) | 1:57 |
 | 81 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |

@@ -4,7 +4,7 @@
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Lennon Stella
 
-503 songs - 1 day 2 hr 45 min
+504 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-02-06 | 2026-03-06 |
 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 | 2026-07-31 | 2026-09-01 |
 | [Iya Yemoja](https://open.spotify.com/track/5TQ35IypatWLHzkLnYCr06) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Zapapaya](https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126), [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rob Rivera](https://open.spotify.com/artist/6QWBQN0e18qB6zj0szX7Vm) | [Iya Yemoja](https://open.spotify.com/album/46P8cuPwurhmpHzn1tFhGz) | 3:36 | 2026-06-01 | 2026-07-04 |
-| [J'en sais rien](https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [J'en sais rien](https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA) | 3:34 | 2026-10-01 |  |
+| [J'en sais rien](https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [J'en sais rien](https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA) | 3:34 | 2026-10-01 | 2026-10-27 |
 | [Jackpot](https://open.spotify.com/track/0JOAMHwHFGKbPOwfM26fL7) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:56 | 2026-06-01 | 2026-07-04 |
 | [Jacques](https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8) | [Louis\-Charles](https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU) | [Jacques](https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9) | 3:27 | 2026-02-06 | 2026-03-06 |
 | [Just Us In The Room](https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Just Us In The Room](https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT) | 2:48 | 2026-10-01 |  |
@@ -414,6 +414,7 @@
 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 | 2026-05-01 | 2026-06-02 |
 | [Stay Home](https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Stay Home](https://open.spotify.com/album/2K5izQrAm5MsXpiZIGbiGi) | 2:37 | 2025-12-03 | 2026-02-07 |
 | [steer](https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [steer](https://open.spotify.com/album/6eV82gYdpWpoQVbBJjqTIK) | 2:58 | 2026-03-05 | 2026-04-02 |
+| [step one](https://open.spotify.com/track/6ixO5cBS6SnYqjAdurVyjr) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [babysteps](https://open.spotify.com/album/0OG2X6dxPxfZn1aLV7f4h3) | 2:40 | 2026-10-01 |  |
 | [stone sculpted heart](https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ) | [.ape](https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju) | [stone sculpted heart](https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX) | 2:56 | 2026-06-01 | 2026-07-04 |
 | [STRANGER](https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY BLOOD AS THE INK](https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN) | 1:50 | 2026-09-01 | 2026-10-01 |
 | [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 | 2026-03-05 | 2026-04-02 |

@@ -1,124 +1,60 @@
 {
   "description": "all the best instrumentals & sounds from the internet  \u223c \ud83e\udec0",
-  "num_followers": 127695,
+  "num_followers": 127953,
   "original_name": "trending moods (no lyrics)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ64A9yFCq5CPdy6UJflDupPjL8K",
+  "snapshot_id": "AAAAAEDxfDxeXUU3ZdMPZMGK6+lmy0VX",
   "tracks": [
     {
-      "added_at": "2026-08-26 09:42:17",
+      "added_at": "2026-10-26 21:24:22",
       "album": {
-        "name": "do i clench my fists? (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4h6DDGxjNKQzZqbJP1YPzG"
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5wVD5PXo9rVHZzjgzbZHHr"
       },
       "artists": [
         {
-          "name": "ridgeclub",
-          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+          "name": "Kevin McLellan",
+          "url": "https://open.spotify.com/artist/2iNh6zl5KFuTYlHZadWmo1"
         }
       ],
-      "duration_ms": 172046,
-      "name": "do i clench my fists? - slowed + reverb",
-      "url": "https://open.spotify.com/track/3ycsREUFKVaITePsyBGJ2L"
+      "duration_ms": 77322,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/13OTraPhzJbHsAPG8g1KaQ"
     },
     {
-      "added_at": "2026-08-26 09:42:17",
+      "added_at": "2026-10-26 21:24:22",
       "album": {
-        "name": "7 Weeks 3 Days (Luigi Version)",
-        "url": "https://open.spotify.com/album/5BVnaESYYg173fU6wjxHyV"
+        "name": "SPILL YOUR TIME (LIVE)",
+        "url": "https://open.spotify.com/album/7f5P5notRUfUyvKZ7lIMty"
       },
       "artists": [
         {
-          "name": "DJ Kartier",
-          "url": "https://open.spotify.com/artist/3mjcSdIONxBG1CyS3GGzjZ"
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
         }
       ],
-      "duration_ms": 166153,
-      "name": "7 Weeks 3 Days - Backrooms Version",
-      "url": "https://open.spotify.com/track/0DZhMSnPpyjc8OZXK8y8YB"
+      "duration_ms": 335718,
+      "name": "SPILL YOUR TIME - LIVE",
+      "url": "https://open.spotify.com/track/4T2vNXosMs13zsMZFJvFkD"
     },
     {
-      "added_at": "2026-08-26 09:42:17",
+      "added_at": "2026-10-26 21:24:22",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/6MgysPzNhSQlDl91cWqbw8"
+        "name": "Instrumentals",
+        "url": "https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr"
       },
       "artists": [
         {
-          "name": "Duomo",
-          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
         }
       ],
-      "duration_ms": 192826,
-      "name": "On a Mission",
-      "url": "https://open.spotify.com/track/7JRdTSDQeAe7UGRmBAln24"
-    },
-    {
-      "added_at": "2026-08-26 09:42:17",
-      "album": {
-        "name": "As Time Flies (Special Version)",
-        "url": "https://open.spotify.com/album/6Cvxse8WxU9CaOnC4R9eQR"
-      },
-      "artists": [
-        {
-          "name": "Ty's Music",
-          "url": "https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "As Time Flies - Special Version",
-      "url": "https://open.spotify.com/track/54exqUrspFH5VHHE5ng8G2"
-    },
-    {
-      "added_at": "2026-08-26 09:42:17",
-      "album": {
-        "name": "Obsession (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
-      },
-      "artists": [
-        {
-          "name": "Rock Burwell",
-          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
-        }
-      ],
-      "duration_ms": 138610,
-      "name": "Love is in the Air, Pt. 2",
-      "url": "https://open.spotify.com/track/7x9t38yZB45MfvV1JkDzxh"
-    },
-    {
-      "added_at": "2026-08-26 09:42:17",
-      "album": {
-        "name": "Je te laisserai des mots (Piano)",
-        "url": "https://open.spotify.com/album/5c7fPel6XcJpiaMOg11aFS"
-      },
-      "artists": [
-        {
-          "name": "noel.smt",
-          "url": "https://open.spotify.com/artist/0ohCDowh0UVXpybpH34WQe"
-        }
-      ],
-      "duration_ms": 122386,
-      "name": "Je te laisserai des mots (Piano)",
-      "url": "https://open.spotify.com/track/2GxYPCRTP6J9d4j6u4jvtd"
-    },
-    {
-      "added_at": "2026-08-26 09:42:17",
-      "album": {
-        "name": "biting bullets",
-        "url": "https://open.spotify.com/album/2s0E97PJAsApNJuDHwoXCP"
-      },
-      "artists": [
-        {
-          "name": "ridgeclub",
-          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "biting bullets",
-      "url": "https://open.spotify.com/track/4hYS8vHVaCOK2TCIswCWHX"
+      "duration_ms": 224417,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru"
     },
     {
       "added_at": "2026-08-26 09:42:17",
@@ -139,6 +75,54 @@
     {
       "added_at": "2026-08-26 09:42:17",
       "album": {
+        "name": "As Time Flies (Special Version)",
+        "url": "https://open.spotify.com/album/6Cvxse8WxU9CaOnC4R9eQR"
+      },
+      "artists": [
+        {
+          "name": "Ty's Music",
+          "url": "https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "As Time Flies - Special Version",
+      "url": "https://open.spotify.com/track/54exqUrspFH5VHHE5ng8G2"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "do i clench my fists? (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4h6DDGxjNKQzZqbJP1YPzG"
+      },
+      "artists": [
+        {
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+        }
+      ],
+      "duration_ms": 172046,
+      "name": "do i clench my fists? - slowed + reverb",
+      "url": "https://open.spotify.com/track/3ycsREUFKVaITePsyBGJ2L"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Je te laisserai des mots (Piano)",
+        "url": "https://open.spotify.com/album/5c7fPel6XcJpiaMOg11aFS"
+      },
+      "artists": [
+        {
+          "name": "noel.smt",
+          "url": "https://open.spotify.com/artist/0ohCDowh0UVXpybpH34WQe"
+        }
+      ],
+      "duration_ms": 122386,
+      "name": "Je te laisserai des mots (Piano)",
+      "url": "https://open.spotify.com/track/2GxYPCRTP6J9d4j6u4jvtd"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
         "name": "Minari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2026-08-26 09:42:17",
       "album": {
-        "name": "The Odyssey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+        "name": "biting bullets",
+        "url": "https://open.spotify.com/album/2s0E97PJAsApNJuDHwoXCP"
       },
       "artists": [
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
         }
       ],
-      "duration_ms": 159258,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO"
+      "duration_ms": 149538,
+      "name": "biting bullets",
+      "url": "https://open.spotify.com/track/4hYS8vHVaCOK2TCIswCWHX"
     },
     {
       "added_at": "2026-08-26 09:42:17",
@@ -187,6 +171,38 @@
     {
       "added_at": "2026-08-26 09:42:17",
       "album": {
+        "name": "7 Weeks 3 Days (Luigi Version)",
+        "url": "https://open.spotify.com/album/5BVnaESYYg173fU6wjxHyV"
+      },
+      "artists": [
+        {
+          "name": "DJ Kartier",
+          "url": "https://open.spotify.com/artist/3mjcSdIONxBG1CyS3GGzjZ"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "7 Weeks 3 Days - Backrooms Version",
+      "url": "https://open.spotify.com/track/0DZhMSnPpyjc8OZXK8y8YB"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "An empty bliss beyond this World",
+        "url": "https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "duration_ms": 285510,
+      "name": "Camaraderie at arms length",
+      "url": "https://open.spotify.com/track/3GspPTCvxLffApefWWhRFh"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
         "name": "Entremont Plays Satie",
         "url": "https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf"
       },
@@ -203,6 +219,54 @@
       "duration_ms": 205866,
       "name": "Gymnop\u00e9die No. 1",
       "url": "https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/6MgysPzNhSQlDl91cWqbw8"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "On a Mission",
+      "url": "https://open.spotify.com/track/7JRdTSDQeAe7UGRmBAln24"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "Obsession (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs"
+      },
+      "artists": [
+        {
+          "name": "Rock Burwell",
+          "url": "https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl"
+        }
+      ],
+      "duration_ms": 138610,
+      "name": "Love is in the Air, Pt. 2",
+      "url": "https://open.spotify.com/track/7x9t38yZB45MfvV1JkDzxh"
+    },
+    {
+      "added_at": "2026-08-26 09:42:17",
+      "album": {
+        "name": "The Odyssey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 159258,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO"
     },
     {
       "added_at": "2026-08-26 09:42:17",
@@ -239,22 +303,6 @@
       "duration_ms": 497000,
       "name": "Dreiton",
       "url": "https://open.spotify.com/track/79tsuz5Op5KSX58nST1BZT"
-    },
-    {
-      "added_at": "2026-08-26 09:42:17",
-      "album": {
-        "name": "An empty bliss beyond this World",
-        "url": "https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG"
-      },
-      "artists": [
-        {
-          "name": "The Caretaker",
-          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
-        }
-      ],
-      "duration_ms": 285510,
-      "name": "Camaraderie at arms length",
-      "url": "https://open.spotify.com/track/3GspPTCvxLffApefWWhRFh"
     },
     {
       "added_at": "2026-08-26 09:42:17",
@@ -1843,22 +1891,6 @@
       "duration_ms": 315426,
       "name": "Experience",
       "url": "https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj"
-    },
-    {
-      "added_at": "2026-08-26 09:42:17",
-      "album": {
-        "name": "memories that never existed",
-        "url": "https://open.spotify.com/album/5Ue9nBIyhQmIxpAHePfdln"
-      },
-      "artists": [
-        {
-          "name": "Subho Beatz",
-          "url": "https://open.spotify.com/artist/6alkL33ZSBdwGO1fwlmvhS"
-        }
-      ],
-      "duration_ms": 74000,
-      "name": "something i never said to you",
-      "url": "https://open.spotify.com/track/6xufsM8Va9AmR0ieJsLVKV"
     },
     {
       "added_at": "2026-08-26 09:42:17",

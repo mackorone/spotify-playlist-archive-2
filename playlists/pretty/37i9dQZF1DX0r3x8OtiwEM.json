@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1077213,
+  "num_followers": 1077247,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -371,30 +371,6 @@
     {
       "added_at": "2026-10-23 04:00:53",
       "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
-    },
-    {
-      "added_at": "2026-10-23 04:00:53",
-      "album": {
         "name": "Stay There",
         "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2026-10-23 04:00:53",
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
     },
     {
       "added_at": "2026-10-23 04:00:53",
@@ -1015,6 +1015,30 @@
     {
       "added_at": "2026-10-23 04:00:53",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Mario Eighta",
+          "url": "https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m"
+        }
+      ],
+      "duration_ms": 165692,
+      "name": "17",
+      "url": "https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1"
+    },
+    {
+      "added_at": "2026-10-23 04:00:53",
+      "album": {
         "name": "Landlords Nightmare",
         "url": "https://open.spotify.com/album/2FT5DYdQQPQWmuhlEkUsij"
       },
@@ -1099,26 +1123,30 @@
     {
       "added_at": "2026-10-23 04:00:53",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn"
+        "name": "Looking For You",
+        "url": "https://open.spotify.com/album/0wY4yjXzBpL5wXSNjVMSD7"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
         },
         {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+          "name": "Tri/xon",
+          "url": "https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5"
         },
         {
-          "name": "Mario Eighta",
-          "url": "https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m"
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
         }
       ],
-      "duration_ms": 165692,
-      "name": "17",
-      "url": "https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1"
+      "duration_ms": 235025,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z"
     },
     {
       "added_at": "2026-10-23 04:00:53",
@@ -1179,6 +1207,22 @@
     {
       "added_at": "2026-10-23 04:00:53",
       "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv"
+    },
+    {
+      "added_at": "2026-10-23 04:00:53",
+      "album": {
         "name": "Born Like That",
         "url": "https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q"
       },
@@ -1195,22 +1239,6 @@
       "duration_ms": 225892,
       "name": "Born Like That",
       "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
-    },
-    {
-      "added_at": "2026-10-23 04:00:53",
-      "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv"
     },
     {
       "added_at": "2026-10-23 04:00:53",
@@ -1263,30 +1291,6 @@
       "duration_ms": 265511,
       "name": "Rivers and Homes Retake",
       "url": "https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL"
-    },
-    {
-      "added_at": "2026-10-23 04:00:53",
-      "album": {
-        "name": "Be My Own",
-        "url": "https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
-        },
-        {
-          "name": "MONTE",
-          "url": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Be My Own",
-      "url": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
     }
   ],
   "unique_name": "Lowkey Tech",

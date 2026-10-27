@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113049,
+  "num_followers": 113047,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "MANGO",
+        "url": "https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 196221,
+      "name": "MANGO",
+      "url": "https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "Talk To Me, Zara",
         "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
-        "name": "MANGO",
-        "url": "https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 196221,
-      "name": "MANGO",
-      "url": "https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K"
-      },
-      "artists": [
-        {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
-        }
-      ],
-      "duration_ms": 210927,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 160846,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K"
+      },
+      "artists": [
+        {
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        }
+      ],
+      "duration_ms": 210927,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
+        "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
+        "url": "https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G"
+      },
+      "artists": [
+        {
+          "name": "Wojtek Szuma\u0144ski",
+          "url": "https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI"
+        }
+      ],
+      "duration_ms": 181770,
+      "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
+      "url": "https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
         "name": "YEYEYO (the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122)",
         "url": "https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
-        "url": "https://open.spotify.com/album/4O8TGeIiouXQHRCGAuaZ0G"
-      },
-      "artists": [
-        {
-          "name": "Wojtek Szuma\u0144ski",
-          "url": "https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI"
-        }
-      ],
-      "duration_ms": 181770,
-      "name": "Nie wszystko z\u0142oto, co si\u0119 \u015bwieci",
-      "url": "https://open.spotify.com/track/5LZocXXj5vhNcHzZLGp3VB"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Zanim Znikniesz",
         "url": "https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 186310,
       "name": "Zanim Znikniesz",
       "url": "https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv"
+    },
+    {
+      "added_at": "2026-10-02 15:28:11",
+      "album": {
+        "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+        "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
+      },
+      "artists": [
+        {
+          "name": "Larah",
+          "url": "https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp"
+        }
+      ],
+      "duration_ms": 174243,
+      "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+      "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
     },
     {
       "added_at": "2026-10-02 15:28:11",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
-        "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
-      },
-      "artists": [
-        {
-          "name": "Larah",
-          "url": "https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp"
-        }
-      ],
-      "duration_ms": 174243,
-      "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
-      "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
-    },
-    {
-      "added_at": "2026-10-02 15:28:11",
-      "album": {
         "name": "Terapia dla par",
         "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-10-02 15:28:11",
       "album": {
-        "name": "Zapomnij mnie",
-        "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
+        "name": "To nie o mnie + Zimne ognie",
+        "url": "https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6"
       },
       "artists": [
         {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+          "name": "Kasia Sienkiewicz",
+          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Zapomnij mnie",
-      "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
+      "duration_ms": 183311,
+      "name": "Zimne ognie",
+      "url": "https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0"
     }
   ],
   "unique_name": "... ale najpierw kawa",

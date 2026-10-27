@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 6 | [Revenge](https://open.spotify.com/track/3h9jy7cOpyIyAxllvaXZbg) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1SiZrYRGkJ19v7Bxx0noc7) | 3:07 |
 | 7 | [Save Your Soul](https://open.spotify.com/track/4ln9MQz4OChaV3eqGNS7BU) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:07 |
 | 8 | [Charged Up](https://open.spotify.com/track/5T9eCpmP2lJ0YDEW1qxwPu) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:59 |
-| 9 | [Toxic](https://open.spotify.com/track/0eQPuhfso3HHFx18o0H9hP) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 2:14 |
-| 10 | [Distance](https://open.spotify.com/track/1QoK4t3mwW6sv8B79kJYuc) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:01 |
+| 9 | [Distance](https://open.spotify.com/track/1QoK4t3mwW6sv8B79kJYuc) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:01 |
+| 10 | [Toxic](https://open.spotify.com/track/0eQPuhfso3HHFx18o0H9hP) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 2:14 |
 | 11 | [Sport](https://open.spotify.com/track/10YONGm7cTni3bzHQvxTKF) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 1:46 |
 | 12 | [Insane](https://open.spotify.com/track/0bgObY1cL1nwahRRU38p8R) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:48 |
 | 13 | [Trust Issues](https://open.spotify.com/track/4t8zfiwV9EruvsD1oHdqTq) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 39 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
 | 40 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
 
-Snapshot ID: `Acf65gAAAAA92Jl+F2WcgH8DlXLn3suj`
+Snapshot ID: `AcgAwgAAAAD7Bt9R+QBqQPWNGOSDoU8Q`

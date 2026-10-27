@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 359996,
+  "num_followers": 360030,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "New Memories",
         "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 194655,
       "name": "New Memories",
       "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Dali",
-        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        }
-      ],
-      "duration_ms": 179072,
-      "name": "Dali",
-      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "079",
         "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Dali",
+        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        }
+      ],
+      "duration_ms": 179072,
+      "name": "Dali",
+      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Kikada",
-        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Kikada",
-      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Mr. Navigator",
         "url": "https://open.spotify.com/album/7j2CtumDjqj5nve12AmTjy"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 152238,
       "name": "Mr. Navigator",
       "url": "https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Kikada",
+        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Kikada",
+      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

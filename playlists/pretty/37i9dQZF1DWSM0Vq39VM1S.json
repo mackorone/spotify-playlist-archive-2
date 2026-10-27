@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388388,
+  "num_followers": 388382,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 316301,
-      "name": "There's A Rhythmn",
-      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
         "name": "Ride It Out",
         "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 209000,
       "name": "Ride It Out",
       "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -495,38 +495,38 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Some Birds Don't Fly",
-        "url": "https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo"
+        "name": "La femme aux yeux de sel",
+        "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
         },
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 206480,
-      "name": "Some Birds Don't Fly",
-      "url": "https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C"
+      "duration_ms": 232813,
+      "name": "Drink the Ocean (feat. Oracle Sisters)",
+      "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
     },
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Paint The Picture",
-        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
       },
       "artists": [
         {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 195093,
-      "name": "Paint The Picture",
-      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
+      "duration_ms": 285240,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -551,22 +551,38 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "La femme aux yeux de sel",
-        "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
+        "name": "Paint The Picture",
+        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
       },
       "artists": [
         {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        },
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Drink the Ocean (feat. Oracle Sisters)",
-      "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
+      "duration_ms": 195093,
+      "name": "Paint The Picture",
+      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
+        "name": "Some Birds Don't Fly",
+        "url": "https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Some Birds Don't Fly",
+      "url": "https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -583,22 +599,6 @@
       "duration_ms": 230661,
       "name": "The Rest Of Me",
       "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Gliding for the sun",
-        "url": "https://open.spotify.com/album/7wOV4zU3RI6JTNhgultRwU"
-      },
-      "artists": [
-        {
-          "name": "Diva Faune",
-          "url": "https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6F67iZ1PGel8iMkLipvTIY"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
         "name": "Against The Current",
         "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+        "name": "Gliding for the sun",
+        "url": "https://open.spotify.com/album/7wOV4zU3RI6JTNhgultRwU"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Diva Faune",
+          "url": "https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT"
         }
       ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+      "duration_ms": 285026,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6F67iZ1PGel8iMkLipvTIY"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Changes Rising",
-        "url": "https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS"
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 196908,
-      "name": "Changes Rising",
-      "url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP"
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
+        "name": "Changes Rising",
+        "url": "https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 196908,
+      "name": "Changes Rising",
+      "url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
         "name": "Your Woman",
         "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Una lunghissima ombra",
-        "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
-      },
-      "artists": [
-        {
-          "name": "Andrea Laszlo De Simone",
-          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
-        }
-      ],
-      "duration_ms": 389173,
-      "name": "Ricordo tattile",
-      "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
         "name": "What A Night",
         "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 241398,
       "name": "What A Night",
       "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
+        "name": "Una lunghissima ombra",
+        "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
+      },
+      "artists": [
+        {
+          "name": "Andrea Laszlo De Simone",
+          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
+        }
+      ],
+      "duration_ms": 389173,
+      "name": "Ricordo tattile",
+      "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
         "name": "Joy Will Find Its Way",
         "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200243,
       "name": "The Bed Unfold",
       "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
     },
     {
       "added_at": "2026-10-15 22:00:47",

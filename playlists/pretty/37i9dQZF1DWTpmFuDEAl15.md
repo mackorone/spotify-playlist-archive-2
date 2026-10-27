@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,873 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 36 | [Be Honest](https://open.spotify.com/track/3F7FoSj6zuAVSElSh2edDA) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Be Honest](https://open.spotify.com/album/6jq2nhCkz61Qp9COHmbO6S) | 3:57 |
 | 37 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 38 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
-| 39 | [Whatcha Mean](https://open.spotify.com/track/3sk4gnML9Vh7IRL0OCVdZv) | [Rezt](https://open.spotify.com/artist/4newTMdBcavJ5LjBOriIuR) | [Two Sides Of A Coin](https://open.spotify.com/album/0bElONjaGWdJ9JeeEfJbg1) | 2:14 |
+| 39 | [Whatcha Mean](https://open.spotify.com/track/3sk4gnML9Vh7IRL0OCVdZv) | [OFFBUCKS](https://open.spotify.com/artist/2G8pE2H8GFzgytCf5itVoX) | [Two Sides Of A Coin](https://open.spotify.com/album/0bElONjaGWdJ9JeeEfJbg1) | 2:14 |
 | 40 | [Trance \(Walk It Down\)](https://open.spotify.com/track/67nLbwl41mS7KSvIvuiLs5) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/5363wdqqqTUdUPecJVzNCC) | 2:41 |
 | 41 | [Sorry Oga!](https://open.spotify.com/track/4w1jMo7iPMNwJKiPlU694s) | [Obi Original](https://open.spotify.com/artist/1S5rzgpwdSbYfimpcOkICu), [The Black Atlantics](https://open.spotify.com/artist/7rotoTBUL2rftPeIwomIxR) | [Sorry Oga!](https://open.spotify.com/album/2NpXRbtCRAPC0yssDBK54E) | 5:24 |
 | 42 | [Swang.](https://open.spotify.com/track/76RXD3kkB65kHgJpRLeojm) | [BBYKOBE](https://open.spotify.com/artist/4M38DKmHBpyVBqkw3hoTFK) | [PUSSY PINK](https://open.spotify.com/album/5sdwUp4G4b8No0077SygOk) | 3:21 |

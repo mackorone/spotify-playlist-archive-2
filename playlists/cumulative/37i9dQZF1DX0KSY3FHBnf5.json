@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 121081,
       "name": "1am",
       "url": "https://open.spotify.com/track/0wd6cYGh7gp5D2cvfMRvFS"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 82500,
       "name": "afterglow walks",
       "url": "https://open.spotify.com/track/7ui54H9tHbz2DQCDuJvVwT"
@@ -528,6 +528,24 @@
       "duration_ms": 154285,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2W3PBkEnubmZtH7aT6u10U"
+    },
+    {
+      "album": {
+        "name": "another reality",
+        "url": "https://open.spotify.com/album/2wcDBx3PUS8XvxRbk5qcGF"
+      },
+      "artists": [
+        {
+          "name": "\u00d8nedream",
+          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "another reality",
+      "url": "https://open.spotify.com/track/674lWCbDfHrgEy1JFdR7oV"
     },
     {
       "album": {
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 81103,
       "name": "buried in the quiet",
       "url": "https://open.spotify.com/track/6fRzvp2qrDCWioPytMVvk4"
@@ -1905,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "dreamers",
+        "url": "https://open.spotify.com/album/2tW8JLJi92s52kTWA6lznK"
+      },
+      "artists": [
+        {
+          "name": "little light",
+          "url": "https://open.spotify.com/artist/34uo8c1DmxlQfF9OsylE1r"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "dreamers",
+      "url": "https://open.spotify.com/track/3Eka5SBwkUIl32RYbyUIYO"
+    },
+    {
+      "album": {
         "name": "dreaming of the past",
         "url": "https://open.spotify.com/album/6vt5yxkckDHY5GV13YS3B0"
       },
@@ -2232,7 +2268,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 172800,
       "name": "empty world.",
       "url": "https://open.spotify.com/track/0pvRrYAqe0kplfBbCCv1Dx"
@@ -2406,7 +2442,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 128316,
       "name": "eternal",
       "url": "https://open.spotify.com/track/6AE8TRHjPoWrrymf9fHiRf"
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 75543,
       "name": "faith",
       "url": "https://open.spotify.com/track/4M2fCQRL0FXTkBtkNglCC3"
@@ -2646,6 +2682,28 @@
       "duration_ms": 123812,
       "name": "Fallen Down - \u00d8neheart Remix",
       "url": "https://open.spotify.com/track/5GnrQceQgDnBNFPwkQvZyW"
+    },
+    {
+      "album": {
+        "name": "far away",
+        "url": "https://open.spotify.com/album/7ifcoC8CzMuetF0pfJAcMG"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "Fujiwara",
+          "url": "https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99459,
+      "name": "far away",
+      "url": "https://open.spotify.com/track/45MSGZXAYu8XCLrHunDKNP"
     },
     {
       "album": {
@@ -3161,6 +3219,28 @@
     },
     {
       "album": {
+        "name": "gone forever",
+        "url": "https://open.spotify.com/album/6WNGe89WKguzdyuFXey4ya"
+      },
+      "artists": [
+        {
+          "name": "ohhdeer",
+          "url": "https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x"
+        },
+        {
+          "name": "c152",
+          "url": "https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70736,
+      "name": "gone forever",
+      "url": "https://open.spotify.com/track/2yrslym0iTLO3JmCKKke0Q"
+    },
+    {
+      "album": {
         "name": "granular",
         "url": "https://open.spotify.com/album/32CQ4YbWsCl1axqcy2iKAj"
       },
@@ -3621,6 +3701,28 @@
     },
     {
       "album": {
+        "name": "lostness",
+        "url": "https://open.spotify.com/album/0xFhuIp45SHKBrBW2faast"
+      },
+      "artists": [
+        {
+          "name": "Peter Mowry",
+          "url": "https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU"
+        },
+        {
+          "name": "idontno",
+          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104750,
+      "name": "i know",
+      "url": "https://open.spotify.com/track/2t2LBd8BqNf5BdcRLVFJIY"
+    },
+    {
+      "album": {
         "name": "i left you in a dream",
         "url": "https://open.spotify.com/album/1anAyoGm1JUk4fDTpBGRJP"
       },
@@ -3780,7 +3882,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 90352,
       "name": "i was the mistake",
       "url": "https://open.spotify.com/track/1L0V6Tup8erOLfUhIVDidl"
@@ -3904,6 +4006,24 @@
       "duration_ms": 247893,
       "name": "II (Nothing Exists Alone)",
       "url": "https://open.spotify.com/track/0tZ2lhPfUVmMDxqMtr6OTw"
+    },
+    {
+      "album": {
+        "name": "imminence",
+        "url": "https://open.spotify.com/album/6J59ScMt0bu5yzwm5myFl1"
+      },
+      "artists": [
+        {
+          "name": "ALLP",
+          "url": "https://open.spotify.com/artist/0CxeXpmfs8sk2rEOkETAGL"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "imminence",
+      "url": "https://open.spotify.com/track/5oPd9m57Gn8keAEeDya2JS"
     },
     {
       "album": {
@@ -5210,7 +5330,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 88000,
       "name": "never the same",
       "url": "https://open.spotify.com/track/4mtZq8K07uhysQmouIMWD5"
@@ -5395,6 +5515,46 @@
     },
     {
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/29R0PNRlXCwKYtGluROC51"
+      },
+      "artists": [
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        },
+        {
+          "name": "Etxrnal",
+          "url": "https://open.spotify.com/artist/42RlFzMWXubELgCiJQLNfh"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90068,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/33K8bCmRApsYLtgGwV75Ha"
+    },
+    {
+      "album": {
+        "name": "nostalgic flashbacks",
+        "url": "https://open.spotify.com/album/4yZUXuLdj8OZ5KmsjqS8Ie"
+      },
+      "artists": [
+        {
+          "name": "sevenlies",
+          "url": "https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110344,
+      "name": "nostalgic flashbacks",
+      "url": "https://open.spotify.com/track/2DoZnhEWlFyiLcpjUGkC5z"
+    },
+    {
+      "album": {
         "name": "nothing feels right",
         "url": "https://open.spotify.com/album/55rdyukNPP93ysONdiDiSs"
       },
@@ -5442,7 +5602,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 80447,
       "name": "nothing to say",
       "url": "https://open.spotify.com/track/20Fem5hwVq15N3UBzPrj2V"
@@ -5731,6 +5891,32 @@
     },
     {
       "album": {
+        "name": "outlands",
+        "url": "https://open.spotify.com/album/31KTNuHLFfqHjbaZBw5n6O"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        },
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86296,
+      "name": "outlands",
+      "url": "https://open.spotify.com/track/2CRMi4AI5xsmUsWJUC0ZHv"
+    },
+    {
+      "album": {
         "name": "hear what I hear",
         "url": "https://open.spotify.com/album/31sJ3ycfZdcDHNDAxxFTv4"
       },
@@ -5826,6 +6012,28 @@
       "duration_ms": 144039,
       "name": "paranoia",
       "url": "https://open.spotify.com/track/5r4auqBxZ4EH0Abqk7DUrh"
+    },
+    {
+      "album": {
+        "name": "Paris (where?? Remix)",
+        "url": "https://open.spotify.com/album/14huGEEjdG3eyOraQfwMNA"
+      },
+      "artists": [
+        {
+          "name": "Else",
+          "url": "https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B"
+        },
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218285,
+      "name": "Paris (where?? Remix)",
+      "url": "https://open.spotify.com/track/3kpbhX8epR4ySjYDhr5ksO"
     },
     {
       "album": {
@@ -6775,6 +6983,28 @@
     },
     {
       "album": {
+        "name": "sleepwalk",
+        "url": "https://open.spotify.com/album/6AlqAnKx5LeMo7EqKXqGFF"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "sleepwalk",
+      "url": "https://open.spotify.com/track/4vmwaAExDiqJoSu3zsbJuq"
+    },
+    {
+      "album": {
         "name": "sleepy eyes",
         "url": "https://open.spotify.com/album/6wdyfl5HrWrK15Fwbyq66R"
       },
@@ -7070,6 +7300,24 @@
       "duration_ms": 128000,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/0w1mQ0mOKyCNejDiJyIX3c"
+    },
+    {
+      "album": {
+        "name": "stayed for a moment",
+        "url": "https://open.spotify.com/album/1eG6WudL5hWdi5s9NUHXrW"
+      },
+      "artists": [
+        {
+          "name": "Mistia",
+          "url": "https://open.spotify.com/artist/1AW9mo2ikcOgpV691aJXeL"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103245,
+      "name": "stayed for a moment",
+      "url": "https://open.spotify.com/track/6kDUltQRqJp15NsNZ11KxS"
     },
     {
       "album": {
@@ -7805,6 +8053,24 @@
     },
     {
       "album": {
+        "name": "vacant III",
+        "url": "https://open.spotify.com/album/0nCGuzMO9N8Gpn7jrsBdb8"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188661,
+      "name": "vacant III",
+      "url": "https://open.spotify.com/track/6FrM79mbGxbylNvi1NNGeM"
+    },
+    {
+      "album": {
         "name": "vanquish",
         "url": "https://open.spotify.com/album/1GfA1Hi4rCwuWXg1DAEXD3"
       },
@@ -8048,7 +8314,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 72000,
       "name": "we'll meet someday",
       "url": "https://open.spotify.com/track/2pjszxnMJbfgC7PiE1VPXK"
@@ -8510,6 +8776,24 @@
       "duration_ms": 213333,
       "name": "Wintry",
       "url": "https://open.spotify.com/track/3PVrNNjbvONiK5sOrGrqzy"
+    },
+    {
+      "album": {
+        "name": "wish for you",
+        "url": "https://open.spotify.com/album/20lAVHbMpLY12bNl2Z9lFz"
+      },
+      "artists": [
+        {
+          "name": "leapyear",
+          "url": "https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87500,
+      "name": "wish for you",
+      "url": "https://open.spotify.com/track/35I8QGun0k7XMK5m2nKtTn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 
 > This is Itzhak Perlman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,393 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,395 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 | 49 | [Sarasate: Spanish Dances, Op\. 23: II\. Zapateado \(Allegro\)](https://open.spotify.com/track/0l0wAg37zHIadmfSc282Hu) | [Pablo de Sarasate](https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Samuel Sanders](https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH) | [Virtuoso Violin](https://open.spotify.com/album/7jAJuBkjNtvJRO78fslikm) | 3:15 |
 | 50 | [Remembrances](https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:16 |
 
-Snapshot ID: `atqjgAAAAAA4wMVoBHzfgVJ1cuNr3fa4`
+Snapshot ID: `at1GgAAAAACFXsEJB3DkEwPUWqXVDSlB`

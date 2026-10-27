@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Summer Cem, Lune, Berq, BUNT., girl in red, EAZ, Juju & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,040 likes - 92 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,038 likes - 92 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

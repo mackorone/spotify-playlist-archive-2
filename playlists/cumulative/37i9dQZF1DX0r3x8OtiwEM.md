@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-813 songs - 3 day 2 hr 58 min
+814 songs - 3 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Baby Run](https://open.spotify.com/track/44COSTXHkxPVGfeyA038Qq) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Baby Run](https://open.spotify.com/album/7FFjxOPlJ3RZe5omgkKTpc) | 4:47 | 2026-01-30 | 2026-03-17 |
 | [Baharat](https://open.spotify.com/track/6iuW3TfMShUo5FTi6NNsRC) | [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Baharat](https://open.spotify.com/album/4nDtzWgOouNi3e09jNUwJa) | 4:01 | 2021-04-08 | 2022-07-25 |
 | [Balloons \- Made in Paris Remix](https://open.spotify.com/track/6sHBpR20gmPQmsAiqhbhJe) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Made in Paris](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:46 | 2021-05-07 | 2022-06-10 |
-| [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 | 2026-09-18 |  |
+| [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 | 2026-09-18 | 2026-10-27 |
 | [Be Patient](https://open.spotify.com/track/2d9QvDQS5ijgMBynTnYMa3) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Be Patient](https://open.spotify.com/album/3xjRJcTxSTvP4QeR8EX1vj) | 3:08 | 2022-04-15 | 2022-04-20 |
 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 | 2026-04-24 |  |
 | [Beacon](https://open.spotify.com/track/5rlVY4N61BYRhEgBT8bLQk) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [The Beauty Of It All](https://open.spotify.com/album/5ckEQxkxWVwC6SMPu0z266) | 4:50 | 2025-10-03 | 2025-11-04 |
@@ -407,6 +407,7 @@
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-09-01 | 2026-01-15 |
 | [Lonesome Ghost](https://open.spotify.com/track/05h6pboyWT6WAEwB1CqbP3) | [Collective States](https://open.spotify.com/artist/2rhwvy3bJ8sOazAkbNlOEa) | [Kamino](https://open.spotify.com/album/768NEGmqF9l6Wwl29ixWqR) | 7:43 | 2020-03-02 | 2020-07-25 |
 | [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-30 | 2024-09-17 |
+| [Looking For You](https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tri/xon](https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Looking For You](https://open.spotify.com/album/0wY4yjXzBpL5wXSNjVMSD7) | 3:55 | 2026-10-23 |  |
 | [Loop](https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Loop](https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg) | 3:18 | 2025-08-22 | 2026-08-25 |
 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 | 2022-06-24 | 2024-05-25 |
 | [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 | 2025-05-23 | 2025-09-28 |

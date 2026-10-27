@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47056,
+  "num_followers": 47049,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "FIORI MORTI",
+        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
+      },
+      "artists": [
+        {
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+        }
+      ],
+      "duration_ms": 136313,
+      "name": "FIORI MORTI",
+      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 176259,
       "name": "Resta Vivo",
       "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "FIORI MORTI",
-        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
-      },
-      "artists": [
-        {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
-        }
-      ],
-      "duration_ms": 136313,
-      "name": "FIORI MORTI",
-      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1063,26 +1063,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "PERCH\u00c9 NON TI CAPIVO",
-        "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
       },
       "artists": [
         {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        },
-        {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Frada",
-          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
         }
       ],
-      "duration_ms": 142725,
-      "name": "PERCH\u00c9 NON TI CAPIVO",
-      "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1103,18 +1095,26 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+        "name": "PERCH\u00c9 NON TI CAPIVO",
+        "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
       },
       "artists": [
         {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        },
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Frada",
+          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
+      "duration_ms": 142725,
+      "name": "PERCH\u00c9 NON TI CAPIVO",
+      "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+        "name": "Foglio rosa",
+        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
       },
       "artists": [
         {
@@ -1412,9 +1412,9 @@
           "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+      "duration_ms": 139540,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "non sto bene, va bene cos\u00ec",
-        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
-      },
-      "artists": [
-        {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
-        }
-      ],
-      "duration_ms": 113816,
-      "name": "Ho perso il cuore,",
-      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Atlantico",
         "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
       },
@@ -1487,8 +1471,24 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Foglio rosa",
-        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
+        "name": "non sto bene, va bene cos\u00ec",
+        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
+      },
+      "artists": [
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+        }
+      ],
+      "duration_ms": 113816,
+      "name": "Ho perso il cuore,",
+      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 139540,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1611,22 +1611,6 @@
       "duration_ms": 151013,
       "name": "Winston Blue",
       "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Buone Maniere Per Giovani Predatori",
-        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
-      },
-      "artists": [
-        {
-          "name": "Sxrrxwland",
-          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
-        }
-      ],
-      "duration_ms": 233503,
-      "name": "Lasciami Qui",
-      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1687,6 +1671,22 @@
       "duration_ms": 174549,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Buone Maniere Per Giovani Predatori",
+        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
+      },
+      "artists": [
+        {
+          "name": "Sxrrxwland",
+          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
+        }
+      ],
+      "duration_ms": 233503,
+      "name": "Lasciami Qui",
+      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
     },
     {
       "added_at": "2026-07-30 22:02:52",

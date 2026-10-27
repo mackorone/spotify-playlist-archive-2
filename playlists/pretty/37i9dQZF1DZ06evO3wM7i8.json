@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 37076,
+  "num_followers": 37081,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAADaNv1aMTO0tftTw9WS8bnW",
+  "snapshot_id": "atv1AAAAAABXibUTnkef3PUhbfVxjJ3w",
   "tracks": [
     {
       "added_at": null,
@@ -650,11 +650,19 @@
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 176306,
-      "name": "Place de Brouckere",
-      "url": "https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly"
+      "duration_ms": 157840,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
     },
     {
       "added_at": null,
@@ -730,19 +738,11 @@
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 157840,
-      "name": "Ol' Man River",
-      "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
+      "duration_ms": 176306,
+      "name": "Place de Brouckere",
+      "url": "https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Django Reinhardt",
-        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
+        "name": "Les chansons d'or",
+        "url": "https://open.spotify.com/album/3iBvktnN7MxDUUl4wYbVIU"
       },
       "artists": [
         {
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/1j4Rgo2BjoCEXdlLj3Y1Gb"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
-      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
+      "duration_ms": 171106,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/1P08botqMPXCz5isAtNKAc"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Les chansons d'or",
-        "url": "https://open.spotify.com/album/3iBvktnN7MxDUUl4wYbVIU"
+        "name": "The Essential Django Reinhardt",
+        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
       },
       "artists": [
         {
@@ -860,13 +860,13 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/1j4Rgo2BjoCEXdlLj3Y1Gb"
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         }
       ],
-      "duration_ms": 171106,
-      "name": "Nagasaki",
-      "url": "https://open.spotify.com/track/1P08botqMPXCz5isAtNKAc"
+      "duration_ms": 222266,
+      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
+      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limitless Jazz, Vol. 31",
-        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 181009,
       "name": "Viper's Dream",
       "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless Jazz, Vol. 31",
+        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
     }
   ],
   "unique_name": "This Is Django Reinhardt",

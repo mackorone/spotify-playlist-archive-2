@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With BIRRD, Douran, winterburn and more",
+  "description": "With winterburn, After Cooking, Douran and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 252399,
       "name": "20 Meters",
       "url": "https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 272156,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 269866,
       "name": "Alpenglow",
       "url": "https://open.spotify.com/track/3Me9KLy0xaM6GSsMwJJiKB"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 279359,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/26BaGezokStdgrM4kbBrsn"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 251707,
       "name": "California",
       "url": "https://open.spotify.com/track/5PMqsUfcYMHV3LnmIx4RGV"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 237383,
       "name": "Copper",
       "url": "https://open.spotify.com/track/37Sf6kOfn3bZVhLAfWiVmA"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 228387,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2yh4GuJeMaeet78VUJjH22"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 289785,
       "name": "Feel Something - Lake Turner Remix",
       "url": "https://open.spotify.com/track/0fS7uJav3YGDivO8kxfNUt"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 170625,
       "name": "in pursuit of connection",
       "url": "https://open.spotify.com/track/0kPBcaY5fjP1KHu903DECC"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 339760,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/4r4eTvYnjzyQnMpWei7Qgb"
@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 232258,
       "name": "Korienz\u00e9",
       "url": "https://open.spotify.com/track/5vBHUYljaHEVUKI3blpb8i"
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 203779,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4UAxmiriWgNyu40rePrrsn"
@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 303859,
       "name": "Nighttime Feeling (Weekend Love)",
       "url": "https://open.spotify.com/track/5uNfp8283dTgqmnmYTvqrJ"
@@ -3938,7 +3938,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -4480,7 +4480,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 240000,
       "name": "Premier contact",
       "url": "https://open.spotify.com/track/3fJPlwDCvx3dyKIoaSeANr"
@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 269471,
       "name": "Sf",
       "url": "https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD"
@@ -5098,7 +5098,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 169189,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 206488,
       "name": "Something You Need",
       "url": "https://open.spotify.com/track/35YssL3Ul77kSZKpKLYkQl"
@@ -6222,7 +6222,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 238124,
       "name": "u n k n o w n",
       "url": "https://open.spotify.com/track/6ZMjxnnITDHlawzFbMaDyt"
@@ -6666,7 +6666,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 253884,
       "name": "where did all the emotion go?",
       "url": "https://open.spotify.com/track/3htZTXzNepPeycbszowENV"
@@ -6702,7 +6702,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 489523,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/4NJvhKZO5KNkfuB05HTWb0"
@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

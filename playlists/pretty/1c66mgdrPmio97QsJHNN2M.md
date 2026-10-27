@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,107 likes - 253 songs - 13 hr 9 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,116 likes - 258 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 251 | [Messi I Love You](https://open.spotify.com/track/19GDhoy8WMIvwkLpENcf2F) | [Sergio Wind](https://open.spotify.com/artist/3GROm6mceRWx5O1EGZTNnD) | [Messi I Love You](https://open.spotify.com/album/2Swpri5nb565sX09jMkvU0) | 2:27 |
 | 252 | [Honest](https://open.spotify.com/track/7pjlqfI9Zu5hbceqCAu6q6) | [Anton Johnson](https://open.spotify.com/artist/1KysZrrs5MqlAnR7BnjZ76) | [Honest](https://open.spotify.com/album/6H8brGBEdD6QkJSVSBx0yF) | 2:28 |
 | 253 | [War on the Inside](https://open.spotify.com/track/1GcY0sqbUzgmlbReC8hazK) | [Joshua Abnett](https://open.spotify.com/artist/4lgAJ2J4Y396e8lYcZJzDK) | [Where It All Begins](https://open.spotify.com/album/0aG0YJfdwJMt3lb60BmkdC) | 3:12 |
+| 254 | [Babe](https://open.spotify.com/track/5BK1YFHK78Tu5T5PBOvZyN) | [Jason Bryant](https://open.spotify.com/artist/59Lt2yv605vmRDvI7OnDWA) | [Babe \(Songs About Bella\)](https://open.spotify.com/album/7Mr2vrhyV94B5m1c7i2yCs) | 2:32 |
+| 255 | [Lucky in a Corrupt Place](https://open.spotify.com/track/6praACVQ9cdhNtZk6H6LeW) | [XAURAX](https://open.spotify.com/artist/5ABgbqKhlZ6OH5FLEKD8Nv) | [Lucky in a Corrupt Place](https://open.spotify.com/album/2DlfviqPkxRMYFiEcnzrSl) | 2:24 |
+| 256 | [Heart On My Sleeve](https://open.spotify.com/track/1nJXH2R67WQpMm3guvZdc0) | [Kian Aitken](https://open.spotify.com/artist/0jmFvKnMncITscDQhTcCEa) | [Heart On My Sleeve](https://open.spotify.com/album/1nhuDwsRjXKonI2EHRR0MH) | 2:11 |
+| 257 | [Sail Away](https://open.spotify.com/track/7EB4SNhPQiYb6pohZ89dmU) | [Kian Aitken](https://open.spotify.com/artist/0jmFvKnMncITscDQhTcCEa) | [Heart On My Sleeve](https://open.spotify.com/album/1nhuDwsRjXKonI2EHRR0MH) | 2:29 |
+| 258 | [Pearls](https://open.spotify.com/track/5pXNmz5OYjDrtUKeYsTlfN) | [of Sky](https://open.spotify.com/artist/3eylf9aH6uhjmdGmyiZZwA) | [Pearls](https://open.spotify.com/album/2MUENhlxAOgqPQJUxoZEBB) | 2:27 |
 
-Snapshot ID: `AAA9eidUWqhM/wdJ8OxehHHxTP/2FfbT`
+Snapshot ID: `AAA9f8/vuDNbee3mFJtvKzBCXJyGD/rk`

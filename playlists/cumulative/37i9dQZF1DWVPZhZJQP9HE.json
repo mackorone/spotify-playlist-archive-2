@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Aeroplane (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/18ARlG5AApp10w0wKUgps5"
+      },
+      "artists": [
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168188,
+      "name": "Aeroplane - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2iM6Pzrx6xBVZxz14zwXpZ"
+    },
+    {
+      "album": {
         "name": "AI Sundari",
         "url": "https://open.spotify.com/album/63C0t6D3Kgv5nfn2EOK8J6"
       },
@@ -9002,7 +9020,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 199218,
       "name": "Mela Yeri Vaa (From \"Loopd\")",
       "url": "https://open.spotify.com/track/5cll59WI483QAn4oHVSUWg"
@@ -12046,7 +12064,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 195200,
       "name": "Oyaamaley",
       "url": "https://open.spotify.com/track/2WnpzuKf3aV0oeaIRmkJO4"
@@ -17762,7 +17780,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 240000,
       "name": "Vizhiyale - From \"Panchayat Series\"",
       "url": "https://open.spotify.com/track/5nK3nRkXXr1XdECb27JxTS"

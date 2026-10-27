@@ -1,6 +1,6 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 240959,
+  "num_followers": 240993,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Freedom Bus (feat. Jesse Welles)",
         "url": "https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 283234,
       "name": "Freedom Bus (feat. Jesse Welles)",
       "url": "https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The New World Wave",
-        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
-      },
-      "artists": [
-        {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "The New World Wave",
-      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 161023,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
         }
       ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
       },
       "artists": [
         {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         }
       ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Deportee / Oval Room",
-        "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Memphis Mariachi",
-          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
-      "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "1988",
         "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
       },
@@ -1415,38 +1391,26 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Great Television",
-        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
+        "name": "Deportee / Oval Room",
+        "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
       },
       "artists": [
         {
-          "name": "Elizabeth Cook",
-          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         },
         {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "The Easy Kind (feat. Wynonna)",
-      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Mr. Lincoln",
-        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
-      },
-      "artists": [
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
         {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+          "name": "Memphis Mariachi",
+          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
         }
       ],
-      "duration_ms": 196333,
-      "name": "Mr. Lincoln",
-      "url": "https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r"
+      "duration_ms": 243106,
+      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
+      "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1467,6 +1431,26 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Great Television",
+        "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Cook",
+          "url": "https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s"
+        },
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 215338,
+      "name": "The Easy Kind (feat. Wynonna)",
+      "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Broken Radio '22",
         "url": "https://open.spotify.com/album/1oW9ApWVjn2ezXeLBUK4Ak"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 221852,
       "name": "Broken Radio '22",
       "url": "https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "Mr. Lincoln",
+      "url": "https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Great American Cities",
-        "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
-      },
-      "artists": [
-        {
-          "name": "Joan Osborne",
-          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
-        }
-      ],
-      "duration_ms": 278720,
-      "name": "Great American Cities",
-      "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Finest Feelings",
         "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 205348,
       "name": "Finest Feelings",
       "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Great American Cities",
+        "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Great American Cities",
+      "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Walking Back To Georgia",
-      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 256026,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Walking Back To Georgia",
+      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Crossing Muddy Waters",
-        "url": "https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "Crossing Muddy Waters",
-      "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Crossing Muddy Waters",
+        "url": "https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "Crossing Muddy Waters",
+      "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Most Messed Up",
-        "url": "https://open.spotify.com/album/2AKIfsITXtRcHZL1u6xCQp"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 352546,
-      "name": "Longer Than You've Been Alive",
-      "url": "https://open.spotify.com/track/2qBfMn3hsyX6QFCOLZfZvV"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Time (The Revelator)",
         "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 288000,
       "name": "Everything Is Free",
       "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Most Messed Up",
+        "url": "https://open.spotify.com/album/2AKIfsITXtRcHZL1u6xCQp"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 352546,
+      "name": "Longer Than You've Been Alive",
+      "url": "https://open.spotify.com/track/2qBfMn3hsyX6QFCOLZfZvV"
     },
     {
       "added_at": "2026-10-02 04:01:37",

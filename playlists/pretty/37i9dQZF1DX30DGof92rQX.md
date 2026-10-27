@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Sheheryar Rehan, Lost Frequencies, Zoha Waseem.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,029 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,036 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 40 | [Dil Raat Bhar](https://open.spotify.com/track/4vX38LoW94Tp2kteZepp6x) | [Gulzaib Khan](https://open.spotify.com/artist/6ZAuQSxrlTRglSxHQugMOX), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Dil Raat Bhar](https://open.spotify.com/album/6ZtixF8O5yWm1ZJIR63HAG) | 2:56 |
 | 41 | [Kya tum khush ho?](https://open.spotify.com/track/0iB4YxvI7Pd9QHHptm76gY) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Kya tum khush ho?](https://open.spotify.com/album/6GOn9ioExtjkA4CoVxs2ov) | 2:56 |
 | 42 | [Nazar](https://open.spotify.com/track/70dAJmsOvEAZm8wpNLHhJA) | [SRMD](https://open.spotify.com/artist/4RigGF98zw6prPkYsy68JC), [Ammar](https://open.spotify.com/artist/7l8iAbYpBamBWR2QoxmZav) | [Nazar](https://open.spotify.com/album/6dvVqtn0S568yWRal8mXmr) | 2:56 |
-| 43 | [Majaal](https://open.spotify.com/track/2meVP0hoJj3mJnP6OsXvS9) | [Tehseen](https://open.spotify.com/artist/6zDkKkevCSbvdZhIOsRPY6) | [Majaal](https://open.spotify.com/album/75IHpaUp4UqsMSqnTndStc) | 2:07 |
+| 43 | [Majaal](https://open.spotify.com/track/2meVP0hoJj3mJnP6OsXvS9) | [Tehseen](https://open.spotify.com/artist/6zDkKkevCSbvdZhIOsRPY6), [Joshwa Javaid](https://open.spotify.com/artist/6c9Nnn4V6eLs6lLTdAFmmo) | [Majaal](https://open.spotify.com/album/75IHpaUp4UqsMSqnTndStc) | 2:07 |
 | 44 | [Dil Mere](https://open.spotify.com/track/3Q9WAZLUYaQiL0UCRbCM5n) | [Sharmeen Javed](https://open.spotify.com/artist/58BZTZbr9WYBP7EqIm5BaA), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Dil Mere](https://open.spotify.com/album/1Xg1NKQeFQwyCWAqqycWI8) | 2:07 |
 | 45 | [Tu Kahan](https://open.spotify.com/track/2OJy4N7kqQKiLLqcl2xd78) | [Ahmed Noman](https://open.spotify.com/artist/6Y1dq8E3xrCERBBIht2yIE), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [HASEEB](https://open.spotify.com/artist/6VTBfUo6LQmVKxat82WXNA) | [Tu Kahan](https://open.spotify.com/album/0JXrfmz4hRuE96BiGOxwEX) | 4:11 |
 | 46 | [Hold On](https://open.spotify.com/track/0oXzMatNWG4nx0VvVLr29v) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Hold On](https://open.spotify.com/album/02cssIZ1sMY0TiDK5kpTHd) | 2:54 |

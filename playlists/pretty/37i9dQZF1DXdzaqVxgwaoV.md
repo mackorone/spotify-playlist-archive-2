@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > En modo: simulacro navideño 🎄 🎅🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,034 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,023 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 31 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
 | 32 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
 | 33 | [Mensaje De Navidad](https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [Para Mi Fanaticada](https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa) | 4:15 |
-| 34 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 |
-| 35 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
-| 36 | [Mosaico de Merengues \- Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamoró de Manuel / El Pájaro Amarillo / El Gavilán](https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Para Bailar y Bailar con El Cuarteto Imperial](https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd) | 7:59 |
-| 37 | [Las Dos Camisas](https://open.spotify.com/track/5WBONPqKLcu4Mhd6qNyJ6M) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Al Que Le Gusta...Le Sabe](https://open.spotify.com/album/6rl4jrERozHBK1svCyNUyJ) | 4:05 |
+| 34 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
+| 35 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 |
+| 36 | [Las Dos Camisas](https://open.spotify.com/track/5WBONPqKLcu4Mhd6qNyJ6M) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Al Que Le Gusta...Le Sabe](https://open.spotify.com/album/6rl4jrERozHBK1svCyNUyJ) | 4:05 |
+| 37 | [Mosaico de Merengues \- Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamoró de Manuel / El Pájaro Amarillo / El Gavilán](https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Para Bailar y Bailar con El Cuarteto Imperial](https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd) | 7:59 |
 | 38 | [Amargo Y Dulce](https://open.spotify.com/track/5qpLb0kL7Z8NRAlN6EWjXN) | [Doris Salas con la Tremenda](https://open.spotify.com/artist/4sRiK0tbwYoalygZ3WgDFF) | [Gran Festival De Porros Y Cumbias](https://open.spotify.com/album/23oOLSIB4SW14Nwp4bbYdc) | 4:26 |
 | 39 | [Ron Pa' Todo el Mundo \(feat\. Diomedes Díaz\)](https://open.spotify.com/track/4kgAZUvmdUE6f16j4HEVK7) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:20 |
 | 40 | [El negrito del Batey \- Remastered](https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Sonora Matancera y sus voces de oro, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM) | 2:33 |

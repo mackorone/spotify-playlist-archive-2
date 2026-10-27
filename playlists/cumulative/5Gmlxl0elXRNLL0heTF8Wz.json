@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/1SJa9REVG4dWeGMWTMB9Rt"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Spiritus sanctus vivificans (Arr. Lawson)",
+      "url": "https://open.spotify.com/track/69QDQui8YC19fsB27U04Bw"
+    },
+    {
+      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/7x3uKIweCak73GQw2ydX2o"
       },

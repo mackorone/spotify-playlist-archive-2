@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-449 songs - 1 day 2 hr 53 min
+451 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cristina](https://open.spotify.com/track/3zslKraslO9HGthkAAQ1EU) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Cristina](https://open.spotify.com/album/6fNPJiXckogSPudXMCPrBv) | 3:37 | 2026-05-02 | 2026-05-26 |
 | [Cut and Sell](https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Cut and Sell](https://open.spotify.com/album/11dGTJWrlOQMTOliQgi5vn) | 2:43 | 2026-03-27 | 2026-06-11 |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-16 | 2026-06-14 |
+| [Damnation](https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Hail Saturn / Damnation](https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD) | 2:36 | 2026-10-26 |  |
 | [Dark Echoes](https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:49 | 2026-02-23 | 2026-05-17 |
 | [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 | 2025-11-20 | 2025-12-12 |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-11-17 |  |
@@ -371,6 +372,7 @@
 | [Take Me Away](https://open.spotify.com/track/3Jzrgsy5JoxAtIMabzSmm3) | [Jess the Singing Alien](https://open.spotify.com/artist/5BWYOSAZHoy7v529BEExAq) | [Take Me Away](https://open.spotify.com/album/4KvoMVaKmmzIcBnq878TEZ) | 3:50 | 2026-01-16 | 2026-02-25 |
 | [Take the Leap](https://open.spotify.com/track/5RcPXX2rXANE6hofEiagG2) | [Belshire](https://open.spotify.com/artist/5Pu6y3ZV8Akm8RgiCmnsyC) | [Belshire](https://open.spotify.com/album/4tHlKVwt7mmLfxwktwoQ8S) | 2:56 | 2026-09-05 | 2026-10-16 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-06 |
+| [Ten](https://open.spotify.com/track/5t59VwPR2S9GZ2zyo3kPao) | [Siobhan Bodrug](https://open.spotify.com/artist/7txaNJjUA1XAkxkY3dOGoD) | [Ten](https://open.spotify.com/album/5seyyPvGsQfMlf7L51Oadx) | 3:14 | 2026-10-26 |  |
 | [The appointment \(losing an old friend\)](https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [The appointment \(losing an old friend\)](https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R) | 6:53 | 2026-02-14 | 2026-03-05 |
 | [The Architect](https://open.spotify.com/track/1hPg5pGa9OpduItQzRW0eM) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:25 | 2026-03-28 | 2026-05-17 |
 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 | 2026-09-17 |  |

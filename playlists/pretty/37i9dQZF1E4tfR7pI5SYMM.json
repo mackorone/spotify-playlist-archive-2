@@ -1,5 +1,5 @@
 {
-  "description": "With M\u00e4rvel, Pistonhead, Sanguine and more",
+  "description": "With M\u00e4rvel, Sanguine, Bad Scullianz and more",
   "num_followers": 23,
   "original_name": "Bipolar Superstar Radio",
   "owner": {
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanctemonium",
-        "url": "https://open.spotify.com/album/0CO9XJK1qzgZB3sfCnkCr8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4rvel",
-          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
-        }
-      ],
-      "duration_ms": 185304,
-      "name": "Alla Helgons Blodiga Natt",
-      "url": "https://open.spotify.com/track/5dUn9bA0ylIEHUECbgfscx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(Don`t Wait For) The Next Call",
         "url": "https://open.spotify.com/album/4Fqy1lBu3VebzMWPAsxz6b"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sanctemonium",
+        "url": "https://open.spotify.com/album/0CO9XJK1qzgZB3sfCnkCr8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4rvel",
+          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+        }
+      ],
+      "duration_ms": 185304,
+      "name": "Alla Helgons Blodiga Natt",
+      "url": "https://open.spotify.com/track/5dUn9bA0ylIEHUECbgfscx"
     },
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kick the Shit",
+        "url": "https://open.spotify.com/album/3I40ugyrMAwqnNyODowg46"
+      },
+      "artists": [
+        {
+          "name": "Rats Arse",
+          "url": "https://open.spotify.com/artist/6jETvX4H1BGANHljYXTyRY"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Kick the Shit",
+      "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cool Ade",
         "url": "https://open.spotify.com/album/79IEBUCgmXDlbPi73tDDPj"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 230912,
       "name": "Cool Ade",
       "url": "https://open.spotify.com/track/1r5Euk8Scmv9OhA6xMLr2m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/05Fd1VCrD97Ym3srvf2Xwj"
-      },
-      "artists": [
-        {
-          "name": "Statsmenn",
-          "url": "https://open.spotify.com/artist/0pqxeZgDNtg4049z4CBDdx"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Ikkje Som De Andre",
-      "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
     },
     {
       "added_at": null,
@@ -167,18 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Din Feil",
-        "url": "https://open.spotify.com/album/5j2xl412olAzdY0HjcSdRn"
+        "name": "III",
+        "url": "https://open.spotify.com/album/05Fd1VCrD97Ym3srvf2Xwj"
       },
       "artists": [
         {
-          "name": "Lokal Valuta",
-          "url": "https://open.spotify.com/artist/3dTOCxl1svv8elmKyaYInv"
+          "name": "Statsmenn",
+          "url": "https://open.spotify.com/artist/0pqxeZgDNtg4049z4CBDdx"
         }
       ],
-      "duration_ms": 353515,
-      "name": "Blindsonen",
-      "url": "https://open.spotify.com/track/2ahamw6URtHTNbsO4plwe7"
+      "duration_ms": 252133,
+      "name": "Ikkje Som De Andre",
+      "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
     },
     {
       "added_at": null,
@@ -199,34 +199,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinnsyke Sanger",
-        "url": "https://open.spotify.com/album/1ciYPGKf7tAwn9JToXMLyB"
+        "name": "Hounds of Thunder",
+        "url": "https://open.spotify.com/album/7sq25UiClHJU0UfmiPirr2"
       },
       "artists": [
         {
-          "name": "Svigermors Dr\u00f8m",
-          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
+          "name": "HOUNDS OF THUNDER",
+          "url": "https://open.spotify.com/artist/4DQ4NvLGWjcoHVZlX6Boq6"
         }
       ],
-      "duration_ms": 200086,
-      "name": "Sinnsyke Sanger",
-      "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
+      "duration_ms": 416568,
+      "name": "Cryin' Shame",
+      "url": "https://open.spotify.com/track/2PV4SFnrTo6nyZ7A7oT3wg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kick the Shit",
-        "url": "https://open.spotify.com/album/3I40ugyrMAwqnNyODowg46"
+        "name": "Fake News",
+        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
       },
       "artists": [
         {
-          "name": "Rats Arse",
-          "url": "https://open.spotify.com/artist/6jETvX4H1BGANHljYXTyRY"
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
         }
       ],
-      "duration_ms": 155846,
-      "name": "Kick the Shit",
-      "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
+      "duration_ms": 261821,
+      "name": "Fake News",
+      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
+        "url": "https://open.spotify.com/album/1A35bFBzpTOA3rbKZh6WR5"
+      },
+      "artists": [
+        {
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
+        }
+      ],
+      "duration_ms": 142321,
+      "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
+      "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"
     },
     {
       "added_at": null,
@@ -247,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00f6rka blickar och h\u00e5rda ord",
-        "url": "https://open.spotify.com/album/7igo2sm9lG8o9f1KsgDYgM"
-      },
-      "artists": [
-        {
-          "name": "Stockholm Kallar",
-          "url": "https://open.spotify.com/artist/30vCZYyz5It7r5ZFxS4oKd"
-        }
-      ],
-      "duration_ms": 264951,
-      "name": "M\u00f6rka blickar och h\u00e5rda ord",
-      "url": "https://open.spotify.com/track/1RTR1iUZC6DG5FAJ71GBCE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manneklem",
         "url": "https://open.spotify.com/album/36erD8rvt5RqfDale07HIe"
       },
@@ -279,66 +279,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight To The Head",
-        "url": "https://open.spotify.com/album/29TVX97T6qczH6zqYVaHQO"
+        "name": "In the Shadow of the Mountain",
+        "url": "https://open.spotify.com/album/5qneeNSlHVrPUrqZXq8X8y"
       },
       "artists": [
         {
-          "name": "Pistonhead",
-          "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
+          "name": "Huston Sonhouse",
+          "url": "https://open.spotify.com/artist/52ijraAWkJRDLxiWOlQzgO"
         }
       ],
-      "duration_ms": 299413,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
+      "duration_ms": 220056,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Palliativ Planet",
-        "url": "https://open.spotify.com/album/57B2Y4eRc5lNVc95rs56xf"
+        "name": "Casca Vazia",
+        "url": "https://open.spotify.com/album/0GK7D3cILFXqPxoShaRnUa"
       },
       "artists": [
         {
-          "name": "Johan Piribauer",
-          "url": "https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi"
+          "name": "Clandestinos",
+          "url": "https://open.spotify.com/artist/5WHuIGWeszbpy5C3OXIsHK"
         }
       ],
-      "duration_ms": 228150,
-      "name": "Arvidsjaur",
-      "url": "https://open.spotify.com/track/0Bziz2o8iBriC8mTfloP2C"
+      "duration_ms": 227696,
+      "name": "Casca Vazia",
+      "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sorgens Kapittel",
-        "url": "https://open.spotify.com/album/0a7ldxK8uD0rFWUL521rRf"
+        "name": "#StopPayola",
+        "url": "https://open.spotify.com/album/5nWbFmES8o4za0jBcMwmzv"
       },
       "artists": [
         {
-          "name": "Arabs In Aspic",
-          "url": "https://open.spotify.com/artist/1ELktqazsduNTO0cvCc3jG"
+          "name": "Ed Eagle",
+          "url": "https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO"
         }
       ],
-      "duration_ms": 570053,
-      "name": "Avgrunnen Kaller",
-      "url": "https://open.spotify.com/track/0FjBG3Oa6LOBLOAg23mxnF"
+      "duration_ms": 158311,
+      "name": "#StopPayola",
+      "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pale Ontology",
-        "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
+        "name": "Last Chance To Refill (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
       },
       "artists": [
         {
-          "name": "Tom Markey",
-          "url": "https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ"
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
         }
       ],
-      "duration_ms": 201996,
-      "name": "Complaining",
-      "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
+      "duration_ms": 126226,
+      "name": "Hey Now Honey - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
     },
     {
       "added_at": null,
@@ -359,24 +359,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/3yCFLYaUlpJT9ZuWK26rNc"
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/7xxWIbC9VKgK4TUp50e5zV"
       },
       "artists": [
         {
-          "name": "The Bets",
-          "url": "https://open.spotify.com/artist/0GlMghoqaNd9BYFTbcwYu5"
+          "name": "Pol",
+          "url": "https://open.spotify.com/artist/2yS41RWZXROtSiDKIiVN4O"
         }
       ],
-      "duration_ms": 231808,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
+      "duration_ms": 286750,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/4f2s8tjc9RB3yDkLnyWdbG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Apache",
-        "url": "https://open.spotify.com/album/2Fobe2ESxbhOXXS7Khz1hu"
+        "name": "Sinnsyke Sanger",
+        "url": "https://open.spotify.com/album/1ciYPGKf7tAwn9JToXMLyB"
       },
       "artists": [
         {
@@ -384,41 +384,41 @@
           "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
+      "duration_ms": 200086,
+      "name": "Sinnsyke Sanger",
+      "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "La rage du loup",
-        "url": "https://open.spotify.com/album/79nCAqLgckTAmNtqw5vTxE"
+        "name": "Pale Ontology",
+        "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
       },
       "artists": [
         {
-          "name": "Martin Guilbert",
-          "url": "https://open.spotify.com/artist/5NIgDtfrtcLAqOq9QoHFTD"
+          "name": "Tom Markey",
+          "url": "https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ"
         }
       ],
-      "duration_ms": 211363,
-      "name": "La rage du loup",
-      "url": "https://open.spotify.com/track/0qBoyI15tldcIsr7D4XIRf"
+      "duration_ms": 201996,
+      "name": "Complaining",
+      "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "He's Back (The Man Behind The Mask)",
-        "url": "https://open.spotify.com/album/2wKZd4srtD4nhnfA4kHMRy"
+        "name": "IO",
+        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
       },
       "artists": [
         {
-          "name": "M\u00e4rvel",
-          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+          "name": "OlD NATIVE OMEN",
+          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
         }
       ],
-      "duration_ms": 210929,
-      "name": "He's Back (The Man Behind The Mask)",
-      "url": "https://open.spotify.com/track/5AnRQkfvrh3YPIeADpNvOb"
+      "duration_ms": 299655,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
     },
     {
       "added_at": null,
@@ -439,18 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/76oW5Xyb7n7btEefSirZsc"
+        "name": "Damaged Too?",
+        "url": "https://open.spotify.com/album/6Fy8A2vIACrBRClFWVZDmj"
       },
       "artists": [
         {
-          "name": "Orango",
-          "url": "https://open.spotify.com/artist/3IvXLACN8U1ewuSVuUrvjt"
+          "name": "damage done",
+          "url": "https://open.spotify.com/artist/6lRXnnW2eobKikk7udzbfP"
         }
       ],
-      "duration_ms": 287093,
-      "name": "Freedom Train",
-      "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
+      "duration_ms": 198853,
+      "name": "Daily Deadly Sin",
+      "url": "https://open.spotify.com/track/1fihFELXz1qLkaDwuhI8TE"
     },
     {
       "added_at": null,
@@ -464,41 +464,41 @@
           "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
         }
       ],
-      "duration_ms": 242853,
-      "name": "Bitch Slap Rapper",
-      "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
+      "duration_ms": 299413,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
     },
     {
       "added_at": null,
       "album": {
-        "name": "From the Arcives",
-        "url": "https://open.spotify.com/album/1G4zfazlzaA90vqouSxiQr"
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/6AIHWqVMAMyqBpLUg9HXlF"
       },
       "artists": [
         {
-          "name": "Wild Water",
-          "url": "https://open.spotify.com/artist/0ZdCX2PQQQU6MW3cjNUH7k"
+          "name": "Scumbag Millionaire",
+          "url": "https://open.spotify.com/artist/2OT0ERzAikorOYSIrRDjzA"
         }
       ],
-      "duration_ms": 214013,
-      "name": "On Her Own",
-      "url": "https://open.spotify.com/track/2Ka5ivvoPaZ3aGh1bWcJZw"
+      "duration_ms": 91809,
+      "name": "Asap",
+      "url": "https://open.spotify.com/track/2sttjobesgyDaLx4cffx8J"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cuts",
-        "url": "https://open.spotify.com/album/4FPBbuGr3gCJcm0mSekbBS"
+        "name": "Hadal Zone Express",
+        "url": "https://open.spotify.com/album/0by4G2hWsVkcBEAI0uc3jz"
       },
       "artists": [
         {
-          "name": "Sanguine",
-          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
+          "name": "M\u00e4rvel",
+          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Taste The Ground",
-      "url": "https://open.spotify.com/track/5dljuoeMpZ8Y95zvoUKk7f"
+      "duration_ms": 175169,
+      "name": "Danish Rush",
+      "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
     },
     {
       "added_at": null,
@@ -523,56 +523,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e4r kommer du hem till mig igen?",
-        "url": "https://open.spotify.com/album/5LYBq6tfJhUqYertG0Dj7p"
+        "name": "Mamma Africa",
+        "url": "https://open.spotify.com/album/7AbzEugV7sdL1leTZcrCbm"
       },
       "artists": [
         {
-          "name": "Going Big",
-          "url": "https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp"
+          "name": "Greg Maclennan",
+          "url": "https://open.spotify.com/artist/5UGq1GbypOeWsNOT7sxx0p"
         }
       ],
-      "duration_ms": 169674,
-      "name": "N\u00e4r kommer du hem till mig igen?",
-      "url": "https://open.spotify.com/track/5KbhspQpwoUFChZhOh63zs"
+      "duration_ms": 199578,
+      "name": "Mamma Africa",
+      "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tulede S\u00e4ras",
-        "url": "https://open.spotify.com/album/7awmIeNZr8LvdtieR8O3Vk"
+        "name": "Another Kind Of The Blues",
+        "url": "https://open.spotify.com/album/2BfnKG0A1FhWheZ4WFrTWO"
       },
       "artists": [
         {
-          "name": "DND",
-          "url": "https://open.spotify.com/artist/2G4bEDt53hEye9Jt9WYY4L"
+          "name": "Pablo Mercedes",
+          "url": "https://open.spotify.com/artist/6lYfGVFFXkVTmnZRLsldvt"
         }
       ],
-      "duration_ms": 177698,
-      "name": "Tulede S\u00e4ras",
-      "url": "https://open.spotify.com/track/1IIvJTLiJFJAlcgOJwGb2J"
+      "duration_ms": 167285,
+      "name": "Iron Line",
+      "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hounds of Thunder",
-        "url": "https://open.spotify.com/album/7sq25UiClHJU0UfmiPirr2"
-      },
-      "artists": [
-        {
-          "name": "HOUNDS OF THUNDER",
-          "url": "https://open.spotify.com/artist/4DQ4NvLGWjcoHVZlX6Boq6"
-        }
-      ],
-      "duration_ms": 416568,
-      "name": "Cryin' Shame",
-      "url": "https://open.spotify.com/track/2PV4SFnrTo6nyZ7A7oT3wg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dukkeskrekk",
-        "url": "https://open.spotify.com/album/2jKiFBwOvuf6lurONkyr0f"
+        "name": "Adj\u00f8",
+        "url": "https://open.spotify.com/album/6w8FtsFp5OQiqzAAOQlvzu"
       },
       "artists": [
         {
@@ -580,9 +564,25 @@
           "url": "https://open.spotify.com/artist/4Q6kbJIcvlGmaIj7FL4e0l"
         }
       ],
-      "duration_ms": 242796,
-      "name": "Borte nu",
-      "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
+      "duration_ms": 247073,
+      "name": "Adj\u00f8",
+      "url": "https://open.spotify.com/track/6KDEqsx3lb25sDcJ4C8Wzp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/54J5z8fwaehG2NClZejMok"
+      },
+      "artists": [
+        {
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
+        }
+      ],
+      "duration_ms": 338747,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
     },
     {
       "added_at": null,
@@ -603,34 +603,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hadal Zone Express",
-        "url": "https://open.spotify.com/album/0by4G2hWsVkcBEAI0uc3jz"
+        "name": "Silence please",
+        "url": "https://open.spotify.com/album/0VA3VFKOkpD5v4rSwhAFjD"
       },
       "artists": [
         {
-          "name": "M\u00e4rvel",
-          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+          "name": "Air Vibration",
+          "url": "https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu"
         }
       ],
-      "duration_ms": 175169,
-      "name": "Danish Rush",
-      "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
+      "duration_ms": 148166,
+      "name": "Silence please",
+      "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sn\u00f8r i Helvete",
-        "url": "https://open.spotify.com/album/7206ZPU72lQzRTkqgSlWbl"
+        "name": "Narakarappor Alias The GrandMaster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Aii9pAV0sP3HQLd3rKkIh"
       },
       "artists": [
         {
-          "name": "Autoimmune",
-          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
+          "name": "Chinna",
+          "url": "https://open.spotify.com/artist/6Qsx5pClocDX1YLkA5tlkH"
+        },
+        {
+          "name": "Sujay",
+          "url": "https://open.spotify.com/artist/3dr5NKc1nzUhtxUzoKHDEy"
+        },
+        {
+          "name": "Deva Rajesh",
+          "url": "https://open.spotify.com/artist/1k5IHLnQBFNW2iH3iRUxHc"
+        },
+        {
+          "name": "Malaiarasan Periyasamy",
+          "url": "https://open.spotify.com/artist/06xAmurChnfDtMVHp1he6E"
+        },
+        {
+          "name": "Dinesh Antony",
+          "url": "https://open.spotify.com/artist/2JuI4dYYClik4TDHXaljWO"
+        },
+        {
+          "name": "Pugazhendi",
+          "url": "https://open.spotify.com/artist/4qig5HvSaAF9jK0GuP8QDH"
         }
       ],
-      "duration_ms": 251281,
-      "name": "Sn\u00f8r i Helvete",
-      "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
+      "duration_ms": 119052,
+      "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
+      "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
     },
     {
       "added_at": null,
@@ -644,25 +664,25 @@
           "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5OmSe0hZtAj7kCiHWE0YMZ"
+      "duration_ms": 242853,
+      "name": "Bitch Slap Rapper",
+      "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Jirm / L\u00e5ngfinger",
-        "url": "https://open.spotify.com/album/6Qyr0bOptdlocLvNuEMh9c"
+        "name": "Apache",
+        "url": "https://open.spotify.com/album/2Fobe2ESxbhOXXS7Khz1hu"
       },
       "artists": [
         {
-          "name": "L\u00c5NGFINGER",
-          "url": "https://open.spotify.com/artist/2QTIqO2L5Jnv9rNRFwUNbv"
+          "name": "Svigermors Dr\u00f8m",
+          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
         }
       ],
-      "duration_ms": 222624,
-      "name": "Meet The Hoopla",
-      "url": "https://open.spotify.com/track/3GmK5H8aPYlJ8QQ1XrGnAv"
+      "duration_ms": 220000,
+      "name": "Apache",
+      "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
     },
     {
       "added_at": null,
@@ -676,57 +696,9 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Alles Historie",
-      "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Heroin",
-        "url": "https://open.spotify.com/album/3fZ0ASFmrBiUUaQ5ub5fz5"
-      },
-      "artists": [
-        {
-          "name": "Greg Llatse",
-          "url": "https://open.spotify.com/artist/2YHENpAL3KjjYeBoJT9QF3"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "My Heroin",
-      "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Testify",
-        "url": "https://open.spotify.com/album/4f1ZBkCiaoOncedwyQdtAB"
-      },
-      "artists": [
-        {
-          "name": "Call Me T",
-          "url": "https://open.spotify.com/artist/23H6nhAuaXfnfLg2JHzXpF"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Testify",
-      "url": "https://open.spotify.com/track/0nGgprHN8K6Gyl1fBXwHKv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot summer nights",
-        "url": "https://open.spotify.com/album/0VWcNkcZ5hUr06Ykyu1cHo"
-      },
-      "artists": [
-        {
-          "name": "Terry gene",
-          "url": "https://open.spotify.com/artist/5THblLP8NzYXPFvToMYdZh"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Hot summer nights",
-      "url": "https://open.spotify.com/track/6rBvtDbmURviEU7caym10r"
+      "duration_ms": 139000,
+      "name": "Fucka Det Opp",
+      "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
     },
     {
       "added_at": null,
@@ -747,18 +719,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/7xxWIbC9VKgK4TUp50e5zV"
+        "name": "Cuts",
+        "url": "https://open.spotify.com/album/4FPBbuGr3gCJcm0mSekbBS"
       },
       "artists": [
         {
-          "name": "Pol",
-          "url": "https://open.spotify.com/artist/2yS41RWZXROtSiDKIiVN4O"
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
         }
       ],
-      "duration_ms": 286750,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/4f2s8tjc9RB3yDkLnyWdbG"
+      "duration_ms": 197000,
+      "name": "Taste The Ground",
+      "url": "https://open.spotify.com/track/5dljuoeMpZ8Y95zvoUKk7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Start",
+        "url": "https://open.spotify.com/album/4xOgVQhu4RRcXYsRTCRspo"
+      },
+      "artists": [
+        {
+          "name": "UnTied",
+          "url": "https://open.spotify.com/artist/3vPLDtPfxc5jTucIk6qfWv"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "Start",
+      "url": "https://open.spotify.com/track/4kXJcoZxlr212raqKtfEwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "InstantFamous",
+        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
+      },
+      "artists": [
+        {
+          "name": "SUGAR JUNKIES",
+          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/5W0E5BbJJ3xhSsMQfOZSXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minds Behind the Music: Born Free",
+        "url": "https://open.spotify.com/album/5M9xZiIISmfFhAYnEcQMeo"
+      },
+      "artists": [
+        {
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Mother Earth",
+      "url": "https://open.spotify.com/track/7EayrfRHK8Z42fsPDafL29"
     },
     {
       "added_at": null,
@@ -779,50 +799,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "#StopPayola",
-        "url": "https://open.spotify.com/album/5nWbFmES8o4za0jBcMwmzv"
+        "name": "Klokkene ringer for kvelden",
+        "url": "https://open.spotify.com/album/10aJyfp2xODV4GKt6Ef0rB"
       },
       "artists": [
         {
-          "name": "Ed Eagle",
-          "url": "https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO"
+          "name": "Autoimmune",
+          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
         }
       ],
-      "duration_ms": 158311,
-      "name": "#StopPayola",
-      "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
+      "duration_ms": 214001,
+      "name": "Klokkene ringer for kvelden",
+      "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/4j0Va9SAW9be75dXX3GgHG"
+        "name": "Move 37",
+        "url": "https://open.spotify.com/album/7yODbiINdSz2H5ICkTHSsH"
       },
       "artists": [
         {
-          "name": "Denver Meatpacking Company",
-          "url": "https://open.spotify.com/artist/404tp3wj9OWyVevGQYg5HO"
+          "name": "The Inklings",
+          "url": "https://open.spotify.com/artist/7acymkigVyBGh1cWbcBGu2"
         }
       ],
-      "duration_ms": 198765,
-      "name": "Do As I Do",
-      "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
+      "duration_ms": 219103,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/4Zu3ak9UyeCtzEHopnBR9m"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Doom Scroll Echo",
-        "url": "https://open.spotify.com/album/4dKHWZU3xab244XdMRVbmh"
+        "name": "High Above Rooftops (Latterday 2003)",
+        "url": "https://open.spotify.com/album/1pmWcie5KOd7VMCcWvwbw4"
       },
       "artists": [
         {
-          "name": "7Horse",
-          "url": "https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr"
+          "name": "TEXNES",
+          "url": "https://open.spotify.com/artist/1bDQGkc4P3UDRvENDr6pde"
+        },
+        {
+          "name": "Latterday",
+          "url": "https://open.spotify.com/artist/4iCEs8HS8IakUdFkukhMvq"
         }
       ],
-      "duration_ms": 243275,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/5ymlvITgfdrADuXRFEddj6"
+      "duration_ms": 232800,
+      "name": "High Above Rooftops (Latterday 2003)",
+      "url": "https://open.spotify.com/track/1BHY7DUek7ngsZ0cR8B6g6"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

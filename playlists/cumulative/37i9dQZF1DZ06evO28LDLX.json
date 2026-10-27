@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 98200,
       "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
       "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
@@ -174,10 +174,32 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 98200,
       "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
       "url": "https://open.spotify.com/track/7KhuL3ySJpWeInY1YWi8F8"
+    },
+    {
+      "album": {
+        "name": "\"An Era of Classical\": Piano and Orchestral Works",
+        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282706,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 4, Rhapsody in E-Flat Major",
+      "url": "https://open.spotify.com/track/4tsLvVUFvGWM21ThByuyWG"
     },
     {
       "album": {
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 153666,
       "name": "Spring Breeze Prelude (Arr. Hough for Piano)",
       "url": "https://open.spotify.com/track/2wirrdaPrmLhUw607iGAuH"

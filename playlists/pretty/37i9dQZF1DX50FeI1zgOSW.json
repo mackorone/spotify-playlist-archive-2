@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Smith Asher",
-  "num_followers": 21655,
+  "num_followers": 21660,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIlYPFY6K8NPhWd07XkkfizygYwO",
+  "snapshot_id": "AAAAAH0/hnjf/Gr5KH+iXrxmCmWdlDEL",
   "tracks": [
     {
       "added_at": "2026-09-28 12:39:28",
@@ -151,6 +151,26 @@
       "duration_ms": 208499,
       "name": "On Kanna Vachi",
       "url": "https://open.spotify.com/track/5gQ8TcvVGGMLrcUsJmN6v3"
+    },
+    {
+      "added_at": "2026-10-26 16:04:11",
+      "album": {
+        "name": "Silukku Vedi",
+        "url": "https://open.spotify.com/album/3DHA1ZrW9qZfNuyVvZFjFO"
+      },
+      "artists": [
+        {
+          "name": "Abhishek C S",
+          "url": "https://open.spotify.com/artist/1GofTjmdzOjxQojvoMxgfi"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Silukku Vedi",
+      "url": "https://open.spotify.com/track/7n7Rv9JoxdUU1CgLXH5VBO"
     },
     {
       "added_at": "2026-10-21 10:14:43",
@@ -2003,22 +2023,6 @@
       "duration_ms": 243797,
       "name": "Thaimayo",
       "url": "https://open.spotify.com/track/2pl0P5Tnepb6NMCeyPx1xv"
-    },
-    {
-      "added_at": "2026-04-30 15:38:25",
-      "album": {
-        "name": "Theera Kanaa",
-        "url": "https://open.spotify.com/album/5HOrdfyKr9dC8YT4DDkusb"
-      },
-      "artists": [
-        {
-          "name": "Anushya Murugesh",
-          "url": "https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Theera Kanaa",
-      "url": "https://open.spotify.com/track/7fcwXQUAgodhZGsfG15TDt"
     }
   ],
   "unique_name": "RADAR Tamil",

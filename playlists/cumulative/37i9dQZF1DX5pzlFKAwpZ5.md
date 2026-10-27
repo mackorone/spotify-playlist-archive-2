@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-434 songs - 1 day 7 hr 1 min
+435 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 | 2022-01-07 |  |
 | [Cherry Blossom](https://open.spotify.com/track/49FgEirdzQYfzmDKwNynOI) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Cherry Blossom](https://open.spotify.com/album/0Ps7E8fAZir8LS7bEosHhL) | 3:16 | 2022-01-07 | 2025-01-25 |
 | [Cherry Blossom](https://open.spotify.com/track/4JSNOmj7ZPf9hkerGa1RUN) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Mist](https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6) | 3:16 | 2023-02-17 | 2024-04-19 |
+| [Chrysalis](https://open.spotify.com/track/3SddRglzW0fY58zTAcuKI8) | [maharishi yogo](https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja), [Doc No](https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC) | [Chrysalis](https://open.spotify.com/album/5ZVoNRe4oj6vVaxmBspnfG) | 6:13 | 2026-10-20 |  |
 | [château](https://open.spotify.com/track/7GGF2U7bZP3LhM2IojZYoE) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [château](https://open.spotify.com/album/3DLJo4t8P1Hcs0verzEuNf) | 2:45 | 2025-03-21 | 2026-07-19 |
 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 | 2022-01-07 | 2022-10-01 |
 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 | 2022-02-22 | 2023-08-19 |
@@ -316,7 +317,7 @@
 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 | 2025-07-03 |  |
 | [Shaded Navy](https://open.spotify.com/track/0ssU0CAQUDiqhPTG1iNCHo) | [Shaded Navy](https://open.spotify.com/artist/3uMPx1jmWJ2rvzrLgrsX4T), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Shaded Navy](https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l) | 3:12 | 2023-01-06 | 2025-04-06 |
 | [shibuya](https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T) | [Masayuki Ishii](https://open.spotify.com/artist/4GxXuTsoHfRRqhpYzxJ7zN), [Naohisa Taniguchi](https://open.spotify.com/artist/6J1WlaCpbUL1sak8JPlIVL) | [shibuya](https://open.spotify.com/album/5r8pTArU0UdC1K5PSPqX2x) | 4:24 | 2025-03-21 | 2025-07-04 |
-| [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 | 2022-01-07 |  |
+| [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 | 2022-01-07 | 2026-10-27 |
 | [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-15 |  |
 | [Silhouette](https://open.spotify.com/track/5mmSEWXyuJ007o2qrEFBPx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Silhouette](https://open.spotify.com/album/4TfcaVrckQEVRfLi8yOtXn) | 3:16 | 2024-06-07 | 2025-01-25 |
 | [Silky Lake](https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:44 | 2025-12-02 | 2026-10-24 |

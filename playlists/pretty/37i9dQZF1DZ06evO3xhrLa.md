@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,452 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,454 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 36 | [Never Call Me](https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:30 |
 | 37 | [California Dream \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4q0CsTpnatXglYVvhD9qDI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Who Coppin](https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB) | 3:04 |
 
-Snapshot ID: `atv1AAAAAABQrLFwpG1YtL2V3A7xTMoR`
+Snapshot ID: `at1GgAAAAACLKZDrIBi1XhO3io4fZlRJ`

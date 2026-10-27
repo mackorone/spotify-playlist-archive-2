@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,615 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,613 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 33 | [Little Lost Girls](https://open.spotify.com/track/5voJquNkFnFPNW1WQWmp3I) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 4:43 |
 | 34 | [C' Mon \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/4wCRQHZSGTfQ1evOYpaxGT) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 4:13 |
 
-Snapshot ID: `atv1AAAAAAAog3D4gRkulTl6WrF3T89N`
+Snapshot ID: `at1GgAAAAAC3+uPNbSS/bbNawkCER7to`

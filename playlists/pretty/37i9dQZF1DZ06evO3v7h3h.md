@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,744 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,743 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/336MAGcI93mYzYuKDHYOPN) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4) | 2:50 |
 | 50 | [A Fila Anda](https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:26 |
 
-Snapshot ID: `atv1AAAAAAD2eFUImSOTciuDkPMc+yol`
+Snapshot ID: `at1GgAAAAABfrx6NL6J676KmZJfY01q4`

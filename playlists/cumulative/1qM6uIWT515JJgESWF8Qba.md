@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-339 songs - 21 hr 10 min
+342 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 | 2025-12-28 |
 | [On A Roll](https://open.spotify.com/track/7E9HCL0ZI61UI6ndHLPTx7) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [On A Roll](https://open.spotify.com/album/2zIQdy96c3oWTLsf7d6J6B) | 3:52 | 2026-03-14 |  |
 | [Only a Few Cents More](https://open.spotify.com/track/1Qj36NqgQDgqPiBBJJqLOF) | [Jakob Vladimir](https://open.spotify.com/artist/3UztTm4JPy0pLeYT43H4c4) | [Only a Few Cents More](https://open.spotify.com/album/44wCOtiCQw9YGrVrNOWps2) | 4:39 | 2026-01-29 | 2026-02-23 |
+| [Only For Me](https://open.spotify.com/track/0cweQVokFrhr2JJEdmjhgt) | [Vexica](https://open.spotify.com/artist/20bBvMB0gByCF87L93JTal) | [Only For Me](https://open.spotify.com/album/0RucmikP6koH13GgT8vG7e) | 2:57 | 2026-10-26 |  |
 | [Onwards](https://open.spotify.com/track/4xBM4eYPajrVlJTo6UD8E9) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 5:09 | 2026-02-07 | 2026-05-17 |
 | [Other Side of Me](https://open.spotify.com/track/7gehMNxHuuOZyMNBOmC0sr) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Other Side of Me](https://open.spotify.com/album/2BY2GT3R0z0aTaSZuweNEd) | 3:23 | 2025-09-16 |  |
 | [Overthrown](https://open.spotify.com/track/4aGCFWNgI4vUq9y9XuoVQA) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 5:27 | 2025-11-29 | 2025-12-28 |
@@ -314,8 +315,10 @@
 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2026-06-09 | 2026-07-17 |
 | [The Mold](https://open.spotify.com/track/6lKQLhmqknMDhFbIg6LcQe) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [The Mold](https://open.spotify.com/album/2hp2SmGFWZsIlEQIkavftE) | 3:59 | 2026-05-26 | 2026-07-17 |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-28 |
+| [The Runaround](https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [The Runaround](https://open.spotify.com/album/7bRIOQfdUKMVvBcnkfpzZJ) | 3:31 | 2026-10-26 |  |
 | [The Runaway Song](https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj) | [Hunter Road](https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn) | [The Runaway Song](https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL) | 5:51 | 2026-04-29 | 2026-06-14 |
 | [The Sand](https://open.spotify.com/track/3kGvYan7NNd4I5Q12Tq4jW) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 3:08 | 2026-05-06 | 2026-06-14 |
+| [The Tortoise](https://open.spotify.com/track/6dslvv371VJukIILkmBdtm) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Reptile Wisdom](https://open.spotify.com/album/2vvs96HnDXtVg9OQ0mB9oz) | 1:58 | 2026-10-26 |  |
 | [Thelusion](https://open.spotify.com/track/00Qc32eVkJxr4HNLZkGN3x) | [FRF2](https://open.spotify.com/artist/6WD8ugMWHBwTSI2HaNyL7A) | [The album](https://open.spotify.com/album/4L6CXU0lV05T253fNW8UJH) | 1:48 | 2026-04-11 | 2026-05-19 |
 | [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 | 2026-03-11 | 2026-05-17 |
 | [This is under control.](https://open.spotify.com/track/600eSAScJN873sbh9virWp) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [This is under control.](https://open.spotify.com/album/6sSQkIGAZJR1QiYMCtHQds) | 3:48 | 2025-12-03 | 2025-12-28 |

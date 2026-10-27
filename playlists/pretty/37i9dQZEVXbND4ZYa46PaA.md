@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,945 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,948 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Une seule vie](https://open.spotify.com/track/3m1TLSxcCwT2CfIqKfQWuG) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Instinct](https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq) | 4:05 |
 | 50 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:17 |
 
-Snapshot ID: `MnF6AAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MnLSiAAAAAAAAAAAAAAAAAAAAAAAAGVu`

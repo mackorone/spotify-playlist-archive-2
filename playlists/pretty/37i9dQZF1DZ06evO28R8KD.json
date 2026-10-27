@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAABSjo6AE/PF2Y0ME1i9nAai",
+  "snapshot_id": "atv1AAAAAADRhx/qMKvqKsEM1HAUwoK0",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 386000,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
+      "duration_ms": 413826,
+      "name": "Star Gazing",
+      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Star Gazing",
-      "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
+      "duration_ms": 386000,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
+      "duration_ms": 390000,
+      "name": "Hokkaido",
+      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchtheplants Presents: Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 226693,
-      "name": "Flew",
-      "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
+      "duration_ms": 459866,
+      "name": "Synth 2",
+      "url": "https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6"
     },
     {
       "added_at": null,
@@ -356,15 +356,15 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Hokkaido",
-      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+        "name": "Touchtheplants Presents: Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 459866,
-      "name": "Synth 2",
-      "url": "https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6"
+      "duration_ms": 226693,
+      "name": "Flew",
+      "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
     },
     {
       "added_at": null,

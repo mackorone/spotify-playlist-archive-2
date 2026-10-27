@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 194190,
+  "num_followers": 194191,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-10-13 17:50:35",
       "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Un Misil En Mi Placard - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
+    },
+    {
+      "added_at": "2026-10-13 17:50:35",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2026-10-13 17:50:35",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Un Misil En Mi Placard - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
     },
     {
       "added_at": "2026-10-13 17:50:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-13 17:50:35",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Muchacha (Ojos de Papel)",
-      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
-    },
-    {
-      "added_at": "2026-10-13 17:50:35",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 267866,
       "name": "Fanky - Live",
       "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2026-10-13 17:50:35",
+      "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Muchacha (Ojos de Papel)",
+      "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
     },
     {
       "added_at": "2026-10-13 17:50:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-10-13 17:50:35",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 165504,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
-    },
-    {
-      "added_at": "2026-10-13 17:50:35",
-      "album": {
         "name": "Loli Molina Live on Pardelion Music",
         "url": "https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 304847,
       "name": "Mandol\u00edn - Live",
       "url": "https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ"
+    },
+    {
+      "added_at": "2026-10-13 17:50:35",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 165504,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
     },
     {
       "added_at": "2026-10-13 17:50:35",

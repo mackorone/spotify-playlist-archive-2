@@ -24588,7 +24588,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 166588,
       "name": "Curame",
       "url": "https://open.spotify.com/track/54gntvVol3DgKwGNPiZmEG"
@@ -34426,7 +34426,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 171896,
       "name": "everything i've wanted - demo",
       "url": "https://open.spotify.com/track/1CgCMABG4BjpFNIKkG1Mic"
@@ -45762,6 +45762,24 @@
       "duration_ms": 300019,
       "name": "Happy",
       "url": "https://open.spotify.com/track/65NeBHJw2kTzvasXevLYvD"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0KiTwZaExtPqSZ0Fe8yc3w"
+      },
+      "artists": [
+        {
+          "name": "Michael Arkk",
+          "url": "https://open.spotify.com/artist/35Kuj24N6IFpSDoYosQeYM"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217561,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4oAWB5HaaAxkDo5hbml9AI"
     },
     {
       "album": {
@@ -91304,7 +91322,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 214838,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/0HMYMXqBaqeyxBSmgs7V2R"
@@ -120809,6 +120827,24 @@
     },
     {
       "album": {
+        "name": "In Our Time",
+        "url": "https://open.spotify.com/album/6lbbPYK1UbgB7fsMaw3zr0"
+      },
+      "artists": [
+        {
+          "name": "Hudson King",
+          "url": "https://open.spotify.com/artist/331dEX85IjdEYqqPO1HrMG"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489015,
+      "name": "When I Wake",
+      "url": "https://open.spotify.com/track/734IVVquTZIltOSheTc3CJ"
+    },
+    {
+      "album": {
         "name": "When I Was",
         "url": "https://open.spotify.com/album/7bIzsHQ1eqvIjSIEFAY6mH"
       },
@@ -123348,6 +123384,24 @@
       "duration_ms": 159809,
       "name": "Womandatory",
       "url": "https://open.spotify.com/track/4isx2MH8WnJyxGH3gPt7Qa"
+    },
+    {
+      "album": {
+        "name": "Womp Womp / Messiah",
+        "url": "https://open.spotify.com/album/0a5bNgLgtNRnFSW5nfM3eQ"
+      },
+      "artists": [
+        {
+          "name": "RHNO",
+          "url": "https://open.spotify.com/artist/1yxH3wYLS0kwcpgxLhWWXX"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170058,
+      "name": "Womp Womp",
+      "url": "https://open.spotify.com/track/7EHPhZdYKF2RVS9mobC9B1"
     },
     {
       "album": {

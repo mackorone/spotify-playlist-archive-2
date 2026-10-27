@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,547 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,548 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 24 | [PERSONAGEM](https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [BIA1B99](https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB) | 2:37 |
 | 25 | [ZAZA](https://open.spotify.com/track/5yfkS5GXG6JmPeSMElT7gN) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Fawaz](https://open.spotify.com/artist/3qujGsGetnOpwao0wB9N5K), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [ZAZA](https://open.spotify.com/album/6SN1GyJsTfXFhuoaWnj05n) | 2:37 |
 | 26 | [Faz a Vibe](https://open.spotify.com/track/5KsbeBLxiYcPAwmncCVwwt) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BREN9VE](https://open.spotify.com/artist/4IvMXMjqjqNk9z4I9WJKcy) | [Um Corpo Preto](https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb) | 4:06 |
-| 27 | [Só](https://open.spotify.com/track/46czY9226dZK0vH56kvJN3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:46 |
-| 28 | [Meu Jeito De Amar](https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 2:49 |
+| 27 | [Meu Jeito De Amar](https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 2:49 |
+| 28 | [Só](https://open.spotify.com/track/46czY9226dZK0vH56kvJN3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:46 |
 | 29 | [Te Amo](https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Te Amo](https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH) | 2:56 |
 | 30 | [AYE O](https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo), [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0), [Marcelo de Lamare](https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM), [C\-AFROBRASIL](https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:50 |
 | 31 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |

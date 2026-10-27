@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: aiko
 
-3,926 songs - 10 day 9 hr 43 min
+3,927 songs - 10 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2212,7 +2212,7 @@
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-04-19 |
 | [YATTAAMAN](https://open.spotify.com/track/50SXt6w5aZFspG9JqM9Jyp) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [YATTAAMAN](https://open.spotify.com/album/6FIcS3fPt11Dn5Xqo3AykX) | 2:51 | 2024-07-09 | 2024-07-17 |
 | [Yellow.](https://open.spotify.com/track/5DavTYGypSFyGYv3zGxwyP) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Yellow.](https://open.spotify.com/album/2IywDIPk6Q2s9LQlxMpxnt) | 3:09 | 2023-12-14 | 2023-12-20 |
-| [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-12 |  |
+| [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-12 | 2026-10-27 |
 | [Yes\-No](https://open.spotify.com/track/7MpOq1WicvJIBVJMezQ0x8) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [小さな歌](https://open.spotify.com/album/3HkSW9YrKFDeGxz0mTg3nu) | 4:38 | 2025-09-09 | 2025-09-17 |
 | [yesterday](https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [yesterday](https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22) | 3:46 | 2024-10-08 | 2024-11-13 |
 | [YETI](https://open.spotify.com/track/4TFJVIYjTBFAkQKMsPAEUi) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [YETI](https://open.spotify.com/album/3AYPP1RzPIXUuOG0EN6fAt) | 4:33 | 2024-07-09 | 2024-07-17 |
@@ -3180,6 +3180,7 @@
 | [告うた](https://open.spotify.com/track/3HRF84aqSfXhhx7NLRW7Qj) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [告うた](https://open.spotify.com/album/3tJBiAlIJqbgVk1uBwWnzA) | 3:15 | 2024-02-27 | 2024-03-13 |
 | [告白ステップス](https://open.spotify.com/track/7kii8SCoV3GQRTBQ0itL4U) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [告白ステップス](https://open.spotify.com/album/5GV4FMJ6ZYXhkmf1Jaf8tA) | 3:48 | 2022-06-02 | 2022-07-28 |
 | [味噌汁とバター](https://open.spotify.com/track/6QrokLHD7AFvDqFH7pCY7U) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [味噌汁とバター](https://open.spotify.com/album/0v2oNQqJLMRZefjFrJg6YN) | 3:52 | 2023-10-26 | 2023-11-01 |
+| [呼びすて](https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [呼びすて](https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE) | 3:14 | 2026-10-20 |  |
 | [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 | 2022-08-17 |
 | [命にふさわしい](https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate\(Special Edition\)](https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J) | 5:52 | 2023-02-28 | 2023-05-24 |
 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 | 2024-12-05 |

@@ -6,7 +6,7 @@
     "name": "Classics To Go",
     "url": "https://open.spotify.com/user/sinfinimusic.nl"
   },
-  "snapshot_id": "AAACypPc8MIxlkiRS2y4Lf1m4jvYU67c",
+  "snapshot_id": "AAACy8G9AAcs6KAAjI3oFF4LbYhed2+5",
   "tracks": [
     {
       "added_at": "2026-08-27 07:10:04",
@@ -2559,6 +2559,22 @@
       "duration_ms": 323040,
       "name": "Les folies d'Espagne \"Couplets de folies\" (Transcr. Horsch for Recorder & Lute)",
       "url": "https://open.spotify.com/track/5iBsXe6qqKp30ySXTK0Epe"
+    },
+    {
+      "added_at": "2026-10-26 11:23:30",
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/1SJa9REVG4dWeGMWTMB9Rt"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Spiritus sanctus vivificans (Arr. Lawson)",
+      "url": "https://open.spotify.com/track/69QDQui8YC19fsB27U04Bw"
     }
   ],
   "unique_name": "Classical Sunday Morning",

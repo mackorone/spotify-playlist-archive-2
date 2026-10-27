@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,490 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,490 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 24 | [Como en el 'Crechendo'](https://open.spotify.com/track/6KTjo4RmDk3J0mxsrdLw5F) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [Lomas Verdes](https://open.spotify.com/album/5RKUyelUpA0DsHZLM4Y8bn) | 3:25 |
 | 25 | [Guerra de Novios](https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Nada Bueno Termina Bien](https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb) | 2:33 |
 | 26 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
-| 27 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
-| 28 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
+| 27 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
+| 28 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
 | 29 | [Miedo a Perder](https://open.spotify.com/track/3X6apLf8f7fD7qDFdOCj13) | [El Sueño de Alicia](https://open.spotify.com/artist/1Jdy7PQDJZPnCplQ3HxCbs) | [Sociedad De Socorro Mutuo](https://open.spotify.com/album/2kJMFGORcX2UM7lEBx4WAC) | 2:45 |
 | 30 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
 | 31 | [Zaza](https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9) | [Allanamiento Emocional](https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz) | [Zaza](https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ) | 4:04 |
-| 32 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
-| 33 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
-| 34 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
+| 32 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
+| 33 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
+| 34 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
 | 35 | [micheladas](https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [micheladas](https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B) | 2:16 |
 | 36 | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/track/1vm2xeAdZmtZAUYNuWVY5e) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Nunca Pense En Algo Tan Feo Como Odiarte](https://open.spotify.com/album/0Zr2dw2MSPmv50W6yb2tFi) | 2:38 |
 | 37 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 45 | [Destello](https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Todo Ocaso Resplandece y Acaba](https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ) | 5:00 |
 | 46 | [Distancia](https://open.spotify.com/track/29vqSzrC0V0ijDgUXaTRvO) | [Noviembre](https://open.spotify.com/artist/1TBXWZ5eZnsNUet0Qvd64H) | [Donde El Mar Retrocede](https://open.spotify.com/album/3rO0Be3ICRW93VTAHwZhHT) | 3:23 |
 | 47 | [Aniversários São Difíceis](https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY) | [El Toro Fuerte](https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ) | [Nossos Amigos e os Lugares Que Visitamos](https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL) | 6:21 |
-| 48 | [Mata a Tus Ídolos](https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [S / T](https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB) | 1:48 |
-| 49 | [Emo Mid Windows](https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs) | [El mejor verano de mi vida](https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n) | [El mejor verano de mi vida](https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2) | 2:26 |
+| 48 | [Emo Mid Windows](https://open.spotify.com/track/6PomEc2OZ5FArC6NGAcZOs) | [El mejor verano de mi vida](https://open.spotify.com/artist/0eeLx3Q4FwreAyuPZLxR3n) | [El mejor verano de mi vida](https://open.spotify.com/album/5atwna2DVeRTYaSpfY3gi2) | 2:26 |
+| 49 | [Un Sueño de Verano](https://open.spotify.com/track/55L5TeONXEkfsMIovkKg7h) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Bronson EP](https://open.spotify.com/album/4OdLFfpAjb9mUJ3yDRx7T4) | 4:06 |
 | 50 | [Despertar](https://open.spotify.com/track/6dVf1FttdaducHgMmsNs36) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Despertar](https://open.spotify.com/album/42REAsVoQV7Iy2opLm6zCG) | 3:48 |
 
 Snapshot ID: `AAAAAJq9Z+EZ0djfcht5e1Fpc965UkcB`

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-533 songs - 1 day 6 hr 53 min
+535 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-08 | 2026-07-01 |
 | [Getting Deeper](https://open.spotify.com/track/6voBpAEU8b7ZT6Vz5K6JW9) | [you](https://open.spotify.com/artist/0kLi0duqyWyoRkfqBv4lja) | [Getting Deeper](https://open.spotify.com/album/7euIEY0TVksPoeQxMZ9Gs3) | 3:12 | 2026-04-20 | 2026-07-01 |
 | [Ghost](https://open.spotify.com/track/1X0SFZray8E9nkhka4kvAB) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Ghost](https://open.spotify.com/album/3kaHd8JpRPfVAXvaIz4lyW) | 3:24 | 2026-09-03 |  |
+| [Ghost Hound](https://open.spotify.com/track/2EkcswWiL2GPEM7RlF3Lpw) | [Ajla](https://open.spotify.com/artist/444HERfjhWqQi0ebUM4cs7) | [Ghost Hound](https://open.spotify.com/album/5lOcrHGSBKWs2zrlk5gyXT) | 3:09 | 2026-10-26 |  |
 | [Ghosts](https://open.spotify.com/track/4ma25GBIHco2FLwqkgd4Et) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:53 | 2026-03-04 | 2026-04-16 |
 | [ghosts](https://open.spotify.com/track/27ynxg5Ze6q2zWFl1fJPfh) | [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD), [Darcy Saint](https://open.spotify.com/artist/5mUgRZ7Xvd0tgIL7miDJl6) | [ghosts](https://open.spotify.com/album/4tW9xXJfd8clfBULDOWUvR) | 3:57 | 2025-10-24 | 2025-12-02 |
 | [Give In](https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Give In](https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq) | 3:32 | 2026-01-20 | 2026-03-10 |
@@ -367,6 +368,7 @@
 | [Playground](https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 3:37 | 2026-07-01 | 2026-08-18 |
 | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/track/2a5P1JUuU4eTizy9pgcYZ7) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/album/0upU91StxEwO874hng87uN) | 2:52 | 2026-03-26 | 2026-04-21 |
 | [pleistras](https://open.spotify.com/track/1Mf23beWU7eorvugsrUrlX) | [jau aušta](https://open.spotify.com/artist/5jjLJkbhQh1zVWQeBy2U5q) | [pleistras](https://open.spotify.com/album/5lURCZT9YOyfo7fMHWJP1l) | 4:26 | 2026-04-20 | 2026-07-01 |
+| [Point of View](https://open.spotify.com/track/7GnGgSnrc2ViUKH4bv80P7) | [SonderJewlz](https://open.spotify.com/artist/1MvoCEOVnydwYl2W7mbvCb) | [Sincerely, Sonder](https://open.spotify.com/album/5OCtmv3vbyJMER7fRt6WoZ) | 3:17 | 2026-10-26 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
 | [PRETTY GIRL DONT CRY \- Haunted Version](https://open.spotify.com/track/5rFRRf4T1trKJRn4iR4Vgr) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [PRETTY GIRL DONT CRY \(Haunted Version\)](https://open.spotify.com/album/5hGSXhqlqNrBsDHHODFkip) | 3:55 | 2026-05-06 | 2026-07-24 |
 | [PRONE](https://open.spotify.com/track/2hL2DPzbzZ6GH3iR6ojraw) | [TNO NIKO](https://open.spotify.com/artist/61Iz8BdGNL4kbMED0ik4D0) | [PRONE](https://open.spotify.com/album/0jh7WYJiBllbzMOLa0f4ei) | 2:26 | 2026-05-22 | 2026-07-24 |

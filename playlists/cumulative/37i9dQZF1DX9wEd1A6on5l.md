@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-962 songs - 1 day 21 hr 15 min
+963 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-06-09 | 2023-09-29 |
 | [Bunda](https://open.spotify.com/track/7Ia5dCLaY9O9rlYw4q4Wvc) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs) | [Bunda](https://open.spotify.com/album/3MOmmbWZDPXjR49nDTVLAv) | 2:19 | 2023-12-01 | 2024-01-13 |
 | [Burst](https://open.spotify.com/track/6u5HorzLfu6uU49ZE2TK3w) | [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Burst](https://open.spotify.com/album/7F3RDwm8htUIPq9AQfN5TP) | 2:24 | 2025-03-31 | 2025-04-13 |
+| [Burukutu](https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Burukutu](https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7) | 5:11 | 2026-10-23 |  |
 | [Bus Stop Remix \(with Young Jonn\)](https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Okada Airlines](https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH) | 3:01 | 2024-11-08 | 2025-03-29 |
 | [by now](https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:44 | 2024-04-03 | 2025-02-25 |
 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-16 | 2025-04-01 |
@@ -456,7 +457,7 @@
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-11-07 | 2026-03-20 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-07 | 2023-11-12 |
 | [IJO LOKA](https://open.spotify.com/track/01iK3QcI7ciVXtbW9AFFeo) | [Broda Shaggi](https://open.spotify.com/artist/0W1pukpZRU3zjGUKgSJW8o), [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ) | [IJO LOKA](https://open.spotify.com/album/3jWUTMKUj4lvl8SlucH6uf) | 2:53 | 2024-01-05 | 2024-01-13 |
-| [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 | 2026-06-12 |  |
+| [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 | 2026-06-12 | 2026-10-27 |
 | [IKEBE 3000](https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [IKEBE 3000](https://open.spotify.com/album/2oqzUjWJ1AQskR9xFzCjbL) | 3:17 | 2026-10-09 |  |
 | [Ikwö Ufan Ikwö Ima](https://open.spotify.com/track/3UwBc48rW28XNyZFJmE6G2) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7), [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [Ikwö Ufan Ikwö Ima](https://open.spotify.com/album/2t7Yiqnx3iWFhjZf4qaoZk) | 2:09 | 2024-03-22 | 2024-04-26 |
 | [ILWY](https://open.spotify.com/track/7rcqPfonMaBv10k8Hn4ETz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:50 | 2025-10-03 | 2025-10-27 |

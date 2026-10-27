@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Becky G en portada. ",
-  "num_followers": 4828,
+  "num_followers": 4826,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
-        "name": "Que Calor",
-        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
         "name": "LLAMADA PERDIDA",
         "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/5FJBIe3cG4y9uUaIxuP4vH"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
+        "name": "Que Calor",
+        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
     },
     {
       "added_at": "2026-09-18 19:07:30",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
+        "name": "Ridin' (Deluxe)",
+        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 189721,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/3pI4sJdZP7tus0pltevj3W"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 166866,
       "name": "cuida",
       "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
-        "name": "Ridin' (Deluxe)",
-        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 189721,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/3pI4sJdZP7tus0pltevj3W"
     },
     {
       "added_at": "2026-09-18 19:07:30",

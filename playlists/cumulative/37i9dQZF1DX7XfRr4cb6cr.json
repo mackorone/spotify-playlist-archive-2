@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 119471,
       "name": "children - slowed",
       "url": "https://open.spotify.com/track/2H4BVL3TPApsA3HP9Ij670"
@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Dark factory",
+        "url": "https://open.spotify.com/album/3No4W5iwvqd9AAAKr9c67E"
+      },
+      "artists": [
+        {
+          "name": "Irezumi",
+          "url": "https://open.spotify.com/artist/6Y5kD8nxHbIMTgTiD4OZWG"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284033,
+      "name": "Dark factory",
+      "url": "https://open.spotify.com/track/5AtzrpbjCMIyVNaRojUsaA"
+    },
+    {
+      "album": {
         "name": "Dark Forces (Robot Koch Rework)",
         "url": "https://open.spotify.com/album/0qE9e3IrcAUln0LiXUcB14"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 167125,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH"
@@ -2169,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "familiar ghosts",
+        "url": "https://open.spotify.com/album/0bfBKYXn6uY5chUbOQdx7m"
+      },
+      "artists": [
+        {
+          "name": "illi mel",
+          "url": "https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP"
+        },
+        {
+          "name": "Chris Bartels",
+          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150972,
+      "name": "familiar ghosts",
+      "url": "https://open.spotify.com/track/6sm8b2rNwuqn06t1Oml59i"
+    },
+    {
+      "album": {
         "name": "Fantas for Saxophone and Voice",
         "url": "https://open.spotify.com/album/45focVBvv4bXhAfrJhj82J"
       },
@@ -2326,6 +2366,28 @@
       "duration_ms": 176000,
       "name": "Floor Position",
       "url": "https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1"
+    },
+    {
+      "album": {
+        "name": "Voyager, Vol. 2",
+        "url": "https://open.spotify.com/album/0ptuc6JMCf0lyu9O1eATmn"
+      },
+      "artists": [
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        },
+        {
+          "name": "Chris Bartels",
+          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "Foliage Feather",
+      "url": "https://open.spotify.com/track/1wRdhp4JD2zw90vxyaQbIu"
     },
     {
       "album": {
@@ -2712,6 +2774,24 @@
       "duration_ms": 241663,
       "name": "Gleam - Stilhed Rework",
       "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
+    },
+    {
+      "album": {
+        "name": "God, remember me",
+        "url": "https://open.spotify.com/album/24eSJykMOffQJ5LtfqUzNA"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136639,
+      "name": "God, remember me",
+      "url": "https://open.spotify.com/track/2XpMmKbVWTHTAJzo0aKpyM"
     },
     {
       "album": {
@@ -4080,7 +4160,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 300392,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/3Tl7Z3rPqpOfOquUOD4cLZ"
@@ -4804,6 +4884,28 @@
       "duration_ms": 126800,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/36EggU4JO1s5m25cBqWUny"
+    },
+    {
+      "album": {
+        "name": "New Milford",
+        "url": "https://open.spotify.com/album/1owXNTWsvdmBkRdQtrClxp"
+      },
+      "artists": [
+        {
+          "name": "Wess Meets West",
+          "url": "https://open.spotify.com/artist/2tHWI5RIQ3PKLtIV2iaaJQ"
+        },
+        {
+          "name": "Chris Dingman",
+          "url": "https://open.spotify.com/artist/0T9V5NTa0PzLjoXM1LdEGZ"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378000,
+      "name": "New Milford",
+      "url": "https://open.spotify.com/track/3Jsa3xkgqoR9QMXJB4Aayk"
     },
     {
       "album": {
@@ -6099,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Rocky Coast Calmness",
+        "url": "https://open.spotify.com/album/5wrGIVt1ItxXxZtajcXEFi"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Bednarczyk",
+          "url": "https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356571,
+      "name": "Rocky Coast Calmness",
+      "url": "https://open.spotify.com/track/7v10FgbUR3UgzlvityZ6eC"
+    },
+    {
+      "album": {
         "name": "rough days",
         "url": "https://open.spotify.com/album/5LU0lGGbc4nJMxkJmCrKof"
       },
@@ -6417,6 +6537,28 @@
     },
     {
       "album": {
+        "name": "While The Flood Rages",
+        "url": "https://open.spotify.com/album/5sZ0QkaVO3XjE41k8EuPc0"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67760,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5NK2I8QjFbsf1rTEERkBSE"
+    },
+    {
+      "album": {
         "name": "sentient",
         "url": "https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5"
       },
@@ -6475,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Nightmare Music, Vol. 2",
+        "url": "https://open.spotify.com/album/2bSbpz5Y05RFhKYteDuaSC"
+      },
+      "artists": [
+        {
+          "name": "Sad Moses",
+          "url": "https://open.spotify.com/artist/1P8CXGQyUvvY7ctcSByX8i"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122526,
+      "name": "Sharp Teeth for Soft Skin",
+      "url": "https://open.spotify.com/track/1s7vSfD1iqVjHxTKaixgwy"
+    },
+    {
+      "album": {
         "name": "Songs for Sad Poets Vol. III",
         "url": "https://open.spotify.com/album/7iLOGmvw49UOoNZnhunm49"
       },
@@ -6516,6 +6676,24 @@
       "duration_ms": 109400,
       "name": "silence",
       "url": "https://open.spotify.com/track/6aclR4VMjPb51YJrqbglp0"
+    },
+    {
+      "album": {
+        "name": "The Juniper Tree",
+        "url": "https://open.spotify.com/album/2cA79Va4fyrRinHaFS3Ynw"
+      },
+      "artists": [
+        {
+          "name": "Midori Hirano",
+          "url": "https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160955,
+      "name": "Silencing",
+      "url": "https://open.spotify.com/track/3zIElpKq34a6iUuetdo1VX"
     },
     {
       "album": {
@@ -8276,6 +8454,24 @@
       "duration_ms": 247078,
       "name": "Walk on the Beach",
       "url": "https://open.spotify.com/track/1iNDieYXrhrnWc2Ko7JNZw"
+    },
+    {
+      "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/0dA6bQBHXYSYxteh4BKAuY"
+      },
+      "artists": [
+        {
+          "name": "SVLBRD",
+          "url": "https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/4cNr2rteiOsD2ZvRhH6OUn"
     },
     {
       "album": {

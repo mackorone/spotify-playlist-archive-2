@@ -794,7 +794,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 192941,
       "name": "Aperitivo",
       "url": "https://open.spotify.com/track/6TGTsXN0pXGxyVIL7XK6SD"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 137625,
       "name": "dreams unfold",
       "url": "https://open.spotify.com/track/0ZRR6Ro8DABbjpNB8jty7n"
@@ -4397,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "Espresso del Mar",
+        "url": "https://open.spotify.com/album/4h5M4ZtLlBtgfHN2FvFhho"
+      },
+      "artists": [
+        {
+          "name": "Ondora",
+          "url": "https://open.spotify.com/artist/4mE1edQ6ori5EVwOlxx8L6"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141308,
+      "name": "Espresso del Mar",
+      "url": "https://open.spotify.com/track/0mwSMlYnPwQzrkuO9gLyD5"
+    },
+    {
+      "album": {
         "name": "Cielo Infinito",
         "url": "https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH"
       },
@@ -4538,6 +4556,24 @@
       "duration_ms": 154354,
       "name": "Excellerator",
       "url": "https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob"
+    },
+    {
+      "album": {
+        "name": "Expect",
+        "url": "https://open.spotify.com/album/1ddWGDgp2X8zkYR8EDWaQA"
+      },
+      "artists": [
+        {
+          "name": "Ellef Antenn",
+          "url": "https://open.spotify.com/artist/16YlFbaG2mBZH3bkV3D544"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Expect",
+      "url": "https://open.spotify.com/track/5HHNG7cOlOWeVfPrjP060x"
     },
     {
       "album": {
@@ -4988,7 +5024,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 134159,
       "name": "fixation",
       "url": "https://open.spotify.com/track/2VdlT1vhhUbvZo7VGFwKLc"
@@ -5165,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "follow me",
+        "url": "https://open.spotify.com/album/6L4UpkfUt2mNrCMewjl4Os"
+      },
+      "artists": [
+        {
+          "name": "Noir Vista",
+          "url": "https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137182,
+      "name": "follow me",
+      "url": "https://open.spotify.com/track/0Dj7gjJgVy6SdoW8XLFKCF"
+    },
+    {
+      "album": {
         "name": "For No Reason",
         "url": "https://open.spotify.com/album/3YapZf1lBVPmczSuMTnkjx"
       },
@@ -5320,7 +5374,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 166730,
       "name": "Fresh Start",
       "url": "https://open.spotify.com/track/53Jx8rwCXGBCHKYOjytGub"
@@ -6556,6 +6610,24 @@
       "duration_ms": 150872,
       "name": "I Feel Warmer Already",
       "url": "https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA"
+    },
+    {
+      "album": {
+        "name": "I found her",
+        "url": "https://open.spotify.com/album/2ScCBPXEOy2eu4iHGfrAhz"
+      },
+      "artists": [
+        {
+          "name": "Ocean Silhouette",
+          "url": "https://open.spotify.com/artist/2LWa52RmMEwEQF5q2EvjxL"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130057,
+      "name": "I found her",
+      "url": "https://open.spotify.com/track/5K740VoQRt4YZJayBxwHCR"
     },
     {
       "album": {
@@ -9261,6 +9333,24 @@
     },
     {
       "album": {
+        "name": "Morning Hours",
+        "url": "https://open.spotify.com/album/27Dsdge3fZqoNAxq7b2uKO"
+      },
+      "artists": [
+        {
+          "name": "Fabi.",
+          "url": "https://open.spotify.com/artist/0vfz8aLN7UtvWnFlB3DwXG"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138285,
+      "name": "Morning Hours",
+      "url": "https://open.spotify.com/track/30ueZrFPHFyI6UDxrkv4pX"
+    },
+    {
+      "album": {
         "name": "Morning Magic",
         "url": "https://open.spotify.com/album/1ZrJnBCdQvWCfvXoK4scKE"
       },
@@ -9968,6 +10058,24 @@
       "duration_ms": 133333,
       "name": "Nothing Something",
       "url": "https://open.spotify.com/track/72x7XbgBL8gUcUeSvgIVUg"
+    },
+    {
+      "album": {
+        "name": "Nourish",
+        "url": "https://open.spotify.com/album/7xRyBJquuGclDOkQ0Q8Cfb"
+      },
+      "artists": [
+        {
+          "name": "Patrons of 180",
+          "url": "https://open.spotify.com/artist/5DmBNJgmmpx7uEor23089W"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140917,
+      "name": "Nourish",
+      "url": "https://open.spotify.com/track/1Czlkv0S0WqlJqtAdDNMfk"
     },
     {
       "album": {
@@ -12654,7 +12762,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 146890,
       "name": "Sip Silence First",
       "url": "https://open.spotify.com/track/3bSH9fzXIGYqnmTreWonZL"
@@ -16186,7 +16294,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 124017,
       "name": "While Coffee Brews",
       "url": "https://open.spotify.com/track/5F6Jdqh11eZK36IH9t5pTr"

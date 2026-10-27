@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,238 songs - 6 day 22 hr 25 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,239 songs - 6 day 22 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3246,5 +3246,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3236 | [Needle On Da Rec](https://open.spotify.com/track/0dxziQAgldE7llmCAEZk1a) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [Hardcore Nation](https://open.spotify.com/album/277eKOCYsBgd2nOwgAngv8) | 2:06 |
 | 3237 | [So Good](https://open.spotify.com/track/1lAxHBKcVgATKOLMckYNY2) | [Jakka\-B](https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8) | [So Good](https://open.spotify.com/album/38MvtZEMAVZq3wtkGRf3Pa) | 3:06 |
 | 3238 | [Better Off Alone](https://open.spotify.com/track/3winKI0Fb4mSvxuu5nblcg) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Better Off Alone](https://open.spotify.com/album/7GsIkB3rCIiR6fxfRUEZMA) | 2:10 |
+| 3239 | [GIVE IT TO ME](https://open.spotify.com/track/6u6Ec5hxUrUSjMpLxDcZs7) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [GIVE IT TO ME](https://open.spotify.com/album/2TBpNGoinXQc6qCi60I2El) | 3:03 |
 
-Snapshot ID: `AAANEdT76laq4F7fjqqOIDlNj75+EMqP`
+Snapshot ID: `AAANEmvNVTZuBUhH7QganD5Yqaiutxdl`

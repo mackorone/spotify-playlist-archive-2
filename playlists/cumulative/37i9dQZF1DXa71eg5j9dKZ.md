@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: KETTAMA, Prospa
+> The home for alternative electronic music\. Cover: Sammy Virji
 
 1,629 songs - 4 day 13 hr 39 min
 

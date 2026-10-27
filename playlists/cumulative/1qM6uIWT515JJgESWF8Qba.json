@@ -4111,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Only For Me",
+        "url": "https://open.spotify.com/album/0RucmikP6koH13GgT8vG7e"
+      },
+      "artists": [
+        {
+          "name": "Vexica",
+          "url": "https://open.spotify.com/artist/20bBvMB0gByCF87L93JTal"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177430,
+      "name": "Only For Me",
+      "url": "https://open.spotify.com/track/0cweQVokFrhr2JJEdmjhgt"
+    },
+    {
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB"
       },
@@ -5541,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "The Runaround",
+        "url": "https://open.spotify.com/album/7bRIOQfdUKMVvBcnkfpzZJ"
+      },
+      "artists": [
+        {
+          "name": "Wreckless Strangers",
+          "url": "https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211576,
+      "name": "The Runaround",
+      "url": "https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq"
+    },
+    {
+      "album": {
         "name": "The Runaway Song",
         "url": "https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL"
       },
@@ -5574,6 +5610,24 @@
       "duration_ms": 188557,
       "name": "The Sand",
       "url": "https://open.spotify.com/track/3kGvYan7NNd4I5Q12Tq4jW"
+    },
+    {
+      "album": {
+        "name": "Reptile Wisdom",
+        "url": "https://open.spotify.com/album/2vvs96HnDXtVg9OQ0mB9oz"
+      },
+      "artists": [
+        {
+          "name": "Lemon Knife",
+          "url": "https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118389,
+      "name": "The Tortoise",
+      "url": "https://open.spotify.com/track/6dslvv371VJukIILkmBdtm"
     },
     {
       "album": {

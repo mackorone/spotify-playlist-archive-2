@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,939 songs - 11 day 4 hr 12 min
+4,942 songs - 11 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3767,6 +3767,7 @@
 | [Siento flores](https://open.spotify.com/track/3xwEYe5XzUu5isEt9Mibcx) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Siento flores](https://open.spotify.com/album/2cAaOud9QK2rDIS0i587GV) | 5:04 | 2026-03-15 |  |
 | [Siento flores](https://open.spotify.com/track/5qV4LJAkpORolWlHqBEwft) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 5:04 | 2026-10-18 |  |
 | [Sigma](https://open.spotify.com/track/2Oov6lssSbiIED3nwcV5ip) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:06 | 2025-09-17 |  |
+| [Sigma Fortress 1 Mega Man X \- Vocal Version](https://open.spotify.com/track/6QYFN2WW5u5MDsJJ727l5Y) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Sigma Fortress 1 Mega Man X \(Vocal Version\)](https://open.spotify.com/album/5Ln0V5gIBNp71ROTXhuEXG) | 4:10 | 2026-10-26 |  |
 | [Signal Lost](https://open.spotify.com/track/4VptXFAq9u0CYJ5enpKBGW) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 3:00 | 2026-01-21 |  |
 | [Signoramia](https://open.spotify.com/track/5j7ml8ZPPaPOJblhgBPiET) | [Danny Fiorilla](https://open.spotify.com/artist/2tgqhZ1DaammObirYQIrju) | [Danny](https://open.spotify.com/album/2gVEYdhHqbfFHNw0eRvqNt) | 4:32 | 2025-05-29 |  |
 | [Sigo Enamorada \(Disco Edit\)](https://open.spotify.com/track/5ks5Is8HrJ6dd4Jk1sWuYP) | [Tizzio](https://open.spotify.com/artist/7rQvbRtdX02iEk4aLDcH8f) | [Universo Tizzio Vol\. I](https://open.spotify.com/album/0Mx98djP02TAzmRyOpPYST) | 3:59 | 2026-05-29 |  |
@@ -4095,6 +4096,7 @@
 | [Sunset \- Remix](https://open.spotify.com/track/0ZICBhJw4ygKdJo4bSfqTL) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunset \(Remix\)](https://open.spotify.com/album/6nCyOKKnSwPsovABwuETNN) | 3:47 | 2026-04-14 |  |
 | [Sunset Dreams](https://open.spotify.com/track/3q51io20NHg9H8YcZvLHrE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rhythm and blues R'n'b R&B Music](https://open.spotify.com/album/0r83e7hN2UoBKUqtXabikS) | 2:32 | 2025-09-19 |  |
 | [Sunset Dreams \(another\)](https://open.spotify.com/track/3sdCSiAxglzQwnJ3GDqupa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rhythm and blues R'n'b R&B Music](https://open.spotify.com/album/0r83e7hN2UoBKUqtXabikS) | 2:50 | 2025-09-19 |  |
+| [Sunset In My Mind](https://open.spotify.com/track/7H7DIasXCn4KnZSXFUdTms) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [Dave Shaver](https://open.spotify.com/artist/087jzzfUlxQXAXRAgbr3c4) | [Sunset In My Mind](https://open.spotify.com/album/7roKCps2zTXEyDGOICUW4a) | 4:25 | 2026-10-26 |  |
 | [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [Trent Kliner](https://open.spotify.com/artist/1OJS50je1iz1MNiGrLTGoU) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 | 2025-05-02 |  |
 | [Sunshine Fiesta](https://open.spotify.com/track/2eROn0LYcrfjjdKpYBCSFt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:10 | 2025-05-27 |  |
 | [Sunshine Fiesta \(another\)](https://open.spotify.com/track/1aY82cXbrV1pme7DZb5OCB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:38 | 2025-09-17 |  |
@@ -4711,7 +4713,7 @@
 | [Way \(another\)](https://open.spotify.com/track/2yRNDN7s6NCwOfvhcsYqcG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:28 | 2025-09-17 |  |
 | [Wayfaring Stranger](https://open.spotify.com/track/3yBRd5n3JuP7RsMmIX34Va) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 4:00 | 2025-09-19 |  |
 | [Wayfaring Stranger \(another\)](https://open.spotify.com/track/4gLQuu9p2YAFJFgGyVZfrJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:44 | 2025-09-19 |  |
-| [Ways Beyond This Day](https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:58 | 2026-08-31 |  |
+| [Ways Beyond This Day](https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:38 | 2026-08-31 |  |
 | [We all live in a Fantasy](https://open.spotify.com/track/1utF6RyVi98fnKc0Du68uH) | [Archi Deep](https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl) | [We all live in a Fantasy](https://open.spotify.com/album/5bT2StBoZlkx0WlM4d4KI3) | 2:07 | 2026-04-03 |  |
 | [We Are All Bots](https://open.spotify.com/track/2WnmaedNKGBT8X0Noz7kqM) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q) | [We Are All Bots](https://open.spotify.com/album/4D82Mt4DCc6c70ByNtD1cK) | 3:41 | 2025-06-18 |  |
 | [We are the same](https://open.spotify.com/track/5BrzYifDpXu4Ak8wg2J539) | [Mastamam](https://open.spotify.com/artist/1Cf7FkzNyZWcSSwzBi0Z1Y) | [We are the same](https://open.spotify.com/album/1GbUFD1zUFmfNdCv0ea2Nc) | 4:33 | 2025-08-29 |  |
@@ -4899,6 +4901,7 @@
 | [À Quoi Ça Sert](https://open.spotify.com/track/4fV76EXoQhpeB3w9zJBF4h) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Moi Qui a Mal](https://open.spotify.com/album/0iQHWtIwT46b3Rj97T2Zb4) | 3:59 | 2025-10-13 |  |
 | [Élite Mundial](https://open.spotify.com/track/3MtOrsLxv31SNJeMl3pqlv) | [Velx](https://open.spotify.com/artist/4rGwpY6x2VsXxZ1iAevcGw) | [Élite Mundial](https://open.spotify.com/album/6ZKD1o5vXu3f9cDOr8KJ7e) | 3:17 | 2025-10-07 |  |
 | [Öylece Bıraktığın Yerden](https://open.spotify.com/track/3nfQOWD7pmZjEcPrwXBanW) | [zibidi gonzales](https://open.spotify.com/artist/4AZqCD8QOtlTnQ4S37Z1VN) | [Gurursuz](https://open.spotify.com/album/2giFMp6p1IUf54NyJ9A35f) | 4:07 | 2026-01-30 | 2026-09-30 |
+| [Única](https://open.spotify.com/track/3QkToPJWfDhqbnNwlvVgo9) | [Billie Biga](https://open.spotify.com/artist/0C1QgILnumDpTCcwKJ0xS2) | [...O De Ángel?](https://open.spotify.com/album/2yqc6lH2F5Wq9gBDd0WnYj) | 3:52 | 2026-10-26 |  |
 | [Бесконечная петля](https://open.spotify.com/track/4y4beiKEPsz2Bf0cft28Fz) | [ЛАЙТОВЫЙ ТРАУР](https://open.spotify.com/artist/5PwPpI0ZYVLkDltmVlBtAU) | [Потеряться в голове](https://open.spotify.com/album/7vEW4wxbXl9YJWlMcMGSRr) | 2:46 | 2026-05-30 |  |
 | [Буду с тобой](https://open.spotify.com/track/59IGh75jcZX5dytjWQ6zHX) | [ΛNZZ](https://open.spotify.com/artist/3TWeuhaLtXwVABFag0rOLK) | [Буду с тобой](https://open.spotify.com/album/0PuSC7RFOlqwUkw6r0nNhd) | 2:18 | 2025-05-14 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-05-17 |  |

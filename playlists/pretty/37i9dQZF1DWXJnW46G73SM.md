@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: عمر
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 91 | [3MLT KTER](https://open.spotify.com/track/3yIHs8cNR8P3VFJf8OgkoI) | [Soulphonic](https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9) | [3MLT KTER](https://open.spotify.com/album/0pJS9uLSkEhXau89OyH9rJ) | 2:55 |
 | 92 | [Alatool](https://open.spotify.com/track/2QhPhui82Ju1TkI8aj41q1) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx), [Hoda Elgebely](https://open.spotify.com/artist/3bMHb5FzfL3k8NQgFbMAjH) | [Alatool](https://open.spotify.com/album/6cxCGNkka3ZcuaJ6133IiI) | 3:39 |
 | 93 | [جوا الروح](https://open.spotify.com/track/084OKgXLm8aey5hwngwQVI) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [جوا الروح](https://open.spotify.com/album/1AAj4fY7AU69GqZWSc8UBB) | 3:22 |
-| 94 | [يا الف اهلا](https://open.spotify.com/track/0GoiKetVTagioPWEeFpTPi) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [يا الف اهلا](https://open.spotify.com/album/1MV0oFlbwbiH7jIJ0XA8Qp) | 3:52 |
+| 94 | [Ya Alf Ahlan](https://open.spotify.com/track/0GoiKetVTagioPWEeFpTPi) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Ya Alf Ahlan](https://open.spotify.com/album/1MV0oFlbwbiH7jIJ0XA8Qp) | 3:52 |
 | 95 | [اللي اتمنيته](https://open.spotify.com/track/79l3NiQUWwCkQwExJJu8ee) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [اللي اتمنيته](https://open.spotify.com/album/5KyomjTq156A5pYgmE82z2) | 3:04 |
 | 96 | [TAB EH?](https://open.spotify.com/track/07VNX7kQuXuhXM4BDc8Mwf) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [TAB EH?](https://open.spotify.com/album/7tM1CUtPCfLeGFaT07aJn8) | 2:24 |
 | 97 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |

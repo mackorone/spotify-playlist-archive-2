@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2704,
+  "num_followers": 2705,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAADCc3/PITeWsoO3+ipOrvo/",
+  "snapshot_id": "atv1AAAAAADCQFXNb69boWS8LC+k1gWS",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 129468,
-      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
+      "duration_ms": 92146,
+      "name": "Grim Grinning Ghosts (Dance Party)",
+      "url": "https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ"
     },
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 92146,
-      "name": "Grim Grinning Ghosts (Dance Party)",
-      "url": "https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ"
+      "duration_ms": 129468,
+      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
     },
     {
       "added_at": null,

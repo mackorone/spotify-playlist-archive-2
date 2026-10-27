@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Tiakola",
-  "num_followers": 19780,
+  "num_followers": 19798,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "I love you",
-        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 194311,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 138906,
+      "name": "M3lo",
+      "url": "https://open.spotify.com/track/7ELft1cx8anhsXE405kckI"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "CHORD",
         "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 157000,
       "name": "Bouw\u00e9y",
       "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 138906,
-      "name": "M3lo",
-      "url": "https://open.spotify.com/track/7ELft1cx8anhsXE405kckI"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Aucune attache",
-        "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 161977,
-      "name": "Aucune attache",
-      "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "T.I.A - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 221000,
       "name": "T.I.A - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Aucune attache",
+        "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 161977,
+      "name": "Aucune attache",
+      "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 223073,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
         "name": "M\u00c9TAMORPHOSE",
         "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 162653,
       "name": "MINIMUM (feat. d\u00f8pelym)",
       "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 223073,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Ma nana",
-        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
+        "name": "Lib\u00e9rer Pij",
+        "url": "https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5"
       },
       "artists": [
         {
-          "name": "Dk2fois",
-          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+          "name": "JP N'DA",
+          "url": "https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d"
         }
       ],
-      "duration_ms": 197285,
-      "name": "Ma nana",
-      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
+      "duration_ms": 134265,
+      "name": "Lib\u00e9rer Pij",
+      "url": "https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "Ma nana",
+        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
+      },
+      "artists": [
+        {
+          "name": "Dk2fois",
+          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Ma nana",
+      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "BOUCHEKARAILLE",
         "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 186206,
       "name": "BOUCHEKARAILLE",
       "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "Lib\u00e9rer Pij",
-        "url": "https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5"
-      },
-      "artists": [
-        {
-          "name": "JP N'DA",
-          "url": "https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d"
-        }
-      ],
-      "duration_ms": 134265,
-      "name": "Lib\u00e9rer Pij",
-      "url": "https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD"
     },
     {
       "added_at": "2026-10-23 00:01:08",

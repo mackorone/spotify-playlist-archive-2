@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "COMING OF AGE",
+        "url": "https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150735,
+      "name": "FAMILY TIES",
+      "url": "https://open.spotify.com/track/64UEScOr7qTXcI8ue0yajs"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/2KFVfaT6bP1LAWsGJg9uMQ"
       },

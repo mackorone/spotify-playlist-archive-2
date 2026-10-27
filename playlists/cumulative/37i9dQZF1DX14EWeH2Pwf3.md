@@ -4,7 +4,7 @@
 
 > Geolier nelle 🎧 di tutti, e in cover della playlist urban più 🔥
 
-1,195 songs - 2 day 9 hr 33 min
+1,196 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/album/41GxAohZ17bgydgX3w5yLB) | 3:50 | 2024-09-23 | 2024-10-25 |
 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 | 2024-09-05 | 2025-01-10 |
 | [6SEI6 \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/4cgWgEjmaMICqGyt8Tc6JU) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:15 | 2024-11-01 | 2024-11-29 |
+| [7/7](https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [7/7](https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan) | 2:35 | 2026-10-26 |  |
 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 | 2025-07-17 | 2026-10-16 |
 | [90 SPECIAL \(feat\. Sfera Ebbasta & Shiva\)](https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 2:53 | 2023-06-29 | 2023-09-29 |
 | [9MILLIMETRI](https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [9MILLIMETRI](https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br) | 2:48 | 2026-01-08 | 2026-01-30 |
@@ -1064,7 +1065,7 @@
 | [Superstite](https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:33 | 2025-10-23 | 2025-11-07 |
 | [SWAG MUSIC](https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [SWAG MUSIC](https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10) | 2:52 | 2026-05-14 |  |
 | [Syrup](https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Syrup](https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37) | 3:08 | 2023-09-15 | 2024-01-26 |
-| [Söttilissima](https://open.spotify.com/track/3hLIsPQR0K27CD54vwODVz) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Söttilissima](https://open.spotify.com/album/32aGX1JdmCyT2wY7ay1hKz) | 2:48 | 2026-10-08 |  |
+| [Söttilissima](https://open.spotify.com/track/3hLIsPQR0K27CD54vwODVz) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Söttilissima](https://open.spotify.com/album/32aGX1JdmCyT2wY7ay1hKz) | 2:48 | 2026-10-08 | 2026-10-27 |
 | [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 | 2023-07-20 | 2023-11-29 |
 | [Take 4](https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 4](https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr) | 2:50 | 2022-11-09 | 2023-03-25 |
 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 | 2024-08-28 | 2024-12-13 |

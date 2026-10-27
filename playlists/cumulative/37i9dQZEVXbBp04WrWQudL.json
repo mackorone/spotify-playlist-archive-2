@@ -510,7 +510,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 110378,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/5zTWPAxPMRdV7dMWXXih2n"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 148410,
       "name": "BLOCKKIDS (Live) | presented by OFFCULT",
       "url": "https://open.spotify.com/track/3Ihtzp5OJP51PBqKc6TxL3"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 214506,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/1up4cFkXeURS0cPQohUdfL"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -2544,6 +2544,24 @@
       "duration_ms": 146249,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
+    },
+    {
+      "album": {
+        "name": "It's me, It's Verity",
+        "url": "https://open.spotify.com/album/5rT9iD21yKcSvhFRJjNPuh"
+      },
+      "artists": [
+        {
+          "name": "Horror Skunx",
+          "url": "https://open.spotify.com/artist/56kBbyoswdV9TOr9Tnk7Kc"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122837,
+      "name": "It's me, It's Verity",
+      "url": "https://open.spotify.com/track/4SEb6rMxymW43Mi2zmKMvp"
     },
     {
       "album": {
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 183524,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/1B3DrO9PIwoVhqOtRRIQvG"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 198425,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/1yDEde77H60RnzDMH28dd1"
@@ -3675,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Olimpo",
+        "url": "https://open.spotify.com/album/7sjWvRS0ryfcK76KFJwHBA"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152318,
+      "name": "Olimpo",
+      "url": "https://open.spotify.com/track/0CkdeezVG7sqiFlWDnIUhd"
+    },
+    {
+      "album": {
         "name": "Online",
         "url": "https://open.spotify.com/album/4EGsaFq8tIo5gcxtdbYxlW"
       },
@@ -4008,7 +4044,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -4080,7 +4116,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 197982,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/1zOjLMZbfWmfvYnfjts90x"
@@ -4214,7 +4250,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 189769,
       "name": "RIKI",
       "url": "https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO"
@@ -4688,7 +4724,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 208298,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
@@ -4948,7 +4984,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 157802,
       "name": "The Happy Song",
       "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
@@ -5110,7 +5146,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 229183,
       "name": "TRALALA",
       "url": "https://open.spotify.com/track/1DviBWXzR8j4JktAcHCAeT"
@@ -5378,6 +5414,24 @@
       "duration_ms": 234651,
       "name": "You Belong With Me",
       "url": "https://open.spotify.com/track/3PK7gijh68pEcZO1TEDq2K"
+    },
+    {
+      "album": {
+        "name": "You're Under Arrest (PRESS START\u2665\ufe0e ENCORE Live)",
+        "url": "https://open.spotify.com/album/7DBqG3JoPhBocLKKt9s0XL"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215902,
+      "name": "You're Under Arrest - PRESS START\u2665\ufe0e ENCORE Live",
+      "url": "https://open.spotify.com/track/04RJttDZaixiTBMriW8EPI"
     },
     {
       "album": {

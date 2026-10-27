@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 236809,
+  "num_followers": 236815,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAB/Wgic0tWX1W7Izpra0ACM",
+  "snapshot_id": "at1GgAAAAAB9pMf4wfZCXJ8wv37L1pf6",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Which Way is Up",
+      "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -571,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
@@ -580,25 +612,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 301440,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Staying Power",
-        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Which Way is Up",
-      "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
+      "duration_ms": 194173,
+      "name": "Honey Please, Can't Ya See",
+      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
     },
     {
       "added_at": null,
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Honey Please, Can't Ya See",
-      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
+      "duration_ms": 639600,
+      "name": "Whatever We Had, We Had",
+      "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
       "duration_ms": 192160,
       "name": "I'm Qualified To Satisfy You - Edit",
       "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 639600,
-      "name": "Whatever We Had, We Had",
-      "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Sho' You Right",
-      "url": "https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 497426,
       "name": "I've Got So Much To Give",
       "url": "https://open.spotify.com/track/1p5jtupWpNUuHB9iUenTrx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 273466,
+      "name": "Sho' You Right",
+      "url": "https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr"
     },
     {
       "added_at": null,

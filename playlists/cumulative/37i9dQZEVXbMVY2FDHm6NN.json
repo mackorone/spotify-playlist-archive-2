@@ -4030,10 +4030,28 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 173000,
       "name": "GGUN",
       "url": "https://open.spotify.com/track/09qDfTzRZ0bM8joSzQ0uLF"
+    },
+    {
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "GGUN",
+      "url": "https://open.spotify.com/track/5QCGNPqgbPlXj7lPDKYTOw"
     },
     {
       "album": {
@@ -5542,7 +5560,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 211574,
       "name": "I\u2019m gonna TOESA",
       "url": "https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ"
@@ -5564,7 +5582,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 211574,
       "name": "I\u2019m gonna TOESA (feat. Kian84)",
       "url": "https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg"
@@ -8342,7 +8360,7 @@
     {
       "album": {
         "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+        "url": "https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu"
       },
       "artists": [
         {
@@ -8353,6 +8371,24 @@
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/5ABoisMQy4BDY2dElYhGyJ"
+    },
+    {
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2026-10-27",
       "duration_ms": 160000,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX"
@@ -9390,7 +9426,7 @@
     {
       "album": {
         "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+        "url": "https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu"
       },
       "artists": [
         {
@@ -9401,6 +9437,24 @@
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1fI7jgWKJ41xELohFnVFp7"
+    },
+    {
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2026-10-27",
       "duration_ms": 179000,
       "name": "Star Trace",
       "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
@@ -9976,7 +10030,7 @@
     {
       "album": {
         "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+        "url": "https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu"
       },
       "artists": [
         {
@@ -9987,6 +10041,24 @@
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/2Ed2urwNwEMwR9jCxcgQRn"
+    },
+    {
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2026-10-27",
       "duration_ms": 218000,
       "name": "Sweet Rain",
       "url": "https://open.spotify.com/track/4EYRsQWjtGmiqS2jUAsLsa"
@@ -10338,7 +10410,7 @@
     {
       "album": {
         "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+        "url": "https://open.spotify.com/album/6CPXqV2etsQDPeBDk71Xcu"
       },
       "artists": [
         {
@@ -10349,6 +10421,24 @@
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156000,
+      "name": "The Answer Is Yes",
+      "url": "https://open.spotify.com/track/0PnZs6LXLZ0YZt65wivF8w"
+    },
+    {
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2026-10-27",
       "duration_ms": 156000,
       "name": "The Answer Is Yes",
       "url": "https://open.spotify.com/track/5l7D7feCXQZgCPolpVgmCN"
@@ -15812,7 +15902,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
@@ -15830,7 +15920,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
@@ -15992,7 +16082,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
@@ -16010,7 +16100,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -16414,7 +16504,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 295940,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
@@ -16432,7 +16522,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX"

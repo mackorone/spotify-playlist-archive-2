@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wb3dcSPYJ6xlVpP6HG0u8">Kristen Anderson\-Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 157 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 157 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 | 95 | [Ein Crop Duster Can Race](https://open.spotify.com/track/5YWV1XQOHSs3DWohveJyMy) | [Dave Wittenberg](https://open.spotify.com/artist/5taBQxzDbz7d2F9rOn0NKR) | [Planes](https://open.spotify.com/album/3WmIRy7pR3DkCMsTf7LCaF) | 1:11 |
 | 96 | [Wanda at Home](https://open.spotify.com/track/5yOGoJhFAr9VAZ08aO2qT7) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 1:06 |
 | 97 | [The Ballad of the Witches' Road \(Score Version\)](https://open.spotify.com/track/4ecdy8tgbzg74rPprcGvRe) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 1:41 |
-| 98 | [It's Really Happening](https://open.spotify.com/track/4rvuT08A6g7dq3FjzKp4pQ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 2 \(Original Soundtrack\)](https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr) | 0:52 |
-| 99 | [Snowflower Magic \- From "A Celebration in Arendelle"/Disneyland Paris](https://open.spotify.com/track/1efmEydi5gBZwgGTGfxs9k) | [Cast – Disneyland Paris](https://open.spotify.com/artist/3LMLkxpJCzcOw3i6Z1nBTN) | [Snowflower Magic \(From "A Celebration in Arendelle"/Disneyland Paris\)](https://open.spotify.com/album/6glK0klIwGhfl54L5orVPx) | 3:10 |
+| 98 | [Snowflower Magic \- From "A Celebration in Arendelle"/Disneyland Paris](https://open.spotify.com/track/1efmEydi5gBZwgGTGfxs9k) | [Cast – Disneyland Paris](https://open.spotify.com/artist/3LMLkxpJCzcOw3i6Z1nBTN) | [Snowflower Magic \(From "A Celebration in Arendelle"/Disneyland Paris\)](https://open.spotify.com/album/6glK0klIwGhfl54L5orVPx) | 3:10 |
+| 99 | [It's Really Happening](https://open.spotify.com/track/4rvuT08A6g7dq3FjzKp4pQ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 2 \(Original Soundtrack\)](https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr) | 0:52 |
 | 100 | [Frozen](https://open.spotify.com/track/7y1IC8pSewIIZ19fEG99YU) | [Jedha](https://open.spotify.com/artist/0Or21qKW8Eml80bEKPPCIC), [Tim Heintz](https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D) | [Music from Disney Starlight](https://open.spotify.com/album/6K3lw78IwRoSe9ZKqoKAdQ) | 1:54 |
 | 101 | [Deep Beneath the City / Not There Yet](https://open.spotify.com/track/1TE5iThrbyajKQnWGObAkX) | [Chesney Snow](https://open.spotify.com/artist/3kH3g5FYIF5wL7i2uMYOmf), [The Original Broadway Cast of In Transit](https://open.spotify.com/artist/2uC5cKxfLHsIsdZpaXRN2o) | [In Transit: Broadway's First A Cappella Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5WaIl6cnjUzkLy5ELqIXVX) | 4:18 |
 | 102 | [Thank You for Coming](https://open.spotify.com/track/5z7HmV7F65C8p6LyH1ONCq) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 1 \(Original Soundtrack\)](https://open.spotify.com/album/7cT5OHwrPtilc4Mf7hBU6N) | 0:44 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 | 156 | [You Don't Belong](https://open.spotify.com/track/25cxwxkIgXBD5HtdBWd4aH) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5), [MaKena Jackson](https://open.spotify.com/artist/5BAHeUrDhy4RUC55ZLYeaC), [Maya Sistruck](https://open.spotify.com/artist/2AgDl5kTDamgT6g5EeJAXQ) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:24 |
 | 157 | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/track/7ejDfZmn3aQNizsCfvvVun) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/album/2EOMWbfgnAsuJNDtGBsEGF) | 6:34 |
 
-Snapshot ID: `Acf65gAAAAAwjsMxPPcBcp70jEPGsCwe`
+Snapshot ID: `AcgAwgAAAAB3OVsA/IfFiJ3a0cWTrmJP`

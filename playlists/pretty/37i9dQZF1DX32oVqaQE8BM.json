@@ -1,13 +1,29 @@
 {
   "description": "The ultimate chill out playlist.",
-  "num_followers": 1012010,
+  "num_followers": 1012106,
   "original_name": "Chill Out Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB2vIMYTpqfc5EAesfF+QrmBS/8B",
+  "snapshot_id": "AAAAAEyRNy4yEjEVN7MvpWldIFobhN1S",
   "tracks": [
+    {
+      "added_at": "2026-10-02 15:41:28",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4DeVJDLdnJVOcacuxRTVdI"
+      },
+      "artists": [
+        {
+          "name": "apparater",
+          "url": "https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW"
+        }
+      ],
+      "duration_ms": 150327,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7g2Gcrid5eVt3eAPcQlCxf"
+    },
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
@@ -75,18 +91,18 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4DeVJDLdnJVOcacuxRTVdI"
+        "name": "Camas Lily",
+        "url": "https://open.spotify.com/album/1rGYVE8yghXV8EC1050WZf"
       },
       "artists": [
         {
-          "name": "apparater",
-          "url": "https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW"
+          "name": "Fabi.",
+          "url": "https://open.spotify.com/artist/0vfz8aLN7UtvWnFlB3DwXG"
         }
       ],
-      "duration_ms": 150327,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/7g2Gcrid5eVt3eAPcQlCxf"
+      "duration_ms": 131320,
+      "name": "Camas Lily",
+      "url": "https://open.spotify.com/track/461DAGzoGETwtBN1eIVwWK"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -107,6 +123,38 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
+        "name": "Out of Office",
+        "url": "https://open.spotify.com/album/0Sae1DDqMgtoGEu4g4el1r"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "duration_ms": 139946,
+      "name": "Out of Office",
+      "url": "https://open.spotify.com/track/5cSEqfTiJMvljhej4nSOcm"
+    },
+    {
+      "added_at": "2026-10-02 15:41:28",
+      "album": {
+        "name": "Magentas",
+        "url": "https://open.spotify.com/album/0xwH4TP4pCnywDUIB2k0M1"
+      },
+      "artists": [
+        {
+          "name": "Protier",
+          "url": "https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "Magentas",
+      "url": "https://open.spotify.com/track/6gvuXU8yOI5BdrC97UQEd4"
+    },
+    {
+      "added_at": "2026-10-02 15:41:28",
+      "album": {
         "name": "Platoon",
         "url": "https://open.spotify.com/album/5aEMLOMJiw57EORRaOwvLQ"
       },
@@ -119,6 +167,54 @@
       "duration_ms": 179454,
       "name": "Platoon",
       "url": "https://open.spotify.com/track/0JVWhjQZxnU3cdFc2FETgZ"
+    },
+    {
+      "added_at": "2026-10-02 15:41:28",
+      "album": {
+        "name": "Halcyon",
+        "url": "https://open.spotify.com/album/3taubU8INvuFGBc4mFMVjA"
+      },
+      "artists": [
+        {
+          "name": "Noiseway",
+          "url": "https://open.spotify.com/artist/5ewcFklbngFYknFlviWYHb"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/49K1M0lbXdl9cpRfdFlpgK"
+    },
+    {
+      "added_at": "2026-10-02 15:41:28",
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6LBNM9rofr3QMLBU9CuFI1"
+      },
+      "artists": [
+        {
+          "name": "Yelloo Hill",
+          "url": "https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/5KlQUkAK22yBmoTYKNIzf4"
+    },
+    {
+      "added_at": "2026-10-02 15:41:28",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/5aIrjm2SxJdEWpaOhVZNkj"
+      },
+      "artists": [
+        {
+          "name": "Oldofredi",
+          "url": "https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l"
+        }
+      ],
+      "duration_ms": 164632,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/1tGDMTdS8PaaZZtLBW6J5q"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -183,6 +279,22 @@
       "duration_ms": 134943,
       "name": "traveling",
       "url": "https://open.spotify.com/track/0WJmUMzYaJ8EGbLUrHoKcG"
+    },
+    {
+      "added_at": "2026-10-26 19:51:20",
+      "album": {
+        "name": "I found her",
+        "url": "https://open.spotify.com/album/2ScCBPXEOy2eu4iHGfrAhz"
+      },
+      "artists": [
+        {
+          "name": "Ocean Silhouette",
+          "url": "https://open.spotify.com/artist/2LWa52RmMEwEQF5q2EvjxL"
+        }
+      ],
+      "duration_ms": 130057,
+      "name": "I found her",
+      "url": "https://open.spotify.com/track/5K740VoQRt4YZJayBxwHCR"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -313,6 +425,22 @@
       "url": "https://open.spotify.com/track/4jNJlmX0VtGPmAKFzSslNr"
     },
     {
+      "added_at": "2026-10-26 19:51:20",
+      "album": {
+        "name": "follow me",
+        "url": "https://open.spotify.com/album/6L4UpkfUt2mNrCMewjl4Os"
+      },
+      "artists": [
+        {
+          "name": "Noir Vista",
+          "url": "https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ"
+        }
+      ],
+      "duration_ms": 137182,
+      "name": "follow me",
+      "url": "https://open.spotify.com/track/0Dj7gjJgVy6SdoW8XLFKCF"
+    },
+    {
       "added_at": "2026-10-02 15:41:28",
       "album": {
         "name": "Mindset",
@@ -411,22 +539,6 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "While Coffee Brews",
-        "url": "https://open.spotify.com/album/42SE9uaQNVcAXoHEJpjgkO"
-      },
-      "artists": [
-        {
-          "name": "longwayfromhome",
-          "url": "https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh"
-        }
-      ],
-      "duration_ms": 124017,
-      "name": "While Coffee Brews",
-      "url": "https://open.spotify.com/track/5F6Jdqh11eZK36IH9t5pTr"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
         "name": "Feeling Alive",
         "url": "https://open.spotify.com/album/06pYdbowEPjVDMEqldmdzN"
       },
@@ -439,6 +551,22 @@
       "duration_ms": 174265,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/3oY0S0T5t7B6S9QDsPuNIE"
+    },
+    {
+      "added_at": "2026-10-26 19:51:20",
+      "album": {
+        "name": "Morning Hours",
+        "url": "https://open.spotify.com/album/27Dsdge3fZqoNAxq7b2uKO"
+      },
+      "artists": [
+        {
+          "name": "Fabi.",
+          "url": "https://open.spotify.com/artist/0vfz8aLN7UtvWnFlB3DwXG"
+        }
+      ],
+      "duration_ms": 138285,
+      "name": "Morning Hours",
+      "url": "https://open.spotify.com/track/30ueZrFPHFyI6UDxrkv4pX"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -475,22 +603,6 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "Fresh Start",
-        "url": "https://open.spotify.com/album/64YKwVlo0puj15i0xnJ8K1"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Mirage",
-          "url": "https://open.spotify.com/artist/7rpxtvxhE8niKR3p12vQq4"
-        }
-      ],
-      "duration_ms": 166730,
-      "name": "Fresh Start",
-      "url": "https://open.spotify.com/track/53Jx8rwCXGBCHKYOjytGub"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
         "name": "The Beach House",
         "url": "https://open.spotify.com/album/2ygJlWDErOsro40HdT4zG2"
       },
@@ -519,22 +631,6 @@
       "duration_ms": 139911,
       "name": "Sounds right",
       "url": "https://open.spotify.com/track/6lFGmtqXEaooUGIuyoR9Hm"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
-        "name": "fixation",
-        "url": "https://open.spotify.com/album/43sPMEgpvCEHP32H4CW3cN"
-      },
-      "artists": [
-        {
-          "name": "Ferrosia",
-          "url": "https://open.spotify.com/artist/6VjLJOIiiHRO4yMv5jOB3I"
-        }
-      ],
-      "duration_ms": 134159,
-      "name": "fixation",
-      "url": "https://open.spotify.com/track/2VdlT1vhhUbvZo7VGFwKLc"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -583,6 +679,22 @@
       "duration_ms": 127000,
       "name": "Jungle Serenity",
       "url": "https://open.spotify.com/track/68aaiPBPLnwWuF6bPTu43H"
+    },
+    {
+      "added_at": "2026-10-26 19:51:20",
+      "album": {
+        "name": "Espresso del Mar",
+        "url": "https://open.spotify.com/album/4h5M4ZtLlBtgfHN2FvFhho"
+      },
+      "artists": [
+        {
+          "name": "Ondora",
+          "url": "https://open.spotify.com/artist/4mE1edQ6ori5EVwOlxx8L6"
+        }
+      ],
+      "duration_ms": 141308,
+      "name": "Espresso del Mar",
+      "url": "https://open.spotify.com/track/0mwSMlYnPwQzrkuO9gLyD5"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -713,6 +825,22 @@
       "url": "https://open.spotify.com/track/171H5E5SQdQVP9iANgBSes"
     },
     {
+      "added_at": "2026-10-26 19:51:20",
+      "album": {
+        "name": "Nourish",
+        "url": "https://open.spotify.com/album/7xRyBJquuGclDOkQ0Q8Cfb"
+      },
+      "artists": [
+        {
+          "name": "Patrons of 180",
+          "url": "https://open.spotify.com/artist/5DmBNJgmmpx7uEor23089W"
+        }
+      ],
+      "duration_ms": 140917,
+      "name": "Nourish",
+      "url": "https://open.spotify.com/track/1Czlkv0S0WqlJqtAdDNMfk"
+    },
+    {
       "added_at": "2026-10-02 15:41:28",
       "album": {
         "name": "Borrowed Blue",
@@ -727,22 +855,6 @@
       "duration_ms": 154081,
       "name": "Borrowed Blue",
       "url": "https://open.spotify.com/track/708H1bXoW1UDrpu8WWkE7m"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6LBNM9rofr3QMLBU9CuFI1"
-      },
-      "artists": [
-        {
-          "name": "Yelloo Hill",
-          "url": "https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Perfect Timing",
-      "url": "https://open.spotify.com/track/5KlQUkAK22yBmoTYKNIzf4"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -839,6 +951,22 @@
       "duration_ms": 134134,
       "name": "Savanna",
       "url": "https://open.spotify.com/track/6IM7Ly5Kl89ineRwTaM9jZ"
+    },
+    {
+      "added_at": "2026-10-26 19:51:20",
+      "album": {
+        "name": "Expect",
+        "url": "https://open.spotify.com/album/1ddWGDgp2X8zkYR8EDWaQA"
+      },
+      "artists": [
+        {
+          "name": "Ellef Antenn",
+          "url": "https://open.spotify.com/artist/16YlFbaG2mBZH3bkV3D544"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Expect",
+      "url": "https://open.spotify.com/track/5HHNG7cOlOWeVfPrjP060x"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -1243,22 +1371,6 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "Halcyon",
-        "url": "https://open.spotify.com/album/3taubU8INvuFGBc4mFMVjA"
-      },
-      "artists": [
-        {
-          "name": "Noiseway",
-          "url": "https://open.spotify.com/artist/5ewcFklbngFYknFlviWYHb"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "Halcyon",
-      "url": "https://open.spotify.com/track/49K1M0lbXdl9cpRfdFlpgK"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
         "name": "Amber Lines",
         "url": "https://open.spotify.com/album/3Y44CVAmdapawOErJFQIq3"
       },
@@ -1355,22 +1467,6 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "Magentas",
-        "url": "https://open.spotify.com/album/0xwH4TP4pCnywDUIB2k0M1"
-      },
-      "artists": [
-        {
-          "name": "Protier",
-          "url": "https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp"
-        }
-      ],
-      "duration_ms": 121142,
-      "name": "Magentas",
-      "url": "https://open.spotify.com/track/6gvuXU8yOI5BdrC97UQEd4"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
         "name": "galactic mist",
         "url": "https://open.spotify.com/album/4l2pH3im2jibiLVKV6bT4e"
       },
@@ -1403,22 +1499,6 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "Out of Office",
-        "url": "https://open.spotify.com/album/0Sae1DDqMgtoGEu4g4el1r"
-      },
-      "artists": [
-        {
-          "name": "Rick Groove",
-          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
-        }
-      ],
-      "duration_ms": 139946,
-      "name": "Out of Office",
-      "url": "https://open.spotify.com/track/5cSEqfTiJMvljhej4nSOcm"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/3jSkrXNvytZtuB9QVipX1e"
       },
@@ -1431,22 +1511,6 @@
       "duration_ms": 148700,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5P65iXS3CYCVanw3ACOLzr"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/5aIrjm2SxJdEWpaOhVZNkj"
-      },
-      "artists": [
-        {
-          "name": "Oldofredi",
-          "url": "https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l"
-        }
-      ],
-      "duration_ms": 164632,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/1tGDMTdS8PaaZZtLBW6J5q"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -1963,22 +2027,6 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "Sip Silence First",
-        "url": "https://open.spotify.com/album/24AXzapu7l6d2rPmig66mt"
-      },
-      "artists": [
-        {
-          "name": "Mai Tai Midnight",
-          "url": "https://open.spotify.com/artist/3TthaJgTwX2fcB6BALNvSm"
-        }
-      ],
-      "duration_ms": 146890,
-      "name": "Sip Silence First",
-      "url": "https://open.spotify.com/track/3bSH9fzXIGYqnmTreWonZL"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
         "name": "Crystal Blue",
         "url": "https://open.spotify.com/album/3bs8t1CGKCr5umlrxB3MXR"
       },
@@ -2295,22 +2343,6 @@
       "duration_ms": 165600,
       "name": "Wavelength",
       "url": "https://open.spotify.com/track/0wuxhAiDSyAK2N8Mbzogly"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
-        "name": "dreams unfold",
-        "url": "https://open.spotify.com/album/0YlWfl5lULUIznk8KRBrTh"
-      },
-      "artists": [
-        {
-          "name": "Mo Rana",
-          "url": "https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9"
-        }
-      ],
-      "duration_ms": 137625,
-      "name": "dreams unfold",
-      "url": "https://open.spotify.com/track/0ZRR6Ro8DABbjpNB8jty7n"
     },
     {
       "added_at": "2026-10-02 15:41:28",
@@ -2699,22 +2731,6 @@
     {
       "added_at": "2026-10-02 15:41:28",
       "album": {
-        "name": "Aperitivo",
-        "url": "https://open.spotify.com/album/2sPf3cNCZnUQTladr4uPP8"
-      },
-      "artists": [
-        {
-          "name": "Jaake Alsonn",
-          "url": "https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Aperitivo",
-      "url": "https://open.spotify.com/track/6TGTsXN0pXGxyVIL7XK6SD"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
         "name": "fruity sand",
         "url": "https://open.spotify.com/album/1mD8yTzWy68Kk2d4tjtDeB"
       },
@@ -2871,22 +2887,6 @@
       "duration_ms": 133886,
       "name": "Runway",
       "url": "https://open.spotify.com/track/4ZtT1RDg9u4laGpShYihQ0"
-    },
-    {
-      "added_at": "2026-10-02 15:41:28",
-      "album": {
-        "name": "Camas Lily",
-        "url": "https://open.spotify.com/album/1rGYVE8yghXV8EC1050WZf"
-      },
-      "artists": [
-        {
-          "name": "Fabi.",
-          "url": "https://open.spotify.com/artist/0vfz8aLN7UtvWnFlB3DwXG"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Camas Lily",
-      "url": "https://open.spotify.com/track/461DAGzoGETwtBN1eIVwWK"
     },
     {
       "added_at": "2026-10-02 15:41:28",

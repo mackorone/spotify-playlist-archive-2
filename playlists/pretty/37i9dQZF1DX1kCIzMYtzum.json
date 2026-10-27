@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99\ud83d\udc99 featuring Martin Garrix",
-  "num_followers": 566420,
+  "num_followers": 566588,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/0pQECEqaIniCnSEwn2HzLO"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/3zlLhEnV9yMRRSE3bFS0Xe"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 203307,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0pQECEqaIniCnSEwn2HzLO"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3zlLhEnV9yMRRSE3bFS0Xe"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Ren\u00e9 Miller",
-          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
       },
@@ -1963,30 +1943,6 @@
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2035,6 +1991,30 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 258461,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2111,22 +2111,26 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0"
+        "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
+        "url": "https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 203334,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
+      "duration_ms": 139285,
+      "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
+      "url": "https://open.spotify.com/track/69akic9gR26niltxBY8pFm"
     }
   ],
   "unique_name": "EDM 2026",

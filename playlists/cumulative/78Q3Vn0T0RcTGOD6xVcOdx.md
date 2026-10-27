@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-366 songs - 21 hr 28 min
+367 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Lejos De Ti](https://open.spotify.com/track/0TYJqwk9fIxWJgj9H8Cafk) | [Alex Pertout](https://open.spotify.com/artist/71NXFy3G4NMNHZlS97JUyA), [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV), [Mayquel Gonzalez](https://open.spotify.com/artist/6aWmQKw1O2jqkRO9zKab9N), [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Alan Plachta](https://open.spotify.com/artist/0LIpCAgTqGSTqtSUrcWOny) | [Lejos De Ti](https://open.spotify.com/album/4HjQmnMbnxWD8h5rlbKBi8) | 7:05 | 2025-06-28 | 2026-04-06 |
 | [Let it Go](https://open.spotify.com/track/2UsuK4NFADOX4w6hqnRk9Z) | [Eddy Willemsen](https://open.spotify.com/artist/66l6yInrt4qUcvAICPaR7t) | [Let it Go](https://open.spotify.com/album/64NLU3E6KCMGfVDQ6H7XYz) | 4:16 | 2025-01-26 | 2026-06-12 |
 | [Light at the End](https://open.spotify.com/track/5jl01NwoU1XStoXdrSn5Gk) | [Tomigotti](https://open.spotify.com/artist/3YFm69NGpg7uQg3nmLYLy9) | [Light at the End](https://open.spotify.com/album/1iY037hKzdGG5lsEsoSe6H) | 2:44 | 2025-01-25 | 2026-06-12 |
+| [Light Up](https://open.spotify.com/track/22rvo6iIanBsteVmbWoeMB) | [H\. 4Real](https://open.spotify.com/artist/6VaTWoMnz7WhncBc4zgrKm) | [Dend Down Low](https://open.spotify.com/album/6GqaXCRPLLLBTWwZkj2Rzo) | 3:47 | 2026-10-26 |  |
 | [Listen To The Music](https://open.spotify.com/track/3AL3IiWCwFgyBXOl7wI8eJ) | [Ultra Funkular Sound](https://open.spotify.com/artist/0JTRg5WSk5K5E2GBRZzRVN) | [Listen To The Music](https://open.spotify.com/album/5UsgZcXieIlFKrN9RBn7NI) | 2:14 | 2026-09-15 |  |
 | [Lo Imposible](https://open.spotify.com/track/2737YHqIcjnFxegOQSV8CF) | [David Balmes](https://open.spotify.com/artist/58QviqNC5ugAlAKbP1ilBE) | [Lo Imposible](https://open.spotify.com/album/5CkYQlHQBcvuoKLH6RDICU) | 3:15 | 2025-04-15 | 2026-04-06 |
 | [Loco](https://open.spotify.com/track/63EQbNhgaih4yg5412usWG) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Loco](https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232) | 3:06 | 2025-01-24 | 2026-06-12 |

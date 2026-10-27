@@ -1,6 +1,6 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 41941,
+  "num_followers": 41946,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOTA",
         "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Big Mama",
-      "url": "https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Official FIFA World Cup 2026\u2122 Album",
-        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FreakyT (Remix)",
         "url": "https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 173573,
       "name": "BACK OUTSIDE (feat. Latto)",
       "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0"
     },
     {
       "added_at": null,

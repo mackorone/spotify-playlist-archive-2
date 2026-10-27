@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,326 songs - 3 day 1 hr 24 min
+1,327 songs - 3 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1247,6 +1247,7 @@
 | [Volume Nation](https://open.spotify.com/track/6FXR8bDZEl1YY9ygjU0F1y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Volume Nation](https://open.spotify.com/album/5P5wo8Auod5iYSHkAgBmnC) | 2:46 | 2026-04-01 | 2026-07-10 |
 | [WAIT4U](https://open.spotify.com/track/7igtWMNT2mPCYARw9g0cLn) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [WAIT4U](https://open.spotify.com/album/6rjRB1yiwh2iOmyiWGmJp6) | 4:12 | 2023-10-13 | 2024-01-27 |
 | [Waiting](https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:40 | 2022-11-04 | 2022-11-22 |
+| [Waiting](https://open.spotify.com/track/4WjLdHr2VSqlM1TqMvLxbG) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Waiting](https://open.spotify.com/album/62IwQOm8y6LXHWBZgqyJP4) | 3:13 | 2026-10-26 |  |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-03-04 | 2022-05-18 |
 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 | 2024-07-31 | 2024-10-23 |
 | [Wake Up](https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Wake Up](https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0) | 3:09 | 2024-08-15 | 2024-11-07 |

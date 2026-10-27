@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Chella
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,088 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,141 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 64 | [Feel Am](https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM II](https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86) | 2:37 |
 | 65 | [Your Body \(Crazy\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Crazy\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 |
 | 66 | [Cash Rules Everything Around Us](https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Cash Rules Everything Around Us](https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK) | 2:36 |
-| 67 | [Lord Knows](https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:37 |
-| 68 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
-| 69 | [Don't Be Shy](https://open.spotify.com/track/3b58L7SFWVkp0fvmMJSbZa) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Don't Be Shy](https://open.spotify.com/album/1OWIwMVfsWicPlB58jooSc) | 2:50 |
-| 70 | [Melody](https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Melody](https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx) | 3:07 |
+| 67 | [Melody](https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Melody](https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx) | 3:07 |
+| 68 | [Lord Knows](https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:37 |
+| 69 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
+| 70 | [Don't Be Shy](https://open.spotify.com/track/3b58L7SFWVkp0fvmMJSbZa) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Don't Be Shy](https://open.spotify.com/album/1OWIwMVfsWicPlB58jooSc) | 2:50 |
 
 Snapshot ID: `AAAAAMgVhmd1zH8bWB/69CS4hgzz72H4`

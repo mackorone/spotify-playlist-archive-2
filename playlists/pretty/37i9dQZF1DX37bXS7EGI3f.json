@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 825343,
+  "num_followers": 825345,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Legend Of Achilles",
-        "url": "https://open.spotify.com/album/7mKISLZO6I96vXlTSL2Mnw"
-      },
-      "artists": [
-        {
-          "name": "Firewind",
-          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "The Legend Of Achilles",
-      "url": "https://open.spotify.com/track/3EshPU6k9poWWUY38XKfEx"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Who Wants to Burn in Heaven",
-        "url": "https://open.spotify.com/album/6ZMVbpaOeHkKr4AfJCtJ9v"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 236872,
-      "name": "Who Wants to Burn in Heaven",
-      "url": "https://open.spotify.com/track/5fa6nwSGPq7hd6BDOuSHad"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "A Thousand Anemones",
         "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
       },
@@ -1059,6 +1027,38 @@
       "duration_ms": 253860,
       "name": "A Thousand Anemones",
       "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "The Legend Of Achilles",
+        "url": "https://open.spotify.com/album/7mKISLZO6I96vXlTSL2Mnw"
+      },
+      "artists": [
+        {
+          "name": "Firewind",
+          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "The Legend Of Achilles",
+      "url": "https://open.spotify.com/track/3EshPU6k9poWWUY38XKfEx"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Who Wants to Burn in Heaven",
+        "url": "https://open.spotify.com/album/6ZMVbpaOeHkKr4AfJCtJ9v"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "duration_ms": 236872,
+      "name": "Who Wants to Burn in Heaven",
+      "url": "https://open.spotify.com/track/5fa6nwSGPq7hd6BDOuSHad"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Metal Elite",
-        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "The Metal Elite",
-      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Rune (2025)",
         "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "The Metal Elite",
+        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "The Metal Elite",
+      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "Sorrowbreaker",
+        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Retrospectator",
+      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 247978,
       "name": "Steel And Gold",
       "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Retrospectator",
-      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Thunderfist Chronicles (Deluxe Version)",
         "url": "https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 263121,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
       },
       "artists": [
         {
-          "name": "Nocturna",
-          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 234790,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
+      "duration_ms": 216957,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
     }
   ],
   "unique_name": "Epic & Melodic",

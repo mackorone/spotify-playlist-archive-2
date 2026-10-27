@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15718,
+  "num_followers": 15728,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,26 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
       "artists": [
         {
-          "name": "Mark Lee",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Raincouver",
-      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
+      "duration_ms": 276152,
+      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
+      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -539,26 +547,18 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Mark Lee",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
         }
       ],
-      "duration_ms": 276152,
-      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
-      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+      "duration_ms": 159066,
+      "name": "Raincouver",
+      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -943,22 +943,22 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "The Movie Star",
-        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
+        "name": "20th Anniversary Edition \u2018Dark Hole\u2019",
+        "url": "https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7"
       },
       "artists": [
         {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         },
         {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+          "name": "Jamie",
+          "url": "https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Transcend (Feat. C JAMM)",
-      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
+      "duration_ms": 270906,
+      "name": "Sick enough to die (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm"
     },
     {
       "added_at": "2026-10-08 07:16:06",
@@ -983,22 +983,22 @@
     {
       "added_at": "2026-10-08 07:16:06",
       "album": {
-        "name": "20th Anniversary Edition \u2018Dark Hole\u2019",
-        "url": "https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7"
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
         },
         {
-          "name": "Jamie",
-          "url": "https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN"
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
         }
       ],
-      "duration_ms": 270906,
-      "name": "Sick enough to die (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm"
+      "duration_ms": 220266,
+      "name": "Transcend (Feat. C JAMM)",
+      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

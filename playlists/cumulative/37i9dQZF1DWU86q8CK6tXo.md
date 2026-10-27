@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Josie Edwards
 
-2,336 songs - 5 day 6 hr 6 min
+2,337 songs - 5 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [6ft Under](https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [6ft Under](https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX) | 3:30 | 2026-04-20 | 2026-07-02 |
 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 | 2023-11-08 | 2023-11-30 |
 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 | 2023-06-07 | 2023-07-06 |
+| [8 FEET TALL \(feat\. Rico Nasty\)](https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu) | [ERISTHEPLANET](https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [IT REALLY DO BE THAT DAMN PHONE](https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb) | 1:54 | 2026-10-05 |  |
 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 | 2022-06-01 | 2022-07-07 |
 | [80's Movie](https://open.spotify.com/track/1dme0FnBzwMTBkVFZKVwZR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [80's Movie](https://open.spotify.com/album/4V5aWue3jo2dSa4jEuVNMW) | 3:51 | 2023-08-02 | 2023-09-07 |
 | [90's Baby](https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:07 | 2024-08-01 | 2024-09-04 |
@@ -410,7 +411,7 @@
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-05-01 | 2024-06-01 |
 | [Circle With Me](https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:53 | 2024-01-26 | 2024-03-02 |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-04-06 | 2022-06-01 |
-| [clementine](https://open.spotify.com/track/720NjMRiTI3YMHUeKQzSZc) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Observing Chaos](https://open.spotify.com/album/2PDL5zrh8O9xF8ukEfltam) | 2:44 | 2026-10-05 |  |
+| [clementine](https://open.spotify.com/track/720NjMRiTI3YMHUeKQzSZc) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Observing Chaos](https://open.spotify.com/album/2PDL5zrh8O9xF8ukEfltam) | 2:44 | 2026-10-05 | 2026-10-27 |
 | [Clink](https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [SYNY 3 ACT III](https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB) | 2:40 | 2026-05-04 | 2026-07-02 |
 | [Closer](https://open.spotify.com/track/5v2HlTA9HGIp97umphPlKP) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Closer](https://open.spotify.com/album/1S5c3aXnTcoAFFhGQ4FrTX) | 2:52 | 2023-05-05 | 2023-06-08 |
 | [club heaven \- Live from Spotify Green Screen](https://open.spotify.com/track/3AaRTY18Q5ETuYoQ2wLXDP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven \(Live from Spotify Green Screen\)](https://open.spotify.com/album/1fe3shDrSWQXIwf32qLFiY) | 2:28 | 2024-01-26 | 2024-03-02 |

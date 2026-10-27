@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 
 > This is Gautier Capuçon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,108 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30BEsx.md) - [plain]
 | 49 | [La vie en rose](https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8) | [Louiguy](https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Johanna Malangré](https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b), [Orchestre national de Bretagne](https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz) | [Sensations \- La vie en rose](https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi) | 4:24 |
 | 50 | [Schubert: String Quintet in C Major, Op\. 163, D\. 956: II\. Adagio](https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI) | [Schubert: String Quintet, Op\. 163 & Lieder](https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg) | 15:13 |
 
-Snapshot ID: `atqjgAAAAACze5qJYtoStBhh5U290oi8`
+Snapshot ID: `atv1AAAAAAAlfYPwB5aG/85p+YKaAN99`

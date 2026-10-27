@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Basinga Basinga Balaaleee!",
-  "num_followers": 688849,
+  "num_followers": 689557,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPTr+E6Zc6RSFHjqKAKbfgI6QuZ",
+  "snapshot_id": "AAAAAJFmViKD49AC6aofGb6oMKaL6rZ9",
   "tracks": [
     {
       "added_at": "2026-09-22 11:32:42",
@@ -31,34 +31,6 @@
       "duration_ms": 249836,
       "name": "Basinga Balaalu",
       "url": "https://open.spotify.com/track/5aAm4h5bLg4hV5wQAi5MGx"
-    },
-    {
-      "added_at": "2026-08-31 05:29:54",
-      "album": {
-        "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/4lrQs1uVuyf79sjjuLmU4p"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Singer Prabha",
-          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
-        },
-        {
-          "name": "Jangi Reddy",
-          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/0HE9a9ndSFMCELuobaW5yK"
     },
     {
       "added_at": "2026-09-29 10:10:35",
@@ -89,6 +61,170 @@
       "url": "https://open.spotify.com/track/0HG0q1rtcVe1kXlreHz9Kf"
     },
     {
+      "added_at": "2026-10-16 06:25:10",
+      "album": {
+        "name": "Yaalalo Yaalalo (From \"Irumudi\")",
+        "url": "https://open.spotify.com/album/4mfH51Wz82x07QupDT7fMc"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Sadhika K R",
+          "url": "https://open.spotify.com/artist/2ES35LM2c97AhayaTYvZ6P"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 253061,
+      "name": "Yaalalo Yaalalo (From \"Irumudi\")",
+      "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"
+    },
+    {
+      "added_at": "2026-07-01 07:43:32",
+      "album": {
+        "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
+        "url": "https://open.spotify.com/album/3oNBq6rB3OahG8xxdarEXE"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
+      "url": "https://open.spotify.com/track/6KroI9N5liA2gBaWK7n3Gq"
+    },
+    {
+      "added_at": "2026-10-22 11:03:39",
+      "album": {
+        "name": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
+        "url": "https://open.spotify.com/album/3xN4ol2Gbu9D1AeVA8ewib"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 246438,
+      "name": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
+      "url": "https://open.spotify.com/track/4vUyAxDYK5ZdpHNU2gh3HI"
+    },
+    {
+      "added_at": "2026-08-31 05:29:54",
+      "album": {
+        "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/4lrQs1uVuyf79sjjuLmU4p"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/0HE9a9ndSFMCELuobaW5yK"
+    },
+    {
+      "added_at": "2026-10-23 05:56:38",
+      "album": {
+        "name": "Chatrapathi",
+        "url": "https://open.spotify.com/album/6HRd6z5l3t6rd48WLN4Wiv"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Mathangi",
+          "url": "https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t"
+        }
+      ],
+      "duration_ms": 283490,
+      "name": "A Vachi B Pai",
+      "url": "https://open.spotify.com/track/4HJYuPeFQscnDtT4tFFhEC"
+    },
+    {
+      "added_at": "2026-10-21 15:09:33",
+      "album": {
+        "name": "Nannaku Prematho",
+        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
+    },
+    {
+      "added_at": "2026-09-22 11:32:42",
+      "album": {
+        "name": "Singari [From \"Dude (Telugu)\"]",
+        "url": "https://open.spotify.com/album/3iLLsCzKJwK4mozLgWtA8L"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Singari - From \"Dude (Telugu)\"",
+      "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
+    },
+    {
       "added_at": "2026-10-23 05:56:38",
       "album": {
         "name": "Chatrapathi",
@@ -107,22 +243,6 @@
       "duration_ms": 256217,
       "name": "Gundu Sudhi",
       "url": "https://open.spotify.com/track/1O830N4qSvTEjDqDyvAuWQ"
-    },
-    {
-      "added_at": "2026-10-21 15:09:33",
-      "album": {
-        "name": "Nannaku Prematho",
-        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
-      },
-      "artists": [
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
     },
     {
       "added_at": "2026-10-22 11:03:39",
@@ -185,34 +305,6 @@
       "url": "https://open.spotify.com/track/0DmjjMsET99g6DktU25Y9u"
     },
     {
-      "added_at": "2026-10-16 06:25:10",
-      "album": {
-        "name": "Yaalalo Yaalalo (From \"Irumudi\")",
-        "url": "https://open.spotify.com/album/4mfH51Wz82x07QupDT7fMc"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Sadhika K R",
-          "url": "https://open.spotify.com/artist/2ES35LM2c97AhayaTYvZ6P"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 253061,
-      "name": "Yaalalo Yaalalo (From \"Irumudi\")",
-      "url": "https://open.spotify.com/track/3K5FEYNTqOSTEiX6oTNOqc"
-    },
-    {
       "added_at": "2025-12-02 09:12:02",
       "album": {
         "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
@@ -239,98 +331,6 @@
       "duration_ms": 174146,
       "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
       "url": "https://open.spotify.com/track/2W7nhORqSy1QD4fETZmZmb"
-    },
-    {
-      "added_at": "2026-07-01 07:43:32",
-      "album": {
-        "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
-        "url": "https://open.spotify.com/album/3oNBq6rB3OahG8xxdarEXE"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
-      "url": "https://open.spotify.com/track/6KroI9N5liA2gBaWK7n3Gq"
-    },
-    {
-      "added_at": "2026-10-23 05:56:38",
-      "album": {
-        "name": "Chatrapathi",
-        "url": "https://open.spotify.com/album/6HRd6z5l3t6rd48WLN4Wiv"
-      },
-      "artists": [
-        {
-          "name": "M. M. Keeravaani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
-        },
-        {
-          "name": "Mathangi",
-          "url": "https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t"
-        }
-      ],
-      "duration_ms": 283490,
-      "name": "A Vachi B Pai",
-      "url": "https://open.spotify.com/track/4HJYuPeFQscnDtT4tFFhEC"
-    },
-    {
-      "added_at": "2026-09-22 11:32:42",
-      "album": {
-        "name": "Singari [From \"Dude (Telugu)\"]",
-        "url": "https://open.spotify.com/album/3iLLsCzKJwK4mozLgWtA8L"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Singari - From \"Dude (Telugu)\"",
-      "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
-    },
-    {
-      "added_at": "2026-10-22 11:03:39",
-      "album": {
-        "name": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
-        "url": "https://open.spotify.com/album/3xN4ol2Gbu9D1AeVA8ewib"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Singer Prabha",
-          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 246438,
-      "name": "Narayanamma (From \"Aadarsha Kutumbam - AK47\")",
-      "url": "https://open.spotify.com/track/4vUyAxDYK5ZdpHNU2gh3HI"
     },
     {
       "added_at": "2025-11-11 06:12:33",

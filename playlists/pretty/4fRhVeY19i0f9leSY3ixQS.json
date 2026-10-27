@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 2062,
+  "num_followers": 2069,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAkfWuFTWTIiJvVeXkq5SrEq2aXrdqD",
+  "snapshot_id": "AAAkiaZYREy3OX2ixwjhAlmbf+5YHyJQ",
   "tracks": [
     {
       "added_at": "2026-10-22 02:48:54",
@@ -3589,23 +3589,7 @@
       "url": "https://open.spotify.com/track/4HuzdTYQwcmb9SytlbehDy"
     },
     {
-      "added_at": "2026-09-26 09:08:05",
-      "album": {
-        "name": "Steroids",
-        "url": "https://open.spotify.com/album/6KXTcSZk0X3EOTQHJIMq1z"
-      },
-      "artists": [
-        {
-          "name": "Chronic Fatigue",
-          "url": "https://open.spotify.com/artist/6L5nh6JnemjTKRxLDbYNTg"
-        }
-      ],
-      "duration_ms": 247108,
-      "name": "Steroids",
-      "url": "https://open.spotify.com/track/56UQaCpUbdgbcghAbrVpyA"
-    },
-    {
-      "added_at": "2026-09-27 01:00:33",
+      "added_at": "2026-10-26 12:00:34",
       "album": {
         "name": "Malady",
         "url": "https://open.spotify.com/album/1FbwQDmtrEIGYbUa9NTqho"
@@ -5155,6 +5139,102 @@
       "duration_ms": 196962,
       "name": "Do You Wanna Dance",
       "url": "https://open.spotify.com/track/3ZB247yELgTiJojUJLOJvh"
+    },
+    {
+      "added_at": "2026-10-26 08:30:27",
+      "album": {
+        "name": "A Poet's Requiem",
+        "url": "https://open.spotify.com/album/3mmYkYzMVQMPOLwDnhW8RI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Paris",
+          "url": "https://open.spotify.com/artist/09VWU7KJvYfViZDFL5r3PR"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Kissing Other People",
+      "url": "https://open.spotify.com/track/2Pf3tU0B34t6l9Z7xCl3gT"
+    },
+    {
+      "added_at": "2026-10-26 08:30:53",
+      "album": {
+        "name": "New Days//Lost Days",
+        "url": "https://open.spotify.com/album/0SqT4DaeXdkZpCwYJKj0Ay"
+      },
+      "artists": [
+        {
+          "name": "Neon Trace",
+          "url": "https://open.spotify.com/artist/3H3dnLHdnGFfto918KeiAf"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Cigarettes On The Bridge",
+      "url": "https://open.spotify.com/track/30sWs4QWH5qUe8Vdni9HiR"
+    },
+    {
+      "added_at": "2026-10-26 16:28:41",
+      "album": {
+        "name": "On The Brink Of Becoming",
+        "url": "https://open.spotify.com/album/3WLTIeQCCu7AmrZ6wBPnnz"
+      },
+      "artists": [
+        {
+          "name": "Xskull8",
+          "url": "https://open.spotify.com/artist/40UgTx0nzusec3wImCiS3C"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "My Own Demise",
+      "url": "https://open.spotify.com/track/1G80p5wMdA41ruFNfynkd2"
+    },
+    {
+      "added_at": "2026-10-26 16:33:58",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2N5M8052YhgdZtrO3vUuny"
+      },
+      "artists": [
+        {
+          "name": "Who's Molly?",
+          "url": "https://open.spotify.com/artist/5cdF3kdHKfTkPS9t9778wp"
+        }
+      ],
+      "duration_ms": 176962,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4QlbPBnTPhyZDi0vlDGIuN"
+    },
+    {
+      "added_at": "2026-10-26 16:34:53",
+      "album": {
+        "name": "The Kick",
+        "url": "https://open.spotify.com/album/52keNwefKRP3Qy50MltOk6"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 187564,
+      "name": "The Kick",
+      "url": "https://open.spotify.com/track/6pVipr2cqL6oAujqsACStE"
+    },
+    {
+      "added_at": "2026-10-26 16:36:24",
+      "album": {
+        "name": "your perfection",
+        "url": "https://open.spotify.com/album/6yl5C1kwnFq82ho8wy00Ob"
+      },
+      "artists": [
+        {
+          "name": "melanxhollow",
+          "url": "https://open.spotify.com/artist/0bkDLFriZnHUfpPrM0nALz"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "your perfection",
+      "url": "https://open.spotify.com/track/24hKUPtb4slUu1ZFov3BxD"
     }
   ],
   "unique_name": "Spotify Radio",

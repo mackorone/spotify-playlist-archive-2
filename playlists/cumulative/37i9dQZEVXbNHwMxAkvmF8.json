@@ -9998,7 +9998,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 165129,
       "name": "ELSZ\u00c1LL AZ ID\u0150",
       "url": "https://open.spotify.com/track/2Jg0OT3lCm4vwBbC9vv7KJ"
@@ -18180,7 +18180,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 140689,
       "name": "Klitorisz",
       "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"
@@ -22667,6 +22667,28 @@
     },
     {
       "album": {
+        "name": "NEMELVAGYUNK? II.",
+        "url": "https://open.spotify.com/album/6pgg8ZnFlRtrrVsVy5FrsR"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120109,
+      "name": "MOVE IT",
+      "url": "https://open.spotify.com/track/0r4Alb0zn6ttEUgaTv25A8"
+    },
+    {
+      "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
@@ -23442,7 +23464,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 189726,
       "name": "nem hiszek",
       "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
@@ -35738,10 +35760,32 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 165217,
       "name": "T\u00edz L\u00e1ny",
       "url": "https://open.spotify.com/track/0ylIgpSA6lCBd8CfTzWb7h"
+    },
+    {
+      "album": {
+        "name": "T\u00edz L\u00e1ny (feat. Bruno)",
+        "url": "https://open.spotify.com/album/7ETJSl2Q16tNLVZazBBSun"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "T\u00edz L\u00e1ny (feat. Bruno)",
+      "url": "https://open.spotify.com/track/07id7m2uwVlemW0Q231uFw"
     },
     {
       "album": {

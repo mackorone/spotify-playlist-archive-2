@@ -1,6 +1,6 @@
 {
   "description": "En modo: simulacro navide\u00f1o \ud83c\udf84 \ud83c\udf85\ud83c\udffc",
-  "num_followers": 144034,
+  "num_followers": 144023,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "50 A\u00f1os De Fiesta",
-        "url": "https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF"
-      },
-      "artists": [
-        {
-          "name": "Los Wawanco",
-          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "El Cuartetazo",
-      "url": "https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "A Pulir la Hebilla",
         "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
-        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
+        "name": "50 A\u00f1os De Fiesta",
+        "url": "https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF"
       },
       "artists": [
         {
-          "name": "Cuarteto Imperial",
-          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+          "name": "Los Wawanco",
+          "url": "https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6"
         }
       ],
-      "duration_ms": 479480,
-      "name": "Mosaico de Merengues - Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamor\u00f3 de Manuel / El P\u00e1jaro Amarillo / El Gavil\u00e1n",
-      "url": "https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP"
+      "duration_ms": 172106,
+      "name": "El Cuartetazo",
+      "url": "https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -643,6 +627,22 @@
       "duration_ms": 245560,
       "name": "Las Dos Camisas",
       "url": "https://open.spotify.com/track/5WBONPqKLcu4Mhd6qNyJ6M"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
+        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+        }
+      ],
+      "duration_ms": 479480,
+      "name": "Mosaico de Merengues - Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamor\u00f3 de Manuel / El P\u00e1jaro Amarillo / El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP"
     },
     {
       "added_at": "2026-10-24 04:59:12",

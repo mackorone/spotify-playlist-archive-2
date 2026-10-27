@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,992 likes - 78 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,862 likes - 78 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [El Olvido](https://open.spotify.com/track/4cWw0TPimL3a3OATw639lg) | [Los Vaguens](https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2) | [El Olvido](https://open.spotify.com/album/08vSgyoH5tOsVHolqqcOmx) | 2:52 |
 | 22 | [Túnel De Escape](https://open.spotify.com/track/5X2QlOtTYp36cA3bM2pNRi) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Túnel De Escape](https://open.spotify.com/album/44mzEwFfio5WKQwbHy5c9F) | 3:15 |
 | 23 | [Mesa Llena](https://open.spotify.com/track/2sH1sAJcZnsP0ckgu0Yeqv) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Mesa Llena](https://open.spotify.com/album/68C0a3uLXHTiCnMjULxlBV) | 2:40 |
-| 24 | [Otra Vez](https://open.spotify.com/track/5FQ4SrsvTToga95IFyZf0q) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [LAYAN](https://open.spotify.com/artist/4LiAzozVB7WdJgquSwEH9a) | [Otra Vez](https://open.spotify.com/album/452e6diVPDNtxXIYpCVeZr) | 4:18 |
+| 24 | [Otra Vez](https://open.spotify.com/track/5FQ4SrsvTToga95IFyZf0q) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [LAYAN](https://open.spotify.com/artist/4LiAzozVB7WdJgquSwEH9a) | [Otra Vez](https://open.spotify.com/album/452e6diVPDNtxXIYpCVeZr) | 4:18 |
 | 25 | [NEFERTITI](https://open.spotify.com/track/5ptX49l42VOsUBWSL0fukT) | [TRUFFY](https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [NEFERTITI](https://open.spotify.com/album/15Rt6BD7p9WOZeCWZunjuT) | 2:15 |
 | 26 | [HIDRATATE](https://open.spotify.com/track/44JhO5NskRvFu0xUKwwXLm) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [HIDRATATE](https://open.spotify.com/album/07YHu0UWSZQeKmsiDg2n4T) | 2:33 |
 | 27 | [Nostalgia .0019 Yo no soy pa ti](https://open.spotify.com/track/18AOhxhGyg7ODQk8iI4Y0b) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [BAENZ](https://open.spotify.com/artist/2R2Ww5uExWF8MNFHKBKzzv) | [Nostalgia .0019 Yo no soy pa ti](https://open.spotify.com/album/0QzY3SYb78ahaNulng11Jj) | 3:12 |

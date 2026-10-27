@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 61136,
+  "num_followers": 61142,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABiB4XZcJAdtKH1KHfo8v6K",
+  "snapshot_id": "at1GgAAAAAAxgXsDRgIPqqe7R4hI1y+1",
   "tracks": [
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Do I Do If You Don't",
-        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 174470,
-      "name": "What Do I Do If You Don't",
-      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
+      "duration_ms": 222847,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
+        "name": "What Do I Do If You Don't",
+        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 222847,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
+      "duration_ms": 174470,
+      "name": "What Do I Do If You Don't",
+      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
     },
     {
       "added_at": null,

@@ -13775,6 +13775,32 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6XKJINnDZA2ML8c0i3w9am"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Majeste Pearson",
+          "url": "https://open.spotify.com/artist/0Eg7BWS7T6LCkJA5pUhmMZ"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337209,
+      "name": "Inheritance",
+      "url": "https://open.spotify.com/track/2m7QZibDGcZFAH1XoRMG4z"
+    },
+    {
+      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
@@ -17438,6 +17464,24 @@
       "duration_ms": 235860,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/1fg8ncMoFqRR7WvZKX3S3G"
+    },
+    {
+      "album": {
+        "name": "made me whole again",
+        "url": "https://open.spotify.com/album/4R1toNTvpeJX7QMz2PQksb"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173064,
+      "name": "made me whole again",
+      "url": "https://open.spotify.com/track/4jyjkuq9td0Gwfmtlbsdco"
     },
     {
       "album": {
@@ -21452,7 +21496,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 246907,
       "name": "Prince Of Peace",
       "url": "https://open.spotify.com/track/5iwndv1mw9yVYCLxxsNKmb"
@@ -21612,7 +21656,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 224000,
       "name": "Psalm 24",
       "url": "https://open.spotify.com/track/0NXoo3i4Xlwi2RgUvcCftN"

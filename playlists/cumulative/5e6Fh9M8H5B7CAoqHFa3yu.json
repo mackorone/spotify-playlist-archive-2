@@ -25587,6 +25587,24 @@
     },
     {
       "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY"
+      },
+      "artists": [
+        {
+          "name": "W. Charles Hall",
+          "url": "https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222171,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/3d6SDGekSWy5FpiQx70d1C"
+    },
+    {
+      "album": {
         "name": "From Genesis To Revelation",
         "url": "https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU"
       },

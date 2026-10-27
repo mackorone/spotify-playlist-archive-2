@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,381 likes - 50 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,384 likes - 50 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [We Serve \- Live](https://open.spotify.com/track/0WrFATBwkzf4rtBbaVz9GR) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Deserve It \(Deluxe / Live\)](https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk) | 7:45 |
 | 50 | [Love Lifted Me](https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 7:40 |
 
-Snapshot ID: `atqjgAAAAACqbOq2EnfUG5x5oG1DF9bY`
+Snapshot ID: `at1GgAAAAAAUpOi4X22FzyOMZCW1DfKv`

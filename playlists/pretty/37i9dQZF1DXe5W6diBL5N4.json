@@ -1,13 +1,161 @@
 {
-  "description": "Enjoy the freshest K-Pop new releases (Cover: ATEEZ) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 363508,
+  "description": "Enjoy the freshest K-Pop new releases (Cover: ILLIT) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 363588,
   "original_name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFoPrCL5u5yB8T715KlCLUQzKIEk",
+  "snapshot_id": "AAAAAGUkfzpG68/DPTGHci4e6JL9U7o1",
   "tracks": [
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/4F8LBvCz9jVbwIpsy2WLos"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2PsBwKbO7xoA02NLT6TtB8"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5jC3lBWBcVdby76sqWwqAE"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "100 Days of Deception, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6INQCsUY6fxNBXIDImnxOk"
+      },
+      "artists": [
+        {
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2yTvnZVpIz5nRO362rROgH"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "Talking Book 2 [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/37CiLFuCmB84JdiDNhnb7R"
+      },
+      "artists": [
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/6TbjlYCbIXoAhkSK8c9JbN"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "voyage",
+        "url": "https://open.spotify.com/album/65JmvOzLatyAwyxYgLZyIM"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "voyage",
+      "url": "https://open.spotify.com/track/7D9OXNHVgWqaOeV7Zv0LBI"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "Rookie Director Kim Yeon-koung (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/44aLQcNALhNmA6sQbxkNR1"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 151263,
+      "name": "FLY HIGH - Instrumental",
+      "url": "https://open.spotify.com/track/6c68vhypCvz6n1YJTk0L6v"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/3Whb6mZYbXLEMjA5NgNK7L"
+      },
+      "artists": [
+        {
+          "name": "Dakshood",
+          "url": "https://open.spotify.com/artist/2jKQ4jDx4IYeDyTHGz1tkk"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        },
+        {
+          "name": "Shyboiitobii",
+          "url": "https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ"
+        },
+        {
+          "name": "BIG 9ULPO",
+          "url": "https://open.spotify.com/artist/35jQ9ZSw7X4yzyB1TFWDlm"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2JilnrJ7iF1Bkf7zzanVtr"
+    },
     {
       "added_at": "2026-10-23 09:00:21",
       "album": {
@@ -1699,498 +1847,6 @@
       "duration_ms": 189000,
       "name": "ICONIC HEART - Korean Version",
       "url": "https://open.spotify.com/track/2BLHTFy1rAtYwmm0uEFAuj"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "MENDING PROCESS",
-        "url": "https://open.spotify.com/album/6l5z7hO6ECjM4kh8rPj70A"
-      },
-      "artists": [
-        {
-          "name": "Cloud koh",
-          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "The Back of the Moon",
-      "url": "https://open.spotify.com/track/5tZer1NZ4NoAdbRPTY9rfV"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "pool vol.9 - Ether Under the Parasol",
-        "url": "https://open.spotify.com/album/48R73r45I4e0OKsxwiUyI1"
-      },
-      "artists": [
-        {
-          "name": "Fromm",
-          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ether Under the Parasol",
-      "url": "https://open.spotify.com/track/0haLXhHU8DMx4mspQBvJC9"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "SINS",
-        "url": "https://open.spotify.com/album/5p63oUGmqaNvltJVhMW87q"
-      },
-      "artists": [
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        },
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "KAiKAiKiKi",
-      "url": "https://open.spotify.com/track/25RwVpvbrqlAmpcD49iiM3"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "ANOTHER",
-        "url": "https://open.spotify.com/album/2K19NlPzi0OzEipKnkYEkB"
-      },
-      "artists": [
-        {
-          "name": "ADYNE",
-          "url": "https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4"
-        }
-      ],
-      "duration_ms": 186154,
-      "name": "\uac00\uc790",
-      "url": "https://open.spotify.com/track/5wH5FqNKHrMBORk68MQhus"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "flower",
-        "url": "https://open.spotify.com/album/4BKH92vZGHJPQwGckqalm9"
-      },
-      "artists": [
-        {
-          "name": "lyli.",
-          "url": "https://open.spotify.com/artist/7dMRaSyxdSPW6nlVHscMGE"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/7qgomJAVW3cWN8f1xFJl5l"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Rhythm Check (Walking together)",
-        "url": "https://open.spotify.com/album/30PWWtppSIC3830ieDiG2h"
-      },
-      "artists": [
-        {
-          "name": "xikers",
-          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
-        }
-      ],
-      "duration_ms": 167894,
-      "name": "Rhythm Check (Walking together)",
-      "url": "https://open.spotify.com/track/5rIHbOZZ5i9cssXAUPlNae"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "EPISODE",
-        "url": "https://open.spotify.com/album/2GS4DpCcyFPbrSdHkaiv24"
-      },
-      "artists": [
-        {
-          "name": "Sejin",
-          "url": "https://open.spotify.com/artist/2DEbYKNlCzT3J5wYEvL1bx"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1mXSL5QCrCbXdG8DrmQmWA"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "YU SEUNG WOO3 part. 1",
-        "url": "https://open.spotify.com/album/3bE0KvUCnsgs35m41cAtDW"
-      },
-      "artists": [
-        {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
-        }
-      ],
-      "duration_ms": 218441,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/5T4fq49tMO2ljioyQYJJFI"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Time To Glo 3",
-        "url": "https://open.spotify.com/album/5z9qOSPPc4JDOpB4D2cV4d"
-      },
-      "artists": [
-        {
-          "name": "northfacegawd",
-          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/5jUDMWpR68CevilmC8Dpec"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Dime Girl (Feat. NOWIMYOUNG)",
-        "url": "https://open.spotify.com/album/0xpzZIaGVh8d2NtXfBrKJH"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Dime Girl (Feat. NOWIMYOUNG)",
-      "url": "https://open.spotify.com/track/71QaFkKKm3tbsWdwwuX9pI"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Bye Bye Inhibitions",
-        "url": "https://open.spotify.com/album/39DwtUa6MsygEQAFlyExSq"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Bye Bye Inhibitions",
-      "url": "https://open.spotify.com/track/0uI8zAUhinOJDIfWYam8lX"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "A4M",
-        "url": "https://open.spotify.com/album/6Nqm1ApCzkTBrCW6Fhm9PU"
-      },
-      "artists": [
-        {
-          "name": "WAYF BOYS",
-          "url": "https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC"
-        }
-      ],
-      "duration_ms": 172930,
-      "name": "A4M",
-      "url": "https://open.spotify.com/track/6XCBgqueCoqQTkK3Za2EWr"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "garden",
-        "url": "https://open.spotify.com/album/6MT4mbUDVoZG0o65HBD2Pb"
-      },
-      "artists": [
-        {
-          "name": "slowly",
-          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
-        }
-      ],
-      "duration_ms": 215791,
-      "name": "garden",
-      "url": "https://open.spotify.com/track/1SZmOG7AmzvsHsfqiGNi0z"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Never Again",
-        "url": "https://open.spotify.com/album/0hu1l36OvIVoGqTVmJDJOr"
-      },
-      "artists": [
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/0KZZD2YdkvaIsGpMEVVKVD"
-        }
-      ],
-      "duration_ms": 193447,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/6ZO4EFPWVMSPpWO0JbW3xB"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "MONOLITH",
-        "url": "https://open.spotify.com/album/3d5fZhrTMffq3V9q8jxw4q"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "UGRS RIGHT HERE!",
-      "url": "https://open.spotify.com/track/6UH7SnRSS8NkopwZiowol5"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "BE MY HUG",
-        "url": "https://open.spotify.com/album/5P7JsSoljPxmtLb9s5Uzvc"
-      },
-      "artists": [
-        {
-          "name": "A I W E O",
-          "url": "https://open.spotify.com/artist/7oEu9OwkDOC9C6nCQN11zK"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "TENDER",
-      "url": "https://open.spotify.com/track/2BSizJDADABJokL7ulegJR"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Time for us",
-        "url": "https://open.spotify.com/album/64r9Tt9jfOanmMgmdenZ3B"
-      },
-      "artists": [
-        {
-          "name": "TIOT",
-          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Five Hours in Pieces",
-      "url": "https://open.spotify.com/track/5qOwRXMNfJmY42pxCJTM7f"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Girl in Seoul",
-        "url": "https://open.spotify.com/album/0iFY6NQSwgJo1fzKVW9Bc9"
-      },
-      "artists": [
-        {
-          "name": "Yumewanaii",
-          "url": "https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "Girl in Seoul",
-      "url": "https://open.spotify.com/track/6XridFAMQbxqPkK3VuZa5O"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "NOW IT'S THE TIME",
-        "url": "https://open.spotify.com/album/3NHK4RwRtkn9xCNihp869i"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "NOW IT'S THE TIME",
-      "url": "https://open.spotify.com/track/1DFOmZ6Tmp2JRVzetliHND"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "ew",
-        "url": "https://open.spotify.com/album/5ICf3hoX6MM6quhgh5lOas"
-      },
-      "artists": [
-        {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "ew",
-      "url": "https://open.spotify.com/track/4Bz9x9jfUk0RwTNwZ6uiGI"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Mixtape : A1 GO",
-        "url": "https://open.spotify.com/album/4AxIouGKYNLcW7L7ADFu9B"
-      },
-      "artists": [
-        {
-          "name": "Keyveatz",
-          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "A1 GO",
-      "url": "https://open.spotify.com/track/3Fxyus5dy1VVF0IRyyKjPF"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "sonorous (Dolby)",
-        "url": "https://open.spotify.com/album/70XoSqID2blup8PfEflzBM"
-      },
-      "artists": [
-        {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/2777a8w5YxdW6Qih94eE3R"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "40th Anniversary Tribute Duet VOICE TO VOICE",
-        "url": "https://open.spotify.com/album/1ZbSqeeZJHDK9ECDBBPZTp"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        },
-        {
-          "name": "Lee Seung Chul",
-          "url": "https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "OUR STORY",
-      "url": "https://open.spotify.com/track/3sJqTm3IBKks1FsnapMQSe"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Records (A-Side)",
-        "url": "https://open.spotify.com/album/2kEI0BBPIBdK2LRjMgEooD"
-      },
-      "artists": [
-        {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/13ymxkRGi7AIydygINpmIK"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "AGAIN and AGAIN (\ubd80\ud65c\ub0a8: \ub354 \ub808\ub4dc OST)",
-        "url": "https://open.spotify.com/album/5XYo4I3Hjvg4PXiLnb6iGh"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        }
-      ],
-      "duration_ms": 191603,
-      "name": "AGAIN and AGAIN",
-      "url": "https://open.spotify.com/track/2ZyBoDVIX3cQpv2iX2jxOd"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "inbetweeners",
-        "url": "https://open.spotify.com/album/3zV03L85sDpwtoe33kRuHW"
-      },
-      "artists": [
-        {
-          "name": "Eddie and the Bricks",
-          "url": "https://open.spotify.com/artist/2FSpLqT9FBl8OX4J3IWTto"
-        }
-      ],
-      "duration_ms": 284538,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/6s3aGES0MlWhPXTa8Faow4"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/2Z7K1N2ECBgeRVbwY9aOfx"
-      },
-      "artists": [
-        {
-          "name": "WOOKI",
-          "url": "https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6d80q3JwT75wA3OIllMtvH"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "Say, Love",
-        "url": "https://open.spotify.com/album/05QNfGsKrTYFXmfg4UrCVC"
-      },
-      "artists": [
-        {
-          "name": "CHOSNG",
-          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
-        }
-      ],
-      "duration_ms": 243797,
-      "name": "How to be Happy",
-      "url": "https://open.spotify.com/track/4EPzFcOtOEWIGNJU4lrSUE"
-    },
-    {
-      "added_at": "2026-10-15 09:00:09",
-      "album": {
-        "name": "SUPERDRY",
-        "url": "https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Luci Gang",
-          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
-        }
-      ],
-      "duration_ms": 148385,
-      "name": "SUPERDRY",
-      "url": "https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM"
     }
   ],
   "unique_name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",

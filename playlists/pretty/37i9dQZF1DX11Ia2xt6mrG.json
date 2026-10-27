@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75079,
+  "num_followers": 75090,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Solo Quiero Tomar",
         "url": "https://open.spotify.com/album/1tFw1Azm3nI4YxjHSOJu3l"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Coqueta",
         "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
       },
@@ -607,46 +607,6 @@
       "duration_ms": 182857,
       "name": "Coqueta",
       "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "Que Calor",
-        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "SE EST\u00c1 HACIENDO TARDE",
-        "url": "https://open.spotify.com/album/4fl15gNIqVJKLGfwbnq0OB"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "\u00c1NGEL CA\u00cdDO",
-      "url": "https://open.spotify.com/track/2wUXndDjnKHph7BowMMf1k"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -675,6 +635,66 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "SE EST\u00c1 HACIENDO TARDE",
+        "url": "https://open.spotify.com/album/4fl15gNIqVJKLGfwbnq0OB"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "\u00c1NGEL CA\u00cdDO",
+      "url": "https://open.spotify.com/track/2wUXndDjnKHph7BowMMf1k"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Que Calor",
+        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -699,22 +719,30 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         },
         {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+      "duration_ms": 169062,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -763,34 +791,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Bien Loco",
-        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 169062,
-      "name": "Bien Loco",
-      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -831,6 +831,30 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "Morena (Remix)",
+        "url": "https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Morena (Remix)",
+      "url": "https://open.spotify.com/track/6q4sbXxKDwNiKCZHoonE99"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 158400,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "Morena (Remix)",
-        "url": "https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Morena (Remix)",
-      "url": "https://open.spotify.com/track/6q4sbXxKDwNiKCZHoonE99"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
-        }
-      ],
-      "duration_ms": 256086,
-      "name": "Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "ZENDAYA",
         "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 183870,
       "name": "ZENDAYA",
       "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "duration_ms": 256086,
+      "name": "Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Corazon de Melon",
         "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
       },
@@ -1539,6 +1539,30 @@
       "duration_ms": 162727,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "ESTAMOS READY",
+        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "ESTAMOS READY",
+      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1603,30 +1627,6 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "ESTAMOS READY",
-        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "ESTAMOS READY",
-      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Midnight Replay",
-        "url": "https://open.spotify.com/album/6rWXLBj7nllYP31NrzZwa7"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 189843,
-      "name": "Midnight Replay",
-      "url": "https://open.spotify.com/track/7rMiNWxXuxUIv93te7Mrnl"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "999 (Goer)",
         "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
       },
@@ -1767,22 +1751,18 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
+        "name": "Midnight Replay",
+        "url": "https://open.spotify.com/album/6rWXLBj7nllYP31NrzZwa7"
       },
       "artists": [
         {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
         }
       ],
-      "duration_ms": 195271,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
+      "duration_ms": 189843,
+      "name": "Midnight Replay",
+      "url": "https://open.spotify.com/track/7rMiNWxXuxUIv93te7Mrnl"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1807,6 +1787,26 @@
       "duration_ms": 142714,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 195271,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
     },
     {
       "added_at": "2026-10-23 06:00:41",

@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 87286,
+  "num_followers": 87361,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAAGkVwHn857/I1WDVqokzPs",
+  "snapshot_id": "at1GgAAAAACsKODmKxOvxbwpJSmk4IAS",
   "tracks": [
     {
       "added_at": null,
@@ -342,15 +342,11 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 225733,
-      "name": "Pave All Them Red Dirt Roads",
-      "url": "https://open.spotify.com/track/3BPNKvuw5OHai2wu2RkHWF"
+      "duration_ms": 219673,
+      "name": "Imagine That",
+      "url": "https://open.spotify.com/track/7hHMy5mq9FwiEl4ka590KW"
     },
     {
       "added_at": null,
@@ -414,11 +410,15 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 219673,
-      "name": "Imagine That",
-      "url": "https://open.spotify.com/track/7hHMy5mq9FwiEl4ka590KW"
+      "duration_ms": 225733,
+      "name": "Pave All Them Red Dirt Roads",
+      "url": "https://open.spotify.com/track/3BPNKvuw5OHai2wu2RkHWF"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Hard To Leave",
+      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Hard To Leave",
-      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alabama Vs. Tennessee",
+        "url": "https://open.spotify.com/album/38tW98gcq2744sq33ksNYN"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Peyton Manning",
+          "url": "https://open.spotify.com/artist/4MMSLWJDd3EAbI2AOdaygo"
+        }
+      ],
+      "duration_ms": 238827,
+      "name": "Alabama Vs. Tennessee",
+      "url": "https://open.spotify.com/track/2MpjZBEnggk1u4vCOG5wJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 202226,
       "name": "Get That Man A Beer",
       "url": "https://open.spotify.com/track/5xYI4ZcyAHq3ruRnFazHnN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabama Vs. Tennessee",
-        "url": "https://open.spotify.com/album/38tW98gcq2744sq33ksNYN"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Peyton Manning",
-          "url": "https://open.spotify.com/artist/4MMSLWJDd3EAbI2AOdaygo"
-        }
-      ],
-      "duration_ms": 238827,
-      "name": "Alabama Vs. Tennessee",
-      "url": "https://open.spotify.com/track/2MpjZBEnggk1u4vCOG5wJ8"
     },
     {
       "added_at": null,

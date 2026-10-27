@@ -1,12 +1,12 @@
 {
   "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: 730 Huncho",
-  "num_followers": 572871,
+  "num_followers": 572868,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALcdU4/Xksz+sbodgzFBkc5sw+Y8",
+  "snapshot_id": "AAAAAJM1Nw6eqhNmKkyp8qnW8SrvhVqa",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:26",
@@ -55,6 +55,26 @@
       "duration_ms": 186000,
       "name": "NIENAWIDZ\u0118 WARSZAWY",
       "url": "https://open.spotify.com/track/0dx4T3AnNFqEw2f64UK60y"
+    },
+    {
+      "added_at": "2026-10-26 23:00:05",
+      "album": {
+        "name": "bravo!",
+        "url": "https://open.spotify.com/album/2oclO86RPTGDx2UpcnKWL6"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+        }
+      ],
+      "duration_ms": 200444,
+      "name": "bravo!",
+      "url": "https://open.spotify.com/track/1bSF7G7pL2fWiwEAckKA1c"
     },
     {
       "added_at": "2026-10-15 22:01:26",
@@ -447,30 +467,6 @@
       "duration_ms": 125538,
       "name": "LEJ MI BBY",
       "url": "https://open.spotify.com/track/0ABCQ80ojrEfE5b8JLKm4j"
-    },
-    {
-      "added_at": "2026-10-15 22:01:26",
-      "album": {
-        "name": "24K",
-        "url": "https://open.spotify.com/album/7rTOaq66Cb81l0FJEMPQ37"
-      },
-      "artists": [
-        {
-          "name": "Louis Villain",
-          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
-        },
-        {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        },
-        {
-          "name": "JNKSH",
-          "url": "https://open.spotify.com/artist/0QwZRtchj6deJgyAKW12IM"
-        }
-      ],
-      "duration_ms": 152538,
-      "name": "Kolega, o kt\u00f3rego...",
-      "url": "https://open.spotify.com/track/1JKadsp1VxKNFvo6LKqkIU"
     },
     {
       "added_at": "2026-10-15 22:01:26",

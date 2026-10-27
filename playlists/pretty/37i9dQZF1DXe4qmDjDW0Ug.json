@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 18722,
+  "num_followers": 18724,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 210258,
-      "name": "IF I WERE YOU",
-      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "t 3 YOONMIRAE",
         "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 278778,
       "name": "Good Bye Sadness, Hello Happiness",
       "url": "https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 210258,
+      "name": "IF I WERE YOU",
+      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Gift",
-        "url": "https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 297036,
-      "name": "I hope It would be that way now",
-      "url": "https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "YG 10th Anniversary",
         "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 211293,
       "name": "With Me",
       "url": "https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "duration_ms": 297036,
+      "name": "I hope It would be that way now",
+      "url": "https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr"
     },
     {
       "added_at": "2024-04-04 20:09:20",

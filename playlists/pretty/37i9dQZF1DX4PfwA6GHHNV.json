@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23547,
+  "num_followers": 23548,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "duration_ms": 169249,
+      "name": "Meu Jeito De Amar",
+      "url": "https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Teimosia",
         "url": "https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 166863,
       "name": "S\u00f3",
       "url": "https://open.spotify.com/track/46czY9226dZK0vH56kvJN3"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
-      },
-      "artists": [
-        {
-          "name": "Trivia",
-          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
-        }
-      ],
-      "duration_ms": 169249,
-      "name": "Meu Jeito De Amar",
-      "url": "https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1"
     },
     {
       "added_at": "2026-10-19 15:51:33",

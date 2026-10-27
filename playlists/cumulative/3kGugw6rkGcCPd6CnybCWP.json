@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Ghost Hound",
+        "url": "https://open.spotify.com/album/5lOcrHGSBKWs2zrlk5gyXT"
+      },
+      "artists": [
+        {
+          "name": "Ajla",
+          "url": "https://open.spotify.com/artist/444HERfjhWqQi0ebUM4cs7"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "Ghost Hound",
+      "url": "https://open.spotify.com/track/2EkcswWiL2GPEM7RlF3Lpw"
+    },
+    {
+      "album": {
         "name": "11 Miles from Everywhere",
         "url": "https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We"
       },
@@ -6576,6 +6594,24 @@
       "duration_ms": 266341,
       "name": "pleistras",
       "url": "https://open.spotify.com/track/1Mf23beWU7eorvugsrUrlX"
+    },
+    {
+      "album": {
+        "name": "Sincerely, Sonder",
+        "url": "https://open.spotify.com/album/5OCtmv3vbyJMER7fRt6WoZ"
+      },
+      "artists": [
+        {
+          "name": "SonderJewlz",
+          "url": "https://open.spotify.com/artist/1MvoCEOVnydwYl2W7mbvCb"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/7GnGgSnrc2ViUKH4bv80P7"
     },
     {
       "album": {

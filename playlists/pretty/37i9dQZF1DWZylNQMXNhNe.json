@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247537,
+  "num_followers": 247535,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "PORNOGRAFIA AUDITIVA",
-        "url": "https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q"
-      },
-      "artists": [
-        {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "d.silvestre",
-          "url": "https://open.spotify.com/artist/1Ry5NkSxX1Ye7kTfUuLL2c"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Mela\u00e7o",
-      "url": "https://open.spotify.com/track/1KShJq7cBzLWgeILY3P5nD"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "MARIA BOA",
         "url": "https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 218035,
       "name": "Acaso",
       "url": "https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "PORNOGRAFIA AUDITIVA",
+        "url": "https://open.spotify.com/album/0nRwEFPONzItt3VjqLzq2Q"
+      },
+      "artists": [
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "d.silvestre",
+          "url": "https://open.spotify.com/artist/1Ry5NkSxX1Ye7kTfUuLL2c"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Mela\u00e7o",
+      "url": "https://open.spotify.com/track/1KShJq7cBzLWgeILY3P5nD"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -671,8 +671,8 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Tamborim",
-        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
+        "name": "Calor Nacional",
+        "url": "https://open.spotify.com/album/2Uz4LigDz88y7lAt3p6m8X"
       },
       "artists": [
         {
@@ -680,13 +680,21 @@
           "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
         },
         {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
         }
       ],
-      "duration_ms": 165568,
-      "name": "Tamborim",
-      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
+      "duration_ms": 189473,
+      "name": "Dan\u00e7ar Pelada",
+      "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -775,8 +783,8 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Calor Nacional",
-        "url": "https://open.spotify.com/album/2Uz4LigDz88y7lAt3p6m8X"
+        "name": "Tamborim",
+        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
       },
       "artists": [
         {
@@ -784,21 +792,13 @@
           "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
         },
         {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        },
-        {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Dan\u00e7ar Pelada",
-      "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
+      "duration_ms": 165568,
+      "name": "Tamborim",
+      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
     },
     {
       "added_at": "2026-10-16 14:04:25",

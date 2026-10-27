@@ -4,7 +4,7 @@
 
 > musica per un autunno non proprio felice \(blanco in cover\)
 
-1,795 songs - 3 day 10 hr 31 min
+1,796 songs - 3 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1036,6 +1036,7 @@
 | [N.D.X.S.](https://open.spotify.com/track/7i4AeLPeTTP6GxgVmwV5XL) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [N.D.X.S.](https://open.spotify.com/album/19W9Uy9g4Tt1IVYehMjBkF) | 2:43 | 2023-04-13 | 2023-06-09 |
 | [NADARIA](https://open.spotify.com/track/07Am74diYNk2vEVzK9AbIR) | [DREA](https://open.spotify.com/artist/4JYfLL8uIF7sHAaFb8b4kI) | [NADARIA](https://open.spotify.com/album/7IoGhkDMe4obyBVzZCPhf6) | 2:30 | 2025-07-24 | 2025-08-22 |
 | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/track/2MYVS1724Vd9x3JISFCUeC) | [Zame](https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb), [Mr\. Ugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/album/3kmnImSBKrya26vvpXolO0) | 2:05 | 2023-11-16 | 2024-03-22 |
+| [Nascondino](https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Nascondino](https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy) | 3:01 | 2026-10-26 |  |
 | [Nato Nel Posto Sbagliato \- dal film "Tutta colpa del rock"](https://open.spotify.com/track/7C0Fto60xwpRwJq2ow9YNI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Nato Nel Posto Sbagliato \(dal film "Tutta colpa del rock"\)](https://open.spotify.com/album/5g3yxYSHbeI2VeFKYdM7WJ) | 2:19 | 2025-07-17 |  |
 | [nebbia](https://open.spotify.com/track/4BF8jS6NcLGHSMVxkCF5wS) | [tommi](https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd), [moth.](https://open.spotify.com/artist/7IVTJLKDkABhe1gNoqgSEr) | [dalle costole](https://open.spotify.com/album/6OZiRp1faxls8F1aygNJ0z) | 3:28 | 2025-10-30 | 2025-12-12 |
 | [NEI MIEI BAGGY](https://open.spotify.com/track/0Z05qanrc8NlgmdSz3m6yY) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [NEI MIEI BAGGY](https://open.spotify.com/album/3N76zBP7HY3REllWU1dgKB) | 2:19 | 2025-10-02 | 2025-10-31 |

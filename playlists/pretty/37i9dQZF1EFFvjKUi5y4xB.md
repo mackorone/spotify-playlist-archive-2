@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 119 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 119 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 96 | [Float](https://open.spotify.com/track/08X9HjCRhcX6in0wiNXIsF) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 3:20 |
 | 97 | [Call My Name](https://open.spotify.com/track/4m4wyXlAU06JmgzJMxvOiz) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 4:13 |
 | 98 | [Code Red \(feat\. Missy Elliott & Laiyah\)](https://open.spotify.com/track/2xMmmIOl2nUNZ2Dh7MS8rK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Laiyah](https://open.spotify.com/artist/793DeApRlFsQlb9OX2NJoH) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 4:24 |
-| 99 | [Favorite Shirt](https://open.spotify.com/track/2YIk0lw0WSdsDwWsHKLUtx) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:21 |
-| 100 | [Horoscope](https://open.spotify.com/track/2fpsRkgqV1Kpaj17M6C5Yu) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 4:27 |
+| 99 | [Horoscope](https://open.spotify.com/track/2fpsRkgqV1Kpaj17M6C5Yu) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 4:27 |
+| 100 | [Favorite Shirt](https://open.spotify.com/track/2YIk0lw0WSdsDwWsHKLUtx) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:21 |
 | 101 | [Gotta Be You](https://open.spotify.com/track/7fcNlsNAmRUPP1pXaexQ9F) | [Christian Lalama](https://open.spotify.com/artist/5Za0xh2u1ahAoSb1NWa2wm) | [Gotta Be You](https://open.spotify.com/album/4fWpeImvRqRnV6ShryUs0M) | 2:16 |
 | 102 | [Never Lonely \(feat\. Jozzy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/2DKngADmYRacJPTxEgysqR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Never Lonely \(feat\. Jozzy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/1qL3Oe50xzWCWvBAjxibZu) | 2:13 |
 | 103 | [Don't Wanna Pretend](https://open.spotify.com/track/2tOJHzOuaf6e7kJaXItGn7) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 3:45 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 118 | [Down In Your Ways](https://open.spotify.com/track/2IO0JLR0qtl5q5E95i2dms) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
 | 119 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `Acf65gAAAAD50zcNqhUtztZBqQGg6I8/`
+Snapshot ID: `AcgAwgAAAACB+9G5r6nFRLiLshEl61PJ`

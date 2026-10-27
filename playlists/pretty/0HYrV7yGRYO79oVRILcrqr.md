@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,922 likes - 178 songs - 11 hr 18 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,929 likes - 179 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,5 +186,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 176 | [Restless Alibi](https://open.spotify.com/track/5SGbLM7YQ1GdXJ2B3K4FVG) | [Echoviolet](https://open.spotify.com/artist/5Jrx7jtjiSPI8FAsjfqy3l) | [Restless Alibi](https://open.spotify.com/album/4yesKLWzqTfQ2yFPQOm1WA) | 3:20 |
 | 177 | [Miedo](https://open.spotify.com/track/4yzqWVHQIiwdHruw2ZCZm7) | [Alejandro Palma](https://open.spotify.com/artist/3tcRwr3qKkvcHambpIo4rU) | [Miedo](https://open.spotify.com/album/4Yn6Yko2J8v9JlVOWoEX7E) | 4:31 |
 | 178 | [Troubled Lovers](https://open.spotify.com/track/0HjRA1qtAxd2TBbSY5gSFa) | [LilYūgen](https://open.spotify.com/artist/0rIFFUGNSGAfQulpcZ97Zv) | [Troubled Lovers](https://open.spotify.com/album/7gbZbtBtccoguWh8CVE7sL) | 2:19 |
+| 179 | [Hold Me Close](https://open.spotify.com/track/2C9APnMqeVPtMAzugwg54h) | [Mitchell Young](https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM) | [Hold Me Close](https://open.spotify.com/album/25OFRtP1Pg8rB1UsStSnb1) | 2:38 |
 
-Snapshot ID: `AAAM352kZH8Uy9I/o42XUodpIBrmBOPQ`
+Snapshot ID: `AAAM4Mb47Tp9fQ+dQTITUG+0WXyYZVaN`

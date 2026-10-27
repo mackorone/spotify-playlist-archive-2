@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,224 songs - 2 day 14 hr 59 min
+1,226 songs - 2 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -963,6 +963,7 @@
 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 | 2023-12-01 | 2024-09-26 |
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-24 | 2023-12-14 |
 | [Spanish Vibe \(feat\. Erez Netz\)](https://open.spotify.com/track/7o1hVcPJT3V3mWaq4rnLHr) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [VINO](https://open.spotify.com/artist/6bTyu2orY0Gs9dvEcTqmxZ), [Erez Netz](https://open.spotify.com/artist/5hYWiQQPRuTktbEfEMxpLi) | [Spanish Vibe \(feat\. Erez Netz\)](https://open.spotify.com/album/4TSTYgmnQlXmBgUmILRzVq) | 4:09 | 2024-12-05 | 2025-03-14 |
+| [Spells & Potions](https://open.spotify.com/track/01UJOApgD6JZwkl01zkUjm) | [Christian Corsi](https://open.spotify.com/artist/3JlSc5y4TTi8H0mszwjKPk), [Moriah Rose](https://open.spotify.com/artist/1MixIGO04sFwp3nGGJMNUE) | [Spells & Potions](https://open.spotify.com/album/3MD7RclqscYVzN0HEJL2gx) | 3:33 | 2026-10-26 |  |
 | [Spicy](https://open.spotify.com/track/1FZI8uTVMRsSBvhLZ3N00W) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Spicy](https://open.spotify.com/album/2EUzRrwkRBJB58VLXzQjDe) | 2:45 | 2024-05-13 | 2025-01-09 |
 | [Spread Love](https://open.spotify.com/track/1YIBi9P4tIMLqM2ZvjK7Hr) | [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V), [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG) | [Spread Love](https://open.spotify.com/album/72XN9SE1xgZZtSaY5Mg7sd) | 2:55 | 2026-01-06 |  |
 | [Stand In Line](https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Stand In Line](https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13) | 3:05 | 2023-09-22 | 2023-12-23 |
@@ -1081,6 +1082,7 @@
 | [This Trip](https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [This Trip](https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9) | 2:58 | 2024-10-11 | 2024-10-25 |
 | [Thrift Shop](https://open.spotify.com/track/5BGZUi1XcpPAqAl7YiOcSi) | [Bomber](https://open.spotify.com/artist/3PbIzHuNB1r5G01ZRPvfVa), [No Pleasure](https://open.spotify.com/artist/615b6isStrn5YQ4q0aEDak) | [Thrift Shop](https://open.spotify.com/album/6ruXqYhcpPhe7pS1gOVOwx) | 2:03 | 2026-10-02 |  |
 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 | 2023-09-25 | 2023-12-14 |
+| [Tipsy](https://open.spotify.com/track/6eI5irRMoIm20GhTJykiWd) | [Jodie Weston](https://open.spotify.com/artist/4ZqwNYFb5aIfqvSFWmgFck), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Tipsy](https://open.spotify.com/album/0qQgRE28NxBQT9CWpccopy) | 2:49 | 2026-10-26 |  |
 | [Tipsy](https://open.spotify.com/track/2DL7ZgUyi1F9rQqOPV8HQO) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Tipsy](https://open.spotify.com/album/3IyGkzK36EXUIivyJ8dzeN) | 2:47 | 2025-07-31 |  |
 | [To The Night \- Radio Edit](https://open.spotify.com/track/3rgcuqW66rKotXsCfrwkQJ) | [Seb Todd](https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv), [MVNGO](https://open.spotify.com/artist/3zeNUoJwbse1JSnImySe1U) | [To The Night \(Radio Edit\)](https://open.spotify.com/album/1b4ohggKMxKLBlfmU31h1y) | 4:05 | 2023-04-14 | 2023-04-28 |
 | [Toca](https://open.spotify.com/track/1g40bI57FQ8RCPdouvNabI) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Toca](https://open.spotify.com/album/4JsT3W6bSQfI2yRRDCtyai) | 3:09 | 2024-12-20 |  |

@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Emotional Junglist",
+        "url": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207163,
+      "name": "Dance With Me 2nite",
+      "url": "https://open.spotify.com/track/1KFA6N3qVExAhxpjT7AiSA"
+    },
+    {
+      "album": {
         "name": "DARKNESS AND LIGHT",
         "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
       },
@@ -3114,6 +3132,24 @@
       "duration_ms": 185946,
       "name": "Hopes Up",
       "url": "https://open.spotify.com/track/1VnEQ3LdQlARfow87U9BLn"
+    },
+    {
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
       "album": {

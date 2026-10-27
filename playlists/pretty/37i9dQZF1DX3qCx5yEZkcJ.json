@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1462532,
+  "num_followers": 1462450,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,34 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Flute Echoes",
+        "url": "https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT"
+      },
+      "artists": [
+        {
+          "name": "Shin Ichikawa",
+          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        }
+      ],
+      "duration_ms": 147747,
+      "name": "Flute Echoes",
+      "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Zoning Out Vol. 2",
         "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
       },
@@ -319,34 +347,6 @@
       "duration_ms": 103255,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Flute Echoes",
-        "url": "https://open.spotify.com/album/0sezejL2ppJzLVqlAiS2aT"
-      },
-      "artists": [
-        {
-          "name": "Shin Ichikawa",
-          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        }
-      ],
-      "duration_ms": 147747,
-      "name": "Flute Echoes",
-      "url": "https://open.spotify.com/track/5IFspOkiTciPJ7QHhYUFQm"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Smrti",
+        "url": "https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 200109,
+      "name": "Smrti",
+      "url": "https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -635,22 +655,26 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Smrti",
-        "url": "https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ"
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
       "artists": [
         {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
         },
         {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
         }
       ],
-      "duration_ms": 200109,
-      "name": "Smrti",
-      "url": "https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd"
+      "duration_ms": 139508,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -691,50 +715,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Raincoat (Paul Grant Remix)",
-        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Raincoat (Paul Grant Remix)",
-      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
-        }
-      ],
-      "duration_ms": 139508,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "\u6ce2\u7d0b",
         "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 189878,
       "name": "\u6ce2\u7d0b",
       "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Raincoat (Paul Grant Remix)",
+        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Raincoat (Paul Grant Remix)",
+      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Sasanqua",
-        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
-      },
-      "artists": [
-        {
-          "name": "physis",
-          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
-        },
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 134959,
-      "name": "Sasanqua",
-      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Syn Fonia I",
         "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 228750,
       "name": "Space Orgazm",
       "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Sasanqua",
+        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
+      },
+      "artists": [
+        {
+          "name": "physis",
+          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
+        },
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 134959,
+      "name": "Sasanqua",
+      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Aioi",
         "url": "https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 156800,
       "name": "Aioi",
       "url": "https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -967,6 +967,30 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Flow Motion",
+        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 132152,
+      "name": "Flow Motion",
+      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
@@ -979,6 +1003,26 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
+        "url": "https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 207882,
+      "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
+      "url": "https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1015,46 +1059,18 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
-        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
       },
       "artists": [
         {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 181931,
-      "name": "Yosei",
-      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Flow Motion",
-        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        }
-      ],
-      "duration_ms": 132152,
-      "name": "Flow Motion",
-      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -1107,6 +1107,26 @@
       "duration_ms": 173296,
       "name": "Recuring Dream",
       "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+      },
+      "artists": [
+        {
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Light Breeze EP",
-        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
-      },
-      "artists": [
-        {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Yugure",
         "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Hagaki",
-        "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ma \u9593",
-      "url": "https://open.spotify.com/track/28DvrpcX2EBfFpSwufPdNi"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Hot Water",
         "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 142417,
       "name": "Carpet",
       "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Hagaki",
+        "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ma \u9593",
+      "url": "https://open.spotify.com/track/28DvrpcX2EBfFpSwufPdNi"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/2Egb08QJgAFtk3SwQvrPeI"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 165189,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0fxgkethwdMKcH3AAeOBIZ"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
-      },
-      "artists": [
-        {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
         "name": "A Journey Beyond Time",
         "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 135000,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
     },
     {
       "added_at": "2026-10-20 15:32:21",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-10-20 15:32:21",
       "album": {
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+    },
+    {
+      "added_at": "2026-10-20 15:32:21",
+      "album": {
         "name": "reminisce",
         "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 169074,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
-    },
-    {
-      "added_at": "2026-10-20 15:32:21",
-      "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2026-10-20 15:32:21",

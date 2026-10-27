@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-160 songs - 6 hr 40 min
+161 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hoch](https://open.spotify.com/track/46J1w8OPUxruyaNPGNvt81) | [Gianni Suave](https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb), [Ramzey](https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [Ich falle in Frieden \(Deluxe\)](https://open.spotify.com/album/4FqZDl238SgxOnB2JD30RI) | 2:46 | 2026-10-03 |  |
 | [HOLY](https://open.spotify.com/track/75jIs0vO8I6O77joRVg86N) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 3:53 | 2026-06-09 |  |
 | [HOMERUN](https://open.spotify.com/track/1EuMOnjaKu5mK9sGmTuMIV) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:46 | 2026-06-09 |  |
+| [Hängda](https://open.spotify.com/track/4AQtHG968a7SIrTFv9sKog) | [Bambita](https://open.spotify.com/artist/5VRTu30WwBk1CacbGruYWT) | [Hängda](https://open.spotify.com/album/1uLpn6naSSpMoVRGWAfmgZ) | 1:53 | 2026-10-26 |  |
 | [Igotthisfeeling](https://open.spotify.com/track/4WQpuOW1vyL1nfqZAUud74) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:35 | 2026-10-03 |  |
 | [INTERLUDE](https://open.spotify.com/track/0b5pVfha6s9naqBeZUJnjB) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:25 | 2026-10-03 |  |
 | [Intro](https://open.spotify.com/track/0gssRfxoOFfBeOIdclrTjF) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [High & Hungrig 2](https://open.spotify.com/album/67p5Ktm0ramlZ87r39fxNg) | 2:54 | 2026-06-09 |  |

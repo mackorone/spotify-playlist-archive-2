@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Eypio
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Mabel Matiz
 
 381 songs - 18 hr 43 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4015732,
+  "num_followers": 4015541,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 215062,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "WIDE AWAKE",
         "url": "https://open.spotify.com/album/1cuYuhlcRa6TomHkICwTL6"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 186666,
       "name": "WIDE AWAKE",
       "url": "https://open.spotify.com/track/4YX65szuyA3cu2EGMdIrRo"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 215062,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Staring at the Sun",
         "url": "https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 212707,
       "name": "Staring at the Sun",
       "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "We Are Always Under The Same Sky",
-        "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        },
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 249479,
-      "name": "Wayside",
-      "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "We Are Always Under The Same Sky",
+        "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 249479,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "I Cared For You",
         "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
-      },
-      "artists": [
-        {
-          "name": "Nathan C",
-          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 258517,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Electric Soul (YOTTO Remix)",
-        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 226300,
-      "name": "Electric Soul - YOTTO Remix",
-      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -1407,18 +1387,22 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+        "name": "Electric Soul (YOTTO Remix)",
+        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+      "duration_ms": 226300,
+      "name": "Electric Soul - YOTTO Remix",
+      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1435,6 +1419,22 @@
       "duration_ms": 217487,
       "name": "One Love (Nobody Else)",
       "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "How Will I Know?",
+        "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "How Will I Know?",
+      "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "Return to Ojai",
         "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 243925,
       "name": "Fading Out",
       "url": "https://open.spotify.com/track/0na4GriccSSdSu8QquLDYd"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "How Will I Know?",
-        "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "How Will I Know?",
-      "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 249846,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1699,26 +1699,6 @@
       "duration_ms": 222148,
       "name": "Fire To The Water",
       "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1759,6 +1739,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "To Love Again",
-        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "To Love Again",
-      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Just Noise Pt. II",
         "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 266189,
       "name": "Pangea",
       "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "To Love Again",
+        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "To Love Again",
+      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Love Pains",
         "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 265161,
       "name": "Love Pains",
       "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-10-16 04:00:50",

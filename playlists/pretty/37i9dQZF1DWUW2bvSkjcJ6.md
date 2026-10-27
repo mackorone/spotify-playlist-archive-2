@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Summer Cem, Lune, girl in red, Berq, Jazeek, BUNT\. & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,094 likes - 77 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,996 likes - 77 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

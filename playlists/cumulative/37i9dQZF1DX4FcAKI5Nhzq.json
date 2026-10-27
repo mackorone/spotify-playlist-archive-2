@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: A2O MAY)",
+  "description": "Future K-Pop hits! (Cover:BABYMONSTER)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -8350,7 +8350,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 161000,
       "name": "DOWN WITH IT",
       "url": "https://open.spotify.com/track/52VfQZtkilOzX9khwY5aHM"
@@ -15246,6 +15246,24 @@
       "duration_ms": 197306,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2PsBwKbO7xoA02NLT6TtB8"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5jC3lBWBcVdby76sqWwqAE"
     },
     {
       "album": {

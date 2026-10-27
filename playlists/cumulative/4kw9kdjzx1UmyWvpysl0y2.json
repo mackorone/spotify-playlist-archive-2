@@ -25959,6 +25959,24 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/62IwQOm8y6LXHWBZgqyJP4"
+      },
+      "artists": [
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193796,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/4WjLdHr2VSqlM1TqMvLxbG"
+    },
+    {
+      "album": {
         "name": "Waiting For Love",
         "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
       },

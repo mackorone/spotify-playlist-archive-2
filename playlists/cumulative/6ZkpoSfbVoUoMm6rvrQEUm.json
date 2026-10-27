@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 183281,
       "name": "Afloja",
       "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 181875,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
@@ -2319,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "hold tight",
+        "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "hold tight",
+      "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
+    },
+    {
+      "album": {
         "name": "House All The Time",
         "url": "https://open.spotify.com/album/5qtlIlnuhHC3puaGDNYjVc"
       },
@@ -2348,7 +2370,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 170625,
       "name": "How I Work",
       "url": "https://open.spotify.com/track/1lK4rAfLaY9wyKm6KzUBvP"
@@ -2552,7 +2574,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 181846,
       "name": "In The Music",
       "url": "https://open.spotify.com/track/5Q9vMzyoWKvFPy7jFxasH0"
@@ -3117,6 +3139,28 @@
     },
     {
       "album": {
+        "name": "Losing Focus",
+        "url": "https://open.spotify.com/album/2nY6D6swatHEH8YAykKC0Q"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174390,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/6UAjvGSZ7CPwea733IRJQQ"
+    },
+    {
+      "album": {
         "name": "LOVE + HAPPINESS",
         "url": "https://open.spotify.com/album/1IPBVnnDHBrZCl5paVEOEh"
       },
@@ -3494,7 +3538,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 165000,
       "name": "Move With Me",
       "url": "https://open.spotify.com/track/63eRXDiU4N4RsJ9vN2vgIx"
@@ -3589,6 +3633,28 @@
     },
     {
       "album": {
+        "name": "My Favorite",
+        "url": "https://open.spotify.com/album/1dKnuGFvlbYkOmlOXuLD5W"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Ana Isnt",
+          "url": "https://open.spotify.com/artist/5rPnJWpjVzktXU8nEAVJzb"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "My Favorite",
+      "url": "https://open.spotify.com/track/7BrcADoAistPJ2I0VRlrgJ"
+    },
+    {
+      "album": {
         "name": "ENERGY (Deluxe)",
         "url": "https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf"
       },
@@ -3622,7 +3688,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
@@ -3806,7 +3872,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 257419,
       "name": "No Reason - Chris Lake Remix",
       "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
@@ -3893,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Open Late",
+        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180010,
+      "name": "Ode to Todd",
+      "url": "https://open.spotify.com/track/2KwZSOpyDWCyw0CRDKVUBC"
+    },
+    {
+      "album": {
         "name": "On Again",
         "url": "https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86"
       },
@@ -3904,7 +3988,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 228000,
       "name": "On Again",
       "url": "https://open.spotify.com/track/5vASuVQkngtFoCOczem52V"
@@ -4086,6 +4170,28 @@
       "duration_ms": 204094,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1"
+    },
+    {
+      "album": {
+        "name": "Percolate",
+        "url": "https://open.spotify.com/album/0AvMPWqojhPSyjbd9bAnrI"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Percolate",
+      "url": "https://open.spotify.com/track/1gWJZZoUzScXlKgXEKuxFr"
     },
     {
       "album": {
@@ -4395,6 +4501,32 @@
     },
     {
       "album": {
+        "name": "Riot",
+        "url": "https://open.spotify.com/album/1q6JMtYg7eyy9l7aKUQNcn"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        },
+        {
+          "name": "S. Product",
+          "url": "https://open.spotify.com/artist/1rD8uOtEX2qbcPxIN4YaQ7"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/4aqCaVwq00t4mYqlQ19ulM"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4xCGPuXMj0TARAJCUToBGP"
       },
@@ -4442,7 +4574,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 224761,
       "name": "Romantica - 2021 Rework",
       "url": "https://open.spotify.com/track/393lWVNuSBexMPYffIzJxw"
@@ -4850,7 +4982,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 180952,
       "name": "Snare Thing",
       "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
@@ -4920,6 +5052,28 @@
       "duration_ms": 222720,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi"
+    },
+    {
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jevin Julian",
+          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226406,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL"
     },
     {
       "album": {
@@ -5018,6 +5172,32 @@
       "duration_ms": 260511,
       "name": "Stereotypes",
       "url": "https://open.spotify.com/track/4ifpL4JeazlBGjvyzWgVzo"
+    },
+    {
+      "album": {
+        "name": "Stop Time",
+        "url": "https://open.spotify.com/album/3ejNuusTm2wtZhAJ8HvaWi"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193075,
+      "name": "Stop Time",
+      "url": "https://open.spotify.com/track/1P35HdLwinCX8xMVzXuRkH"
     },
     {
       "album": {
@@ -5574,7 +5754,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
@@ -5592,7 +5772,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 197648,
       "name": "This Is Test",
       "url": "https://open.spotify.com/track/66JPCXqRUYNtanxZwujO8Z"
@@ -5680,7 +5860,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 236987,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
@@ -5724,7 +5904,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 260194,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
@@ -5986,7 +6166,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 181935,
       "name": "We Groovin (with Jazzy)",
       "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"
@@ -6282,7 +6462,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 246562,
       "name": "You Make Me",
       "url": "https://open.spotify.com/track/5VmYFi3GhfCbNY2kfR9VPL"
@@ -6304,7 +6484,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 155625,
       "name": "Your Love - Diplo Remix",
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"

@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123594,
+  "num_followers": 123596,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 251028,
       "name": "Late Night Feelings (feat. Lykke Li)",
       "url": "https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "Couleurs Primaires",
+        "url": "https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9"
+      },
+      "artists": [
+        {
+          "name": "Paradis",
+          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+        }
+      ],
+      "duration_ms": 314635,
+      "name": "Sur Une Chanson En Fran\u00e7ais",
+      "url": "https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
-        "name": "Couleurs Primaires",
-        "url": "https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9"
-      },
-      "artists": [
-        {
-          "name": "Paradis",
-          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
-        }
-      ],
-      "duration_ms": 314635,
-      "name": "Sur Une Chanson En Fran\u00e7ais",
-      "url": "https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G"
     },
     {
       "added_at": "2026-10-19 16:00:13",

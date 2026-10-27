@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,129 likes - 93 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,122 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 88 | [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 |
 | 89 | [Liar Liar](https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:45 |
 | 90 | [F.O.R.E.V.E.R](https://open.spotify.com/track/0UaPOdi1O83vr1oTXaGqgx) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [F.O.R.E.V.E.R](https://open.spotify.com/album/4EnNdz3IxAaJHSwCD2CqEX) | 4:10 |
-| 91 | [The Kardashians](https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Songs From The Wedding Cake](https://open.spotify.com/album/50t0TEz7Owjimd7bakSpkg) | 4:05 |
-| 92 | [Siri, What Ruined the West?](https://open.spotify.com/track/3XY1xxFHeGHDDt33V6GoE2) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Siri, What Ruined the West?](https://open.spotify.com/album/71XuViK3lGnRNbR36OyAKy) | 4:34 |
-| 93 | [Salbei](https://open.spotify.com/track/1KTt6NGF0ZvnBtNBWTEBiU) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Salbei](https://open.spotify.com/album/3dFDHetwmwJWtaBNH57Ny4) | 4:28 |
 
-Snapshot ID: `AAAAAPNRwpXIrCD3XzGhPQ3AX5JMCYnp`
+Snapshot ID: `AAAAALaoKdWxhT44AiFmG7EnHs0Xm0RR`

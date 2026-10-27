@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549633,
+  "num_followers": 549630,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
-        }
-      ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "To the Center",
         "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 391160,
       "name": "To the Center",
       "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 301493,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Damned by Fate",
         "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 312746,
       "name": "Lust Queen",
       "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx"
       },
       "artists": [
         {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
         }
       ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+      "duration_ms": 196866,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 508306,
       "name": "Big Sky Theory",
       "url": "https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx"
-      },
-      "artists": [
-        {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4"
     },
     {
       "added_at": "2026-03-13 04:00:13",

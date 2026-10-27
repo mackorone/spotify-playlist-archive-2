@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 275819,
+  "num_followers": 275874,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-09-30 22:25:27",
       "album": {
-        "name": "Drums And Wires",
-        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Making Plans For Nigel",
-      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
-    },
-    {
-      "added_at": "2026-09-30 22:25:27",
-      "album": {
         "name": "I'm Your Man",
         "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 336489,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
+    },
+    {
+      "added_at": "2026-09-30 22:25:27",
+      "album": {
+        "name": "Drums And Wires",
+        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Making Plans For Nigel",
+      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
     },
     {
       "added_at": "2026-09-30 22:25:27",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-09-30 22:25:27",
       "album": {
-        "name": "London Town 1983-1993",
-        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
-    },
-    {
-      "added_at": "2026-09-30 22:25:27",
-      "album": {
         "name": "Floodland",
         "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 570694,
       "name": "This Corrosion",
       "url": "https://open.spotify.com/track/2ZiAhZOpTjNgh3JpTGYAyh"
+    },
+    {
+      "added_at": "2026-09-30 22:25:27",
+      "album": {
+        "name": "London Town 1983-1993",
+        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
     },
     {
       "added_at": "2026-09-30 22:25:27",

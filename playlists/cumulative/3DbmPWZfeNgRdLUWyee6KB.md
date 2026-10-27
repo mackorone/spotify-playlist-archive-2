@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,633 songs - 3 day 23 hr 17 min
+1,634 songs - 3 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1195,6 +1195,7 @@
 | [Sen Bana Hep Yazsın](https://open.spotify.com/track/4raQYXieEX8ueVDYOOswGM) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Sen Bana Hep Yazsın](https://open.spotify.com/album/6fjHwVuhiFjDoQMZM1GFVi) | 2:45 | 2025-12-22 | 2026-01-24 |
 | [Senescence](https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Breakestine](https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX) | [Senescence](https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q) | 2:13 | 2026-08-04 | 2026-08-30 |
 | [September](https://open.spotify.com/track/2SN3hprK2oa9y7akcRRNFH) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06), [Megan Spencer](https://open.spotify.com/artist/0EZBR3iku1cNJJvBs5tmB5) | [September](https://open.spotify.com/album/5zTi8VzRc7rwRnRPw924wT) | 2:03 | 2026-05-12 | 2026-07-03 |
+| [Será El Futuro](https://open.spotify.com/track/6PUj3A7seDMYewKxmwIUMW) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Será El Futuro](https://open.spotify.com/album/6oKluKihoosfoRV7et1q3S) | 3:26 | 2026-10-26 |  |
 | [SET APART](https://open.spotify.com/track/1iFBIwAwVhLlNyWy9wAcrv) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [SET APART](https://open.spotify.com/album/00n26sNAHM2F0KMenRBrEz) | 2:17 | 2026-03-27 | 2026-05-03 |
 | [Set Me Free](https://open.spotify.com/track/1vMqPyUqPNh3OLIfVncwbq) | [Ann\-Cathrin](https://open.spotify.com/artist/09jiC9LTOdLtVGfEcjMO5t) | [Set Me Free](https://open.spotify.com/album/6kPhXCOUlM3ISPqo031y2W) | 3:13 | 2026-01-06 | 2026-02-03 |
 | [Shadow](https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R) | [Nick McKerl](https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR) | [Shadow](https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj) | 3:00 | 2025-11-24 | 2026-01-05 |

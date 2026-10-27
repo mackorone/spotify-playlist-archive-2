@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,125 songs - 6 day 20 hr 24 min
+3,130 songs - 6 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Azizem Dance](https://open.spotify.com/track/3oJg0tAHvnIbBpoFEhMCrj) | [OMER AHMET](https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w) | [Azizem Dance](https://open.spotify.com/album/4fm6EzqGNRkjkm0PlYw0KX) | 3:07 | 2026-07-05 | 2026-08-08 |
 | [B.I.O.T.B \(Blame It On The Booze\)](https://open.spotify.com/track/0IlG5mEBN0loJN8qUL3Vm5) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [B.I.O.T.B \(Blame It On The Booze\)](https://open.spotify.com/album/1w3ngCvVZ7RMXGKI8Quwfa) | 2:51 | 2026-02-16 | 2026-03-20 |
 | [B0C3TUD4](https://open.spotify.com/track/2ro69lhVFIkaKtfF8h1C9q) | [Pariz](https://open.spotify.com/artist/2UBljQ5dbamD47JMpi3oyl) | [B0C3TUD4](https://open.spotify.com/album/4mFCvfKJZSryVv7zXdSqbZ) | 2:08 | 2026-05-05 | 2026-06-06 |
+| [Babe](https://open.spotify.com/track/5BK1YFHK78Tu5T5PBOvZyN) | [Jason Bryant](https://open.spotify.com/artist/59Lt2yv605vmRDvI7OnDWA) | [Babe \(Songs About Bella\)](https://open.spotify.com/album/7Mr2vrhyV94B5m1c7i2yCs) | 2:32 | 2026-10-26 |  |
 | [Baby Blue](https://open.spotify.com/track/5WRPtxnqTfXfGYDf1BXzRI) | [Morgan Bronner](https://open.spotify.com/artist/4pQ4PiAiC6AGiW9oyZG2Jo) | [Baby Blue](https://open.spotify.com/album/6YfQmfK8Ac9XMMYmPdfN4F) | 2:50 | 2026-08-12 | 2026-09-14 |
 | [Baby Blues](https://open.spotify.com/track/3nrBSMtehFDsGuPZXRsma0) | [Suavé](https://open.spotify.com/artist/3alyWN9ocS8hYq5lSNVg35) | [Baby Blues](https://open.spotify.com/album/5DWsDgEBeXYcYx5oWywWre) | 2:20 | 2025-11-10 | 2025-12-11 |
 | [Baby We Both Left Us](https://open.spotify.com/track/0QnFtgAkjarP6vARh3eV6N) | [Shashank Bhaskaruni](https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD), [SaiKiran Sunkoju](https://open.spotify.com/artist/6vLKHxc4zsT57dE0AsjGp1), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Baby We Both Left Us](https://open.spotify.com/album/3LiSUKnj1yXJztki6VzYci) | 3:27 | 2026-08-10 | 2026-09-11 |
@@ -1116,6 +1117,7 @@
 | [Heal You Slowly](https://open.spotify.com/track/6JbIAdldJegtntaoPAKNbu) | [D I N I O](https://open.spotify.com/artist/4yi6K2AXTjTVR2NsH54AUR), [Ethan Rivers](https://open.spotify.com/artist/6iiBUBFPEsboTOdqnSGMDC) | [Heal You Slowly](https://open.spotify.com/album/4TAKqnQi5mDwwtVreck7Hy) | 3:01 | 2026-04-25 | 2026-05-28 |
 | [Hear you in the silence](https://open.spotify.com/track/7C48kdbcSroFS3LQgvd9cb) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Hear you in the silence](https://open.spotify.com/album/1iuaowL63kbzi6VuWXDWYV) | 1:53 | 2026-04-29 | 2026-05-30 |
 | [Heart in Her Pocket](https://open.spotify.com/track/64Nofm5a3ztdZyx9obSmJK) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Heart in Her Pocket](https://open.spotify.com/album/74AN2NpoCQ8gqUM7InXJCn) | 2:34 | 2026-05-26 | 2026-06-27 |
+| [Heart On My Sleeve](https://open.spotify.com/track/1nJXH2R67WQpMm3guvZdc0) | [Kian Aitken](https://open.spotify.com/artist/0jmFvKnMncITscDQhTcCEa) | [Heart On My Sleeve](https://open.spotify.com/album/1nhuDwsRjXKonI2EHRR0MH) | 2:11 | 2026-10-26 |  |
 | [Heartbeat](https://open.spotify.com/track/3cfbN9BpamZjvVIcraBR7N) | [Jess Stewart](https://open.spotify.com/artist/6wKbS0fTioEJQPaPSufbsu) | [Heartbeat](https://open.spotify.com/album/4XELvytmtkEX8uWCiqzjMp) | 2:27 | 2026-06-07 | 2026-07-08 |
 | [Heartbeat](https://open.spotify.com/track/5vFcUO7cDlBv1mr0GuZutZ) | [Katrin Johansson](https://open.spotify.com/artist/4CDjSW97KlgYt9OJ0vI6Hl) | [Heartbeat](https://open.spotify.com/album/1VARKvW1Vm73umjhaNjy9n) | 2:53 | 2026-05-13 | 2026-06-15 |
 | [HEARTBEAT](https://open.spotify.com/track/58zkSk7ZQYAD9mRk9iUfO7) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [HEARTBEAT](https://open.spotify.com/album/4a2aIbSXEakYmtIP7dWEDI) | 1:59 | 2026-06-20 | 2026-07-22 |
@@ -1628,6 +1630,7 @@
 | [Lovin' You](https://open.spotify.com/track/7AdqnWem8kGsHq1kH2VNlJ) | [EBU](https://open.spotify.com/artist/0lxcqfrow3i47FGpSPM7zz) | [Lovin' You](https://open.spotify.com/album/5pawqHtGp901m91WaCf29W) | 2:15 | 2026-03-31 | 2026-05-02 |
 | [Low Median Isolator](https://open.spotify.com/track/733EHF5j9daskmb9AsjJyh) | [Fausts' Eternal Desire](https://open.spotify.com/artist/48HsxooncwW6bDoLIr7wM8) | [Form Processor](https://open.spotify.com/album/0OggRmyhRvRUhAl9za3wUa) | 4:27 | 2026-01-10 | 2026-02-11 |
 | [Luciérnagas](https://open.spotify.com/track/1w0RqB7JgOiP5WaoCNX0lf) | [TyraBias](https://open.spotify.com/artist/7pI7OyK8aR2DiqQjhuTcr0) | [Luciérnagas](https://open.spotify.com/album/4zjC5EiCyBsc0tETky3CWm) | 3:18 | 2026-02-28 | 2026-04-01 |
+| [Lucky in a Corrupt Place](https://open.spotify.com/track/6praACVQ9cdhNtZk6H6LeW) | [XAURAX](https://open.spotify.com/artist/5ABgbqKhlZ6OH5FLEKD8Nv) | [Lucky in a Corrupt Place](https://open.spotify.com/album/2DlfviqPkxRMYFiEcnzrSl) | 2:24 | 2026-10-26 |  |
 | [Lucky Me](https://open.spotify.com/track/24kV93ixZsfscwc9LNjqfN) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Lucky Me](https://open.spotify.com/album/3Hp02aa7825yg9V3JKbHOd) | 2:32 | 2025-12-18 | 2026-01-19 |
 | [Lucky One](https://open.spotify.com/track/2X533LZwtAAPYujatd6jAz) | [Something About Bears](https://open.spotify.com/artist/0U9HclSerBG3C6TaX6aHY8) | [Lucky One](https://open.spotify.com/album/7iF2dDzPT88n04lLXOMtby) | 3:22 | 2026-04-04 | 2026-05-06 |
 | [Lucky Star](https://open.spotify.com/track/3IN3ut03VtMu5zqqc2f4rJ) | [Insanitii Exact](https://open.spotify.com/artist/3oFFnqctHfUvwotzl5Nzo3) | [Lucky Star](https://open.spotify.com/album/7Edp4rRVpuDIrE9JOTjuzB) | 4:27 | 2026-06-05 | 2026-07-07 |
@@ -2041,6 +2044,7 @@
 | [Peace Looks Strange On Me](https://open.spotify.com/track/1ABliwvrxFcTkB2Gs1hjl6) | [Selah Stone](https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX) | [Nothing Fits For Long EP](https://open.spotify.com/album/251kR8eUtYfk387d4UMQFy) | 3:17 | 2026-08-24 | 2026-09-25 |
 | [Peaceful Heart](https://open.spotify.com/track/3uihWvTZnBgGhMm0INqiCX) | [Vantalis](https://open.spotify.com/artist/2gHum2biYAe1RQbhblGuIl) | [Peaceful Heart](https://open.spotify.com/album/5FBgdNIWFa6uzWu6QhJmYn) | 2:48 | 2025-12-12 | 2026-01-15 |
 | [Peaceful Rendezvous](https://open.spotify.com/track/3HbvkdMbt73FJc4KPTM6L3) | [Sun Sand](https://open.spotify.com/artist/0FjNOXPb3bC89r7gbKFAth) | [Peaceful Rendezvous](https://open.spotify.com/album/7BJkLDcmileZ5lTZpDkIua) | 4:29 | 2026-02-27 | 2026-03-30 |
+| [Pearls](https://open.spotify.com/track/5pXNmz5OYjDrtUKeYsTlfN) | [of Sky](https://open.spotify.com/artist/3eylf9aH6uhjmdGmyiZZwA) | [Pearls](https://open.spotify.com/album/2MUENhlxAOgqPQJUxoZEBB) | 2:27 | 2026-10-26 |  |
 | [Peek Around the Corner](https://open.spotify.com/track/4gH3G9NKmOL7jd3PhIVfVR) | [Goldiva](https://open.spotify.com/artist/4GP0N1O0SMO3I2Nh4qHgbY) | [Peek Around the Corner](https://open.spotify.com/album/5CrQbtvpmZmLLvkzmL8Z91) | 5:26 | 2026-02-02 | 2026-03-06 |
 | [Penang Bang](https://open.spotify.com/track/7e5oLwyrSflUoGqJI4MjW0) | [LiiN](https://open.spotify.com/artist/6LtSU8F1WsFaSK8glXDhx9) | [Sidereal Drift](https://open.spotify.com/album/1Y8GJirJsAcmVGTeC939Ka) | 2:26 | 2026-03-02 | 2026-04-03 |
 | [Penny](https://open.spotify.com/track/2rOvAbbjGPHo6Wli7xGgtL) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Penny](https://open.spotify.com/album/3xDOjXppWgImNUllCBIo0p) | 2:47 | 2026-06-09 | 2026-07-10 |
@@ -2242,6 +2246,7 @@
 | [Sacre Bleu](https://open.spotify.com/track/2ZQR2qa8cYBIVp9V99hlyh) | [Even Y](https://open.spotify.com/artist/2LEvhFJcAneAcY6SWXDIBk) | [9 White Roses](https://open.spotify.com/album/0mXmo2wG4oj9FrQZejmw7u) | 3:21 | 2026-02-23 | 2026-03-26 |
 | [Sacrifice](https://open.spotify.com/track/4qrpNka62WhqHpaCsdlWX7) | [Mudbard](https://open.spotify.com/artist/2O7GYzIURlMiGlVYc7Tvns), [Benedetta](https://open.spotify.com/artist/68sX0S2uF91vR9ALtutsjf) | [Sacrifice](https://open.spotify.com/album/1fhuWUtyCYAtOtXFzMZl3s) | 3:19 | 2026-10-19 |  |
 | [Sad Song \- Single Version](https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz), [Amiri](https://open.spotify.com/artist/2Ll5uRPghBt8yLaI44FJU7) | [Sad Song](https://open.spotify.com/album/1s5tdq4L8q8EvE0MfZ0ph6) | 3:17 | 2026-07-11 | 2026-08-12 |
+| [Sail Away](https://open.spotify.com/track/7EB4SNhPQiYb6pohZ89dmU) | [Kian Aitken](https://open.spotify.com/artist/0jmFvKnMncITscDQhTcCEa) | [Heart On My Sleeve](https://open.spotify.com/album/1nhuDwsRjXKonI2EHRR0MH) | 2:29 | 2026-10-26 |  |
 | [Salt Sand and You](https://open.spotify.com/track/3VDAwHdVZ7oSsnDzTPVQ3h) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Salt Sand and You](https://open.spotify.com/album/7cw8DjTKGcOI3o2I3l7TKV) | 3:15 | 2026-04-10 | 2026-05-12 |
 | [Saltire \(Tartan Army\)](https://open.spotify.com/track/56UxvYVd8ZHrXb6nggc0hk) | [Rodeo Terrorists](https://open.spotify.com/artist/2HlNfoIxYsyWIhfexCF3tc) | [Saltire \(Tartan Army\)](https://open.spotify.com/album/1wXezfTDka2A6qOWVfrU5K) | 4:02 | 2026-05-15 | 2026-06-16 |
 | [Same damn story](https://open.spotify.com/track/0mS3XRqMBp9f6zzRBD6sWn) | [Denny Black](https://open.spotify.com/artist/4zZ9SMKstDRf6X5T6x0yzV) | [Same damn story](https://open.spotify.com/album/6jsCSjwogi6bPrhiilycWR) | 3:42 | 2025-10-27 | 2025-11-29 |

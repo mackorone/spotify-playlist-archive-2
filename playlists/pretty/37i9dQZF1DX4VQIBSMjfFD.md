@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! \(태양의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,889 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,888 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TAEYANG Greeting](https://open.spotify.com/track/59RfaR4WZsaWGSsIQYtSf1) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [TAEYANG TOUR \[THE LIGHT YEAR\] ENCORE](https://open.spotify.com/album/4S2bqmGh7rKMY1ErrWfovw) | 1:02 |
-| 2 | [Prayer \(Feat\. Teddy\)](https://open.spotify.com/track/0QdoA14XPxSuuoiuNDzvKJ) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [TEDDY](https://open.spotify.com/artist/2QDHZGfyq70z6T4e4Dr2t0) | [Hot](https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw) | 3:40 |
+| 2 | [Prayer \(Feat\. Teddy\)](https://open.spotify.com/track/0QdoA14XPxSuuoiuNDzvKJ) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [TEDDY](https://open.spotify.com/artist/7syMNIaMRHC9JLXmIfY4AO) | [Hot](https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw) | 3:40 |
 | 3 | [I'll Be There \- Korean Version](https://open.spotify.com/track/7MvEXoezNqX9bLNF6aNjeL) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 3:15 |
 | 4 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 |
 | 5 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 |

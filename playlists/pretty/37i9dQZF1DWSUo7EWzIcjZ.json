@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 385843,
+  "num_followers": 385828,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Maestro Con Sus 16 Exitos",
-        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "No Hay Nadie Mas",
-      "url": "https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 184986,
       "name": "Merenguero Hasta la Tambora - Radio Version",
       "url": "https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El Maestro Con Sus 16 Exitos",
+        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "No Hay Nadie Mas",
+      "url": "https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "El Silencio, Tu Y Yo",
-      "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Merengue Passion",
         "url": "https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67"
       },
@@ -699,34 +683,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Juan and Nelson Records - 20 Exitos",
-        "url": "https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
       },
       "artists": [
         {
-          "name": "Rasputin",
-          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
         }
       ],
-      "duration_ms": 263493,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 278760,
-      "name": "Medley",
-      "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
+      "duration_ms": 237826,
+      "name": "El Silencio, Tu Y Yo",
+      "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -755,6 +723,38 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 278760,
+      "name": "Medley",
+      "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Juan and Nelson Records - 20 Exitos",
+        "url": "https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw"
+      },
+      "artists": [
+        {
+          "name": "Rasputin",
+          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Tonto Corazon",
         "url": "https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Ring...Ring",
-        "url": "https://open.spotify.com/album/3H00vhCcHbxZBk2QzGagQP"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "Noche Eterna",
-      "url": "https://open.spotify.com/track/0Qyeb26NIFE2fHrX1uNewL"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "El D\u00edsco de Oro de los Hermanos Rosario",
         "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 221640,
       "name": "El Lapiz",
       "url": "https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Ring...Ring",
+        "url": "https://open.spotify.com/album/3H00vhCcHbxZBk2QzGagQP"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 276160,
+      "name": "Noche Eterna",
+      "url": "https://open.spotify.com/track/0Qyeb26NIFE2fHrX1uNewL"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Dominicano Ausente",
-      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "El D\u00edsco de Oro de los Hermanos Rosario",
         "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 272293,
       "name": "Pecadora",
       "url": "https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Dominicano Ausente",
+      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1044,25 +1044,25 @@
           "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 266666,
-      "name": "Me Tiene Amarrao",
-      "url": "https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR"
+      "duration_ms": 235200,
+      "name": "Nadie Me Brinda Na'",
+      "url": "https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Merengue Exitos",
-        "url": "https://open.spotify.com/album/014lrTIQrjrGVQOTPrYKY7"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56"
       },
       "artists": [
         {
-          "name": "Merengue Exitos",
-          "url": "https://open.spotify.com/artist/5fb57nU7czfRxNAzrwIsts"
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
         }
       ],
-      "duration_ms": 295426,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/2pag7Y4noCdbVHEfKDKzzq"
+      "duration_ms": 273066,
+      "name": "Como Duele - En Vivo",
+      "url": "https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56"
+        "name": "Merengue Exitos",
+        "url": "https://open.spotify.com/album/014lrTIQrjrGVQOTPrYKY7"
       },
       "artists": [
         {
-          "name": "Manny Manuel",
-          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+          "name": "Merengue Exitos",
+          "url": "https://open.spotify.com/artist/5fb57nU7czfRxNAzrwIsts"
         }
       ],
-      "duration_ms": 273066,
-      "name": "Como Duele - En Vivo",
-      "url": "https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx"
+      "duration_ms": 295426,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/2pag7Y4noCdbVHEfKDKzzq"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1124,25 +1124,25 @@
           "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Las Locas",
-      "url": "https://open.spotify.com/track/0weR0n8ubbO0hJuyN8pYsP"
+      "duration_ms": 266666,
+      "name": "Me Tiene Amarrao",
+      "url": "https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR"
     },
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "100% Merengue '99",
-        "url": "https://open.spotify.com/album/5oytlALvjjbQFuM6G7i4MZ"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56"
       },
       "artists": [
         {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
         }
       ],
-      "duration_ms": 285800,
-      "name": "La Nave Del Olvido",
-      "url": "https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU"
+      "duration_ms": 275400,
+      "name": "Culpable O No - En Vivo",
+      "url": "https://open.spotify.com/track/6Q53A9fvMQ2eMgP33SL18R"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56"
+        "name": "100% Merengue '99",
+        "url": "https://open.spotify.com/album/5oytlALvjjbQFuM6G7i4MZ"
       },
       "artists": [
         {
-          "name": "Manny Manuel",
-          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
         }
       ],
-      "duration_ms": 275400,
-      "name": "Culpable O No - En Vivo",
-      "url": "https://open.spotify.com/track/6Q53A9fvMQ2eMgP33SL18R"
+      "duration_ms": 285800,
+      "name": "La Nave Del Olvido",
+      "url": "https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Merengazo",
-        "url": "https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e"
-      },
-      "artists": [
-        {
-          "name": "Nando Galan",
-          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
-        }
-      ],
-      "duration_ms": 267335,
-      "name": "Faltaste a la Cita",
-      "url": "https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 226520,
       "name": "Que Me Perdone Tu Se\u00f1ora",
       "url": "https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Merengazo",
+        "url": "https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e"
+      },
+      "artists": [
+        {
+          "name": "Nando Galan",
+          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
+        }
+      ],
+      "duration_ms": 267335,
+      "name": "Faltaste a la Cita",
+      "url": "https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2020,9 +2020,9 @@
           "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Nadie Me Brinda Na'",
-      "url": "https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr"
+      "duration_ms": 239693,
+      "name": "Las Locas",
+      "url": "https://open.spotify.com/track/0weR0n8ubbO0hJuyN8pYsP"
     },
     {
       "added_at": "2024-06-28 21:55:14",

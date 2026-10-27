@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🇪🇺 Tech house operators, featuring Jay de Lys
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,992 likes - 110 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,078 likes - 110 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

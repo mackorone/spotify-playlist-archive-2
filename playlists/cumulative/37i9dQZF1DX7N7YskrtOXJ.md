@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-264 songs - 16 hr 0 min
+265 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [No te vi más](https://open.spotify.com/track/3b5urxTG2NZVjoHdFWxtsk) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [Perfume De Cumbia](https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie) | 2:57 | 2024-02-27 | 2024-04-17 |
 | [No Tomo Más](https://open.spotify.com/track/2bNO2GXxVXQUmdEc3ldjly) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Prohibido](https://open.spotify.com/album/2yK1FtavuzNVvyNy6PbsnM) | 4:24 | 2023-08-25 | 2023-09-09 |
 | [Nunca](https://open.spotify.com/track/41KXHfwXP2gaovUW1Tvcue) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Nunca](https://open.spotify.com/album/7p0oT5v3N8KZSYbvikcZMd) | 3:13 | 2023-11-25 | 2024-02-28 |
+| [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2026-09-04 |  |
 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 | 2024-02-27 | 2024-04-19 |
 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 | 2024-02-27 |  |
 | [Ordenando unas cosas](https://open.spotify.com/track/49CxApahWbmQ2Gu9wZnkcr) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 3:47 | 2023-08-25 | 2024-02-28 |
@@ -230,7 +231,7 @@
 | [Supermandoneao](https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Cumbia E' Plaza](https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj) | 4:32 | 2023-08-25 |  |
 | [Súper Ladrón](https://open.spotify.com/track/5husfNVE2aTxGddNuMACxA) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alegrìa](https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV) | [El Legado](https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH) | 1:20 | 2024-02-27 | 2024-04-19 |
 | [Te Falta Sufrir](https://open.spotify.com/track/7LEqJ3OmB3977aSTzFABdQ) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:13 | 2024-12-31 | 2025-11-21 |
-| [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 | 2026-09-04 |  |
+| [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 | 2026-09-04 | 2026-10-27 |
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2023-08-25 | 2024-04-19 |
 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 | 2024-02-27 |  |
 | [Te Vuelvo a Ver](https://open.spotify.com/track/4oZLfuC6t6hPydvhJBdfm5) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:38 | 2024-02-27 | 2024-04-19 |

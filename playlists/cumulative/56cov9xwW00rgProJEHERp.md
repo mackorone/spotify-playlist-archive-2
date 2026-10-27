@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/56cov9xwW00rgProJEHERp.md) - cumulative - [plain](/playlists/plain/56cov9xwW00rgProJEHERp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/56cov9xwW00rgProJEHERp)
 
-### [But First Coffee](https://open.spotify.com/playlist/56cov9xwW00rgProJEHERp)
+### [But First..\. Coffee](https://open.spotify.com/playlist/56cov9xwW00rgProJEHERp)
 
 > Tunes from your favourite coffee shop.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Empro, Mlindo The Vocalist
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,836 likes - 95 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,926 likes - 95 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

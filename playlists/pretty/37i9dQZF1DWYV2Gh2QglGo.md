@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: The Reklaws
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,580 likes - 200 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,584 likes - 200 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

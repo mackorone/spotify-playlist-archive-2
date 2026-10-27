@@ -3553,6 +3553,28 @@
     },
     {
       "album": {
+        "name": "bravo!",
+        "url": "https://open.spotify.com/album/2oclO86RPTGDx2UpcnKWL6"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200444,
+      "name": "bravo!",
+      "url": "https://open.spotify.com/track/1bSF7G7pL2fWiwEAckKA1c"
+    },
+    {
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
       },
@@ -12216,7 +12238,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 152538,
       "name": "Kolega, o kt\u00f3rego...",
       "url": "https://open.spotify.com/track/1JKadsp1VxKNFvo6LKqkIU"

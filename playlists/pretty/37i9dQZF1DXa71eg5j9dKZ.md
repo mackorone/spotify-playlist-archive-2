@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: KETTAMA, Prospa
+> The home for alternative electronic music\. Cover: Sammy Virji
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,780 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,786 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 109 | [Zonda](https://open.spotify.com/track/02SzQvkqj0gPmai51pkls5) | [Unsho](https://open.spotify.com/artist/0A2nctTDfeBWmTnvwfWdVP), [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Zonda](https://open.spotify.com/album/4QaLdyngCMSx40IjeNyffI) | 3:54 |
 | 110 | [Pulse](https://open.spotify.com/track/2TUAiQIUA0wKnQcpJslfoh) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [howtin](https://open.spotify.com/artist/17n21mJLkfRIaCnyYzuqWU) | [Pulse](https://open.spotify.com/album/4QpjUojSJeFkoqW4qMioyg) | 4:51 |
 
-Snapshot ID: `AAAAAAoUBZVOBlL9RWBMVXwiVOgo6Zm1`
+Snapshot ID: `AAAAALFkwUo1xzj+Bpi6/tq52p1EudsO`

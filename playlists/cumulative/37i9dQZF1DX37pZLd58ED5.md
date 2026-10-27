@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-394 songs - 20 hr 3 min
+395 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Sottovuoto](https://open.spotify.com/track/2oDlAuhJExJd7papr3cyBF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:47 | 2025-03-28 |  |
 | [Spigoli](https://open.spotify.com/track/1XQvMjA9IiIx1lAiTHSxQi) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [Spigoli](https://open.spotify.com/album/7d2mx3ECVdcvoLFLXrx8Qo) | 4:16 | 2022-04-28 |  |
 | [STANOTTE \(feat\. Coez, Massimo Pericolo\)](https://open.spotify.com/track/16UKRoJsS0i0eUNCCroz7n) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 2:39 | 2022-12-15 | 2025-07-11 |
+| [STARE BENE](https://open.spotify.com/track/00tJHfshl9hn6SdrdCvSdH) | [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [LA TAVOLA DELL'UMORE](https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra) | 2:36 | 2026-10-26 |  |
 | [STATI D'ANIMO](https://open.spotify.com/track/73OPvX1jBGbNAe71YE2fws) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [STATI D'ANIMO](https://open.spotify.com/album/1B6AdxZ6xbLjnCaUwUN8oT) | 2:38 | 2026-03-26 | 2026-05-09 |
 | [Stessa Persona \(feat\. Neima Ezza\)](https://open.spotify.com/track/68zEuQqB3lf4hIxtKjWU3O) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Stessa Persona \(feat\. Neima Ezza\)](https://open.spotify.com/album/0f5UCuQZYoDKdUUWKhzRMU) | 2:17 | 2026-04-02 | 2026-05-09 |
 | [Sto xso \(feat\. ENRI\) \- prod\. ENRI](https://open.spotify.com/track/76GgN6b7Q9ZxksGwxnHV6g) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [ENRI](https://open.spotify.com/artist/0nTiVmLV81WoBJO8FW6bed) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 3:13 | 2023-03-17 | 2023-05-26 |

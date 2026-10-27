@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Hail Saturn / Damnation",
+        "url": "https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156856,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq"
+    },
+    {
+      "album": {
         "name": "The Winter Sloths",
         "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
       },
@@ -6616,6 +6634,24 @@
       "duration_ms": 260031,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5seyyPvGsQfMlf7L51Oadx"
+      },
+      "artists": [
+        {
+          "name": "Siobhan Bodrug",
+          "url": "https://open.spotify.com/artist/7txaNJjUA1XAkxkY3dOGoD"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194658,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/5t59VwPR2S9GZ2zyo3kPao"
     },
     {
       "album": {

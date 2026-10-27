@@ -1,12 +1,12 @@
 {
   "description": "Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.",
-  "num_followers": 487062,
+  "num_followers": 487121,
   "original_name": "Forest Bathing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANK/D5GU59UWlswVXfL78qPhHJKa",
+  "snapshot_id": "AAAAACBhkOKarzYAnQ7tXU3nKmTkSSRn",
   "tracks": [
     {
       "added_at": "2026-10-06 14:28:26",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-10-06 14:28:26",
       "album": {
+        "name": "Topaz Nature",
+        "url": "https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be"
+      },
+      "artists": [
+        {
+          "name": "Sheila Dawn",
+          "url": "https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Topaz Nature",
+      "url": "https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK"
+    },
+    {
+      "added_at": "2026-10-06 14:28:26",
+      "album": {
         "name": "Soft Lights",
         "url": "https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 150535,
       "name": "Eden's Twilight",
       "url": "https://open.spotify.com/track/4tvXduo2sBOLHwfQzsBNGr"
-    },
-    {
-      "added_at": "2026-10-06 14:28:26",
-      "album": {
-        "name": "Seemless",
-        "url": "https://open.spotify.com/album/4oUaVe49OQ9PxMznXvrT1d"
-      },
-      "artists": [
-        {
-          "name": "Jack Allenson",
-          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
-        }
-      ],
-      "duration_ms": 143083,
-      "name": "Seemless",
-      "url": "https://open.spotify.com/track/3OD50TNyouO8VJHnKrrrRz"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-10-06 14:28:26",
       "album": {
-        "name": "A Quiet Sky of Birds",
-        "url": "https://open.spotify.com/album/2PwyTtWXQ3KR8F5D7ZfZRQ"
+        "name": "Above",
+        "url": "https://open.spotify.com/album/4Bb1O5nyX7ptE8njKrWlIh"
       },
       "artists": [
         {
-          "name": "Veldt Echoes",
-          "url": "https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd"
+          "name": "MULVEY",
+          "url": "https://open.spotify.com/artist/2ekourkFZvlsBnDApaXeaf"
         }
       ],
-      "duration_ms": 158700,
-      "name": "A Quiet Sky of Birds",
-      "url": "https://open.spotify.com/track/0DH8nMEuh6eBBJlNNCby5X"
+      "duration_ms": 143000,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/4IxQ7Ct8q2rwejrZqDp0tL"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-10-06 14:28:26",
       "album": {
-        "name": "Veil of Sylva",
-        "url": "https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79"
-      },
-      "artists": [
-        {
-          "name": "Far North",
-          "url": "https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Veil of Sylva",
-      "url": "https://open.spotify.com/track/0deuii5DgfxodJswCQicZb"
-    },
-    {
-      "added_at": "2026-10-06 14:28:26",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 152542,
       "name": "Searching",
       "url": "https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc"
+    },
+    {
+      "added_at": "2026-10-06 14:28:26",
+      "album": {
+        "name": "Veil of Sylva",
+        "url": "https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79"
+      },
+      "artists": [
+        {
+          "name": "Far North",
+          "url": "https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Veil of Sylva",
+      "url": "https://open.spotify.com/track/0deuii5DgfxodJswCQicZb"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -235,18 +235,18 @@
     {
       "added_at": "2026-10-06 14:28:26",
       "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/4gxwjE5XkfNANotGfuMsCs"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK"
       },
       "artists": [
         {
-          "name": "Calil",
-          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
         }
       ],
-      "duration_ms": 122722,
-      "name": "Komorebi",
-      "url": "https://open.spotify.com/track/6lrOD6m5EjPaWcFH3IARog"
+      "duration_ms": 169342,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-10-06 14:28:26",
       "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/0NAVH9QhTO4BomMgKWQ11P"
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/4gxwjE5XkfNANotGfuMsCs"
       },
       "artists": [
         {
-          "name": "Quiet Tones",
-          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+          "name": "Calil",
+          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
         }
       ],
-      "duration_ms": 117750,
-      "name": "Flow State",
-      "url": "https://open.spotify.com/track/20o3E39PFhtjGXF0qiVWqg"
+      "duration_ms": 122722,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/6lrOD6m5EjPaWcFH3IARog"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -299,34 +299,18 @@
     {
       "added_at": "2026-10-06 14:28:26",
       "album": {
-        "name": "Rumble in Peace",
-        "url": "https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N"
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0NAVH9QhTO4BomMgKWQ11P"
       },
       "artists": [
         {
-          "name": "Lula Dreamer",
-          "url": "https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8"
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
         }
       ],
-      "duration_ms": 178723,
-      "name": "Rumble in Peace",
-      "url": "https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ"
-    },
-    {
-      "added_at": "2026-10-06 14:28:26",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK"
-      },
-      "artists": [
-        {
-          "name": "Ani",
-          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
-        }
-      ],
-      "duration_ms": 169342,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn"
+      "duration_ms": 117750,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/20o3E39PFhtjGXF0qiVWqg"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -343,6 +327,22 @@
       "duration_ms": 159938,
       "name": "Among the Trees",
       "url": "https://open.spotify.com/track/7dOCXYsLO1pZxFjeu3dMf6"
+    },
+    {
+      "added_at": "2026-10-26 21:56:18",
+      "album": {
+        "name": "Sound of the Birds",
+        "url": "https://open.spotify.com/album/0LggjdYJZfkHR1R1veaorI"
+      },
+      "artists": [
+        {
+          "name": "Civian",
+          "url": "https://open.spotify.com/artist/4yaZWyVYNm5cP3GnG3tj1p"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Sound of the Birds",
+      "url": "https://open.spotify.com/track/1VWYOAkHLIomBt8R0rF3L6"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/3ldIFtzxXXVK7vsvg0xDkK"
     },
     {
+      "added_at": "2026-10-26 21:56:18",
+      "album": {
+        "name": "The Sea Ranch",
+        "url": "https://open.spotify.com/album/4sQfa7nWcXN8tXhXGkeqoY"
+      },
+      "artists": [
+        {
+          "name": "nightfall",
+          "url": "https://open.spotify.com/artist/2bxsey6NsNogSPVrrlFZGx"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "The Sea Ranch",
+      "url": "https://open.spotify.com/track/2WlQvwVuLEeKgGoxXNCb52"
+    },
+    {
       "added_at": "2026-10-06 14:28:26",
       "album": {
         "name": "Sun Warmed",
@@ -567,6 +583,22 @@
       "duration_ms": 159660,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/55Vj140U2eIoO1ut304xm8"
+    },
+    {
+      "added_at": "2026-10-26 21:56:18",
+      "album": {
+        "name": "Valdivian",
+        "url": "https://open.spotify.com/album/7tp7kYg6zBTzo9awqqeCi5"
+      },
+      "artists": [
+        {
+          "name": "Alojz Pavic",
+          "url": "https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Valdivian",
+      "url": "https://open.spotify.com/track/2jJSclU3SCiqfzAW4q0k2Q"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -671,6 +703,22 @@
       "duration_ms": 181333,
       "name": "Heart of nature",
       "url": "https://open.spotify.com/track/0PydlHyHt06LIZ21X9jS7l"
+    },
+    {
+      "added_at": "2026-10-26 21:56:18",
+      "album": {
+        "name": "Breathing Forest",
+        "url": "https://open.spotify.com/album/6vhgZZonUkFqDaQUNirUGb"
+      },
+      "artists": [
+        {
+          "name": "Circular Motions",
+          "url": "https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Breathing Forest",
+      "url": "https://open.spotify.com/track/7KDQ3Hlr8URtAiCZNfv4eZ"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -785,6 +833,22 @@
       "url": "https://open.spotify.com/track/1DyC1vurKh8kk0TatwwWI7"
     },
     {
+      "added_at": "2026-10-26 21:56:18",
+      "album": {
+        "name": "Evergreen Pines",
+        "url": "https://open.spotify.com/album/4IyQ7IGjgzEncydajmDHJR"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Evergreen Pines",
+      "url": "https://open.spotify.com/track/4RffdOIum50uN6uHpR1WCB"
+    },
+    {
       "added_at": "2026-10-06 14:28:26",
       "album": {
         "name": "Song of the Forest",
@@ -895,6 +959,22 @@
       "duration_ms": 156600,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/5wUcZKUVpLr1mA9cn542BI"
+    },
+    {
+      "added_at": "2026-10-26 21:56:18",
+      "album": {
+        "name": "Skoglig",
+        "url": "https://open.spotify.com/album/4zqCzdxs5H9ZHS7iJKIBPM"
+      },
+      "artists": [
+        {
+          "name": "Jon Laer",
+          "url": "https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Skoglig",
+      "url": "https://open.spotify.com/track/4oqYFBZ1wcbdvSwWYFoJS2"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -1395,22 +1475,6 @@
     {
       "added_at": "2026-10-06 14:28:26",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/4Bb1O5nyX7ptE8njKrWlIh"
-      },
-      "artists": [
-        {
-          "name": "MULVEY",
-          "url": "https://open.spotify.com/artist/2ekourkFZvlsBnDApaXeaf"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/4IxQ7Ct8q2rwejrZqDp0tL"
-    },
-    {
-      "added_at": "2026-10-06 14:28:26",
-      "album": {
         "name": "Nature's Heart",
         "url": "https://open.spotify.com/album/7zmcX2OiYE6yZf4FDk1W9o"
       },
@@ -1643,22 +1707,6 @@
       "duration_ms": 200347,
       "name": "Drift",
       "url": "https://open.spotify.com/track/6g6auewdiUaGKvGa8pKoQu"
-    },
-    {
-      "added_at": "2026-10-06 14:28:26",
-      "album": {
-        "name": "Topaz Nature",
-        "url": "https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be"
-      },
-      "artists": [
-        {
-          "name": "Sheila Dawn",
-          "url": "https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Topaz Nature",
-      "url": "https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK"
     },
     {
       "added_at": "2026-10-06 14:28:26",
@@ -2835,6 +2883,54 @@
       "duration_ms": 181764,
       "name": "The Ground Beneath",
       "url": "https://open.spotify.com/track/0DLDgts6WSS6c7JW9fpDWk"
+    },
+    {
+      "added_at": "2026-10-06 14:28:26",
+      "album": {
+        "name": "Seemless",
+        "url": "https://open.spotify.com/album/4oUaVe49OQ9PxMznXvrT1d"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "duration_ms": 143083,
+      "name": "Seemless",
+      "url": "https://open.spotify.com/track/3OD50TNyouO8VJHnKrrrRz"
+    },
+    {
+      "added_at": "2026-10-06 14:28:26",
+      "album": {
+        "name": "A Quiet Sky of Birds",
+        "url": "https://open.spotify.com/album/2PwyTtWXQ3KR8F5D7ZfZRQ"
+      },
+      "artists": [
+        {
+          "name": "Veldt Echoes",
+          "url": "https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd"
+        }
+      ],
+      "duration_ms": 158700,
+      "name": "A Quiet Sky of Birds",
+      "url": "https://open.spotify.com/track/0DH8nMEuh6eBBJlNNCby5X"
+    },
+    {
+      "added_at": "2026-10-06 14:28:26",
+      "album": {
+        "name": "Rumble in Peace",
+        "url": "https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N"
+      },
+      "artists": [
+        {
+          "name": "Lula Dreamer",
+          "url": "https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Rumble in Peace",
+      "url": "https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ"
     }
   ],
   "unique_name": "Forest Bathing",

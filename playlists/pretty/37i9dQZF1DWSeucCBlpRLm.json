@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 92976,
+  "num_followers": 93225,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,30 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "duration_ms": 210267,
+      "name": "Main Aur Tu",
+      "url": "https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Dishoom",
         "url": "https://open.spotify.com/album/6DtMXD2zJumu3R2e54OVKT"
       },
@@ -807,30 +831,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Dhurandhar The Revenge",
-        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        }
-      ],
-      "duration_ms": 210267,
-      "name": "Main Aur Tu",
-      "url": "https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Makhna (From \"Drive\")",
         "url": "https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Jugnu",
         "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 230400,
       "name": "Jugnu",
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Tauba Tauba (From \"Bad Newz\")",
-        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba (From \"Bad Newz\")",
-      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -963,6 +963,30 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Ungli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Anushka Manchanda",
+          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
+        }
+      ],
+      "duration_ms": 223991,
+      "name": "Dance Basanti",
+      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "3:00 AM Sessions",
         "url": "https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2"
       },
@@ -1023,30 +1047,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Ungli (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Anushka Manchanda",
-          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
-        }
-      ],
-      "duration_ms": 223991,
-      "name": "Dance Basanti",
-      "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Mimi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 200218,
       "name": "Param Sundari",
       "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Bijlee Bijlee",
+        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1099,22 +1115,6 @@
       "duration_ms": 208169,
       "name": "Hum Pyaar Karne Wale",
       "url": "https://open.spotify.com/track/09WTiAB81RmPHae2BPjtaQ"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Housefull 2",
+        "url": "https://open.spotify.com/album/0v63JbN0o8wbskqN5zTFLM"
+      },
+      "artists": [
+        {
+          "name": "Mamta Sharma",
+          "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        }
+      ],
+      "duration_ms": 293954,
+      "name": "Anarkali Disco Chali",
+      "url": "https://open.spotify.com/track/0YKEBiwNh4VGsuf99aNfLa"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Tanu Weds Manu",
         "url": "https://open.spotify.com/album/5R0EsoxxqsmxdJEuM1JPFd"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 264900,
       "name": "Sadi Gali",
       "url": "https://open.spotify.com/track/1tEto4JrqNmBZFH5uAiYqb"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Housefull 2",
-        "url": "https://open.spotify.com/album/0v63JbN0o8wbskqN5zTFLM"
-      },
-      "artists": [
-        {
-          "name": "Mamta Sharma",
-          "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
-        },
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        }
-      ],
-      "duration_ms": 293954,
-      "name": "Anarkali Disco Chali",
-      "url": "https://open.spotify.com/track/0YKEBiwNh4VGsuf99aNfLa"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1375,6 +1375,30 @@
       "duration_ms": 188606,
       "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Psycho Saiyaan (From \"Saaho\")",
+        "url": "https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 166461,
+      "name": "Psycho Saiyaan (From \"Saaho\")",
+      "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1411,30 +1435,6 @@
       "duration_ms": 208164,
       "name": "Jhoome Jo Pathaan",
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Psycho Saiyaan (From \"Saaho\")",
-        "url": "https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE"
-      },
-      "artists": [
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Dhvani Bhanushali",
-          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 166461,
-      "name": "Psycho Saiyaan (From \"Saaho\")",
-      "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Sapphire (feat. Arijit Singh)",
-        "url": "https://open.spotify.com/album/6lAh6JtFaIvFshi8oz05m7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Sapphire (feat. Arijit Singh) - Remix",
-      "url": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Rangisari (From \"Jugjugg Jeeyo\")",
         "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 223271,
       "name": "Rangisari (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Sapphire (feat. Arijit Singh)",
+        "url": "https://open.spotify.com/album/6lAh6JtFaIvFshi8oz05m7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Sapphire (feat. Arijit Singh) - Remix",
+      "url": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
-        "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
-      },
-      "artists": [
-        {
-          "name": "Arjun Kanungo",
-          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
-        },
-        {
-          "name": "Mayur Puri",
-          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
-      "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Saiyaan Ji",
         "url": "https://open.spotify.com/album/00GpnM3JCsq6rtfBHptXZa"
       },
@@ -1915,6 +1891,30 @@
       "duration_ms": 205450,
       "name": "Saiyaan Ji",
       "url": "https://open.spotify.com/track/39QJ7KkN3L8LLqQqsO85W1"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+        "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+      "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
     },
     {
       "added_at": "2026-10-23 09:38:03",

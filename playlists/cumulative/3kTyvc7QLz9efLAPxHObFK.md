@@ -4,7 +4,7 @@
 
 > 
 
-3,246 songs - 6 day 22 hr 52 min
+3,247 songs - 6 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1168,6 +1168,7 @@
 | [GIRLS LiE \- RiraN Remix](https://open.spotify.com/track/0gGLaPAcBD5ekqwBUoFHaQ) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [池袋電音部](https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf), [MY NEW GEAR](https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n), [阿沙薙 帯 \(CV: 和久野愛佳\)](https://open.spotify.com/artist/0FVJVsdVF7htwuJ6lZrZPW), [雫來叉手毬 \(CV: 中村さんそ\)](https://open.spotify.com/artist/79UeIfR6f31bTepVlCxADZ), [中村さんそ](https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY), [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [GIRLS LiE \(RiraN Remix\)](https://open.spotify.com/album/2XekZC2cUTKEbrVm0WKq60) | 2:29 | 2024-05-03 |  |
 | [Give A Fuck](https://open.spotify.com/track/11ZZzQgJXAw0lHvKF6y23S) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Give A Fuck](https://open.spotify.com/album/1jv7Xlj8nNuxHOPcfJtU43) | 2:54 | 2024-01-26 |  |
 | [Give It All](https://open.spotify.com/track/7ACQePF9b8X2b4vIjAOxdx) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Project Zeitgeist](https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3) | [Ravers Revolution](https://open.spotify.com/album/0km8gzufVembWHRMzjku2j) | 3:46 | 2026-03-26 |  |
+| [GIVE IT TO ME](https://open.spotify.com/track/6u6Ec5hxUrUSjMpLxDcZs7) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [GIVE IT TO ME](https://open.spotify.com/album/2TBpNGoinXQc6qCi60I2El) | 3:03 | 2026-10-27 |  |
 | [Give It To Me](https://open.spotify.com/track/7dZDpUOcZFHQ8w81BNrT80) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Give It To Me](https://open.spotify.com/album/5W6mxQXawv87heCihosAR3) | 2:41 | 2025-11-30 |  |
 | [Give Me a Feel](https://open.spotify.com/track/1Uky1CNhWrQTUmZsCe30Tq) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Give Me a Feel](https://open.spotify.com/album/3vIC8MEOYs0LUeaZiSn8rA) | 2:45 | 2024-09-10 |  |
 | [Give U Some \- Edit](https://open.spotify.com/track/4ExzN6CEaQAx9ZY8MZc1VP) | [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Give U Some \(Edit\)](https://open.spotify.com/album/2Tobz7v3IA7Hoe1tiiZZo3) | 2:16 | 2023-10-20 |  |

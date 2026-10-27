@@ -2041,6 +2041,28 @@
     },
     {
       "album": {
+        "name": "ITS CALLED HAVING FUN AND PLAYING",
+        "url": "https://open.spotify.com/album/4yWXWiFgocyWDKqzvKEOSo"
+      },
+      "artists": [
+        {
+          "name": "Maple",
+          "url": "https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc"
+        },
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138428,
+      "name": "Crosswords",
+      "url": "https://open.spotify.com/track/4Y69X0OlACHqQ3zKYi0gFd"
+    },
+    {
+      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/4ru2KsLvRuIDc8sWvnycEk"
       },
@@ -6508,6 +6530,24 @@
       "duration_ms": 193190,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/000wW9lL3QSGGhHAiGZBZK"
+      },
+      "artists": [
+        {
+          "name": "Mostly Mammals",
+          "url": "https://open.spotify.com/artist/6PlX3THROp2sMePaNoK16W"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252533,
+      "name": "Make It Real",
+      "url": "https://open.spotify.com/track/6G3K86UZ6I9MiIp61gUazl"
     },
     {
       "album": {

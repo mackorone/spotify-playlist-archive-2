@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 387106,
       "name": "Juju",
       "url": "https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1"
@@ -1564,6 +1564,28 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Tsepo Tshola",
+          "url": "https://open.spotify.com/artist/0EBplhirl0JcMSVLO9bF1k"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387160,
+      "name": "Never Saw You Coming",
+      "url": "https://open.spotify.com/track/4sH0Qiq4JLloy1Ct5wPOs0"
     },
     {
       "album": {

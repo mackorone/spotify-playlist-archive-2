@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-610 songs - 1 day 12 hr 58 min
+611 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Island of Gods](https://open.spotify.com/track/2WalqMcY8rGiU4RYXaOjlF) | [Paddang](https://open.spotify.com/artist/4dDpKAJfKQX4E7IG1hJExV) | [Chasing Ghosts](https://open.spotify.com/album/0r0XcTSQQTyXNE5dickhN2) | 3:33 | 2024-01-18 |  |
 | [It Still Goes On](https://open.spotify.com/track/3rWABgZDX9vKo4v8JDywlC) | [Nevadah](https://open.spotify.com/artist/4MKVmeVazvuXORnVagPP2b) | [Still Goes On](https://open.spotify.com/album/0r3R0fkUpND3rC28CVIIfE) | 4:17 | 2023-04-24 |  |
 | [It's Alright 2024](https://open.spotify.com/track/5ntn8TnvuGufQUSkp5LSek) | [Snugsworth](https://open.spotify.com/artist/38PIRv5SnPsCwlQzoL1ec4) | [It's Alright 2024](https://open.spotify.com/album/6bAJIoYXVWjHKlB1XWmDQw) | 1:56 | 2024-12-26 |  |
+| [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-10-26 |  |
 | [It's Christmas](https://open.spotify.com/track/7rzsn1hR5dzNftqF9KehC5) | [X\-MAS ALLSTARS](https://open.spotify.com/artist/4foXjtGjjblLSU0lukuqMG), [Dee Witter](https://open.spotify.com/artist/0KQKyHFflQl0sxsy0Y1hy0) | [It's Christmas](https://open.spotify.com/album/3RlZpA6BEKS7xRkqxqFvf8) | 3:27 | 2023-10-17 |  |
 | [It's Not That Late](https://open.spotify.com/track/36Z7MlPJqIaaV0PlsWwqGV) | [Yves Paquet](https://open.spotify.com/artist/7rIXWoVhS7nzMxupPhKmum) | [It's Not That Late](https://open.spotify.com/album/42zgrtBJ7u5gBSeo98BLQ2) | 2:55 | 2024-09-10 |  |
 | [It's Only Rock 'n' Roll \(But I Like It\)](https://open.spotify.com/track/6LgYr4tHifLhHdPS5OXkew) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Ain't Dead Yet](https://open.spotify.com/album/6WgRkxsyY5CNChBN70wGLQ) | 4:28 | 2025-11-05 |  |

@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana 🙃🍬 cover: Giuse The Lizia
 
-1,603 songs - 3 day 4 hr 42 min
+1,604 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,6 +1160,7 @@
 | [prima dell'alba](https://open.spotify.com/track/2NsSeFDGxErU743AqkBdIP) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [prima dell'alba](https://open.spotify.com/album/6wcSGeGRc4jntrQg419uHK) | 2:52 | 2024-10-24 | 2024-11-15 |
 | [PRIMA DELLA SETE](https://open.spotify.com/track/3fkEO0XzyMXtOqlsSm1HXx) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [COYOTE!](https://open.spotify.com/album/1EKmOhH9z1WorXwncExBOO) | 2:51 | 2025-11-13 | 2025-12-12 |
 | [PRIMA DI ADESSO](https://open.spotify.com/track/7hxQVhYkWekP3a0BtOGQtc) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [PRIMA DI ADESSO](https://open.spotify.com/album/1PdQp7paqB1N11vt7Vw0yS) | 2:58 | 2025-12-02 | 2026-01-30 |
+| [Prima di andare a dormire](https://open.spotify.com/track/3uwz0zqm9IAKfzKVQRz1J4) | [SCAR](https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ) | [Prima di andare a dormire](https://open.spotify.com/album/0XcIwmOhlQkQWrxJaLmltC) | 2:58 | 2026-10-22 |  |
 | [Prima o poi](https://open.spotify.com/track/675zgd9XBl6yBThILj9tQn) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Miss Italia](https://open.spotify.com/album/2UNSUlpESFHb4nVMzTZDbV) | 3:20 | 2026-04-09 | 2026-06-05 |
 | [PRIMADONNA](https://open.spotify.com/track/1FvUDxu2HRYXBlEq98fRbQ) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMADONNA](https://open.spotify.com/album/4V9Qxnq6EgjVluHd7eGRdb) | 2:54 | 2026-04-02 | 2026-06-12 |
 | [PRIMAVERA](https://open.spotify.com/track/7Ahvbxc9jxwec9ZwUa3XUW) | [Fares](https://open.spotify.com/artist/0bmKJDoc5Nu9by7Us2WRGo) | [PRIMAVERA](https://open.spotify.com/album/5fVD8qrIAGZY39dfVjfoBK) | 3:05 | 2026-04-23 | 2026-05-29 |

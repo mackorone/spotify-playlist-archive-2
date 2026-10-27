@@ -4,7 +4,7 @@
 
 > 
 
-76 songs - 4 hr 16 min
+77 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Think Before You Act \- Alhaitham Theme](https://open.spotify.com/track/6bSZvUSNvBWzC22TKJvn5q) | [tnbee](https://open.spotify.com/artist/0cJKVhrPAsTbiwKervvVQH) | [Alhaitham Mix Collection \(From "Genshin Impact"\)](https://open.spotify.com/album/5xiSadYohr4tgKPiVU60gu) | 5:38 | 2025-03-14 |  |
 | [Tokyo Teddy Bear](https://open.spotify.com/track/1OTkrip8I6EW5ap78axkyg) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr), [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Bokukara No Saishuu Teiri](https://open.spotify.com/album/4sVkAuyfAayJ1DQU4oMgLY) | 3:12 | 2025-03-13 |  |
 | [Umitagari](https://open.spotify.com/track/413FikBJHxjwz8EWNi2hVK) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:45 | 2025-03-13 |  |
+| [Vibrant Harriers Aloft in Spring Breeze](https://open.spotify.com/track/3dgUtahfT5cU5y6R49GtNg) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Footprints of the Traveler Vol\. 3 \(Original Game Soundtrack\)](https://open.spotify.com/album/3pPqMrF4WgdbneNirGiWwW) | 2:23 | 2026-10-26 |  |
 | [Watashiha futarino oiwaini](https://open.spotify.com/track/5rumDyfmxmALp0Eaf2L4cj) | [MASA WORKS DESIGN](https://open.spotify.com/artist/4KCNieFVZXwH2iZLX2D0cF) | [ADULT](https://open.spotify.com/album/4qSrt7pEW5Rqy5EL3RuHCz) | 3:47 | 2025-03-13 |  |
 | [Watashito hitotsuno shinnzouwo](https://open.spotify.com/track/3Nqm8nsZMEbHDVeKauDSmv) | [MASA WORKS DESIGN](https://open.spotify.com/artist/4KCNieFVZXwH2iZLX2D0cF) | [ADULT](https://open.spotify.com/album/4qSrt7pEW5Rqy5EL3RuHCz) | 3:43 | 2025-03-13 |  |
 | [Whirling of Leaves and Petals](https://open.spotify.com/track/0miJVuI8pfzFtkj37IZYUO) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 1:49 | 2025-03-14 |  |

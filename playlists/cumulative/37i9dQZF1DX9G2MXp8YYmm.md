@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Emre Fel
 
-774 songs - 1 day 15 hr 28 min
+775 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [O Kapı Kapandı](https://open.spotify.com/track/6pvgDOs4Ekl7UiF76yXEek) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [O Kapı Kapandı](https://open.spotify.com/album/4eCD2ParWU9MPOsmspFXoy) | 2:52 | 2025-11-06 | 2025-11-14 |
 | [Odalar Soğuk](https://open.spotify.com/track/5Fb3ND9grQeAY9hb9WKE4v) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Odalar Soğuk](https://open.spotify.com/album/3HIGefGhLWPy6XgqLzVj6t) | 2:59 | 2025-12-11 | 2026-01-19 |
 | [Olacak Gibi Değil](https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Olacak Gibi Değil](https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo) | 3:09 | 2026-04-09 |  |
+| [Olan Bana Oldu](https://open.spotify.com/track/2hTXu8vbAi0BGGNfoacG3T) | [Müslüm Gürses](https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr), [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Olan Bana Oldu](https://open.spotify.com/album/0UtEPcN0od03RTJlvRlKB2) | 3:23 | 2026-10-20 |  |
 | [Olan Oldu](https://open.spotify.com/track/62X0aS5kJGVuQV6ei4cVk4) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Olan Oldu](https://open.spotify.com/album/3MVJianAjvMi16H5QPvLrB) | 2:49 | 2026-02-26 | 2026-03-06 |
 | [Olay](https://open.spotify.com/track/1DTCBjrbAeW6DOMvJKb2VE) | [Atiye](https://open.spotify.com/artist/56g1u3Bu0S5072aksxyBei) | [Olay](https://open.spotify.com/album/3UryqlIpzKvQcAn8ke4V4B) | 2:38 | 2026-09-22 | 2026-10-07 |
 | [Olmaz Senden](https://open.spotify.com/track/3uhGsSTBXOncVptR9nEOvJ) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Olmaz Senden](https://open.spotify.com/album/63Phykg9euTwthd6h3rAKE) | 2:56 | 2024-12-05 | 2024-12-15 |
@@ -734,7 +735,7 @@
 | [Yıkılmayız Öyle](https://open.spotify.com/track/7JaJ9XbLEaCGvFsY4cxkAJ) | [İdo Tatlıses](https://open.spotify.com/artist/2OWh9iyVeIqJm04kwcaArP) | [Yıkılmayız Öyle](https://open.spotify.com/album/5hzKdDrcKcaZUGENPKMaFW) | 3:14 | 2026-08-20 |  |
 | [Yıllar Sonra Ne Güzel Olmuşsun](https://open.spotify.com/track/2BigllsJaELRIdoog1fDCO) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:06 | 2024-07-11 | 2024-07-27 |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-01 | 2024-08-15 |
-| [Zamparanın Ölümü](https://open.spotify.com/track/4duuUHfDDSmQ2XlWDbD2OY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg), [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Zamparanın Ölümü](https://open.spotify.com/album/0mhlwU3kw5aXyNNOUTAZqa) | 4:12 | 2026-09-29 |  |
+| [Zamparanın Ölümü](https://open.spotify.com/track/4duuUHfDDSmQ2XlWDbD2OY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg), [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Zamparanın Ölümü](https://open.spotify.com/album/0mhlwU3kw5aXyNNOUTAZqa) | 4:12 | 2026-09-29 | 2026-10-27 |
 | [Zarf](https://open.spotify.com/track/0YOQGvIBJMYSylAD10tW6X) | [Erol Evgin](https://open.spotify.com/artist/6zzBsqAEDo53s2dSeZzWvo) | [Zarf](https://open.spotify.com/album/6Vs3alB3ZQJtMxqStSVho4) | 4:02 | 2026-07-23 | 2026-08-07 |
 | [Zehir](https://open.spotify.com/track/6YivIuIiz8YMWmqQUj2t8z) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Zehir](https://open.spotify.com/album/5XaXCqJkXl8dQjv4ojVIi8) | 3:09 | 2025-03-06 | 2025-03-14 |
 | [Zehir \- Motive Remix](https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [manifestival \(deluxe\)](https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL) | 3:52 | 2025-09-04 | 2026-03-20 |

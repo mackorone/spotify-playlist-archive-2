@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 604 likes - 63 songs - 4 hr 0 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 608 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 61 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
 | 62 | [Quiero irme de aca](https://open.spotify.com/track/76MovDHLzCfqKoPZRxLPWG) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Disco Chulengo](https://open.spotify.com/album/33rrbWOnJKy0pEDCQDbFDH) | 1:56 |
 | 63 | [Rhoads](https://open.spotify.com/track/7HoeaXhjgR8M9rd6B6vD9R) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 3:03 |
+| 64 | [The Runaround](https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [The Runaround](https://open.spotify.com/album/7bRIOQfdUKMVvBcnkfpzZJ) | 3:31 |
+| 65 | [Only For Me](https://open.spotify.com/track/0cweQVokFrhr2JJEdmjhgt) | [Vexica](https://open.spotify.com/artist/20bBvMB0gByCF87L93JTal) | [Only For Me](https://open.spotify.com/album/0RucmikP6koH13GgT8vG7e) | 2:57 |
+| 66 | [The Tortoise](https://open.spotify.com/track/6dslvv371VJukIILkmBdtm) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Reptile Wisdom](https://open.spotify.com/album/2vvs96HnDXtVg9OQ0mB9oz) | 1:58 |
 
-Snapshot ID: `AAACVwjEFkKTjDZTBugR23VU42/JV11C`
+Snapshot ID: `AAACWkJ6gjo5HsTKgev0HqaF+t6/j3DX`

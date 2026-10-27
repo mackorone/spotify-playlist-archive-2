@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,256 songs - 3 day 9 hr 20 min
+1,260 songs - 3 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 | 2025-08-08 |  |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-02-07 | 2024-04-05 |
 | [Femme Fatale](https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:10 | 2026-01-01 |  |
+| [Fidelity](https://open.spotify.com/track/2M3zJ1qV61X149Oobd5di1) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/0n4cWtI6rdtN1IftVfp1oh) | 3:46 | 2026-10-26 |  |
 | [Fierce Resource Allocation](https://open.spotify.com/track/7iTYbcuDNMnhR0fstPHAp7) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [The Orlando Sentinel](https://open.spotify.com/album/3fN9ksNkNQcYcwXFuyVe6i) | 3:36 | 2026-05-06 | 2026-05-08 |
 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 | 2024-01-03 |  |
 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 | 2025-11-17 | 2026-03-20 |
@@ -743,6 +744,7 @@
 | [Nizakupanga Ngozi](https://open.spotify.com/track/5mT3AFbNTqUYIczEkK7BJF) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3), [Paul Ngozi](https://open.spotify.com/artist/0yIAVJQZARmrPX30gG4Vfk) | [45,000 Volts](https://open.spotify.com/album/2A4RVobKY6UiftPJiLkGgr) | 6:16 | 2026-06-29 |  |
 | [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 | 2024-12-27 | 2024-12-29 |
 | [NO QUESTIONS ASKED](https://open.spotify.com/track/1OzmA3aBR7QK94L2tReAeD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:59 | 2025-08-12 |  |
+| [NO QUITTER](https://open.spotify.com/track/7M5u29tvNh3MjbL2EFhjXn) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [CITIZEN'S ARREST](https://open.spotify.com/album/6X8fv6u0sNuubwuev2M1eg) | 1:58 | 2026-10-26 |  |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2024-03-24 |  |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2023-06-22 | 2023-07-11 |
 | [Not Broken](https://open.spotify.com/track/5X5rDwKQOnxwJbrDzBt4vf) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [And The Voice Said](https://open.spotify.com/album/2IBArX0JnPTNVhJ1tVbGoo) | 3:22 | 2026-04-08 |  |
@@ -768,6 +770,7 @@
 | [Oncle Jazz](https://open.spotify.com/track/204t5SErksNRHRhU52g5JF) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 0:57 | 2023-08-19 | 2023-08-28 |
 | [One More Chance \- 2018 Remaster](https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually \(2018 Remaster\)](https://open.spotify.com/album/0p5QwhEke5P9mFY4CY9u4j) | 5:31 | 2023-08-04 | 2024-01-22 |
 | [One Tiny Flower](https://open.spotify.com/track/5KC9mJ9jRDbGOHzMmINjAl) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 6:20 | 2025-10-10 | 2025-10-17 |
+| [Only Girl](https://open.spotify.com/track/1IjFsLye5xTyYD3UkMXPCR) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 3:36 | 2026-10-26 |  |
 | [Only If](https://open.spotify.com/track/7wNAM0qzErN5Dr9uV6B3fW) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 1:40 | 2023-11-08 |  |
 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 | 2025-03-29 |  |
 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 | 2024-02-24 | 2025-10-17 |
@@ -834,6 +837,7 @@
 | [Poor You](https://open.spotify.com/track/0622aJvNezLY5HG5MEnXoF) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [Hi How Are You](https://open.spotify.com/album/2wZcpjsg8eNUVqY324mFu5) | 2:03 | 2025-03-25 | 2025-03-30 |
 | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/0bklLrIusZYrRVRj7rOYUv) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 3:50 | 2026-06-22 |  |
 | [Porcelain \- 2014 Remastered Version](https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play \(2014 Remastered Version\)](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD) | 4:02 | 2024-02-26 | 2024-03-02 |
+| [Posters](https://open.spotify.com/track/7CSEImi7wq3uzOIg1go5Yj) | [Jeffrey Lewis DNU](https://open.spotify.com/artist/4HAZsKeTudGsYd978p7BKy), [Jack Lewis](https://open.spotify.com/artist/6RTpX8f2rtG20Z7GAyZbfq) | [City & Eastern Songs](https://open.spotify.com/album/6LprZiFVkf1egB6zr0W2SZ) | 2:55 | 2026-10-27 |  |
 | [Powderfinger \- 2016 Remaster](https://open.spotify.com/track/5F1CxsOXX6altKaKlEPuox) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Rust Never Sleeps](https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ) | 5:30 | 2024-03-22 | 2025-10-10 |
 | [Prayer Man](https://open.spotify.com/track/5bwX27BYWQDeUj5qVCTGc6) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:38 | 2024-09-21 |  |
 | [Pre \(feat\. SK La' Flare\)](https://open.spotify.com/track/4B31QOL13iBeuIsaGD20BS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Sk La Flare](https://open.spotify.com/artist/5punRQvOjE5COQqm6JRLhx) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:52 | 2023-08-20 |  |

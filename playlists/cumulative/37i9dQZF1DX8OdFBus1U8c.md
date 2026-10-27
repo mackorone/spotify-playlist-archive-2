@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-602 songs - 1 day 6 hr 51 min
+604 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 | 2023-09-25 | 2026-06-20 |
 | [Kibr](https://open.spotify.com/track/5SakZ21qJWrQ6QVJzcwgOk) | [X\_SAAMBRO](https://open.spotify.com/artist/2G7khiorjSizxWGd4zorgr) | [Kibr](https://open.spotify.com/album/4XeEf6WlJwEHVzVgXd8F91) | 2:42 | 2025-03-25 | 2025-05-23 |
 | [Kilippattu](https://open.spotify.com/track/2BsqpmOiRP2bMRcOGpkQIT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Kilippattu](https://open.spotify.com/album/2987ZN6ldWDnTomTM8rICN) | 2:33 | 2022-08-29 | 2025-02-25 |
+| [Killadi Gang](https://open.spotify.com/track/5jtuUb0VAYxjPNsDENybtQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB), [Deepak Ram](https://open.spotify.com/artist/4ggPolukmEamGdgKVjEbZQ) | [Jailer 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h0Xj0wl3zntndzXuTKZOx) | 2:40 | 2026-10-26 |  |
 | [Kimothi Albani](https://open.spotify.com/track/4Sx5donCGNszVaWxcYPKta) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Chokli rapper](https://open.spotify.com/artist/23ViDUNmZ4tkHuCSEpmcvC) | [Kimothi Albani](https://open.spotify.com/album/0ssRGJFqQYkjZgk27xQPmT) | 2:21 | 2025-06-20 | 2025-08-07 |
 | [Kinaav](https://open.spotify.com/track/2DY4FBEEsc4BNIeYZ3H44Z) | [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [Laika Jamal](https://open.spotify.com/artist/6j3Q8cauUMoJAGGTfdYShD) | [Kinaav](https://open.spotify.com/album/0xei0O3KiIu64pj9i0s4Wt) | 3:18 | 2025-11-13 | 2025-11-21 |
 | [King of Kotha \- Title Track](https://open.spotify.com/track/1eDHz1S9HJYfBbI2UW7yvU) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 3:02 | 2023-08-23 | 2024-03-18 |
@@ -582,6 +583,7 @@
 | [VELICHAM](https://open.spotify.com/track/2GLMiM7B6hpFWQrGGsQDvI) | [Dilthu](https://open.spotify.com/artist/1SEOpORjLaRtDiQE8UnMAW), [BAXC](https://open.spotify.com/artist/1vmbJ7sRXrAaT0ojZfrlBC) | [VELICHAM](https://open.spotify.com/album/0yQ6SYw2jQ6SFHn92Grkm8) | 2:00 | 2025-02-17 | 2025-05-08 |
 | [VELLI](https://open.spotify.com/track/78gntht2AtRT1xXIKnZG17) | [HIMSRA](https://open.spotify.com/artist/5A7K5qxMDb4frXxSGkv8Na) | [VELLI](https://open.spotify.com/album/06lYQFfzaLr5RTSO0IW2mq) | 1:56 | 2025-02-17 | 2025-03-18 |
 | [Venjarippu](https://open.spotify.com/track/7F02EEb6hTjG4y7Md3hJvx) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:52 | 2023-07-23 | 2023-08-22 |
+| [Veramaari](https://open.spotify.com/track/2beaJVRktHtbQUSUScEFPA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB), [Deepak Ram](https://open.spotify.com/artist/4ggPolukmEamGdgKVjEbZQ) | [Jailer 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h0Xj0wl3zntndzXuTKZOx) | 2:32 | 2026-10-26 |  |
 | [Vere Level](https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Vere Level](https://open.spotify.com/album/1JrVlSYxmfdrTcPou5Urnc) | 3:34 | 2022-06-23 | 2024-04-09 |
 | [Veri](https://open.spotify.com/track/1JpXGQStxGBkoYWy9GAvGK) | [H3M](https://open.spotify.com/artist/6Rclnuo3us46pLON3E6fMU), [Farsin Sidhu](https://open.spotify.com/artist/37fg491wY02CS172sygshu) | [Veri](https://open.spotify.com/album/7AnODyCOG40AYSVSXifjJX) | 2:42 | 2025-04-28 | 2025-06-07 |
 | [Vetta](https://open.spotify.com/track/2arPkM4TUvhePWO16doH7t) | [dh](https://open.spotify.com/artist/6ecrtFDwuTveo5XZcrsY00), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Vetta](https://open.spotify.com/album/34aim3BW6yoqPbrW6wKECB) | 2:45 | 2025-06-12 | 2025-07-31 |

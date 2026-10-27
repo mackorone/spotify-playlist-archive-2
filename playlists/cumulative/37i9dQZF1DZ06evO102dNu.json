@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Sinatra At The Sands - 60th Anniversary",
+        "url": "https://open.spotify.com/album/4HqxECORvwwBuD01A9zAVT"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161573,
+      "name": "Fly Me To The Moon - Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show",
+      "url": "https://open.spotify.com/track/6cVtxsKo5SC9Z3IEfw6W54"
+    },
+    {
+      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 201866,
       "name": "Rain In My Heart",
       "url": "https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q"

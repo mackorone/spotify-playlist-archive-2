@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,447 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,464 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 53 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 |
 | 54 | [All I Remember](https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs) | 3:52 |
 | 55 | [Follow The Light](https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Follow The Light](https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6) | 2:39 |
-| 56 | [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 |
-| 57 | [All Through The Day](https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP) | [Las Los](https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1) | [All Through The Day](https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS) | 3:02 |
+| 56 | [All Through The Day](https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP) | [Las Los](https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1) | [All Through The Day](https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS) | 3:02 |
+| 57 | [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 |
 | 58 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 |
 | 59 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 |
 | 60 | [The Games You Play](https://open.spotify.com/track/0aNuEZR90yqo7r63G6ErRW) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Games You Play](https://open.spotify.com/album/4M1RBdrh3RgLTi01x2qHhc) | 2:34 |
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 68 | [Open the Gates](https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu) | [Irreversible Entanglements](https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89) | [Open the Gates](https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh) | 2:39 |
 | 69 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
 | 70 | [MERCY](https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 7:00 |
-| 71 | [Rave Predator](https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU) | [Shed](https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ) | [Rave Echoes](https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6) | 4:32 |
-| 72 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 |
+| 71 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 |
+| 72 | [Rave Predator](https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU) | [Shed](https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ) | [Rave Echoes](https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6) | 4:32 |
 | 73 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 |
 | 74 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 |
-| 75 | [Park](https://open.spotify.com/track/0OhXb4TAocAWYio3TmKUt6) | [Korobu](https://open.spotify.com/artist/4HE8DeV0LzecMQthc6ZPRA) | [K for Key](https://open.spotify.com/album/0qXFTcccbDaYt52bSnlRMf) | 4:04 |
-| 76 | [NIGHT CRAWLING](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NIGHT CRAWLING](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 |
+| 75 | [NIGHT CRAWLING](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NIGHT CRAWLING](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 |
+| 76 | [Park](https://open.spotify.com/track/0OhXb4TAocAWYio3TmKUt6) | [Korobu](https://open.spotify.com/artist/4HE8DeV0LzecMQthc6ZPRA) | [K for Key](https://open.spotify.com/album/0qXFTcccbDaYt52bSnlRMf) | 4:04 |
 | 77 | [Windows Open](https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs) | 5:18 |
 | 78 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
 | 79 | [Where To Put The Pain](https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Where To Put The Pain](https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai) | 3:54 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 91 | [Itchy](https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Itchy](https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI) | 3:12 |
 | 92 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
 | 93 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
-| 94 | [Heat!](https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:47 |
-| 95 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
+| 94 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
+| 95 | [Heat!](https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:47 |
 | 96 | [Life Drummer](https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Life Drummer](https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ) | 2:38 |
-| 97 | [Go On](https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O) | [a.s.o.](https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa) | 2:54 |
-| 98 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |
+| 97 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |
+| 98 | [Go On](https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O) | [a.s.o.](https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa) | 2:54 |
 | 99 | [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 |
 | 100 | [An Embroidery](https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [An Embroidery](https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy) | 4:09 |
 

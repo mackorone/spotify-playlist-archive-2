@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,916 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,908 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 22 | [VAMPIRE](https://open.spotify.com/track/4ce5IXqCHpiZWqy5s5CVEc) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD) | [VAMPIRE](https://open.spotify.com/album/476SskLERv2SGcicz0wl5m) | 2:32 |
 | 23 | [pull u right thru](https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [pull u right thru](https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB) | 3:37 |
 | 24 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
-| 25 | [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 |
-| 26 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
-| 27 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
-| 28 | [think about you](https://open.spotify.com/track/4CqNwzL5J0IYeh0HWhq9mA) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [SoLow](https://open.spotify.com/artist/3l2gXSj6vB1lvMsrAEG7WU) | [think about you](https://open.spotify.com/album/71ivYTmevXYJsCLcoFIxoD) | 2:40 |
+| 25 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
+| 26 | [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 |
+| 27 | [think about you](https://open.spotify.com/track/4CqNwzL5J0IYeh0HWhq9mA) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [SoLow](https://open.spotify.com/artist/3l2gXSj6vB1lvMsrAEG7WU) | [think about you](https://open.spotify.com/album/71ivYTmevXYJsCLcoFIxoD) | 2:40 |
+| 28 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
 | 29 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
 | 30 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 31 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |

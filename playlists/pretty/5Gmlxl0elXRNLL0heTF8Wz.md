@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5Gmlxl0elXRNLL0heTF8Wz.md) - [plain]
 
 > Cheerful classical music to wake up with or to accompany a leisurely breakfast\. Even if the sun isn’t shining it seems like it does! <a href="http://www.sinfinimusic.com/nl">Discover more classical music on Classics To Go.</a>
 
-[Classics To Go](https://open.spotify.com/user/sinfinimusic.nl) - 9,896 likes - 103 songs - 5 hr 31 min
+[Classics To Go](https://open.spotify.com/user/sinfinimusic.nl) - 9,896 likes - 104 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,6 @@ pretty - [cumulative](/playlists/cumulative/5Gmlxl0elXRNLL0heTF8Wz.md) - [plain]
 | 101 | [Messiah, HWV 56 / Pt\. 1: Pifa \(Pastoral Symphony\)](https://open.spotify.com/track/45TVK9qQVnO6QsltwzZf73) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Academy of Ancient Music](https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf), [Christopher Hogwood](https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL) | [Christmas Concertos \- Corelli & Torelli](https://open.spotify.com/album/2Pe29bVlTdVStLx64yDmNs) | 2:45 |
 | 102 | [Les Goûts\-réünis \- Concert No\. 14 in D minor: 2\. Allemande](https://open.spotify.com/track/3i6p1afYLffgY32NJXJC9C) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Les Talens Lyriques](https://open.spotify.com/artist/7rfKdyx8vflt0A81D6phEQ), [Christophe Rousset](https://open.spotify.com/artist/5JYgjQKgcKOCWvsMztDF2z) | [Couperin, F.: Les Goûts\-Réünis](https://open.spotify.com/album/0GIReVm4dv3wTLtwcNmo1x) | 1:55 |
 | 103 | [Les folies d'Espagne "Couplets de folies" \(Transcr\. Horsch for Recorder & Lute\)](https://open.spotify.com/track/5iBsXe6qqKp30ySXTK0Epe) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Thomas Dunford](https://open.spotify.com/artist/7ICHkzLMTkSFuLwyzXI5i1) | [Baroque Journey](https://open.spotify.com/album/0AW4fpLsKfXrFtfi8yXRYG) | 5:23 |
+| 104 | [Spiritus sanctus vivificans \(Arr\. Lawson\)](https://open.spotify.com/track/69QDQui8YC19fsB27U04Bw) | [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB) | [SHINE](https://open.spotify.com/album/1SJa9REVG4dWeGMWTMB9Rt) | 3:11 |
 
-Snapshot ID: `AAACypPc8MIxlkiRS2y4Lf1m4jvYU67c`
+Snapshot ID: `AAACy8G9AAcs6KAAjI3oFF4LbYhed2+5`

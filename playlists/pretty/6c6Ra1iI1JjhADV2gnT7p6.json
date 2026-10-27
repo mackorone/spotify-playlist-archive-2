@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60661,
+  "num_followers": 60659,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABlWrP8Gw6OW0I7s5GeY4LljjmqORA7",
+  "snapshot_id": "AABlcjfNDgz6WGhEveBdMb0R5gSTPk1P",
   "tracks": [
     {
       "added_at": "2026-10-25 06:33:10",
@@ -6159,6 +6159,54 @@
     {
       "added_at": "2026-10-17 08:23:19",
       "album": {
+        "name": "Post Clients",
+        "url": "https://open.spotify.com/album/3TPJLeu55g31Ow3Ut8F5ba"
+      },
+      "artists": [
+        {
+          "name": "Post Clients",
+          "url": "https://open.spotify.com/artist/17epO52VTK1ItWIlUtNSDQ"
+        }
+      ],
+      "duration_ms": 202713,
+      "name": "Nobody Was Right",
+      "url": "https://open.spotify.com/track/75ifCD97O1H1InER8ZPlVo"
+    },
+    {
+      "added_at": "2026-10-17 08:23:19",
+      "album": {
+        "name": "DUMMY",
+        "url": "https://open.spotify.com/album/7y7RXk5NlaMhQD7AvcWjTL"
+      },
+      "artists": [
+        {
+          "name": "Task Manager",
+          "url": "https://open.spotify.com/artist/5PmwS1J0fgjHdF8hYAO0hN"
+        }
+      ],
+      "duration_ms": 238537,
+      "name": "DUMMY",
+      "url": "https://open.spotify.com/track/5833ZF5dI3pHU71eTH9hBj"
+    },
+    {
+      "added_at": "2026-10-17 08:23:19",
+      "album": {
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/2tvxiIC0UYT4zUKuzp92g4"
+      },
+      "artists": [
+        {
+          "name": "Green Eyes, Witch Hands",
+          "url": "https://open.spotify.com/artist/5aS48dErr9DKZGr9O8JCMg"
+        }
+      ],
+      "duration_ms": 132072,
+      "name": "Rughook",
+      "url": "https://open.spotify.com/track/7pdvYVAuJW5Lnm0b71267u"
+    },
+    {
+      "added_at": "2026-10-17 08:23:19",
+      "album": {
         "name": "Believe You Me",
         "url": "https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8"
       },
@@ -8799,22 +8847,6 @@
     {
       "added_at": "2026-10-17 08:23:19",
       "album": {
-        "name": "Lightweight",
-        "url": "https://open.spotify.com/album/0vAmIlk9mRRibWw7BjrLck"
-      },
-      "artists": [
-        {
-          "name": "Wisoff",
-          "url": "https://open.spotify.com/artist/5k7JnRmCNoxBkyw5VFurmj"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lightweight",
-      "url": "https://open.spotify.com/track/7ALcwuWBjAEm4l0JeRMrNg"
-    },
-    {
-      "added_at": "2026-10-17 08:23:19",
-      "album": {
         "name": "Hear Me Now",
         "url": "https://open.spotify.com/album/3bKLVgYL89KiRoJsY5v313"
       },
@@ -8827,6 +8859,22 @@
       "duration_ms": 206500,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/7xT8r6VEEcjH3h4uj9oANF"
+    },
+    {
+      "added_at": "2026-10-17 08:23:19",
+      "album": {
+        "name": "Lightweight",
+        "url": "https://open.spotify.com/album/0vAmIlk9mRRibWw7BjrLck"
+      },
+      "artists": [
+        {
+          "name": "Wisoff",
+          "url": "https://open.spotify.com/artist/5k7JnRmCNoxBkyw5VFurmj"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lightweight",
+      "url": "https://open.spotify.com/track/7ALcwuWBjAEm4l0JeRMrNg"
     },
     {
       "added_at": "2026-10-17 08:23:19",
@@ -8847,18 +8895,18 @@
     {
       "added_at": "2026-10-17 08:23:19",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/54QQbJgusUWZuvG47NeWd6"
+        "name": "This Was Once Fields",
+        "url": "https://open.spotify.com/album/6Wp9a8Tc1jhVwGrk2toMnY"
       },
       "artists": [
         {
-          "name": "Bain Marie",
-          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+          "name": "Gently Tender",
+          "url": "https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc"
         }
       ],
-      "duration_ms": 178232,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0VKAG0FTqxl7GbSPTWUH6e"
+      "duration_ms": 294573,
+      "name": "City Of The Beast",
+      "url": "https://open.spotify.com/track/4C6sf3W24EUkfLNIRPHZ9q"
     },
     {
       "added_at": "2026-10-17 08:23:19",
@@ -8915,6 +8963,22 @@
     {
       "added_at": "2026-10-17 08:23:19",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/54QQbJgusUWZuvG47NeWd6"
+      },
+      "artists": [
+        {
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+        }
+      ],
+      "duration_ms": 178232,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0VKAG0FTqxl7GbSPTWUH6e"
+    },
+    {
+      "added_at": "2026-10-17 08:23:19",
+      "album": {
         "name": "Girl lets go",
         "url": "https://open.spotify.com/album/5a61xr3VxLoFZjmJnBcwYV"
       },
@@ -8963,22 +9027,6 @@
       "duration_ms": 137950,
       "name": "THE BATH HOUSE",
       "url": "https://open.spotify.com/track/2mPCKLGY9p4PAEaxpC9Ifs"
-    },
-    {
-      "added_at": "2026-10-17 08:23:19",
-      "album": {
-        "name": "Post Clients",
-        "url": "https://open.spotify.com/album/3TPJLeu55g31Ow3Ut8F5ba"
-      },
-      "artists": [
-        {
-          "name": "Post Clients",
-          "url": "https://open.spotify.com/artist/17epO52VTK1ItWIlUtNSDQ"
-        }
-      ],
-      "duration_ms": 202713,
-      "name": "Nobody Was Right",
-      "url": "https://open.spotify.com/track/75ifCD97O1H1InER8ZPlVo"
     },
     {
       "added_at": "2026-10-17 08:23:19",
@@ -9051,54 +9099,6 @@
       "duration_ms": 214754,
       "name": "lighthouses",
       "url": "https://open.spotify.com/track/4eYrd9fzOsz9MRLMWjjBmJ"
-    },
-    {
-      "added_at": "2026-10-17 08:23:19",
-      "album": {
-        "name": "DUMMY",
-        "url": "https://open.spotify.com/album/7y7RXk5NlaMhQD7AvcWjTL"
-      },
-      "artists": [
-        {
-          "name": "Task Manager",
-          "url": "https://open.spotify.com/artist/5PmwS1J0fgjHdF8hYAO0hN"
-        }
-      ],
-      "duration_ms": 238537,
-      "name": "DUMMY",
-      "url": "https://open.spotify.com/track/5833ZF5dI3pHU71eTH9hBj"
-    },
-    {
-      "added_at": "2026-10-17 08:23:19",
-      "album": {
-        "name": "Evil Twin",
-        "url": "https://open.spotify.com/album/2tvxiIC0UYT4zUKuzp92g4"
-      },
-      "artists": [
-        {
-          "name": "Green Eyes, Witch Hands",
-          "url": "https://open.spotify.com/artist/5aS48dErr9DKZGr9O8JCMg"
-        }
-      ],
-      "duration_ms": 132072,
-      "name": "Rughook",
-      "url": "https://open.spotify.com/track/7pdvYVAuJW5Lnm0b71267u"
-    },
-    {
-      "added_at": "2026-10-17 08:23:19",
-      "album": {
-        "name": "This Was Once Fields",
-        "url": "https://open.spotify.com/album/6Wp9a8Tc1jhVwGrk2toMnY"
-      },
-      "artists": [
-        {
-          "name": "Gently Tender",
-          "url": "https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "City Of The Beast",
-      "url": "https://open.spotify.com/track/4C6sf3W24EUkfLNIRPHZ9q"
     },
     {
       "added_at": "2026-10-17 08:23:19",
@@ -15735,6 +15735,22 @@
     {
       "added_at": "2026-10-02 13:25:42",
       "album": {
+        "name": "I Fight Evil",
+        "url": "https://open.spotify.com/album/4HdOKxiYVUuUokAHSsXcnm"
+      },
+      "artists": [
+        {
+          "name": "Green Eyes, Witch Hands",
+          "url": "https://open.spotify.com/artist/5aS48dErr9DKZGr9O8JCMg"
+        }
+      ],
+      "duration_ms": 180875,
+      "name": "I Fight Evil",
+      "url": "https://open.spotify.com/track/3HTC8n3EoORNCzryNfGOUH"
+    },
+    {
+      "added_at": "2026-10-02 13:25:42",
+      "album": {
         "name": "Just Desserts",
         "url": "https://open.spotify.com/album/1EaAANs1hfzQZ9S56cNnbX"
       },
@@ -15747,22 +15763,6 @@
       "duration_ms": 199416,
       "name": "Team Player",
       "url": "https://open.spotify.com/track/37iMU7aVDpmOqzRXPeTDsW"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/6qMZEfuWovb4MGzewi3RLY"
-      },
-      "artists": [
-        {
-          "name": "Sirintip",
-          "url": "https://open.spotify.com/artist/6ZUFztmnNpggjzUXH4irFx"
-        }
-      ],
-      "duration_ms": 215833,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/2FCsTqs3qEAcklaRzSPfRb"
     },
     {
       "added_at": "2026-10-02 13:25:42",
@@ -15787,22 +15787,6 @@
     {
       "added_at": "2026-10-02 13:25:42",
       "album": {
-        "name": "False Start",
-        "url": "https://open.spotify.com/album/33nc9qwpGnza77qfzq3Ky3"
-      },
-      "artists": [
-        {
-          "name": "tickertape",
-          "url": "https://open.spotify.com/artist/2aXOm3ef1Xel4vNYKCRWdS"
-        }
-      ],
-      "duration_ms": 263389,
-      "name": "Crocodile Song",
-      "url": "https://open.spotify.com/track/0RIh565Ij5Q81E6fLsmGiL"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
         "name": "Be Careful II",
         "url": "https://open.spotify.com/album/6YVAit02fSdYMSf53tGQSh"
       },
@@ -15819,54 +15803,6 @@
     {
       "added_at": "2026-10-02 13:25:42",
       "album": {
-        "name": "Static Pleasure",
-        "url": "https://open.spotify.com/album/3vNeKX5pAZxYLqpv4fbsPh"
-      },
-      "artists": [
-        {
-          "name": "Mono Mochi",
-          "url": "https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF"
-        }
-      ],
-      "duration_ms": 246926,
-      "name": "Lessons In Love (I've Never Learned)",
-      "url": "https://open.spotify.com/track/4ddRYdki7wBgL1JfNWlBBj"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "Trillions",
-        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Trillions",
-      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "I Fight Evil",
-        "url": "https://open.spotify.com/album/4HdOKxiYVUuUokAHSsXcnm"
-      },
-      "artists": [
-        {
-          "name": "Green Eyes, Witch Hands",
-          "url": "https://open.spotify.com/artist/5aS48dErr9DKZGr9O8JCMg"
-        }
-      ],
-      "duration_ms": 180875,
-      "name": "I Fight Evil",
-      "url": "https://open.spotify.com/track/3HTC8n3EoORNCzryNfGOUH"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
         "name": "dream",
         "url": "https://open.spotify.com/album/1gs1dGyvmXwfahdtjGqvJK"
       },
@@ -15879,38 +15815,6 @@
       "duration_ms": 193602,
       "name": "dream",
       "url": "https://open.spotify.com/track/7F8W8CzG7Q61v09z90rIAF"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/17bxac1l7I8NpzzWjwLOuB"
-      },
-      "artists": [
-        {
-          "name": "Field Season",
-          "url": "https://open.spotify.com/artist/336C8aR7fiHlghwYJRrvUE"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5i5ugJFYEeSyrYpU2zTHYA"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/2hcrpjcRqiwmRHKjFZexum"
-      },
-      "artists": [
-        {
-          "name": "khalique",
-          "url": "https://open.spotify.com/artist/14KXvvLLT0aIUOhNKaYlRq"
-        }
-      ],
-      "duration_ms": 237446,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7dBUkOPtPAVcFxyByaER21"
     },
     {
       "added_at": "2026-10-02 13:25:42",
@@ -15987,22 +15891,6 @@
     {
       "added_at": "2026-10-02 13:25:42",
       "album": {
-        "name": "Still A Smile",
-        "url": "https://open.spotify.com/album/4TZbPp4MVZHEpbf3ZswdVB"
-      },
-      "artists": [
-        {
-          "name": "Chayne",
-          "url": "https://open.spotify.com/artist/6F8KK9dvv7HVFnHc79itFB"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Still A Smile",
-      "url": "https://open.spotify.com/track/25bFsP7MKmrwQhD2XHWzFI"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
         "name": "The Glue",
         "url": "https://open.spotify.com/album/3cioDsbde4PtQPbBgNjbPz"
       },
@@ -16015,22 +15903,6 @@
       "duration_ms": 184000,
       "name": "The Glue",
       "url": "https://open.spotify.com/track/2pFaRHxbNqrHXE9SjrlO6w"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "1000 Sheep",
-        "url": "https://open.spotify.com/album/7x36dw1J9niSikR8yjsJww"
-      },
-      "artists": [
-        {
-          "name": "Anna Erhard",
-          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
-        }
-      ],
-      "duration_ms": 206780,
-      "name": "1000 Sheep",
-      "url": "https://open.spotify.com/track/3hfBIfJDZ1OPTIA7COD28s"
     },
     {
       "added_at": "2026-10-02 13:25:42",
@@ -16067,22 +15939,6 @@
     {
       "added_at": "2026-10-02 13:25:42",
       "album": {
-        "name": "Beaming",
-        "url": "https://open.spotify.com/album/0C2VTnvOItNASLSpvlz81j"
-      },
-      "artists": [
-        {
-          "name": "Prettier Now",
-          "url": "https://open.spotify.com/artist/1eW61crKZxOe9U2ea9sK5d"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Beaming",
-      "url": "https://open.spotify.com/track/6Gg8rV6LXyszgKvTK6pyVD"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
         "name": "Around the Light",
         "url": "https://open.spotify.com/album/0IeBKVr5XSVxKuC9g1KVFD"
       },
@@ -16111,90 +15967,6 @@
       "duration_ms": 144873,
       "name": "Ten Years",
       "url": "https://open.spotify.com/track/64fU1qC8AvQywD6Q9rF3yC"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "MURDER",
-        "url": "https://open.spotify.com/album/6TiSE48vRnRdwqvaI67tTd"
-      },
-      "artists": [
-        {
-          "name": "BERTY",
-          "url": "https://open.spotify.com/artist/3hoMLyIZtWb3cRp7H2JyQ8"
-        }
-      ],
-      "duration_ms": 214441,
-      "name": "MURDER",
-      "url": "https://open.spotify.com/track/6dSXf75FdJ4De7MNdXAjoA"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "part of me",
-        "url": "https://open.spotify.com/album/2orXzLFDFwMCS3GXkQFcAy"
-      },
-      "artists": [
-        {
-          "name": "Insimonia",
-          "url": "https://open.spotify.com/artist/3tax0ThS0W4FqC7WahaEe4"
-        },
-        {
-          "name": "yuc",
-          "url": "https://open.spotify.com/artist/12bQVQOFHbUIzpumng3k99"
-        }
-      ],
-      "duration_ms": 176647,
-      "name": "part of me",
-      "url": "https://open.spotify.com/track/7LqRgqE9yyFDGOPDR96JtP"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "DON'T FEED THE PILGRIMS",
-        "url": "https://open.spotify.com/album/2BNcGZHDp1ozwh7dADeo3B"
-      },
-      "artists": [
-        {
-          "name": "Karim",
-          "url": "https://open.spotify.com/artist/3aHN14VR2JVepWLQJwYdGc"
-        }
-      ],
-      "duration_ms": 248966,
-      "name": "RAIN",
-      "url": "https://open.spotify.com/track/3EH5QITvzvDD7zl30rsnGx"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "Is It the Same to You?",
-        "url": "https://open.spotify.com/album/378KeIDYgRoqGy6HDjhMCW"
-      },
-      "artists": [
-        {
-          "name": "Laurier",
-          "url": "https://open.spotify.com/artist/6wAXxAIRgto1fRlPXwSDGP"
-        }
-      ],
-      "duration_ms": 217998,
-      "name": "Is It the Same to You?",
-      "url": "https://open.spotify.com/track/75lcbWQd64Fbwq9Hnq8lfK"
-    },
-    {
-      "added_at": "2026-10-02 13:25:42",
-      "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/01E7rk9fe1AfuY9KyhxlCO"
-      },
-      "artists": [
-        {
-          "name": "Blu Miller",
-          "url": "https://open.spotify.com/artist/55CBUZb74vcnI9gwnuqubf"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/6bhguArKTtMjj1ta9n7TNA"
     },
     {
       "added_at": "2026-10-02 13:25:42",
@@ -16835,6 +16607,22 @@
       "duration_ms": 236931,
       "name": "To Decide",
       "url": "https://open.spotify.com/track/5NkhiimNHFZo55B8KpGCS9"
+    },
+    {
+      "added_at": "2026-10-02 13:25:42",
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6qMZEfuWovb4MGzewi3RLY"
+      },
+      "artists": [
+        {
+          "name": "Sirintip",
+          "url": "https://open.spotify.com/artist/6ZUFztmnNpggjzUXH4irFx"
+        }
+      ],
+      "duration_ms": 215833,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/2FCsTqs3qEAcklaRzSPfRb"
     },
     {
       "added_at": "2026-10-02 13:25:42",

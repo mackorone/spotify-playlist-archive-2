@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Omar Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,854 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,899 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 49 | [Si vuelvo a perderme \- Live](https://open.spotify.com/track/3tBsVowlQSETg3G8iIHmc0) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Jared Spyker](https://open.spotify.com/artist/0bW5tLziQ59hA9iN0D8pnd), [Adeliz Spyker](https://open.spotify.com/artist/6DC7chZwDQay07EhXaQslH) | [Si vuelvo a perderme \(Live\)](https://open.spotify.com/album/7f1VOagPhIhVTPosjX8dmq) | 6:47 |
 | 50 | [Abba](https://open.spotify.com/track/4RjIUNXA7h6ja9aJWgctIO) | [Deryan Manuel](https://open.spotify.com/artist/2JSKb8IQjLBJsAIakIJoBs), [Honor A Ti Music](https://open.spotify.com/artist/2lnuz71DPXIi9faGiY0u9P) | [Abba](https://open.spotify.com/album/62zIuOPDYd5sIHQKCjPfXR) | 9:23 |
 | 51 | [Canto De Libertad \(En vivo\)](https://open.spotify.com/track/7mnHFdfb18gEglNq5tI48l) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Canto De Libertad \(En vivo\)](https://open.spotify.com/album/3iXfiWnnv9ZcnsAPMxsJVl) | 4:21 |
-| 52 | [Ansiedad](https://open.spotify.com/track/4JllXz6QpYn3B7eAJZYhon) | [Janaimar](https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV) | [Ansiedad](https://open.spotify.com/album/2WMi7GmKrFxbVCCnDdSOj7) | 5:00 |
+| 52 | [Ansiedad \- Live](https://open.spotify.com/track/4JllXz6QpYn3B7eAJZYhon) | [Janaimar](https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV) | [Ansiedad \(Live\)](https://open.spotify.com/album/2WMi7GmKrFxbVCCnDdSOj7) | 5:00 |
 | 53 | [Grande y Fiel](https://open.spotify.com/track/4hoA4QAM0WLxodL6NgyhZg) | [Henry Crespo](https://open.spotify.com/artist/7eOBtY3qdqWlDR6gxjJ3l2) | [Grande y Fiel](https://open.spotify.com/album/0ho1JXYayb6hHFOJAWSNUw) | 4:00 |
 | 54 | [Sea Como Sea](https://open.spotify.com/track/7mH1dG2mYwxvLng1urk6jo) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g), [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL) | [Sea Como Sea](https://open.spotify.com/album/3G9W4gR0sSr3V54arY3QCs) | 18:31 |
 | 55 | [YAHWEH \(YA TU SABES\)](https://open.spotify.com/track/4eZ9GNAuWI14tI2Al1Ebul) | [Cash Cortes](https://open.spotify.com/artist/4PRsDz38Pho7HP2e9V4vXz) | [YAHWEH \(YA TU SABES\)](https://open.spotify.com/album/3A3jWpZNMVUsLz8YPmLNbC) | 2:58 |

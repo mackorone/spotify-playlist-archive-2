@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115899,
+  "num_followers": 115908,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -327,8 +327,8 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Como eu Te Amo Deus",
-        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
+        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 186118,
-      "name": "Como eu Te Amo Deus",
-      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
+      "duration_ms": 328768,
+      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -395,6 +395,38 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "Estou de Volta",
+        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Estou de Volta",
+      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "Como eu Te Amo Deus",
+        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 186118,
+      "name": "Como eu Te Amo Deus",
+      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Deus Ouviu (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QrGXyQn83lcGEmuHWmgXb"
       },
@@ -411,38 +443,6 @@
       "duration_ms": 262854,
       "name": "Deus Ouviu (Ao Vivo)",
       "url": "https://open.spotify.com/track/5iJsUblS3HGFWMfOK6nrHf"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 328768,
-      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "Estou de Volta",
-        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Estou de Volta",
-      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2026-09-08 19:57:09",

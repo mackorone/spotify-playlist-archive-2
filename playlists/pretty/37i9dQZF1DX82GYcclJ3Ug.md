@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: brakence
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,328 likes - 176 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,322 likes - 176 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

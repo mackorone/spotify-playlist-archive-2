@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,315 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,361 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 33 | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx) | 2:39 |
 | 34 | [Sunday Sunrise](https://open.spotify.com/track/3yn9JKlURgymXnZzl7E9ht) | [Martim Rola](https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt) | [Sunday Sunrise](https://open.spotify.com/album/3BU5kYeGA0c5DvgwP3mryt) | 3:17 |
 | 35 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
-| 36 | [Major Drop](https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Major Drop](https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk) | 3:10 |
-| 37 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
+| 36 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
+| 37 | [Major Drop](https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Major Drop](https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk) | 3:10 |
 | 38 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 |
 | 39 | [Down For You \(feat\. Jyll\)](https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Down For You \(feat\. Jyll\)](https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf) | 3:22 |
 | 40 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
-| 41 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 42 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
+| 41 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
+| 42 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 43 | [Spacer](https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Michael Anthony](https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2) | [Spacer](https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK) | 3:04 |
 | 44 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
 | 45 | [Leaving On](https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Leaving On](https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR) | 3:40 |

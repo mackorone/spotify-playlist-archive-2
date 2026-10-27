@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31330,
+  "num_followers": 31331,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABRYA1YBqbAxSxBZTpvTh8b",
+  "snapshot_id": "at1GgAAAAAB9CxFKslMqVg+0fyxv3aMo",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "26 a Go Go !!!",
-        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "GLORY DAYS",
-      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
         "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 245693,
       "name": "\u30e1\u30ed\u30b9",
       "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "GLORY DAYS",
+      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MICROCOSM",
-        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "CALLING",
-      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Moon",
         "url": "https://open.spotify.com/album/0tC9E3xjkn39oZRsKqPYQV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 224066,
       "name": "White Moon",
       "url": "https://open.spotify.com/track/6MGJHSYSQRZzthnP7tsAs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "CALLING",
+      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
     },
     {
       "added_at": null,

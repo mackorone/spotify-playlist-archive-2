@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atvPxgAAAAAE+XD7W0WKRc18FTaIepGc",
+  "snapshot_id": "at/AaAAAAAByWYCk1NI1OiRyq+d0AET3",
   "tracks": [
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "The Life of a Showgirl: The Encore",
         "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "Bigger Than Anything Ever",
         "url": "https://open.spotify.com/album/5HW7F60G04HSMK2FxxIl0s"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/4qaqamv8HnMcQX9o1GhQCy"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "She\u2019s the Best",
         "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7vXhXO3uyAer5brrrTGkTC"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "The Life of a Showgirl: The Encore",
         "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -105,23 +105,23 @@
       "url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Kiss It Kiss It",
-      "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "She\u2019s the Best",
         "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
@@ -137,71 +137,7 @@
       "url": "https://open.spotify.com/track/2AXdWir6OhjRFQ9phqp2CK"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 206164,
-      "name": "Cleveland!",
-      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "Emotion (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 207959,
-      "name": "Cut To The Feeling",
-      "url": "https://open.spotify.com/track/3sswiHyFe3eXhNknhLCLyn"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "Are You Impressed?",
-      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "JALLA",
-        "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
-      },
-      "artists": [
-        {
-          "name": "Antigoni",
-          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "JALLA",
-      "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
@@ -217,7 +153,139 @@
       "url": "https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "My System",
+        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Kiss It Kiss It",
+      "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "Emotion (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 207959,
+      "name": "Cut To The Feeling",
+      "url": "https://open.spotify.com/track/3sswiHyFe3eXhNknhLCLyn"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 206164,
+      "name": "Cleveland!",
+      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 187679,
+      "name": "Are You Impressed?",
+      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "JALLA",
+        "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
+      },
+      "artists": [
+        {
+          "name": "Antigoni",
+          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "JALLA",
+      "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
+    },
+    {
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
@@ -233,7 +301,7 @@
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "Stop The Wedding!",
         "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
@@ -249,7 +317,7 @@
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
@@ -269,10 +337,10 @@
       "url": "https://open.spotify.com/track/5Y6a6AaahaBi5ljf6hk7dF"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
@@ -280,12 +348,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 219365,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
+      "duration_ms": 203506,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "brand new chanel$",
         "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
@@ -301,7 +369,7 @@
       "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -317,7 +385,7 @@
       "url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "Hardcore Will Never Die, and Neither WIll You",
         "url": "https://open.spotify.com/album/3SjiO2vfzy7U120viFd2Je"
@@ -341,10 +409,10 @@
       "url": "https://open.spotify.com/track/3UY8ZxqhG5lBmuf4xpgOHX"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
       "artists": [
         {
@@ -352,12 +420,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
+      "duration_ms": 217160,
+      "name": "Better Than Revenge",
+      "url": "https://open.spotify.com/track/2ythurkTtSiyfK7GprJoFW"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "Retrovision",
         "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
@@ -373,7 +441,7 @@
       "url": "https://open.spotify.com/track/37INkd59pCBGx0L39TecDa"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "WE MADE PLANS & GOD LAUGHED",
         "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
@@ -389,7 +457,7 @@
       "url": "https://open.spotify.com/track/76TSauYq7489EyCQoaQ30d"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/1h2bp48lbYy5SBQe4u0ZOa"
@@ -413,55 +481,7 @@
       "url": "https://open.spotify.com/track/3rfTFA4AGu8r2BXqpjKbcf"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Better Than Revenge",
-      "url": "https://open.spotify.com/track/2ythurkTtSiyfK7GprJoFW"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "My System",
-        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "My System",
-      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": ". (...)",
-        "url": "https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 214755,
-      "name": "RED FLAG.",
-      "url": "https://open.spotify.com/track/0M7hOuDqqbrkdJXelxoSW6"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
@@ -477,40 +497,20 @@
       "url": "https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3"
     },
     {
-      "added_at": "2026-10-23 21:21:10",
+      "added_at": "2026-10-26 21:04:40",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": ". (...)",
+        "url": "https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 228800,
-      "name": "So High School",
-      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
-    },
-    {
-      "added_at": "2026-10-23 21:21:10",
-      "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
+      "duration_ms": 214755,
+      "name": "RED FLAG.",
+      "url": "https://open.spotify.com/track/0M7hOuDqqbrkdJXelxoSW6"
     }
   ],
   "unique_name": "On Repeat",

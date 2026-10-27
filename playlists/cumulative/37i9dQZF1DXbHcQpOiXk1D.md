@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-827 songs - 2 day 9 hr 31 min
+828 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [31\. Bleep \(01\)](https://open.spotify.com/track/2YB0vJrpjfXt5cQGicZdCU) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [31\. Bleep \(01\)](https://open.spotify.com/album/66STSyoTvEX0Vz3N7AxrjR) | 4:56 | 2025-03-28 | 2026-03-20 |
 | [5k](https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [edbl & friends \- JPRK](https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G) | 2:41 | 2023-04-06 | 2024-01-02 |
 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 | 2025-06-05 | 2026-10-24 |
-| [A Future Untold](https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [A Future Untold / Marwa The Mountain](https://open.spotify.com/album/7shmmsOvUVpzmxPiipmxAv) | 3:22 | 2026-01-16 |  |
+| [A Future Untold](https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [A Future Untold / Marwa The Mountain](https://open.spotify.com/album/7shmmsOvUVpzmxPiipmxAv) | 3:22 | 2026-01-16 | 2026-10-27 |
 | [Abasi Isang](https://open.spotify.com/track/5n8Ojo7PxZtMyFAx8BgPaE) | [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH) | [Ibio\-Ibio](https://open.spotify.com/album/0qIUtII533DzbMMVXmvGuC) | 4:49 | 2023-03-08 | 2024-07-22 |
 | [Abasi Isang](https://open.spotify.com/track/7g8gTedcLu4oOfqoLYNq41) | [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH) | [Abasi Isang](https://open.spotify.com/album/42tfs8qARoqq2GHauYILwp) | 4:49 | 2022-07-14 | 2022-07-29 |
 | [Abraham](https://open.spotify.com/track/7nDjW1FNWo17X6M6Cz5iI6) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Abraham](https://open.spotify.com/album/2wpSHnqMJKaFNCuIjDMYJ0) | 4:16 | 2021-12-17 | 2022-11-17 |
@@ -228,6 +228,7 @@
 | [Eye Glass](https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Show Your Face](https://open.spotify.com/album/0hCQ1KdPi8iTGuisaQzeBh) | 4:54 | 2022-02-11 | 2022-08-30 |
 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 | 2023-03-08 | 2024-06-01 |
 | [Eyes Lowered](https://open.spotify.com/track/4tlvJc74uAN61eG23u5E7k) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Eyes Lowered](https://open.spotify.com/album/2ZoUCoXKmNTQso7YaDWrRL) | 3:44 | 2026-02-06 | 2026-05-01 |
+| [Eyes On Us](https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ) | [IFULKI](https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T) | [Eyes On Us](https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz) | 3:03 | 2026-10-16 |  |
 | [Fade Away](https://open.spotify.com/track/75php8CsPxI3Gwl7eIr7KW) | [Kurtis Li](https://open.spotify.com/artist/5CE0MYU8KQ7hAGCf6wSj3L) | [In Bloom](https://open.spotify.com/album/4IgZPrzOS3Cj833Bl8O1Dn) | 5:25 | 2024-07-12 | 2024-08-30 |
 | [Fallen](https://open.spotify.com/track/1Krlt9rsWFe2rx4xDXohUp) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Fallen](https://open.spotify.com/album/6GEDmIVCjsICy3Jw4mZZD1) | 2:14 | 2022-03-24 | 2023-07-13 |
 | [Falling](https://open.spotify.com/track/6wylJQBd31qKnAtbEmrN5P) | [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Falling](https://open.spotify.com/album/4JUVXlxZJ7g1K9YQD4lnzs) | 3:21 | 2022-03-24 | 2022-04-20 |

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141922,
+  "num_followers": 141927,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
+        "name": "Knock Knock 4",
+        "url": "https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 147116,
+      "name": "Niet Genoeg (feat. Idaly)",
+      "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1VUmcEihv7XuiEnWW2b8ap"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 145986,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1osIOdkR2nn1NUTBne4e6D"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
-        "name": "Knock Knock 4",
-        "url": "https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 147116,
-      "name": "Niet Genoeg (feat. Idaly)",
-      "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "CARR\u00c9 OK",
-        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 160628,
-      "name": "CARR\u00c9 OK",
-      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "GIOVANNI II",
         "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 188880,
       "name": "KANDE (feat. La Rouge)",
       "url": "https://open.spotify.com/track/13c77IilGVzMcrOFO8rHlb"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "CARR\u00c9 OK",
+        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 160628,
+      "name": "CARR\u00c9 OK",
+      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
     },
     {
       "added_at": "2026-09-28 22:00:24",

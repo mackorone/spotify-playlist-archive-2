@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: A2O MAY\)
+> Future K\-Pop hits! \(Cover:BABYMONSTER\)
 
-1,821 songs - 4 day 1 hr 3 min
+1,822 songs - 4 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [Door](https://open.spotify.com/track/1TZDaNtU02kQpusQh0zws0) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Aria <Structure Of Sadness>](https://open.spotify.com/album/150gbib8eX8t6CblkJRS4o) | 3:08 | 2024-01-19 | 2024-02-27 |
 | [DOREMI](https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb) | 3:44 | 2025-07-16 | 2025-09-02 |
 | [Down \(feat\. Grey\)](https://open.spotify.com/track/0hCN8CN4XwpnVxCUvUuRu7) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Down](https://open.spotify.com/album/7kgyAWZE9JuzFLa93O8mgg) | 3:13 | 2021-04-22 | 2021-07-28 |
-| [DOWN WITH IT](https://open.spotify.com/track/52VfQZtkilOzX9khwY5aHM) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [MONKEY MODE](https://open.spotify.com/album/5uOZbWLWrFLPTShywsJC3b) | 2:41 | 2026-07-16 |  |
+| [DOWN WITH IT](https://open.spotify.com/track/52VfQZtkilOzX9khwY5aHM) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [MONKEY MODE](https://open.spotify.com/album/5uOZbWLWrFLPTShywsJC3b) | 2:41 | 2026-07-16 | 2026-10-27 |
 | [Dragon](https://open.spotify.com/track/1OvrBLaAmzKqSlA84RdiFy) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [ON and ON](https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX) | 3:34 | 2022-11-24 | 2023-02-10 |
 | [DRAMA](https://open.spotify.com/track/5Pixk2d6ey48MKVq5W6HWt) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:54 | 2025-03-12 | 2025-04-12 |
 | [Draw](https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Draw \(No Office Romance! X TAEMIN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po) | 4:03 | 2023-12-01 | 2024-01-17 |
@@ -820,6 +820,7 @@
 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 | 2024-01-10 | 2024-03-16 |
 | [INSIDE OUT](https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv) | 3:00 | 2025-09-08 | 2025-10-25 |
 | [INSIDE OUT](https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:17 | 2021-04-20 | 2021-07-01 |
+| [Insomnia](https://open.spotify.com/track/5jC3lBWBcVdby76sqWwqAE) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Insomnia](https://open.spotify.com/album/2PsBwKbO7xoA02NLT6TtB8) | 3:14 | 2026-10-26 |  |
 | [Interlunar](https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 2:41 | 2025-06-17 | 2025-07-17 |
 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-03 | 2026-03-04 |
 | [Into You \(My Royal Nemesis : Original Television Soundtrack\)](https://open.spotify.com/track/4rC5blu7XZkF1ApNpVsFWe) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [My Royal Nemesis, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/09Vr5ucAzWoETt4EzqmLsb) | 2:58 | 2026-06-10 | 2026-07-24 |

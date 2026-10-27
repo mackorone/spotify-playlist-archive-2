@@ -1,13 +1,29 @@
 {
   "description": "Solo beat e rime avvolgenti. Cover: Marracash",
-  "num_followers": 356248,
+  "num_followers": 356245,
   "original_name": "Mezzanotte Chill Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIR+OKURfzS01RINx/k+my9i15Ea",
+  "snapshot_id": "AAAAAMawHM4t0eiPzgzT6ozXF4Hr9bA1",
   "tracks": [
+    {
+      "added_at": "2026-10-15 23:01:04",
+      "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 229322,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
+    },
     {
       "added_at": "2026-10-15 23:01:04",
       "album": {
@@ -63,22 +79,6 @@
     {
       "added_at": "2026-10-15 23:01:04",
       "album": {
-        "name": "Lontano",
-        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 229322,
-      "name": "Lontano",
-      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
         "name": "100 MESSAGGI",
         "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
       },
@@ -123,6 +123,30 @@
       "duration_ms": 226122,
       "name": "Ansia 162",
       "url": "https://open.spotify.com/track/2ChzQPvoJcidNVv393v6H4"
+    },
+    {
+      "added_at": "2026-10-26 19:39:25",
+      "album": {
+        "name": "LA TAVOLA DELL'UMORE",
+        "url": "https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra"
+      },
+      "artists": [
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        },
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "duration_ms": 156137,
+      "name": "STARE BENE",
+      "url": "https://open.spotify.com/track/00tJHfshl9hn6SdrdCvSdH"
     },
     {
       "added_at": "2026-10-15 23:01:04",

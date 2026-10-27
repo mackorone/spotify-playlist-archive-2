@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31476,
+  "num_followers": 31484,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAClenK39Ga1Ln14DxySGj7T",
+  "snapshot_id": "at1GgAAAAAAR2AGwzBSLKVcvb3KZQ/ga",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 154931,
+      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BROWN",
         "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 271333,
       "name": "Call Your Name (feat. Sexyy Red & GloRilla)",
       "url": "https://open.spotify.com/track/484opyiuSN7OTv4Au8sv2p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
-        "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 154931,
-      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEXY",
+        "url": "https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE"
+      },
+      "artists": [
+        {
+          "name": "YOLAMASCARA",
+          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Eyes on Shiest",
         "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 143893,
       "name": "Booty Club (feat. Sexyy Red, Tay Keith)",
       "url": "https://open.spotify.com/track/04Ej3cJSaO2mZUUbagGNH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEXY",
-        "url": "https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE"
-      },
-      "artists": [
-        {
-          "name": "YOLAMASCARA",
-          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "SEXY",
-      "url": "https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc"
     },
     {
       "added_at": null,
@@ -715,42 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130612,
-      "name": "Meet The Redds (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KmlTyhLGcrgHyhqhrJ1EH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "U Kno What To Do (UKWTD)",
-        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158018,
-      "name": "U Kno What To Do (UKWTD)",
-      "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Tay Keith & Nicki Minaj)",
       "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U Kno What To Do (UKWTD)",
+        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158018,
+      "name": "U Kno What To Do (UKWTD)",
+      "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130612,
+      "name": "Meet The Redds (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KmlTyhLGcrgHyhqhrJ1EH"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IN THE CLUB (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 144708,
-      "name": "IN THE CLUB (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somethin' (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 149245,
       "name": "Somethin' (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IN THE CLUB (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 144708,
+      "name": "IN THE CLUB (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a"
     },
     {
       "added_at": null,

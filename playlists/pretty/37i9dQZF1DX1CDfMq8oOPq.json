@@ -963,30 +963,6 @@
     {
       "added_at": "2026-10-19 15:56:55",
       "album": {
-        "name": "Como que n\u00e3o fica milion\u00e1ria?",
-        "url": "https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD"
-      },
-      "artists": [
-        {
-          "name": "Soh Lopez",
-          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
-        },
-        {
-          "name": "Miranda On The Trk!",
-          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
-        },
-        {
-          "name": "Frost",
-          "url": "https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD"
-        }
-      ],
-      "duration_ms": 143735,
-      "name": "Como que n\u00e3o fica milion\u00e1ria?",
-      "url": "https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW"
-    },
-    {
-      "added_at": "2026-10-19 15:56:55",
-      "album": {
         "name": "Daria um Filme",
         "url": "https://open.spotify.com/album/53oomJcea1w6NxO9yb3Nul"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 161151,
       "name": "Daria um Filme",
       "url": "https://open.spotify.com/track/60ebdd8aFtIgcbOM9gpHgA"
+    },
+    {
+      "added_at": "2026-10-19 15:56:55",
+      "album": {
+        "name": "Como que n\u00e3o fica milion\u00e1ria?",
+        "url": "https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD"
+      },
+      "artists": [
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "Miranda On The Trk!",
+          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
+        },
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD"
+        }
+      ],
+      "duration_ms": 143735,
+      "name": "Como que n\u00e3o fica milion\u00e1ria?",
+      "url": "https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW"
     },
     {
       "added_at": "2026-10-19 15:56:55",

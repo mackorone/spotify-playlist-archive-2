@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Model ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,001 likes - 130 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,011 likes - 130 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

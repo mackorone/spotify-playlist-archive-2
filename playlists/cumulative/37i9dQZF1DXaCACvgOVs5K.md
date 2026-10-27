@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-616 songs - 1 day 12 hr 7 min
+617 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 | 2024-04-19 | 2024-07-14 |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2024-04-19 | 2024-05-17 |
 | [Cash On Cash](https://open.spotify.com/track/47jJPapQVVa28JRx6SzYR9) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [No One Knows](https://open.spotify.com/artist/0CsrD49IvI8cUEEZMLkwc4), [SARRIA](https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY) | [Cash On Cash](https://open.spotify.com/album/5xyl70wiAv4AAtWYmNheQW) | 3:43 | 2026-07-23 | 2026-09-07 |
-| [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 | 2026-07-23 |  |
+| [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 | 2026-07-23 | 2026-10-27 |
 | [Changes \(feat\. Hayze\)](https://open.spotify.com/track/5TCRUxemPlPxOVWIIk5Dsk) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Hayze](https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L) | [Changes \(feat\. Hayze\)](https://open.spotify.com/album/0HfuHJSkr3RGmUpiBcuvfo) | 4:31 | 2024-09-18 | 2024-10-05 |
 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 | 2026-06-11 |  |
 | [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 | 2026-04-10 |  |
@@ -624,5 +624,6 @@
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-08-26 | 2024-04-20 |
 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 | 2022-08-26 | 2024-04-20 |
 | [Your Dreams](https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Your Dreams](https://open.spotify.com/album/7b3qQtrbWgNkd3eKFshnWc) | 2:31 | 2022-08-26 | 2022-10-07 |
+| [Your Lovin'](https://open.spotify.com/track/4MS7dkKHDKY8cZ9zwGEjDg) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Your Lovin'](https://open.spotify.com/album/4Bfkxlb2mIQMiwvyWZvVe7) | 2:51 | 2026-10-01 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

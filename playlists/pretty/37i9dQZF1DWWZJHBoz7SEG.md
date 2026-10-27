@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Chocolate y pan de muerto listo para estos días de frio! Neton Vega y Fuerza Regida en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,521 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,572 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 2 | [Niña Mafia](https://open.spotify.com/track/1Hbh9u1DbUm2RpcTqy3ELJ) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [No Hay Ángeles Aquí](https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i) | 3:39 |
 | 3 | [Luna](https://open.spotify.com/track/4rE5Z1PsByka7Qg4FQmvbe) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Luna](https://open.spotify.com/album/5OCJpWrIVCl2CFYdt8UnVX) | 3:07 |
 | 4 | [Te Metiste](https://open.spotify.com/track/4bL1VTULBkhfYNjHWYEdM2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Homenaje Con Los Que Siempre Quise](https://open.spotify.com/album/53MSzsOd4gMw9VEeLiejOs) | 3:09 |
-| 5 | [Gimme Tha Power \(feat\. Oscar Maydon\)](https://open.spotify.com/track/6UD8SpUWsrarVJZ1n2elqa) | [Somos Frijoleros](https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4), [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Gimme Tha Power \(feat\. Oscar Maydon\)](https://open.spotify.com/album/1ORJWQ4961j7aWdtmtUoRd) | 4:00 |
+| 5 | [Gimme Tha Power \(feat\. Oscar Maydon\)](https://open.spotify.com/track/6UD8SpUWsrarVJZ1n2elqa) | [Somos Frijoleros](https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4), [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Gimme Tha Power \(feat\. Oscar Maydon\)](https://open.spotify.com/album/1ORJWQ4961j7aWdtmtUoRd) | 3:59 |
 | 6 | [Ronroneame \- Remix](https://open.spotify.com/track/2FngUUXuq3zeAa67ZrCLVi) | [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [Ronroneame \(Remix\)](https://open.spotify.com/album/13RfYUTQXZ4SNBJpRBnmLa) | 3:28 |
 | 7 | [La Medicina](https://open.spotify.com/track/7gyOFthLUrYJAZiaDrZYuI) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [Las P\*tas Aman También](https://open.spotify.com/album/5tq4nrlsKnZDElBhR9ffKt) | 2:28 |
 | 8 | [Nostalgia .0020 Cositas de mujer](https://open.spotify.com/track/2rKYBuHKIcRT2zM39AtSz2) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh) | [Nostalgia .0020 Cositas de mujer](https://open.spotify.com/album/3J3ap3MbcDse7dOzxCVq8m) | 2:52 |

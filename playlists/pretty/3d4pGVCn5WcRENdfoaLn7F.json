@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 914,
+  "num_followers": 917,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEEsWjy96NP9CtQNTmLnMcYRo2fGAG",
+  "snapshot_id": "AAAEFGeayu4MUIKsrCxkpZhUUddwKiLM",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -811,6 +811,38 @@
       "duration_ms": 193706,
       "name": "Analog Soul",
       "url": "https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd"
+    },
+    {
+      "added_at": "2026-10-26 20:05:33",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5seyyPvGsQfMlf7L51Oadx"
+      },
+      "artists": [
+        {
+          "name": "Siobhan Bodrug",
+          "url": "https://open.spotify.com/artist/7txaNJjUA1XAkxkY3dOGoD"
+        }
+      ],
+      "duration_ms": 194658,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/5t59VwPR2S9GZ2zyo3kPao"
+    },
+    {
+      "added_at": "2026-10-26 21:13:44",
+      "album": {
+        "name": "Hail Saturn / Damnation",
+        "url": "https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

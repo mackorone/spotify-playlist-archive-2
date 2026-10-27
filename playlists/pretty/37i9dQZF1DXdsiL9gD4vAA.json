@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 145269,
+  "num_followers": 145295,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-10-21 04:12:46",
       "album": {
+        "name": "Muddat Hui Hai",
+        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
+      },
+      "artists": [
+        {
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
+        }
+      ],
+      "duration_ms": 416640,
+      "name": "Muddat Hui Hai",
+      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
+    },
+    {
+      "added_at": "2026-10-21 04:12:46",
+      "album": {
         "name": "Dil Ko Kya Ho Gaya",
         "url": "https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 320975,
       "name": "Dil Ko Kya Ho Gaya",
       "url": "https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx"
-    },
-    {
-      "added_at": "2026-10-21 04:12:46",
-      "album": {
-        "name": "Muddat Hui Hai",
-        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
-      },
-      "artists": [
-        {
-          "name": "Avanti Patel",
-          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
-        }
-      ],
-      "duration_ms": 416640,
-      "name": "Muddat Hui Hai",
-      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
     },
     {
       "added_at": "2026-10-21 04:12:46",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2026-10-21 04:12:46",
       "album": {
+        "name": "Aah Ko Chahiye",
+        "url": "https://open.spotify.com/album/3dhmWJWqkjSSkYXjwvgLGy"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan",
+          "url": "https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q"
+        },
+        {
+          "name": "Shujaat Khan",
+          "url": "https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0"
+        }
+      ],
+      "duration_ms": 364090,
+      "name": "Aah Ko Chahiye",
+      "url": "https://open.spotify.com/track/4GWVdmrprAtM8bXSIkgY8C"
+    },
+    {
+      "added_at": "2026-10-21 04:12:46",
+      "album": {
         "name": "Hum Bhi Tum Bhi",
         "url": "https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 233076,
       "name": "Hum Bhi Tum Bhi",
       "url": "https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ"
-    },
-    {
-      "added_at": "2026-10-21 04:12:46",
-      "album": {
-        "name": "Vo Haseen Raat",
-        "url": "https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v"
-      },
-      "artists": [
-        {
-          "name": "Daboo Malik",
-          "url": "https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1"
-        },
-        {
-          "name": "Sarrika Singh",
-          "url": "https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7"
-        }
-      ],
-      "duration_ms": 246836,
-      "name": "Vo Haseen Raat",
-      "url": "https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw"
     }
   ],
   "unique_name": "Golden Ghazals",

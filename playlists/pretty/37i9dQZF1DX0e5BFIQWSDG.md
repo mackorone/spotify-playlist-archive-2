@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: 2shots
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,994 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,975 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [AGAINST ALL](https://open.spotify.com/track/3klqwu80XOZBszq7TS214C) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [LOSHA](https://open.spotify.com/artist/5kZFsM5GvvDM9J8soKtyqB) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 2:52 |
 | 50 | [MASERATI](https://open.spotify.com/track/4bnfWdcWyp5CEVnCg4jVxQ) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [2shots](https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [MASERATI](https://open.spotify.com/album/3dAo7vfqWZB4F8apmxL2Jd) | 3:31 |
 
-Snapshot ID: `AAAAALdiLVp9xrHxDXh1+/+s/WR7oxOd`
+Snapshot ID: `AAAAAKVUQeLiMnPcTB+Cv4A4iKgt90cu`

@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Dend Down Low",
+        "url": "https://open.spotify.com/album/6GqaXCRPLLLBTWwZkj2Rzo"
+      },
+      "artists": [
+        {
+          "name": "H. 4Real",
+          "url": "https://open.spotify.com/artist/6VaTWoMnz7WhncBc4zgrKm"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227839,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/22rvo6iIanBsteVmbWoeMB"
+    },
+    {
+      "album": {
         "name": "Listen To The Music",
         "url": "https://open.spotify.com/album/5UsgZcXieIlFKrN9RBn7NI"
       },

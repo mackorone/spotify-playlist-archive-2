@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,113 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,117 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [El Comandante Fuentes](https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 3:08 |
 | 50 | [O Me Voy o Te Vas \- En Vivo](https://open.spotify.com/track/0x7DTzSh4juWJbgDyqCkAN) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda \(En Vivo\)](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:39 |
 
-Snapshot ID: `atv1AAAAAAAQ4zp4voCpfGnickrEyh94`
+Snapshot ID: `at1GgAAAAAAXN6Zxmv6eVaafIZblSxBb`

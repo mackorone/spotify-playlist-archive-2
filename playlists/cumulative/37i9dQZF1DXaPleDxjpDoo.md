@@ -4,7 +4,7 @@
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-448 songs - 22 hr 0 min
+454 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Breath Of Stillness](https://open.spotify.com/track/3IwTE0ipwEXvu0t7Cov8fd) | [Ambientis](https://open.spotify.com/artist/1d6rZsRCqd4bX8i1mpC5Eg) | [Breath Of Stillness](https://open.spotify.com/album/4jqmTCSWBatwfplG5Jo2mB) | 3:19 | 2025-09-18 | 2026-06-05 |
 | [Breath Of The Mountain \- Birdsong Mix](https://open.spotify.com/track/5MIHW6CVUX6Tk0fKV7Fz3I) | [Yakushima Dove](https://open.spotify.com/artist/5pOo0TJogDJFi9af6Takg5) | [Breath Of The Mountain \(Birdsong Mix\)](https://open.spotify.com/album/1nQVOIrtSwvlN2ncpY5VFX) | 2:50 | 2026-05-08 | 2026-06-05 |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2022-09-15 | 2026-01-22 |
+| [Breathing Forest](https://open.spotify.com/track/7KDQ3Hlr8URtAiCZNfv4eZ) | [Circular Motions](https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva) | [Breathing Forest](https://open.spotify.com/album/6vhgZZonUkFqDaQUNirUGb) | 3:06 | 2026-10-26 |  |
 | [breeze](https://open.spotify.com/track/4dd6Kd9lOuAFvtnicFmopl) | [mistral bark](https://open.spotify.com/artist/19VIhs2q6YQ5J23OrTknU7) | [breeze](https://open.spotify.com/album/5mD3888H5sHSeIHm8ngWPA) | 3:08 | 2025-04-01 | 2026-04-18 |
 | [Calihue](https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM) | [Paihuén](https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB) | [Calihue](https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6) | 2:11 | 2022-09-15 | 2024-04-02 |
 | [Call of the Sea](https://open.spotify.com/track/4aB1CV3jThJqcdCvoh70ZT) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Call of the Sea](https://open.spotify.com/album/7orgE1tuvFQoWVQpxgh9ep) | 4:51 | 2022-10-07 | 2023-09-01 |
@@ -122,6 +123,7 @@
 | [Euphormia](https://open.spotify.com/track/34IuQjnpXmRs7F0XhQ8NNg) | [Vast Oceans](https://open.spotify.com/artist/6fdtjgfW91E750yDKRFNk8) | [Euphormia](https://open.spotify.com/album/6JVJHo0rwmbo0ppTJKKTjB) | 2:44 | 2025-06-12 | 2026-03-04 |
 | [Everbound](https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G) | [Everbound](https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws) | 2:54 | 2026-04-03 |  |
 | [Evergreen](https://open.spotify.com/track/1piIa7IzJTMb91y7D9mZfl) | [For Mel](https://open.spotify.com/artist/2w0jPSsETa72zNH53Fb7bR) | [Evergreen](https://open.spotify.com/album/0kqjVkCJpvWnU2LqqC1yaL) | 2:35 | 2026-10-06 |  |
+| [Evergreen Pines](https://open.spotify.com/track/4RffdOIum50uN6uHpR1WCB) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Evergreen Pines](https://open.spotify.com/album/4IyQ7IGjgzEncydajmDHJR) | 2:34 | 2026-10-26 |  |
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-09-15 | 2025-09-19 |
 | [Exploration Guide](https://open.spotify.com/track/00fWaaNmh4tHZH5hgye2SR) | [Vemedis](https://open.spotify.com/artist/5X885hQ57e8PHe88pms7ZR) | [Exploration Guide](https://open.spotify.com/album/5a3mMRmMHJUBy3pNurZeqC) | 2:25 | 2025-04-11 | 2026-03-04 |
 | [Fading Petals](https://open.spotify.com/track/3IJKGZ3iz4kdBcUru29Ucw) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Silver Linen Note](https://open.spotify.com/album/4dqvUtMRYaUvocHdEPz8ca) | 3:14 | 2026-07-03 |  |
@@ -347,6 +349,7 @@
 | [Silent Pines](https://open.spotify.com/track/7sWevbmCbGcTHqmfAaSd2D) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Silent Pines](https://open.spotify.com/album/5RrA7fxsc4CBnMXVz29bVz) | 2:35 | 2026-01-21 |  |
 | [Singing Forest](https://open.spotify.com/track/2U3l4TfeEvYDAc0cPNFxao) | [Vox Lumi](https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3) | [Singing Forest](https://open.spotify.com/album/37K5fKkWxihUgZUVVFhQSV) | 2:43 | 2026-10-06 |  |
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-09-15 | 2024-05-02 |
+| [Skoglig](https://open.spotify.com/track/4oqYFBZ1wcbdvSwWYFoJS2) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Skoglig](https://open.spotify.com/album/4zqCzdxs5H9ZHS7iJKIBPM) | 2:19 | 2026-10-26 |  |
 | [Skygazer](https://open.spotify.com/track/58O4KUkOrPi7fOBmGRaOpv) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skygazer](https://open.spotify.com/album/5ULiUWVen8QAD2LLHcpOQ0) | 2:49 | 2024-05-01 | 2025-02-01 |
 | [Slow Drifting](https://open.spotify.com/track/7kXKkgCB1u4mzXO2P9LsUP) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Slow Drifting](https://open.spotify.com/album/39V8Sj52MNmbsCViIj67gr) | 2:25 | 2025-12-03 | 2026-04-18 |
 | [Slow Morning](https://open.spotify.com/track/25jZO62Z6Z9fg39kzFU2h1) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Slow Morning](https://open.spotify.com/album/01aduQj2WuqOWsj3Ksy6wt) | 3:10 | 2024-12-20 | 2026-06-26 |
@@ -363,6 +366,7 @@
 | [Songbird Shrine](https://open.spotify.com/track/0XVodTArKi2jRSyWmFLYX1) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Songbird Shrine](https://open.spotify.com/album/418V4m0E3V8o4ISbh8dS5n) | 2:52 | 2024-05-01 |  |
 | [Soul of the Forest](https://open.spotify.com/track/3Evie0ZEPWWHpo1Iu2q3px) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Soul of the Forest](https://open.spotify.com/album/7j5LGI6TQiwb7qVgFuBqlf) | 3:09 | 2025-12-18 |  |
 | [Sound Of Morning](https://open.spotify.com/track/1Q2DZ6TvsmuZtsOvuqpLnJ) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Sound of Morning](https://open.spotify.com/album/2KH6p1kYs3ThudS0qpyr4u) | 2:51 | 2026-04-03 |  |
+| [Sound of the Birds](https://open.spotify.com/track/1VWYOAkHLIomBt8R0rF3L6) | [Civian](https://open.spotify.com/artist/4yaZWyVYNm5cP3GnG3tj1p) | [Sound of the Birds](https://open.spotify.com/album/0LggjdYJZfkHR1R1veaorI) | 2:30 | 2026-10-26 |  |
 | [Spacious \(Forest Version\)](https://open.spotify.com/track/34JC7pSpTBs2vIcracU2ED) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Spacious](https://open.spotify.com/album/105C3Mcfk9K94SliSGOJTh) | 2:41 | 2022-09-30 | 2024-10-25 |
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2025-09-18 | 2026-04-18 |
 | [Spiritual Being \- Loopable with No Fade](https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:57 | 2022-09-15 | 2024-04-02 |
@@ -397,6 +401,7 @@
 | [The Pensive Forest](https://open.spotify.com/track/6lOlWHWw9ao9rS6PVNFl62) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [The Pensive Forest](https://open.spotify.com/album/678q1cHvcW9ShiU9l9JBay) | 3:01 | 2023-08-18 | 2024-06-04 |
 | [The Quiet Overlap](https://open.spotify.com/track/4U4529fU9KYHn01H1vQG3J) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Winter Silhouette](https://open.spotify.com/artist/6KRRqIN3mwX3s9jMyqviYN) | [Shared Silence](https://open.spotify.com/album/0IdNyQ7FZajlYG422eFJ3o) | 2:43 | 2026-09-11 |  |
 | [The River](https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Celestial Woodlands](https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv) | 3:53 | 2022-12-02 | 2024-05-02 |
+| [The Sea Ranch](https://open.spotify.com/track/2WlQvwVuLEeKgGoxXNCb52) | [nightfall](https://open.spotify.com/artist/2bxsey6NsNogSPVrrlFZGx) | [The Sea Ranch](https://open.spotify.com/album/4sQfa7nWcXN8tXhXGkeqoY) | 2:11 | 2026-10-26 |  |
 | [The Soft Glow Of Dusk](https://open.spotify.com/track/3Rczn3HhnDJNrGlm1aoo97) | [Sandman](https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a) | [The Soft Glow Of Dusk](https://open.spotify.com/album/5EPXiGpSauWzLeJQuCcntH) | 2:18 | 2026-09-25 |  |
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 | 2026-03-14 |
 | [The Woods Awaken](https://open.spotify.com/track/1CCoOPTCeZBp7j1lUJAXer) | [Niclas Lundqvist](https://open.spotify.com/artist/5xhXAA1szAltReao2ctWBg) | [Daydreaming](https://open.spotify.com/album/2dmhE2HaZFMTAdXGcFc0Cs) | 3:31 | 2026-09-11 |  |
@@ -427,6 +432,7 @@
 | [Unravel](https://open.spotify.com/track/3IytWes895hY5ayovwWob1) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Unravel](https://open.spotify.com/album/2BgjjXxCLrrYL2fyIKwWI8) | 2:04 | 2026-08-19 |  |
 | [Unwinding](https://open.spotify.com/track/3pv9G419Ni3HFa4Cgcv5tI) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Unwinding](https://open.spotify.com/album/6u01P2pUMjiPZaiYpUQbql) | 2:14 | 2024-06-03 | 2024-10-02 |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2022-09-15 | 2024-03-06 |
+| [Valdivian](https://open.spotify.com/track/2jJSclU3SCiqfzAW4q0k2Q) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Valdivian](https://open.spotify.com/album/7tp7kYg6zBTzo9awqqeCi5) | 2:56 | 2026-10-26 |  |
 | [Veil of Sylva](https://open.spotify.com/track/0deuii5DgfxodJswCQicZb) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Veil of Sylva](https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79) | 2:22 | 2026-04-03 |  |
 | [Velvet Daybreak](https://open.spotify.com/track/64wJtggmXCk8lsUDAA2E2n) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [Velvet Daybreak](https://open.spotify.com/album/3so557kpftvDDStYLHz8cI) | 2:21 | 2025-09-18 | 2026-03-04 |
 | [Verdant Breath](https://open.spotify.com/track/1ELwtIRAPr3gLgprbWjsmm) | [Miaquirele](https://open.spotify.com/artist/3pmTNYkFYBysqyG5MzRujA) | [Verdant Breath](https://open.spotify.com/album/0AGD1E4F8e2GOAnZ48kFx9) | 2:37 | 2026-04-03 | 2026-06-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,475 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,477 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 19 | [Từ Đầu](https://open.spotify.com/track/7AAnw2xzxKplhRa0nCpM9i) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Từ Đầu](https://open.spotify.com/album/5ta4BkE2WfbV50RZi5Ziiy) | 5:09 |
 | 20 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 |
 | 21 | [EM ĐAU](https://open.spotify.com/track/317Lh6QCAz9JpWbV3oxrCf) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C), [Thành Luke](https://open.spotify.com/artist/4s1DRFQAYnDvXmKYFBUcYa) | [GIỮA MỘT VẠN NGƯỜI](https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas) | 5:00 |
-| 22 | [NGƯỜI XẤU](https://open.spotify.com/track/64Z9ec2cBxRPlJIk5uO09c) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [NGƯỜI XẤU](https://open.spotify.com/album/6MzUSa70iXqSsG3JDayjms) | 4:18 |
+| 22 | [NGƯỜI XẤU](https://open.spotify.com/track/64Z9ec2cBxRPlJIk5uO09c) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [NGƯỜI XẤU](https://open.spotify.com/album/6MzUSa70iXqSsG3JDayjms) | 4:16 |
 | 23 | [Dịu Dàng Dịu Dàng](https://open.spotify.com/track/1Ey8kzGN2TJyjkiPvBUQ5s) | [Ái Phương](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Dịu Dàng Dịu Dàng](https://open.spotify.com/album/63tLvLUbTrK3dt61ly72UH) | 2:59 |
 | 24 | [BUỒN THÌ CỨ KHÓC ĐI](https://open.spotify.com/track/2q8U7DYs3tzTXBxawfaMgD) | [Anh Trai Vượt Ngàn Chông Gai](https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv), [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT), [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [K.O](https://open.spotify.com/artist/78rBGzdAWnOIoOuZqFaZFi) | [CÔNG DIỄN 3 \(Anh Trai Vượt Ngàn Chông Gai 2026\)](https://open.spotify.com/album/1VNHcEIrtoJLMkvxDFGR1X) | 4:20 |
 | 25 | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/track/1tXFYeTfktEY8AXhAHW7dh) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT) | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/album/7MJHLIDJJz2iWwOgWD5iaa) | 3:45 |

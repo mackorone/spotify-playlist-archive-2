@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Smith Asher
 
-894 songs - 2 day 2 hr 28 min
+895 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [SILK CADBURY](https://open.spotify.com/track/7aKW4EwkfYCQRkq6pvmIzF) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [SILK CADBURY](https://open.spotify.com/album/5wQ4smkI6sPNA2EdwqfwY8) | 2:20 | 2024-12-03 | 2026-01-15 |
 | [Sillakku Sirukki](https://open.spotify.com/track/3yo6nlOUqnL1lL0VQdJzzL) | [Aditya Ganesh](https://open.spotify.com/artist/20TF9zs0MDa4wwUXVFhBLr), [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Sillakku Sirukki](https://open.spotify.com/album/0WgNi6NcbQbLpWbDsHZG4F) | 3:54 | 2026-08-07 |  |
 | [Silpo Silati](https://open.spotify.com/track/1JQvFWna5qOVptgrkI2vIu) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Silpo Silati](https://open.spotify.com/album/7oF1yVB9VwotYzCUf6DgnL) | 3:26 | 2026-09-02 |  |
+| [Silukku Vedi](https://open.spotify.com/track/7n7Rv9JoxdUU1CgLXH5VBO) | [Abhishek C S](https://open.spotify.com/artist/1GofTjmdzOjxQojvoMxgfi), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Silukku Vedi](https://open.spotify.com/album/3DHA1ZrW9qZfNuyVvZFjFO) | 3:28 | 2026-10-26 |  |
 | [Simco Gili Gili](https://open.spotify.com/track/2K1VopotAsjOFfeuUUSanV) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Simco Gili Gili](https://open.spotify.com/album/0kNMosp3KQ9fvRHijsgMlE) | 2:24 | 2026-01-20 | 2026-05-01 |
 | [Singa Paadhai](https://open.spotify.com/track/6MnIJvDd4IohMAc1HvyBay) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Singa Paadhai](https://open.spotify.com/album/5j5dvTjic8X09GVxNDRk4y) | 3:53 | 2025-10-25 | 2026-03-25 |
 | [Siragadichu](https://open.spotify.com/track/5b1JMxTCUQYLv6HZgB8u7H) | [RISHI\-G](https://open.spotify.com/artist/3lu3E33BaF9ydnHQOfv2fp) | [Siragadichu](https://open.spotify.com/album/2JWpusQ7AnvrBcmH8G3drM) | 3:00 | 2025-04-22 | 2025-07-04 |
@@ -750,7 +751,7 @@
 | [Theendum Dhooram \- Unplugged](https://open.spotify.com/track/0bp4VHhD7BmOaIDSAhRhSA) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd) | [Theendum Dhooram \(Unplugged\)](https://open.spotify.com/album/66k08a6WrDYlmZ5HDqYQmt) | 3:26 | 2023-04-06 | 2023-08-08 |
 | [Theera](https://open.spotify.com/track/2lQ49y0CZ9jhfINsc7NuZO) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Theera](https://open.spotify.com/album/0pXbIwIirbseVMHcbLyKtp) | 4:02 | 2023-07-17 | 2024-05-04 |
 | [Theera Irul](https://open.spotify.com/track/65WfHGYdwvBHc8RRKZJg77) | [Stv Andrew](https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd), [Kunkumasudharshan R](https://open.spotify.com/artist/4m8OL554jGJL6Jp67Gu7Jc), [Dharshana Vijayan](https://open.spotify.com/artist/0D71qCh2dODGJtFCs2Mhyq) | [Theera Irul](https://open.spotify.com/album/4fTes6zDMlFaTSyd0DnDvC) | 4:28 | 2025-01-31 | 2026-01-15 |
-| [Theera Kanaa](https://open.spotify.com/track/7fcwXQUAgodhZGsfG15TDt) | [Anushya Murugesh](https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8) | [Theera Kanaa](https://open.spotify.com/album/5HOrdfyKr9dC8YT4DDkusb) | 2:42 | 2026-04-30 |  |
+| [Theera Kanaa](https://open.spotify.com/track/7fcwXQUAgodhZGsfG15TDt) | [Anushya Murugesh](https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8) | [Theera Kanaa](https://open.spotify.com/album/5HOrdfyKr9dC8YT4DDkusb) | 2:42 | 2026-04-30 | 2026-10-27 |
 | [Theeraa](https://open.spotify.com/track/1VgigHOWy8ItmgwRAn7C2y) | [Siddrth](https://open.spotify.com/artist/08i087HLiGdAy7HOACoVP0) | [Theeraa](https://open.spotify.com/album/2NWYmjfgpZ9jWC0G7pcfzp) | 3:55 | 2025-05-30 | 2025-10-24 |
 | [Theeradha](https://open.spotify.com/track/0pcehazrEcS8txh2APAjKj) | [Luksimi Sivaneswaralingam](https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb) | [Theeradha](https://open.spotify.com/album/7L9ESTRBYoJ8zcTSSE6UI8) | 3:26 | 2026-01-30 | 2026-05-24 |
 | [Theerathe](https://open.spotify.com/track/0iuMXjVlQjKQnYlmclnBBd) | [J.Ravi](https://open.spotify.com/artist/28l2CMEmmDWvN4PA9BEQic) | [Theerathe](https://open.spotify.com/album/5ztdAXwodj5yjgjt9LsJ4R) | 3:03 | 2024-10-18 | 2025-02-04 |

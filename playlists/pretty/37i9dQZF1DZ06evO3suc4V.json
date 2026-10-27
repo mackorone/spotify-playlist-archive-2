@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11469,
+  "num_followers": 11474,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atqjgAAAAAA2Wq2Dh12CG0/KVz+o8FqL",
+  "snapshot_id": "at1GgAAAAAAKXSTIXtmukZphz1kyEQbR",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Boy (Alternative)",
-        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
+        "name": "Crush EP",
+        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
       },
       "artists": [
         {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 245120,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm"
+      "duration_ms": 220100,
+      "name": "4 Leaf Clover (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8"
     },
     {
       "added_at": null,
@@ -331,22 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crush EP",
-        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
+        "name": "Black Boy (Alternative)",
+        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
         },
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 220100,
-      "name": "4 Leaf Clover (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8"
+      "duration_ms": 245120,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Moonlight EP",
-        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Spice - EP Version",
-      "url": "https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crush EP",
         "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 209186,
       "name": "Venom",
       "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Moonlight EP",
+        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Spice - EP Version",
+      "url": "https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk"
     },
     {
       "added_at": null,

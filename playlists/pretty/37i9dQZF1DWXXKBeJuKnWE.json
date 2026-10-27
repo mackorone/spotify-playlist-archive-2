@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Polyphia",
-  "num_followers": 486932,
+  "num_followers": 486875,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Zero Day",
-        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 145129,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "An Ending In Itself",
         "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 181018,
       "name": "House Of Matches",
       "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Zero Day",
+        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 145129,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Count Your Blessings | Repented",
         "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 365774,
       "name": "(I Used to Make Out With) Medusa - 2026 Repented",
       "url": "https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "b2tm \u25cb",
-        "url": "https://open.spotify.com/album/2wu9Oj5NnvVvqCuvsSICEM"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        },
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 226341,
-      "name": "b2tm \u25cb",
-      "url": "https://open.spotify.com/track/1iXJOdAkkH0afXnhkI2d6N"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Make Your Exit",
         "url": "https://open.spotify.com/album/1mpX8Bbw4aoEWwx7MAAeAN"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "b2tm \u25cb",
+        "url": "https://open.spotify.com/album/2wu9Oj5NnvVvqCuvsSICEM"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        },
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 226341,
+      "name": "b2tm \u25cb",
+      "url": "https://open.spotify.com/track/1iXJOdAkkH0afXnhkI2d6N"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "The Carrion Choir",
-        "url": "https://open.spotify.com/album/1UUTzVvJg987HOcOmrLSh6"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "The Carrion Choir",
-      "url": "https://open.spotify.com/track/7hqrfDYNDTOt8ng4U9yuw2"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "No Place For Me",
         "url": "https://open.spotify.com/album/3mBFreN8RPwTvFRjwkCZAa"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Nerv(e)",
-        "url": "https://open.spotify.com/album/4PTPoytSPlZZSwWTlXwFLF"
+        "name": "The Carrion Choir",
+        "url": "https://open.spotify.com/album/1UUTzVvJg987HOcOmrLSh6"
       },
       "artists": [
         {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Nerv(e)",
-      "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
+      "duration_ms": 185200,
+      "name": "The Carrion Choir",
+      "url": "https://open.spotify.com/track/7hqrfDYNDTOt8ng4U9yuw2"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1047,6 +1031,22 @@
       "duration_ms": 228000,
       "name": "One By One",
       "url": "https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Nerv(e)",
+        "url": "https://open.spotify.com/album/4PTPoytSPlZZSwWTlXwFLF"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Nerv(e)",
+      "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
-      },
-      "artists": [
-        {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
-        }
-      ],
-      "duration_ms": 262784,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Fangs",
         "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 249293,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "duration_ms": 262784,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
+        "name": "Doom Tripping",
+        "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Doom Tripping",
+      "url": "https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
         "name": "Black & Blue (2026 Repented)",
         "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
       },
@@ -1395,38 +1411,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Doom Tripping",
-        "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Doom Tripping",
-      "url": "https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
-        "name": "\u2060Lucid Love",
-        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Lucid Love",
-      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/55CuHmxtkOEgkUDxyfIRj4"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 179000,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/68IJg98sYQ257laNVH3iwM"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/775FTflkHkZfaZYP130ALj"
-      },
-      "artists": [
-        {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
-        }
-      ],
-      "duration_ms": 205636,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Kill Me First",
         "url": "https://open.spotify.com/album/2SAoqo4aCJO8wshF6Lf1dX"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 187464,
       "name": "Kill Me First",
       "url": "https://open.spotify.com/track/1mFvTywPa4teyAeo9frqAY"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/775FTflkHkZfaZYP130ALj"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "duration_ms": 205636,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Seraphim",
-        "url": "https://open.spotify.com/album/1XVWZrMKWwtDeqLq4NKfMj"
-      },
-      "artists": [
-        {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
-        }
-      ],
-      "duration_ms": 203522,
-      "name": "Seraphim",
-      "url": "https://open.spotify.com/track/7p7KXqzi34e2KEdYGWWNHD"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "SIDE EFFECTS PT.1",
         "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 196442,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/1XVWZrMKWwtDeqLq4NKfMj"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "duration_ms": 203522,
+      "name": "Seraphim",
+      "url": "https://open.spotify.com/track/7p7KXqzi34e2KEdYGWWNHD"
     },
     {
       "added_at": "2026-10-23 00:00:24",

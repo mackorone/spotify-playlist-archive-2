@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 24 | [Ethical Plum](https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Ethical Plum](https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz) | 2:46 |
 | 25 | [demon time \(with BAYLI\)](https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:10 |
 | 26 | [TELLY BAG](https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TELLY BAG](https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn) | 1:54 |
-| 27 | [ur mine](https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:00 |
-| 28 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 |
+| 27 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 |
+| 28 | [ur mine](https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:00 |
 | 29 | [say it back](https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:17 |
 | 30 | [Superstar](https://open.spotify.com/track/1YnewALtpmHPZg86MgB1C0) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Superstar](https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA) | 3:12 |
 | 31 | [SICK!](https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK!](https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7) | 2:06 |
-| 32 | [Busy \- BAYLI Remix](https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Busy \(BAYLI Remix\)](https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe) | 2:45 |
-| 33 | [into me](https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:22 |
+| 32 | [into me](https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:22 |
+| 33 | [Busy \- BAYLI Remix](https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Busy \(BAYLI Remix\)](https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe) | 2:45 |
 | 34 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 |
 | 35 | [Spend It](https://open.spotify.com/track/1ux0qtopD4gfcGwmirx8Np) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Heartbreak County, Vol\. 2](https://open.spotify.com/album/4xNquGajSV7ohPAipCsyet) | 3:00 |
 | 36 | [PURPLE APE](https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Hi\_TEK MZK, VOL\. 1](https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7) | 3:07 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 39 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
 | 40 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
 
-Snapshot ID: `atv1AAAAAAChF3vT4o1j3u0U6kF7TChV`
+Snapshot ID: `at1GgAAAAABq4Jr5gpu4znaWi7bjerq2`

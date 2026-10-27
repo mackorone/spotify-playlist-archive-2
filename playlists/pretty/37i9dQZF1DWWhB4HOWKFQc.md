@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: rumahsakit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,522,229 likes - 92 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,522,304 likes - 92 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37508,
+  "num_followers": 37507,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
+        "name": "La Casa Azul",
+        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
       },
       "artists": [
         {
-          "name": "Goland",
-          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+          "name": "De la Plante",
+          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
         },
         {
-          "name": "Lo-Fi Luke",
-          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
-        },
-        {
-          "name": "Marc Brave",
-          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
+          "name": "Federico Lenarduzzi",
+          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
         }
       ],
-      "duration_ms": 150500,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
+      "duration_ms": 131541,
+      "name": "La Casa Azul",
+      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -947,22 +943,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "La Casa Azul",
-        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
       "artists": [
         {
-          "name": "De la Plante",
-          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
         },
         {
-          "name": "Federico Lenarduzzi",
-          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
+          "name": "Lo-Fi Luke",
+          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
+        },
+        {
+          "name": "Marc Brave",
+          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
         }
       ],
-      "duration_ms": 131541,
-      "name": "La Casa Azul",
-      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
+      "duration_ms": 150500,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Sugar Leafs",
-        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "Sugar Leafs",
-      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Good things take time",
         "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 99428,
       "name": "Good things take time",
       "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Sugar Leafs",
+        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Sugar Leafs",
+      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 140411,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "All Good in the Hood",
         "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 107294,
       "name": "All Good in the Hood",
       "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+        "name": "Zer",
+        "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Drasharth",
+          "url": "https://open.spotify.com/artist/3YSlQVl8g56svjM2vwPFPE"
         }
       ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
+      "duration_ms": 186214,
+      "name": "MexFi",
+      "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Zer",
-        "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
-      },
-      "artists": [
-        {
-          "name": "Drasharth",
-          "url": "https://open.spotify.com/artist/3YSlQVl8g56svjM2vwPFPE"
-        }
-      ],
-      "duration_ms": 186214,
-      "name": "MexFi",
-      "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "todas las ma\u00f1anas",
         "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
       },
@@ -1351,26 +1351,6 @@
       "duration_ms": 147621,
       "name": "todas las ma\u00f1anas",
       "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Chill Mood",
-        "url": "https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 118567,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1391,6 +1371,26 @@
       "duration_ms": 183370,
       "name": "Martes Azul",
       "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Chill Mood",
+        "url": "https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 118567,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "la zona",
+        "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
+      },
+      "artists": [
+        {
+          "name": "SUNNO",
+          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "la zona",
+      "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "van life",
         "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
       },
@@ -1711,34 +1727,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "la zona",
-        "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
       },
       "artists": [
         {
-          "name": "SUNNO",
-          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "la zona",
-      "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "she is",
-        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
-      },
-      "artists": [
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
         {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
         }
       ],
-      "duration_ms": 232514,
-      "name": "she is",
-      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
+      "duration_ms": 168000,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1763,6 +1767,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "she is",
+        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
+      },
+      "artists": [
+        {
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+        }
+      ],
+      "duration_ms": 232514,
+      "name": "she is",
+      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "2024??",
         "url": "https://open.spotify.com/album/3TCvK7mG4jS3Gj27rvZTBf"
       },
@@ -1775,42 +1795,6 @@
       "duration_ms": 145391,
       "name": "cartas en el rio",
       "url": "https://open.spotify.com/track/0lAV12IZAElPLOQ36nuJW9"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "forastero.",
-        "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
-      },
-      "artists": [
-        {
-          "name": "forastero.",
-          "url": "https://open.spotify.com/artist/0GP0Jbuq5uUNpUjOGi55LL"
-        }
-      ],
-      "duration_ms": 98306,
-      "name": "semilla de merey",
-      "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1831,6 +1815,22 @@
       "duration_ms": 150097,
       "name": "Taco de barbacoa",
       "url": "https://open.spotify.com/track/0HmemevuitE85g3zqOVk78"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "forastero.",
+        "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
+      },
+      "artists": [
+        {
+          "name": "forastero.",
+          "url": "https://open.spotify.com/artist/0GP0Jbuq5uUNpUjOGi55LL"
+        }
+      ],
+      "duration_ms": 98306,
+      "name": "semilla de merey",
+      "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
     },
     {
       "added_at": "2026-01-26 05:01:07",

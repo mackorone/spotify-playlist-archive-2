@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Ms. Ambar",
-  "num_followers": 574945,
+  "num_followers": 574933,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
+        "name": "Y Qu\u00e9",
+        "url": "https://open.spotify.com/album/26jxQmK7QAuvHiQ9lGe5oh"
+      },
+      "artists": [
+        {
+          "name": "Alisson Joan",
+          "url": "https://open.spotify.com/artist/65sDAqnzGih8hYzqtZqitw"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "Y Qu\u00e9",
+      "url": "https://open.spotify.com/track/01fEOyH0Qr4H75Y9RCMD3S"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
         "name": "La L\u00ednea",
         "url": "https://open.spotify.com/album/4IPQrzEH9rpoxHL6x0Zh6V"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 191426,
       "name": "La L\u00ednea",
       "url": "https://open.spotify.com/track/5nBElDk2lS45s4JXcQjMps"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
-        "name": "Y Qu\u00e9",
-        "url": "https://open.spotify.com/album/26jxQmK7QAuvHiQ9lGe5oh"
-      },
-      "artists": [
-        {
-          "name": "Alisson Joan",
-          "url": "https://open.spotify.com/artist/65sDAqnzGih8hYzqtZqitw"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "Y Qu\u00e9",
-      "url": "https://open.spotify.com/track/01fEOyH0Qr4H75Y9RCMD3S"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Endeble (II)",
-        "url": "https://open.spotify.com/album/5r2W4qNKi62cgFRkZjPA42"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 174885,
-      "name": "B\u00e9same Bonito",
-      "url": "https://open.spotify.com/track/7tUveuGB0gg6urMfsnqTxf"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
         "name": "La Gran Se\u00f1ora (Banda)",
         "url": "https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 185121,
       "name": "No Llega El Olvido - Banda",
       "url": "https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
+        "name": "Endeble (II)",
+        "url": "https://open.spotify.com/album/5r2W4qNKi62cgFRkZjPA42"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 174885,
+      "name": "B\u00e9same Bonito",
+      "url": "https://open.spotify.com/track/7tUveuGB0gg6urMfsnqTxf"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Una Lloradita",
-        "url": "https://open.spotify.com/album/5XCYg9ErySM1NF7eop7y3P"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 158580,
-      "name": "Una Lloradita",
-      "url": "https://open.spotify.com/track/1smCMVhwmDYPdi8saWC6zE"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 196766,
       "name": "Se Me Va A Pasar",
       "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
+        "name": "Una Lloradita",
+        "url": "https://open.spotify.com/album/5XCYg9ErySM1NF7eop7y3P"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 158580,
+      "name": "Una Lloradita",
+      "url": "https://open.spotify.com/track/1smCMVhwmDYPdi8saWC6zE"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Mejor Nadota",
-        "url": "https://open.spotify.com/album/3KtJ57ysOdCv4PJQp80hgP"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 155446,
-      "name": "Mejor Nadota",
-      "url": "https://open.spotify.com/track/3WY7zAL1enGMklGApkGcyJ"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
         "name": "Las Mismas Costumbres (En Vivo)",
         "url": "https://open.spotify.com/album/5jLggk2hT5zcvrnJW1vvft"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 190332,
       "name": "Las Mismas Costumbres - En Vivo",
       "url": "https://open.spotify.com/track/5eEW8uGChSpFGlqLYuMNfN"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
+        "name": "Mejor Nadota",
+        "url": "https://open.spotify.com/album/3KtJ57ysOdCv4PJQp80hgP"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 155446,
+      "name": "Mejor Nadota",
+      "url": "https://open.spotify.com/track/3WY7zAL1enGMklGApkGcyJ"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Aqu\u00ed Est\u00e1 Tu Reina",
-        "url": "https://open.spotify.com/album/4TBYpRuCpUSlQWeUHwV8VV"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 208531,
-      "name": "Aqu\u00ed Est\u00e1 Tu Reina",
-      "url": "https://open.spotify.com/track/5amwCXZB6gTgMgk1nAOjP9"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
         "name": "Ecos del Mar",
         "url": "https://open.spotify.com/album/5JujrqNF5yLq8kAlonK2Jo"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Modo Guerra",
-        "url": "https://open.spotify.com/album/5Q9KfTIpVazBhKB9Tc9mxB"
+        "name": "Aqu\u00ed Est\u00e1 Tu Reina",
+        "url": "https://open.spotify.com/album/4TBYpRuCpUSlQWeUHwV8VV"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 170100,
-      "name": "Modo Guerra",
-      "url": "https://open.spotify.com/track/6WkJOzemLNw4Z1TYVMA0IY"
+      "duration_ms": 208531,
+      "name": "Aqu\u00ed Est\u00e1 Tu Reina",
+      "url": "https://open.spotify.com/track/5amwCXZB6gTgMgk1nAOjP9"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
+        "name": "Modo Guerra",
+        "url": "https://open.spotify.com/album/5Q9KfTIpVazBhKB9Tc9mxB"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 170100,
+      "name": "Modo Guerra",
+      "url": "https://open.spotify.com/track/6WkJOzemLNw4Z1TYVMA0IY"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
         "name": "Obvio No",
         "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
       },
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
+        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Una Palomita - En Vivo",
+      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/1DnEi9oGgsPRGpzNzlKn1d"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 203200,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/0OTBMEBx7m0WssMZanksqd"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
-        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Una Palomita - En Vivo",
-      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 225770,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
         "name": "El Que Se Lleva Se Aguanta",
         "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Que Pretendes",
-        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
       },
       "artists": [
         {
-          "name": "Ximena Cuevas",
-          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 145121,
-      "name": "Que Pretendes",
-      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
+      "duration_ms": 225770,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
+        "name": "Que Pretendes",
+        "url": "https://open.spotify.com/album/4a73GvMmOXzYjEbTJ8zMoo"
+      },
+      "artists": [
+        {
+          "name": "Ximena Cuevas",
+          "url": "https://open.spotify.com/artist/7mzUHxaab0u4s4iIiPgoRA"
+        }
+      ],
+      "duration_ms": 145121,
+      "name": "Que Pretendes",
+      "url": "https://open.spotify.com/track/0NePbYKCjQkNdvGZxcdoYF"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
         "name": "Esa Perra Ya Me Mordi\u00f3",
         "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 210592,
       "name": "Esa Perra Ya Me Mordi\u00f3",
       "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
+        "name": "T\u00fa Ser\u00e1s Mi Baby",
+        "url": "https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs"
+      },
+      "artists": [
+        {
+          "name": "Susana Zabaleta",
+          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
+        }
+      ],
+      "duration_ms": 172944,
+      "name": "T\u00fa Ser\u00e1s Mi Baby",
+      "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -1519,22 +1535,6 @@
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
-        "name": "T\u00fa Ser\u00e1s Mi Baby",
-        "url": "https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs"
-      },
-      "artists": [
-        {
-          "name": "Susana Zabaleta",
-          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
-        }
-      ],
-      "duration_ms": 172944,
-      "name": "T\u00fa Ser\u00e1s Mi Baby",
-      "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Se Fue Con Ella",
-        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
-      },
-      "artists": [
-        {
-          "name": "Silvia Y Los Gomez",
-          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "Se Fue Con Ella",
-      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/4M5aDPki2nzsQvjmqRvxkX"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 217735,
       "name": "Monarca",
       "url": "https://open.spotify.com/track/21EIwkVeaWPgqlyk7Af2CV"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
+        "name": "Se Fue Con Ella",
+        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
+      },
+      "artists": [
+        {
+          "name": "Silvia Y Los Gomez",
+          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "Se Fue Con Ella",
+      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
+        "name": "Esa Hembra Es Mala (En Vivo)",
+        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 263807,
+      "name": "Esa Hembra Es Mala - En Vivo",
+      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
         "name": "La M\u00e1s Bella",
         "url": "https://open.spotify.com/album/4pcWwS4qziCROZmUn9P4ZE"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 228238,
       "name": "La M\u00e1s Bella",
       "url": "https://open.spotify.com/track/79cIsy8pd93aTirCOXeiHK"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
-        "name": "Esa Hembra Es Mala (En Vivo)",
-        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 263807,
-      "name": "Esa Hembra Es Mala - En Vivo",
-      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
     },
     {
       "added_at": "2026-10-10 03:49:47",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2026-10-10 03:49:47",
       "album": {
-        "name": "Ay Mar\u00eda",
-        "url": "https://open.spotify.com/album/0kMB100laHgatol6jxokqE"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 168561,
-      "name": "Ay Mar\u00eda",
-      "url": "https://open.spotify.com/track/1pVYyhDLnK8nUf2kNFmAVc"
-    },
-    {
-      "added_at": "2026-10-10 03:49:47",
-      "album": {
         "name": "No Me Queda M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 214864,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/4XRJ2OjlS5Trp66QQSDAVC"
+    },
+    {
+      "added_at": "2026-10-10 03:49:47",
+      "album": {
+        "name": "Ay Mar\u00eda",
+        "url": "https://open.spotify.com/album/0kMB100laHgatol6jxokqE"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 168561,
+      "name": "Ay Mar\u00eda",
+      "url": "https://open.spotify.com/track/1pVYyhDLnK8nUf2kNFmAVc"
     },
     {
       "added_at": "2026-10-10 03:49:47",

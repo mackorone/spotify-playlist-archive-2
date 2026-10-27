@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 432596,
+  "num_followers": 432668,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Ryan Paris",
-        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
+        "name": "I Need You Tonite / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+          "name": "Punkin Machine",
+          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
         }
       ],
-      "duration_ms": 229440,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
+      "duration_ms": 338844,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "I Need You Tonite / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "Ryan Paris",
+        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
       },
       "artists": [
         {
-          "name": "Punkin Machine",
-          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
         }
       ],
-      "duration_ms": 338844,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
+      "duration_ms": 229440,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Golden Dance Hits",
+        "url": "https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Boys (Summertime Love)",
+      "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Ma quale idea (Myd Remix)",
         "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Golden Dance Hits",
-        "url": "https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Boys (Summertime Love)",
-      "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Discoteca Eterna",
-        "url": "https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY"
+        "name": "Under the Ice - Single",
+        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+        },
+        {
+          "name": "Roby",
+          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Discoteca Eterna",
-      "url": "https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW"
+      "duration_ms": 432404,
+      "name": "Under the Ice - Original 12 Inch Version",
+      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1287,22 +1291,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Under the Ice - Single",
-        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+        "name": "Discoteca Eterna",
+        "url": "https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY"
       },
       "artists": [
         {
-          "name": "Topo",
-          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
-        },
-        {
-          "name": "Roby",
-          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 432404,
-      "name": "Under the Ice - Original 12 Inch Version",
-      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
+      "duration_ms": 205161,
+      "name": "Discoteca Eterna",
+      "url": "https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW"
     }
   ],
   "unique_name": "Italo Disco",

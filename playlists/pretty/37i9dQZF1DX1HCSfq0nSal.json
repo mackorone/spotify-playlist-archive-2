@@ -1,13 +1,33 @@
 {
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Clarent, Quevedo",
-  "num_followers": 1487352,
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. La Pantera, Quevedo",
+  "num_followers": 1487400,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHhNGmvFmxat+5aCavvo/Kj/84cO",
+  "snapshot_id": "AAAAAOe1Al2KAvDZdWFl3cmth5qh79wV",
   "tracks": [
+    {
+      "added_at": "2026-10-26 08:37:49",
+      "album": {
+        "name": "DOGGY",
+        "url": "https://open.spotify.com/album/4drOTvsKMnP86CsBEl0qSk"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 203467,
+      "name": "DOGGY",
+      "url": "https://open.spotify.com/track/04SQN01RkI50DEXQNJUiUa"
+    },
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
@@ -29,20 +49,24 @@
       "url": "https://open.spotify.com/track/1nnh1lotoDxDMcIgiyB1zi"
     },
     {
-      "added_at": "2026-10-08 22:03:17",
+      "added_at": "2026-10-19 08:46:04",
       "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+        "name": "Flavorz Pack",
+        "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
       },
       "artists": [
         {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 202200,
-      "name": "RETRICA",
-      "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
+      "duration_ms": 218059,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
     },
     {
       "added_at": "2026-10-19 08:46:04",
@@ -63,18 +87,18 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "TRAMPA",
-        "url": "https://open.spotify.com/album/1YjqNF0ynaNtkomCyICFdw"
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
       },
       "artists": [
         {
-          "name": "YOLAMASCARA",
-          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
         }
       ],
-      "duration_ms": 177142,
-      "name": "TRAMPA",
-      "url": "https://open.spotify.com/track/52Vhx5T4MUIsIkar8D9Ovi"
+      "duration_ms": 202200,
+      "name": "RETRICA",
+      "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -93,24 +117,44 @@
       "url": "https://open.spotify.com/track/1wsuMcOx5KM68NUkS8ep0k"
     },
     {
-      "added_at": "2026-10-19 08:46:04",
+      "added_at": "2026-10-26 08:37:49",
       "album": {
-        "name": "Flavorz Pack",
-        "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
+        "name": "Happy Monday (W Sound 10)",
+        "url": "https://open.spotify.com/album/23vSxJtcZIyDJ9h0bLCPcx"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 218059,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
+      "duration_ms": 186000,
+      "name": "Happy Monday - W Sound 10",
+      "url": "https://open.spotify.com/track/3IOUSbYmye1CFqdUjXYLFF"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "COACHELLA",
+        "url": "https://open.spotify.com/album/5aT2v01Xrewqzr7lwhN5DG"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "COACHELLA",
+      "url": "https://open.spotify.com/track/1VnO9edxzVpR05VHeZ45TL"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -161,20 +205,104 @@
       "url": "https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"
     },
     {
-      "added_at": "2026-10-08 22:03:17",
+      "added_at": "2026-10-26 08:37:49",
       "album": {
-        "name": "COACHELLA",
-        "url": "https://open.spotify.com/album/5aT2v01Xrewqzr7lwhN5DG"
+        "name": "Dame Hombro",
+        "url": "https://open.spotify.com/album/3jQsz4uZDT3oZJEzcxKUjq"
       },
       "artists": [
         {
-          "name": "Juseph",
-          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Kevin Wai",
+          "url": "https://open.spotify.com/artist/51juLUSUPiiS1aWyVPbd2o"
+        },
+        {
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
         }
       ],
-      "duration_ms": 199333,
-      "name": "COACHELLA",
-      "url": "https://open.spotify.com/track/1VnO9edxzVpR05VHeZ45TL"
+      "duration_ms": 124068,
+      "name": "Dame Hombro",
+      "url": "https://open.spotify.com/track/1FXksRH3lFxHPlBauolc3C"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "TRAMPA",
+        "url": "https://open.spotify.com/album/1YjqNF0ynaNtkomCyICFdw"
+      },
+      "artists": [
+        {
+          "name": "YOLAMASCARA",
+          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "TRAMPA",
+      "url": "https://open.spotify.com/track/52Vhx5T4MUIsIkar8D9Ovi"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "Ojos Brujos",
+        "url": "https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Ojos Brujos",
+      "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
+    },
+    {
+      "added_at": "2026-10-12 10:32:10",
+      "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 177820,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/4YfiXtaSvZsRKwHwdI0qcL"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "TRATRATRA",
+        "url": "https://open.spotify.com/album/2XKsN43JQTPKYI4hmqOLPq"
+      },
+      "artists": [
+        {
+          "name": "ANMI",
+          "url": "https://open.spotify.com/artist/0V6FSnhjLqpJpS6srrNiRg"
+        },
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 179625,
+      "name": "TRATRATRA",
+      "url": "https://open.spotify.com/track/2eGY0LNnmYoIDiqTkM0M5T"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -203,50 +331,6 @@
       "duration_ms": 362908,
       "name": "YO QUIERO - REMIX",
       "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"
-    },
-    {
-      "added_at": "2026-10-22 09:02:49",
-      "album": {
-        "name": "SEXY",
-        "url": "https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE"
-      },
-      "artists": [
-        {
-          "name": "YOLAMASCARA",
-          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "SEXY",
-      "url": "https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "TRATRATRA",
-        "url": "https://open.spotify.com/album/2XKsN43JQTPKYI4hmqOLPq"
-      },
-      "artists": [
-        {
-          "name": "ANMI",
-          "url": "https://open.spotify.com/artist/0V6FSnhjLqpJpS6srrNiRg"
-        },
-        {
-          "name": "Juseph",
-          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
-        },
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 179625,
-      "name": "TRATRATRA",
-      "url": "https://open.spotify.com/track/2eGY0LNnmYoIDiqTkM0M5T"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -299,26 +383,6 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "Ojos Brujos",
-        "url": "https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Ojos Brujos",
-      "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
         "name": "Loco LocoOoo",
         "url": "https://open.spotify.com/album/2WOVJXzMZaBGXBH5Pz5CaF"
       },
@@ -355,6 +419,22 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
+        "name": "CARITA FELIZ",
+        "url": "https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 193910,
+      "name": "CARITA FELIZ",
+      "url": "https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
         "name": "Dime Baby",
         "url": "https://open.spotify.com/album/3ORiiEK2HQQYUAA9IFmtQJ"
       },
@@ -367,58 +447,6 @@
       "duration_ms": 189026,
       "name": "Dime Baby",
       "url": "https://open.spotify.com/track/4Du97m5kFIyMZ1nTekYlnh"
-    },
-    {
-      "added_at": "2026-10-12 10:32:10",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 177820,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/4YfiXtaSvZsRKwHwdI0qcL"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "NO PASA NADA HOMBRE",
-        "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Gra Gra Boom II",
-      "url": "https://open.spotify.com/track/0OHcgZ1ehs0YfXmRhroTdd"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "LOS ANGELITOS",
-        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 218372,
-      "name": "PaToLasGyales",
-      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -443,102 +471,22 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "AIRE",
-        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
       },
       "artists": [
         {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 141180,
-      "name": "AIRE",
-      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "CAPCANA COCOA",
-        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 244000,
-      "name": "CAPCANA COCOA",
-      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "CARITA FELIZ",
-        "url": "https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 193910,
-      "name": "CARITA FELIZ",
-      "url": "https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c"
-    },
-    {
-      "added_at": "2026-10-12 10:32:10",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 290372,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "Modo Oculto",
-        "url": "https://open.spotify.com/album/1pGjzQsGGQ7hHQgvxM8jll"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "Modo Oculto",
-      "url": "https://open.spotify.com/track/6Ao1OyTNFLE6czKtTsYFju"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "TuuuuuUuu tu tu tu",
-        "url": "https://open.spotify.com/album/2zgK451W9nKsc0DenzMlud"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "TuuuuuUuu tu tu tu",
-      "url": "https://open.spotify.com/track/6p2fQMh1CRJ6QKjbAbDEet"
+      "duration_ms": 218372,
+      "name": "PaToLasGyales",
+      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -563,62 +511,86 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "Los Gangsters Tambien Lloran",
-        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+        "name": "NO PASA NADA HOMBRE",
+        "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 264996,
-      "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
-      "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
+      "duration_ms": 136000,
+      "name": "Gra Gra Boom II",
+      "url": "https://open.spotify.com/track/0OHcgZ1ehs0YfXmRhroTdd"
     },
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "SI ME QUIERES...",
-        "url": "https://open.spotify.com/album/4HNjqlQN00QqOHl1lPgtQY"
+        "name": "CAPCANA COCOA",
+        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
       },
       "artists": [
         {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 240975,
-      "name": "SI ME QUIERES...",
-      "url": "https://open.spotify.com/track/70A0AekMvr4DdxaKa1tQE0"
+      "duration_ms": 244000,
+      "name": "CAPCANA COCOA",
+      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
     },
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "\u00c9xitos Espa\u00f1a",
-        "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
+        "name": "Modo Oculto",
+        "url": "https://open.spotify.com/album/1pGjzQsGGQ7hHQgvxM8jll"
       },
       "artists": [
         {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Corrupta",
-      "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
+      "duration_ms": 164615,
+      "name": "Modo Oculto",
+      "url": "https://open.spotify.com/track/6Ao1OyTNFLE6czKtTsYFju"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 181277,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "TuuuuuUuu tu tu tu",
+        "url": "https://open.spotify.com/album/2zgK451W9nKsc0DenzMlud"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "TuuuuuUuu tu tu tu",
+      "url": "https://open.spotify.com/track/6p2fQMh1CRJ6QKjbAbDEet"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -663,6 +635,22 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
+        "name": "AIRE",
+        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 141180,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
         "name": "NYX00 (with JC Reyes)",
         "url": "https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8"
       },
@@ -683,54 +671,18 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "La Voz Favorita",
-        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+        "name": "\u00c9xitos Espa\u00f1a",
+        "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         }
       ],
-      "duration_ms": 181277,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "TRAYECTORIA",
-        "url": "https://open.spotify.com/album/0MJy6GV6VUHOGCL0jN5JSS"
-      },
-      "artists": [
-        {
-          "name": "YOLAMASCARA",
-          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
-        }
-      ],
-      "duration_ms": 206542,
-      "name": "TRAYECTORIA",
-      "url": "https://open.spotify.com/track/0G8qK4lFxCgQiMub2AUSBy"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "Manhattan II",
-        "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Mr. Goat",
-          "url": "https://open.spotify.com/artist/2BDwUsmUVYMAa6lMc4Bbt9"
-        }
-      ],
-      "duration_ms": 135019,
-      "name": "Manhattan II",
-      "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
+      "duration_ms": 159600,
+      "name": "Corrupta",
+      "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -799,26 +751,82 @@
     {
       "added_at": "2026-10-08 22:03:17",
       "album": {
-        "name": "NO ME GUILLO v2",
-        "url": "https://open.spotify.com/album/0cYF1DJpl1oizxiRmBYuZJ"
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
       },
       "artists": [
         {
-          "name": "ANMI",
-          "url": "https://open.spotify.com/artist/0V6FSnhjLqpJpS6srrNiRg"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
         {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         },
         {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
         }
       ],
-      "duration_ms": 195109,
-      "name": "NO ME GUILLO v2",
-      "url": "https://open.spotify.com/track/0vHJupzsREkNskbkuSiwF1"
+      "duration_ms": 264996,
+      "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
+      "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "Manhattan II",
+        "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Mr. Goat",
+          "url": "https://open.spotify.com/artist/2BDwUsmUVYMAa6lMc4Bbt9"
+        }
+      ],
+      "duration_ms": 135019,
+      "name": "Manhattan II",
+      "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
+    },
+    {
+      "added_at": "2026-10-12 10:32:10",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 290372,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J"
+    },
+    {
+      "added_at": "2026-10-08 22:03:17",
+      "album": {
+        "name": "SI ME QUIERES...",
+        "url": "https://open.spotify.com/album/4HNjqlQN00QqOHl1lPgtQY"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240975,
+      "name": "SI ME QUIERES...",
+      "url": "https://open.spotify.com/track/70A0AekMvr4DdxaKa1tQE0"
     }
   ],
   "unique_name": "PEGAO",

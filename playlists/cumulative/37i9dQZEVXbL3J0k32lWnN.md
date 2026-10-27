@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,672 songs - 5 day 17 hr 40 min
+2,673 songs - 5 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1909,7 +1909,7 @@
 | [Pilot](https://open.spotify.com/track/4bdhr8csdbOX690DKsBOnH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Pilot](https://open.spotify.com/album/5MacHtaCqoCziU1bOY8bu2) | 3:00 | 2025-03-15 | 2025-04-12 |
 | [Pink Clouding](https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:10 | 2026-09-26 | 2026-09-28 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-09 |
-| [PIZZAMAN](https://open.spotify.com/track/6nzYAba8pQ9bzHKRnXDFJV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [PIZZAMAN](https://open.spotify.com/album/1dCOXSPtIE3T2aP6VoEx4i) | 2:27 | 2026-10-17 |  |
+| [PIZZAMAN](https://open.spotify.com/track/6nzYAba8pQ9bzHKRnXDFJV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [PIZZAMAN](https://open.spotify.com/album/1dCOXSPtIE3T2aP6VoEx4i) | 2:27 | 2026-10-17 | 2026-10-27 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-04 | 2023-04-11 |
 | [Please Don't Lie](https://open.spotify.com/track/73niCPzZkDLz33Ei7ji243) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [Juvenile](https://open.spotify.com/album/0F6Y6ZoJH2KO4NxRbpDVtR) | 3:32 | 2022-12-03 | 2022-12-05 |
 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 | 2025-04-01 | 2025-04-05 |
@@ -2090,6 +2090,7 @@
 | [Shotcaller](https://open.spotify.com/track/2YHgFe9HuZNqMs0cKJyxud) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Shotcaller](https://open.spotify.com/album/2xh8DTEelql6zHP8s5B9i4) | 2:18 | 2021-05-30 | 2021-05-31 |
 | [Shotsrør](https://open.spotify.com/track/2UiKnIzkVAmIu74sn7clwY) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [Ancient Aliens](https://open.spotify.com/album/28IluAyMTOOBzrMs8NKTUl) | 2:05 | 2023-09-18 | 2023-09-23 |
 | [Shotsrør](https://open.spotify.com/track/5LCIM1wMk7gXkluiXJ1GPA) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [Shotsrør](https://open.spotify.com/album/3pgAyZB9pvT4YLNTsxqh0c) | 2:05 | 2023-09-02 | 2023-09-18 |
+| [Shotta's.](https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo) | [Season 25](https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat) | [Shotta's.](https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p) | 2:22 | 2026-10-26 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-27 | 2025-06-10 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-09 | 2023-11-26 |
 | [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Siden Sidst \(feat\. Thor Farlov\)](https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd) | 2:33 | 2026-07-18 | 2026-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,317 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,319 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [Back in 92](https://open.spotify.com/track/606KWoW6dLcUGHDX5leaVa) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:09 |
 | 50 | [She Gave Us the Song](https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL) | [We're Still Here](https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU) | 3:20 |
 
-Snapshot ID: `atv1AAAAAAArZ3nwBC0yn4JkJKTUKdE6`
+Snapshot ID: `at1GgAAAAACphmnjQ0xc/KKP2Ah8zYev`

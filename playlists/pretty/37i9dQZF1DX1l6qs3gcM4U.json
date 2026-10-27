@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Garry",
-  "num_followers": 252315,
+  "num_followers": 252347,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
-      },
-      "artists": [
-        {
-          "name": "Gasso Franco",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "O Jeito Dela - Radio Edit",
-      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
         "name": "Nha Mos",
         "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 196923,
       "name": "Nha Mos",
       "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso Franco",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "duration_ms": 216127,
+      "name": "O Jeito Dela - Radio Edit",
+      "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
+      },
+      "artists": [
+        {
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
         "name": "Onde Est\u00e1 Meu Amor?",
         "url": "https://open.spotify.com/album/6uLQTjv1VqZZEknzLf1Krp"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 206000,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/2uPQRgyUinD2Db4BJnbg42"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
-      },
-      "artists": [
-        {
-          "name": "Avanah",
-          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "M\u00e3e Grande",
-        "url": "https://open.spotify.com/album/1F9XoQNIkkotXxdAqDqjaJ"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 175722,
-      "name": "M\u00e3e Grande",
-      "url": "https://open.spotify.com/track/7D6ebuyPIjenfZLIy3VQIo"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
         "name": "BATOTA",
         "url": "https://open.spotify.com/album/3lvCADbf6qOq34TllBbG6L"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 232340,
       "name": "BATOTA",
       "url": "https://open.spotify.com/track/5JB2CNifWQV75f0RlWLmXI"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
+        "name": "M\u00e3e Grande",
+        "url": "https://open.spotify.com/album/1F9XoQNIkkotXxdAqDqjaJ"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 175722,
+      "name": "M\u00e3e Grande",
+      "url": "https://open.spotify.com/track/7D6ebuyPIjenfZLIy3VQIo"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/3JeqH1j7VffeMz6XmQ5YlN"
-      },
-      "artists": [
-        {
-          "name": "Ricky Boy",
-          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 173877,
-      "name": "Djan Reforma",
-      "url": "https://open.spotify.com/track/5mYj4hLB81UL0iUehhWr5Z"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
         "name": "CICLOS",
         "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
       },
@@ -1463,18 +1443,22 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "BTLV",
-        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
+        "name": "6",
+        "url": "https://open.spotify.com/album/3JeqH1j7VffeMz6XmQ5YlN"
       },
       "artists": [
         {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+          "name": "Ricky Boy",
+          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 163426,
-      "name": "Limbisa - Kriolu Version",
-      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
+      "duration_ms": 173877,
+      "name": "Djan Reforma",
+      "url": "https://open.spotify.com/track/5mYj4hLB81UL0iUehhWr5Z"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
+        "name": "BTLV",
+        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Limbisa - Kriolu Version",
+      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1555,46 +1555,6 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
-      },
-      "artists": [
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        },
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
-        "name": "BONITO (feat. Nelson Freitas)",
-        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "BONITO (feat. Nelson Freitas)",
-      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
       },
@@ -1619,6 +1579,46 @@
       "duration_ms": 181764,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
+        "name": "BONITO (feat. Nelson Freitas)",
+        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "BONITO (feat. Nelson Freitas)",
+      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
+      },
+      "artists": [
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "Sabi Mo Veron",
-        "url": "https://open.spotify.com/album/01EtgdsQaYXoosAquRxG59"
+        "name": "Viver Tudo Hoje",
+        "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
       },
       "artists": [
         {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
         }
       ],
-      "duration_ms": 211714,
-      "name": "Sabi Mo Veron",
-      "url": "https://open.spotify.com/track/1lNzDQpnEFdb58QcRssYA0"
+      "duration_ms": 191080,
+      "name": "Viver Tudo Hoje",
+      "url": "https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1755,34 +1755,18 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "Viver Tudo Hoje",
-        "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
+        "name": "Sabi Mo Veron",
+        "url": "https://open.spotify.com/album/01EtgdsQaYXoosAquRxG59"
       },
       "artists": [
         {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Viver Tudo Hoje",
-      "url": "https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
-        "name": "Inveja",
-        "url": "https://open.spotify.com/album/3lfVIqbMPtJdS2bU3Vbbc3"
-      },
-      "artists": [
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Inveja",
-      "url": "https://open.spotify.com/track/0Z0mQyMYYex69RfaBoCs4L"
+      "duration_ms": 211714,
+      "name": "Sabi Mo Veron",
+      "url": "https://open.spotify.com/track/1lNzDQpnEFdb58QcRssYA0"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1799,6 +1783,22 @@
       "duration_ms": 150000,
       "name": "AROMA INSANO",
       "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
+        "name": "Inveja",
+        "url": "https://open.spotify.com/album/3lfVIqbMPtJdS2bU3Vbbc3"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Inveja",
+      "url": "https://open.spotify.com/track/0Z0mQyMYYex69RfaBoCs4L"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
-        "name": "Vida Linda",
-        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
       },
       "artists": [
         {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Halison Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
         }
       ],
-      "duration_ms": 175346,
-      "name": "Vida Linda",
-      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+      "duration_ms": 164636,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
     },
     {
       "added_at": "2026-10-22 23:00:50",
@@ -1859,6 +1855,26 @@
     {
       "added_at": "2026-10-22 23:00:50",
       "album": {
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+    },
+    {
+      "added_at": "2026-10-22 23:00:50",
+      "album": {
         "name": "Menta",
         "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 196330,
       "name": "Menta",
       "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
-    },
-    {
-      "added_at": "2026-10-22 23:00:50",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
-      },
-      "artists": [
-        {
-          "name": "Halison Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
-        }
-      ],
-      "duration_ms": 164636,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
     }
   ],
   "unique_name": "Dancing Kizomba",

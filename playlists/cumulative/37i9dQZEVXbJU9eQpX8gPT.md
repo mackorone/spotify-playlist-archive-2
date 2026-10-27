@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,188 songs - 4 day 22 hr 21 min
+2,189 songs - 4 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,7 +1056,7 @@
 | [La kiffance](https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:59 | 2021-07-04 | 2021-07-31 |
 | [La maison que je voulais](https://open.spotify.com/track/6xVRI3rGcsgi8ZCfdf90Oe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:41 | 2021-12-05 | 2021-12-06 |
 | [La Paille \(feat\. Farid Bang\)](https://open.spotify.com/track/05TZvIBb07gDxMw1PQdFhX) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:52 | 2021-03-27\* | 2021-04-30 |
-| [La Rue](https://open.spotify.com/track/1ey9SSRveY6MZDmmYOKwX8) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [La Rue](https://open.spotify.com/album/4fkYU1dQNLfMMW7LPgEOEq) | 4:14 | 2026-10-19 |  |
+| [La Rue](https://open.spotify.com/track/1ey9SSRveY6MZDmmYOKwX8) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [La Rue](https://open.spotify.com/album/4fkYU1dQNLfMMW7LPgEOEq) | 4:14 | 2026-10-19 | 2026-10-27 |
 | [La rwina](https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 4:11 | 2021-10-10 | 2022-04-03 |
 | [La Seleçao](https://open.spotify.com/track/2vd2HEhrkafOi2uveHjzzh) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Capo Dei Capi Vol\. II & III](https://open.spotify.com/album/7kJKHavjE6pFQ7koiwykFG) | 3:17 | 2021-06-18 | 2021-07-25 |
 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 | 2022-07-07 | 2023-09-24 |
@@ -1667,6 +1667,7 @@
 | [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-05-20 | 2022-06-12 |
 | [RIRI&ROCKY](https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [RIRI&ROCKY](https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh) | 2:43 | 2025-07-20 |  |
 | [RIRI&ROCKY](https://open.spotify.com/track/4KTnrjlSv9U0F0OMZpuPZV) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:43 | 2025-07-19 | 2025-07-21 |
+| [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 | 2026-10-26 |  |
 | [RITUEL](https://open.spotify.com/track/1ZedZC7UFCkUR8YmFwIqwE) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:34 | 2026-06-05 | 2026-06-11 |
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-05 | 2024-06-05 |
 | [ROCHE MAN \(feat\. GELLO 4031\)](https://open.spotify.com/track/52sf4ya8bqRTrPf44j1uEf) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:25 | 2026-06-05 | 2026-06-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Judeline",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lucho RK",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "entre CIELOS",
+        "url": "https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "angelical",
+      "url": "https://open.spotify.com/track/0jKZSiuz4qjPpTSsKXNEOj"
+    },
+    {
+      "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
       },
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 170769,
       "name": "Ayer La Vi (BPA26)",
       "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 173357,
       "name": "Bestia BB (feat. Ni\u00f1a Polaca)",
       "url": "https://open.spotify.com/track/7uFSESwNYvXhqxcaoEySVd"
@@ -2787,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "ENSALITRADOS (Una historia de TUTTO PASSA)",
+        "url": "https://open.spotify.com/album/4WzcmmpNPv0DjPKw4NeG9L"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "CARNAVALEANDO",
+      "url": "https://open.spotify.com/track/2BYau8xlbWeAI1bAxiagY3"
+    },
+    {
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
       },
@@ -2898,6 +2934,24 @@
       "duration_ms": 195001,
       "name": "Cerquita de Ti",
       "url": "https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod"
+    },
+    {
+      "album": {
+        "name": "Chamber\u00ed",
+        "url": "https://open.spotify.com/album/2QPGUoHw0KSWBD1lD8eawE"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187309,
+      "name": "Chamber\u00ed",
+      "url": "https://open.spotify.com/track/2j3TJo8Afgwm41FSheL8qG"
     },
     {
       "album": {
@@ -5057,6 +5111,28 @@
     },
     {
       "album": {
+        "name": "DOGGY",
+        "url": "https://open.spotify.com/album/4drOTvsKMnP86CsBEl0qSk"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203467,
+      "name": "DOGGY",
+      "url": "https://open.spotify.com/track/04SQN01RkI50DEXQNJUiUa"
+    },
+    {
+      "album": {
         "name": "WET DREAMS",
         "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
       },
@@ -6920,7 +6996,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 222400,
       "name": "Eterno aterrizaje",
       "url": "https://open.spotify.com/track/6Rn5RH9UK1Vcg0b3wKAdGQ"
@@ -7156,6 +7232,24 @@
       "duration_ms": 122602,
       "name": "Flechazo",
       "url": "https://open.spotify.com/track/3Y0bm2psmsSji70OYz1EWm"
+    },
+    {
+      "album": {
+        "name": "Flor de canela",
+        "url": "https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229280,
+      "name": "Flor de canela",
+      "url": "https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG"
     },
     {
       "album": {
@@ -7487,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "Gaslighting",
+        "url": "https://open.spotify.com/album/5ot4FGAdV9DHICBkB6xyDb"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166583,
+      "name": "Gaslighting",
+      "url": "https://open.spotify.com/track/6CuNN2JhyX4beuBuVOV31h"
+    },
+    {
+      "album": {
         "name": "fill de la mar (2026)",
         "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
       },
@@ -7574,7 +7686,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 188097,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/4dDCoRNN2wz0PeEFLb7xfb"
@@ -8698,7 +8810,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 155454,
       "name": "la del proceso",
       "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
@@ -14158,7 +14270,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 155974,
       "name": "Pero qu\u00e9 guapa",
       "url": "https://open.spotify.com/track/0qlx8zozyv3iV1x7Bq458W"

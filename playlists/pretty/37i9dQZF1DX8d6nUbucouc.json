@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 67853,
+  "num_followers": 67863,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Bliksemschicht",
+        "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
+      },
+      "artists": [
+        {
+          "name": "Zwart Licht",
+          "url": "https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ"
+        }
+      ],
+      "duration_ms": 259240,
+      "name": "Vanaf Nu/Rauwe Hop",
+      "url": "https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Artikel 140",
         "url": "https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 272773,
       "name": "Wil je weten hoe et voelt",
       "url": "https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Bliksemschicht",
-        "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
-      },
-      "artists": [
-        {
-          "name": "Zwart Licht",
-          "url": "https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ"
-        }
-      ],
-      "duration_ms": 259240,
-      "name": "Vanaf Nu/Rauwe Hop",
-      "url": "https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Professioneel Chillen",
+        "url": "https://open.spotify.com/album/0b8uErqyyk7vY1KgtX3Veg"
+      },
+      "artists": [
+        {
+          "name": "D.A.C.",
+          "url": "https://open.spotify.com/artist/50NcB2kii1VKEbtZcHg0q1"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "Doorhalen",
+      "url": "https://open.spotify.com/track/4KxNh4U7UFEIzmzwvpZxUe"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Mystery Repeats",
         "url": "https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 260213,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/5qJJKhaHibXUk4XsdyPHuL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Professioneel Chillen",
-        "url": "https://open.spotify.com/album/0b8uErqyyk7vY1KgtX3Veg"
-      },
-      "artists": [
-        {
-          "name": "D.A.C.",
-          "url": "https://open.spotify.com/artist/50NcB2kii1VKEbtZcHg0q1"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "Doorhalen",
-      "url": "https://open.spotify.com/track/4KxNh4U7UFEIzmzwvpZxUe"
     },
     {
       "added_at": "2024-09-09 11:56:35",

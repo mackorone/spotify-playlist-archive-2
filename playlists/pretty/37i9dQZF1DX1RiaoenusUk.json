@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35590,
+  "num_followers": 35599,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 222334,
-      "name": "1000 D\u00edas",
-      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Lev\u00e1ntate y Anda",
         "url": "https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 188730,
       "name": "Lev\u00e1ntate y Anda",
       "url": "https://open.spotify.com/track/4s5x65KhC8IATvwQtTaXbR"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 222334,
+      "name": "1000 D\u00edas",
+      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 212867,
-      "name": "Negra Monamour",
-      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Angelitos",
         "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 143157,
       "name": "Angelitos",
       "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 212867,
+      "name": "Negra Monamour",
+      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 223038,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
+      },
+      "artists": [
+        {
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 203056,
       "name": "Nada Ser\u00eda Igual",
       "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
         "name": "No la Ves",
         "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Super 8",
         "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 270706,
       "name": "Traffic (Groovin' de bondi)",
       "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+      },
+      "artists": [
+        {
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+        }
+      ],
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1531,22 +1547,6 @@
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 161379,
       "name": "Sujeto a Espacio",
       "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-10-23 03:00:47",

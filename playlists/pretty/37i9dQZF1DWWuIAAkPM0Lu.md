@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag! Ny musik fra de største artister som støtter KNÆK CANCER ❤️‍🩹 Alle Kender Nogen ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,586 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,592 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

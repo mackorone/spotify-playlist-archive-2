@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Sycco
 
-795 songs - 1 day 20 hr 30 min
+796 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 | 2024-06-06 | 2024-09-07 |
 | [24/7](https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [24/7](https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3) | 2:30 | 2024-05-31 | 2025-09-05 |
 | [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 | 2026-10-01 | 2026-10-09 |
+| [365](https://open.spotify.com/track/7qbJdTx6PSuNndxlu2bWUH) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [365](https://open.spotify.com/album/0nbVtORCKI8xV9FgWiK6YG) | 2:20 | 2026-10-22 |  |
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-07-24 | 2025-08-01 |
 | [45](https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [45](https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE) | 3:17 | 2025-12-11 | 2026-03-17 |
 | [765](https://open.spotify.com/track/5czqG0q26Fy6n2dx2bNbRk) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx) | [765](https://open.spotify.com/album/4CxqPxhQpDtxxJo97u7aXE) | 2:34 | 2026-08-14 | 2026-08-21 |
@@ -277,7 +278,7 @@
 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 | 2024-05-31 | 2024-07-14 |
 | [Good Girl](https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Good Girl](https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd) | 3:52 | 2024-08-30 | 2025-02-07 |
 | [Good Morning Angels](https://open.spotify.com/track/7nYtsGxrvBZSkqopZWCcbk) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Good Morning Angels](https://open.spotify.com/album/5dAEOyJCKVoMXfjPCRq7xy) | 2:23 | 2026-04-02 | 2026-06-10 |
-| [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-24 |  |
+| [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-24 | 2026-10-27 |
 | [Got Them](https://open.spotify.com/track/3GLV0BMXvc9S1yQsnnplm0) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Got Them](https://open.spotify.com/album/4lflircZajubqPESbeqEvJ) | 3:28 | 2025-06-12 | 2025-06-20 |
 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-05-15 | 2025-07-13 |
 | [Growing Pains](https://open.spotify.com/track/3D87GX5fjm6vhs3Mi6NUV4) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Growing Pains](https://open.spotify.com/album/3oLeu179N3E3sdbFUDvbP2) | 2:13 | 2026-02-05 | 2026-02-13 |

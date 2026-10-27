@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-1,025 songs - 2 day 4 hr 33 min
+1,026 songs - 2 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |
 | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/track/5f2pD2WaRRe1rmsyzQDcpl) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/album/6aq5eEl7b51s5OUYV8ve6b) | 3:43 | 2023-05-04 | 2023-09-29 |
 | [Feedback](https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Little Us](https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4) | 3:04 | 2026-07-10 | 2026-07-24 |
+| [Feel My Love \(feat\. MAJIC\)](https://open.spotify.com/track/0b5HPucjqCC7R9J1QzfaSO) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [MAJIC](https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB) | [Feel My Love](https://open.spotify.com/album/7utMwG37UMHPARIWE9azq1) | 4:05 | 2026-10-23 |  |
 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-27 | 2025-09-05 |
 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 | 2023-09-29 | 2024-06-28 |
 | [Feels Good \- A COLORS SHOW](https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Feels Good \- A COLORS SHOW](https://open.spotify.com/album/1cwSgENMx2F7DOJgVANJ6o) | 2:27 | 2024-03-15 | 2024-10-19 |
@@ -815,7 +816,7 @@
 | [Slow Down \- with Future, Fridayy & Mariah the Scientist](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 | 2024-08-02 | 2025-03-07 |
 | [Smoke & Mirrors](https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Becoming Adomaa](https://open.spotify.com/album/5FDB8xeWw2e1Av5yiKOX4D) | 3:27 | 2022-11-18 | 2023-01-20 |
 | [So Dizzy So High](https://open.spotify.com/track/4iLm65EXAB13FG1fp8JSS3) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [jamie.](https://open.spotify.com/artist/4z9CjI5S486NxVYEf1H4Qz) | [So Dizzy So High](https://open.spotify.com/album/4UDf0aIXNVUHEgAw6ECpXj) | 3:06 | 2023-05-04 | 2023-05-27 |
-| [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-06-27 |  |
+| [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-06-27 | 2026-10-27 |
 | [So So Bad](https://open.spotify.com/track/3qTDPMjG9CoyQEaxIPISg2) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [So So Bad](https://open.spotify.com/album/1dnglGb52CUqIgQhI0gOX2) | 2:43 | 2026-02-06 | 2026-06-19 |
 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-02 | 2023-08-11 |
 | [Sober](https://open.spotify.com/track/2HhiRTcthQdlrKvYBcnVQ0) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sober](https://open.spotify.com/album/4G6vqNIAXxDABfUqwHkOu6) | 3:05 | 2023-05-26 | 2023-07-29 |

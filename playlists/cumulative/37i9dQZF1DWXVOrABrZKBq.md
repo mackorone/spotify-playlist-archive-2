@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Heuss L'enfoiré, PLK
 
-818 songs - 1 day 15 hr 12 min
+819 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Hood](https://open.spotify.com/track/4C5lhCIgxjfRAChtMdXXeC) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [ZZ](https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e) | [Hood](https://open.spotify.com/album/1QBGlcyJDKL0sDFBVJyPQz) | 2:17 | 2026-07-03 | 2026-08-15 |
 | [Hood Story](https://open.spotify.com/track/7pmj85039yWq8bf7nWyOw3) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Hood Story](https://open.spotify.com/album/7ADpWDMaxTfxZFWS6U2KU3) | 2:28 | 2025-02-14 | 2025-10-18 |
 | [Houdini](https://open.spotify.com/track/36eROynYI50GOFz71eNi4f) | [Meeko](https://open.spotify.com/artist/6mWepPXB2Ot85jKcT2843H), [Dyna+](https://open.spotify.com/artist/3jkLaZMtrAAnp0RYaLbIv8) | [Houdini](https://open.spotify.com/album/3AXFK5ZddA3CSPHTMQMqT3) | 2:37 | 2026-10-23 |  |
-| [How Much](https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [How Much](https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF) | 2:29 | 2026-08-28 |  |
+| [How Much](https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [How Much](https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF) | 2:29 | 2026-08-28 | 2026-10-27 |
 | [Huracan](https://open.spotify.com/track/6QRy8EXr1ZzPQNRXlAm4TH) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [BYAKUGAN](https://open.spotify.com/album/6HQt23uDVxzyucxDtqRSKI) | 4:08 | 2026-06-12 |  |
 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 | 2025-11-28 | 2026-02-14 |
 | [Hélas](https://open.spotify.com/track/1sgMttYr6QVzahlCm6wfSR) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Hélas](https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk) | 3:01 | 2025-02-14 | 2025-10-18 |
@@ -748,6 +748,7 @@
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-19 | 2025-02-15 |
 | [TENTATION](https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [The cat](https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7) | 2:36 | 2026-05-22 | 2026-09-26 |
 | [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 | 2024-09-13 | 2025-06-28 |
+| [Tequila Shot](https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [BLESSED](https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat) | 2:09 | 2026-10-23 |  |
 | [TERIYAKI \- Nouvelle École](https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A) | [Typhee](https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Typhee \| Nouvelle École \| Saison 5 \(Série Netflix\)](https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq) | 2:54 | 2026-09-11 |  |
 | [TEXAS](https://open.spotify.com/track/7hjHU0GRqqftxx1ZGToU8l) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [2pit](https://open.spotify.com/artist/4ABvoRQawR54La8tnXAD4T) | [TEXAS](https://open.spotify.com/album/0BL96t8HPKgy0wrgTVZajW) | 2:14 | 2025-12-05 | 2026-02-21 |
 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 | 2023-10-27 | 2023-12-09 |

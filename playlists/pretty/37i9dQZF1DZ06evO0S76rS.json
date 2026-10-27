@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 167335,
+  "num_followers": 167366,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAA+9shKVDUBX823Uftv+kAt",
+  "snapshot_id": "at1GgAAAAADDcX3EKD54GobgstA+ANBz",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Prueba De Fuego",
-        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+        "name": "Huellas Del Pasado",
+        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 282066,
-      "name": "A Prueba De Fuego",
-      "url": "https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg"
+      "duration_ms": 306893,
+      "name": "Es Mejor No Despertar",
+      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huellas Del Pasado",
-        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 306893,
-      "name": "Es Mejor No Despertar",
-      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
+      "duration_ms": 282066,
+      "name": "A Prueba De Fuego",
+      "url": "https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg"
     },
     {
       "added_at": null,

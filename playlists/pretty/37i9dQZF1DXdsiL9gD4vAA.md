@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,269 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,295 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 65 | [Samandar](https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 5:39 |
 | 66 | [Wo Baat Kahan](https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Wo Baat Kahan](https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS) | 4:57 |
 | 67 | [Hamara Dil](https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Hamara Dil](https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q) | 5:15 |
-| 68 | [Dil Ko Kya Ho Gaya](https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf) | [Dil Ko Kya Ho Gaya](https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ) | 5:20 |
-| 69 | [Muddat Hui Hai](https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Muddat Hui Hai](https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd) | 6:56 |
+| 68 | [Muddat Hui Hai](https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Muddat Hui Hai](https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd) | 6:56 |
+| 69 | [Dil Ko Kya Ho Gaya](https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf) | [Dil Ko Kya Ho Gaya](https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ) | 5:20 |
 | 70 | [Kya Batayein](https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG) | [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Kya Batayein](https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht) | 4:20 |
 | 71 | [Phir Hui Shaam](https://open.spotify.com/track/21clDdrxC1f0PKvOh1A5Zi) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Haider Amaan Haider](https://open.spotify.com/artist/2gtLKmLMW4N7cZXk6FM70e) | [Ghazal Ho Gayi](https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i) | 3:40 |
 | 72 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
 | 73 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
-| 74 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
-| 75 | [Vo Haseen Raat](https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sarrika Singh](https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7) | [Vo Haseen Raat](https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v) | 4:06 |
+| 74 | [Aah Ko Chahiye](https://open.spotify.com/track/4GWVdmrprAtM8bXSIkgY8C) | [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q), [Shujaat Khan](https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0) | [Aah Ko Chahiye](https://open.spotify.com/album/3dhmWJWqkjSSkYXjwvgLGy) | 6:04 |
+| 75 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
 
 Snapshot ID: `AAAAAOz6lGW01o82sSJ8HAVABGNXLcSV`

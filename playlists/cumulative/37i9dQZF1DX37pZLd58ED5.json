@@ -7337,6 +7337,32 @@
     },
     {
       "album": {
+        "name": "LA TAVOLA DELL'UMORE",
+        "url": "https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra"
+      },
+      "artists": [
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        },
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156137,
+      "name": "STARE BENE",
+      "url": "https://open.spotify.com/track/00tJHfshl9hn6SdrdCvSdH"
+    },
+    {
+      "album": {
         "name": "STATI D'ANIMO",
         "url": "https://open.spotify.com/album/1B6AdxZ6xbLjnCaUwUN8oT"
       },

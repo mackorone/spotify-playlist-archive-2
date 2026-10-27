@@ -5767,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/25OFRtP1Pg8rB1UsStSnb1"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Young",
+          "url": "https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158770,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/2C9APnMqeVPtMAzugwg54h"
+    },
+    {
+      "album": {
         "name": "Hold Me Tonight (Reimagined)",
         "url": "https://open.spotify.com/album/54Ic7iblazBlThnH6LXrkV"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Pihlaja, Dw, Bee..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,986 likes - 96 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,983 likes - 96 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

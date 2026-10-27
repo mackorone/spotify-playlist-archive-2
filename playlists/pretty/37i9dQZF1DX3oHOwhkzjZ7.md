@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oHOwhkzjZ7.md) - [plain]
 
 > New videos from your favorite rock & alternative artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

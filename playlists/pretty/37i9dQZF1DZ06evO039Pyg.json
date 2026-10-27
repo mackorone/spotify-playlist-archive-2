@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 339122,
+  "num_followers": 339146,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAACV7xQ6Jb9pJAvxpMmkvW8U",
+  "snapshot_id": "at1GgAAAAAAVVnYtcMCfMHoZ8/dg1GAa",
   "tracks": [
     {
       "added_at": null,
@@ -222,15 +222,11 @@
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 183019,
-      "name": "Can You Blame Me (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/12xVuIohhHSklxvi1ItKGA"
+      "duration_ms": 167810,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
     },
     {
       "added_at": null,
@@ -298,11 +294,15 @@
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 167810,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
+      "duration_ms": 183019,
+      "name": "Can You Blame Me (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/12xVuIohhHSklxvi1ItKGA"
     },
     {
       "added_at": null,

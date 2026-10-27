@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,996 songs - 11 day 7 hr 13 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,999 songs - 11 day 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4773,7 +4773,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4763 | [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 |
 | 4764 | [Caminos libres](https://open.spotify.com/track/66CjDz3PkY2ALbNpQPA15v) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:42 |
 | 4765 | [Holding onto little things](https://open.spotify.com/track/1hVRpRGxYzrRZnZrqEoKNd) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 3:25 |
-| 4766 | [Ways Beyond This Day](https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:58 |
+| 4766 | [Ways Beyond This Day](https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:38 |
 | 4767 | [One Eye Open](https://open.spotify.com/track/1mSskP1M7EAGSFwAICCbSO) | [Caskey](https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk) | [One Eye Open](https://open.spotify.com/album/5sagqjIIzg62dy99DVqt1z) | 3:24 |
 | 4768 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 |
 | 4769 | [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 |
@@ -5004,5 +5004,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4994 | [Mean it at all](https://open.spotify.com/track/0H4xd2FKtWYgrH7uxMBw9S) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Mean it at all](https://open.spotify.com/album/7wcubevLDln9Wi0WxasZGG) | 3:43 |
 | 4995 | [De Ronningen](https://open.spotify.com/track/7L0W9O54AlUUZYeXTrQuhS) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [LUME](https://open.spotify.com/artist/6xc8tjyFxxVYmBlp2slFuW), [Dizzy Espeche](https://open.spotify.com/artist/0nTJK9mCj9n4TljZiuAqAl) | [Rompecabezas](https://open.spotify.com/album/33hE0PlE1qdcaM767ZZ8zr) | 1:28 |
 | 4996 | [Come On California](https://open.spotify.com/track/4XYuAWnpSZs6qIV1CzCbzH) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Come On California](https://open.spotify.com/album/7AktV6uVnjl284AXdQDPYy) | 2:57 |
+| 4997 | [Sunset In My Mind](https://open.spotify.com/track/7H7DIasXCn4KnZSXFUdTms) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [Dave Shaver](https://open.spotify.com/artist/087jzzfUlxQXAXRAgbr3c4) | [Sunset In My Mind](https://open.spotify.com/album/7roKCps2zTXEyDGOICUW4a) | 4:25 |
+| 4998 | [Sigma Fortress 1 Mega Man X \- Vocal Version](https://open.spotify.com/track/6QYFN2WW5u5MDsJJ727l5Y) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Sigma Fortress 1 Mega Man X \(Vocal Version\)](https://open.spotify.com/album/5Ln0V5gIBNp71ROTXhuEXG) | 4:10 |
+| 4999 | [Única](https://open.spotify.com/track/3QkToPJWfDhqbnNwlvVgo9) | [Billie Biga](https://open.spotify.com/artist/0C1QgILnumDpTCcwKJ0xS2) | [...O De Ángel?](https://open.spotify.com/album/2yqc6lH2F5Wq9gBDd0WnYj) | 3:52 |
 
-Snapshot ID: `AAAKzCZfFhRimNHHABlXMx4sT2Z/YUuX`
+Snapshot ID: `AAAKz4e7WR2SB7yOA3P7+x7lZI9foIUD`

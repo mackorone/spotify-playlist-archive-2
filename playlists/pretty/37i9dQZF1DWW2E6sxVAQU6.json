@@ -227,22 +227,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Pugili fragili",
-        "url": "https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof"
-      },
-      "artists": [
-        {
-          "name": "Piero Pel\u00f9",
-          "url": "https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/2OCfY0uJlOFW0qpOXO9bNy"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 258893,
       "name": "Pitzinnos in sa gherra",
       "url": "https://open.spotify.com/track/3rrhZJ5RzTD7YrardXkhn4"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Pugili fragili",
+        "url": "https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof"
+      },
+      "artists": [
+        {
+          "name": "Piero Pel\u00f9",
+          "url": "https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Attentato alla musica italiana",
+        "url": "https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8"
+      },
+      "artists": [
+        {
+          "name": "Lo Stato Sociale",
+          "url": "https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM"
+        }
+      ],
+      "duration_ms": 205530,
+      "name": "Combat pop (ALBI #1)",
+      "url": "https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "Eiffel 65 (Italian Album)",
         "url": "https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "Attentato alla musica italiana",
-        "url": "https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8"
-      },
-      "artists": [
-        {
-          "name": "Lo Stato Sociale",
-          "url": "https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM"
-        }
-      ],
-      "duration_ms": 205530,
-      "name": "Combat pop (ALBI #1)",
-      "url": "https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Little Tony",
-        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
-      },
-      "artists": [
-        {
-          "name": "Little Tony",
-          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Bada Bambina",
-      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "\u00c7a Plane Pour Moi",
         "url": "https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 166666,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Little Tony",
+        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
+      },
+      "artists": [
+        {
+          "name": "Little Tony",
+          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Bada Bambina",
+      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Controra",
+        "url": "https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd"
+      },
+      "artists": [
+        {
+          "name": "Almamegretta",
+          "url": "https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Mamma Non Lo Sa",
+      "url": "https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "Italia amore mio",
         "url": "https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Controra",
-        "url": "https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd"
-      },
-      "artists": [
-        {
-          "name": "Almamegretta",
-          "url": "https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Mamma Non Lo Sa",
-      "url": "https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Aldebaran... e altre emozioni",
         "url": "https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Mai dire compilation!",
-        "url": "https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV"
-      },
-      "artists": [
-        {
-          "name": "Le Figlie del Vento",
-          "url": "https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Sugli sugli bane bane",
-      "url": "https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Fotografie",
         "url": "https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 247465,
       "name": "Cose Veloci",
       "url": "https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Mai dire compilation!",
+        "url": "https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV"
+      },
+      "artists": [
+        {
+          "name": "Le Figlie del Vento",
+          "url": "https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Sugli sugli bane bane",
+      "url": "https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6"
     },
     {
       "added_at": "2026-01-25 23:01:07",

@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 55969,
+  "num_followers": 55966,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
+      },
+      "artists": [
+        {
+          "name": "Antologie",
+          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Newborn Soul",
         "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 272874,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Time Travel",
-        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
-      },
-      "artists": [
-        {
-          "name": "Antologie",
-          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
-        }
-      ],
-      "duration_ms": 184642,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In the Far Away Distance",
-        "url": "https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS"
-      },
-      "artists": [
-        {
-          "name": "Zen Gaya",
-          "url": "https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G"
-        }
-      ],
-      "duration_ms": 176878,
-      "name": "In the Far Away Distance",
-      "url": "https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "In the Far Away Distance",
+        "url": "https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS"
+      },
+      "artists": [
+        {
+          "name": "Zen Gaya",
+          "url": "https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G"
+        }
+      ],
+      "duration_ms": 176878,
+      "name": "In the Far Away Distance",
+      "url": "https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Night Walk",
-        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "More than Close",
-        "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
-      },
-      "artists": [
-        {
-          "name": "Oneke",
-          "url": "https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg"
-        }
-      ],
-      "duration_ms": 162478,
-      "name": "More than Close",
-      "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 325400,
       "name": "The Breath Inside the Breath",
       "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "More than Close",
+        "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
+      },
+      "artists": [
+        {
+          "name": "Oneke",
+          "url": "https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg"
+        }
+      ],
+      "duration_ms": 162478,
+      "name": "More than Close",
+      "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Mental Stillness 50",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
       },
       "artists": [
         {
-          "name": "Jardim Zen",
-          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
         }
       ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -859,34 +859,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
+        "name": "Deep Mental Stillness 50",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
       },
       "artists": [
         {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+          "name": "Jardim Zen",
+          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
         }
       ],
-      "duration_ms": 106050,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
-      },
-      "artists": [
-        {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -903,6 +887,22 @@
       "duration_ms": 111277,
       "name": "Mantric Melody",
       "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 106050,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -955,6 +955,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+        "name": "Broadchurch (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
       },
       "artists": [
         {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+      "duration_ms": 263347,
+      "name": "Danny",
+      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1023,22 +1039,6 @@
       "duration_ms": 110434,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Broadchurch (Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 263347,
-      "name": "Danny",
-      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
     },
     {
-      "added_at": "2025-10-08 09:42:22",
-      "album": {
-        "name": "Gently Sleeping",
-        "url": "https://open.spotify.com/album/2zQYrecTWlgvKKoN29hp9M"
-      },
-      "artists": [
-        {
-          "name": "Soothing Oasis",
-          "url": "https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr"
-        }
-      ],
-      "duration_ms": 131259,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg"
-    },
-    {
       "added_at": "2021-06-24 10:58:44",
       "album": {
         "name": "Lover Man",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Stelliferous",
+        "url": "https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Aliz",
+          "url": "https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Stelliferous",
+      "url": "https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "unspoken",
         "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
       },
@@ -1305,20 +1305,20 @@
       "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
     },
     {
-      "added_at": "2021-06-24 10:58:44",
+      "added_at": "2025-10-08 09:42:22",
       "album": {
-        "name": "Stelliferous",
-        "url": "https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE"
+        "name": "Gently Sleeping",
+        "url": "https://open.spotify.com/album/2zQYrecTWlgvKKoN29hp9M"
       },
       "artists": [
         {
-          "name": "Szigeti Aliz",
-          "url": "https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA"
+          "name": "Soothing Oasis",
+          "url": "https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Stelliferous",
-      "url": "https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7"
+      "duration_ms": 131259,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg"
     },
     {
       "added_at": "2021-06-24 10:58:44",

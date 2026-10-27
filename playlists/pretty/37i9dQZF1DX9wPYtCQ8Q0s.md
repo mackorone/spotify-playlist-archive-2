@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,748 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,698 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 99 | [Love And Choppa](https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Love And Choppa](https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF) | 2:20 |
 | 100 | [Top Off \(feat\. JAY Z, Future & Beyoncé\)](https://open.spotify.com/track/1W6wxOOYyJyyok8fqYSZ3m) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Top Off \(feat\. JAY Z, Future & Beyoncé\)](https://open.spotify.com/album/1Decr2jtK2wL1Cov28uKhW) | 3:50 |
 
-Snapshot ID: `AAAAANeYe/Ym1h31hKiS9n23sorpc3Te`
+Snapshot ID: `AAAAABs/8o0o90I2YnUmFXGGw4RcIEyf`

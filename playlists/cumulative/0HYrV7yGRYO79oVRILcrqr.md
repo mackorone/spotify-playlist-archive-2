@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-835 songs - 2 day 4 hr 1 min
+836 songs - 2 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Hit](https://open.spotify.com/track/6D5ZchK6XrGfxxDILqd0OY) | [SrJ Is DeD](https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U) | [Flow.](https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS) | 1:51 | 2026-05-27 | 2026-06-18 |
 | [Hit On Me](https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Hit On Me](https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas) | 3:27 | 2026-08-14 |  |
 | [Hockey Game](https://open.spotify.com/track/4KXDzxPnNqpGZtj1yyz0VO) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 2:36 | 2026-05-27 | 2026-06-18 |
+| [Hold Me Close](https://open.spotify.com/track/2C9APnMqeVPtMAzugwg54h) | [Mitchell Young](https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM) | [Hold Me Close](https://open.spotify.com/album/25OFRtP1Pg8rB1UsStSnb1) | 2:38 | 2026-10-26 |  |
 | [Hold Me Tonight \(Reimagined\)](https://open.spotify.com/track/18DKuuhEux7kq1cFnZpD7U) | [Devin Guindon](https://open.spotify.com/artist/4K04mOhAsE0HjjsZ4EZ5oi), [Blade Baksi](https://open.spotify.com/artist/5XtnEFbNwNIEWviCEnCZUQ) | [Hold Me Tonight \(Reimagined\)](https://open.spotify.com/album/54Ic7iblazBlThnH6LXrkV) | 4:04 | 2026-05-31 | 2026-06-18 |
 | [Hot days](https://open.spotify.com/track/122tDYlfUB17f1Tmtk1CVI) | [Colorado means red](https://open.spotify.com/artist/6kZ2GH1n9Pt2CmWxMFJK23) | [Hot days](https://open.spotify.com/album/0XYkXd47tphOUWp4Hz8zCS) | 3:30 | 2026-07-19 | 2026-08-01 |
 | [Hotel](https://open.spotify.com/track/1MGFrDLP5HmTXC8S1o1dT4) | [FRED](https://open.spotify.com/artist/3J0w4a5nxhpvCxa1MFW2fR), [BAI](https://open.spotify.com/artist/4HS5GfG0mkjkhgQuB0kpHh) | [Hotel](https://open.spotify.com/album/6F8FxwblR3zX1i8p5M9h21) | 3:10 | 2026-05-27 | 2026-06-18 |

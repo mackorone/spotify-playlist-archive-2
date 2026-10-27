@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122361,
+  "num_followers": 122355,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV3NIpLUa4SAiJ3ijUM4Qj8AxWl5wd",
+  "snapshot_id": "AAAV3csqHhCOCnXIUgcUEuu92Q3f7p6I",
   "tracks": [
+    {
+      "added_at": "2026-10-26 14:42:25",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/62IwQOm8y6LXHWBZgqyJP4"
+      },
+      "artists": [
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "duration_ms": 193796,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/4WjLdHr2VSqlM1TqMvLxbG"
+    },
     {
       "added_at": "2026-10-23 14:27:40",
       "album": {

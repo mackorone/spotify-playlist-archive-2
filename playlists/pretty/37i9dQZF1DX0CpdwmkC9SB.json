@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 244228,
+  "num_followers": 244232,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Angel Of My Dreams",
+        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "I Should Coco (20th Anniversary Collector's Edition)",
         "url": "https://open.spotify.com/album/1MXoLMlKeGGVKdwARUuWRa"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Angel Of My Dreams",
-        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Angel Of My Dreams",
-      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "On A Mission",
-        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
-      },
-      "artists": [
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Katy on a Mission",
-      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Bon Bon",
         "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Employment",
-        "url": "https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw"
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
         }
       ],
-      "duration_ms": 217706,
-      "name": "Everyday I Love You Less And Less",
-      "url": "https://open.spotify.com/track/5dvBeCMTzUNjyWIcuykzyh"
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+        "name": "Employment",
+        "url": "https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
         }
       ],
-      "duration_ms": 222555,
-      "name": "But Not Kiss",
-      "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
+      "duration_ms": 217706,
+      "name": "Everyday I Love You Less And Less",
+      "url": "https://open.spotify.com/track/5dvBeCMTzUNjyWIcuykzyh"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1303,6 +1287,22 @@
       "duration_ms": 267826,
       "name": "1865 (96\u00ba In The Shade)",
       "url": "https://open.spotify.com/track/2Jko3yQgktaKnFcmyLv3g7"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 222555,
+      "name": "But Not Kiss",
+      "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "WHY",
-        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+        "name": "Tongues And Tails",
+        "url": "https://open.spotify.com/album/0uv0eA8q8HCfCytsAtZSch"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Sophie B. Hawkins",
+          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
         }
       ],
-      "duration_ms": 179594,
-      "name": "WHY",
-      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+      "duration_ms": 323266,
+      "name": "Damn I Wish I Was Your Lover",
+      "url": "https://open.spotify.com/track/7kmfQ2QHwGqRCxVHDv5mzo"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Tongues And Tails",
-        "url": "https://open.spotify.com/album/0uv0eA8q8HCfCytsAtZSch"
-      },
-      "artists": [
-        {
-          "name": "Sophie B. Hawkins",
-          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
-        }
-      ],
-      "duration_ms": 323266,
-      "name": "Damn I Wish I Was Your Lover",
-      "url": "https://open.spotify.com/track/7kmfQ2QHwGqRCxVHDv5mzo"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "When We On",
         "url": "https://open.spotify.com/album/6w1dknRMvZOH8IS0oYNA2p"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Can't Do Without You",
-      "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Promised Heights",
         "url": "https://open.spotify.com/album/5MgSinqOBEYk9VFrtHU2bA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 251400,
       "name": "Brothers On The Slide",
       "url": "https://open.spotify.com/track/6OKDxL7flqg9Rv7CbHaxmz"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Can't Do Without You",
+      "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Stars Of CCTV",
-        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
-      },
-      "artists": [
-        {
-          "name": "Hard-Fi",
-          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Hard to Beat",
-      "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "La Peste",
         "url": "https://open.spotify.com/album/2sd9LoUp3J8n3huPWEFWhI"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 236280,
       "name": "Mountain To Move",
       "url": "https://open.spotify.com/track/7zGyIkunvMO11FByE93lzZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Stars Of CCTV",
+        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
+      },
+      "artists": [
+        {
+          "name": "Hard-Fi",
+          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Hard to Beat",
+      "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Forever Howlong",
-        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 216757,
-      "name": "Besties",
-      "url": "https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "I Am A Bird Now",
         "url": "https://open.spotify.com/album/24Xm5zS2KvwojChzxLGdn9"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 351893,
       "name": "Fistful Of Love",
       "url": "https://open.spotify.com/track/37YJOz90ri4sjyo4uyCLXA"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/1QTA91lsVoCLeRUXRMukmg"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/3VSxz7unMI9GsJOaie9R2w"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 190784,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/1QTA91lsVoCLeRUXRMukmg"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/3VSxz7unMI9GsJOaie9R2w"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2695,18 +2695,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
+        "name": "every night was the same",
+        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
       },
       "artists": [
         {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx"
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2727,18 +2727,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "every night was the same",
-        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
       },
       "artists": [
         {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
         }
       ],
-      "duration_ms": 173329,
-      "name": "pink dress",
-      "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
+      "duration_ms": 196253,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2795,6 +2795,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "NYP2",
+        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
+      },
+      "artists": [
+        {
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 427500,
+      "name": "NYP2",
+      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Come Play the Trees",
         "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
       },
@@ -2843,22 +2859,6 @@
       "duration_ms": 442506,
       "name": "Paris - Chlo\u00e9 Caillet Remix",
       "url": "https://open.spotify.com/track/4J3XYyIJYpXVKenF566F3A"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "NYP2",
-        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
-      },
-      "artists": [
-        {
-          "name": "CAMELPHAT",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 427500,
-      "name": "NYP2",
-      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2951,22 +2951,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "Happy Idiot",
-      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -3011,6 +2995,22 @@
       "duration_ms": 201533,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "Happy Idiot",
+      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
     },
     {
       "added_at": "2025-06-27 23:00:28",

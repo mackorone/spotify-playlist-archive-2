@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-615 songs - 1 day 8 hr 40 min
+617 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [creeping up the neck 2 fast](https://open.spotify.com/track/6J4JQq30CCd4rygtxzvkoq) | [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [PAYDAY](https://open.spotify.com/album/7DBDDEEBeZimthRql76K90) | 2:53 | 2025-01-25 |  |
 | [Crimson Galaxies](https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Crimson Galaxies](https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c) | 3:22 | 2025-10-26 |  |
 | [CROSSPOIN2](https://open.spotify.com/track/645OW5CjvCvUCrcKbDb61a) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [CROSSPOIN2](https://open.spotify.com/album/1zMd8rI0tkkeQkq1kd7EBc) | 6:33 | 2025-12-20 |  |
+| [Crosswords](https://open.spotify.com/track/4Y69X0OlACHqQ3zKYi0gFd) | [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc), [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [ITS CALLED HAVING FUN AND PLAYING](https://open.spotify.com/album/4yWXWiFgocyWDKqzvKEOSo) | 2:18 | 2026-10-26 |  |
 | [crush on you](https://open.spotify.com/track/76olX1Q3j5mumCBBeUEYyD) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [friends](https://open.spotify.com/album/4ru2KsLvRuIDc8sWvnycEk) | 2:10 | 2025-08-01 |  |
 | [CUDDLY](https://open.spotify.com/track/5oZ9avBrfVtNmYQCkhGgPQ) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 1:51 | 2026-01-02 |  |
 | [cut it out](https://open.spotify.com/track/7dtLaXlmmCkuzQdXEH2tI9) | [daryl dee](https://open.spotify.com/artist/22QtRMzqI4jfkA4rrxybFY) | [talk to me burnaby](https://open.spotify.com/album/11HIqDOT2HRCVUqtRJHrgf) | 2:57 | 2024-02-09 |  |
@@ -339,6 +340,7 @@
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 | 2026-03-01 |
 | [Make It Last](https://open.spotify.com/track/4akjWFeO6vOQ8pjan1yJk6) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/0hlw0btDHxurzzHQvPnm5V) | 3:13 | 2026-08-27 |  |
 | [Make It Last](https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/3v4XbrHe4CJh3TOiEoFZkV) | 3:13 | 2024-11-18 | 2025-08-13 |
+| [Make It Real](https://open.spotify.com/track/6G3K86UZ6I9MiIp61gUazl) | [Mostly Mammals](https://open.spotify.com/artist/6PlX3THROp2sMePaNoK16W) | [Breakthrough](https://open.spotify.com/album/000wW9lL3QSGGhHAiGZBZK) | 4:12 | 2026-10-26 |  |
 | [maybe in august](https://open.spotify.com/track/5jrnIUsdFRVmSSx037aUFW) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ), [Pulaski Day](https://open.spotify.com/artist/0cjH3tvSwHec51yifCYT7n) | [maybe in august](https://open.spotify.com/album/0nUUhSQKKIadzZp3Tvn1wP) | 5:32 | 2026-08-29 |  |
 | [me when im with u](https://open.spotify.com/track/3o3NCapGD57YZfxl1ZPdbx) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [fahstine](https://open.spotify.com/artist/6AniEXMCsYiZ7FxuO77U4P) | [me when im with u](https://open.spotify.com/album/1M2TrWPuXV7LlRSZlhBTg3) | 2:14 | 2026-05-20 |  |
 | [Means For Me](https://open.spotify.com/track/6u89aNSrS1wZybJ8EE7Yr0) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Means For Me](https://open.spotify.com/album/36c6YiTV5eTKfjXnZ87Doi) | 1:44 | 2026-01-23 |  |

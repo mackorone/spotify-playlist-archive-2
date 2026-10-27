@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Cesare Cremonini, Chris Nolan, Dominik Fike, LISA, 3D e nayt, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,034 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,016 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 91 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
 | 92 | [Bad Aim](https://open.spotify.com/track/5QvDo7Q4jUaE4O8d07h4Us) | [Niis](https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X) | [Play Niis](https://open.spotify.com/album/229GwK7pxQ81okcU4phzEC) | 3:19 |
 
-Snapshot ID: `AAAAAFJHb4xFfhfbp/AHHGY+2CXVE0Y6`
+Snapshot ID: `AAAAAPhFX2q/nekLA8A0CbLvDdA6P25A`

@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Aah Ko Chahiye",
+        "url": "https://open.spotify.com/album/3dhmWJWqkjSSkYXjwvgLGy"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan",
+          "url": "https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q"
+        },
+        {
+          "name": "Shujaat Khan",
+          "url": "https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364090,
+      "name": "Aah Ko Chahiye",
+      "url": "https://open.spotify.com/track/4GWVdmrprAtM8bXSIkgY8C"
+    },
+    {
+      "album": {
         "name": "Aaina",
         "url": "https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4"
       },
@@ -4548,7 +4570,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-27",
       "duration_ms": 246836,
       "name": "Vo Haseen Raat",
       "url": "https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is MC Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,472 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,474 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Malvada](https://open.spotify.com/track/151xd29Kfa7Q1JT6LnoiMY) | [Dj Novvas](https://open.spotify.com/artist/5of4vDWRl3sfSXJ0lX28ew), [Turkin 062](https://open.spotify.com/artist/1I7U6WoXEl5tcTt2H0O35a), [Ryan](https://open.spotify.com/artist/7dEk4gbXVGtCqenZo5OVmF), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Malvada](https://open.spotify.com/album/30TJyICimJnB20TfBMMhuZ) | 1:58 |
 | 50 | [Sexo Bolado](https://open.spotify.com/track/6imVq8B1PLvb7TDYUohfRR) | [Junior Gobira](https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk), [Arrochadeira FLuxos](https://open.spotify.com/artist/1QHls0KR42PAqEpkPnCMcP), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Abril](https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi) | 2:01 |
 
-Snapshot ID: `atv1AAAAAADUlvIADMgPbIepEehVkJJO`
+Snapshot ID: `atv1AAAAAAArOkod3IdM8S/CaZE+18aF`

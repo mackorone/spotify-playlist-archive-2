@@ -1,13 +1,29 @@
 {
-  "description": "The new & hottest K-Pop is here! (Cover: LISA)",
-  "num_followers": 6129527,
+  "description": "The new & hottest K-Pop is here! (Cover: IVE)",
+  "num_followers": 6129369,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAZRn/v4uO8lOHNrCcXsSyg80XVL",
+  "snapshot_id": "AAAAAPPY2pIAUGOa8zEoayZXVJDCvP9+",
   "tracks": [
+    {
+      "added_at": "2026-10-19 09:27:36",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn"
+    },
     {
       "added_at": "2026-10-22 15:44:50",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 181790,
       "name": "Drip",
       "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
-    },
-    {
-      "added_at": "2026-10-19 09:27:36",
-      "album": {
-        "name": "Looks Can Kill",
-        "url": "https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 195559,
-      "name": "Looks Can Kill",
-      "url": "https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn"
     },
     {
       "added_at": "2026-10-19 09:06:45",
@@ -91,6 +91,22 @@
       "duration_ms": 208000,
       "name": "NEON",
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
+    },
+    {
+      "added_at": "2026-10-26 07:52:57",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2PsBwKbO7xoA02NLT6TtB8"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5jC3lBWBcVdby76sqWwqAE"
     },
     {
       "added_at": "2026-10-23 07:44:16",
@@ -823,22 +839,6 @@
       "duration_ms": 157306,
       "name": "MOTION (feat. Juicy J)",
       "url": "https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "PHASE 1 : Soft Violence",
-        "url": "https://open.spotify.com/album/00x0WXx4DSdWFst0Opd6Jz"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "FLOAT",
-      "url": "https://open.spotify.com/track/6VohXisU3ybT3INqyKCJXD"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

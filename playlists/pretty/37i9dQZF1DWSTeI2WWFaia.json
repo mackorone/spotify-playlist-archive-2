@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Busta Rhymes",
-  "num_followers": 1549601,
+  "num_followers": 1549489,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-10-23 17:39:37",
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "man at the garden",
+      "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
+    },
+    {
+      "added_at": "2026-10-23 17:39:37",
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 181599,
       "name": "PREACHER MAN",
       "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
-    },
-    {
-      "added_at": "2026-10-23 17:39:37",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "man at the garden",
-      "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
     },
     {
       "added_at": "2026-10-23 17:39:37",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-10-23 17:39:37",
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+    },
+    {
+      "added_at": "2026-10-23 17:39:37",
+      "album": {
         "name": "DILLAGENCE II",
         "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 261426,
       "name": "This Woman (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
-    },
-    {
-      "added_at": "2026-10-23 17:39:37",
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Do You Have A Destination?",
-      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
       "added_at": "2026-10-23 17:39:37",

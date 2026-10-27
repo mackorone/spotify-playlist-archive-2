@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 609707,
+  "num_followers": 609695,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2026-09-30 13:12:28",
-      "album": {
         "name": "All The Little Lights (Anniversary Edition)",
         "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 256986,
       "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
       "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
+    },
+    {
+      "added_at": "2026-09-30 13:12:28",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2026-09-30 13:12:28",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
+        "name": "Det sista jag beh\u00f6ver",
+        "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 174376,
+      "name": "Det sista jag beh\u00f6ver",
+      "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
+    },
+    {
+      "added_at": "2026-09-30 13:12:28",
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 173000,
       "name": "It's a Beautiful Dream",
       "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
-    },
-    {
-      "added_at": "2026-09-30 13:12:28",
-      "album": {
-        "name": "Samma saga",
-        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 213882,
-      "name": "Samma saga",
-      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
     },
     {
       "added_at": "2026-09-30 13:12:28",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
-        "name": "Det sista jag beh\u00f6ver",
-        "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
+        "name": "Samma saga",
+        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 174376,
-      "name": "Det sista jag beh\u00f6ver",
-      "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
+      "duration_ms": 213882,
+      "name": "Samma saga",
+      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
     },
     {
       "added_at": "2026-09-30 13:12:28",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
-        "name": "Ellen Krauss \u2013 Acoustic Versions",
-        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 168874,
-      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
-      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
-    },
-    {
-      "added_at": "2026-09-30 13:12:28",
-      "album": {
         "name": "Fotografi",
         "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+        "name": "Ellen Krauss \u2013 Acoustic Versions",
+        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
       },
       "artists": [
         {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
         }
       ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+      "duration_ms": 168874,
+      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
+      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
     },
     {
       "added_at": "2026-09-30 13:12:28",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+    },
+    {
+      "added_at": "2026-09-30 13:12:28",
+      "album": {
         "name": "L\u00e5ngsamt (Piano Version)",
         "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 193253,
       "name": "L\u00e5ngsamt - Piano Version",
       "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
-    },
-    {
-      "added_at": "2026-09-30 13:12:28",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 231907,
-      "name": "logical",
-      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
     },
     {
       "added_at": "2026-09-30 13:12:28",
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
     },
     {
       "added_at": "2026-09-30 13:12:28",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-09-30 13:12:28",
       "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2026-09-30 13:12:28",
@@ -1307,6 +1291,22 @@
       "duration_ms": 197973,
       "name": "Sarkofag",
       "url": "https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c"
+    },
+    {
+      "added_at": "2026-09-30 13:12:28",
+      "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
     },
     {
       "added_at": "2026-09-30 13:12:28",

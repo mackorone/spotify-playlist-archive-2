@@ -4,7 +4,7 @@
 
 > Les hits du moment en Algérie\. Cover: Soolking
 
-286 songs - 17 hr 6 min
+287 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Koulech Faux](https://open.spotify.com/track/5BsCr1Y8hys2MHUUb2E9FH) | [DAK](https://open.spotify.com/artist/0ijMujujEFjjkBPJcCtI9u), [Hamouda](https://open.spotify.com/artist/74LoSGpqwV0ek9WBKl7VF7) | [Tassili](https://open.spotify.com/album/6dDpPWE0us93eLPW67Wq6h) | 3:02 | 2023-08-31 | 2024-08-21 |
 | [Ktab Laghram](https://open.spotify.com/track/0DJbRxXvGgwHwQekxq8S1h) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Yasmine Ammari](https://open.spotify.com/artist/5XoRKOk0xPtJKh38ECeW0f) | [Ktab Laghram](https://open.spotify.com/album/2l2lkD65hpTCxNaYPZ6tKN) | 3:33 | 2021-12-09 | 2022-07-14 |
 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2025-05-22 |  |
-| [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 | 2024-07-18 |  |
+| [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 | 2024-07-18 | 2026-10-27 |
 | [LA FIN](https://open.spotify.com/track/3tYu6F0oRwqVq1TNMYU2Qe) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [LA FIN](https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD) | 3:06 | 2022-07-27 | 2023-08-11 |
 | [La nuit](https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:56 | 2024-01-22 | 2024-06-09 |
 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 | 2022-01-27 | 2022-07-29 |
@@ -227,6 +227,7 @@
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 | 2022-11-25 |
 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-08 | 2026-05-12 |
 | [Rosalinda](https://open.spotify.com/track/2Ck70DwcyAnqIWkE12ZOn2) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Flashy OTR](https://open.spotify.com/artist/5avjsXzLQG6PCfrzENEgak) | [Rosalinda](https://open.spotify.com/album/1i7rBPNK8CKM5M6TIBnleQ) | 3:27 | 2026-02-23 |  |
+| [Sabran](https://open.spotify.com/track/5iQPZCQR5SBP3moPvnO8S5) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sabran](https://open.spotify.com/album/3d0L7KfTJenTUiOQsrqcv4) | 3:17 | 2026-10-26 |  |
 | [SAH](https://open.spotify.com/track/1G3OTUGfbYcA5r2FgkBMZp) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [SAH](https://open.spotify.com/album/3oKii6T1E3bnh5ijB4ewqb) | 3:00 | 2023-02-06 | 2023-03-31 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2023-08-14 | 2024-08-03 |
 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 | 2025-10-05 |  |

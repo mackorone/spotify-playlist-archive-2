@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Breathing Forest",
+        "url": "https://open.spotify.com/album/6vhgZZonUkFqDaQUNirUGb"
+      },
+      "artists": [
+        {
+          "name": "Circular Motions",
+          "url": "https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Breathing Forest",
+      "url": "https://open.spotify.com/track/7KDQ3Hlr8URtAiCZNfv4eZ"
+    },
+    {
+      "album": {
         "name": "breeze",
         "url": "https://open.spotify.com/album/5mD3888H5sHSeIHm8ngWPA"
       },
@@ -2086,6 +2104,24 @@
       "duration_ms": 155500,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/1piIa7IzJTMb91y7D9mZfl"
+    },
+    {
+      "album": {
+        "name": "Evergreen Pines",
+        "url": "https://open.spotify.com/album/4IyQ7IGjgzEncydajmDHJR"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Evergreen Pines",
+      "url": "https://open.spotify.com/track/4RffdOIum50uN6uHpR1WCB"
     },
     {
       "album": {
@@ -6167,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "Skoglig",
+        "url": "https://open.spotify.com/album/4zqCzdxs5H9ZHS7iJKIBPM"
+      },
+      "artists": [
+        {
+          "name": "Jon Laer",
+          "url": "https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Skoglig",
+      "url": "https://open.spotify.com/track/4oqYFBZ1wcbdvSwWYFoJS2"
+    },
+    {
+      "album": {
         "name": "Skygazer",
         "url": "https://open.spotify.com/album/5ULiUWVen8QAD2LLHcpOQ0"
       },
@@ -6456,6 +6510,24 @@
       "duration_ms": 171483,
       "name": "Sound Of Morning",
       "url": "https://open.spotify.com/track/1Q2DZ6TvsmuZtsOvuqpLnJ"
+    },
+    {
+      "album": {
+        "name": "Sound of the Birds",
+        "url": "https://open.spotify.com/album/0LggjdYJZfkHR1R1veaorI"
+      },
+      "artists": [
+        {
+          "name": "Civian",
+          "url": "https://open.spotify.com/artist/4yaZWyVYNm5cP3GnG3tj1p"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Sound of the Birds",
+      "url": "https://open.spotify.com/track/1VWYOAkHLIomBt8R0rF3L6"
     },
     {
       "album": {
@@ -7075,6 +7147,24 @@
     },
     {
       "album": {
+        "name": "The Sea Ranch",
+        "url": "https://open.spotify.com/album/4sQfa7nWcXN8tXhXGkeqoY"
+      },
+      "artists": [
+        {
+          "name": "nightfall",
+          "url": "https://open.spotify.com/artist/2bxsey6NsNogSPVrrlFZGx"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "The Sea Ranch",
+      "url": "https://open.spotify.com/track/2WlQvwVuLEeKgGoxXNCb52"
+    },
+    {
+      "album": {
         "name": "The Soft Glow Of Dusk",
         "url": "https://open.spotify.com/album/5EPXiGpSauWzLeJQuCcntH"
       },
@@ -7616,6 +7706,24 @@
       "duration_ms": 223255,
       "name": "Up Above",
       "url": "https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54"
+    },
+    {
+      "album": {
+        "name": "Valdivian",
+        "url": "https://open.spotify.com/album/7tp7kYg6zBTzo9awqqeCi5"
+      },
+      "artists": [
+        {
+          "name": "Alojz Pavic",
+          "url": "https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Valdivian",
+      "url": "https://open.spotify.com/track/2jJSclU3SCiqfzAW4q0k2Q"
     },
     {
       "album": {

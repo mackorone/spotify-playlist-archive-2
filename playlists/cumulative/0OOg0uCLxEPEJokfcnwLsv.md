@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-689 songs - 1 day 18 hr 22 min
+693 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-12 |
 | [Aquella noche de Octubre](https://open.spotify.com/track/6sGco2VaRvibMnWPYKLxJM) | [Zian Ka'an](https://open.spotify.com/artist/3CAsPodiK0nPyiIYhkceeW) | [Aquella noche de Octubre](https://open.spotify.com/album/1BZrrJGChOtoUQb2h0jbJm) | 2:54 | 2025-11-04 | 2025-12-12 |
 | [ARE YOU BORED?](https://open.spotify.com/track/74MrNmVQMrv5fjn8Ugkhcg) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [ARE YOU BORED?](https://open.spotify.com/album/3ZhFoJsxuJSHowxyPn2TVp) | 3:33 | 2025-10-27 | 2025-11-22 |
+| [Armour Hill](https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Armour Hill](https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw) | 4:19 | 2026-10-26 |  |
 | [Artificial Intelligence](https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Artificial Intelligence](https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS) | 3:02 | 2026-05-12 | 2026-06-13 |
 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:40 | 2025-11-20 |  |
 | [Ashes in the wind](https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL) | [Ashes in the wind](https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz) | 3:07 | 2025-12-22 | 2026-01-21 |
@@ -115,6 +116,7 @@
 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 | 2026-10-22 |  |
 | [Burning both ends](https://open.spotify.com/track/7GUvC4o0t1aXFUZgAJXILD) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Burning both ends](https://open.spotify.com/album/0kHw2k5Cs1PZZXqqeFypBg) | 3:00 | 2026-03-28 | 2026-04-20 |
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-04-15 | 2026-06-13 |
+| [Butterfly](https://open.spotify.com/track/16O07dMipBszv1IXqPO3Bl) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [Butterfly](https://open.spotify.com/album/6fAmumUIB9Xcne6enUXwCD) | 4:31 | 2026-10-26 |  |
 | [c'mon automaton](https://open.spotify.com/track/5IhRVOxwJeCFxzSMqWTECf) | [paradiso PDE](https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW) | [c'mon automaton](https://open.spotify.com/album/3ELYkRNUubpuw4Gu3xCP3g) | 3:42 | 2026-07-23 | 2026-08-25 |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-01 | 2025-12-28 |
 | [Cage](https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R) | [Wave Raiders](https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn) | [Cage](https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP) | 3:23 | 2026-07-02 | 2026-08-08 |
@@ -130,6 +132,7 @@
 | [Cold](https://open.spotify.com/track/3jwVXmDi7lad4TOq4g7liD) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/5WUYMbJOzjX4vDZxPT57he) | 2:53 | 2026-05-28 | 2026-08-08 |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-04 | 2025-12-12 |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-07-30 |  |
+| [Colliding Into Space](https://open.spotify.com/track/367Pbr28bYyIGqWs93miSd) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Colliding Into Space](https://open.spotify.com/album/1lokk5aTuMMv3qwSCBsZLb) | 3:58 | 2026-10-26 |  |
 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 | 2026-09-17 | 2026-10-17 |
 | [Comes and Goes \- Live at SG Studios](https://open.spotify.com/track/1AiQKcCwiojDWrlQrAzdCo) | [T.A.C.](https://open.spotify.com/artist/0FKUSwozoJX6ErtEzlgQHT) | [Comes and Goes \(Live at SG Studios\)](https://open.spotify.com/album/1Bccygv8GElrilUCXVpMKa) | 3:59 | 2025-11-07 | 2025-12-12 |
 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 | 2025-12-28 |
@@ -271,6 +274,7 @@
 | [Hold Me Close](https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:56 | 2026-06-15 | 2026-08-08 |
 | [Hold On](https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Hold On](https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj) | 2:38 | 2026-02-09 | 2026-03-04 |
 | [Hold On](https://open.spotify.com/track/1HSmYf0HuCsL2pwxvfFMsT) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Hold On](https://open.spotify.com/album/6ahhFqtnECetFvpPD1J2E5) | 2:30 | 2026-09-02 | 2026-10-11 |
+| [Hole In The Page](https://open.spotify.com/track/0YnttbLpSAZxLWF0TqYZw0) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 3:06 | 2026-10-26 |  |
 | [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 | 2026-03-22 | 2026-04-20 |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-23 |
 | [Hunt Me Down](https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq) | [Forestt Light](https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35) | [Hunt Me Down](https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh) | 3:57 | 2026-04-11 | 2026-05-08 |

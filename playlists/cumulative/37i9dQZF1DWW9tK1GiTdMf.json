@@ -20489,6 +20489,24 @@
     },
     {
       "album": {
+        "name": "Nascondino",
+        "url": "https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Nascondino",
+      "url": "https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq"
+    },
+    {
+      "album": {
         "name": "Nato Nel Posto Sbagliato (dal film \"Tutta colpa del rock\")",
         "url": "https://open.spotify.com/album/5g3yxYSHbeI2VeFKYdM7WJ"
       },

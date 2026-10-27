@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,492 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,522 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [The Call](https://open.spotify.com/track/2bj9MqdPoKA9dDyei6sCGL) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Louis Leibfried](https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [The Call](https://open.spotify.com/album/4x9k7voA2f4djwKMWtzRL5) | 3:42 |
 | 50 | [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1VcFPlHTGkUuKv7emjBNVp) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/0g1gjMqa230nBKXvHvPPR3) | 3:20 |
 
-Snapshot ID: `atqjgAAAAABLllEcpql0TunaCr5kLOEv`
+Snapshot ID: `atv1AAAAAADA/1J9QGBJpdLnS5bgVIMn`
